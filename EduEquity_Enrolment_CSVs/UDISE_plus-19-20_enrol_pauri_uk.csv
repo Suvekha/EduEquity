@@ -1,0 +1,797 @@
+ac_year,st_code,state_name,dt_code,district_name,block_cd,udise_block_name,loc_name,sch_category_id,tr_cat_name,school_category,sch_mgmt_id,sch_mgmt_name,caste_id,caste_name,pre_primary_boy,pre_primary_girl,class1_boy,class2_boy,class3_boy,class4_boy,class5_boy,class6_boy,class7_boy,class8_boy,class9_boy,class10_boy,class11_boy,class12_boy,class1_girl,class2_girl,class3_girl,class4_girl,class5_girl,class6_girl,class7_girl,class8_girl,class9_girl,class10_girl,class11_girl,class12_girl
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,2,cat2,UPS (I-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,2,cat2,UPS (I-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,2,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,1,0,1,3,0,3,3,3,0,1,0,0,0,0,4,1,1,0,1,0,0,1,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,2,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,34,34,12,16,18,11,14,18,16,10,0,0,0,0,12,10,16,8,9,8,8,10,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,16,17,10,9,9,8,11,9,0,0,0,0,3,2,3,3,3,3,1,1,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,13,17,7,12,12,16,10,4,0,0,0,0,14,18,10,13,6,5,14,1,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,7,cat7,SS (VI-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,26,13,4,4,2,4,2,0,0,3,0,0,0,0,3,6,1,2,2,0,2,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,34,28,17,0,0,0,0,0,0,0,0,0,24,19,16,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50610,RIKHANIKHAL,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,2,6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,1,2,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Urban,3,cat3,HSS (I-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,4,5,3,9
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,0,0,16,15,19,18,30,43,35,39,34,38,41,34,18,10,13,16,24,28,33,31,26,17,24,26
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,794,630,423,446,457,524,540,569,534,569,722,626,649,673,341,365,354,396,423,450,475,456,480,537,524,483
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,0,0,7,4,9,8,6,11,12,22,24,16,20,15,1,9,2,6,4,10,11,10,7,13,9,5
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,214,196,105,117,112,125,103,121,119,121,144,133,97,82,78,88,88,95,107,101,92,104,88,129,66,75
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,162,120,92,82,100,111,103,100,104,99,114,89,103,124,68,81,76,65,80,85,84,87,81,64,63,67
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,140,142,63,87,67,79,75,75,86,72,97,73,94,73,62,62,73,69,58,63,67,54,79,63,71,51
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,3,cat3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,1,General,0,0,21,27,47,68,48,39,38,46,38,35,19,20,17,15,15,4,19,17,20,21,16,12,12,8
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,3,cat3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,1,General,0,0,12,17,13,16,14,17,18,22,24,13,22,15,15,10,17,15,19,12,12,11,26,12,13,12
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Urban,3,cat3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,1,General,0,0,5,5,10,8,18,38,41,40,42,27,40,21,4,7,7,9,11,19,18,17,17,14,12,22
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,10,cat10,HSS (IX-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,3,11,6,4,0,0,0,0,0,0,0,0,7,11,6,3
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,10,cat10,HSS (IX-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,25,15,28,16,0,0,0,0,0,0,0,0,36,18,23,19
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,10,cat10,HSS (IX-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,2,4,4,3,0,0,0,0,0,0,0,0,4,3,2,3
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,17,12,15,9,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,78,74,67,70,0,0,0,0,0,0,0,0,74,51,55,65
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,5,9,6,5,0,0,0,0,0,0,0,0,6,5,7,10
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,21,32,22,53,76,61,72,0,0,0,0,0,42,25,33,50,65,52,77
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,22,30,30,45,58,67,68,0,0,0,0,0,23,24,25,41,49,57,83
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,45,51,60,196,230,183,195,0,0,0,0,0,51,55,62,157,175,206,197
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,38,38,39,56,126,112,105,0,0,0,0,0,20,43,27,63,82,81,95
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,24,38,21,46,75,52,72,0,0,0,0,0,32,39,20,42,53,76,84
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,41,42,49,71,84,71,79,0,0,0,0,0,34,50,54,84,81,99,100
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,15,11,20,46,51,68,38,0,0,0,0,0,6,15,19,51,36,52,38
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,52,57,66,134,134,178,165,0,0,0,0,0,81,71,76,159,179,191,258
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,46,49,59,126,153,156,174,0,0,0,0,0,49,55,56,98,146,144,142
+2019-20,5,Uttarakhand,506,PAURI,50610,RIKHANIKHAL,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,37,39,55,92,98,154,152,0,0,0,0,0,32,35,49,80,95,130,146
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,74,62,56,124,146,135,152,0,0,0,0,0,51,64,83,119,145,129,152
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,39,60,64,81,83,105,129,0,0,0,0,0,41,41,38,75,89,100,107
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,38,61,56,76,107,107,100,0,0,0,0,0,54,52,56,88,103,117,111
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,215,258,210,389,503,457,536,0,0,0,0,0,207,242,233,444,511,498,557
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,43,47,46,127,129,135,168,0,0,0,0,0,38,52,48,91,124,159,158
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,7,6,10,24,30,27,43,0,0,0,0,0,13,13,11,30,48,35,41
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,1,0,6,12,48,59,0,0,0,0,0,13,11,8,25,26,69,71
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Urban,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,4,2,1,1,1,3,0,0,0,0,0,0,1,1,2,5,0,6
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,27,31,34,74,78,73,97,0,0,0,0,0,50,46,41,98,62,85,113
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,5,12,13,28,26,34,44,0,0,0,0,0,3,2,3,7,11,30,39
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,3,3,3,11,10,10,6,0,0,0,0,0,8,4,6,10,16,4,15
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,15,8,8,16,20,7,13,0,0,0,0,0,6,4,5,15,22,15,33
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,5,8,7,14,17,11,15,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,5,13,14,15,36,35,41,0,0,0,0,0,9,9,9,24,20,36,26
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,34,42,39,62,77,80,102,0,0,0,0,0,22,34,29,53,59,74,85
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,23,30,20,60,51,65,101,0,0,0,0,0,25,23,31,58,63,77,88
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,15,31,28,65,68,62,73,0,0,0,0,0,20,14,24,40,47,49,68
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,25,40,46,74,82,80,88,0,0,0,0,0,25,31,39,67,101,118,122
+2019-20,5,Uttarakhand,506,PAURI,50610,RIKHANIKHAL,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,9,10,14,15,12,29,25,0,0,0,0,0,11,10,9,21,22,29,21
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,28,43,39,58,86,84,82,0,0,0,0,0,40,27,43,63,79,65,113
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,3,2,7,16,17,33,0,0,0,0,0,4,2,2,15,18,13,17
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,42,33,47,70,74,111,114,0,0,0,0,0,14,44,33,72,97,120,116
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,7,5,6,10,18,7,18,0,0,0,0,0,7,6,5,12,16,12,21
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,10,11,10,19,20,22,24,0,0,0,0,0,11,9,12,25,22,22,30
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,6,4,17,22,37,13,30,0,0,0,0,0,5,5,2,8,15,8,6
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,17,18,10,16,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Urban,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,1,2,2,2,6,5,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,26,14,28,48,22,31
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,17,19,36,40,49,94,99,0,0,0,0,0,10,11,19,32,33,39,50
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,1,2,1,7,0,13,47,0,0,0,0,0,1,1,1,0,0,2,5
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,17,28,21,40,35,38,26,0,0,0,0,0,15,14,13,24,34,27,22
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,16,14,15,16,18,17,12,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,1,1,2,3,6,0,0,0,0,0,0,0,0,0,0,2,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,3,6,13,10,9,7,13,0,0,0,0,0,10,7,6,3,11,10,4
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,6,1,1,29,24,23,18,0,0,0,0,0,1,1,1,14,11,15,12
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,5,cat5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,1,General,0,0,0,0,0,0,0,31,24,34,35,21,17,23,0,0,0,0,0,19,18,17,21,8,11,4
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,31,40,50,47,45,0,0,0,0,0,0,0,34,48,41,49,65,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,33,32,42,41,29,0,0,0,0,0,0,0,29,31,36,34,47,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,67,72,92,86,113,0,0,0,0,0,0,0,82,95,87,100,132,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,21,35,33,38,51,0,0,0,0,0,0,0,36,35,42,38,47,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,28,31,31,57,50,0,0,0,0,0,0,0,25,39,40,33,56,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,54,48,45,58,66,0,0,0,0,0,0,0,48,48,66,53,63,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,25,35,40,46,59,0,0,0,0,0,0,0,48,33,30,35,51,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,115,109,104,131,121,0,0,0,0,0,0,0,99,112,101,129,131,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,108,122,129,146,168,0,0,0,0,0,0,0,121,117,125,151,162,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50610,RIKHANIKHAL,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,60,82,76,66,92,0,0,0,0,0,0,0,59,63,79,76,93,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,111,110,117,140,136,0,0,0,0,0,0,0,99,114,121,133,146,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,55,58,47,60,58,0,0,0,0,0,0,0,38,47,48,55,54,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,83,105,105,108,101,0,0,0,0,0,0,0,98,116,106,103,112,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,296,277,307,319,311,0,0,0,0,0,0,0,328,304,325,366,367,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,50,77,86,84,81,0,0,0,0,0,0,0,57,60,74,66,94,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,8,9,11,11,11,0,0,0,0,0,0,0,11,5,7,12,6,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,4,2,1,4,4,0,0,0,0,0,0,0,1,1,4,2,2,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,57,64,52,47,45,0,0,0,0,0,0,0,48,69,62,65,52,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,1,cat1,PS (I-V),2,Tribal Welfare Department,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,1,cat1,PS (I-V),2,Tribal Welfare Department,1,General,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,1,cat1,PS (I-V),3,Local body,1,General,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,4,2,0,1,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,1,cat1,PS (I-V),4,Government Aided,1,General,0,0,1,1,0,1,2,0,0,0,0,0,0,0,2,1,1,0,1,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,21,19,17,13,8,4,6,0,0,0,0,0,0,0,8,6,4,4,5,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,123,88,54,37,50,38,50,0,0,0,0,0,0,0,23,37,41,45,38,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,8,12,38,35,34,19,19,0,0,0,0,0,0,0,38,26,28,30,20,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,36,24,19,15,17,24,21,0,0,0,0,0,0,0,10,12,16,23,14,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,39,29,22,18,21,22,15,0,0,0,0,0,0,0,17,21,23,11,18,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,22,13,20,19,14,0,0,0,0,0,0,0,21,14,26,16,23,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,263,228,121,83,85,74,61,0,0,0,0,0,0,0,75,68,66,71,66,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,19,21,20,17,16,12,14,0,0,0,0,0,0,0,19,14,11,7,12,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50610,RIKHANIKHAL,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,19,12,11,9,8,13,6,0,0,0,0,0,0,0,5,5,11,8,10,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,5,7,33,22,25,18,19,0,0,0,0,0,0,0,22,19,27,24,18,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,10,19,9,7,8,10,7,0,0,0,0,0,0,0,5,8,5,6,7,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,4,6,16,19,19,17,16,0,0,0,0,0,0,0,6,8,20,18,11,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,58,47,35,39,46,0,0,0,0,0,0,0,37,28,28,22,26,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,79,61,44,44,48,51,42,0,0,0,0,0,0,0,36,30,22,43,43,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,14,18,1,2,4,1,1,0,0,0,0,0,0,0,2,2,1,2,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,261,229,69,55,23,26,11,0,0,0,0,0,0,0,50,58,13,26,19,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,172,147,62,27,25,10,15,0,0,0,0,0,0,0,45,22,13,13,12,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,59,41,23,22,23,15,12,0,0,0,0,0,0,0,23,17,20,12,16,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,1,cat1,PS (I-V),8,Unrecognized,1,General,20,19,6,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,1,cat1,PS (I-V),8,Unrecognized,1,General,32,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,178,120,78,85,75,68,84,104,63,71,58,54,0,0,44,57,61,59,68,71,54,62,51,50,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,0,0,6,4,7,13,3,20,10,18,9,8,0,0,8,3,8,7,9,15,12,10,6,7,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,0,0,3,1,1,2,0,5,0,2,20,22,0,0,3,1,0,1,0,1,0,2,10,13,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,194,117,60,64,70,83,64,78,71,95,84,94,0,0,46,53,43,59,50,59,51,49,50,56,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,8,cat8,SS (IX-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,8,cat8,SS (IX-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,19,18,0,0,0,0,0,0,0,0,0,0,12,15,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,8,cat8,SS (IX-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,17,19,0,0,0,0,0,0,0,0,0,0,26,24,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,8,cat8,SS (IX-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,7,6,0,0,0,0,0,0,0,0,0,0,9,9,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,8,cat8,SS (IX-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,1,9,0,0,0,0,0,0,0,0,0,0,1,3,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,8,cat8,SS (IX-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,9,6,0,0,0,0,0,0,0,0,0,0,7,4,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,0,11,7,7,14,13,0,0,0,0,0,0,0,13,12,21,30,34,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,0,11,4,4,9,8,0,0,0,0,0,0,0,8,6,12,9,20,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,0,12,15,13,22,35,0,0,0,0,0,0,0,22,18,18,28,34,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,1,1,1,3,0,0,0,0,0,0,0,4,3,3,4,2,0,0
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,0,12,15,16,20,19,0,0,0,0,0,0,0,26,20,16,17,20,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,0,6,12,12,14,21,0,0,0,0,0,0,0,12,5,8,9,16,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,0,14,15,18,22,21,0,0,0,0,0,0,0,17,18,18,27,41,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,0,13,11,19,21,26,0,0,0,0,0,0,0,6,12,15,20,26,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,0,32,41,35,56,73,0,0,0,0,0,0,0,33,40,29,42,63,0,0
+2019-20,5,Uttarakhand,506,PAURI,50610,RIKHANIKHAL,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,0,50,40,44,54,62,0,0,0,0,0,0,0,50,46,46,49,67,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,0,18,20,25,28,33,0,0,0,0,0,0,0,26,25,23,39,36,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,0,11,12,7,8,12,0,0,0,0,0,0,0,5,8,7,12,9,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,0,21,13,19,19,26,0,0,0,0,0,0,0,21,15,15,23,26,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,0,65,57,80,91,168,0,0,0,0,0,0,0,83,59,78,130,146,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,0,23,21,27,20,36,0,0,0,0,0,0,0,36,31,48,34,59,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Urban,7,cat7,SS (VI-X),3,Local body,1,General,0,0,0,0,0,0,0,7,4,4,5,1,0,0,0,0,0,0,0,5,1,2,2,1,0,0
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,7,cat7,SS (VI-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,1,6,4,0,0,0,0,0,0,0,1,0,1,1,3,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,7,cat7,SS (VI-X),4,Government Aided,1,General,0,0,0,0,0,0,0,1,1,4,4,5,0,0,0,0,0,0,0,4,8,2,5,3,0,0
+2019-20,5,Uttarakhand,506,PAURI,50610,RIKHANIKHAL,Rural,7,cat7,SS (VI-X),4,Government Aided,1,General,0,0,0,0,0,0,0,2,4,4,2,4,0,0,0,0,0,0,0,1,3,7,6,4,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,7,cat7,SS (VI-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,2,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,7,cat7,SS (VI-X),4,Government Aided,1,General,0,0,0,0,0,0,0,1,2,4,1,1,0,0,0,0,0,0,0,3,1,1,3,2,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,7,cat7,SS (VI-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,2,2,1,4,5,0,0,0,0,0,0,0,0,2,2,3,2,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,19,21,23,38,38,0,0,0,0,0,0,0,13,18,4,18,22,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,49,51,0,0,0,0,0,0,0,0,0,0,24,37,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,2,cat2,UPS (I-VIII),1,Department of Education,1,General,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,1,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,2,cat2,UPS (I-VIII),4,Government Aided,1,General,0,0,5,7,5,4,7,8,3,8,0,0,0,0,3,8,3,2,4,4,6,10,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,2,cat2,UPS (I-VIII),4,Government Aided,1,General,0,0,3,1,0,0,1,2,5,5,0,0,0,0,5,1,1,1,1,2,6,6,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,60,49,26,20,17,14,14,17,19,10,0,0,0,0,12,14,14,14,10,14,8,12,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,39,42,26,23,21,16,23,18,17,11,0,0,0,0,15,18,21,17,19,10,15,12,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,35,25,20,18,9,27,18,12,6,10,0,0,0,0,10,16,15,13,19,9,7,6,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,0,0,25,23,20,14,20,14,24,10,0,0,0,0,17,15,13,11,18,7,6,15,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,19,17,19,18,12,17,22,14,17,10,0,0,0,0,13,7,12,14,13,13,13,15,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,11,9,12,7,7,7,9,9,8,9,0,0,0,0,4,7,9,9,11,7,6,5,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,2,8,18,17,16,15,13,21,9,13,0,0,0,0,12,11,14,16,9,7,14,12,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,844,693,318,313,273,268,278,269,225,207,0,0,0,0,285,219,209,234,258,232,200,186,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,25,27,23,19,21,23,26,21,14,20,0,0,0,0,8,13,8,9,14,6,10,8,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,0,0,9,14,16,16,20,11,7,9,0,0,0,0,10,8,9,5,4,14,10,11,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,21,16,14,19,16,25,14,19,9,6,0,0,0,0,18,16,8,11,14,10,5,3,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,7,6,13,16,23,22,16,19,14,9,0,0,0,0,16,13,17,16,9,8,12,10,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,0,0,92,93,104,99,110,129,116,102,0,0,0,0,98,70,83,75,87,97,73,61,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,40,42,45,33,22,27,28,15,18,27,0,0,0,0,27,16,16,33,19,16,16,6,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,225,198,78,62,60,64,62,56,53,46,0,0,0,0,47,40,57,56,49,42,45,41,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,95,52,42,44,31,28,37,25,20,25,0,0,0,0,46,40,27,32,27,27,16,22,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,6,8,4,2,2,2,1,4,2,3,0,0,0,0,3,2,0,2,0,1,1,1,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,178,132,54,54,66,41,50,45,52,54,0,0,0,0,61,38,58,47,37,51,34,36,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,18,14,28,0,0,0,0,0,0,0,0,0,17,7,19,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,8,8,8,0,0,0,0,0,0,0,0,0,9,7,6,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,53,54,64,0,0,0,0,0,0,0,0,0,67,54,83,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,22,29,19,0,0,0,0,0,0,0,0,0,18,24,24,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,5,9,18,0,0,0,0,0,0,0,0,0,14,16,13,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,16,15,8,0,0,0,0,0,0,0,0,0,12,23,21,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,9,8,17,0,0,0,0,0,0,0,0,0,15,17,17,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,91,74,68,0,0,0,0,0,0,0,0,0,69,80,83,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,68,66,73,0,0,0,0,0,0,0,0,0,64,67,68,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50610,RIKHANIKHAL,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,15,22,31,0,0,0,0,0,0,0,0,0,22,26,27,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,35,30,46,0,0,0,0,0,0,0,0,0,46,39,42,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,20,21,18,0,0,0,0,0,0,0,0,0,23,24,40,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,42,51,54,0,0,0,0,0,0,0,0,0,51,60,47,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,67,62,86,0,0,0,0,0,0,0,0,0,97,104,86,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,23,20,31,0,0,0,0,0,0,0,0,0,28,34,31,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,2,1,3,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,3,1,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,24,22,30,0,0,0,0,0,0,0,0,0,22,22,12,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,1,2,2,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,29,24,22,0,0,0,0,0,0,0,0,0,24,23,20,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,8,16,7,0,0,0,0,0,0,0,0,0,3,8,1,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,6,7,16,0,0,0,0,0,0,0,0,0,14,13,13,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,5,8,2,0,0,0,0,0,0,0,0,0,8,13,5,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,5,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,10,5,10,0,0,0,0,0,0,0,0,0,5,8,14,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,6,4,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,10,4,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,8,17,6,0,0,0,0,0,0,0,0,0,10,6,5,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,4,5,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,18,5,19,0,0,0,0,0,0,0,0,0,7,13,11,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,12,16,12,0,0,0,0,0,0,0,0,0,10,5,9,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,32,41,32,0,0,0,0,0,0,0,0,0,30,21,18,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,13,22,28,0,0,0,0,0,0,0,0,0,7,11,12,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Urban,3,cat3,HSS (I-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,0,8,3,10
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,0,0,2,2,2,3,5,5,4,1,4,2,6,3,1,0,0,0,0,0,1,3,0,4,6,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,36,33,11,19,12,21,15,12,16,15,36,23,20,13,12,10,14,14,12,13,8,11,13,22,20,14
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,1,0,3,0,1,1,2,0,1,0,0,0,0,0,1,3,1,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,34,17,11,14,23,12,10,13,17,14,20,14,5,11,10,10,12,14,8,6,6,11,10,13,15,5
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,0,0,9,11,13,11,11,14,7,8,13,6,8,9,13,13,4,6,9,7,13,10,10,11,3,6
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,44,32,5,1,4,3,4,5,3,10,7,10,8,14,2,3,2,1,6,4,2,5,6,5,5,8
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,3,cat3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,2,SC,0,0,9,12,21,11,27,11,15,3,18,10,13,1,3,3,5,5,5,1,2,6,2,4,2,2
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,3,cat3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,2,SC,0,0,4,4,4,4,2,7,4,2,3,1,2,1,2,2,5,4,3,3,5,2,4,2,1,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Urban,3,cat3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,2,SC,0,0,2,3,2,4,2,2,3,5,5,1,1,3,2,2,1,1,2,4,0,4,1,1,4,2
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,10,cat10,HSS (IX-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,7,6,4,3,0,0,0,0,0,0,0,0,7,8,4,3
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,10,cat10,HSS (IX-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,31,6,14,7,0,0,0,0,0,0,0,0,16,8,31,9
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,10,cat10,HSS (IX-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,4,1,1,1
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,7,9,5,6,0,0,0,0,0,0,0,0,13,5,2,4
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,0,0,0,0,0,0,2,3,4
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,26,23,23,31,45,31,50,0,0,0,0,0,15,23,20,38,31,46,43
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,14,11,18,24,37,21,15,0,0,0,0,0,11,9,11,21,33,25,31
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,22,18,29,75,73,32,46,0,0,0,0,0,26,34,22,53,58,58,49
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,25,26,28,72,77,50,54,0,0,0,0,0,20,23,29,41,78,66,63
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,24,20,29,42,60,44,52,0,0,0,0,0,16,31,29,43,52,63,76
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,13,11,15,27,50,22,33,0,0,0,0,0,11,18,19,29,41,33,37
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,4,4,5,14,6,17,13,0,0,0,0,0,8,8,5,11,11,20,13
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,31,34,34,69,48,73,62,0,0,0,0,0,42,52,42,90,87,104,106
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,8,20,20,45,47,48,33,0,0,0,0,0,14,22,21,43,52,47,54
+2019-20,5,Uttarakhand,506,PAURI,50610,RIKHANIKHAL,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,15,20,23,52,44,59,80,0,0,0,0,0,17,11,21,42,46,61,64
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,26,35,18,37,48,43,53,0,0,0,0,0,25,25,26,43,46,37,35
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,13,21,18,34,51,37,41,0,0,0,0,0,13,20,17,43,46,32,44
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,17,16,25,35,25,35,32,0,0,0,0,0,14,10,11,32,29,38,43
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,42,49,45,99,86,66,77,0,0,0,0,0,41,48,45,97,83,62,77
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,31,21,34,70,71,70,68,0,0,0,0,0,14,26,32,51,59,51,65
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,5,1,4,9,15,13,11,0,0,0,0,0,2,4,5,18,16,17,24
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,2,3,18,10,17,25,0,0,0,0,0,17,7,12,25,32,39,36
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Urban,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,2,0,1,1,0,4,0,0,0,0,0,0,0,1,0,0,4,1
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,13,15,21,40,43,30,47,0,0,0,0,0,21,20,11,42,35,25,38
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,3,4,8,6,15,17,21,0,0,0,0,0,2,2,1,1,2,13,8
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,4,4,4,12,9,8,6,0,0,0,0,0,8,6,8,5,9,14,7
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,3,1,4,10,7,1,6,0,0,0,0,0,3,2,4,11,10,4,10
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,8,8,5,11,19,18,6,0,0,0,0,0,4,3,10,10,13,12,16
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,14,14,13,12,27,14,28,0,0,0,0,0,10,8,9,19,20,26,32
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,2,8,7,21,8,16,16,0,0,0,0,0,8,12,7,12,9,16,15
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,9,12,11,25,43,45,34,0,0,0,0,0,11,13,4,20,27,27,16
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,13,8,13,24,28,22,22,0,0,0,0,0,10,14,12,18,18,42,31
+2019-20,5,Uttarakhand,506,PAURI,50610,RIKHANIKHAL,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,3,2,6,11,17,6,21,0,0,0,0,0,9,10,3,7,11,7,14
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,18,14,21,21,31,15,20,0,0,0,0,0,9,11,12,24,23,14,20
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,4,5,11,3,8,0,0,0,0,0,4,0,3,11,4,10,10
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,3,8,11,21,28,34,30,0,0,0,0,0,6,7,10,19,18,23,26
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,2,3,0,4,0,0,0,0,0,0,0,0,3,5,1,2
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,4,5,1,22,24,6,13,0,0,0,0,0,3,8,3,7,18,13,14
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,6,3,10,17,30,9,17,0,0,0,0,0,1,6,2,6,15,11,21
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Urban,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,14,7,15,15,15,18
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,5,3,7,5,7,10,12,0,0,0,0,0,2,2,2,10,6,2,10
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,3,11,13,6,6,0,0,0,0,0,1,1,0,2,7,1,4
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,4,1,3,2,3,1,0,0,0,0,0,0,0,0,1,2,4,2,2
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,1,2,0,5,8,6,3,0,0,0,0,0,0,1,0,3,5,6,2
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,5,cat5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,2,SC,0,0,0,0,0,0,0,15,12,8,13,6,7,3,0,0,0,0,0,8,7,6,7,4,2,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,25,34,37,37,53,0,0,0,0,0,0,0,30,34,44,49,38,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,18,23,31,23,30,0,0,0,0,0,0,0,24,27,19,20,27,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,42,35,47,40,40,0,0,0,0,0,0,0,37,31,51,45,61,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,37,38,34,39,52,0,0,0,0,0,0,0,43,40,27,47,55,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,50,40,50,47,60,0,0,0,0,0,0,0,41,54,55,53,52,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,22,24,20,34,30,0,0,0,0,0,0,0,31,30,45,26,35,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,19,11,22,20,24,0,0,0,0,0,0,0,20,11,18,22,24,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,89,123,95,101,109,0,0,0,0,0,0,0,94,106,102,97,120,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,43,56,66,49,56,0,0,0,0,0,0,0,40,41,57,44,56,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50610,RIKHANIKHAL,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,32,36,46,55,52,0,0,0,0,0,0,0,50,41,42,47,61,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,36,41,50,34,53,0,0,0,0,0,0,0,53,33,47,54,62,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,32,30,27,34,26,0,0,0,0,0,0,0,37,24,35,31,32,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,38,36,39,50,41,0,0,0,0,0,0,0,34,31,36,30,41,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,72,57,58,71,77,0,0,0,0,0,0,0,72,80,63,77,92,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,48,38,31,49,51,0,0,0,0,0,0,0,43,44,54,51,71,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,3,4,3,4,9,0,0,0,0,0,0,0,7,4,8,5,7,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,5,2,5,1,1,0,0,0,0,0,0,0,5,4,4,3,3,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,16,12,10,20,22,0,0,0,0,0,0,0,10,16,14,22,16,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,1,cat1,PS (I-V),2,Tribal Welfare Department,2,SC,0,0,5,1,7,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,1,cat1,PS (I-V),2,Tribal Welfare Department,2,SC,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,1,cat1,PS (I-V),3,Local body,2,SC,0,0,0,2,3,4,1,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,1,cat1,PS (I-V),4,Government Aided,2,SC,0,0,2,3,1,2,3,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,4,6,1,3,1,1,3,0,0,0,0,0,0,0,1,2,4,1,3,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,18,13,8,6,6,15,9,0,0,0,0,0,0,0,3,5,10,7,9,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,7,13,6,10,1,4,7,0,0,0,0,0,0,0,7,17,3,1,7,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,6,10,5,8,4,7,3,0,0,0,0,0,0,0,7,3,3,4,4,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,8,2,3,6,6,4,4,0,0,0,0,0,0,0,2,10,3,1,4,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,3,7,3,4,4,0,0,0,0,0,0,0,7,2,2,2,1,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,100,74,30,21,34,23,19,0,0,0,0,0,0,0,23,24,17,17,17,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,2,0,2,1,0,1,0,0,0,0,0,0,0,2,0,3,1,1,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50610,RIKHANIKHAL,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,5,2,2,1,2,4,1,0,0,0,0,0,0,0,0,2,2,0,1,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,5,3,3,2,0,0,0,0,0,0,0,0,2,3,2,2,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,3,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,1,1,3,2,2,4,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,15,6,3,11,12,0,0,0,0,0,0,0,8,4,5,6,3,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,12,9,11,5,12,10,10,0,0,0,0,0,0,0,6,5,3,2,7,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,6,4,2,3,1,1,1,0,0,0,0,0,0,0,1,2,2,1,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,43,57,25,13,15,17,15,0,0,0,0,0,0,0,17,13,19,24,13,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,34,23,21,2,0,1,2,0,0,0,0,0,0,0,23,7,0,1,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,6,11,7,3,3,2,2,0,0,0,0,0,0,0,3,2,3,3,2,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,1,cat1,PS (I-V),8,Unrecognized,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,1,cat1,PS (I-V),8,Unrecognized,2,SC,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,41,28,18,16,9,12,14,11,9,8,8,12,0,0,14,8,14,8,7,10,6,8,8,9,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,2,1,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,2,1,0,0,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,2,1,1,0,0,0,2,1,1,1,1,3,0,0,0,0,1,0,0,2,1,0,0,3,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,8,cat8,SS (IX-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,8,cat8,SS (IX-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,9,21,0,0,0,0,0,0,0,0,0,0,1,8,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,8,cat8,SS (IX-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,2,2,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,8,cat8,SS (IX-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,8,6,0,0,0,0,0,0,0,0,0,0,9,4,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,8,cat8,SS (IX-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,3,8,0,0,0,0,0,0,0,0,0,0,5,1,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,8,cat8,SS (IX-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,21,20,0,0,0,0,0,0,0,0,0,0,14,16,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,10,11,8,7,20,0,0,0,0,0,0,0,13,8,17,18,23,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,3,6,7,7,7,0,0,0,0,0,0,0,5,7,10,9,16,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,3,5,7,8,7,0,0,0,0,0,0,0,7,6,1,10,8,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,7,5,6,3,2,0,0,0,0,0,0,0,4,9,6,8,4,0,0
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,13,17,10,30,27,0,0,0,0,0,0,0,20,24,21,21,20,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,6,6,7,7,11,0,0,0,0,0,0,0,3,3,7,2,7,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,6,7,5,10,11,0,0,0,0,0,0,0,3,12,5,5,9,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,3,7,4,14,13,0,0,0,0,0,0,0,4,6,4,11,11,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,8,13,12,23,24,0,0,0,0,0,0,0,9,11,12,21,25,0,0
+2019-20,5,Uttarakhand,506,PAURI,50610,RIKHANIKHAL,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,12,20,17,32,27,0,0,0,0,0,0,0,21,19,18,23,32,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,7,6,7,17,9,0,0,0,0,0,0,0,5,6,11,9,7,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,4,5,7,10,10,0,0,0,0,0,0,0,8,3,6,11,10,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,9,5,13,6,11,0,0,0,0,0,0,0,10,10,5,10,9,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,19,17,13,18,20,0,0,0,0,0,0,0,13,14,18,13,16,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,6,9,10,21,24,0,0,0,0,0,0,0,10,23,14,25,31,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Urban,7,cat7,SS (VI-X),3,Local body,2,SC,0,0,0,0,0,0,0,3,1,0,6,4,0,0,0,0,0,0,0,1,3,0,1,3,0,0
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,7,cat7,SS (VI-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,4,5,3,4,8,0,0,0,0,0,0,0,1,3,4,4,3,0,0
+2019-20,5,Uttarakhand,506,PAURI,50610,RIKHANIKHAL,Rural,7,cat7,SS (VI-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,2,3,3,2,5,0,0,0,0,0,0,0,4,2,3,4,3,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,7,cat7,SS (VI-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,2,2,0,2,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,7,cat7,SS (VI-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,4,1,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,7,cat7,SS (VI-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,1,0,0,1,4,0,0,0,0,0,0,0,2,0,3,0,1,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,2,5,2,9,0,0,0,0,0,0,0,2,0,3,1,5,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,2,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,14,16,0,0,0,0,0,0,0,0,0,0,6,3,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,0,0,0,0,0,2,2,0,2,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,2,cat2,UPS (I-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,2,cat2,UPS (I-VIII),4,Government Aided,2,SC,0,0,0,1,2,0,0,2,0,0,0,0,0,0,0,1,2,2,1,3,2,4,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,21,19,3,4,6,6,4,5,4,1,0,0,0,0,4,4,7,6,5,2,5,4,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,18,15,1,0,4,2,3,1,2,0,0,0,0,0,7,5,2,2,1,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,1,4,6,2,2,1,2,1,0,3,0,0,0,0,2,1,2,0,4,1,2,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,0,0,2,7,2,1,3,4,6,2,0,0,0,0,4,5,1,2,1,2,4,2,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,8,12,9,3,3,4,7,2,6,9,0,0,0,0,3,1,0,3,1,7,1,2,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,1,1,1,1,1,2,2,2,0,0,0,0,0,0,0,2,1,0,2,1,0,1,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,1,1,1,1,0,1,2,3,2,1,0,0,0,0,0,0,0,0,3,2,2,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,182,146,68,61,53,51,55,63,63,49,0,0,0,0,79,54,46,45,55,40,40,41,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,5,1,9,9,5,9,7,7,8,5,0,0,0,0,1,1,3,4,4,1,1,1,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,0,0,2,1,1,1,2,1,1,1,0,0,0,0,2,0,1,1,1,1,1,2,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,0,0,2,1,3,2,1,4,1,2,0,0,0,0,1,2,2,2,0,1,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,0,0,14,15,14,11,19,14,26,11,0,0,0,0,14,14,11,8,19,16,7,3,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,13,9,4,0,7,4,1,2,3,1,0,0,0,0,1,1,0,1,4,8,1,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,73,54,32,23,18,25,16,20,15,15,0,0,0,0,19,18,19,16,17,22,20,14,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,24,12,12,7,5,3,9,2,5,5,0,0,0,0,10,7,7,6,5,5,7,2,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,20,24,17,10,9,4,7,9,11,7,0,0,0,0,8,5,6,3,6,6,2,5,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,16,13,13,0,0,0,0,0,0,0,0,0,12,16,15,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,2,6,4,0,0,0,0,0,0,0,0,0,15,7,11,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,20,20,19,0,0,0,0,0,0,0,0,0,9,14,29,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,18,17,31,0,0,0,0,0,0,0,0,0,23,20,34,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,17,12,10,0,0,0,0,0,0,0,0,0,10,12,7,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,1,9,8,0,0,0,0,0,0,0,0,0,12,9,8,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,6,8,10,0,0,0,0,0,0,0,0,0,12,8,7,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,85,59,59,0,0,0,0,0,0,0,0,0,77,70,62,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,16,19,15,0,0,0,0,0,0,0,0,0,17,19,22,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50610,RIKHANIKHAL,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,12,16,11,0,0,0,0,0,0,0,0,0,14,22,12,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,10,11,6,0,0,0,0,0,0,0,0,0,12,6,7,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,18,11,17,0,0,0,0,0,0,0,0,0,17,14,18,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,16,20,22,0,0,0,0,0,0,0,0,0,14,14,25,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,19,16,24,0,0,0,0,0,0,0,0,0,16,27,14,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,15,21,17,0,0,0,0,0,0,0,0,0,13,26,21,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,3,3,4,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,7,8,13,0,0,0,0,0,0,0,0,0,3,3,3,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,11,7,4,0,0,0,0,0,0,0,0,0,2,4,6,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,2,3,1,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,4,7,4,0,0,0,0,0,0,0,0,0,9,4,6,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,8,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,4,1,4,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,12,12,17,0,0,0,0,0,0,0,0,0,3,7,7,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,2,2,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,4,5,6,0,0,0,0,0,0,0,0,0,4,1,3,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,5,4,4,0,0,0,0,0,0,0,0,0,3,3,1,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Urban,3,cat3,HSS (I-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,2,4,1,3,1,0,3,0,0,2,5,3,0,1,2,1,4,0,2,0,0,1,5,0,0,3
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,1,4,4,4,1,1,2,2,1,0,2,2,1,1,4,3,3,2,0,0,1,1,1,2
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,1,0,0,0,1,2,0,1,0,0,0,0,2,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,3,cat3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,3,ST,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,3,cat3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,3,ST,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,1,1,0,0,1,0,1,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Urban,3,cat3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,3,ST,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,10,cat10,HSS (IX-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,10,cat10,HSS (IX-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,1,2,7,1,0,0,0,0,0,0,0,0,1,2,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,10,cat10,HSS (IX-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,3,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,1,0,22,8,5,5,0,0,0,0,0,0,1,1,9,7,7,7
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2019-20,5,Uttarakhand,506,PAURI,50610,RIKHANIKHAL,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Urban,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,5,9,2,1,0,0,0,0,0,0,0,1,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,3,4,2,4,8,10,3,0,0,0,0,0,1,3,3,4,15,18,6
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50610,RIKHANIKHAL,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Urban,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,2,2,2
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,5,cat5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,3,ST,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,1,1,0,1,2,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,15,6,9,16,9,0,0,0,0,0,0,0,7,9,10,15,6,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50610,RIKHANIKHAL,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,1,cat1,PS (I-V),2,Tribal Welfare Department,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,1,cat1,PS (I-V),2,Tribal Welfare Department,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,1,cat1,PS (I-V),3,Local body,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,1,cat1,PS (I-V),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,9,1,2,3,0,0,3,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50610,RIKHANIKHAL,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,8,9,0,1,0,2,6,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,11,0,30,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,1,cat1,PS (I-V),8,Unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,1,cat1,PS (I-V),8,Unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,17,13,5,12,5,3,9,8,4,9,0,0,0,0,6,3,17,3,9,10,4,3,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,8,cat8,SS (IX-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,8,cat8,SS (IX-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,8,cat8,SS (IX-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,8,cat8,SS (IX-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,8,cat8,SS (IX-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,8,cat8,SS (IX-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50610,RIKHANIKHAL,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Urban,7,cat7,SS (VI-X),3,Local body,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,7,cat7,SS (VI-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,7,cat7,SS (VI-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50610,RIKHANIKHAL,Rural,7,cat7,SS (VI-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,7,cat7,SS (VI-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,7,cat7,SS (VI-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,7,cat7,SS (VI-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,2,cat2,UPS (I-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,2,cat2,UPS (I-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,23,17,6,2,6,9,7,10,14,11,0,0,0,0,11,7,6,6,9,4,5,6,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,2,9,9,0,0,0,0,0,0,0,0,0,8,4,8,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50610,RIKHANIKHAL,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,4,6,3,0,0,0,0,0,0,0,0,0,3,2,2,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Urban,3,cat3,HSS (I-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,2,2
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,1,0,1,2,2,0,1,0,4,1,1,1,0,0,1,1,0,0,0,0,0,0,3
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,8,8,7,4,4,2,6,4,7,1,5,5,6,11,6,3,3,5,4,4,5,4,2,6,8,8
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,0,0,1,1,0,2,0,3,1,2,0,4,1,0,1,1,0,2,4,1,0,1,1,3,0,2
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,16,5,8,4,10,10,9,5,5,7,7,11,5,3,6,11,9,6,8,9,7,5,11,3,5,1
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,0,0,7,9,10,10,5,7,6,6,3,6,7,5,5,9,10,6,6,5,7,5,3,2,5,7
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,1,8,6,3,5,3,4,2,5,5,6,6,9,6,6,5,5,3,9,6,1,0,3,5,1,3
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,3,cat3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,4,OBC,0,0,8,3,2,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,3,cat3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,4,OBC,0,0,0,0,2,0,0,0,1,0,0,0,1,0,0,2,0,0,0,0,1,1,1,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Urban,3,cat3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,4,OBC,0,0,0,2,0,1,0,1,5,3,1,2,2,2,0,0,1,0,0,0,2,1,2,0,1,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,10,cat10,HSS (IX-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,10,cat10,HSS (IX-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,7,2,1,1,0,0,0,0,0,0,0,0,4,3,1,2
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,10,cat10,HSS (IX-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,6,8,4,6,0,0,0,0,0,0,0,0,0,5,2,4
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,2,1,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,2,2,4,3,6,6,2,0,0,0,0,0,1,1,1,6,8,2,11
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,1,0,0,4,0,2,3,0,0,0,0,0,0,0,1,0,3,0,3
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,4,0,0,0,1,5,4,0,0,0,0,0,4,1,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,1,1,0,2,1,0,4,0,0,0,0,0,0,0,1,1,0,2,1
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,14,14,14,34,18,19,19,0,0,0,0,0,7,13,15,24,22,26,15
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50610,RIKHANIKHAL,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,2,1,2,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,2,3,6,9,5,0,0,0,0,0,2,1,1,3,6,3,3
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,3,2,1,5,4,3,3,0,0,0,0,0,1,6,6,1,1,1,1
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,11,4,5,6,0,0,0,0,0,1,2,2,2,3,1,10
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Urban,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,4,6,4,18,19,3,2,0,0,0,0,0,4,1,6,15,44,20,11
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,2,0,2,1,3,0,0,0,0,0,3,0,0,0,2,0,1
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,12,6,6,15,13,18,8,0,0,0,0,0,5,6,2,11,11,9,13
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,1,2,3,3,0,0,0,0,0,0,0,0,1,3,3,4
+2019-20,5,Uttarakhand,506,PAURI,50610,RIKHANIKHAL,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,3,5,2,1,4,1,2,0,0,0,0,0,4,2,3,5,5,4,3
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,2,2,6,4,11,7,5,0,0,0,0,0,1,5,1,4,4,13,2
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Urban,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,7,6,19,19,19,14
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,1,0,0,1,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,1,6,5,11,7,5,6,0,0,0,0,0,0,3,3,3,4,7,4
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,5,cat5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,4,OBC,0,0,0,0,0,0,0,3,6,0,0,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,0,6,1,0,2,0,0,0,0,0,0,0,1,3,0,0,2,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,1,3,0,1,1,0,0,0,0,0,0,0,1,2,0,2,4,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,38,45,45,36,53,0,0,0,0,0,0,0,32,39,29,36,39,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,1,0,2,1,0,0,0,0,0,0,0,0,2,3,4,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50610,RIKHANIKHAL,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,0,3,6,0,3,0,0,0,0,0,0,0,0,0,1,3,1,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,1,3,1,2,3,0,0,0,0,0,0,0,4,4,7,3,7,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,2,3,4,2,4,0,0,0,0,0,0,0,4,2,4,3,6,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,5,2,2,2,6,0,0,0,0,0,0,0,2,5,3,5,5,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,1,0,1,0,1,0,0,0,0,0,0,0,2,2,3,1,3,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,0,3,3,4,1,0,0,0,0,0,0,0,3,1,1,2,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,1,cat1,PS (I-V),2,Tribal Welfare Department,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,1,cat1,PS (I-V),2,Tribal Welfare Department,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,1,cat1,PS (I-V),4,Government Aided,4,OBC,0,0,3,1,1,1,0,0,0,0,0,0,0,0,2,3,4,2,5,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,2,0,0,0,2,0,1,0,0,0,0,0,0,0,0,1,0,1,3,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,0,3,1,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,21,23,7,6,11,5,7,0,0,0,0,0,0,0,13,2,9,8,3,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50610,RIKHANIKHAL,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,4,0,3,0,0,0,0,0,0,0,0,0,1,0,2,2,4,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,4,2,2,1,0,2,3,0,0,0,0,0,0,0,1,1,1,2,1,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,11,8,6,7,2,1,2,0,0,0,0,0,0,0,2,5,1,0,6,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,52,25,14,11,12,3,6,0,0,0,0,0,0,0,18,18,11,9,17,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,1,1,3,2,2,1,3,0,0,0,0,0,0,0,2,2,3,0,1,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,1,cat1,PS (I-V),8,Unrecognized,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,1,cat1,PS (I-V),8,Unrecognized,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,9,3,2,7,7,7,9,10,5,3,6,10,0,0,3,12,3,4,4,6,5,2,1,7,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,8,cat8,SS (IX-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,8,cat8,SS (IX-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,8,cat8,SS (IX-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,8,cat8,SS (IX-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Urban,8,cat8,SS (IX-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Urban,8,cat8,SS (IX-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50601,PAURI,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50603,PABAU,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50604,KOT,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50607,POKHRA,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,6,5,2,1,11,0,0,0,0,0,0,0,1,5,3,8,12,0,0
+2019-20,5,Uttarakhand,506,PAURI,50609,YAMKESHWAR,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,1,1,2,0,2,0,0,0,0,0,0,0,0,0,0,4,1,0,0
+2019-20,5,Uttarakhand,506,PAURI,50610,RIKHANIKHAL,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,2,2,1,1,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0
+2019-20,5,Uttarakhand,506,PAURI,50611,BIRONKHAL,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Urban,7,cat7,SS (VI-X),3,Local body,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50605,KALJIKHAL,Rural,7,cat7,SS (VI-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50606,EKESHWAR,Rural,7,cat7,SS (VI-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50610,RIKHANIKHAL,Rural,7,cat7,SS (VI-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,7,cat7,SS (VI-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50613,NAINIDANDA,Rural,7,cat7,SS (VI-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50615,DWARIKAHL,Rural,7,cat7,SS (VI-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50608,DUGADDA,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,0,0,0,1,2,1,0,0
+2019-20,5,Uttarakhand,506,PAURI,50614,THALISAIN,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50602,KHIRSU,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+2019-20,5,Uttarakhand,506,PAURI,50612,JAIHARIKHAL,Rural,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,813 @@
+ac_year,st_code,state_name,dt_code,district_name,block_cd,udise_block_name,loc_name,sch_category_id,tr_cat_name,school_category,sch_mgmt_id,sch_mgmt_name,caste_id,caste_name,pre_primary_boy,pre_primary_girl,class1_boy,class2_boy,class3_boy,class4_boy,class5_boy,class6_boy,class7_boy,class8_boy,class9_boy,class10_boy,class11_boy,class12_boy,class1_girl,class2_girl,class3_girl,class4_girl,class5_girl,class6_girl,class7_girl,class8_girl,class9_girl,class10_girl,class11_girl,class12_girl
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,2,cat2,UPS (I-VIII),3,Local body,4,OBC,11,8,183,169,192,216,183,162,179,48,0,0,0,0,234,199,256,232,208,205,209,41,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,2,cat2,UPS (I-VIII),3,Local body,4,OBC,28,33,144,154,219,196,195,144,201,46,0,0,0,0,142,173,196,200,208,199,204,68,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,2,cat2,UPS (I-VIII),3,Local body,4,OBC,0,0,138,146,186,220,156,145,148,50,0,0,0,0,144,151,192,188,169,184,213,81,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,2,cat2,UPS (I-VIII),3,Local body,4,OBC,3,6,190,193,226,249,198,219,214,61,0,0,0,0,197,234,233,226,245,274,258,55,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,2,cat2,UPS (I-VIII),3,Local body,4,OBC,0,0,103,122,124,112,106,106,100,16,0,0,0,0,91,114,103,119,121,110,90,18,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,2,cat2,UPS (I-VIII),3,Local body,4,OBC,7,8,89,111,132,117,85,87,80,25,0,0,0,0,105,117,101,141,94,74,81,33,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,2,cat2,UPS (I-VIII),3,Local body,4,OBC,0,0,173,186,238,200,177,148,144,41,0,0,0,0,132,151,174,205,178,148,179,62,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,2,cat2,UPS (I-VIII),3,Local body,4,OBC,0,0,15,15,20,21,20,10,12,20,0,0,0,0,8,12,17,20,12,17,14,15,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,2,cat2,UPS (I-VIII),3,Local body,4,OBC,0,0,21,30,21,27,29,25,16,17,0,0,0,0,25,18,32,39,36,23,20,17,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,2,cat2,UPS (I-VIII),3,Local body,4,OBC,0,0,0,3,4,2,1,4,7,0,0,0,0,0,40,30,43,32,49,33,29,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,2,cat2,UPS (I-VIII),3,Local body,4,OBC,10,11,6,8,7,9,2,5,5,0,0,0,0,0,12,11,11,9,7,5,3,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,2,cat2,UPS (I-VIII),3,Local body,4,OBC,0,0,12,8,14,15,17,19,16,6,0,0,0,0,8,3,13,11,9,14,9,5,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,2,cat2,UPS (I-VIII),3,Local body,4,OBC,54,60,92,142,114,129,121,97,93,78,0,0,0,0,113,109,118,119,96,101,90,79,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,2,cat2,UPS (I-VIII),4,Government Aided,4,OBC,48,55,47,58,57,65,66,44,63,0,0,0,0,0,34,56,59,56,62,50,64,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,2,cat2,UPS (I-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,2,cat2,UPS (I-VIII),4,Government Aided,4,OBC,0,0,12,10,25,23,14,16,27,0,0,0,0,0,10,11,10,22,27,18,21,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,2,cat2,UPS (I-VIII),4,Government Aided,4,OBC,0,0,51,49,81,64,70,63,66,0,0,0,0,0,52,52,45,60,48,47,51,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,2,cat2,UPS (I-VIII),4,Government Aided,4,OBC,0,0,4,3,7,16,11,21,24,0,0,0,0,0,10,10,7,9,16,11,13,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,2,cat2,UPS (I-VIII),4,Government Aided,4,OBC,0,0,10,6,13,16,32,32,14,0,0,0,0,0,7,15,14,29,21,22,28,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,2,cat2,UPS (I-VIII),4,Government Aided,4,OBC,0,0,9,11,9,12,14,10,12,0,0,0,0,0,10,12,9,21,15,10,16,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,2,cat2,UPS (I-VIII),4,Government Aided,4,OBC,20,21,124,139,149,148,151,121,132,6,0,0,0,0,99,139,130,135,127,121,145,5,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,2,cat2,UPS (I-VIII),4,Government Aided,4,OBC,0,0,28,39,45,64,39,48,41,4,0,0,0,0,29,39,48,41,30,36,34,2,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,2,cat2,UPS (I-VIII),4,Government Aided,4,OBC,0,0,49,49,70,50,37,22,37,0,0,0,0,0,49,38,34,36,36,19,24,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,2,cat2,UPS (I-VIII),4,Government Aided,4,OBC,56,34,53,71,76,58,63,79,87,0,0,0,0,0,77,58,60,62,80,53,70,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,2,cat2,UPS (I-VIII),4,Government Aided,4,OBC,8,19,60,76,73,72,52,45,37,0,0,0,0,0,48,68,55,78,52,41,42,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,102,112,171,144,154,144,150,94,109,22,0,0,0,0,129,110,142,95,75,81,68,20,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,207,142,158,147,135,181,113,81,79,35,0,0,0,0,133,89,107,113,72,67,55,33,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,34,29,42,48,38,32,15,11,11,1,0,0,0,0,34,32,21,17,15,12,13,4,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,15,25,25,28,26,26,18,21,20,9,0,0,0,0,19,23,21,20,8,8,11,8,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,33,30,76,62,61,42,20,18,19,2,0,0,0,0,33,60,35,24,23,16,14,2,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,23,19,61,37,42,53,17,21,17,0,0,0,0,0,41,40,27,29,19,13,11,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,419,419,515,503,515,509,465,472,403,126,0,0,0,0,456,460,429,411,378,350,351,62,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,33,36,126,142,137,130,113,116,87,40,0,0,0,0,93,101,102,117,108,95,67,38,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,17,22,28,17,10,14,9,7,0,0,0,0,22,9,16,14,7,6,6,7,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,27,18,117,121,123,121,82,92,80,0,0,0,0,0,111,79,89,94,69,62,64,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,49,34,26,20,27,23,2,3,3,0,0,0,0,0,22,16,14,18,4,1,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,31,19,21,15,4,4,0,0,0,0,0,0,23,13,11,7,2,3,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,1,2,3,2,2,3,0,0,0,0,0,0,3,1,2,2,0,3,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,2,cat2,UPS (I-VIII),90,Social welfare Department,4,OBC,0,0,0,1,0,4,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,5,6,3,0,0,0,0,0,0,0,0,0,5,4,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,3,cat3,HSS (I-XII),3,Local body,1,General,0,0,0,0,0,0,0,1,3,36,43,50,3,5,0,0,0,0,0,0,0,38,44,45,1,4
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,3,cat3,HSS (I-XII),3,Local body,1,General,0,0,0,0,0,0,0,8,7,4,1,3,17,20,0,0,0,0,0,3,1,0,0,1,7,6
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,3,cat3,HSS (I-XII),3,Local body,1,General,0,0,0,0,0,0,1,2,0,11,23,23,17,16,0,0,0,0,0,0,1,0,0,5,10,18
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,3,cat3,HSS (I-XII),3,Local body,1,General,0,0,0,0,0,0,12,13,15,17,25,23,6,21,0,0,0,0,10,20,10,18,14,15,9,17
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,3,cat3,HSS (I-XII),4,Government Aided,1,General,0,0,0,0,0,0,42,43,48,81,52,123,61,60,0,0,0,0,31,38,38,54,91,60,59,63
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,3,cat3,HSS (I-XII),4,Government Aided,1,General,0,0,0,0,0,0,28,31,33,28,35,49,69,75,0,0,0,0,22,28,21,31,30,52,53,54
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,3,cat3,HSS (I-XII),4,Government Aided,1,General,0,0,0,0,0,0,36,41,42,59,80,94,68,73,0,0,0,0,37,46,38,48,117,85,76,84
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,3,cat3,HSS (I-XII),4,Government Aided,1,General,0,0,0,0,0,0,63,109,102,129,183,175,150,210,0,0,0,0,66,100,112,154,173,180,166,156
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,3,cat3,HSS (I-XII),4,Government Aided,1,General,0,0,0,0,0,0,34,33,33,41,50,65,43,40,0,0,0,0,22,26,34,45,45,40,48,42
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,3,cat3,HSS (I-XII),4,Government Aided,1,General,0,0,0,0,0,0,18,26,21,46,42,41,16,16,0,0,0,0,13,17,24,44,36,33,16,18
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,3,cat3,HSS (I-XII),4,Government Aided,1,General,0,0,0,0,0,0,20,20,19,26,29,25,9,13,0,0,0,0,10,5,6,7,3,16,7,6
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,3,cat3,HSS (I-XII),4,Government Aided,1,General,0,0,0,0,0,0,134,186,188,272,350,331,321,411,0,0,0,0,106,129,114,131,155,160,409,419
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,3,cat3,HSS (I-XII),4,Government Aided,1,General,0,0,0,0,0,0,36,74,88,127,205,173,103,111,0,0,0,0,6,10,16,24,23,19,113,138
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,3,cat3,HSS (I-XII),4,Government Aided,1,General,0,0,0,0,0,0,73,76,97,86,98,93,92,102,0,0,0,0,59,86,79,92,95,86,91,98
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,3,cat3,HSS (I-XII),4,Government Aided,1,General,0,0,0,0,0,0,4,2,9,9,10,11,34,39,0,0,0,0,20,28,41,64,65,45,70,58
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,3,cat3,HSS (I-XII),4,Government Aided,1,General,0,0,0,0,0,0,42,58,61,74,111,107,225,266,0,0,0,0,78,53,74,78,95,103,146,133
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,3,cat3,HSS (I-XII),4,Government Aided,1,General,0,0,0,0,0,0,23,32,30,26,24,15,10,9,0,0,0,0,10,19,27,19,8,20,9,11
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,109,86,113,87,89,74,80,93,73,81,61,62,17,12,46,61,53,50,43,47,47,41,38,34,14,13
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,0,0,24,10,11,11,10,8,18,11,9,3,4,0,13,10,13,5,8,9,5,8,6,5,1,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,11,20,34,42,50,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,0,0,7,9,2,2,5,4,2,1,2,3,6,4,2,4,2,0,1,2,1,2,2,0,4,3
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,85,100,96,91,87,97,248,217,216,205,222,185,75,59,75,83,65,74,139,152,165,160,149,179,47,40
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,0,0,8,5,2,5,5,3,2,0,2,6,2,2,5,1,2,2,5,1,2,3,3,2,1,1
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,0,0,57,61,57,29,29,15,11,0,0,0,0,0,42,45,37,26,14,10,6,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,48,34,27,23,37,24,16,12,9,5,6,8,5,6,20,8,13,7,3,7,1,8,2,2,2,3
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,12,21,9,4,7,6,3,4,5,3,5,5,0,1,2,2,1,1,1,1,0,2,1,3,2,1
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,45,36,17,64,0,0,0,0,0,0,0,0,22,33,21,55
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,18,27,11,13,0,0,0,0,0,0,0,0,15,20,9,8
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,41,51,59,40,48,0,0,0,0,0,0,0,58,99,88,51,61
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,1,12,8,16,12,9,0,0,0,0,0,1,0,31,45,41,69,56
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,11,18,15,6,32,0,0,0,0,0,0,0,23,14,18,17,22
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,25,29,40,21,28,0,0,0,0,0,0,0,26,33,33,24,23
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,0,0,0,0,1,0,0,2
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,9,12,24,21,18,0,0,0,0,0,0,0,14,23,18,16,23
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,50,32,37,55,17,0,0,0,0,0,0,0,32,23,36,56,16
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,61,88,79,59,67,0,0,0,0,0,0,0,62,105,73,51,60
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,6,7,7,5,4,0,0,0,0,0,0,0,2,8,5,7,10
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,105,101,93,45,42,0,0,0,0,0,0,0,78,104,83,55,39
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,9,4,10,2,9,0,0,0,0,0,0,0,2,0,0,1,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,53,95,52,47,54,0,0,0,0,0,0,0,71,70,53,33,15
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,3,1,5,26,20,0,0,0,0,0,0,0,2,6,6,19,24
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,5,cat5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,1,General,0,0,0,0,0,0,0,5,3,5,4,4,1,8,0,0,0,0,0,1,7,4,2,2,1,2
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,11,cat11,HSS (XI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,0,0,14,11,0,0,0,0,0,0,0,0,0,0,2,1
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,11,cat11,HSS (XI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,0,0,35,68,0,0,0,0,0,0,0,0,0,0,66,63
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,11,cat11,HSS (XI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,0,0,19,17,0,0,0,0,0,0,0,0,0,0,9,1
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,11,cat11,HSS (XI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,0,0,4,5,0,0,0,0,0,0,0,0,0,0,3,6
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,11,cat11,HSS (XI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,0,0,19,44,0,0,0,0,0,0,0,0,0,0,23,54
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,11,cat11,HSS (XI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,0,0,417,397,0,0,0,0,0,0,0,0,0,0,355,371
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,11,cat11,HSS (XI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,0,0,30,33,0,0,0,0,0,0,0,0,0,0,11,27
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,11,cat11,HSS (XI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,170,230,0,0,0,0,0,0,0,0,0,0,157,237
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,9,15,0,0,0,0,0,0,0,0,0,0,13,3
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,41,82,0,0,0,0,0,0,0,0,0,0,11,20
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,4,8
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,58,68,0,0,0,0,0,0,0,0,0,0,125,91
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,215,184,0,0,0,0,0,0,0,0,0,0,269,292
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,35,36,0,0,0,0,0,0,0,0,0,0,30,29
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,1,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,8,3,0,0,0,0,0,0,0,0,0,0,4,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,1,cat1,PS (I-V),3,Local body,1,General,0,0,65,61,67,61,25,0,0,0,0,0,0,0,56,69,58,51,28,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,1,cat1,PS (I-V),3,Local body,1,General,0,0,25,27,30,39,12,0,0,0,0,0,0,0,36,30,38,46,14,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,1,cat1,PS (I-V),3,Local body,1,General,0,0,32,18,31,21,21,0,0,0,0,0,0,0,25,26,21,34,17,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,1,cat1,PS (I-V),3,Local body,1,General,0,0,62,58,67,78,34,0,0,0,0,0,0,0,71,71,49,73,30,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,1,cat1,PS (I-V),3,Local body,1,General,0,0,16,26,16,19,2,0,0,0,0,0,0,0,5,3,4,8,3,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,1,cat1,PS (I-V),3,Local body,1,General,0,0,20,21,19,23,1,0,0,0,0,0,0,0,15,13,19,15,8,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,1,cat1,PS (I-V),3,Local body,1,General,0,0,31,26,32,35,6,0,0,0,0,0,0,0,68,70,83,74,20,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,1,cat1,PS (I-V),3,Local body,1,General,0,0,13,11,14,12,12,0,0,0,0,0,0,0,27,20,15,31,25,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,1,cat1,PS (I-V),3,Local body,1,General,0,0,33,23,32,45,29,0,0,0,0,0,0,0,51,27,53,39,29,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,1,cat1,PS (I-V),3,Local body,1,General,0,0,57,56,74,69,0,0,0,0,0,0,0,0,59,71,58,97,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,1,cat1,PS (I-V),3,Local body,1,General,0,0,20,36,19,20,0,0,0,0,0,0,0,0,19,29,15,19,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,1,cat1,PS (I-V),3,Local body,1,General,0,0,2,2,8,6,0,0,0,0,0,0,0,0,6,5,3,7,1,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,1,cat1,PS (I-V),3,Local body,1,General,1,6,10,11,18,15,12,0,0,0,0,0,0,0,7,5,5,10,16,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,1,cat1,PS (I-V),4,Government Aided,1,General,4,3,6,3,6,2,0,0,0,0,0,0,0,0,1,1,2,1,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,1,cat1,PS (I-V),4,Government Aided,1,General,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,1,cat1,PS (I-V),4,Government Aided,1,General,1,2,23,33,29,49,0,0,0,0,0,0,0,0,24,27,20,28,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,1,cat1,PS (I-V),4,Government Aided,1,General,0,0,59,60,75,73,39,0,0,0,0,0,0,0,75,61,63,69,35,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,1,cat1,PS (I-V),4,Government Aided,1,General,0,0,10,8,13,19,0,0,0,0,0,0,0,0,9,12,10,11,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,1,cat1,PS (I-V),4,Government Aided,1,General,0,0,3,7,9,7,0,0,0,0,0,0,0,0,8,8,3,6,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,1,cat1,PS (I-V),4,Government Aided,1,General,0,0,48,67,65,45,0,0,0,0,0,0,0,0,79,72,65,48,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,42,31,52,61,48,47,11,0,0,0,0,0,0,0,56,47,53,33,11,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,18,12,36,29,36,43,2,0,0,0,0,0,0,0,35,28,38,38,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,39,26,26,28,35,18,9,0,0,0,0,0,0,0,19,9,15,13,6,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,7,2,13,7,6,7,1,0,0,0,0,0,0,0,1,3,2,3,1,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,5,0,10,29,11,13,0,0,0,0,0,0,0,0,7,7,12,4,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,10,8,6,6,0,0,0,0,0,0,0,0,5,2,1,5,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,16,10,17,19,16,6,3,0,0,0,0,0,0,0,11,7,7,5,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,84,52,295,315,282,280,37,0,0,0,0,0,0,0,261,213,206,205,32,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,5,0,1,6,7,7,0,0,0,0,0,0,0,0,9,4,4,2,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,10,6,7,5,2,0,0,0,0,0,0,0,11,5,6,6,1,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,11,16,12,12,0,0,0,0,0,0,0,0,11,9,15,15,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,26,15,6,5,4,3,1,0,0,0,0,0,0,0,4,2,2,2,2,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,20,15,2,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,1,cat1,PS (I-V),8,Unrecognized,1,General,0,0,8,15,6,5,0,0,0,0,0,0,0,0,8,9,7,9,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,1,cat1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,10,10,110,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,6,cat6,SS (I-X),2,Tribal Welfare Department,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,6,cat6,SS (I-X),2,Tribal Welfare Department,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,6,cat6,SS (I-X),3,Local body,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,6,cat6,SS (I-X),3,Local body,1,General,0,0,0,0,0,0,0,6,5,8,20,14,0,0,0,0,0,0,15,43,26,45,32,78,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,6,cat6,SS (I-X),3,Local body,1,General,0,0,0,0,0,0,14,24,9,20,17,18,0,0,0,0,0,0,14,9,14,23,13,13,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,6,cat6,SS (I-X),3,Local body,1,General,0,0,0,0,0,0,4,5,14,9,9,9,0,0,0,0,0,0,0,3,5,4,0,1,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,6,cat6,SS (I-X),4,Government Aided,1,General,0,0,10,1,4,1,20,42,38,50,55,47,0,0,6,1,0,3,17,34,31,40,43,41,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,6,cat6,SS (I-X),4,Government Aided,1,General,0,0,0,0,0,0,0,2,3,4,3,7,0,0,0,0,0,0,1,1,2,3,2,2,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,6,cat6,SS (I-X),4,Government Aided,1,General,0,0,0,0,0,0,19,18,13,31,16,39,0,0,0,0,0,0,16,28,16,17,23,30,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,6,cat6,SS (I-X),4,Government Aided,1,General,0,0,0,0,0,0,6,15,12,4,20,23,0,0,0,0,0,0,3,1,9,11,22,16,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,6,cat6,SS (I-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,6,cat6,SS (I-X),4,Government Aided,1,General,0,0,0,0,0,0,9,7,21,9,15,14,0,0,0,0,0,0,13,14,11,12,11,14,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,6,cat6,SS (I-X),4,Government Aided,1,General,0,0,23,23,31,19,55,52,54,103,118,93,0,0,18,22,17,24,76,71,100,100,113,104,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,6,cat6,SS (I-X),4,Government Aided,1,General,169,219,91,107,80,69,256,279,266,319,417,445,0,0,112,109,96,94,251,301,332,448,608,666,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,6,cat6,SS (I-X),4,Government Aided,1,General,0,0,0,0,0,0,32,54,43,95,90,117,0,0,0,0,0,0,55,106,111,218,287,306,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,6,cat6,SS (I-X),4,Government Aided,1,General,0,0,0,0,0,0,18,40,38,45,49,43,0,0,0,0,0,0,18,18,12,35,27,32,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,6,cat6,SS (I-X),4,Government Aided,1,General,0,0,0,0,0,0,0,2,0,0,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,38,21,15,34,17,17,6,11,13,2,11,8,0,0,20,7,10,7,6,4,3,5,6,5,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,0,0,11,5,7,0,0,1,0,0,0,0,0,0,4,3,4,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,0,0,6,6,7,4,1,3,4,0,1,1,0,0,4,1,1,2,0,2,1,1,2,1,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,0,0,6,9,4,10,6,9,3,1,1,0,0,0,1,0,2,2,1,3,0,2,1,1,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,9,4,9,12,5,4,8,4,5,1,0,0,0,0,8,7,1,0,1,1,1,1,1,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,0,0,6,5,9,3,4,3,2,5,2,4,0,0,2,3,3,2,2,0,2,2,2,2,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,270,236,145,150,110,143,154,163,139,144,94,96,0,0,116,123,100,131,112,121,83,78,57,69,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,80,52,73,60,72,74,54,73,62,49,51,50,0,0,55,45,45,51,37,39,46,37,40,31,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,5,6,3,3,4,1,4,6,8,8,9,6,0,0,2,0,1,6,6,5,5,7,1,5,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,0,0,19,19,16,23,14,12,17,29,21,7,0,0,22,10,9,11,10,15,18,13,10,6,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,76,53,28,21,24,22,13,28,20,17,25,22,0,0,15,20,10,12,14,7,11,5,6,7,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,0,0,13,23,21,15,20,12,18,11,4,7,0,0,7,11,14,15,10,6,7,5,4,9,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,8,cat8,SS (IX-X),3,Local body,1,General,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,4,3,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,65,65,0,0,0,0,0,0,0,0,0,0,54,70,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,27,24,0,0,0,0,0,0,0,0,0,0,16,17,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,36,42,0,0,0,0,0,0,0,0,0,0,25,31,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,7,cat7,SS (VI-X),3,Local body,1,General,0,0,0,0,0,0,0,5,2,3,2,3,0,0,0,0,0,0,0,1,0,2,2,1,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,7,cat7,SS (VI-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,41,45,37,0,0,0,0,0,0,0,0,0,39,42,59,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,7,cat7,SS (VI-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,12,19,21,0,0,0,0,0,0,0,0,0,11,16,26,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,7,cat7,SS (VI-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,20,27,27,0,0,0,0,0,0,0,0,0,23,21,24,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,7,cat7,SS (VI-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,7,3,8,0,0,0,0,0,0,0,0,0,4,11,3,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,7,cat7,SS (VI-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,8,17,27,0,0,0,0,0,0,0,0,0,12,23,22,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,7,cat7,SS (VI-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,12,15,28,0,0,0,0,0,0,0,0,0,11,5,16,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,7,cat7,SS (VI-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,2,13,18,0,0,0,0,0,0,0,0,1,2,12,9,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,7,cat7,SS (VI-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,224,208,234,0,0,0,0,0,0,0,0,0,117,158,165,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,7,cat7,SS (VI-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,25,36,49,0,0,0,0,0,0,0,0,0,18,21,31,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,7,cat7,SS (VI-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,7,cat7,SS (VI-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,10,13,8,0,0,0,0,0,0,0,0,0,25,21,16,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,7,cat7,SS (VI-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,6,8,20,0,0,0,0,0,0,0,0,0,21,23,27,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,6,7,31,31,25,0,0,0,0,0,0,0,7,3,11,13,22,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,1,7,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,3,1,14,0,0,0,0,0,0,0,0,0,1,7,1,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,33,27,29,0,0,0,0,0,0,0,0,0,22,37,41,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,139,161,156,0,0,0,0,0,0,0,0,0,105,128,115,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,49,50,56,0,0,0,0,0,0,0,0,0,19,32,22,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,21,31,18,0,0,0,0,0,0,0,0,0,21,19,25,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,7,cat7,SS (VI-X),90,Social welfare Department,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,7,cat7,SS (VI-X),90,Social welfare Department,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,7,cat7,SS (VI-X),90,Social welfare Department,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,7,cat7,SS (VI-X),90,Social welfare Department,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,2,cat2,UPS (I-VIII),1,Department of Education,1,General,0,0,1,1,0,2,1,2,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,2,cat2,UPS (I-VIII),3,Local body,1,General,12,6,62,71,63,80,59,71,67,25,0,0,0,0,85,97,65,84,92,85,84,34,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,2,cat2,UPS (I-VIII),3,Local body,1,General,1,1,54,54,71,61,71,55,60,53,0,0,0,0,67,73,76,67,62,54,59,52,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,2,cat2,UPS (I-VIII),3,Local body,1,General,0,0,85,77,95,91,58,92,71,18,0,0,0,0,92,78,73,109,98,100,100,53,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,2,cat2,UPS (I-VIII),3,Local body,1,General,0,0,21,22,24,26,32,32,28,11,0,0,0,0,43,23,43,33,45,33,30,13,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,2,cat2,UPS (I-VIII),3,Local body,1,General,0,0,84,81,75,90,77,63,66,38,0,0,0,0,93,91,93,91,94,91,74,36,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,2,cat2,UPS (I-VIII),3,Local body,1,General,4,4,42,42,47,47,46,32,27,8,0,0,0,0,56,31,53,56,41,35,27,2,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,2,cat2,UPS (I-VIII),3,Local body,1,General,0,0,127,134,138,134,102,116,111,38,0,0,0,0,107,92,117,86,103,121,91,32,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,2,cat2,UPS (I-VIII),3,Local body,1,General,0,0,78,72,62,66,64,53,58,49,0,0,0,0,78,75,82,73,82,81,66,64,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,2,cat2,UPS (I-VIII),3,Local body,1,General,0,0,54,62,53,70,89,60,68,39,0,0,0,0,68,73,88,78,102,69,69,34,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,2,cat2,UPS (I-VIII),3,Local body,1,General,0,0,5,12,12,9,19,7,7,0,0,0,0,0,17,19,13,27,21,24,14,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,2,cat2,UPS (I-VIII),3,Local body,1,General,18,15,56,21,31,42,23,29,20,0,0,0,0,0,51,31,31,56,16,25,9,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,2,cat2,UPS (I-VIII),3,Local body,1,General,0,0,9,12,10,10,8,9,21,5,0,0,0,0,15,8,14,16,14,22,27,1,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,2,cat2,UPS (I-VIII),3,Local body,1,General,283,316,252,220,245,238,248,186,165,169,0,0,0,0,295,295,256,261,227,187,209,159,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,2,cat2,UPS (I-VIII),4,Government Aided,1,General,6,9,74,99,74,95,66,64,79,0,0,0,0,0,85,82,87,78,62,64,55,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,2,cat2,UPS (I-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,2,cat2,UPS (I-VIII),4,Government Aided,1,General,0,0,3,4,5,3,10,11,7,0,0,0,0,0,4,7,6,4,10,11,10,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,2,cat2,UPS (I-VIII),4,Government Aided,1,General,0,0,13,15,13,19,19,20,13,0,0,0,0,0,21,14,22,14,14,16,16,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,2,cat2,UPS (I-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,2,cat2,UPS (I-VIII),4,Government Aided,1,General,0,0,3,4,3,1,2,1,3,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,2,cat2,UPS (I-VIII),4,Government Aided,1,General,0,0,38,40,55,57,44,36,40,0,0,0,0,0,53,46,41,35,45,47,34,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,2,cat2,UPS (I-VIII),4,Government Aided,1,General,423,483,399,414,405,428,430,445,406,60,0,0,0,0,462,447,419,493,445,439,405,80,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,2,cat2,UPS (I-VIII),4,Government Aided,1,General,0,0,163,155,170,179,177,165,178,38,0,0,0,0,152,149,169,183,168,160,155,33,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,2,cat2,UPS (I-VIII),4,Government Aided,1,General,0,0,26,40,48,52,23,30,17,0,0,0,0,0,25,45,36,43,28,23,12,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,2,cat2,UPS (I-VIII),4,Government Aided,1,General,10,8,25,33,31,34,26,31,29,0,0,0,0,0,29,24,33,32,19,29,33,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,2,cat2,UPS (I-VIII),4,Government Aided,1,General,68,73,62,40,62,71,45,49,43,0,0,0,0,0,98,82,82,74,31,43,55,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,222,166,214,215,183,175,146,145,141,34,0,0,0,0,148,139,150,143,124,127,80,24,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,26,18,34,44,41,32,25,12,16,17,0,0,0,0,31,26,20,21,22,20,13,7,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,230,143,50,50,48,37,24,28,16,5,0,0,0,0,41,38,28,29,18,8,15,4,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,41,14,10,10,13,10,15,10,12,1,0,0,0,0,11,8,7,8,5,9,2,1,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,35,5,9,7,11,2,2,10,5,0,0,0,0,0,11,12,5,6,0,4,1,1,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,0,0,13,6,2,3,1,0,3,0,0,0,0,0,6,2,1,3,0,0,2,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,351,324,235,222,271,242,232,222,213,70,0,0,0,0,197,180,189,184,165,189,186,39,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,110,98,185,153,156,153,106,104,73,29,0,0,0,0,117,115,114,99,80,76,68,21,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,0,0,85,51,44,58,45,27,33,20,0,0,0,0,44,49,33,24,25,15,10,6,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,5,6,33,29,32,27,42,28,32,0,0,0,0,0,21,13,17,19,20,19,37,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,2,1,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,0,0,3,2,1,2,2,1,0,0,0,0,0,0,0,3,1,2,2,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,0,0,6,4,2,5,1,0,0,0,0,0,0,0,5,4,2,0,1,2,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,2,cat2,UPS (I-VIII),90,Social welfare Department,1,General,0,0,0,0,0,0,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,17,38,7,4,4,13,8,0,0,0,0,0,0,0,4,2,8,6,2,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,3,cat3,HSS (I-XII),3,Local body,2,SC,0,0,0,0,0,0,0,1,2,12,23,23,28,30,0,0,0,0,0,2,4,9,11,21,19,31
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,3,cat3,HSS (I-XII),3,Local body,2,SC,0,0,0,0,0,0,0,1,0,6,4,0,14,11,0,0,0,0,0,1,3,2,1,2,6,3
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,3,cat3,HSS (I-XII),3,Local body,2,SC,0,0,0,0,0,0,0,1,0,2,3,8,1,0,0,0,0,0,0,0,0,0,2,2,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,3,cat3,HSS (I-XII),3,Local body,2,SC,0,0,0,0,0,0,1,0,0,2,2,2,0,0,0,0,0,0,1,2,2,0,0,2,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,3,cat3,HSS (I-XII),4,Government Aided,2,SC,0,0,0,0,0,0,80,127,131,152,214,222,214,258,0,0,0,0,93,115,125,144,193,199,247,259
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,3,cat3,HSS (I-XII),4,Government Aided,2,SC,0,0,0,0,0,0,48,63,81,67,94,127,110,146,0,0,0,0,57,51,68,82,88,95,96,119
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,3,cat3,HSS (I-XII),4,Government Aided,2,SC,0,0,0,0,0,0,105,127,140,181,250,255,259,279,0,0,0,0,89,138,119,155,205,250,190,288
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,3,cat3,HSS (I-XII),4,Government Aided,2,SC,0,0,0,0,0,0,58,98,78,112,133,186,197,272,0,0,0,0,64,52,73,123,120,148,186,189
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,3,cat3,HSS (I-XII),4,Government Aided,2,SC,0,0,0,0,0,0,57,85,68,116,126,166,191,241,0,0,0,0,47,62,42,82,117,142,164,165
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,3,cat3,HSS (I-XII),4,Government Aided,2,SC,0,0,0,0,0,0,30,33,36,34,49,52,60,99,0,0,0,0,28,27,34,38,54,45,69,81
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,3,cat3,HSS (I-XII),4,Government Aided,2,SC,0,0,0,0,0,0,61,75,65,82,61,84,50,58,0,0,0,0,42,72,57,79,70,65,68,62
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,3,cat3,HSS (I-XII),4,Government Aided,2,SC,0,0,0,0,0,0,216,238,282,315,303,313,131,162,0,0,0,0,151,191,194,241,263,252,177,218
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,3,cat3,HSS (I-XII),4,Government Aided,2,SC,0,0,0,0,0,0,55,56,75,111,112,115,62,54,0,0,0,0,48,79,76,99,97,107,86,89
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,3,cat3,HSS (I-XII),4,Government Aided,2,SC,0,0,0,0,0,0,39,44,47,27,61,56,36,54,0,0,0,0,48,61,35,69,74,57,65,68
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,3,cat3,HSS (I-XII),4,Government Aided,2,SC,0,0,0,0,0,0,16,22,19,38,42,32,12,13,0,0,0,0,24,23,40,40,52,44,37,46
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,3,cat3,HSS (I-XII),4,Government Aided,2,SC,0,0,0,0,0,0,36,26,31,37,36,39,61,83,0,0,0,0,26,29,37,37,30,44,70,84
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,3,cat3,HSS (I-XII),4,Government Aided,2,SC,0,0,0,0,0,0,42,22,31,32,36,24,5,3,0,0,0,0,24,24,25,27,20,26,9,7
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,66,59,27,35,37,37,32,35,39,22,27,28,3,4,35,29,22,17,33,25,23,20,11,17,5,3
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,0,0,15,12,7,9,6,5,5,1,8,1,0,2,10,7,5,3,5,3,4,5,7,1,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,0,0,11,7,6,2,7,6,7,4,3,4,17,9,4,6,2,1,2,3,5,4,4,1,10,10
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,59,45,41,52,46,36,95,77,89,66,83,64,12,18,62,29,49,47,61,67,46,58,38,46,6,12
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,0,0,4,3,3,5,3,4,6,4,2,3,0,2,3,5,5,3,4,4,5,0,0,2,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,5,2,3,4,4,4,3,0,3,3,1,2,1,5,0,3,2,2,0,1,0,1,0,0,1,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,2,13,2,8,0,0,0,0,0,0,0,0,1,2,1,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,3,7,2,1,0,0,0,0,0,0,0,0,5,5,3,7
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,6,7,3,2,0,0,0,0,0,0,0,0,3,3,3,2
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,25,32,69,71,83,0,0,0,0,0,0,0,34,35,50,42,53
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,1,2,19,30,60,49,58,0,0,0,0,0,1,2,15,26,49,41,43
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,12,16,20,18,31,0,0,0,0,0,0,0,8,14,19,15,18
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,4,8,18,15,40,0,0,0,0,0,0,0,1,2,5,10,10
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,7,19,16,16,11,0,0,0,0,0,0,0,3,3,12,15,17
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,10,10,11,13,20,0,0,0,0,0,0,0,13,15,15,12,16
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,9,5,5,4,7,0,0,0,0,0,0,0,17,14,10,7,6
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,24,26,21,18,24,0,0,0,0,0,0,0,23,19,21,33,31
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,5,4,16,15,32,0,0,0,0,0,0,0,1,1,4,8,14
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,20,14,16,1,6,0,0,0,0,0,0,0,15,15,17,2,1
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,5,3,4,4,0,0,0,0,0,0,0,2,0,1,5,2
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,5,cat5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,2,SC,0,0,0,0,0,0,0,16,16,13,23,16,12,11,0,0,0,0,0,12,10,11,11,7,6,6
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,11,cat11,HSS (XI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,9,5,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,11,cat11,HSS (XI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,50,45,0,0,0,0,0,0,0,0,0,0,35,32
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,11,cat11,HSS (XI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,21,15,0,0,0,0,0,0,0,0,0,0,9,9
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,11,cat11,HSS (XI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,23,36,0,0,0,0,0,0,0,0,0,0,23,25
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,11,cat11,HSS (XI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,47,69,0,0,0,0,0,0,0,0,0,0,64,65
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,11,cat11,HSS (XI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,297,305,0,0,0,0,0,0,0,0,0,0,367,383
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,11,cat11,HSS (XI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,25,24,0,0,0,0,0,0,0,0,0,0,25,12
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,11,cat11,HSS (XI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,12,18,0,0,0,0,0,0,0,0,0,0,10,11
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,94,138,0,0,0,0,0,0,0,0,0,0,88,112
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,4,10,0,0,0,0,0,0,0,0,0,0,3,7
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,51,80,0,0,0,0,0,0,0,0,0,0,30,49
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,9,16,0,0,0,0,0,0,0,0,0,0,8,11
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,50,65,0,0,0,0,0,0,0,0,0,0,48,70
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,32,26,0,0,0,0,0,0,0,0,0,0,19,16
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,62,50,0,0,0,0,0,0,0,0,0,0,60,45
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,65,84,0,0,0,0,0,0,0,0,0,0,31,45
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,2,6,0,0,0,0,0,0,0,0,0,0,0,2
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,11,25,0,0,0,0,0,0,0,0,0,0,13,5
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,1,cat1,PS (I-V),3,Local body,2,SC,0,0,165,162,163,212,55,0,0,0,0,0,0,0,153,165,169,179,57,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,1,cat1,PS (I-V),3,Local body,2,SC,0,0,82,104,117,130,12,0,0,0,0,0,0,0,81,106,115,112,29,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,1,cat1,PS (I-V),3,Local body,2,SC,0,0,147,143,133,156,52,0,0,0,0,0,0,0,125,156,151,144,61,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,1,cat1,PS (I-V),3,Local body,2,SC,0,0,58,66,88,87,22,0,0,0,0,0,0,0,68,68,86,86,15,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,1,cat1,PS (I-V),3,Local body,2,SC,2,0,68,92,123,120,21,0,0,0,0,0,0,0,83,103,107,121,31,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,1,cat1,PS (I-V),3,Local body,2,SC,0,0,61,55,65,70,10,0,0,0,0,0,0,0,78,63,69,67,17,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,1,cat1,PS (I-V),3,Local body,2,SC,0,0,67,80,82,114,18,0,0,0,0,0,0,0,82,105,101,107,25,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,1,cat1,PS (I-V),3,Local body,2,SC,0,0,9,11,17,23,10,0,0,0,0,0,0,0,14,12,11,23,11,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,1,cat1,PS (I-V),3,Local body,2,SC,0,0,4,2,2,2,0,0,0,0,0,0,0,0,2,3,7,5,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,1,cat1,PS (I-V),3,Local body,2,SC,0,0,22,19,30,37,0,0,0,0,0,0,0,0,31,30,26,29,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,1,cat1,PS (I-V),3,Local body,2,SC,0,0,7,6,11,13,0,0,0,0,0,0,0,0,16,26,15,11,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,1,cat1,PS (I-V),3,Local body,2,SC,0,0,14,6,11,9,0,0,0,0,0,0,0,0,7,7,6,7,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,1,cat1,PS (I-V),3,Local body,2,SC,1,0,14,15,22,19,6,0,0,0,0,0,0,0,16,12,17,28,13,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,1,cat1,PS (I-V),4,Government Aided,2,SC,9,5,20,15,19,23,0,0,0,0,0,0,0,0,25,22,17,27,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,1,cat1,PS (I-V),4,Government Aided,2,SC,0,0,1,6,3,7,2,0,0,0,0,0,0,0,3,2,2,6,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,1,cat1,PS (I-V),4,Government Aided,2,SC,2,4,5,4,5,3,0,0,0,0,0,0,0,0,1,2,2,1,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,1,cat1,PS (I-V),4,Government Aided,2,SC,0,0,104,96,114,111,0,0,0,0,0,0,0,0,88,104,92,100,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,1,cat1,PS (I-V),4,Government Aided,2,SC,0,0,19,20,29,24,6,0,0,0,0,0,0,0,21,18,22,22,2,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,1,cat1,PS (I-V),4,Government Aided,2,SC,0,0,26,21,30,33,0,0,0,0,0,0,0,0,21,23,24,28,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,1,cat1,PS (I-V),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,62,62,77,67,57,53,20,0,0,0,0,0,0,0,49,42,36,45,8,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,23,18,19,15,12,12,0,0,0,0,0,0,0,0,8,8,10,6,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,41,32,37,24,18,22,5,0,0,0,0,0,0,0,20,12,12,16,3,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,25,24,22,22,23,15,6,0,0,0,0,0,0,0,16,24,11,11,2,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,32,24,15,23,12,21,0,0,0,0,0,0,0,0,17,18,14,10,1,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,14,11,14,14,2,0,0,0,0,0,0,0,11,9,10,6,2,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,12,9,7,12,8,12,1,0,0,0,0,0,0,0,12,7,9,6,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,129,139,231,199,195,184,5,0,0,0,0,0,0,0,173,171,172,157,10,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,6,9,11,6,13,13,2,0,0,0,0,0,0,0,12,13,10,8,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,8,16,12,11,2,0,0,0,0,0,0,0,4,8,14,13,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,14,8,6,3,1,3,0,0,0,0,0,0,0,0,3,2,1,1,1,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,22,29,6,6,0,0,0,0,0,0,0,0,0,0,8,7,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,1,cat1,PS (I-V),8,Unrecognized,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,1,cat1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,6,cat6,SS (I-X),2,Tribal Welfare Department,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,6,cat6,SS (I-X),2,Tribal Welfare Department,2,SC,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,1,0,1,0,1,0,3,2,2,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,6,cat6,SS (I-X),3,Local body,2,SC,0,0,0,0,0,0,15,12,11,5,14,11,0,0,0,0,0,0,13,10,12,10,15,17,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,6,cat6,SS (I-X),3,Local body,2,SC,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,1,5,3,11,0,9,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,6,cat6,SS (I-X),3,Local body,2,SC,0,0,0,0,0,0,2,0,4,2,7,8,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,6,cat6,SS (I-X),3,Local body,2,SC,0,0,0,0,0,0,7,8,8,13,7,7,0,0,0,0,0,0,8,4,8,10,15,17,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,6,cat6,SS (I-X),4,Government Aided,2,SC,0,0,1,3,5,3,85,106,105,184,195,201,0,0,4,1,2,7,84,91,96,168,195,187,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,6,cat6,SS (I-X),4,Government Aided,2,SC,0,0,0,0,0,0,41,37,41,48,52,59,0,0,0,0,0,0,35,32,41,60,66,66,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,6,cat6,SS (I-X),4,Government Aided,2,SC,0,0,0,0,0,0,9,11,13,16,32,37,0,0,0,0,0,0,16,12,11,29,31,42,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,6,cat6,SS (I-X),4,Government Aided,2,SC,0,0,0,0,0,0,18,14,22,20,22,35,0,0,0,0,0,0,16,20,27,43,41,32,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,6,cat6,SS (I-X),4,Government Aided,2,SC,0,0,0,0,0,0,18,28,39,35,36,47,0,0,0,0,0,0,18,26,13,30,33,31,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,6,cat6,SS (I-X),4,Government Aided,2,SC,0,0,0,0,0,0,46,56,42,60,55,61,0,0,0,0,0,0,34,53,42,53,59,85,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,6,cat6,SS (I-X),4,Government Aided,2,SC,0,0,0,0,0,0,33,27,33,45,61,46,0,0,0,0,0,0,27,36,40,51,59,57,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,6,cat6,SS (I-X),4,Government Aided,2,SC,20,10,10,5,7,14,200,181,199,206,263,321,0,0,1,9,5,4,202,180,226,260,356,321,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,6,cat6,SS (I-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,1,0,1,2,6,0,0,0,0,0,0,0,0,0,0,3,3,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,6,cat6,SS (I-X),4,Government Aided,2,SC,0,0,0,0,0,0,13,28,21,34,30,27,0,0,0,0,0,0,9,20,17,26,33,34,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,6,cat6,SS (I-X),4,Government Aided,2,SC,0,0,0,0,0,0,10,8,14,16,34,41,0,0,0,0,0,0,4,6,7,18,27,43,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,106,91,50,42,37,32,31,34,28,24,15,15,0,0,38,29,33,34,23,31,17,19,13,17,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,11,5,5,5,8,16,0,0,0,0,0,0,9,7,6,5,12,8,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,16,5,4,5,8,6,3,4,1,1,0,0,11,5,4,4,5,3,4,0,0,1,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,15,17,11,16,9,7,9,8,6,4,0,0,7,7,3,10,7,9,2,5,2,3,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,8,7,10,9,3,4,7,5,2,3,1,0,0,0,5,2,6,4,1,1,1,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,6,5,5,4,2,1,1,1,0,3,0,0,4,1,0,0,1,4,0,0,1,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,52,43,80,84,60,63,82,64,56,60,45,40,0,0,62,71,74,58,57,43,46,42,39,43,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,30,21,32,27,23,29,17,19,12,19,12,12,0,0,24,20,17,19,8,17,14,11,8,11,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,11,10,4,6,11,9,7,8,3,3,4,12,0,0,4,5,5,4,4,7,2,2,2,4,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,30,16,14,12,11,7,9,9,7,4,0,0,10,14,8,12,6,13,8,6,10,3,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,6,7,10,7,5,1,5,2,5,3,0,0,8,9,6,5,5,4,3,4,3,2,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,8,cat8,SS (IX-X),3,Local body,2,SC,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,3,3,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,35,38,0,0,0,0,0,0,0,0,0,0,23,28,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,7,cat7,SS (VI-X),3,Local body,2,SC,0,0,0,0,0,0,0,3,4,6,6,2,0,0,0,0,0,0,0,3,8,7,6,5,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,7,cat7,SS (VI-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,136,181,161,0,0,0,0,0,0,0,0,0,102,128,159,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,7,cat7,SS (VI-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,1,0,35,51,44,0,0,0,0,0,0,0,0,1,35,40,47,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,7,cat7,SS (VI-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,39,64,70,0,0,0,0,0,0,0,0,0,37,57,46,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,7,cat7,SS (VI-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,13,28,56,0,0,0,0,0,0,0,0,0,20,34,37,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,7,cat7,SS (VI-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,32,47,62,0,0,0,0,0,0,0,0,0,47,39,36,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,7,cat7,SS (VI-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,30,51,62,0,0,0,0,0,0,0,0,0,23,53,76,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,7,cat7,SS (VI-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,3,8,41,40,48,0,0,0,0,0,0,0,3,6,46,46,39,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,7,cat7,SS (VI-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,22,16,25,0,0,0,0,0,0,0,0,0,7,3,10,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,7,cat7,SS (VI-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,5,15,13,0,0,0,0,0,0,0,0,0,3,7,8,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,7,cat7,SS (VI-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,8,15,13,0,0,0,0,0,0,0,0,0,11,10,16,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,7,cat7,SS (VI-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,7,cat7,SS (VI-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,7,9,15,0,0,0,0,0,0,0,0,0,3,5,4,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,13,6,24,20,28,0,0,0,0,0,0,0,9,4,14,17,22,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,4,10,13,0,0,0,0,0,0,0,0,0,5,8,10,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,5,14,31,0,0,0,0,0,0,0,0,0,4,5,10,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,4,8,24,0,0,0,0,0,0,0,0,0,5,6,15,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,8,6,11,0,0,0,0,0,0,0,0,0,7,6,9,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,4,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,70,56,67,0,0,0,0,0,0,0,0,0,50,51,73,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,10,5,11,0,0,0,0,0,0,0,0,0,3,6,5,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,7,cat7,SS (VI-X),90,Social welfare Department,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,31,26,31,28,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,7,cat7,SS (VI-X),90,Social welfare Department,2,SC,0,0,0,0,0,0,0,29,30,29,29,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,7,cat7,SS (VI-X),90,Social welfare Department,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,32,26,23,22,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,7,cat7,SS (VI-X),90,Social welfare Department,2,SC,0,0,0,0,0,0,0,10,26,31,35,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,0,0,0,8,6,3,3,4,2,0,0,0,0,0,1,3,6,7,4,3,7,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,2,cat2,UPS (I-VIII),3,Local body,2,SC,10,8,139,172,188,213,199,206,172,37,0,0,0,0,193,199,234,226,219,243,224,32,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,2,cat2,UPS (I-VIII),3,Local body,2,SC,5,12,96,103,113,138,92,97,104,19,0,0,0,0,91,97,117,109,112,105,99,22,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,2,cat2,UPS (I-VIII),3,Local body,2,SC,0,0,138,131,154,163,190,169,153,70,0,0,0,0,130,146,136,189,173,166,148,67,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,2,cat2,UPS (I-VIII),3,Local body,2,SC,15,12,82,73,76,73,88,69,90,20,0,0,0,0,80,77,98,78,98,88,77,19,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,2,cat2,UPS (I-VIII),3,Local body,2,SC,0,0,85,88,92,108,81,94,81,13,0,0,0,0,73,101,118,120,97,107,100,14,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,2,cat2,UPS (I-VIII),3,Local body,2,SC,6,7,88,84,94,110,95,88,61,22,0,0,0,0,85,96,90,92,96,83,77,28,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,2,cat2,UPS (I-VIII),3,Local body,2,SC,0,0,116,121,133,118,126,108,96,20,0,0,0,0,77,110,99,88,118,112,96,29,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,2,cat2,UPS (I-VIII),3,Local body,2,SC,0,0,16,19,18,18,25,26,19,20,0,0,0,0,15,17,32,29,29,23,29,18,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,2,cat2,UPS (I-VIII),3,Local body,2,SC,0,0,5,13,5,13,18,10,6,0,0,0,0,0,5,11,8,9,14,8,8,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,2,cat2,UPS (I-VIII),3,Local body,2,SC,0,0,1,0,2,0,0,0,0,0,0,0,0,0,3,1,3,3,1,2,1,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,2,cat2,UPS (I-VIII),3,Local body,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,2,cat2,UPS (I-VIII),3,Local body,2,SC,0,0,13,8,11,13,10,5,8,8,0,0,0,0,21,7,19,16,16,8,13,5,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,2,cat2,UPS (I-VIII),3,Local body,2,SC,65,56,82,80,83,84,59,72,43,53,0,0,0,0,85,86,87,86,43,49,43,51,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,2,cat2,UPS (I-VIII),4,Government Aided,2,SC,29,28,58,61,86,81,60,61,49,0,0,0,0,0,72,62,70,56,53,65,57,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,2,cat2,UPS (I-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,2,cat2,UPS (I-VIII),4,Government Aided,2,SC,0,0,6,5,6,12,8,13,4,0,0,0,0,0,4,4,10,5,8,7,7,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,2,cat2,UPS (I-VIII),4,Government Aided,2,SC,0,0,8,7,4,9,8,10,13,0,0,0,0,0,3,10,5,5,5,3,6,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,2,cat2,UPS (I-VIII),4,Government Aided,2,SC,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,4,2,0,1,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,2,cat2,UPS (I-VIII),4,Government Aided,2,SC,0,0,0,2,3,3,7,3,6,0,0,0,0,0,2,4,2,3,4,6,5,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,2,cat2,UPS (I-VIII),4,Government Aided,2,SC,0,0,2,3,5,2,6,6,3,0,0,0,0,0,2,5,3,5,5,4,4,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,2,cat2,UPS (I-VIII),4,Government Aided,2,SC,0,1,81,66,66,72,66,60,73,0,0,0,0,0,43,71,71,81,58,77,65,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,2,cat2,UPS (I-VIII),4,Government Aided,2,SC,0,0,18,18,19,28,25,19,23,6,0,0,0,0,20,27,21,19,23,21,13,5,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,2,cat2,UPS (I-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,2,cat2,UPS (I-VIII),4,Government Aided,2,SC,19,28,51,33,41,57,51,48,44,0,0,0,0,0,45,44,45,44,42,48,38,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,2,cat2,UPS (I-VIII),4,Government Aided,2,SC,0,0,10,9,9,13,5,10,7,0,0,0,0,0,6,5,13,6,9,9,6,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,81,105,72,99,75,69,46,40,45,13,0,0,0,0,77,74,55,53,50,29,39,7,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,36,19,34,34,36,36,23,28,20,15,0,0,0,0,29,18,24,38,24,19,9,8,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,15,16,12,7,9,3,6,1,3,0,0,0,0,0,10,5,6,2,4,1,5,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,7,5,5,1,9,7,5,4,2,5,0,0,0,0,6,4,4,9,1,6,5,1,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,18,15,8,16,22,9,9,4,3,1,0,0,0,0,10,7,7,5,8,0,2,1,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,2,4,13,14,13,13,10,16,5,0,0,0,0,0,9,15,10,16,11,9,9,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,120,122,170,174,136,147,136,107,98,39,0,0,0,0,162,138,135,127,86,74,96,16,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,5,7,24,24,38,21,15,18,12,5,0,0,0,0,20,20,21,14,14,15,8,5,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,0,0,9,18,9,1,7,1,2,1,0,0,0,0,11,9,7,2,3,1,1,1,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,14,12,25,31,22,27,15,21,15,0,0,0,0,0,25,25,22,17,12,14,11,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,10,12,9,9,10,6,2,0,1,0,0,0,0,0,6,4,2,5,4,1,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,0,0,12,6,5,2,2,0,0,0,0,0,0,0,9,4,1,1,3,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,0,0,2,1,2,1,0,1,0,0,0,0,0,0,3,1,2,1,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,2,cat2,UPS (I-VIII),90,Social welfare Department,2,SC,0,0,0,0,2,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,3,cat3,HSS (I-XII),3,Local body,3,ST,0,0,0,0,0,0,0,2,3,0,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,3,cat3,HSS (I-XII),3,Local body,3,ST,0,0,0,0,0,0,0,3,2,2,2,5,3,4,0,0,0,0,0,0,0,2,2,6,1,5
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,3,cat3,HSS (I-XII),3,Local body,3,ST,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,3,cat3,HSS (I-XII),3,Local body,3,ST,0,0,0,0,0,0,1,0,1,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,3,cat3,HSS (I-XII),4,Government Aided,3,ST,0,0,0,0,0,0,6,6,9,13,14,23,13,16,0,0,0,0,14,10,6,14,19,15,15,24
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,3,cat3,HSS (I-XII),4,Government Aided,3,ST,0,0,0,0,0,0,18,24,39,41,27,36,16,16,0,0,0,0,12,16,23,26,16,19,15,10
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,3,cat3,HSS (I-XII),4,Government Aided,3,ST,0,0,0,0,0,0,52,57,50,53,57,44,17,19,0,0,0,0,4,9,11,6,7,7,12,13
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,3,cat3,HSS (I-XII),4,Government Aided,3,ST,0,0,0,0,0,0,15,14,13,23,27,53,25,56,0,0,0,0,15,8,18,17,30,34,25,26
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,3,cat3,HSS (I-XII),4,Government Aided,3,ST,0,0,0,0,0,0,25,41,35,44,49,41,23,38,0,0,0,0,19,14,23,31,32,26,18,24
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,3,cat3,HSS (I-XII),4,Government Aided,3,ST,0,0,0,0,0,0,13,17,19,22,22,41,12,46,0,0,0,0,16,18,18,19,14,21,25,36
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,3,cat3,HSS (I-XII),4,Government Aided,3,ST,0,0,0,0,0,0,5,8,13,1,10,10,6,5,0,0,0,0,1,9,4,6,8,8,5,8
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,3,cat3,HSS (I-XII),4,Government Aided,3,ST,0,0,0,0,0,0,29,28,16,36,23,38,20,15,0,0,0,0,18,18,26,16,14,29,25,32
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,3,cat3,HSS (I-XII),4,Government Aided,3,ST,0,0,0,0,0,0,8,15,18,17,21,17,10,8,0,0,0,0,8,5,18,17,23,17,23,8
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,3,cat3,HSS (I-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,1,3,2,2,0,1,0,0,0,0,1,2,0,0,0,2,0,2
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,3,cat3,HSS (I-XII),4,Government Aided,3,ST,0,0,0,0,0,0,2,4,3,5,9,5,0,0,0,0,0,0,2,3,7,3,9,2,1,4
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,3,cat3,HSS (I-XII),4,Government Aided,3,ST,0,0,0,0,0,0,5,17,12,17,9,11,13,15,0,0,0,0,16,11,6,8,7,25,20,20
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,3,cat3,HSS (I-XII),4,Government Aided,3,ST,0,0,0,0,0,0,3,2,8,3,7,7,1,2,0,0,0,0,2,4,2,3,1,10,4,2
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,6,5,8,3,3,6,8,3,2,3,4,2,1,0,6,4,2,3,2,2,3,4,3,4,0,1
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,0,1,1,0,0,2,0,0,0,0,1,0,0,0,0,3,2,0,1,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,1,2,0,0,1,1,2,0,0,0,3,2,0,1,3,0,0,0,1,1,1,0,2,2
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,5,6,10,12,8,12,14,17,11,9,11,10,2,5,7,14,5,4,10,5,13,7,7,8,4,4
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,4,3,1,3,1,4,5,0,0,1,0,0,2,0,0,4,4,0,2,3,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,2,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,2,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,6,3,3,0,0,0,0,0,0,0,4,4,1,1,2
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,1,2,1,4,3,6,0,0,0,0,0,0,0,3,9,7,9,12
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,2,2,9,2,3,0,0,0,0,0,0,0,3,4,4,2,8
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,1,3,5,2,0,0,0,0,0,0,0,0,1,2,0,1,2
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,4,4,3,4,4,0,0,0,0,0,0,0,2,3,2,2,2
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,26,31,32,52,70,0,0,0,0,0,0,0,24,30,23,27,21
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,6,3,1,1,1,0,0,0,0,0,0,0,3,5,2,2,3
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,1,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,1,2,0,0,3,0,0,0,0,0,0,0,3,0,2,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,3,1,1,0,0,0,0,0,0,0,1,1,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,5,cat5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,3,ST,0,0,0,0,0,0,0,4,2,4,2,2,5,2,0,0,0,0,0,5,6,6,4,2,3,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,11,cat11,HSS (XI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,11,cat11,HSS (XI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,9,5,0,0,0,0,0,0,0,0,0,0,4,3
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,11,cat11,HSS (XI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,11,cat11,HSS (XI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,13,5,0,0,0,0,0,0,0,0,0,0,5,7
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,11,cat11,HSS (XI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,9,10,0,0,0,0,0,0,0,0,0,0,7,6
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,11,cat11,HSS (XI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,38,50,0,0,0,0,0,0,0,0,0,0,36,46
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,11,cat11,HSS (XI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,9,9,0,0,0,0,0,0,0,0,0,0,3,4
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,11,cat11,HSS (XI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,2
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,16,25,0,0,0,0,0,0,0,0,0,0,7,19
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,15,20,0,0,0,0,0,0,0,0,0,0,9,18
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,3,10,0,0,0,0,0,0,0,0,0,0,1,3
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,10,9,0,0,0,0,0,0,0,0,0,0,9,14
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,16,19,0,0,0,0,0,0,0,0,0,0,9,10
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,11,21,0,0,0,0,0,0,0,0,0,0,8,10
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,1,cat1,PS (I-V),3,Local body,3,ST,0,0,52,63,47,58,8,0,0,0,0,0,0,0,46,48,65,68,6,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,1,cat1,PS (I-V),3,Local body,3,ST,0,0,65,77,69,68,46,0,0,0,0,0,0,0,87,97,91,77,44,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,1,cat1,PS (I-V),3,Local body,3,ST,0,0,7,15,14,12,4,0,0,0,0,0,0,0,7,14,18,16,5,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,1,cat1,PS (I-V),3,Local body,3,ST,0,0,52,53,40,51,12,0,0,0,0,0,0,0,45,51,48,45,15,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,1,cat1,PS (I-V),3,Local body,3,ST,0,0,31,39,23,23,5,0,0,0,0,0,0,0,29,24,22,24,6,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,1,cat1,PS (I-V),3,Local body,3,ST,0,0,102,80,88,78,8,0,0,0,0,0,0,0,107,96,88,103,14,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,1,cat1,PS (I-V),3,Local body,3,ST,0,0,35,42,34,34,23,0,0,0,0,0,0,0,38,25,39,31,30,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,1,cat1,PS (I-V),3,Local body,3,ST,0,0,2,10,2,5,0,0,0,0,0,0,0,0,0,9,2,2,1,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,1,cat1,PS (I-V),3,Local body,3,ST,0,0,1,1,1,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,1,cat1,PS (I-V),3,Local body,3,ST,0,0,0,2,2,2,0,0,0,0,0,0,0,0,4,3,0,2,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,1,cat1,PS (I-V),3,Local body,3,ST,0,0,1,0,2,1,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,1,cat1,PS (I-V),3,Local body,3,ST,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,1,cat1,PS (I-V),3,Local body,3,ST,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,1,cat1,PS (I-V),4,Government Aided,3,ST,0,0,1,0,1,3,0,0,0,0,0,0,0,0,1,2,1,1,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,1,cat1,PS (I-V),4,Government Aided,3,ST,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,1,cat1,PS (I-V),4,Government Aided,3,ST,3,0,1,1,0,2,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,1,cat1,PS (I-V),4,Government Aided,3,ST,0,0,5,6,5,10,0,0,0,0,0,0,0,0,4,6,5,7,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,1,cat1,PS (I-V),4,Government Aided,3,ST,0,0,3,4,2,1,0,0,0,0,0,0,0,0,6,2,1,4,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,1,cat1,PS (I-V),4,Government Aided,3,ST,0,0,3,11,2,4,0,0,0,0,0,0,0,0,4,3,2,5,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,1,cat1,PS (I-V),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,4,8,4,2,8,5,0,0,0,0,0,0,0,0,10,6,6,2,1,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,21,8,4,5,4,2,0,0,0,0,0,0,0,0,2,5,2,5,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,7,4,1,1,4,1,0,0,0,0,0,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,1,4,4,5,4,0,0,0,0,0,0,0,0,6,4,1,4,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,1,3,5,2,2,2,0,0,0,0,0,0,0,0,6,3,2,2,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,2,3,4,4,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,3,2,4,4,1,5,0,0,0,0,0,0,0,0,2,3,2,2,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,11,11,14,26,21,21,0,0,0,0,0,0,0,0,17,27,23,11,1,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,2,0,0,0,0,0,0,0,0,4,1,1,1,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,9,5,2,4,2,0,1,0,0,0,0,0,0,0,2,2,1,1,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,1,cat1,PS (I-V),8,Unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,1,cat1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,6,cat6,SS (I-X),2,Tribal Welfare Department,3,ST,0,0,0,0,0,0,11,17,24,17,21,20,0,0,0,0,0,0,19,25,23,23,29,20,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,6,cat6,SS (I-X),2,Tribal Welfare Department,3,ST,0,0,16,9,26,17,15,19,27,18,23,24,0,0,17,11,21,24,31,39,49,38,32,36,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,6,cat6,SS (I-X),3,Local body,3,ST,0,0,0,0,0,0,0,1,0,1,0,2,0,0,0,0,0,0,2,0,0,0,1,1,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,6,cat6,SS (I-X),3,Local body,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,6,cat6,SS (I-X),3,Local body,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,6,cat6,SS (I-X),3,Local body,3,ST,0,0,0,0,0,0,2,3,2,5,3,4,0,0,0,0,0,0,2,2,2,6,1,3,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,6,cat6,SS (I-X),4,Government Aided,3,ST,0,0,0,0,0,0,7,6,10,17,22,11,0,0,1,0,1,1,7,14,5,10,14,16,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,6,cat6,SS (I-X),4,Government Aided,3,ST,0,0,0,0,0,0,6,8,10,11,7,9,0,0,0,0,0,0,13,8,12,5,6,5,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,6,cat6,SS (I-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,4,5,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,6,cat6,SS (I-X),4,Government Aided,3,ST,0,0,0,0,0,0,11,11,10,11,21,19,0,0,0,0,0,0,8,14,13,21,24,15,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,6,cat6,SS (I-X),4,Government Aided,3,ST,0,0,0,0,0,0,4,4,9,3,8,16,0,0,0,0,0,0,5,5,3,6,3,3,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,6,cat6,SS (I-X),4,Government Aided,3,ST,0,0,0,0,0,0,18,26,27,23,23,22,0,0,0,0,0,0,28,27,29,40,38,36,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,6,cat6,SS (I-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,4,4,4,3,2,0,0,0,0,0,0,2,3,0,9,2,3,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,6,cat6,SS (I-X),4,Government Aided,3,ST,2,4,0,2,4,1,15,15,15,24,38,26,0,0,3,1,1,0,16,24,21,30,26,36,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,6,cat6,SS (I-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,1,1,6,5,10,0,0,0,0,0,0,0,2,2,6,8,9,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,6,cat6,SS (I-X),4,Government Aided,3,ST,0,0,0,0,0,0,2,5,3,4,2,2,0,0,0,0,0,0,0,2,0,1,2,4,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,6,cat6,SS (I-X),4,Government Aided,3,ST,0,0,0,0,0,0,3,0,3,4,4,7,0,0,0,0,0,0,1,1,1,1,4,9,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,6,4,1,4,4,8,1,1,0,2,2,1,0,0,0,3,4,2,2,0,4,1,1,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,1,1,0,3,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,1,1,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,1,2,1,1,0,1,0,1,0,0,0,0,1,0,2,0,2,1,0,0,1,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,11,2,2,0,4,1,0,0,0,0,0,0,0,0,3,0,2,1,0,1,0,1,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,3,1,0,1,0,0,0,0,0,0,0,0,2,0,0,1,0,2,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,18,10,13,11,7,11,8,14,9,16,8,7,0,0,7,9,10,6,7,12,9,14,2,5,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,12,6,6,7,5,8,6,7,3,3,2,1,0,0,5,3,7,5,5,3,3,1,2,1,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,1,1,0,2,2,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,5,0,1,3,0,0,1,0,0,0,0,1,1,3,3,3,1,1,0,2,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,2,1,3,0,2,0,0,0,0,0,0,0,2,0,1,3,1,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,8,cat8,SS (IX-X),3,Local body,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,12,7,0,0,0,0,0,0,0,0,0,0,4,6,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,7,cat7,SS (VI-X),3,Local body,3,ST,0,0,0,0,0,0,0,7,1,2,3,3,0,0,0,0,0,0,0,2,1,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,7,cat7,SS (VI-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,21,41,39,0,0,0,0,0,0,0,0,0,19,37,15,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,7,cat7,SS (VI-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,1,0,44,36,40,0,0,0,0,0,0,0,0,0,38,48,49,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,7,cat7,SS (VI-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,7,7,12,0,0,0,0,0,0,0,0,0,9,9,5,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,7,cat7,SS (VI-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,37,43,73,0,0,0,0,0,0,0,0,0,37,40,45,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,7,cat7,SS (VI-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,2,8,7,0,0,0,0,0,0,0,0,0,9,4,4,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,7,cat7,SS (VI-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,32,45,46,0,0,0,0,0,0,0,0,0,17,31,39,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,7,cat7,SS (VI-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,1,0,7,11,6,0,0,0,0,0,0,0,2,0,11,10,8,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,7,cat7,SS (VI-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,5,1,2,0,0,0,0,0,0,0,0,0,2,0,1,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,7,cat7,SS (VI-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,7,cat7,SS (VI-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,7,cat7,SS (VI-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,7,cat7,SS (VI-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,4,4,5,0,0,0,0,0,0,0,0,0,2,1,1,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,4,7,4,0,0,0,0,0,0,0,0,0,1,3,3,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,5,6,12,0,0,0,0,0,0,0,0,0,3,4,9,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,2,5,6,0,0,0,0,0,0,0,0,0,2,1,3,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,2,3,16,0,0,0,0,0,0,0,0,0,2,1,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,5,0,5,0,0,0,0,0,0,0,0,0,0,3,10,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,12,9,7,0,0,0,0,0,0,0,0,0,8,10,6,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,7,cat7,SS (VI-X),90,Social welfare Department,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,3,4,4,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,7,cat7,SS (VI-X),90,Social welfare Department,3,ST,0,0,0,0,0,0,0,4,4,4,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,7,cat7,SS (VI-X),90,Social welfare Department,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,7,5,5,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,7,cat7,SS (VI-X),90,Social welfare Department,3,ST,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,0,0,1,0,2,0,1,0,1,0,0,0,0,0,1,0,1,0,2,0,1,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,2,cat2,UPS (I-VIII),3,Local body,3,ST,8,7,29,41,40,50,25,37,29,6,0,0,0,0,45,35,43,42,35,38,37,10,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,2,cat2,UPS (I-VIII),3,Local body,3,ST,3,5,93,92,89,96,99,98,72,39,0,0,0,0,94,90,104,90,95,82,93,34,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,2,cat2,UPS (I-VIII),3,Local body,3,ST,0,0,17,16,20,12,19,15,11,5,0,0,0,0,25,23,14,27,15,18,15,7,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,2,cat2,UPS (I-VIII),3,Local body,3,ST,1,1,41,38,43,35,24,38,34,10,0,0,0,0,40,30,34,45,43,33,30,9,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,2,cat2,UPS (I-VIII),3,Local body,3,ST,0,0,7,9,11,14,11,7,11,3,0,0,0,0,9,11,9,9,8,13,6,3,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,2,cat2,UPS (I-VIII),3,Local body,3,ST,0,0,47,43,48,58,38,52,32,9,0,0,0,0,54,51,56,56,35,37,40,9,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,2,cat2,UPS (I-VIII),3,Local body,3,ST,0,0,67,74,58,70,52,34,33,27,0,0,0,0,52,52,60,61,62,59,43,24,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,2,cat2,UPS (I-VIII),3,Local body,3,ST,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,1,1,2,1,3,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,2,cat2,UPS (I-VIII),3,Local body,3,ST,0,0,4,2,4,1,1,1,1,0,0,0,0,0,3,0,4,2,2,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,2,cat2,UPS (I-VIII),3,Local body,3,ST,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,2,cat2,UPS (I-VIII),3,Local body,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,2,cat2,UPS (I-VIII),3,Local body,3,ST,0,0,1,1,1,4,5,3,1,1,0,0,0,0,4,5,2,2,3,4,4,3,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,2,cat2,UPS (I-VIII),3,Local body,3,ST,3,2,8,5,6,4,3,1,3,1,0,0,0,0,3,5,5,6,5,1,4,2,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,2,cat2,UPS (I-VIII),4,Government Aided,3,ST,7,4,7,7,6,8,5,5,6,0,0,0,0,0,4,4,7,7,5,1,7,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,2,cat2,UPS (I-VIII),4,Government Aided,3,ST,0,0,4,4,6,9,10,20,15,0,0,0,0,0,8,2,3,9,14,15,17,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,2,cat2,UPS (I-VIII),4,Government Aided,3,ST,0,0,4,3,2,3,2,3,4,0,0,0,0,0,1,1,0,3,0,1,2,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,2,cat2,UPS (I-VIII),4,Government Aided,3,ST,0,0,27,33,27,24,41,28,36,0,0,0,0,0,32,11,20,26,26,26,19,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,2,cat2,UPS (I-VIII),4,Government Aided,3,ST,0,0,0,0,1,1,3,0,0,0,0,0,0,0,0,0,1,1,2,0,1,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,2,cat2,UPS (I-VIII),4,Government Aided,3,ST,0,0,14,22,12,16,19,21,24,0,0,0,0,0,15,14,8,14,16,15,17,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,2,cat2,UPS (I-VIII),4,Government Aided,3,ST,0,0,17,14,20,27,22,25,20,0,0,0,0,0,14,22,20,21,18,17,21,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,2,cat2,UPS (I-VIII),4,Government Aided,3,ST,0,0,12,7,8,7,8,6,6,0,0,0,0,0,12,6,6,7,5,12,8,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,2,cat2,UPS (I-VIII),4,Government Aided,3,ST,0,0,4,11,21,10,9,12,27,2,0,0,0,0,4,13,6,9,8,6,16,5,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,2,cat2,UPS (I-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,2,cat2,UPS (I-VIII),4,Government Aided,3,ST,4,1,4,6,2,9,7,5,4,0,0,0,0,0,4,5,4,9,9,3,2,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,2,cat2,UPS (I-VIII),4,Government Aided,3,ST,0,0,2,0,5,3,0,0,1,0,0,0,0,0,1,1,2,1,0,0,2,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,4,5,16,18,9,4,4,4,3,0,0,0,0,0,12,13,10,4,3,2,3,1,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,1,1,4,4,3,5,0,0,1,0,0,0,0,0,0,2,3,2,0,1,1,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,7,1,4,0,0,0,2,1,0,0,0,0,1,1,1,1,2,0,1,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,4,0,1,1,0,3,3,1,0,0,0,0,0,0,2,1,1,2,0,1,0,1,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,12,4,2,2,5,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,2,0,8,2,6,5,4,2,5,0,0,0,0,0,1,4,2,2,1,11,7,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,26,25,21,32,17,27,20,14,16,6,0,0,0,0,23,17,18,17,15,15,17,2,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,1,0,5,1,2,4,1,5,1,0,0,0,0,0,7,1,2,3,2,2,1,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,6,4,1,4,1,1,4,0,0,0,0,0,5,1,2,3,2,1,3,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,4,1,2,4,1,3,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,2,cat2,UPS (I-VIII),90,Social welfare Department,3,ST,0,0,3,1,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,3,cat3,HSS (I-XII),3,Local body,4,OBC,0,0,0,0,0,0,0,5,10,13,31,26,29,39,0,0,0,0,0,1,3,13,33,35,28,43
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,3,cat3,HSS (I-XII),3,Local body,4,OBC,0,0,0,0,0,0,0,0,0,1,3,1,28,33,0,0,0,0,0,0,0,2,1,0,12,13
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,3,cat3,HSS (I-XII),3,Local body,4,OBC,0,0,0,0,0,0,0,0,0,2,4,6,3,1,0,0,0,0,0,1,0,0,2,2,1,2
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,3,cat3,HSS (I-XII),3,Local body,4,OBC,0,0,0,0,0,0,1,2,2,2,8,2,3,2,0,0,0,0,0,1,1,2,5,4,2,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,3,cat3,HSS (I-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,141,144,177,199,250,302,259,309,0,0,0,0,124,158,168,236,242,273,234,275
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,3,cat3,HSS (I-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,175,192,171,245,222,298,280,338,0,0,0,0,159,178,181,210,259,250,218,257
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,3,cat3,HSS (I-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,165,256,253,349,424,408,352,435,0,0,0,0,149,195,170,232,328,354,380,353
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,3,cat3,HSS (I-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,138,190,235,282,355,422,445,593,0,0,0,0,117,192,171,278,336,310,357,386
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,3,cat3,HSS (I-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,80,126,152,153,155,215,216,247,0,0,0,0,72,87,100,124,110,163,188,161
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,3,cat3,HSS (I-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,65,62,72,92,104,114,80,115,0,0,0,0,68,80,77,86,95,125,88,113
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,3,cat3,HSS (I-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,150,185,183,172,183,210,112,137,0,0,0,0,143,114,152,180,169,190,156,173
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,3,cat3,HSS (I-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,393,485,499,615,659,694,341,417,0,0,0,0,307,452,413,475,520,530,373,431
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,3,cat3,HSS (I-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,254,279,282,367,423,346,234,269,0,0,0,0,190,218,268,294,312,373,421,433
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,3,cat3,HSS (I-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,100,137,134,152,148,159,155,161,0,0,0,0,126,136,113,138,178,142,143,186
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,3,cat3,HSS (I-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,13,26,25,39,43,43,25,20,0,0,0,0,8,21,27,41,31,43,81,98
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,3,cat3,HSS (I-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,104,100,87,139,159,168,214,208,0,0,0,0,88,90,78,109,128,121,195,182
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,3,cat3,HSS (I-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,150,176,134,138,141,122,43,47,0,0,0,0,107,103,117,126,124,138,70,69
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,70,68,103,131,129,115,112,144,114,90,108,99,21,12,73,78,68,90,86,78,61,55,48,56,14,23
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,0,0,31,46,33,30,25,42,22,14,30,5,6,3,29,32,16,19,11,17,12,10,13,3,8,1
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,3,12,13,13,14,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,0,0,22,15,13,3,18,14,7,5,8,6,32,18,12,10,6,3,6,4,11,7,8,2,25,18
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,144,143,174,160,155,146,235,257,212,230,218,211,52,80,147,116,127,97,161,160,154,136,127,149,34,45
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,0,0,29,28,17,19,36,29,29,7,16,21,9,6,19,24,19,21,17,10,17,22,22,7,4,3
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,0,0,31,25,12,9,6,5,3,0,0,0,0,0,14,21,10,8,3,4,3,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,10,9,4,5,0,2,2,0,1,2,2,2,0,0,3,2,2,0,0,2,0,2,0,1,0,1
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,46,37,15,17,27,17,18,17,11,11,20,12,6,19,9,9,17,13,11,16,6,6,10,12,9,4
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,4,11,13,18,0,0,0,0,0,0,0,0,0,1,0,2
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,16,15,15,15,0,0,0,0,0,0,0,0,19,2,19,18
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,50,56,15,23,0,0,0,0,0,0,0,0,34,29,23,22
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,28,34,45,79,89,0,0,0,0,0,0,0,27,28,34,39,60
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,12,9,27,37,67,60,69,0,0,0,0,0,10,2,40,41,52,48,70
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,22,35,62,62,99,0,0,0,0,0,0,0,30,33,41,44,51
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,29,51,66,73,76,0,0,0,0,0,0,0,14,18,20,21,36
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,29,43,48,75,87,0,0,0,0,0,0,0,33,35,40,44,50
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,16,23,29,56,58,0,0,0,0,0,0,0,16,10,25,31,34
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,16,19,7,0,0,0,0,0,0,0,0,0,7,16,6,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,5,26,14,40,22,0,0,0,0,0,0,0,15,21,28,11,17
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,39,41,48,46,21,0,0,0,0,0,0,0,41,47,39,98,107
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,19,15,16,5,5,0,0,0,0,0,0,0,12,13,11,12,10
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,6,4,21,22,56,0,0,0,0,0,0,0,0,6,10,8,14
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,56,59,46,7,40,0,0,0,0,0,0,0,35,32,31,14,5
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,12,6,15,42,25,0,0,0,0,0,0,0,11,8,9,21,32
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,5,cat5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,4,OBC,0,0,0,0,0,0,0,21,17,21,18,30,17,15,0,0,0,0,0,16,16,11,15,15,16,19
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,11,cat11,HSS (XI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,22,5,0,0,0,0,0,0,0,0,0,0,6,3
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,11,cat11,HSS (XI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,53,76,0,0,0,0,0,0,0,0,0,0,53,71
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,11,cat11,HSS (XI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,28,34,0,0,0,0,0,0,0,0,0,0,19,16
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,11,cat11,HSS (XI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,67,58,0,0,0,0,0,0,0,0,0,0,49,46
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,11,cat11,HSS (XI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,65,71,0,0,0,0,0,0,0,0,0,0,108,102
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,11,cat11,HSS (XI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,531,561,0,0,0,0,0,0,0,0,0,0,634,705
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,11,cat11,HSS (XI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,45,47,0,0,0,0,0,0,0,0,0,0,25,41
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,11,cat11,HSS (XI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,5,20,0,0,0,0,0,0,0,0,0,0,3,9
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,243,245,0,0,0,0,0,0,0,0,0,0,198,268
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,15,18,0,0,0,0,0,0,0,0,0,0,6,9
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,8,20,0,0,0,0,0,0,0,0,0,0,7,17
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,178,299,0,0,0,0,0,0,0,0,0,0,115,138
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,5,11,0,0,0,0,0,0,0,0,0,0,8,14
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,105,118,0,0,0,0,0,0,0,0,0,0,86,63
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,62,64,0,0,0,0,0,0,0,0,0,0,65,58
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,363,369,0,0,0,0,0,0,0,0,0,0,312,234
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,173,223,0,0,0,0,0,0,0,0,0,0,119,103
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,10,7,0,0,0,0,0,0,0,0,0,0,12,10
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,25,18,0,0,0,0,0,0,0,0,0,0,29,4
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,137,125,152,208,64,0,0,0,0,0,0,0,146,147,159,196,46,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,153,183,231,239,19,0,0,0,0,0,0,0,149,198,203,164,32,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,92,102,117,130,59,0,0,0,0,0,0,0,108,111,152,125,67,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,145,147,155,177,51,0,0,0,0,0,0,0,170,167,176,190,63,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,76,99,102,98,42,0,0,0,0,0,0,0,83,94,123,83,24,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,135,151,164,190,13,0,0,0,0,0,0,0,156,181,171,164,33,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,74,117,128,138,34,0,0,0,0,0,0,0,139,158,176,171,39,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,8,9,18,16,12,0,0,0,0,0,0,0,8,6,21,23,10,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,16,10,17,24,7,0,0,0,0,0,0,0,19,17,20,30,3,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,59,64,77,90,0,0,0,0,0,0,0,0,73,52,76,92,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,7,13,15,4,0,0,0,0,0,0,0,0,10,9,13,10,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,8,13,4,11,0,0,0,0,0,0,0,0,3,13,10,12,1,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,1,cat1,PS (I-V),3,Local body,4,OBC,0,1,8,5,12,9,0,0,0,0,0,0,0,0,2,10,14,15,1,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,1,cat1,PS (I-V),4,Government Aided,4,OBC,7,14,14,14,10,17,0,0,0,0,0,0,0,0,5,9,6,6,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,1,cat1,PS (I-V),4,Government Aided,4,OBC,0,0,2,2,3,1,0,0,0,0,0,0,0,0,2,6,2,2,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,1,cat1,PS (I-V),4,Government Aided,4,OBC,19,12,26,29,42,42,0,0,0,0,0,0,0,0,22,26,27,30,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,1,cat1,PS (I-V),4,Government Aided,4,OBC,0,0,73,92,112,124,4,0,0,0,0,0,0,0,68,88,87,100,4,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,1,cat1,PS (I-V),4,Government Aided,4,OBC,0,0,34,33,45,49,1,0,0,0,0,0,0,0,41,34,45,40,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,1,cat1,PS (I-V),4,Government Aided,4,OBC,0,0,69,100,94,115,0,0,0,0,0,0,0,0,70,96,96,71,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,1,cat1,PS (I-V),4,Government Aided,4,OBC,0,0,1,1,3,1,0,0,0,0,0,0,0,0,2,5,3,3,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,189,175,160,182,136,135,70,0,0,0,0,0,0,0,187,157,119,96,49,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,101,98,118,119,103,84,5,0,0,0,0,0,0,0,110,80,74,71,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,157,98,82,86,55,57,8,0,0,0,0,0,0,0,69,64,50,33,4,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,107,95,79,74,73,56,16,0,0,0,0,0,0,0,76,60,57,46,6,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,63,46,105,66,62,56,1,0,0,0,0,0,0,0,68,66,59,50,5,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,38,34,60,53,55,57,2,0,0,0,0,0,0,0,47,30,34,23,1,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,52,49,93,83,79,57,14,0,0,0,0,0,0,0,75,51,48,42,7,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,164,123,360,329,323,270,9,0,0,0,0,0,0,0,302,257,249,245,10,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,27,24,34,49,42,42,2,0,0,0,0,0,0,0,27,38,34,42,2,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,5,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,25,21,11,19,5,0,0,0,0,0,0,0,19,22,14,9,9,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,2,4,3,5,0,0,0,0,0,0,0,0,6,4,2,1,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,20,18,10,6,3,4,2,0,0,0,0,0,0,0,9,4,2,2,1,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,11,16,4,8,0,0,0,0,0,0,0,0,0,0,5,4,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,1,cat1,PS (I-V),8,Unrecognized,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,1,cat1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,6,cat6,SS (I-X),2,Tribal Welfare Department,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,6,cat6,SS (I-X),2,Tribal Welfare Department,4,OBC,0,0,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,6,cat6,SS (I-X),3,Local body,4,OBC,0,0,0,0,0,0,6,8,9,6,4,2,0,0,0,0,0,0,6,7,7,8,4,8,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,6,cat6,SS (I-X),3,Local body,4,OBC,0,0,0,0,0,0,0,4,1,3,4,7,0,0,0,0,0,0,9,25,21,54,105,64,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,6,cat6,SS (I-X),3,Local body,4,OBC,0,0,0,0,0,0,26,5,20,28,22,30,0,0,0,0,0,0,9,4,19,23,31,25,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,6,cat6,SS (I-X),3,Local body,4,OBC,0,0,0,0,0,0,9,4,7,8,7,9,0,0,0,0,0,0,5,7,4,0,5,8,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,6,cat6,SS (I-X),4,Government Aided,4,OBC,0,0,7,6,6,12,92,120,147,182,202,228,0,0,9,5,9,14,79,123,109,172,183,200,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,6,cat6,SS (I-X),4,Government Aided,4,OBC,0,0,0,0,0,0,66,60,77,109,106,152,0,0,0,0,0,0,53,65,76,112,104,112,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,6,cat6,SS (I-X),4,Government Aided,4,OBC,0,0,0,0,0,0,11,14,24,19,35,57,0,0,0,0,0,0,18,15,20,24,30,47,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,6,cat6,SS (I-X),4,Government Aided,4,OBC,0,0,0,0,0,0,28,47,44,81,81,103,0,0,0,0,0,0,33,51,56,77,87,94,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,6,cat6,SS (I-X),4,Government Aided,4,OBC,0,0,0,0,0,0,21,23,35,34,44,57,0,0,0,0,0,0,20,25,29,31,33,47,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,6,cat6,SS (I-X),4,Government Aided,4,OBC,0,0,0,0,0,0,101,126,129,125,130,145,0,0,0,0,0,0,77,107,133,153,147,145,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,6,cat6,SS (I-X),4,Government Aided,4,OBC,0,0,3,3,2,2,64,78,90,105,108,100,0,0,1,3,2,2,86,85,113,111,161,151,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,6,cat6,SS (I-X),4,Government Aided,4,OBC,23,18,39,41,33,39,159,176,185,203,195,260,0,0,51,51,48,60,174,198,201,292,314,267,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,6,cat6,SS (I-X),4,Government Aided,4,OBC,0,0,0,0,0,0,1,0,2,4,25,30,0,0,0,0,0,0,4,2,0,1,7,7,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,6,cat6,SS (I-X),4,Government Aided,4,OBC,0,0,0,0,0,0,53,78,68,109,99,102,0,0,0,0,0,0,37,55,58,79,76,88,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,6,cat6,SS (I-X),4,Government Aided,4,OBC,0,0,0,0,0,0,8,12,7,14,21,38,0,0,0,0,0,0,7,9,3,7,35,19,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,100,94,43,54,43,39,43,38,40,24,23,32,0,0,50,41,33,43,28,35,27,27,26,24,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,1,2,1,3,6,7,0,0,0,0,0,0,1,1,1,8,2,5,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,0,0,15,28,23,16,14,16,9,7,5,1,0,0,13,15,12,14,13,13,8,10,7,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,0,0,33,23,27,29,33,21,15,10,9,8,0,0,25,26,11,16,18,18,8,7,6,14,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,54,38,33,29,14,40,21,19,18,14,6,0,0,0,20,22,28,16,13,12,6,2,7,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,0,1,33,22,30,28,14,16,15,12,5,6,0,0,14,13,18,15,13,14,13,7,9,7,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,118,92,156,150,182,167,155,177,159,151,147,130,0,0,128,144,127,121,109,113,92,74,98,105,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,270,198,210,221,225,202,190,171,141,104,104,82,0,0,191,145,172,145,123,114,102,91,78,75,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,15,14,21,21,14,18,16,17,16,15,14,20,0,0,8,10,6,15,3,7,13,16,12,18,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,0,0,33,39,39,46,55,40,32,46,39,15,0,0,30,33,24,45,35,35,31,34,35,7,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,0,0,0,2,0,1,1,0,4,2,2,5,0,0,0,0,0,3,0,2,0,0,2,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,0,0,62,53,66,82,45,40,36,20,19,15,0,0,53,64,61,44,38,27,33,21,34,22,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,8,cat8,SS (IX-X),3,Local body,4,OBC,0,0,0,0,0,0,0,0,0,0,8,7,0,0,0,0,0,0,0,0,0,0,14,10,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,3,4,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,18,29,0,0,0,0,0,0,0,0,0,0,13,16,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,77,67,0,0,0,0,0,0,0,0,0,0,55,57,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,12,8,0,0,0,0,0,0,0,0,0,0,10,7,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,7,cat7,SS (VI-X),3,Local body,4,OBC,0,0,0,0,0,0,0,6,11,10,12,22,0,0,0,0,0,0,0,10,13,13,18,17,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,7,cat7,SS (VI-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,164,175,225,0,0,0,0,0,0,0,0,0,122,140,186,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,7,cat7,SS (VI-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,95,116,127,0,0,0,0,0,0,0,0,1,76,109,127,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,7,cat7,SS (VI-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,55,54,82,0,0,0,0,0,0,0,0,0,35,55,59,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270504,BARSHITAKLI,Rural,7,cat7,SS (VI-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,115,121,142,0,0,0,0,0,0,0,0,0,105,89,111,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,7,cat7,SS (VI-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,45,40,52,0,0,0,0,0,0,0,0,0,38,42,37,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,7,cat7,SS (VI-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,51,45,110,0,0,0,0,0,0,0,0,0,54,64,81,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,7,cat7,SS (VI-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,25,17,110,85,104,0,0,0,0,0,0,0,14,23,73,86,99,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,7,cat7,SS (VI-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,68,96,82,0,0,0,0,0,0,0,0,0,39,93,74,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Urban,7,cat7,SS (VI-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,43,48,48,0,0,0,0,0,0,0,0,0,31,31,36,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,7,cat7,SS (VI-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,3,3,7,0,0,0,0,0,0,0,0,0,4,5,3,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Urban,7,cat7,SS (VI-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,7,5,10,0,0,0,0,0,0,0,0,0,8,9,5,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Urban,7,cat7,SS (VI-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,4,11,10,0,0,0,0,0,0,0,0,0,8,11,6,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,18,14,24,38,37,0,0,0,0,0,0,0,8,7,22,15,19,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,4,1,3,0,0,0,0,0,0,0,0,0,3,6,7,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,9,30,56,0,0,0,0,0,0,0,0,0,1,24,26,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,10,13,12,0,0,0,0,0,0,0,0,0,6,5,20,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270506,PATUR,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,1,2,12,0,0,0,0,0,0,0,0,0,0,2,4,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270507,TELHARA,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,3,12,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,216,199,237,0,0,0,0,0,0,0,0,0,171,155,185,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,46,54,45,0,0,0,0,0,0,0,0,0,43,41,43,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270508,AKOLA MC,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,3,1,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Rural,7,cat7,SS (VI-X),90,Social welfare Department,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,2,3,2,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270502,AKOT,Rural,7,cat7,SS (VI-X),90,Social welfare Department,4,OBC,0,0,0,0,0,0,0,3,3,3,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270503,BALAPUR,Rural,7,cat7,SS (VI-X),90,Social welfare Department,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,1,2,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270505,MURTIZAPUR,Rural,7,cat7,SS (VI-X),90,Social welfare Department,4,OBC,0,0,0,0,0,0,0,1,3,6,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,27,Maharashtra,2705,AKOLA,270501,AKOLA PS,Urban,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,0,0,6,7,14,8,6,10,8,0,0,0,0,0,1,9,11,8,3,10,6,0,0,0,0,0

@@ -1,0 +1,553 @@
+ac_year,state_code,state_name,district_code,district_name,block_code,block_name,sch_category_id,category_name,sch_mgmt_id,sch_mgmt_name,loc_name,caste_id,pre_primary_boys,pre_primary_girls,class_1_boys,class_2_boys,class_3_boys,class_4_boys,class_5_boys,class_6_boys,class_7_boys,class_8_boys,class_9_boys,class_10_boys,class_11_boys,class_12_boys,class_1_girls,class_2_girls,class_3_girls,class_4_girls,class_5_girls,class_6_girls,class_7_girls,class_8_girls,class_9_girls,class_10_girls,class_11_girls,class_12_girls,caste_name
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,18,15,79,51,39,32,30,12,12,5,11,8,1,0,47,37,22,26,17,5,6,3,7,3,2,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,145,92,52,53,35,29,37,12,17,6,0,0,0,0,41,34,24,21,16,7,23,7,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,100,56,87,77,75,52,66,43,35,27,14,8,3,0,59,53,41,34,32,15,9,16,8,7,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,4,6,52,39,47,32,30,14,7,9,3,0,0,0,22,22,16,27,16,9,0,2,2,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,125,133,116,94,96,84,68,54,37,34,8,1,0,0,73,59,51,34,38,21,10,16,1,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,18,23,75,95,94,65,53,50,37,20,5,7,0,0,58,57,60,31,28,12,11,8,2,1,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,6,9,8,10,18,8,19,7,4,9,5,2,1,3,8,8,8,3,6,5,0,3,2,0,1,1,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,5,4,2,1,2,2,2,0,0,0,0,0,0,3,1,3,0,0,0,1,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,12,15,17,7,13,2,0,0,0,0,0,0,14,6,11,13,6,0,0,1,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,9,5,12,17,7,14,11,0,3,1,0,0,0,0,11,9,16,3,6,3,1,1,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,195,160,68,73,75,41,32,22,37,17,5,4,7,7,69,74,65,56,54,34,28,20,10,9,10,10,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,1,PS (I-V),6,Other Govt. managed schools,Urban,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,2,0,2,1,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,6,SS (I-X),1,Department of Education,Urban,2,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,171,118,74,74,80,49,65,43,63,46,95,68,13,5,40,50,42,41,31,40,31,34,51,26,10,3,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,39,30,21,27,14,25,19,26,23,18,42,18,0,0,20,22,23,15,13,10,11,5,12,17,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,31,20,20,10,15,17,14,5,7,12,12,6,0,1,9,6,5,2,3,3,2,4,6,3,1,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,22,4,5,6,8,5,5,8,7,6,6,3,0,0,1,1,4,8,5,1,2,4,7,2,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,30,25,15,11,18,19,12,13,14,16,51,18,3,2,12,8,6,2,6,4,1,7,14,5,1,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,3,3,1,2,4,6,6,3,2,4,23,24,0,0,1,4,4,7,4,3,1,3,5,4,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,5,4,4,4,3,5,2,2,2,2,4,7,0,0,5,1,1,1,1,0,0,0,0,4,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,36,30,28,31,18,19,24,23,34,20,38,44,7,6,23,18,18,13,20,22,9,6,14,18,4,4,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,35,18,16,13,15,33,22,17,21,9,45,38,0,0,12,17,16,12,18,9,9,7,6,6,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,25,10,7,2,5,7,2,9,1,14,5,7,0,0,2,2,2,2,0,2,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,415,367,230,210,212,182,192,203,197,201,304,284,66,44,185,171,188,179,154,159,166,134,190,182,25,34,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,169,43,7,6,0,0,0,0,0,0,0,0,124,41,9,11,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,211,80,35,13,0,0,0,0,0,0,0,0,141,36,14,9,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,154,46,35,24,0,0,0,0,0,0,0,0,83,44,17,21,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,223,71,14,15,0,0,0,0,0,0,0,0,119,42,20,5,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,353,137,17,10,0,0,0,0,0,0,0,0,285,106,9,4,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,337,75,25,6,0,0,0,0,0,0,0,0,294,54,39,20,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,39,11,7,1,0,0,0,0,0,0,0,0,8,8,3,4,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,55,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,24,17,24,10,0,0,0,0,0,0,0,0,5,7,5,3,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,223,62,21,5,0,0,0,0,0,0,0,0,155,64,28,15,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,29,17,10,28,24,11,17,20,15,18,19,13,5,4,11,10,9,15,7,12,14,15,9,10,5,5,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,99,56,0,0,0,0,0,0,0,0,0,0,64,34,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,5,2,1,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,8,SS (IX-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,5,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,8,SS (IX-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,2,6,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,4,4,6,11,16,0,0,0,0,0,0,0,2,5,5,2,4,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,0,0,4,2,2,1,1,1,0,0,0,0,1,1,0,1,0,0,0,3,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,2,UPS (I-VIII),4,Government Aided,Urban,2,0,0,24,9,10,7,9,12,16,11,0,0,0,0,12,7,9,3,8,7,13,5,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,32,16,127,174,135,96,106,97,77,74,11,4,0,0,92,85,84,67,62,46,47,34,11,4,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,206,151,202,148,183,123,126,126,120,104,26,19,4,5,135,95,92,91,58,65,50,44,11,12,2,2,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,211,127,173,151,132,125,115,101,85,79,26,31,10,3,126,95,84,79,49,60,54,41,18,4,4,4,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,26,24,181,198,178,153,147,141,110,92,27,15,3,3,120,126,112,98,79,68,45,46,11,6,2,3,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,262,166,209,210,179,193,145,124,129,101,28,42,9,7,136,105,102,92,62,48,42,40,14,13,4,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,19,11,98,88,81,86,79,55,75,56,9,6,0,0,59,42,36,43,30,25,27,16,3,7,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,5,2,0,1,2,0,1,0,0,0,0,0,0,0,1,0,3,1,1,1,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,19,16,20,11,8,6,8,9,14,17,16,6,4,10,10,6,12,10,11,5,5,1,11,2,0,6,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,129,92,120,108,108,107,103,101,77,91,91,80,51,42,101,98,89,84,67,54,55,50,23,41,33,16,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,136,84,78,94,93,67,51,40,33,43,8,7,0,0,52,52,43,35,29,25,17,6,1,2,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,12,9,23,27,29,26,32,14,25,32,1,4,0,0,23,20,9,14,21,8,11,7,0,1,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,951,869,526,502,452,415,373,385,333,294,86,68,27,29,444,448,377,354,312,301,273,264,65,55,27,26,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,2,UPS (I-VIII),6,Other Govt. managed schools,Urban,2,0,0,4,2,3,3,1,0,0,0,0,0,0,0,2,0,0,1,1,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,2,2,1,0,2,1,5,2,0,0,0,0,0,2,1,1,2,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,351,407,376,0,0,0,0,0,0,0,0,0,356,462,424,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,285,311,316,0,0,0,0,0,0,0,0,0,282,406,327,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,372,466,469,0,0,0,0,0,0,0,0,0,414,538,450,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,648,755,728,0,0,0,0,0,0,0,0,0,573,660,630,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,408,480,472,0,0,0,0,0,0,0,0,0,533,595,609,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,555,585,591,0,0,0,0,0,0,0,0,0,547,593,558,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,16,29,26,0,0,0,0,0,0,0,0,0,28,38,53,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,72,75,76,0,0,0,0,0,0,0,0,0,127,134,128,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,51,68,59,0,0,0,0,0,0,0,0,0,50,62,60,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,25,54,71,0,0,0,0,0,0,0,0,0,62,89,89,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,333,348,349,0,0,0,0,0,0,0,0,0,454,451,483,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,4,UPS (VI-VIII),2,Tribal Welfare Department,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,4,UPS (VI-VIII),4,Government Aided,Urban,2,0,0,5,1,9,4,8,0,0,0,0,0,0,0,2,0,1,4,3,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,15,13,24,24,18,23,10,11,17,17,14,14,9,7,16,13,11,13,10,14,4,5,7,13,12,4,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,10,12,17,10,17,13,14,15,22,13,0,0,3,7,9,5,11,14,13,9,1,6,2,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,13,6,18,11,16,17,11,9,6,8,0,0,0,0,15,8,14,9,4,5,4,1,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,13,7,12,26,11,12,13,9,10,4,0,0,3,10,8,8,5,4,5,6,4,3,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,2,2,2,4,9,6,5,7,11,5,8,3,18,3,1,3,4,10,6,5,4,5,3,1,10,1,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,2,11,10,21,15,15,20,10,12,17,16,14,17,5,3,11,7,10,6,8,4,6,1,3,1,2,1,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,2,39,23,26,25,15,20,13,25,27,24,52,41,26,35,25,11,8,14,18,19,16,15,33,36,27,24,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,3,HSS (I-XII),2,Tribal Welfare Department,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,3,HSS (I-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,3,9,5,3,2,0,3,4,8,3,2,0,2,0,3,0,28,12,3,3,1,1,1,3,3,2,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,4,2,1,2,1,0,3,1,1,0,1,0,0,1,3,0,1,1,0,0,1,0,1,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,4,6,3,6,6,3,5,3,6,3,9,12,3,7,0,3,4,3,1,1,2,0,3,4,5,1,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,2,3,2,1,0,1,2,0,0,0,1,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,5,3,3,5,3,4,0,1,3,0,1,1,0,0,3,0,3,1,1,0,4,1,1,1,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,29,27,24,12,14,17,10,16,8,18,19,12,13,15,18,11,12,13,12,7,13,10,9,11,9,8,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,50,40,33,24,30,34,17,25,38,26,42,39,28,22,22,21,22,23,29,17,18,24,27,44,31,35,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,3,HSS (I-XII),7,Central Govt,Urban,3,0,0,5,2,2,1,3,1,2,1,8,3,2,0,3,1,3,2,2,3,1,2,5,3,1,2,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,6,2,2,0,0,0,0,0,0,0,0,0,0,0,1,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,5,5,3,1,0,0,0,0,0,0,0,0,23,2,3,6,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,62,23,38,24,0,0,0,0,0,0,0,0,19,9,15,6,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,14,1,2,0,0,0,0,0,0,0,0,0,9,10,9,6,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,9,4,8,6,0,0,0,0,0,0,0,0,12,8,6,5,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,2,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,5,15,5,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,24,10,13,8,0,0,0,0,0,0,0,0,19,10,9,3,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,5,3,19,4,0,0,0,0,0,0,0,0,1,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,0,0,7,4,2,1,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,30,18,32,18,0,0,0,0,0,0,0,0,55,35,37,27,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,10,HSS (IX-XII),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,3,3,4,3,0,0,0,0,0,0,0,0,3,3,4,2,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,10,HSS (IX-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,9,2,4,7,0,0,0,0,0,0,0,0,7,9,7,7,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,1,1,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,2,3,2,3,0,0,0,0,0,0,0,0,0,0,2,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,3,7,0,0,0,0,0,0,0,0,0,0,1,1,0,1,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,5,HSS (VI-XII),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,3,4,3,0,0,0,0,0,0,0,0,0,5,3,3,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,1,1,0,5,4,1,1,0,0,0,0,0,1,0,1,2,0,1,1,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,5,HSS (VI-XII),7,Central Govt,Rural,3,0,0,0,0,0,0,0,2,4,1,2,1,6,3,0,0,0,0,0,1,1,1,1,0,1,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,5,HSS (VI-XII),7,Central Govt,Urban,3,0,0,0,0,0,0,0,6,1,20,9,12,12,0,0,0,0,0,0,1,7,6,4,1,5,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,1,PS (I-V),1,Department of Education,Rural,3,0,0,31,30,32,31,20,0,0,0,0,0,0,0,36,10,25,29,25,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,1,PS (I-V),1,Department of Education,Rural,3,1,2,14,12,10,13,15,0,0,0,0,0,0,0,16,13,15,19,24,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,1,PS (I-V),1,Department of Education,Rural,3,0,0,124,122,117,114,114,0,0,0,0,0,0,0,136,128,124,135,118,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,1,PS (I-V),1,Department of Education,Rural,3,0,0,56,50,58,69,61,0,0,0,0,0,0,0,52,61,80,82,79,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,1,PS (I-V),1,Department of Education,Rural,3,0,0,56,40,47,41,61,0,0,0,0,0,0,0,54,55,61,69,47,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,1,PS (I-V),1,Department of Education,Rural,3,0,0,29,35,33,29,32,0,0,0,0,0,0,0,24,29,28,31,25,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,1,PS (I-V),1,Department of Education,Urban,3,0,0,12,13,14,19,12,0,0,0,0,0,0,0,13,7,9,8,14,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,1,PS (I-V),1,Department of Education,Urban,3,0,0,38,6,14,9,11,0,0,0,0,0,0,0,23,5,8,17,19,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,1,PS (I-V),1,Department of Education,Urban,3,0,0,5,7,5,2,4,0,0,0,0,0,0,0,7,10,26,17,16,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,1,PS (I-V),1,Department of Education,Urban,3,0,1,31,44,43,48,34,0,0,0,0,0,0,0,48,33,16,24,17,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,1,PS (I-V),2,Tribal Welfare Department,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,1,PS (I-V),2,Tribal Welfare Department,Urban,3,0,0,0,0,0,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,1,PS (I-V),2,Tribal Welfare Department,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,1,PS (I-V),2,Tribal Welfare Department,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,1,PS (I-V),4,Government Aided,Rural,3,0,0,1,1,1,2,1,0,0,0,0,0,0,0,3,1,0,1,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,1,PS (I-V),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,1,PS (I-V),4,Government Aided,Urban,3,0,0,2,0,3,0,0,0,0,3,0,0,0,0,0,1,2,1,1,1,1,1,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,1,PS (I-V),4,Government Aided,Urban,3,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,1,PS (I-V),4,Government Aided,Urban,3,0,0,16,20,15,34,14,0,0,0,0,0,0,0,2,5,7,4,5,0,0,0,0,0,1,1,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,2,2,1,1,0,0,1,1,1,0,1,0,0,0,0,3,1,0,0,0,0,0,0,0,1,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,8,5,5,6,9,6,4,7,5,6,0,0,0,0,6,5,3,6,0,1,0,2,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,33,37,27,21,28,17,17,9,10,8,1,4,0,0,24,13,11,13,10,2,6,2,0,3,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,1,1,6,4,1,0,1,1,0,0,0,0,1,1,4,2,1,1,1,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,36,34,24,27,24,26,30,18,4,6,7,1,0,0,15,13,10,17,7,5,4,3,1,1,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,2,5,4,2,4,3,0,1,0,0,0,0,1,4,2,1,1,1,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,7,5,8,12,6,6,6,2,3,5,1,3,1,0,6,6,5,3,4,0,1,1,0,1,1,3,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,1,1,0,0,0,2,0,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,27,18,18,15,7,8,7,4,4,1,2,1,5,3,9,11,7,11,12,4,3,1,3,1,3,3,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,1,PS (I-V),6,Other Govt. managed schools,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,6,SS (I-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,21,11,12,4,9,3,2,5,3,9,6,2,2,2,7,7,5,4,4,6,2,9,8,7,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,3,4,1,1,4,1,2,0,0,2,0,0,0,0,3,0,2,0,1,0,1,2,1,1,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,18,7,7,6,1,6,1,2,1,0,4,0,2,2,1,2,1,1,1,0,0,0,3,1,1,1,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,6,1,0,0,1,1,0,1,3,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,1,3,0,2,0,1,0,0,2,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,1,0,0,1,1,0,1,1,1,0,2,4,0,0,0,0,1,0,0,1,0,1,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,4,3,7,4,3,4,1,3,2,0,1,2,0,0,4,1,3,2,1,1,0,1,0,0,1,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,6,5,1,1,4,3,4,2,0,1,3,6,0,0,0,0,1,3,1,0,0,1,1,2,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,2,4,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,18,14,10,12,14,15,7,11,14,14,19,21,6,3,4,13,12,5,9,10,8,11,10,8,3,1,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,26,2,0,0,0,0,0,0,0,0,0,0,22,9,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,7,7,0,0,0,0,0,0,0,0,0,0,2,3,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,27,4,4,2,0,0,0,0,0,0,0,0,18,5,6,3,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,43,5,0,2,0,0,0,0,0,0,0,0,31,5,1,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,7,5,1,0,0,0,0,0,0,0,0,0,12,2,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,2,3,2,1,0,0,0,0,0,0,0,0,4,3,0,2,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,2,1,3,3,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,3,1,1,0,0,0,0,0,0,0,0,0,2,0,1,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,1,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,58,28,0,0,0,0,0,0,0,0,0,0,40,13,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,2,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,5,3,0,0,0,0,0,0,0,0,0,0,2,1,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,1,0,0,2,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,2,UPS (I-VIII),4,Government Aided,Urban,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,7,4,1,2,1,0,5,2,0,0,0,0,3,1,1,2,2,1,1,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,8,2,6,9,7,7,7,3,5,1,0,0,0,0,7,9,5,5,6,4,0,2,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,63,38,40,28,45,45,31,30,28,21,7,10,1,2,32,33,33,17,12,13,7,8,1,5,4,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,1,25,18,15,20,14,17,10,13,1,2,1,0,15,15,16,11,5,7,6,9,0,0,1,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,26,17,26,17,25,13,13,11,15,18,8,12,3,5,15,12,10,13,6,3,6,10,1,4,2,1,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,7,13,7,3,3,5,8,8,1,2,0,0,3,5,1,10,3,4,3,2,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,23,16,6,5,10,8,6,8,4,6,10,7,3,3,6,3,7,3,5,6,3,6,3,2,2,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,10,10,14,20,17,22,15,8,4,6,6,5,0,0,18,12,12,16,9,11,6,3,3,3,1,2,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,22,14,28,21,17,18,15,11,5,6,1,0,0,0,17,14,11,4,3,2,2,0,0,1,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,1,0,1,1,0,1,3,0,2,2,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,37,33,33,24,20,32,19,16,24,18,5,4,3,2,20,25,21,22,22,19,15,16,7,3,2,6,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,2,UPS (I-VIII),6,Other Govt. managed schools,Urban,3,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,16,18,14,0,0,0,0,0,0,0,0,0,20,17,7,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,11,10,5,0,0,0,0,0,0,0,0,0,18,21,20,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,100,107,112,0,0,0,0,0,0,0,0,0,87,126,122,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,61,57,84,0,0,0,0,0,0,0,0,0,76,71,66,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,45,42,37,0,0,0,0,0,0,0,0,0,49,79,49,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,20,22,13,0,0,0,0,0,0,0,0,0,19,17,7,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,21,23,23,0,0,0,0,0,0,0,0,0,26,18,26,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,14,8,10,0,0,0,0,0,0,0,0,0,22,26,23,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,7,10,13,0,0,0,0,0,0,0,0,0,22,18,13,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,0,0,0,0,5,8,2,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,46,27,40,0,0,0,0,0,0,0,0,0,52,40,61,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,4,UPS (VI-VIII),2,Tribal Welfare Department,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,4,UPS (VI-VIII),4,Government Aided,Urban,3,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,3,2,6,5,3,3,5,2,3,1,5,2,2,1,5,5,4,2,4,1,1,0,5,3,2,4,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,1,1,0,0,1,2,1,1,1,0,0,0,1,2,2,1,0,1,2,0,2,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,1,1,0,0,3,2,2,1,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,1,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,3,4,2,3,0,0,2,6,4,2,1,3,0,3,2,3,2,1,3,3,1,1,0,2,0,1,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,1,0,2,2,3,0,0,0,0,0,2,4,0,0,1,1,0,1,1,0,0,0,2,0,0,0,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,3,5,4,2,1,1,0,0,0,2,1,0,2,1,0,4,0,0,1,0,0,0,1,ST
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,3,HSS (I-XII),2,Tribal Welfare Department,Urban,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,3,HSS (I-XII),4,Government Aided,Urban,4,0,0,21,20,17,23,18,32,26,25,16,28,15,12,13,7,11,17,17,29,20,27,11,7,6,5,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,126,96,53,75,58,67,76,57,66,65,58,77,62,40,45,46,92,24,35,26,37,39,34,26,21,20,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,59,51,21,22,28,16,16,4,14,13,12,12,7,5,15,17,24,9,8,10,11,9,6,4,4,9,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,110,93,53,59,81,94,68,76,100,108,121,147,106,88,54,41,54,48,41,49,42,51,56,60,69,44,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,20,15,14,12,13,16,18,10,10,13,37,15,6,4,17,13,15,17,30,15,15,10,18,12,6,7,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,80,43,54,36,36,47,65,47,40,43,44,52,25,11,41,22,24,20,15,12,11,17,12,8,12,14,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,10,8,14,33,19,21,28,19,28,10,2,0,3,9,1,2,2,6,2,3,4,2,3,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,164,117,58,50,52,55,45,60,53,52,43,35,18,14,37,43,41,36,29,29,37,40,44,26,21,9,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,800,580,420,348,379,369,390,354,367,378,507,481,415,337,294,290,305,294,307,280,321,222,291,293,271,205,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,693,479,521,512,540,504,538,511,500,517,782,822,679,660,435,384,405,354,357,378,318,324,464,448,476,367,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,3,HSS (I-XII),7,Central Govt,Urban,4,0,0,20,15,18,18,15,14,16,18,18,10,12,4,15,10,10,13,13,15,10,10,10,9,6,6,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,67,29,31,15,0,0,0,0,0,0,0,0,46,20,26,28,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,98,60,80,70,0,0,0,0,0,0,0,0,51,20,44,29,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,248,125,266,180,0,0,0,0,0,0,0,0,104,80,97,77,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,134,53,76,51,0,0,0,0,0,0,0,0,130,66,74,53,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,129,51,121,62,0,0,0,0,0,0,0,0,112,59,80,70,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,375,124,174,155,0,0,0,0,0,0,0,0,103,47,79,67,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,89,41,91,72,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,152,61,127,101,0,0,0,0,0,0,0,0,178,85,151,132,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,37,12,104,35,0,0,0,0,0,0,0,0,10,1,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,232,78,185,134,0,0,0,0,0,0,0,0,205,106,119,63,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,360,198,462,359,0,0,0,0,0,0,0,0,406,292,514,394,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,10,HSS (IX-XII),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,10,HSS (IX-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,90,80,195,145,0,0,0,0,0,0,0,0,31,22,27,18,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,16,40,7,9,0,0,0,0,0,0,0,0,20,20,4,5,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,10,21,16,27,14,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,26,35,21,12,0,0,0,0,0,0,0,0,10,13,8,10,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,34,64,23,10,0,0,0,0,0,0,0,0,46,47,13,5,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,5,HSS (VI-XII),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,4,0,1,21,36,30,12,0,0,0,0,0,4,1,1,19,7,10,8,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,5,HSS (VI-XII),7,Central Govt,Rural,4,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,5,HSS (VI-XII),7,Central Govt,Urban,4,0,0,0,0,0,0,0,13,15,5,1,3,8,0,0,0,0,0,0,8,6,0,2,0,1,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,1,PS (I-V),1,Department of Education,Rural,4,0,0,235,262,241,271,313,0,0,0,0,0,0,0,334,353,372,414,483,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,1,PS (I-V),1,Department of Education,Rural,4,57,61,309,312,328,323,331,0,0,0,0,0,0,0,400,373,412,413,484,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,1,PS (I-V),1,Department of Education,Rural,4,4,7,222,221,261,267,260,0,0,0,0,0,0,0,295,298,375,331,408,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,1,PS (I-V),1,Department of Education,Rural,4,0,0,441,371,384,407,403,0,0,0,0,0,0,0,562,488,629,580,596,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,1,PS (I-V),1,Department of Education,Rural,4,0,0,386,305,358,318,319,0,0,0,0,0,0,0,523,442,515,555,540,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,1,PS (I-V),1,Department of Education,Rural,4,0,0,694,685,685,743,738,0,0,0,0,0,0,0,818,792,819,906,919,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,1,PS (I-V),1,Department of Education,Urban,4,0,0,17,20,22,24,25,0,0,0,0,0,0,0,22,26,24,16,30,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,1,PS (I-V),1,Department of Education,Urban,4,0,0,30,34,39,28,50,0,0,0,0,0,0,0,54,57,56,60,54,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,1,PS (I-V),1,Department of Education,Urban,4,0,0,3,16,18,15,29,0,0,0,0,0,0,0,17,13,14,13,27,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,1,PS (I-V),1,Department of Education,Urban,4,0,0,62,58,67,79,70,0,0,0,0,0,0,0,64,65,76,69,71,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,1,PS (I-V),1,Department of Education,Urban,4,4,8,332,342,365,379,370,0,0,0,0,0,0,0,342,352,419,354,401,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,6,9,4,8,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,1,PS (I-V),2,Tribal Welfare Department,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,1,PS (I-V),2,Tribal Welfare Department,Urban,4,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,1,PS (I-V),2,Tribal Welfare Department,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,1,PS (I-V),2,Tribal Welfare Department,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,1,PS (I-V),4,Government Aided,Rural,4,0,0,7,6,7,5,7,0,0,0,0,0,0,0,11,12,11,13,9,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,1,PS (I-V),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,1,PS (I-V),4,Government Aided,Urban,4,0,0,10,16,27,20,19,17,27,28,0,0,0,0,10,14,20,13,16,22,25,23,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,1,PS (I-V),4,Government Aided,Urban,4,6,16,10,8,2,17,10,7,10,15,22,33,21,23,8,2,4,7,6,10,4,9,12,11,14,10,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,1,PS (I-V),4,Government Aided,Urban,4,0,0,27,19,17,19,11,1,2,0,44,28,37,12,35,18,21,17,6,3,0,1,14,18,10,6,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,94,64,142,133,101,102,81,52,60,37,44,20,4,0,118,74,78,73,65,30,35,27,15,11,1,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,205,159,75,73,62,53,50,19,18,20,0,0,0,0,64,56,46,31,35,28,12,10,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,133,100,114,116,127,131,121,109,107,106,64,49,31,15,83,123,103,117,112,89,66,67,36,25,15,3,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,7,7,50,46,36,45,40,19,17,10,6,0,0,0,41,32,37,25,38,11,17,8,4,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,243,200,166,134,147,98,115,70,70,59,23,15,0,0,114,113,89,71,84,38,35,35,7,10,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,45,41,181,191,153,153,143,89,92,83,25,14,0,0,128,99,90,64,70,50,39,31,10,10,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,64,53,34,16,17,10,11,12,10,10,8,4,13,12,30,18,22,12,14,7,5,7,8,6,2,2,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,21,34,13,25,18,12,16,13,0,0,0,0,19,31,24,19,13,20,6,7,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,13,7,15,11,13,5,8,3,0,0,0,0,9,8,15,9,3,1,0,1,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,33,49,77,83,65,42,37,40,43,28,0,0,0,0,72,54,57,42,43,53,48,33,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,574,507,271,281,228,201,163,109,108,99,8,15,29,14,276,276,268,239,180,153,153,104,30,31,33,18,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,1,PS (I-V),6,Other Govt. managed schools,Urban,4,0,0,2,2,2,2,2,0,0,0,0,0,0,0,1,1,3,1,3,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,1,3,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,12,7,4,6,4,3,0,1,0,0,0,0,6,4,2,1,2,3,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,4,1,2,0,0,2,4,2,0,0,0,0,2,1,1,1,1,0,0,1,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,8,6,7,4,3,0,0,0,0,0,0,0,12,6,3,4,6,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,45,60,38,54,36,17,10,5,0,0,0,0,45,30,30,43,34,24,12,6,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,6,SS (I-X),1,Department of Education,Urban,4,0,0,8,1,3,0,2,4,1,0,8,0,0,0,3,2,0,1,0,0,3,0,7,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,297,215,148,165,142,184,148,162,171,147,162,183,50,29,115,108,114,87,89,64,74,76,99,104,26,13,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,88,48,58,76,64,67,64,45,52,47,47,24,0,0,29,33,36,27,27,24,21,13,26,28,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,158,90,61,56,69,54,50,58,45,51,87,49,17,10,33,39,29,31,20,17,28,28,64,38,32,13,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,46,38,20,22,32,20,18,25,22,27,32,13,0,0,20,15,15,12,11,12,18,15,30,6,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,79,66,64,73,62,74,66,79,90,96,124,50,28,20,29,29,28,29,24,29,25,28,46,21,10,7,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,2,1,7,8,7,12,4,6,6,9,48,54,0,0,5,1,8,12,9,5,6,3,19,32,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,84,47,39,63,64,57,46,48,48,26,78,38,0,0,27,27,26,22,20,18,15,46,33,27,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,78,76,62,58,64,42,54,70,50,46,102,88,17,30,63,48,30,48,38,37,38,22,43,58,13,9,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,219,112,108,87,85,75,75,71,62,59,96,90,0,0,47,52,54,40,48,31,22,43,54,30,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,35,18,16,14,7,17,7,13,9,15,23,10,0,0,6,2,6,5,3,2,7,4,1,7,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,465,352,352,292,355,325,312,316,302,269,465,424,100,82,286,303,255,220,283,272,229,253,325,292,74,42,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,199,44,10,6,0,0,0,0,0,0,0,0,152,55,19,14,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,272,88,10,13,0,0,0,0,0,0,0,0,156,46,10,14,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,151,50,56,38,0,0,0,0,0,0,0,0,127,78,44,18,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,241,99,29,18,0,0,0,0,0,0,0,0,180,115,40,12,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,331,144,24,23,0,0,0,0,0,0,0,0,276,126,31,22,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,510,172,39,20,0,0,0,0,0,0,0,0,416,157,62,31,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,30,15,19,18,0,0,0,0,0,0,0,0,18,9,8,12,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,32,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,30,26,30,21,0,0,0,0,0,0,0,0,12,10,10,14,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,170,42,22,9,0,0,0,0,0,0,0,0,219,121,44,16,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,33,20,16,12,18,33,16,28,23,34,24,29,12,9,15,15,17,11,12,14,30,13,20,12,16,16,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,12,5,2,1,1,2,1,0,1,2,2,0,0,0,3,2,1,1,2,0,0,1,1,0,1,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,8,SS (IX-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,12,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,8,SS (IX-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,22,15,0,0,0,0,0,0,0,0,0,0,52,31,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,10,4,7,15,15,0,0,0,0,0,0,0,6,7,5,4,4,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,5,7,14,20,10,14,18,12,22,17,0,0,9,18,11,21,20,25,28,15,12,24,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,1,3,0,1,1,3,5,3,0,0,0,0,2,2,1,1,3,2,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,2,UPS (I-VIII),4,Government Aided,Urban,4,0,0,4,6,7,5,6,9,2,3,0,0,0,0,5,4,7,8,8,2,2,1,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,30,34,206,208,197,169,152,163,137,129,22,6,0,0,199,172,152,136,132,124,111,76,13,6,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,420,317,287,273,246,242,250,266,201,186,57,41,6,3,231,180,224,179,123,139,121,97,33,17,5,1,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,586,405,469,393,433,419,402,403,396,333,137,145,57,33,326,338,344,281,286,300,251,232,71,60,35,27,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,31,21,285,251,288,264,252,284,285,268,82,59,35,9,257,229,239,236,229,233,212,227,43,16,10,4,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,266,183,215,211,253,214,216,224,239,173,73,68,24,12,167,160,185,156,164,142,157,133,42,35,1,4,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,59,46,245,232,201,180,193,189,196,155,52,22,0,0,128,117,93,101,96,109,77,71,21,6,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,4,5,4,2,3,0,2,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,106,79,69,60,78,61,63,80,75,59,69,55,60,42,36,35,66,53,48,60,46,42,30,31,15,27,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,192,181,186,221,219,197,206,198,183,201,193,189,56,80,155,171,186,174,190,172,160,162,124,102,51,38,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,253,179,143,117,111,124,116,103,102,71,35,40,15,10,101,91,85,62,67,60,63,72,14,13,6,6,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,12,24,129,138,140,134,140,116,123,89,80,47,25,12,113,98,99,103,97,82,91,91,56,37,30,21,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,1374,1275,834,778,764,683,708,643,600,518,234,177,64,57,789,693,676,563,544,525,518,477,203,170,68,60,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,2,UPS (I-VIII),6,Other Govt. managed schools,Urban,4,0,0,3,0,3,1,3,0,0,3,0,0,0,0,1,0,1,1,1,1,0,1,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,45,49,112,93,125,89,81,91,95,95,0,0,0,0,135,103,90,116,90,115,96,111,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,290,367,323,0,0,0,0,0,0,0,0,0,416,475,461,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,306,358,386,0,0,0,0,0,0,0,0,0,417,473,452,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,248,344,365,0,0,0,0,0,0,0,0,0,386,518,523,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,389,440,470,0,0,0,0,0,0,0,0,0,514,579,629,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,321,350,426,0,0,0,0,0,0,0,0,0,522,510,570,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,586,776,828,0,0,0,0,0,0,0,0,0,771,902,865,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,23,30,44,0,0,0,0,0,0,0,0,0,47,56,58,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,67,72,67,0,0,0,0,0,0,0,0,0,116,103,130,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,46,40,43,0,0,0,0,0,0,0,0,0,64,57,51,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,91,105,132,0,0,0,0,0,0,0,0,0,98,136,135,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,384,406,350,0,0,0,0,0,0,0,0,0,531,474,548,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,4,UPS (VI-VIII),2,Tribal Welfare Department,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,4,UPS (VI-VIII),4,Government Aided,Urban,4,0,0,2,1,2,5,2,0,0,0,0,0,0,0,2,2,2,3,0,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,30,19,44,32,49,47,39,49,43,47,36,31,29,26,33,29,42,31,31,31,27,26,22,22,14,11,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,21,11,19,25,20,20,27,28,36,49,2,0,17,20,16,15,9,15,19,28,19,17,3,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,6,7,6,7,2,3,5,7,1,5,0,0,0,0,4,7,8,7,10,5,9,8,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,16,25,23,27,17,27,42,42,49,30,0,0,21,16,21,27,13,10,24,25,25,35,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,4,6,5,9,11,7,13,22,24,26,21,24,55,23,30,15,17,10,11,15,15,16,25,7,34,8,14,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,4,36,31,46,60,58,53,70,60,52,77,57,92,34,24,53,51,54,41,44,36,33,35,13,14,8,3,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,4,151,115,71,85,85,77,82,91,103,66,99,74,53,97,40,65,59,63,58,52,51,40,65,38,56,65,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,188,117,0,0,0,0,0,0,0,0,0,0,161,97,0,0,OBC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,3,HSS (I-XII),2,Tribal Welfare Department,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,3,HSS (I-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,203,130,89,89,28,39,34,28,29,50,86,55,42,46,117,97,28,119,111,117,136,115,118,83,44,61,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,130,109,45,39,58,52,56,61,43,54,42,67,45,32,45,35,44,40,27,42,44,30,36,73,31,42,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,77,71,47,52,73,70,73,58,68,51,78,81,61,53,46,41,43,53,48,40,40,24,27,36,26,35,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,5,3,4,3,8,1,3,5,8,9,51,10,22,34,5,4,3,5,4,7,3,3,30,5,33,30,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,35,81,16,11,18,13,14,21,10,6,15,11,8,6,7,8,5,3,14,4,12,7,9,7,5,3,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,14,12,17,20,10,7,10,13,13,10,2,0,6,12,4,7,8,7,1,3,3,12,4,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,158,136,71,55,63,66,66,41,76,61,55,22,17,17,53,37,36,51,31,52,37,36,40,30,30,22,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,483,422,262,311,238,217,268,268,298,260,320,326,307,303,216,203,236,197,178,204,183,203,273,241,225,216,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,701,488,504,473,545,542,596,544,634,617,758,812,741,691,391,344,332,373,344,375,398,421,488,558,566,548,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,3,HSS (I-XII),7,Central Govt,Urban,1,0,0,40,37,20,28,28,28,28,27,49,31,26,21,28,20,25,30,35,27,26,28,32,21,48,15,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,20,6,12,7,0,0,0,0,0,0,0,0,13,2,14,6,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,34,29,57,49,0,0,0,0,0,0,0,0,26,14,19,22,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,59,35,93,70,0,0,0,0,0,0,0,0,39,25,24,31,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,45,16,18,9,0,0,0,0,0,0,0,0,27,18,27,34,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,54,40,70,71,0,0,0,0,0,0,0,0,68,37,63,36,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,127,50,116,80,0,0,0,0,0,0,0,0,46,22,59,43,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,20,39,30,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,51,15,56,23,0,0,0,0,0,0,0,0,63,40,47,42,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,7,3,29,14,0,0,0,0,0,0,0,0,290,111,225,156,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,96,28,59,59,0,0,0,0,0,0,0,0,72,24,39,28,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,111,76,201,165,0,0,0,0,0,0,0,0,112,81,214,171,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,10,HSS (IX-XII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,10,HSS (IX-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,64,58,135,145,0,0,0,0,0,0,0,0,13,21,35,35,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,9,16,16,18,0,0,0,0,0,0,0,0,15,13,17,10,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,10,19,42,19,18,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,18,41,17,10,0,0,0,0,0,0,0,0,9,22,17,15,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,12,23,10,8,0,0,0,0,0,0,0,0,5,13,9,5,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,5,HSS (VI-XII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,1,1,7,10,9,4,0,0,0,0,0,0,0,1,8,9,3,7,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,5,HSS (VI-XII),7,Central Govt,Rural,1,0,0,0,0,0,0,0,10,10,7,25,25,23,15,0,0,0,0,0,15,8,8,19,7,18,17,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,5,HSS (VI-XII),7,Central Govt,Urban,1,0,0,0,0,0,0,0,13,10,7,3,1,4,0,0,0,0,0,0,6,4,6,5,6,3,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,1,PS (I-V),1,Department of Education,Rural,1,0,0,39,45,55,42,44,0,0,0,0,0,0,0,63,56,75,86,90,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,1,PS (I-V),1,Department of Education,Rural,1,42,54,64,63,70,55,68,0,0,0,0,0,0,0,83,111,91,106,133,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,1,PS (I-V),1,Department of Education,Rural,1,16,18,99,111,113,96,91,0,0,0,0,0,0,0,139,146,146,172,204,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,1,PS (I-V),1,Department of Education,Rural,1,0,0,109,103,94,88,101,0,0,0,0,0,0,0,154,145,139,165,171,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,1,PS (I-V),1,Department of Education,Rural,1,0,0,88,63,86,74,91,0,0,0,0,0,0,0,148,139,116,155,150,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,1,PS (I-V),1,Department of Education,Rural,1,0,0,169,158,158,177,188,0,0,0,0,0,0,0,214,190,245,240,265,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,1,PS (I-V),1,Department of Education,Urban,1,0,0,9,8,12,10,10,0,0,0,0,0,0,0,10,10,12,13,13,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,1,PS (I-V),1,Department of Education,Urban,1,0,0,13,20,13,21,27,0,0,0,0,0,0,0,28,14,36,18,38,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,1,1,2,3,0,0,0,0,0,0,0,1,2,4,5,5,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,1,PS (I-V),1,Department of Education,Urban,1,0,0,10,10,18,7,22,0,0,0,0,0,0,0,7,8,12,7,16,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,1,PS (I-V),1,Department of Education,Urban,1,9,9,37,82,64,78,54,0,0,0,0,0,0,0,62,75,66,71,71,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,1,PS (I-V),2,Tribal Welfare Department,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,1,PS (I-V),2,Tribal Welfare Department,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,1,PS (I-V),2,Tribal Welfare Department,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,1,PS (I-V),2,Tribal Welfare Department,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,1,PS (I-V),4,Government Aided,Rural,1,0,0,3,3,1,1,2,0,0,0,0,0,0,0,2,2,2,4,2,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,1,PS (I-V),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,1,PS (I-V),4,Government Aided,Urban,1,0,0,0,2,2,1,8,7,7,2,0,0,0,0,0,4,3,2,1,4,3,4,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,1,PS (I-V),4,Government Aided,Urban,1,6,5,2,3,3,4,3,11,10,4,11,16,24,14,4,1,7,8,3,3,12,6,16,8,18,12,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,1,PS (I-V),4,Government Aided,Urban,1,0,0,4,0,2,4,2,0,0,0,11,6,19,1,3,1,1,3,3,0,0,0,2,8,8,5,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,34,18,36,36,13,32,15,22,37,31,34,15,2,0,26,29,17,22,16,7,11,10,14,4,5,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,91,86,58,41,38,37,30,14,10,13,0,0,0,0,31,30,29,30,19,13,6,3,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,136,105,102,85,76,73,63,49,56,42,34,28,20,19,89,58,62,54,52,51,46,36,21,19,13,9,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,4,2,51,32,19,26,14,7,8,8,0,0,0,0,38,24,18,26,21,1,11,8,3,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,81,52,58,58,54,68,35,26,29,22,16,10,0,0,44,49,40,45,30,31,18,20,4,4,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,11,13,126,84,87,88,84,53,66,51,34,25,0,0,66,63,66,53,56,30,24,32,14,11,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,21,9,15,33,8,13,9,8,3,1,4,6,4,1,6,21,13,12,19,8,1,2,1,1,1,1,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,10,9,8,15,8,3,2,1,0,0,0,0,6,7,7,7,7,3,4,2,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,5,1,1,2,2,0,0,0,0,0,0,0,1,1,4,2,4,1,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,40,32,23,34,29,12,17,7,7,5,0,0,0,0,23,25,27,17,13,1,2,9,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,558,452,227,240,249,235,201,164,170,135,85,50,31,52,221,167,204,212,168,120,135,147,83,77,87,74,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,1,PS (I-V),6,Other Govt. managed schools,Urban,1,0,0,2,1,2,1,2,0,0,0,0,0,0,0,5,2,2,2,2,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,9,6,5,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,7,1,1,8,3,2,2,0,0,0,0,0,4,2,0,2,4,3,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,14,6,5,4,11,5,7,5,0,0,0,0,13,1,8,3,1,5,1,2,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,10,9,8,10,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,12,18,5,8,8,4,0,1,0,0,0,0,8,14,7,6,5,2,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,6,SS (I-X),1,Department of Education,Urban,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,1,1,3,1,1,0,2,0,1,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,211,148,142,137,163,158,146,120,127,136,162,111,56,49,76,86,83,61,71,63,71,54,57,66,19,36,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,82,51,37,46,47,61,51,45,53,54,53,38,0,0,38,36,27,16,24,22,31,31,40,37,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,146,89,51,53,37,41,34,35,36,26,25,9,6,3,42,32,15,16,7,13,11,20,14,6,3,2,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,7,6,12,3,10,3,5,5,11,12,14,1,0,0,3,6,5,6,3,2,3,8,12,3,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,32,12,16,19,30,20,28,24,25,27,51,23,8,4,11,19,22,9,12,14,11,10,25,19,2,3,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,1,1,2,1,5,2,3,6,5,31,36,0,0,1,3,1,0,4,1,0,4,11,18,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,41,13,17,16,12,18,21,13,14,7,8,25,0,0,3,6,7,6,11,12,7,20,8,2,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,43,41,34,34,31,23,26,23,23,27,42,50,17,20,33,26,16,21,20,16,20,20,35,34,14,14,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,63,56,45,25,22,32,17,25,28,25,36,32,0,0,21,18,15,26,22,27,14,24,21,21,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,28,10,6,4,7,10,4,8,11,5,12,15,0,0,3,5,9,5,3,5,4,5,3,6,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,177,169,196,193,211,203,214,231,221,220,239,258,156,101,166,162,157,165,184,189,162,167,222,181,109,83,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,47,21,4,1,0,0,0,0,0,0,0,0,69,22,6,5,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,87,52,15,14,0,0,0,0,0,0,0,0,55,28,12,8,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,69,28,23,11,0,0,0,0,0,0,0,0,64,31,33,22,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,106,50,14,12,0,0,0,0,0,0,0,0,91,56,23,16,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,131,61,9,1,0,0,0,0,0,0,0,0,170,81,7,2,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,105,53,17,10,0,0,0,0,0,0,0,0,164,91,36,24,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,8,4,5,4,0,0,0,0,0,0,0,0,6,4,4,4,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,11,6,9,14,0,0,0,0,0,0,0,0,7,7,11,6,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,27,7,2,2,0,0,0,0,0,0,0,0,45,14,11,7,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,9,6,2,10,3,9,5,8,12,8,9,11,7,5,5,13,6,3,7,1,7,5,12,6,9,2,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,71,47,0,0,0,0,0,0,0,0,0,0,70,41,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,17,5,2,1,4,3,1,0,0,0,1,0,0,0,0,0,1,4,0,0,0,2,1,0,1,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,8,SS (IX-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,19,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,8,SS (IX-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,2,2,6,0,4,0,0,0,0,0,0,0,2,1,3,2,1,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,2,0,1,0,0,2,0,2,0,0,0,2,2,2,0,0,2,1,1,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,0,2,1,0,0,0,1,1,0,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,2,UPS (I-VIII),4,Government Aided,Urban,1,0,0,0,2,3,4,4,0,2,0,0,0,0,0,1,1,4,0,1,0,1,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,10,10,67,74,54,50,50,57,55,40,9,1,0,0,49,52,61,34,46,31,40,20,2,3,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,121,136,118,106,93,89,100,123,69,71,25,17,10,3,99,90,85,77,88,62,70,70,19,10,3,2,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,258,203,209,207,161,153,148,136,140,135,59,73,26,22,162,138,136,141,103,142,102,90,44,33,17,15,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,14,13,159,126,128,127,125,120,111,111,28,28,5,15,120,121,112,105,107,81,97,92,10,19,3,7,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,171,152,147,164,141,161,113,152,117,141,55,38,6,6,113,109,118,112,91,96,75,68,33,30,2,4,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,34,14,81,73,61,67,85,77,73,73,29,10,0,0,70,60,59,50,53,48,52,56,22,13,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,50,58,37,21,44,50,36,32,60,46,32,28,26,26,23,36,34,35,29,24,36,20,18,8,24,28,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,62,80,113,107,111,104,93,104,106,91,90,108,55,53,99,91,88,93,78,70,84,69,45,34,22,13,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,93,60,65,54,42,39,38,30,31,36,15,10,10,4,25,31,23,26,16,25,23,15,10,3,4,1,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,14,10,50,43,48,41,40,50,40,47,7,5,7,5,31,33,43,43,26,42,23,27,10,7,6,8,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,434,402,322,309,325,273,279,287,263,263,144,139,104,94,292,269,284,278,273,243,217,199,118,101,91,81,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,2,UPS (I-VIII),6,Other Govt. managed schools,Urban,1,0,0,0,1,1,3,2,2,0,3,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,1,1,17,27,17,12,15,16,16,15,0,0,0,0,16,20,22,20,24,24,21,20,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,60,62,91,0,0,0,0,0,0,0,0,0,93,107,96,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,49,48,55,0,0,0,0,0,0,0,0,0,99,79,95,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,121,153,132,0,0,0,0,0,0,0,0,0,207,251,251,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,129,137,162,0,0,0,0,0,0,0,0,0,166,201,226,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,99,122,131,0,0,0,0,0,0,0,0,0,171,198,240,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,163,179,191,0,0,0,0,0,0,0,0,0,241,268,299,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,18,12,17,0,0,0,0,0,0,0,0,0,24,25,21,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,41,24,25,0,0,0,0,0,0,0,0,0,57,49,62,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,3,4,7,0,0,0,0,0,0,0,0,0,9,6,3,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,31,31,23,0,0,0,0,0,0,0,0,0,38,32,61,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,42,56,68,0,0,0,0,0,0,0,0,0,61,63,72,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,4,UPS (VI-VIII),2,Tribal Welfare Department,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,4,UPS (VI-VIII),4,Government Aided,Urban,1,0,0,1,4,1,0,0,0,0,0,0,0,0,0,0,4,3,1,1,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,34,17,29,31,32,18,28,20,24,33,33,44,43,18,29,17,20,17,20,28,14,23,38,31,19,15,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,4,5,5,2,6,3,7,8,13,12,1,0,3,6,6,5,3,7,6,6,7,3,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,1,1,1,4,0,2,0,0,1,2,0,0,0,0,0,2,3,1,1,1,3,4,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,9,10,14,4,5,9,20,21,25,21,0,0,6,11,7,5,7,10,7,17,19,14,0,0,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,1,4,1,13,6,9,10,19,19,14,12,14,40,17,25,17,8,11,11,11,7,11,7,9,15,5,18,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,1,12,8,14,11,18,16,13,13,26,30,29,39,22,9,5,12,6,10,10,4,6,7,6,16,7,2,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,1,96,46,34,44,53,40,40,26,38,41,68,105,68,82,14,10,19,17,14,21,22,16,43,40,45,49,General
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,3,HSS (I-XII),2,Tribal Welfare Department,Urban,2,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,3,HSS (I-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,59,48,33,20,16,8,11,12,11,7,8,10,15,9,21,26,8,2,12,13,9,11,14,5,7,2,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,12,15,5,7,3,4,1,4,0,2,15,2,1,3,13,3,5,7,2,1,2,2,10,2,0,3,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,34,23,12,16,16,18,16,12,20,16,21,15,15,28,9,10,9,10,9,8,9,8,8,9,10,4,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,15,10,18,10,17,3,5,7,3,3,15,8,1,0,13,18,18,1,3,8,1,3,10,7,1,2,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,21,10,8,16,17,5,7,4,3,3,3,3,2,0,2,6,4,2,1,1,2,1,3,3,3,1,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,7,8,3,7,1,0,6,10,2,8,1,0,1,2,0,0,0,0,0,0,1,4,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,15,16,6,5,6,5,4,7,7,7,18,6,1,0,7,5,2,2,1,2,1,1,14,1,3,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,284,224,178,140,150,115,133,123,118,126,184,197,128,108,110,111,100,86,94,62,82,60,105,107,79,54,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,366,245,253,227,243,236,210,201,210,208,314,378,264,264,189,173,199,182,144,166,125,158,178,219,182,182,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,3,HSS (I-XII),7,Central Govt,Urban,2,0,0,20,23,25,25,18,12,18,18,24,16,16,15,22,24,20,14,18,17,15,10,12,11,13,7,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,70,33,37,15,0,0,0,0,0,0,0,0,80,20,25,25,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,132,48,81,50,0,0,0,0,0,0,0,0,123,34,48,30,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,213,95,138,101,0,0,0,0,0,0,0,0,83,34,27,35,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,114,16,30,12,0,0,0,0,0,0,0,0,60,30,21,11,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,185,55,127,90,0,0,0,0,0,0,0,0,98,33,61,42,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,265,90,67,88,0,0,0,0,0,0,0,0,64,13,40,20,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73,31,35,25,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,202,75,82,65,0,0,0,0,0,0,0,0,223,65,88,71,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,25,12,52,25,0,0,0,0,0,0,0,0,19,1,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,133,49,101,60,0,0,0,0,0,0,0,0,127,48,56,32,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,325,176,405,247,0,0,0,0,0,0,0,0,485,240,426,314,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,10,HSS (IX-XII),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,15,21,13,19,0,0,0,0,0,0,0,0,16,15,17,22,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,10,HSS (IX-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,51,46,70,52,0,0,0,0,0,0,0,0,11,15,18,15,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,20,20,8,11,0,0,0,0,0,0,0,0,10,16,4,2,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,5,7,4,2,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,21,37,26,14,0,0,0,0,0,0,0,0,8,8,8,9,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,6,28,2,3,0,0,0,0,0,0,0,0,6,5,5,2,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,5,HSS (VI-XII),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,17,14,15,0,0,0,0,0,0,0,0,0,14,15,16,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,2,3,2,22,35,26,15,0,0,0,0,0,1,0,0,10,8,4,6,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,5,HSS (VI-XII),7,Central Govt,Rural,2,0,0,0,0,0,0,0,18,15,3,21,27,24,27,0,0,0,0,0,17,14,4,9,8,7,10,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,5,HSS (VI-XII),7,Central Govt,Urban,2,0,0,0,0,0,0,0,20,24,16,13,9,14,0,0,0,0,0,0,1,10,12,2,8,6,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,1,PS (I-V),1,Department of Education,Rural,2,0,0,326,304,291,323,352,0,0,0,0,0,0,0,358,363,395,424,398,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232102,GHATTIA,1,PS (I-V),1,Department of Education,Rural,2,41,50,265,248,249,260,294,0,0,0,0,0,0,0,335,272,329,329,334,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,1,PS (I-V),1,Department of Education,Rural,2,4,0,288,333,384,383,382,0,0,0,0,0,0,0,359,388,429,479,491,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,1,PS (I-V),1,Department of Education,Rural,2,0,0,693,617,707,672,700,0,0,0,0,0,0,0,827,653,823,756,724,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,1,PS (I-V),1,Department of Education,Rural,2,0,0,392,385,391,465,420,0,0,0,0,0,0,0,518,483,511,558,551,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,1,PS (I-V),1,Department of Education,Rural,2,0,0,581,611,667,635,663,0,0,0,0,0,0,0,666,657,678,704,671,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,1,PS (I-V),1,Department of Education,Urban,2,0,0,9,2,3,7,11,0,0,0,0,0,0,0,6,10,7,9,16,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,1,PS (I-V),1,Department of Education,Urban,2,0,0,37,27,29,42,51,0,0,0,0,0,0,0,35,48,50,35,53,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,1,PS (I-V),1,Department of Education,Urban,2,0,0,20,22,19,29,32,0,0,0,0,0,0,0,35,35,46,45,36,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,1,PS (I-V),1,Department of Education,Urban,2,0,0,5,21,4,10,12,0,0,0,0,0,0,0,14,5,8,10,11,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,1,PS (I-V),1,Department of Education,Urban,2,19,26,297,318,311,327,321,0,0,0,0,0,0,0,284,315,325,289,349,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,0,0,3,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,1,PS (I-V),2,Tribal Welfare Department,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232105,TARANA,1,PS (I-V),2,Tribal Welfare Department,Urban,2,0,0,1,1,2,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,1,PS (I-V),2,Tribal Welfare Department,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,1,PS (I-V),2,Tribal Welfare Department,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232101,UJJAIN RURAL,1,PS (I-V),4,Government Aided,Rural,2,0,0,15,6,15,14,11,0,0,0,0,0,0,0,11,12,11,11,13,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232106,MAHIDPUR,1,PS (I-V),4,Government Aided,Rural,2,0,0,2,7,17,7,10,0,0,0,0,0,0,0,3,4,6,12,1,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232103,BARNAGAR,1,PS (I-V),4,Government Aided,Urban,2,0,0,2,2,2,5,8,6,9,6,0,0,0,0,3,2,9,3,1,5,0,3,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232104,KHACHROD,1,PS (I-V),4,Government Aided,Urban,2,22,7,4,4,5,8,9,18,10,14,28,22,23,18,7,4,12,2,3,5,3,6,12,11,13,7,SC
+2016-17,23,Madhya Pradesh,2321,UJJAIN,232107,UJJAIN URBAN,1,PS (I-V),4,Government Aided,Urban,2,0,0,18,30,24,26,30,11,10,17,5,5,6,1,23,13,29,20,18,13,10,24,1,8,4,2,SC

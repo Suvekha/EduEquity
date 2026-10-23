@@ -1,0 +1,805 @@
+ac_year,st_code,state_name,dt_code,district_name,block_cd,udise_block_name,loc_name,sch_category_id,tr_cat_name,school_category,sch_mgmt_id,sch_mgmt_name,caste_id,caste_name,pre_primary_boy,pre_primary_girl,class1_boy,class2_boy,class3_boy,class4_boy,class5_boy,class6_boy,class7_boy,class8_boy,class9_boy,class10_boy,class11_boy,class12_boy,class1_girl,class2_girl,class3_girl,class4_girl,class5_girl,class6_girl,class7_girl,class8_girl,class9_girl,class10_girl,class11_girl,class12_girl
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,2,cat2,UPS (I-VIII),3,Local body,4,OBC,0,0,1099,1085,1152,1082,1119,1337,1517,1431,0,0,0,0,1015,1051,1125,1052,1114,1321,1485,1380,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,2,cat2,UPS (I-VIII),3,Local body,4,OBC,0,0,1055,1047,1205,1123,1095,1306,1447,1429,0,0,0,0,1081,1114,1130,1053,1100,1255,1322,1316,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,2,cat2,UPS (I-VIII),3,Local body,4,OBC,0,0,465,470,495,436,457,484,542,546,0,0,0,0,468,456,487,496,466,440,516,529,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,2,cat2,UPS (I-VIII),3,Local body,4,OBC,0,0,1234,1230,1373,1306,1345,1522,1649,1711,0,0,0,0,1181,1271,1334,1283,1267,1445,1513,1556,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,2,cat2,UPS (I-VIII),3,Local body,4,OBC,0,0,611,584,631,645,616,655,637,700,0,0,0,0,587,623,660,608,656,633,641,740,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,2,cat2,UPS (I-VIII),3,Local body,4,OBC,0,0,771,738,775,753,781,779,976,859,0,0,0,0,762,849,784,754,731,783,873,870,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,2,cat2,UPS (I-VIII),3,Local body,4,OBC,0,0,806,752,838,864,803,1041,1163,1102,0,0,0,0,823,792,855,842,890,1107,1140,1109,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,2,cat2,UPS (I-VIII),3,Local body,4,OBC,0,0,930,919,1015,983,974,1109,1178,1158,0,0,0,0,911,879,924,941,901,1088,1178,1091,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,2,cat2,UPS (I-VIII),3,Local body,4,OBC,0,0,628,618,649,613,627,676,778,692,0,0,0,0,628,643,650,631,574,614,716,692,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,2,cat2,UPS (I-VIII),3,Local body,4,OBC,0,0,286,298,303,327,323,371,407,376,0,0,0,0,253,321,298,290,348,365,393,370,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,2,cat2,UPS (I-VIII),3,Local body,4,OBC,0,0,37,39,32,22,37,52,61,45,0,0,0,0,52,45,64,58,62,52,90,99,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,2,cat2,UPS (I-VIII),3,Local body,4,OBC,0,0,24,26,34,36,42,35,40,47,0,0,0,0,34,39,39,42,34,84,57,78,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,2,cat2,UPS (I-VIII),3,Local body,4,OBC,0,0,81,60,58,64,82,64,75,90,0,0,0,0,75,64,74,60,55,51,72,53,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,2,cat2,UPS (I-VIII),3,Local body,4,OBC,0,0,32,40,59,48,58,58,58,60,0,0,0,0,74,60,75,73,78,80,73,62,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Urban,2,cat2,UPS (I-VIII),3,Local body,4,OBC,0,0,40,44,58,53,58,49,59,57,0,0,0,0,37,32,40,44,39,35,39,25,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,2,cat2,UPS (I-VIII),3,Local body,4,OBC,0,0,269,299,312,334,339,349,385,401,0,0,0,0,332,339,355,361,354,379,462,427,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,2,cat2,UPS (I-VIII),3,Local body,4,OBC,0,0,16,21,31,20,27,56,44,52,0,0,0,0,34,36,36,36,46,59,79,73,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,2,cat2,UPS (I-VIII),4,Government Aided,4,OBC,24,21,13,12,13,8,20,16,12,21,0,0,0,0,8,10,6,5,7,14,12,6,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,2,cat2,UPS (I-VIII),4,Government Aided,4,OBC,0,0,15,18,24,17,22,26,20,28,0,0,0,0,13,16,16,20,14,18,23,18,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,2,cat2,UPS (I-VIII),4,Government Aided,4,OBC,16,15,79,80,81,101,97,94,87,82,0,0,0,0,74,80,97,72,77,80,73,60,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,2,cat2,UPS (I-VIII),4,Government Aided,4,OBC,26,7,10,12,17,40,21,25,34,30,0,0,0,0,29,23,21,45,44,44,62,51,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,85,57,99,105,111,88,95,99,130,128,0,0,0,0,51,70,55,47,49,66,63,48,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,48,40,40,45,21,28,30,32,32,29,0,0,0,0,20,14,19,16,14,13,11,9,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,19,9,39,29,28,28,29,28,23,16,0,0,0,0,19,16,10,14,14,7,9,4,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,29,17,163,187,148,150,143,116,116,96,0,0,0,0,126,115,113,88,92,61,81,73,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,39,28,26,28,34,36,25,36,47,47,0,0,0,0,41,36,30,36,28,35,35,32,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,336,330,451,498,439,449,436,398,441,461,0,0,0,0,398,389,386,379,396,338,313,304,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,102,59,103,105,76,88,101,83,96,102,0,0,0,0,50,53,35,40,39,32,38,35,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,51,56,50,0,0,0,0,0,0,0,0,0,24,27,24,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,41,48,48,0,0,0,0,0,0,0,0,0,18,27,21,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,25,26,21,0,0,0,0,0,0,0,0,0,10,14,9,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,48,52,49,0,0,0,0,0,0,0,0,0,31,28,26,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,59,74,58,0,0,0,0,0,0,0,0,0,43,41,52,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,39,49,55,0,0,0,0,0,0,0,0,0,24,23,27,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,18,30,26,0,0,0,0,0,0,0,0,0,11,12,19,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,74,95,101,0,0,0,0,0,0,0,0,0,50,60,72,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,20,40,34,0,0,0,0,0,0,0,0,0,18,23,27,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,64,68,46,0,0,0,0,0,0,0,0,0,23,20,37,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,67,64,79,0,0,0,0,0,0,0,0,0,38,54,43,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,41,59,66,0,0,0,0,0,0,0,0,0,31,43,41,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,38,43,51,0,0,0,0,0,0,0,0,0,29,24,18,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,37,33,32,0,0,0,0,0,0,0,0,0,19,27,25,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,34,43,41,0,0,0,0,0,0,0,0,0,24,24,22,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,38,35,37,0,0,0,0,0,0,0,0,0,27,38,30,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,9,14,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,53,63,54,0,0,0,0,0,0,0,0,0,22,28,26,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,8,3,6,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,4,5,0,0,0,0,0,0,0,0,0,2,3,1,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,20,18,18,0,0,0,0,0,0,0,0,0,11,18,11,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,40,48,45,0,0,0,0,0,0,0,0,0,33,33,38,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,23,33,42,0,0,0,0,0,0,0,0,0,10,14,17,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,61,25,66,45,38,40,40,54,55,56,46,55,30,27,27,24,32,32,20,19,25,37,26,18,12,16
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,0,0,20,27,19,24,18,16,38,35,38,75,47,47,7,13,5,10,14,8,24,15,19,36,36,34
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,0,0,15,10,13,21,31,17,23,24,20,14,6,15,8,6,12,6,12,12,11,7,23,3,0,16
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,60,36,140,134,132,110,109,106,116,119,85,87,77,56,96,114,107,77,84,81,96,72,51,59,49,54
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,146,107,108,128,133,112,133,150,156,136,155,109,58,76,75,57,80,58,75,85,84,95,94,54,32,43
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,0,0,33,42,43,29,33,29,32,23,21,29,12,3,27,31,48,27,23,14,19,8,19,15,6,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,68,48,42,41,51,36,27,36,22,30,12,20,5,0,22,24,19,16,16,11,19,14,7,10,5,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,37,22,24,23,17,19,21,27,19,7,16,11,9,7,18,11,9,3,15,6,4,15,9,9,5,6
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,10,cat10,HSS (IX-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,10,cat10,HSS (IX-XII),3,Local body,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,8,8
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,10,cat10,HSS (IX-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,93,64,71,56,0,0,0,0,0,0,0,0,90,67,69,109
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,10,cat10,HSS (IX-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,59,42,29,31,0,0,0,0,0,0,0,0,46,30,31,25
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,10,cat10,HSS (IX-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,56,39,16,22,0,0,0,0,0,0,0,0,28,21,19,13
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,10,cat10,HSS (IX-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,140,111,55,55,0,0,0,0,0,0,0,0,70,67,56,46
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,10,cat10,HSS (IX-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,90,61,31,41,0,0,0,0,0,0,0,0,73,57,32,29
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,10,cat10,HSS (IX-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,44,30,18,23,0,0,0,0,0,0,0,0,30,28,26,19
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,10,cat10,HSS (IX-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,287,270,143,136,0,0,0,0,0,0,0,0,225,174,113,84
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,10,cat10,HSS (IX-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,77,80,62,73,0,0,0,0,0,0,0,0,43,46,21,36
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,10,cat10,HSS (IX-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,103,82,62,41,0,0,0,0,0,0,0,0,79,77,62,42
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,10,cat10,HSS (IX-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,104,96,52,68,0,0,0,0,0,0,0,0,68,74,59,66
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,10,cat10,HSS (IX-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,52,50,43,30,0,0,0,0,0,0,0,0,34,32,23,27
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,10,cat10,HSS (IX-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,10,cat10,HSS (IX-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,114,98,82,68,0,0,0,0,0,0,0,0,93,73,90,57
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,10,cat10,HSS (IX-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,64,49,53,77,0,0,0,0,0,0,0,0,46,46,46,53
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Urban,10,cat10,HSS (IX-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,16,4,16,0,0,0,0,0,0,0,0,0,30,26,36,32
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,10,cat10,HSS (IX-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,678,636,536,487,0,0,0,0,0,0,0,0,450,475,419,425
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,10,cat10,HSS (IX-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,109,93,52,58,0,0,0,0,0,0,0,0,97,95,47,50
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,8,6,3,4,0,0,0,0,0,0,0,0,3,6,11,10
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,11,13,9,6,0,0,0,0,0,0,0,0,3,1,2,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,27,24,27,22,0,0,0,0,0,0,0,0,5,9,10,14
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,3,1,6,0,0,0,0,0,0,0,0,0,2,2,0,3
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,18,14,4,1,0,0,0,0,0,0,0,0,7,12,1,2
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,25,45,56,66,0,0,0,0,0,0,0,0,22,19,47,39
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,8,10,0,0,0,0,0,0,0,0,0,0,3,3,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,182,184,155,165,0,0,0,0,0,0,0,0,146,132,112,112
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,8,1,1,1,0,0,0,0,0,0,0,0,4,3,1,3
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,10,cat10,HSS (IX-XII),90,Social welfare Department,1,General,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,32,22,20,17,15,4,6,8,9,9,0,0,0,0,4,7,4,10,2,5,4,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,40,34,78,83,80,59,56,59,83,66,0,0,0,0,52,57,46,39,31,34,38,31,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,2,1,2,7,9,6,1,0,0,0,0,0,5,5,7,12,8,3,3
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,9,18,21,14,24,13,9,0,0,0,0,0,14,21,16,27,19,17,6
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,74,48,33,39,44,19,26,43,40,31,0,0,0,0,24,23,16,18,18,17,16,9,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,2,2,52,39,25,12,0,0,0,0,0,0,0,3,39,42,21,13
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,58,33,76,73,53,62,58,69,91,85,0,0,0,0,45,35,34,26,40,24,37,43,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,25,5,32,49,45,28,43,40,31,45,0,0,0,0,11,19,17,12,13,6,14,8,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,6,1,5,0,4,5,7,4,0,0,0,0,3,3,2,6,5,2,4,2,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,117,87,168,148,176,145,160,114,140,129,0,0,0,0,106,108,89,77,71,62,80,64,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,6,4,8,16,14,7,11,10,14,19,0,0,0,0,1,3,1,3,3,4,3,6,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,5,4,5,5,6,5,10,0,0,0,0,0,1,4,8,5,3,4,5
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,5,21,27,38,35,37,49,0,0,0,0,0,1,11,9,28,15,34,52
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,48,77,115,140,135,267,201,0,0,0,0,0,11,30,53,53,80,191,146
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,30,23,63,54,75,40,40,56,51,35,0,0,0,0,38,24,35,21,25,17,29,26,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,43,31,19,32,22,16,32,30,0,0,0,0,26,28,22,13,15,17,17,8,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,5,cat5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,1,General,0,0,0,0,0,0,0,15,14,11,15,12,12,13,0,0,0,0,0,6,12,13,10,12,11,9
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,11,cat11,HSS (XI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,3,2
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,12,4,0,0,0,0,0,0,0,0,0,0,8,6
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,1,cat1,PS (I-V),3,Local body,1,General,0,0,11,16,17,16,9,0,0,0,0,0,0,0,24,15,19,13,20,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,1,cat1,PS (I-V),3,Local body,1,General,0,0,1,5,2,0,2,0,0,0,0,0,0,0,2,2,2,1,2,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,1,cat1,PS (I-V),3,Local body,1,General,0,0,7,11,13,19,14,0,0,0,0,0,0,0,16,13,7,11,20,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,1,cat1,PS (I-V),3,Local body,1,General,0,0,19,20,17,17,16,0,0,0,0,0,0,0,15,17,20,6,16,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,1,cat1,PS (I-V),3,Local body,1,General,0,0,17,19,14,13,14,0,0,0,0,0,0,0,20,10,15,19,18,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,1,cat1,PS (I-V),3,Local body,1,General,0,0,0,2,4,2,1,0,0,0,0,0,0,0,4,0,3,1,6,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,1,cat1,PS (I-V),3,Local body,1,General,0,0,51,38,65,65,61,0,0,0,0,0,0,0,56,50,60,51,56,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,1,cat1,PS (I-V),3,Local body,1,General,0,0,18,24,16,17,10,0,0,0,0,0,0,0,28,32,24,19,13,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,1,cat1,PS (I-V),3,Local body,1,General,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,1,cat1,PS (I-V),3,Local body,1,General,0,0,17,30,22,24,33,0,0,0,0,0,0,0,32,22,19,27,20,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,1,cat1,PS (I-V),3,Local body,1,General,0,0,7,7,10,8,8,0,0,0,0,0,0,0,4,5,2,8,14,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,1,cat1,PS (I-V),3,Local body,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,1,cat1,PS (I-V),3,Local body,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,1,cat1,PS (I-V),3,Local body,1,General,0,0,2,1,1,2,6,0,0,0,0,0,0,0,5,4,1,1,1,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Urban,1,cat1,PS (I-V),3,Local body,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,1,cat1,PS (I-V),3,Local body,1,General,0,0,8,3,6,6,10,0,0,0,0,0,0,0,6,6,5,1,2,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,1,cat1,PS (I-V),3,Local body,1,General,0,0,3,1,3,3,5,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,1,cat1,PS (I-V),4,Government Aided,1,General,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,1,cat1,PS (I-V),4,Government Aided,1,General,0,0,7,4,6,15,18,0,0,0,0,0,0,0,3,4,4,7,13,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,1,cat1,PS (I-V),4,Government Aided,1,General,0,0,10,7,11,12,7,0,0,0,0,0,0,0,7,10,9,13,9,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,1,cat1,PS (I-V),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,1,cat1,PS (I-V),4,Government Aided,1,General,0,0,2,0,6,5,6,0,0,0,0,0,0,0,1,3,2,2,2,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,1,cat1,PS (I-V),4,Government Aided,1,General,0,0,15,21,24,12,15,0,0,0,0,0,0,0,13,15,15,17,20,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,22,19,9,9,13,0,0,0,0,0,0,0,16,8,5,6,6,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,9,12,46,28,27,22,17,0,0,0,0,0,0,0,35,28,18,22,27,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,5,2,3,3,3,0,0,0,0,0,0,0,4,1,1,2,2,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,6,3,7,5,3,0,0,0,0,0,0,0,5,4,2,5,4,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,9,15,18,12,11,0,0,0,0,0,0,0,11,8,11,5,4,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,26,24,28,19,13,12,13,0,0,0,0,0,0,0,18,9,17,14,17,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,57,39,48,39,37,35,28,0,0,0,0,0,0,0,42,36,33,12,25,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,9,12,5,5,8,5,7,0,0,0,0,0,0,0,1,4,2,3,4,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,3,1,3,2,2,0,0,0,0,0,0,0,0,7,4,4,5,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,174,173,27,39,26,24,20,0,0,0,0,0,0,0,33,25,26,19,22,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,31,18,9,16,16,0,0,0,0,0,0,0,18,7,10,7,7,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,15,12,26,19,12,15,6,0,0,0,0,0,0,0,11,10,12,11,2,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,80,56,74,70,45,48,39,0,0,0,0,0,0,0,45,36,30,21,35,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,27,18,8,4,7,4,3,0,0,0,0,0,0,0,6,3,3,3,1,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,0,0,23,17,14,20,34,12,17,14,6,3,0,0,16,12,12,11,15,9,9,6,9,6,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,0,0,4,10,0,12,2,1,1,1,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,0,0,31,8,12,10,4,6,3,3,5,2,0,0,22,6,6,6,3,4,3,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,135,107,190,171,182,194,171,140,140,129,134,119,0,0,150,179,153,152,137,149,130,140,108,83,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,45,55,38,27,38,30,19,12,13,14,18,5,0,0,25,24,20,14,9,19,8,9,8,12,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,0,0,11,7,13,11,14,11,5,13,7,10,0,0,7,13,7,8,8,6,4,12,6,4,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,0,0,14,8,21,13,9,14,22,14,19,17,0,0,9,6,8,7,9,5,11,9,6,9,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,38,28,28,17,16,14,14,13,15,22,7,16,0,0,25,9,13,13,11,20,15,14,7,16,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,1,1,47,34,25,29,22,20,24,22,15,15,0,0,26,13,16,16,10,20,11,7,12,2,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,88,56,54,45,32,37,35,21,16,13,8,2,0,0,35,30,31,16,19,17,15,13,4,3,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,15,14,16,21,16,9,14,1,4,7,7,6,0,0,11,6,9,5,12,11,7,4,9,4,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,8,cat8,SS (IX-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,8,cat8,SS (IX-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,8,cat8,SS (IX-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,8,cat8,SS (IX-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,8,cat8,SS (IX-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,5,4,0,0,0,0,0,0,0,0,0,0,3,1,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,8,cat8,SS (IX-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,8,cat8,SS (IX-X),3,Local body,1,General,0,0,0,0,0,0,0,0,0,0,6,4,0,0,0,0,0,0,0,0,0,0,2,1,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,8,cat8,SS (IX-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,35,29,0,0,0,0,0,0,0,0,0,0,20,25,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,8,cat8,SS (IX-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,4,9,0,0,0,0,0,0,0,0,0,0,7,1,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,8,cat8,SS (IX-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,19,16,0,0,0,0,0,0,0,0,0,0,23,13,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,8,cat8,SS (IX-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,16,12,0,0,0,0,0,0,0,0,0,0,15,4,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,8,cat8,SS (IX-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,32,15,0,0,0,0,0,0,0,0,0,0,24,13,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,8,cat8,SS (IX-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,51,29,0,0,0,0,0,0,0,0,0,0,47,31,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,8,cat8,SS (IX-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,74,50,0,0,0,0,0,0,0,0,0,0,50,50,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,8,cat8,SS (IX-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,15,16,0,0,0,0,0,0,0,0,0,0,20,15,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,8,cat8,SS (IX-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,5,4,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,8,cat8,SS (IX-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,11,11,0,0,0,0,0,0,0,0,0,0,35,28,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,8,cat8,SS (IX-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,8,cat8,SS (IX-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,8,cat8,SS (IX-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,1,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,8,cat8,SS (IX-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,46,1,0,0,0,0,0,0,0,0,0,0,27,3,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,57,28,0,0,0,0,0,0,0,0,0,0,16,20,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,28,27,0,0,0,0,0,0,0,0,0,0,19,8,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,15,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,3,6,0,0,0,0,0,0,0,0,0,0,6,8,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,6,11,0,0,0,0,0,0,0,0,0,0,5,2,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,7,cat7,SS (VI-X),4,Government Aided,1,General,0,0,0,0,0,0,0,12,9,9,42,34,0,0,0,0,0,0,0,4,14,12,24,14,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,2,5,2,2,5,0,0,0,0,0,0,0,0,4,1,1,5,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,1,General,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,4,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,1,General,0,0,2,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,1,General,0,0,0,1,0,1,1,2,0,0,0,0,0,0,0,0,2,2,0,3,2,1,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,1,General,0,0,3,0,0,0,0,1,0,1,0,0,0,0,2,0,2,0,2,2,3,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,1,General,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,1,General,0,0,0,0,0,1,1,3,0,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,2,cat2,UPS (I-VIII),3,Local body,1,General,0,0,58,57,54,63,60,54,65,82,0,0,0,0,71,54,83,73,56,78,77,86,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,2,cat2,UPS (I-VIII),3,Local body,1,General,0,0,26,14,19,20,21,18,23,21,0,0,0,0,29,25,20,16,29,24,33,20,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,2,cat2,UPS (I-VIII),3,Local body,1,General,0,0,28,33,43,37,36,38,48,37,0,0,0,0,38,41,35,34,34,35,43,50,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,2,cat2,UPS (I-VIII),3,Local body,1,General,0,0,134,123,150,131,153,154,184,150,0,0,0,0,105,145,144,143,127,143,154,153,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,2,cat2,UPS (I-VIII),3,Local body,1,General,0,0,76,95,73,63,51,61,101,80,0,0,0,0,92,99,75,58,84,71,88,80,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,2,cat2,UPS (I-VIII),3,Local body,1,General,0,0,73,99,88,73,85,61,82,84,0,0,0,0,87,86,83,89,93,67,100,76,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,2,cat2,UPS (I-VIII),3,Local body,1,General,0,0,137,172,167,178,148,207,198,229,0,0,0,0,180,241,210,158,170,191,195,248,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,2,cat2,UPS (I-VIII),3,Local body,1,General,0,0,50,53,65,81,78,103,76,109,0,0,0,0,60,71,73,86,73,87,78,97,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,2,cat2,UPS (I-VIII),3,Local body,1,General,0,0,56,63,66,52,65,42,49,55,0,0,0,0,52,64,54,58,69,51,58,65,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,2,cat2,UPS (I-VIII),3,Local body,1,General,0,0,44,52,44,45,70,47,51,64,0,0,0,0,30,42,47,54,39,41,65,55,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,2,cat2,UPS (I-VIII),3,Local body,1,General,0,0,30,33,29,41,27,36,42,29,0,0,0,0,36,33,26,36,27,40,20,17,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,2,cat2,UPS (I-VIII),3,Local body,1,General,0,0,2,5,3,4,1,4,5,11,0,0,0,0,0,1,1,1,1,3,1,1,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,2,cat2,UPS (I-VIII),3,Local body,1,General,0,0,10,1,5,6,6,5,17,8,0,0,0,0,12,8,18,19,13,8,14,12,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,2,cat2,UPS (I-VIII),3,Local body,1,General,0,0,0,1,1,0,0,0,3,0,0,0,0,0,0,0,2,2,1,0,1,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Urban,2,cat2,UPS (I-VIII),3,Local body,1,General,0,0,3,20,10,8,14,2,8,2,0,0,0,0,25,20,22,26,35,30,43,23,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,2,cat2,UPS (I-VIII),3,Local body,1,General,0,0,74,82,97,96,90,86,112,100,0,0,0,0,85,94,94,103,89,92,123,114,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,2,cat2,UPS (I-VIII),3,Local body,1,General,0,0,10,16,27,20,20,29,29,26,0,0,0,0,14,18,26,18,25,27,27,32,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,2,cat2,UPS (I-VIII),4,Government Aided,1,General,0,0,20,24,25,13,18,11,15,16,0,0,0,0,15,11,8,20,13,12,13,9,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,2,cat2,UPS (I-VIII),4,Government Aided,1,General,0,0,4,11,7,4,4,3,4,2,0,0,0,0,9,7,7,2,5,5,4,2,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,2,cat2,UPS (I-VIII),4,Government Aided,1,General,12,16,78,88,71,81,75,68,93,65,0,0,0,0,57,77,71,59,65,64,71,75,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,2,cat2,UPS (I-VIII),4,Government Aided,1,General,5,1,2,10,3,7,6,14,1,11,0,0,0,0,4,9,10,13,25,20,24,29,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,17,15,8,6,5,9,5,7,4,9,0,0,0,0,9,4,8,6,4,9,3,4,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,10,7,8,6,7,7,3,5,3,4,0,0,0,0,3,3,2,6,3,6,10,3,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,43,30,16,17,7,18,18,14,10,17,0,0,0,0,16,11,8,17,10,6,2,3,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,32,35,16,27,13,22,20,13,15,9,0,0,0,0,13,15,8,7,8,10,10,5,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,5,3,6,7,14,10,11,13,6,4,0,0,0,0,4,4,6,2,3,7,6,2,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,0,0,1,3,2,1,5,9,15,16,0,0,0,0,2,3,0,0,1,0,0,3,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,43,28,108,88,100,96,91,46,65,53,0,0,0,0,56,59,58,42,49,30,34,41,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,6,6,0,3,3,1,1,7,7,3,0,0,0,0,0,3,0,2,1,2,1,4,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,90,61,40,46,41,43,36,19,41,27,0,0,0,0,34,34,28,18,33,11,26,26,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,0,0,35,25,26,15,18,13,12,14,0,0,0,0,16,26,19,22,18,12,19,11,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,27,24,100,65,60,71,54,69,57,59,0,0,0,0,50,47,57,41,32,36,43,41,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,9,8,27,19,23,14,18,19,19,13,0,0,0,0,10,12,13,8,13,16,13,11,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,10,8,0,2,8,18,13,20,14,16,0,0,0,0,3,2,3,3,2,1,0,2,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,14,14,107,95,83,83,96,75,93,75,0,0,0,0,63,83,78,62,67,40,69,55,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,1084,890,684,614,633,631,637,572,676,652,0,0,0,0,516,541,477,507,539,410,506,470,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,43,44,40,39,36,34,26,29,29,19,0,0,0,0,33,32,33,23,17,14,14,19,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,15,16,17,0,0,0,0,0,0,0,0,0,9,11,8,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,11,12,14,0,0,0,0,0,0,0,0,0,6,4,11,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,9,5,6,0,0,0,0,0,0,0,0,0,4,6,8,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,3,12,12,0,0,0,0,0,0,0,0,0,8,12,15,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,62,75,72,0,0,0,0,0,0,0,0,0,33,47,47,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,23,24,23,0,0,0,0,0,0,0,0,0,14,25,25,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,6,9,11,0,0,0,0,0,0,0,0,0,9,4,7,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,18,17,22,0,0,0,0,0,0,0,0,0,10,22,20,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,6,11,8,0,0,0,0,0,0,0,0,0,5,5,5,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,7,7,4,0,0,0,0,0,0,0,0,0,4,6,10,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,49,56,46,0,0,0,0,0,0,0,0,0,50,51,50,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,1,11,10,0,0,0,0,0,0,0,0,0,6,4,10,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,9,4,19,0,0,0,0,0,0,0,0,0,9,10,10,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,55,43,57,0,0,0,0,0,0,0,0,0,26,37,39,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,15,18,17,0,0,0,0,0,0,0,0,0,9,16,27,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,12,8,11,0,0,0,0,0,0,0,0,0,9,9,11,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,5,10,12,0,0,0,0,0,0,0,0,0,11,16,5,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,2,2,2,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,2,1,1,1,2,4,5,4,0,0,0,0,0,0,1,0,1,3,1,2,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,0,0,1,0,2,1,1,4,4,5,5,6,8,7,2,0,0,0,0,1,2,3,1,2,7,8
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,0,0,3,1,2,0,3,0,2,1,2,0,0,1,2,1,0,1,0,0,0,0,0,1,0,1
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,2,2,2,2,2,2,0,1,0,1,0,0,0,0,0,0,3,0,0,0,0,1,0,0,1,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,4,1,1,0,0,0,0,1,0,1,3,28,6,5,0,1,0,0,0,2,1,1,2,6,3,2
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,0,0,3,0,1,0,1,2,0,1,0,1,0,0,1,0,2,0,1,2,0,1,0,2,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,10,cat10,HSS (IX-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,10,cat10,HSS (IX-XII),3,Local body,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8,2,1
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,10,cat10,HSS (IX-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,49,43,43,35,0,0,0,0,0,0,0,0,41,41,47,46
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,10,cat10,HSS (IX-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,33,37,25,18,0,0,0,0,0,0,0,0,20,18,14,22
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,10,cat10,HSS (IX-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,25,25,19,8,0,0,0,0,0,0,0,0,24,15,15,12
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,10,cat10,HSS (IX-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,32,23,16,13,0,0,0,0,0,0,0,0,27,18,20,6
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,10,cat10,HSS (IX-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,6,6,7,9,0,0,0,0,0,0,0,0,10,5,5,6
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,10,cat10,HSS (IX-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,31,18,11,10,0,0,0,0,0,0,0,0,28,20,26,22
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,10,cat10,HSS (IX-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,38,37,19,19,0,0,0,0,0,0,0,0,25,23,19,27
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,10,cat10,HSS (IX-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,12,18,12,11,0,0,0,0,0,0,0,0,5,7,5,9
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,10,cat10,HSS (IX-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,39,45,22,19,0,0,0,0,0,0,0,0,27,30,15,25
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,10,cat10,HSS (IX-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,27,18,15,12,0,0,0,0,0,0,0,0,23,17,19,22
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,10,cat10,HSS (IX-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,14,10,19,12,0,0,0,0,0,0,0,0,11,8,15,6
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,10,cat10,HSS (IX-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,3,3,1,0,0,0,0,0,0,0,0,0,0,4,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,10,cat10,HSS (IX-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,27,18,22,18,0,0,0,0,0,0,0,0,17,17,26,31
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,10,cat10,HSS (IX-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,22,9,22,28,0,0,0,0,0,0,0,0,27,16,30,14
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Urban,10,cat10,HSS (IX-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,5,2,2,1
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,10,cat10,HSS (IX-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,117,94,99,71,0,0,0,0,0,0,0,0,62,81,84,78
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,10,cat10,HSS (IX-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,35,24,16,27,0,0,0,0,0,0,0,0,39,28,25,29
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,6,1,0,2,0,0,0,0,0,0,0,0,2,6,0,4
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,1,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,4,2,1,1,0,0,0,0,0,0,0,0,3,1,0,4
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,7,7,23,3,0,0,0,0,0,0,0,0,0,3,12,14
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,11,22,13,23,0,0,0,0,0,0,0,0,8,9,11,21
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,5,32,4,3,0,0,0,0,0,0,0,0,1,9,1,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,10,cat10,HSS (IX-XII),90,Social welfare Department,2,SC,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,1,3,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,2,2,5,3,4,1,1,0,0,0,0,0,2,2,6,5,6,0,4
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,7,13,17,0,0,0,0,0,0,0,0,0,8,10,8,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,4,1,1,0,1,0,0,0,0,0,0,0,2,1,2,1,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,3,2,7,9,9,19,15,0,0,0,0,0,3,3,2,6,6,11,6
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,5,cat5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,2,SC,0,0,0,0,0,0,0,8,8,11,9,11,7,5,0,0,0,0,0,8,7,7,7,7,4,4
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,11,cat11,HSS (XI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,1,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,1,cat1,PS (I-V),3,Local body,2,SC,0,0,2,1,1,2,3,0,0,0,0,0,0,0,1,1,2,1,3,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,1,cat1,PS (I-V),3,Local body,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,1,cat1,PS (I-V),3,Local body,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,1,cat1,PS (I-V),3,Local body,2,SC,0,0,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Urban,1,cat1,PS (I-V),3,Local body,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,1,cat1,PS (I-V),3,Local body,2,SC,0,0,1,2,1,2,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,1,cat1,PS (I-V),3,Local body,2,SC,0,0,5,0,3,0,6,0,0,0,0,0,0,0,4,2,4,1,2,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,1,cat1,PS (I-V),3,Local body,2,SC,0,0,4,7,4,4,5,0,0,0,0,0,0,0,4,4,2,3,6,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,1,cat1,PS (I-V),3,Local body,2,SC,0,0,9,6,12,5,5,0,0,0,0,0,0,0,4,6,13,8,6,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,1,cat1,PS (I-V),3,Local body,2,SC,0,0,7,3,7,5,3,0,0,0,0,0,0,0,9,4,8,8,3,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,1,cat1,PS (I-V),3,Local body,2,SC,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,1,cat1,PS (I-V),3,Local body,2,SC,0,0,2,0,1,3,1,0,0,0,0,0,0,0,0,4,1,0,2,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,1,cat1,PS (I-V),3,Local body,2,SC,0,0,2,2,2,1,1,0,0,0,0,0,0,0,0,2,1,2,2,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,1,cat1,PS (I-V),3,Local body,2,SC,0,0,1,1,2,0,2,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,1,cat1,PS (I-V),3,Local body,2,SC,0,0,8,11,4,5,8,0,0,0,0,0,0,0,7,3,8,9,4,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,1,cat1,PS (I-V),3,Local body,2,SC,0,0,4,6,3,2,5,0,0,0,0,0,0,0,9,4,5,4,3,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,1,cat1,PS (I-V),3,Local body,2,SC,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,1,cat1,PS (I-V),4,Government Aided,2,SC,0,0,1,1,3,0,2,0,0,0,0,0,0,0,0,1,0,5,2,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,1,cat1,PS (I-V),4,Government Aided,2,SC,0,0,3,4,4,9,12,0,0,0,0,0,0,0,2,6,6,4,7,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,1,cat1,PS (I-V),4,Government Aided,2,SC,0,0,1,4,0,2,4,0,0,0,0,0,0,0,2,3,3,2,2,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,1,cat1,PS (I-V),4,Government Aided,2,SC,0,0,1,1,2,2,3,0,0,0,0,0,0,0,0,3,3,1,1,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,1,cat1,PS (I-V),4,Government Aided,2,SC,0,0,2,5,9,4,9,0,0,0,0,0,0,0,7,6,10,4,7,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,1,cat1,PS (I-V),4,Government Aided,2,SC,0,0,1,1,3,2,1,0,0,0,0,0,0,0,2,1,2,1,1,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,5,5,0,2,2,0,0,0,0,0,0,0,4,3,0,3,3,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,7,2,3,6,5,0,0,0,0,0,0,0,6,7,4,2,4,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,9,4,4,10,2,0,0,0,0,0,0,0,3,8,3,5,4,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,1,0,10,5,5,3,8,0,0,0,0,0,0,0,3,8,2,7,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,3,5,1,4,2,5,2,0,0,0,0,0,0,0,5,4,5,2,3,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,3,0,4,12,2,0,0,0,0,0,0,0,1,0,1,6,1,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,4,7,4,5,11,0,0,0,0,0,0,0,2,1,5,6,5,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,5,6,14,7,4,8,12,0,0,0,0,0,0,0,9,3,9,7,2,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,5,2,1,0,0,0,0,0,0,0,0,0,5,3,1,0,1,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,2,1,1,2,2,0,0,0,0,0,0,0,1,2,1,1,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,1,3,14,12,11,4,4,0,0,0,0,0,0,0,7,5,3,4,2,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,10,7,1,7,8,5,4,0,0,0,0,0,0,0,2,1,4,1,1,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,2,6,5,0,1,1,1,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,6,6,1,1,0,1,0,0,0,0,0,0,5,0,0,1,1,0,1,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,28,24,23,34,20,24,13,12,14,10,9,8,0,0,19,25,28,16,14,11,9,7,6,4,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,3,4,3,0,1,4,4,0,1,0,0,0,2,0,0,1,0,0,0,1,3,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,1,1,3,0,0,0,1,1,1,1,0,0,1,2,0,1,1,0,0,3,1,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,18,2,2,1,1,3,0,1,2,1,0,0,2,0,1,0,1,0,0,0,1,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,2,1,0,2,0,0,3,0,1,1,0,2,0,0,0,0,0,1,2,0,0,0,0,1,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,1,3,4,0,0,1,1,0,0,0,0,0,1,1,1,0,2,3,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,3,0,5,0,0,1,0,3,1,1,0,0,0,0,0,3,0,4,0,0,1,0,1,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,8,cat8,SS (IX-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,8,cat8,SS (IX-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,8,cat8,SS (IX-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,8,cat8,SS (IX-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,8,cat8,SS (IX-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,8,cat8,SS (IX-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,8,2,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,8,cat8,SS (IX-X),3,Local body,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,8,cat8,SS (IX-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,25,15,0,0,0,0,0,0,0,0,0,0,21,10,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,8,cat8,SS (IX-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,5,2,0,0,0,0,0,0,0,0,0,0,5,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,8,cat8,SS (IX-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,27,30,0,0,0,0,0,0,0,0,0,0,17,24,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,8,cat8,SS (IX-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,5,6,0,0,0,0,0,0,0,0,0,0,2,7,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,8,cat8,SS (IX-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,12,10,0,0,0,0,0,0,0,0,0,0,7,6,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,8,cat8,SS (IX-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,11,8,0,0,0,0,0,0,0,0,0,0,4,3,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,8,cat8,SS (IX-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,8,7,0,0,0,0,0,0,0,0,0,0,8,6,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,8,cat8,SS (IX-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,25,16,0,0,0,0,0,0,0,0,0,0,16,14,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,8,cat8,SS (IX-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,20,12,0,0,0,0,0,0,0,0,0,0,8,5,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,8,cat8,SS (IX-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,10,1,0,0,0,0,0,0,0,0,0,0,16,7,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,8,cat8,SS (IX-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,8,cat8,SS (IX-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,8,cat8,SS (IX-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,9,4,0,0,0,0,0,0,0,0,0,0,9,8,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,8,cat8,SS (IX-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,5,6,0,0,0,0,0,0,0,0,0,0,3,4,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,7,2,0,0,0,0,0,0,0,0,0,0,13,2,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,9,3,0,0,0,0,0,0,0,0,0,0,4,2,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,7,cat7,SS (VI-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,2,5,2,2,5,0,0,0,0,0,0,0,1,2,1,4,2,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,3,2,4,11,9,0,0,0,0,0,0,0,3,5,7,3,2,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,2,SC,0,0,18,14,8,20,11,24,19,22,0,0,0,0,9,7,3,8,6,12,10,4,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,2,SC,0,0,11,4,5,16,13,8,12,9,0,0,0,0,3,3,4,4,3,3,3,4,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,2,SC,0,0,0,1,0,2,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,2,SC,0,0,2,5,3,5,7,6,9,9,0,0,0,0,4,6,8,4,6,4,9,10,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,2,SC,0,0,5,2,2,1,3,4,2,7,0,0,0,0,1,0,1,0,2,0,0,1,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,2,SC,0,0,4,6,7,8,11,16,23,25,0,0,0,0,5,5,2,3,10,11,12,15,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,2,cat2,UPS (I-VIII),3,Local body,2,SC,0,0,49,48,51,48,56,52,45,43,0,0,0,0,36,40,47,54,46,44,45,45,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,2,cat2,UPS (I-VIII),3,Local body,2,SC,0,0,15,17,18,23,26,26,23,30,0,0,0,0,14,21,19,19,24,24,28,19,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,2,cat2,UPS (I-VIII),3,Local body,2,SC,0,0,40,51,41,38,49,31,40,52,0,0,0,0,38,52,38,46,41,37,64,42,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,2,cat2,UPS (I-VIII),3,Local body,2,SC,0,0,32,29,35,40,41,45,47,29,0,0,0,0,29,24,39,31,40,30,42,38,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,2,cat2,UPS (I-VIII),3,Local body,2,SC,0,0,21,17,12,14,15,23,15,15,0,0,0,0,12,14,12,24,22,19,19,18,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,2,cat2,UPS (I-VIII),3,Local body,2,SC,0,0,24,38,48,35,37,28,45,36,0,0,0,0,26,26,25,40,43,38,35,42,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,2,cat2,UPS (I-VIII),3,Local body,2,SC,0,0,27,32,30,33,26,36,38,35,0,0,0,0,28,27,27,36,36,27,40,29,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,2,cat2,UPS (I-VIII),3,Local body,2,SC,0,0,27,41,34,39,41,31,44,25,0,0,0,0,35,28,41,34,40,43,37,26,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,2,cat2,UPS (I-VIII),3,Local body,2,SC,0,0,25,26,29,27,27,30,52,51,0,0,0,0,34,30,35,28,56,30,39,45,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,2,cat2,UPS (I-VIII),3,Local body,2,SC,0,0,13,18,19,16,11,24,17,13,0,0,0,0,14,9,14,15,11,13,21,19,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,2,cat2,UPS (I-VIII),3,Local body,2,SC,0,0,1,1,3,4,1,3,4,2,0,0,0,0,3,1,6,2,3,5,1,3,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,2,cat2,UPS (I-VIII),3,Local body,2,SC,0,0,1,1,3,2,2,2,4,1,0,0,0,0,1,2,4,1,3,5,6,5,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,2,cat2,UPS (I-VIII),3,Local body,2,SC,0,0,3,5,5,4,3,5,5,10,0,0,0,0,2,6,6,5,10,5,7,10,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,2,cat2,UPS (I-VIII),3,Local body,2,SC,0,0,0,0,1,1,2,2,2,3,0,0,0,0,1,3,2,2,4,4,5,7,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Urban,2,cat2,UPS (I-VIII),3,Local body,2,SC,0,0,0,2,0,2,2,2,1,0,0,0,0,0,0,2,1,1,1,2,2,2,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,2,cat2,UPS (I-VIII),3,Local body,2,SC,0,0,13,13,9,10,19,18,21,21,0,0,0,0,9,23,16,17,23,16,28,21,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,2,cat2,UPS (I-VIII),3,Local body,2,SC,0,0,0,8,3,1,1,15,9,24,0,0,0,0,7,3,8,5,8,8,18,10,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,2,cat2,UPS (I-VIII),4,Government Aided,2,SC,0,0,1,0,0,2,0,1,1,1,0,0,0,0,2,3,0,1,1,0,1,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,2,cat2,UPS (I-VIII),4,Government Aided,2,SC,0,0,2,1,2,2,3,1,2,1,0,0,0,0,2,1,0,2,3,1,4,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,2,cat2,UPS (I-VIII),4,Government Aided,2,SC,0,0,3,4,6,8,7,13,11,11,0,0,0,0,8,0,8,4,8,11,11,8,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,2,cat2,UPS (I-VIII),4,Government Aided,2,SC,0,2,3,0,0,0,2,0,2,1,0,0,0,0,2,2,1,5,3,2,5,10,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,4,3,1,2,2,1,3,0,1,1,0,0,0,0,0,1,1,1,4,2,1,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,2,3,5,2,3,5,4,4,0,1,0,0,0,0,1,2,0,2,2,2,1,2,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,16,12,4,12,8,5,7,1,0,0,0,0,0,0,2,1,7,5,2,1,3,3,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,7,3,3,3,4,7,2,4,1,1,0,0,0,0,4,1,5,2,1,2,1,3,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,6,4,5,5,10,4,6,7,4,6,0,0,0,0,6,7,8,3,8,10,7,6,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,0,0,2,0,2,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,0,0,13,10,12,8,6,6,10,3,0,0,0,0,2,8,3,6,9,3,6,3,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,0,0,5,5,0,3,0,3,2,2,0,0,0,0,6,3,1,3,2,2,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,4,3,24,18,20,14,4,5,13,8,0,0,0,0,24,6,8,11,4,4,12,8,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,1,2,2,1,1,0,4,0,0,1,0,0,0,0,3,1,1,1,5,1,3,1,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,2,3,4,4,0,0,4,3,4,1,0,0,0,0,0,1,1,1,3,2,1,1,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,4,3,16,17,16,17,16,14,19,20,0,0,0,0,16,14,8,14,20,10,18,13,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,35,28,93,113,99,100,92,91,84,110,0,0,0,0,89,72,84,74,83,79,71,67,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,15,10,8,5,9,6,6,12,5,11,0,0,0,0,6,5,6,9,2,8,9,10,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,1,3,3,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,7,7,9,0,0,0,0,0,0,0,0,0,6,5,7,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,2,2,3,0,0,0,0,0,0,0,0,0,2,4,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,3,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,7,6,4,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,2,5,2,0,0,0,0,0,0,0,0,0,3,0,2,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,7,10,18,0,0,0,0,0,0,0,0,0,5,8,7,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,3,9,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,3,4,3,0,0,0,0,0,0,0,0,0,3,4,5,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,7,13,9,0,0,0,0,0,0,0,0,0,11,1,8,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,3,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,1,2,2,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,2,7,0,0,0,0,0,0,0,0,0,0,4,3,1,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,2,1,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,2,5,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,4,5,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,6,5,7,0,0,0,0,0,0,0,0,0,8,3,5,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,2,3,1,0,0,0,0,0,0,0,0,0,3,1,1,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,2,4,11,0,0,0,0,0,0,0,0,0,0,7,8,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,2,5,4,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,1,0,0,0,1,1,2,4,1,0,0,1,0,0,0,0,1,0,2,1
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,0,2,2,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,2,1,2,0,0,0,0,13,0,2,2,1,28,20,3,0,0,0,0,15,1,0,0,1,14,12
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,10,cat10,HSS (IX-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,10,cat10,HSS (IX-XII),3,Local body,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,1,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,10,cat10,HSS (IX-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,32,13,12,9,0,0,0,0,0,0,0,0,49,7,8,11
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,10,cat10,HSS (IX-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,13,11,7,9,0,0,0,0,0,0,0,0,6,3,2,2
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,10,cat10,HSS (IX-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,21,14,5,4,0,0,0,0,0,0,0,0,11,11,2,3
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,10,cat10,HSS (IX-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,21,23,10,4,0,0,0,0,0,0,0,0,3,5,6,1
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,10,cat10,HSS (IX-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,9,7,2,3,0,0,0,0,0,0,0,0,5,5,2,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,10,cat10,HSS (IX-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,8,9,9,3,0,0,0,0,0,0,0,0,9,5,6,2
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,10,cat10,HSS (IX-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,14,7,4,2,0,0,0,0,0,0,0,0,16,9,10,6
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,10,cat10,HSS (IX-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,13,11,8,0,0,0,0,0,0,0,0,0,0,2,0,2
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,10,cat10,HSS (IX-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,17,20,12,12,0,0,0,0,0,0,0,0,14,19,17,15
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,10,cat10,HSS (IX-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,8,10,5,5,0,0,0,0,0,0,0,0,12,3,12,2
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,10,cat10,HSS (IX-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,13,6,1,7,0,0,0,0,0,0,0,0,4,2,1,1
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,10,cat10,HSS (IX-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,10,cat10,HSS (IX-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,6,2,3,3,0,0,0,0,0,0,0,0,8,4,3,10
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,10,cat10,HSS (IX-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,3,7,13,8,0,0,0,0,0,0,0,0,12,7,11,5
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Urban,10,cat10,HSS (IX-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,10,cat10,HSS (IX-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,74,37,30,27,0,0,0,0,0,0,0,0,51,39,41,27
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,10,cat10,HSS (IX-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,55,32,36,21,0,0,0,0,0,0,0,0,35,8,19,9
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,0,3,1,1,3
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,2,3,0,6,0,0,0,0,0,0,0,0,2,0,1,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,2,4,11,5,0,0,0,0,0,0,0,0,2,3,8,2
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,1,5,2,2,0,0,0,0,0,0,0,0,0,0,0,1
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,10,cat10,HSS (IX-XII),90,Social welfare Department,3,ST,0,0,0,0,0,0,0,0,0,0,38,6,7,4,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,1,0,1,3,2,1,0,0,0,0,0,0,0,1,0,1,1,1,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,2,0,0,3,4,9,4,0,0,0,0,0,0,0,3,1,1,2,4
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,5,cat5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,3,ST,0,0,0,0,0,0,0,5,1,4,3,4,2,1,0,0,0,0,0,3,2,0,4,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,11,cat11,HSS (XI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,1,cat1,PS (I-V),3,Local body,3,ST,0,0,2,2,3,4,6,0,0,0,0,0,0,0,0,5,0,1,1,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,1,cat1,PS (I-V),3,Local body,3,ST,0,0,6,5,3,9,8,0,0,0,0,0,0,0,14,8,9,7,2,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,1,cat1,PS (I-V),3,Local body,3,ST,0,0,2,4,1,2,0,0,0,0,0,0,0,0,2,0,1,0,3,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,1,cat1,PS (I-V),3,Local body,3,ST,0,0,24,17,23,22,16,0,0,0,0,0,0,0,22,14,17,21,22,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,1,cat1,PS (I-V),3,Local body,3,ST,0,0,4,4,3,5,6,0,0,0,0,0,0,0,3,4,2,5,2,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,1,cat1,PS (I-V),3,Local body,3,ST,0,0,6,7,13,4,10,0,0,0,0,0,0,0,5,6,3,5,9,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,1,cat1,PS (I-V),3,Local body,3,ST,0,0,2,3,4,3,2,0,0,0,0,0,0,0,3,3,1,2,3,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,1,cat1,PS (I-V),3,Local body,3,ST,0,0,4,6,3,7,5,0,0,0,0,0,0,0,0,7,1,7,2,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,1,cat1,PS (I-V),3,Local body,3,ST,0,0,29,21,32,30,32,0,0,0,0,0,0,0,24,32,27,23,19,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,1,cat1,PS (I-V),3,Local body,3,ST,0,0,8,6,8,10,10,0,0,0,0,0,0,0,11,6,6,7,4,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,1,cat1,PS (I-V),3,Local body,3,ST,0,0,1,2,3,0,3,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,1,cat1,PS (I-V),3,Local body,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,1,cat1,PS (I-V),3,Local body,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,1,cat1,PS (I-V),3,Local body,3,ST,0,0,0,3,2,1,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Urban,1,cat1,PS (I-V),3,Local body,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,1,cat1,PS (I-V),3,Local body,3,ST,0,0,7,2,5,9,9,0,0,0,0,0,0,0,2,10,9,10,9,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,1,cat1,PS (I-V),3,Local body,3,ST,0,0,13,11,18,14,8,0,0,0,0,0,0,0,13,9,14,17,9,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,1,cat1,PS (I-V),4,Government Aided,3,ST,0,0,4,2,3,4,6,0,0,0,0,0,0,0,0,0,1,4,7,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,1,cat1,PS (I-V),4,Government Aided,3,ST,0,0,3,2,3,3,1,0,0,0,0,0,0,0,1,2,5,1,1,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,1,cat1,PS (I-V),4,Government Aided,3,ST,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,1,cat1,PS (I-V),4,Government Aided,3,ST,0,0,2,20,5,1,4,0,0,0,0,0,0,0,2,17,0,2,2,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,1,cat1,PS (I-V),4,Government Aided,3,ST,0,0,2,3,2,3,5,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,1,cat1,PS (I-V),4,Government Aided,3,ST,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,5,1,5,1,3,0,0,0,0,0,0,0,3,2,0,1,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,5,2,3,1,0,0,0,0,0,0,0,0,0,2,0,2,3,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,1,0,2,1,1,0,0,0,0,0,0,0,2,3,2,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,1,1,2,0,2,2,0,0,0,0,0,0,0,0,1,0,2,0,1,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,1,2,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,1,0,0,2,2,1,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,2,1,0,1,1,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,1,1,7,2,2,0,0,0,0,0,0,0,0,0,4,2,1,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,5,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,2,1,1,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,1,1,0,3,6,2,2,2,2,1,1,4,0,0,2,1,3,0,1,3,0,0,1,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,1,2,0,0,0,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,2,2,1,0,0,2,3,2,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,1,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,2,1,2,3,3,3,2,1,0,2,0,0,2,2,0,2,3,4,0,2,1,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,1,1,3,0,0,1,0,0,1,0,0,0,2,1,1,0,1,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,4,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,8,cat8,SS (IX-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,8,cat8,SS (IX-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,8,cat8,SS (IX-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,8,cat8,SS (IX-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,8,cat8,SS (IX-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,8,cat8,SS (IX-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,2,2,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,8,cat8,SS (IX-X),3,Local body,3,ST,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,8,cat8,SS (IX-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,12,4,0,0,0,0,0,0,0,0,0,0,3,3,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,8,cat8,SS (IX-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,9,12,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,8,cat8,SS (IX-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,33,29,0,0,0,0,0,0,0,0,0,0,29,24,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,8,cat8,SS (IX-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,8,cat8,SS (IX-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,8,cat8,SS (IX-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,3,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,8,cat8,SS (IX-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,3,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,8,cat8,SS (IX-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,6,13,0,0,0,0,0,0,0,0,0,0,6,16,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,8,cat8,SS (IX-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,8,cat8,SS (IX-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,3,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,8,cat8,SS (IX-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,14,9,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,8,cat8,SS (IX-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,8,cat8,SS (IX-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,15,14,0,0,0,0,0,0,0,0,0,0,15,1,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,8,cat8,SS (IX-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,3,4,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,12,8,0,0,0,0,0,0,0,0,0,0,4,2,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,2,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,4,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,17,9,0,0,0,0,0,0,0,0,0,0,17,4,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,7,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,7,cat7,SS (VI-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,3,ST,0,0,18,10,16,20,33,45,45,26,0,0,0,0,3,6,13,9,10,13,12,25,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,3,ST,0,0,7,9,10,23,22,24,21,23,0,0,0,0,1,7,6,10,6,7,5,7,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,3,ST,0,0,2,0,4,3,1,6,4,6,0,0,0,0,0,1,4,0,0,3,1,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,3,ST,0,0,12,9,11,19,12,13,14,5,0,0,0,0,5,7,7,10,12,2,0,1,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,3,ST,0,0,3,8,12,25,19,19,18,26,0,0,0,0,6,8,1,3,10,13,7,5,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,3,ST,0,0,4,8,12,6,5,13,12,14,0,0,0,0,4,1,8,4,5,2,4,3,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,3,ST,0,0,2,3,6,6,5,4,5,10,0,0,0,0,2,1,2,3,1,2,5,3,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,3,ST,0,0,3,2,3,6,3,8,1,2,0,0,0,0,2,0,1,2,4,2,4,1,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,2,cat2,UPS (I-VIII),3,Local body,3,ST,0,0,32,13,26,29,19,22,26,30,0,0,0,0,22,17,13,26,27,19,23,26,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,2,cat2,UPS (I-VIII),3,Local body,3,ST,0,0,2,8,3,1,4,4,2,4,0,0,0,0,3,4,5,2,2,3,7,3,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,2,cat2,UPS (I-VIII),3,Local body,3,ST,0,0,25,48,42,38,39,46,76,68,0,0,0,0,33,40,43,34,30,53,40,41,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,2,cat2,UPS (I-VIII),3,Local body,3,ST,0,0,8,7,8,4,7,12,12,19,0,0,0,0,7,8,5,8,5,15,4,7,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,2,cat2,UPS (I-VIII),3,Local body,3,ST,0,0,7,11,9,10,8,11,7,9,0,0,0,0,9,11,10,12,5,9,8,11,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,2,cat2,UPS (I-VIII),3,Local body,3,ST,0,0,6,14,16,11,9,13,16,12,0,0,0,0,13,14,11,13,11,17,18,7,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,2,cat2,UPS (I-VIII),3,Local body,3,ST,0,0,18,22,27,22,16,26,20,11,0,0,0,0,11,15,16,16,12,21,12,17,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,2,cat2,UPS (I-VIII),3,Local body,3,ST,0,0,35,27,29,18,10,23,29,13,0,0,0,0,25,30,35,14,24,9,29,25,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,2,cat2,UPS (I-VIII),3,Local body,3,ST,0,0,28,25,19,23,30,26,34,36,0,0,0,0,23,21,37,26,27,23,32,44,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,2,cat2,UPS (I-VIII),3,Local body,3,ST,0,0,4,8,2,8,11,8,6,10,0,0,0,0,5,5,4,3,8,7,5,7,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,2,cat2,UPS (I-VIII),3,Local body,3,ST,0,0,15,18,15,16,16,11,12,14,0,0,0,0,8,14,18,16,14,17,13,14,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,2,cat2,UPS (I-VIII),3,Local body,3,ST,0,0,3,2,1,0,0,4,4,4,0,0,0,0,1,0,0,1,4,2,6,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,2,cat2,UPS (I-VIII),3,Local body,3,ST,0,0,0,5,3,6,3,4,5,5,0,0,0,0,0,1,1,3,5,2,3,2,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,2,cat2,UPS (I-VIII),3,Local body,3,ST,0,0,3,4,2,6,5,6,10,11,0,0,0,0,9,14,5,11,4,3,8,1,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Urban,2,cat2,UPS (I-VIII),3,Local body,3,ST,0,0,2,1,0,1,1,0,0,1,0,0,0,0,4,0,2,3,0,2,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,2,cat2,UPS (I-VIII),3,Local body,3,ST,0,0,28,32,26,38,30,42,55,48,0,0,0,0,25,28,28,40,22,33,62,48,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,2,cat2,UPS (I-VIII),3,Local body,3,ST,0,0,13,12,2,5,5,15,27,12,0,0,0,0,11,1,4,7,7,16,15,20,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,2,cat2,UPS (I-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,2,cat2,UPS (I-VIII),4,Government Aided,3,ST,0,0,0,2,2,3,5,1,1,0,0,0,0,0,0,1,0,2,0,3,0,1,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,2,cat2,UPS (I-VIII),4,Government Aided,3,ST,0,0,6,3,6,0,2,3,1,3,0,0,0,0,1,3,0,6,2,6,1,1,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,2,cat2,UPS (I-VIII),4,Government Aided,3,ST,6,3,0,3,2,3,5,3,5,1,0,0,0,0,0,6,3,6,9,5,3,5,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,1,2,7,3,4,3,1,4,2,3,0,0,0,0,7,0,5,1,4,1,1,2,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,3,1,7,0,0,1,0,4,3,0,0,0,0,0,3,0,1,3,2,2,1,1,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,1,2,2,3,4,5,2,3,2,0,0,0,0,3,3,2,0,2,2,0,2,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,5,6,5,3,4,2,2,2,0,0,0,0,8,3,3,1,2,4,1,1,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,11,10,8,13,7,11,4,2,0,0,0,0,5,4,2,4,2,5,3,5,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,2,8,7,6,5,2,5,1,1,0,0,0,0,7,4,4,5,5,3,3,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,1,2,2,1,2,0,0,0,0,0,0,0,1,1,0,0,2,1,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,1,6,8,3,6,1,1,2,0,0,0,0,1,1,8,0,1,4,3,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,10,12,36,40,34,36,26,32,33,32,0,0,0,0,23,26,34,23,26,23,21,17,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,1,1,1,1,5,4,0,7,2,6,0,0,0,0,3,1,3,1,2,1,2,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,1,2,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,6,4,1,0,0,0,0,0,0,0,0,0,5,2,2,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,2,2,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,3,7,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,11,6,5,0,0,0,0,0,0,0,0,0,6,5,11,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,5,6,3,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,19,14,15,0,0,0,0,0,0,0,0,0,6,1,2,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,1,3,1,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,3,3,1,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,9,11,10,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,11,7,7,29,21,28,19,12,14,12,7,10,3,3,4,5,2,4,3,9,4,4,6,2,1,1
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,12,6,22,11,17,15,28,19,28,35,70,14,50,36,4,10,5,6,4,7,13,8,16,21,14,28
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,0,0,47,33,52,47,68,54,79,59,55,70,47,27,13,18,17,9,13,12,15,19,19,13,32,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,2,2,2,6,6,6,11,9,4,0,3,6,3,3,4,5,4,3,1,5,1,3,2,5,3,2
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,54,19,36,19,18,6,19,9,15,15,17,67,11,11,14,10,9,8,14,11,15,4,6,24,11,14
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,0,0,5,9,2,7,11,6,1,8,4,0,0,0,7,6,8,9,4,8,5,7,7,2,8,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,1,0,0,0,1,0,0,0,2,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,10,cat10,HSS (IX-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,77,40,21,23,0,0,0,0,0,0,0,0,42,34,25,16
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,10,cat10,HSS (IX-XII),3,Local body,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83,84,27,34
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,10,cat10,HSS (IX-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,981,855,529,434,0,0,0,0,0,0,0,0,735,603,406,357
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,10,cat10,HSS (IX-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,1305,998,676,565,0,0,0,0,0,0,0,0,986,752,461,399
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,10,cat10,HSS (IX-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,282,189,78,58,0,0,0,0,0,0,0,0,97,87,52,32
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,10,cat10,HSS (IX-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,1563,1266,625,602,0,0,0,0,0,0,0,0,1022,766,470,343
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,10,cat10,HSS (IX-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,432,320,176,142,0,0,0,0,0,0,0,0,240,206,124,105
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,10,cat10,HSS (IX-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,634,446,239,185,0,0,0,0,0,0,0,0,358,259,161,121
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,10,cat10,HSS (IX-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,993,843,495,387,0,0,0,0,0,0,0,0,713,541,337,347
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,10,cat10,HSS (IX-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,422,385,270,226,0,0,0,0,0,0,0,0,246,204,148,139
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,10,cat10,HSS (IX-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,493,386,269,226,0,0,0,0,0,0,0,0,445,349,212,158
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,10,cat10,HSS (IX-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,470,341,176,164,0,0,0,0,0,0,0,0,316,216,165,129
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,10,cat10,HSS (IX-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,232,165,126,165,0,0,0,0,0,0,0,0,162,113,118,108
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,10,cat10,HSS (IX-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,24,27,14,0,0,0,0,0,0,0,0,0,11,4,10,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,10,cat10,HSS (IX-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,224,183,130,119,0,0,0,0,0,0,0,0,134,104,92,67
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,10,cat10,HSS (IX-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,328,272,268,198,0,0,0,0,0,0,0,0,236,236,169,185
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Urban,10,cat10,HSS (IX-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,139,8,106,0,0,0,0,0,0,0,0,0,66,53,54,23
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,10,cat10,HSS (IX-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,834,693,461,371,0,0,0,0,0,0,0,0,577,486,415,349
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,10,cat10,HSS (IX-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,425,371,212,205,0,0,0,0,0,0,0,0,302,252,183,131
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,74,82,56,55,0,0,0,0,0,0,0,0,51,36,30,25
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,19,30,7,13,0,0,0,0,0,0,0,0,10,13,16,8
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,19,19,13,11,0,0,0,0,0,0,0,0,7,2,3,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,3,3,2,1,0,0,0,0,0,0,0,0,2,5,3,2
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,11,11,6,8,0,0,0,0,0,0,0,0,4,2,4,5
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,28,39,12,7,0,0,0,0,0,0,0,0,20,20,4,15
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,63,61,62,66,0,0,0,0,0,0,0,0,18,22,32,15
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,10,7,0,0,0,0,0,0,0,0,0,0,2,1,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,157,165,141,98,0,0,0,0,0,0,0,0,88,84,79,96
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,35,3,32,27,0,0,0,0,0,0,0,0,10,0,15,11
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,10,cat10,HSS (IX-XII),90,Social welfare Department,4,OBC,0,0,0,0,0,0,0,0,0,0,44,7,17,14,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,16,35,21,115,113,51,50,0,0,0,0,0,19,17,24,99,62,41,28
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,16,16,27,21,21,6,12,0,0,0,0,0,13,16,15,23,15,12,3
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,13,11,18,29,17,20,14,0,0,0,0,0,3,8,8,5,4,8,12
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,2,2,5,6,4,6,0,0,0,0,0,0,0,0,2,3,2,1
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,9,21,34,67,68,95,102,0,0,0,0,0,2,10,17,18,22,55,61
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,5,cat5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,4,OBC,0,0,0,0,0,0,0,22,13,15,14,22,10,3,0,0,0,0,0,11,11,7,11,8,6,4
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,11,cat11,HSS (XI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,7,8,0,0,0,0,0,0,0,0,0,0,4,5
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,7,1,0,0,0,0,0,0,0,0,0,0,2,1
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,6,2,0,0,0,0,0,0,0,0,0,0,7,3
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,21,18,30,24,20,0,0,0,0,0,0,0,21,26,22,15,21,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,4,5,2,4,4,0,0,0,0,0,0,0,5,2,2,5,4,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,9,11,7,8,15,0,0,0,0,0,0,0,14,11,10,10,9,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,546,481,548,507,517,0,0,0,0,0,0,0,536,538,575,476,497,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,383,414,399,374,326,0,0,0,0,0,0,0,396,377,421,394,376,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,118,137,108,130,120,0,0,0,0,0,0,0,131,114,123,104,98,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,401,372,380,320,368,0,0,0,0,0,0,0,334,350,363,354,348,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,130,122,125,119,106,0,0,0,0,0,0,0,124,115,117,137,104,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,163,181,195,152,184,0,0,0,0,0,0,0,170,175,189,183,148,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,369,390,386,395,371,0,0,0,0,0,0,0,369,375,367,347,371,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,289,290,318,291,296,0,0,0,0,0,0,0,296,331,292,301,297,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,136,134,135,128,129,0,0,0,0,0,0,0,156,124,136,136,122,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,86,82,99,77,98,0,0,0,0,0,0,0,86,85,89,82,85,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,48,48,38,39,57,0,0,0,0,0,0,0,25,23,33,31,31,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Urban,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,2,4,2,1,1,0,0,0,0,0,0,0,5,5,4,5,1,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,71,87,91,112,94,0,0,0,0,0,0,0,82,80,93,100,105,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,20,22,12,20,13,0,0,0,0,0,0,0,11,20,11,17,18,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,1,cat1,PS (I-V),4,Government Aided,4,OBC,0,0,39,33,29,49,37,0,0,0,0,0,0,0,33,39,33,29,26,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,1,cat1,PS (I-V),4,Government Aided,4,OBC,0,0,49,67,86,60,50,0,0,0,0,0,0,0,32,54,34,36,33,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,1,cat1,PS (I-V),4,Government Aided,4,OBC,0,0,16,12,14,14,20,0,0,0,0,0,0,0,14,22,14,19,21,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,1,cat1,PS (I-V),4,Government Aided,4,OBC,0,0,25,0,21,27,25,0,0,0,0,0,0,0,13,0,15,13,14,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,1,cat1,PS (I-V),4,Government Aided,4,OBC,0,0,55,53,42,60,57,0,0,0,0,0,0,0,26,38,55,47,39,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,1,cat1,PS (I-V),4,Government Aided,4,OBC,0,0,32,28,19,31,28,0,0,0,0,0,0,0,27,24,23,25,25,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,22,20,14,12,15,0,0,0,0,0,0,0,13,8,11,6,2,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,241,147,114,97,72,82,68,0,0,0,0,0,0,0,54,52,32,39,45,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,30,35,34,32,24,0,0,0,0,0,0,0,18,24,25,19,22,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,10,9,12,12,7,0,0,0,0,0,0,0,3,4,2,2,1,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,5,14,8,15,14,0,0,0,0,0,0,0,7,4,5,6,6,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,2,72,61,58,46,53,0,0,0,0,0,0,0,27,29,35,25,27,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,6,11,39,39,15,19,15,0,0,0,0,0,0,0,23,29,12,6,10,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,18,8,26,30,28,45,58,0,0,0,0,0,0,0,12,19,14,24,28,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,7,10,16,2,16,0,0,0,0,0,0,0,5,5,4,1,2,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,28,28,32,38,24,0,0,0,0,0,0,0,24,22,18,10,17,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,43,25,59,61,56,50,48,0,0,0,0,0,0,0,64,56,49,42,49,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,13,7,2,3,0,0,0,0,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,58,37,38,35,38,50,35,0,0,0,0,0,0,0,35,27,18,27,28,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,253,156,69,73,94,51,50,0,0,0,0,0,0,0,47,50,45,37,31,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,35,21,17,16,6,6,13,0,0,0,0,0,0,0,8,5,3,2,6,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,90,39,39,23,24,14,30,25,16,11,18,9,0,0,12,9,7,8,13,7,2,3,4,2,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,17,16,6,5,3,1,6,2,1,6,3,3,0,0,3,2,0,1,0,0,1,1,0,3,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,0,0,37,30,24,23,15,11,8,3,7,1,0,0,13,7,5,4,3,5,2,3,22,5,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,29,10,40,68,46,53,48,48,48,50,42,49,0,0,33,36,32,42,28,31,26,30,24,27,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,0,0,30,39,34,29,25,30,20,26,35,17,0,0,13,11,15,12,13,3,13,5,6,9,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,0,0,19,18,9,6,9,11,4,5,8,5,0,0,7,11,5,3,5,7,5,4,7,6,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,0,0,14,19,30,16,20,16,28,12,16,20,0,0,5,6,7,10,10,5,4,6,4,8,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,84,48,44,56,43,46,43,41,35,23,29,15,0,0,28,40,36,35,32,16,14,16,22,10,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,8,9,9,13,7,9,10,10,11,10,10,8,0,0,11,12,4,4,10,4,7,6,3,1,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,47,24,27,29,29,20,34,16,31,19,12,18,0,0,24,18,11,13,5,17,16,9,6,5,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,11,5,3,4,11,7,12,11,11,10,8,12,0,0,5,6,3,6,5,6,1,10,1,5,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,8,cat8,SS (IX-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,84,68,0,0,0,0,0,0,0,0,0,0,75,58,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,8,cat8,SS (IX-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,124,44,0,0,0,0,0,0,0,0,0,0,89,33,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,8,cat8,SS (IX-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,46,34,0,0,0,0,0,0,0,0,0,0,39,33,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,8,cat8,SS (IX-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,5,4,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,8,cat8,SS (IX-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,58,34,0,0,0,0,0,0,0,0,0,0,49,37,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,8,cat8,SS (IX-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,48,27,0,0,0,0,0,0,0,0,0,0,34,27,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,8,cat8,SS (IX-X),3,Local body,4,OBC,0,0,0,0,0,0,0,0,0,0,30,24,0,0,0,0,0,0,0,0,0,0,10,4,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,8,cat8,SS (IX-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,425,395,0,0,0,0,0,0,0,0,0,0,405,290,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,8,cat8,SS (IX-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,239,218,0,0,0,0,0,0,0,0,0,0,213,146,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,8,cat8,SS (IX-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,423,219,0,0,0,0,0,0,0,0,0,0,289,163,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,8,cat8,SS (IX-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,293,254,0,0,0,0,0,0,0,0,0,0,268,143,0,0
+2019-20,24,Gujarat,2416,KHEDA,241606,MAHUDHA,Rural,8,cat8,SS (IX-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,350,242,0,0,0,0,0,0,0,0,0,0,305,176,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,8,cat8,SS (IX-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,330,225,0,0,0,0,0,0,0,0,0,0,238,168,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,8,cat8,SS (IX-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,275,214,0,0,0,0,0,0,0,0,0,0,222,164,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Rural,8,cat8,SS (IX-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,457,329,0,0,0,0,0,0,0,0,0,0,413,256,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,8,cat8,SS (IX-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,216,138,0,0,0,0,0,0,0,0,0,0,182,117,0,0
+2019-20,24,Gujarat,2416,KHEDA,241612,VASO,Rural,8,cat8,SS (IX-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,109,55,0,0,0,0,0,0,0,0,0,0,131,72,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,8,cat8,SS (IX-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,23,16,0,0,0,0,0,0,0,0,0,0,11,4,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,8,cat8,SS (IX-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,31,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Urban,8,cat8,SS (IX-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,52,32,0,0,0,0,0,0,0,0,0,0,46,27,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,8,cat8,SS (IX-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,46,59,0,0,0,0,0,0,0,0,0,0,56,47,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,6,8,0,0,0,0,0,0,0,0,0,0,1,2,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,5,7,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,13,29,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,24,24,0,0,0,0,0,0,0,0,0,0,10,17,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,18,25,0,0,0,0,0,0,0,0,0,0,18,8,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,14,40,0,0,0,0,0,0,0,0,0,0,13,11,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,12,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,9,24,0,0,0,0,0,0,0,0,0,0,28,24,0,0
+2019-20,24,Gujarat,2416,KHEDA,241609,THASARA,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,38,31,0,0,0,0,0,0,0,0,0,0,14,19,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,7,cat7,SS (VI-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,7,4,6,26,29,0,0,0,0,0,0,0,7,6,6,14,16,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,6,10,5,10,7,0,0,0,0,0,0,0,3,0,4,1,2,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,7,3,5,18,14,0,0,0,0,0,0,0,1,4,2,2,3,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Rural,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,4,OBC,0,0,17,16,11,18,23,37,36,39,0,0,0,0,11,9,12,12,13,21,13,27,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241603,KATHLAL,Rural,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,4,OBC,0,0,16,18,24,31,13,32,33,52,0,0,0,0,12,9,15,16,14,8,22,33,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241604,KHEDA,Rural,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,4,OBC,0,0,1,1,5,12,2,15,11,13,0,0,0,0,0,1,1,6,4,8,7,13,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241605,MAHEMDAVAD,Rural,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,4,OBC,0,0,6,9,9,3,8,13,19,15,0,0,0,0,7,6,9,7,6,4,19,13,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241607,MATAR,Rural,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,4,OBC,0,0,6,6,20,29,42,41,50,56,0,0,0,0,3,8,10,11,14,14,22,13,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241608,NADIAD,Rural,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,4,OBC,0,0,20,11,12,9,14,14,17,11,0,0,0,0,9,8,10,4,6,12,8,3,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241611,GALTESHWAR,Rural,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,4,OBC,0,0,3,2,7,7,4,6,6,10,0,0,0,0,0,0,1,3,2,5,4,3,0,0,0,0
+2019-20,24,Gujarat,2416,KHEDA,241602,KAPADVANJ,Urban,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,4,OBC,0,0,9,2,12,7,6,17,9,13,0,0,0,0,2,3,3,2,3,10,3,4,0,0,0,0

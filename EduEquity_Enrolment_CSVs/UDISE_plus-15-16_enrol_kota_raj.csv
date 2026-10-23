@@ -1,0 +1,529 @@
+ac_year,state_code,state_name,district_code,district_name,block_code,block_name,sch_category_id,category_name,sch_mgmt_id,sch_mgmt_name,loc_name,caste_id,pre_primary_boys,pre_primary_girls,class_1_boys,class_2_boys,class_3_boys,class_4_boys,class_5_boys,class_6_boys,class_7_boys,class_8_boys,class_9_boys,class_10_boys,class_11_boys,class_12_boys,class_1_girls,class_2_girls,class_3_girls,class_4_girls,class_5_girls,class_6_girls,class_7_girls,class_8_girls,class_9_girls,class_10_girls,class_11_girls,class_12_girls,caste_name
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,15,6,2,0,4,3,1,1,0,1,0,0,0,0,1,0,1,3,1,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,3,HSS (I-XII),1,Department of Education,Urban,1,0,0,13,19,15,10,14,14,18,22,46,43,53,51,26,12,20,15,25,28,31,39,67,38,31,43,General
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,18,6,5,9,7,10,12,12,11,20,25,26,19,35,7,5,4,9,9,7,6,21,10,28,29,41,General
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,22,22,12,5,11,6,10,13,15,16,26,38,27,49,11,11,2,6,11,13,15,13,19,18,26,24,General
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,52,24,15,9,10,10,13,13,9,15,30,30,294,146,11,10,8,10,3,3,8,13,5,6,131,85,General
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,79,32,22,45,31,33,41,53,49,54,56,81,55,66,19,24,28,29,28,34,42,37,40,49,56,65,General
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,8,6,12,7,5,14,10,10,13,11,12,29,12,25,3,9,9,8,4,10,8,13,16,19,10,14,General
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,14,7,5,4,6,5,4,9,12,7,22,21,47,33,9,2,6,4,5,6,5,5,13,12,6,6,General
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,3,9,7,4,8,2,12,3,14,15,13,17,28,46,1,4,3,5,8,6,9,8,10,20,21,30,General
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,1,0,0,0,1,2,1,2,2,6,7,5,0,1,0,0,1,0,0,0,0,0,3,7,1,2,General
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,9,15,8,4,5,9,19,9,21,16,30,27,37,63,7,10,5,3,5,8,7,9,16,18,7,19,General
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,10,6,6,5,6,6,11,11,8,11,26,26,26,30,4,6,2,7,10,11,12,12,18,20,23,24,General
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,3301,2987,1855,1915,1999,2054,2170,2134,2374,2410,2901,3285,5452,6694,1539,1508,1552,1623,1562,1668,1731,1738,2091,2354,4259,3371,General
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,3,HSS (I-XII),7,Central Govt,Urban,1,0,0,55,44,51,59,86,82,84,118,116,111,87,73,40,39,54,46,67,75,69,74,84,72,75,77,General
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,1,2,2,0,0,0,0,0,0,0,0,1,0,2,1,General
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,1,1,0,1,0,0,1,2,0,15,16,0,1,0,0,0,0,7,0,6,3,8,8,General
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,1,2,0,2,0,0,0,1,5,3,4,6,21,2,1,0,0,0,3,1,2,2,6,3,General
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,21,6,7,4,9,4,1,0,31,26,25,23,17,7,9,6,6,3,1,0,37,27,43,60,General
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,2,0,1,5,3,5,7,0,0,0,0,0,0,0,0,4,4,8,8,General
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,2,1,General
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,3,6,16,12,0,0,0,0,0,0,0,0,7,1,7,12,General
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,1,2,1,1,3,0,0,0,0,0,0,0,2,5,3,2,1,6,13,12,22,29,62,63,General
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,1,0,1,0,0,0,0,7,9,0,0,0,0,0,1,2,0,0,3,8,2,General
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,15,8,11,16,9,7,1,1,38,30,36,38,13,15,9,11,21,28,19,24,144,123,218,181,General
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,1,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,1,6,4,0,2,0,0,0,0,0,0,42,26,68,85,1,2,0,0,0,0,0,0,30,29,39,68,General
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,1,0,0,1,0,1,4,1,10,3,5,3,0,0,1,0,0,0,0,3,4,4,10,5,General
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,8,3,8,3,9,18,7,12,26,16,8,8,14,0,6,4,3,10,0,6,30,15,23,15,General
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,8,4,6,7,0,0,0,0,0,5,3,7,9,6,9,6,General
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,7,3,5,5,3,14,10,6,24,12,22,24,5,6,7,6,5,17,8,8,26,18,26,18,General
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,1,0,1,2,1,3,1,2,8,6,11,5,0,0,0,0,0,3,3,0,7,13,16,11,General
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,1,2,7,10,0,0,0,0,0,0,0,0,0,0,3,6,General
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,1,0,0,15,17,51,31,2,0,0,1,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,3,1,0,4,4,5,13,18,31,23,36,34,1,2,1,3,2,10,16,13,19,14,24,21,General
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,5,HSS (VI-XII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,2,1,General
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,14,5,7,6,7,6,4,9,10,4,13,23,16,21,6,4,11,2,11,2,8,8,17,13,10,14,General
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,19,22,5,11,12,11,10,31,57,97,151,193,513,535,8,4,13,7,10,16,27,38,54,50,195,249,General
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,5,HSS (VI-XII),7,Central Govt,Rural,1,0,0,0,0,0,0,0,4,5,6,3,4,9,7,0,0,0,0,0,3,4,2,4,8,6,7,General
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,27,10,0,0,0,0,0,0,0,0,0,0,9,5,General
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,1,PS (I-V),1,Department of Education,Rural,1,0,0,2,3,2,1,1,1,2,1,0,0,0,0,7,5,3,3,0,0,7,3,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,1,PS (I-V),1,Department of Education,Rural,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,1,PS (I-V),1,Department of Education,Rural,1,0,0,4,0,2,0,1,1,2,3,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,1,PS (I-V),1,Department of Education,Rural,1,0,0,1,1,1,1,2,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,1,PS (I-V),1,Department of Education,Rural,1,0,0,4,4,4,2,1,2,2,2,0,0,0,0,9,1,1,1,2,2,3,3,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,1,PS (I-V),1,Department of Education,Urban,1,0,0,4,2,1,2,3,0,0,0,0,0,0,0,4,0,1,1,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,1,PS (I-V),1,Department of Education,Urban,1,0,0,16,15,30,9,18,1,0,1,0,0,0,0,27,15,19,14,18,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,1,PS (I-V),2,Tribal Welfare Department,Urban,1,0,0,20,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,1,PS (I-V),3,Local body,Rural,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,1,PS (I-V),3,Local body,Rural,1,0,0,16,13,8,5,13,0,0,0,0,0,0,0,16,4,12,10,8,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,1,PS (I-V),3,Local body,Rural,1,0,0,17,10,9,6,9,0,0,0,0,0,0,0,16,13,11,7,11,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,1,PS (I-V),3,Local body,Rural,1,0,0,23,22,16,16,17,0,0,0,0,0,0,0,22,29,30,24,16,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,1,PS (I-V),3,Local body,Rural,1,0,0,11,6,5,6,3,0,0,0,0,0,0,0,8,6,7,4,11,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,1,PS (I-V),3,Local body,Urban,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,25,26,9,11,5,11,9,6,3,3,0,0,0,0,12,9,8,5,3,4,2,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,18,16,9,5,5,2,4,0,2,0,0,0,0,0,8,0,4,1,5,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,9,13,4,6,1,1,0,0,4,5,0,0,0,0,2,2,1,2,1,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,136,80,49,36,38,33,17,10,6,3,0,0,0,0,52,31,26,29,24,6,3,7,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,1,3,2,2,1,10,1,1,2,1,0,0,0,0,1,3,2,1,1,0,1,1,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,4,2,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,8,3,1,1,1,1,3,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,89,73,27,25,21,26,36,0,0,0,0,0,0,0,22,31,19,26,24,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,830,693,280,247,222,124,75,28,12,11,0,0,0,0,233,238,177,138,63,16,15,12,1,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,8,7,4,4,5,0,0,0,0,0,0,0,9,7,9,5,1,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,4,1,2,2,1,0,0,0,0,0,0,0,1,2,3,1,4,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,5,7,5,10,3,0,0,0,0,0,0,0,12,5,6,3,2,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,8,8,10,5,8,5,0,0,0,0,0,0,0,0,6,8,3,3,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,45,46,169,137,121,135,116,0,0,0,0,0,0,0,163,154,138,110,121,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,6,SS (I-X),1,Department of Education,Rural,1,0,0,2,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,2,0,1,1,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,6,SS (I-X),1,Department of Education,Rural,1,0,0,82,6,6,2,10,7,9,10,12,17,13,10,67,7,11,4,6,13,13,4,26,20,8,7,General
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,6,SS (I-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,2,2,5,1,1,1,0,0,0,0,0,0,0,0,5,1,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,6,SS (I-X),1,Department of Education,Rural,1,0,0,2,0,0,1,0,0,0,0,1,2,4,1,2,0,0,0,0,4,2,1,2,2,0,1,General
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,6,SS (I-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,4,1,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,6,SS (I-X),1,Department of Education,Urban,1,0,0,19,14,17,22,20,28,19,29,43,33,0,0,27,26,21,26,30,47,34,49,59,44,4,0,General
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,6,SS (I-X),2,Tribal Welfare Department,Urban,1,0,0,29,12,10,14,12,18,15,17,26,9,0,0,8,1,2,0,4,0,1,4,1,1,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,11,7,11,12,14,10,13,8,13,11,22,14,2,0,8,7,14,14,10,9,11,16,15,12,2,0,General
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,92,94,105,40,55,33,30,29,36,41,43,41,0,0,95,29,22,33,33,27,34,24,31,32,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,3,2,1,0,1,3,0,0,0,1,1,2,0,0,1,2,1,1,2,2,0,1,1,1,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,68,57,50,41,34,43,33,34,39,36,36,46,5,3,52,38,41,36,31,28,33,20,23,32,3,2,General
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,18,17,24,14,28,20,22,20,16,23,24,23,0,0,17,17,16,16,13,11,19,11,14,18,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,5,8,6,2,9,7,10,9,17,10,11,19,0,0,8,6,2,4,8,4,8,5,11,10,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,11,4,1,6,4,6,2,7,6,5,3,4,0,0,2,6,0,4,0,3,4,5,8,4,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,180,134,72,69,72,85,69,73,82,70,89,102,1,0,61,66,57,79,47,72,53,82,61,55,1,0,General
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,3,1,5,6,7,5,0,5,6,3,9,9,13,11,2,1,6,4,4,5,2,2,5,4,6,4,General
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,1633,1350,597,584,552,604,540,550,549,506,497,566,161,95,544,486,499,535,486,488,465,441,488,482,71,30,General
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,8,SS (IX-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,7,12,0,0,0,0,0,0,0,0,0,0,2,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,7,SS (VI-X),1,Department of Education,Rural,1,0,0,6,6,4,2,5,6,3,5,13,12,0,3,4,5,6,6,8,9,5,13,20,6,9,3,General
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,7,SS (VI-X),1,Department of Education,Rural,1,0,0,4,4,6,5,8,13,9,8,17,9,7,1,6,3,2,4,4,9,15,19,21,11,6,4,General
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,7,SS (VI-X),1,Department of Education,Rural,1,0,0,12,7,6,0,3,8,11,5,13,9,6,3,13,3,7,5,4,12,8,9,20,15,9,6,General
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,7,SS (VI-X),1,Department of Education,Rural,1,0,0,16,15,6,12,14,26,27,23,75,32,17,1,12,12,12,12,19,20,39,30,78,61,19,7,General
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,7,SS (VI-X),1,Department of Education,Rural,1,0,0,6,0,2,2,4,9,1,6,10,9,4,1,3,8,4,4,5,5,10,9,13,10,8,0,General
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,7,SS (VI-X),1,Department of Education,Urban,1,0,0,8,11,6,7,7,11,17,14,23,8,4,1,3,8,8,10,4,7,17,17,17,10,0,3,General
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,7,SS (VI-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,6,6,4,6,8,0,0,0,0,0,0,0,3,7,2,3,7,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,12,10,17,17,18,0,0,0,0,0,0,0,13,12,13,13,11,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,10,19,3,11,13,10,9,9,5,9,4,5,0,0,8,10,3,8,11,24,10,14,29,17,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,7,6,3,7,6,6,1,12,1,0,0,0,6,12,5,5,11,12,12,9,4,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,16,8,9,16,16,19,15,10,4,1,0,0,26,16,19,18,34,23,20,25,1,0,1,0,General
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,32,28,26,19,17,27,25,16,0,0,0,0,25,21,24,35,31,38,20,28,0,2,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,58,28,45,47,40,64,48,57,2,2,0,0,67,51,47,67,68,78,83,94,4,7,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,13,10,11,11,11,13,13,10,0,1,1,0,15,25,21,13,20,23,19,27,6,8,3,0,General
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,3,9,7,9,12,22,25,23,0,0,0,0,5,4,9,3,15,19,21,38,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,0,1,0,0,0,2,2,1,0,0,0,0,0,1,1,1,2,2,2,4,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,2,UPS (I-VIII),1,Department of Education,Urban,1,8,13,98,66,62,75,85,69,59,47,2,8,0,0,86,87,84,76,77,88,78,77,19,15,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,2,UPS (I-VIII),2,Tribal Welfare Department,Urban,1,0,0,20,7,16,5,5,11,5,6,0,0,0,0,11,3,4,2,3,0,0,4,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,8,9,12,7,7,14,10,6,7,5,0,0,0,0,4,12,7,13,5,7,1,5,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,102,96,37,28,24,22,31,22,25,21,0,0,0,0,26,24,28,16,19,16,21,17,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,47,64,20,18,24,27,23,8,16,7,2,8,0,1,22,16,12,15,17,13,8,5,3,2,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,287,234,133,76,105,111,89,75,91,61,0,0,0,0,104,66,80,92,59,61,50,42,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,22,9,15,17,15,17,11,9,15,13,0,0,0,0,14,8,10,7,6,10,10,9,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,25,20,5,1,1,4,0,0,1,0,0,0,0,0,6,3,4,3,1,2,0,1,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,43,38,17,13,16,18,10,14,12,7,0,0,0,0,18,19,15,12,12,13,9,5,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,11,8,3,10,0,1,3,4,4,0,0,0,0,0,2,3,3,1,4,1,1,1,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,96,89,39,40,28,29,32,40,24,26,0,0,0,0,42,27,23,33,28,24,21,16,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,65,53,19,22,16,12,14,11,10,6,1,4,0,0,16,11,7,9,11,1,7,5,0,1,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,3185,2577,906,849,777,752,663,599,535,446,114,50,59,3,799,735,694,611,557,549,482,424,50,22,30,2,General
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,6,3,5,4,5,3,0,1,0,0,0,0,3,1,8,2,5,2,5,3,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,35,30,32,52,40,21,12,3,0,0,0,0,24,25,39,30,30,18,2,8,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,0,General
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,3,HSS (I-XII),1,Department of Education,Urban,2,0,0,169,106,83,89,87,103,118,114,196,129,135,144,156,110,91,105,114,135,130,150,277,173,112,116,SC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,63,35,33,30,31,35,40,40,50,45,59,89,76,114,19,14,15,10,29,16,11,13,32,36,33,54,SC
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,93,69,70,35,46,45,64,45,56,46,90,155,95,155,33,27,26,19,21,24,20,14,40,71,46,84,SC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,46,21,9,15,10,15,10,8,11,7,16,12,25,20,7,6,9,5,4,3,6,5,5,11,8,18,SC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,24,21,12,11,8,6,19,14,16,18,29,24,19,31,9,6,8,7,9,4,8,8,6,10,3,12,SC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,25,16,24,27,21,23,23,22,28,16,39,78,24,36,15,13,13,11,5,17,11,8,18,26,10,20,SC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,8,6,5,4,1,2,6,4,1,2,11,10,62,20,1,5,3,3,1,0,1,3,10,0,9,10,SC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,21,10,11,12,14,15,10,15,20,27,54,74,70,100,8,11,8,6,10,8,15,7,16,25,20,23,SC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,2,0,0,3,0,2,1,0,7,4,16,25,7,11,1,1,1,1,0,1,0,1,3,5,3,5,SC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,28,29,15,7,14,16,7,9,9,13,27,58,29,53,13,9,9,12,8,9,13,12,11,18,27,18,SC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,42,29,27,15,23,24,30,16,18,26,52,63,42,41,18,11,10,13,12,8,17,7,17,34,17,19,SC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,1786,1397,636,590,651,651,591,626,702,701,959,1090,1402,1753,486,449,470,445,457,433,473,454,612,727,813,957,SC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,3,HSS (I-XII),7,Central Govt,Urban,2,0,0,40,29,29,42,21,37,26,29,33,14,17,13,26,25,22,20,25,25,27,18,23,5,13,11,SC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,2,2,0,5,0,0,0,0,0,0,0,0,10,7,2,7,SC
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,14,9,7,8,9,15,6,3,40,17,37,14,23,15,11,8,14,27,36,28,83,41,30,24,SC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,16,12,5,5,8,10,13,14,34,11,9,18,1,13,9,5,6,7,15,13,8,8,14,26,SC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,14,9,8,8,11,10,8,8,141,118,37,74,7,12,14,10,11,10,7,6,152,135,56,101,SC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,5,5,2,7,10,15,17,9,8,11,15,9,0,0,0,0,0,0,0,0,21,15,10,6,SC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,14,10,7,SC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,36,33,58,57,0,0,0,0,0,0,0,0,28,12,26,41,SC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,3,5,5,2,0,0,0,0,0,0,0,0,9,15,15,12,18,9,24,33,60,48,70,45,SC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,11,4,3,2,6,12,4,0,14,23,13,22,8,6,15,4,14,26,20,25,22,19,5,3,SC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,62,36,36,56,53,65,44,52,113,94,69,73,74,47,45,58,58,64,65,93,234,190,263,241,SC
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,4,4,13,37,0,0,0,0,0,0,0,0,0,1,2,12,SC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,9,15,3,3,0,0,0,0,0,0,15,13,21,20,2,0,1,0,0,0,0,0,6,8,14,12,SC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,12,6,12,7,9,13,18,21,66,33,39,31,4,20,10,9,8,9,12,10,27,27,29,19,SC
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,38,35,24,29,36,60,65,77,124,68,58,52,33,21,15,19,16,20,28,22,82,47,55,55,SC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,14,11,12,11,0,0,0,0,0,10,14,12,39,14,20,15,SC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,39,36,23,35,31,43,38,51,132,81,85,65,40,17,18,17,27,15,16,13,59,38,32,44,SC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,26,20,17,21,18,38,42,35,81,41,58,28,13,10,9,7,9,21,19,20,65,36,30,28,SC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,5,4,42,41,60,62,0,0,0,0,0,2,2,4,32,11,26,18,SC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,2,7,8,7,11,19,19,24,73,60,92,85,2,11,9,10,12,0,0,0,0,0,0,2,SC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,18,20,18,8,17,21,20,18,52,36,41,21,20,14,14,11,98,32,24,39,31,36,14,13,SC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,5,HSS (VI-XII),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,34,38,47,40,40,25,SC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,14,7,0,7,2,10,7,6,10,7,12,26,12,35,1,4,3,7,3,7,1,6,3,6,4,6,SC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,9,17,5,7,4,7,4,23,27,37,55,43,95,193,1,8,2,6,2,4,9,16,17,20,40,55,SC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,5,HSS (VI-XII),7,Central Govt,Rural,2,0,0,0,0,0,0,0,12,13,17,14,15,19,13,0,0,0,0,0,10,5,5,6,6,4,8,SC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,6,2,0,0,0,0,0,0,0,0,0,0,3,0,SC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,1,PS (I-V),1,Department of Education,Rural,2,0,0,51,51,38,36,45,20,29,17,0,0,0,0,44,32,44,37,45,33,24,19,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,1,PS (I-V),1,Department of Education,Rural,2,0,0,4,2,5,2,2,6,5,2,0,0,0,0,5,3,4,2,5,5,8,4,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,1,PS (I-V),1,Department of Education,Rural,2,0,0,18,5,11,9,11,13,17,14,0,0,0,0,17,14,13,17,6,7,3,1,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,1,PS (I-V),1,Department of Education,Rural,2,0,0,2,2,0,0,3,4,0,0,0,0,0,0,2,3,0,1,1,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,1,PS (I-V),1,Department of Education,Rural,2,0,0,35,35,24,27,30,23,21,14,0,0,0,0,45,30,20,24,18,21,26,17,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,1,PS (I-V),1,Department of Education,Urban,2,0,0,1,5,8,2,3,0,0,0,0,0,0,0,7,6,3,8,1,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,1,PS (I-V),1,Department of Education,Urban,2,0,0,9,6,10,6,3,0,0,0,0,0,0,0,21,18,14,7,9,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,1,PS (I-V),1,Department of Education,Urban,2,0,0,9,11,10,6,5,0,0,0,0,0,0,0,8,10,18,5,5,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,1,PS (I-V),1,Department of Education,Urban,2,0,0,99,92,102,76,55,7,2,1,0,0,0,0,113,122,112,86,74,2,7,2,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,1,PS (I-V),2,Tribal Welfare Department,Urban,2,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,1,PS (I-V),3,Local body,Rural,2,0,0,71,60,46,38,36,0,0,0,0,0,0,0,69,58,41,41,41,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,1,PS (I-V),3,Local body,Rural,2,0,0,148,99,91,72,72,0,0,0,0,0,0,0,133,100,77,102,95,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,1,PS (I-V),3,Local body,Rural,2,0,0,83,68,47,47,31,0,0,0,0,0,0,0,64,56,45,48,37,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,1,PS (I-V),3,Local body,Rural,2,0,0,93,82,74,72,48,0,0,0,0,0,0,0,132,108,96,83,106,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,1,PS (I-V),3,Local body,Rural,2,0,0,79,91,67,61,49,0,0,0,0,0,0,0,107,68,87,74,68,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,1,PS (I-V),3,Local body,Urban,2,0,0,17,10,13,9,9,0,0,0,0,0,0,0,7,10,8,21,15,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,24,16,10,11,13,13,10,1,0,0,0,0,0,0,9,8,9,5,6,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,36,23,10,11,8,6,4,0,7,2,0,0,0,0,8,5,2,4,1,1,2,2,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,123,85,103,80,56,64,60,5,5,0,0,0,0,0,56,53,34,36,34,1,1,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,11,7,12,7,8,21,7,4,4,1,0,0,0,0,7,5,6,9,4,1,2,3,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,2,0,1,0,0,1,1,0,0,0,0,0,0,0,1,2,1,0,2,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,1,5,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,25,14,11,7,5,5,3,0,0,0,0,0,0,0,8,6,8,0,2,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,420,342,124,128,128,109,109,3,4,0,0,0,0,0,109,94,61,71,60,0,0,1,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,1,1,0,4,0,0,0,0,0,0,0,0,0,3,7,4,2,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,4,12,6,6,5,0,0,0,0,0,0,0,3,9,5,7,4,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,2,3,2,2,3,0,0,0,0,0,0,0,7,5,5,0,1,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,11,3,3,0,1,0,0,0,0,0,0,0,12,5,4,2,6,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,2,2,2,4,2,0,0,0,0,0,0,0,6,2,5,2,2,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,11,8,6,3,4,0,0,0,0,0,0,0,17,7,10,6,4,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,6,SS (I-X),1,Department of Education,Rural,2,0,0,6,3,4,3,2,1,1,0,5,0,1,0,4,10,8,17,16,12,11,19,29,1,3,0,SC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,6,SS (I-X),1,Department of Education,Rural,2,0,0,45,13,10,5,8,4,11,7,12,8,5,9,28,10,6,8,10,15,13,13,20,11,2,0,SC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,6,SS (I-X),1,Department of Education,Rural,2,0,0,3,4,2,1,1,7,8,5,5,2,3,0,4,0,5,1,1,8,2,2,3,2,2,0,SC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,6,SS (I-X),1,Department of Education,Rural,2,0,0,5,5,7,3,5,9,10,16,23,8,11,3,9,8,13,4,15,8,18,20,24,22,16,0,SC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,6,SS (I-X),1,Department of Education,Urban,2,0,0,2,2,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,7,18,20,21,6,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,6,SS (I-X),1,Department of Education,Urban,2,0,0,148,136,107,93,139,147,131,130,151,104,0,0,139,141,119,133,121,148,138,133,197,123,4,3,SC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,6,SS (I-X),2,Tribal Welfare Department,Urban,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,43,49,38,38,31,43,59,47,36,59,75,106,7,8,37,27,19,25,22,14,23,15,31,22,3,1,SC
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,182,119,81,55,58,49,38,55,51,48,78,111,0,0,45,37,45,35,24,31,25,21,35,52,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,37,20,7,13,7,7,5,2,2,1,9,12,0,0,5,4,5,1,4,4,1,2,4,4,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,32,31,40,28,37,26,28,26,15,42,55,75,3,2,35,22,12,17,23,16,13,18,26,27,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,48,32,35,35,36,37,29,38,36,31,62,74,0,0,27,18,38,37,27,26,18,15,32,27,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,35,34,22,23,19,28,26,28,24,29,59,63,0,0,26,20,16,16,11,9,10,15,21,22,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,28,15,7,7,6,8,10,15,5,9,19,17,0,0,0,5,3,3,6,2,8,4,11,7,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,60,47,30,21,25,26,29,37,30,26,43,41,1,0,23,16,17,18,20,18,17,17,10,16,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,13,10,7,7,6,7,4,10,14,13,30,21,29,26,6,6,3,4,6,3,4,4,17,16,21,13,SC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,1474,1305,466,435,397,399,367,367,347,313,333,424,14,7,408,352,362,314,281,281,281,249,295,324,13,9,SC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,8,SS (IX-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,7,7,0,0,0,0,0,0,0,0,0,0,2,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,7,SS (VI-X),1,Department of Education,Rural,2,0,0,94,81,67,80,82,93,83,94,117,86,34,3,104,89,100,100,75,108,107,96,149,72,36,6,SC
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,7,SS (VI-X),1,Department of Education,Rural,2,0,0,50,53,42,35,33,96,89,97,141,87,51,6,46,37,34,21,38,86,86,74,176,116,56,10,SC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,7,SS (VI-X),1,Department of Education,Rural,2,0,0,105,35,38,43,39,77,79,71,121,61,29,12,101,44,40,48,44,57,71,68,98,70,33,11,SC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,7,SS (VI-X),1,Department of Education,Rural,2,0,0,146,99,99,80,106,204,152,171,227,126,42,7,119,103,111,88,113,159,119,117,162,90,43,8,SC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,7,SS (VI-X),1,Department of Education,Rural,2,0,0,59,54,61,63,60,88,73,81,105,88,32,7,65,53,64,71,58,94,76,83,126,61,38,2,SC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,7,SS (VI-X),1,Department of Education,Urban,2,0,0,37,37,31,42,24,58,47,63,84,43,13,15,34,34,41,35,38,41,45,36,54,42,7,6,SC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,2,4,6,10,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,2,1,4,8,5,0,0,0,0,0,0,0,1,6,1,2,1,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,3,4,2,2,2,0,0,0,0,0,0,0,3,0,3,1,3,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,42,29,20,20,15,15,12,6,6,8,0,0,0,0,11,17,12,13,16,13,10,7,7,6,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,111,105,104,78,93,109,94,96,20,7,0,0,170,164,118,130,132,180,152,120,29,12,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,132,79,82,78,107,115,127,126,17,18,0,0,172,118,142,120,174,200,175,175,34,20,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,91,63,62,76,60,77,86,54,9,3,0,0,102,91,58,80,66,117,121,88,5,2,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,260,226,181,227,262,359,320,267,34,25,0,0,261,183,205,206,251,374,295,271,35,24,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,79,73,85,83,73,98,91,105,17,7,4,0,106,102,85,92,100,142,119,112,34,20,2,0,SC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,1,3,2,3,3,2,2,3,0,0,0,0,2,2,3,3,3,4,2,2,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,20,19,18,17,12,12,18,11,0,0,0,0,25,20,15,13,18,31,22,22,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,13,7,4,9,7,9,15,10,0,0,0,0,11,6,5,8,4,5,1,5,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,13,4,2,4,4,4,8,7,0,0,0,0,14,9,9,11,2,5,2,6,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,2,UPS (I-VIII),1,Department of Education,Urban,2,31,38,294,314,223,237,207,176,168,130,13,5,0,0,357,321,276,240,241,251,232,183,52,17,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,2,UPS (I-VIII),2,Tribal Welfare Department,Urban,2,0,0,7,1,2,1,1,1,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,59,55,61,60,83,51,66,52,37,31,0,0,0,0,65,67,41,33,25,22,26,17,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,268,179,108,88,89,76,67,60,64,45,0,0,0,0,67,51,64,63,40,26,29,24,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,223,155,74,91,77,60,61,50,37,43,29,32,2,7,74,58,56,46,46,23,17,14,8,7,2,0,SC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,501,353,224,232,201,220,199,154,140,99,0,0,0,0,161,150,87,145,100,87,44,49,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,100,77,75,53,61,60,55,55,45,38,0,0,0,0,51,41,34,27,22,26,22,25,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,32,26,14,14,7,8,7,3,2,2,0,0,0,0,9,10,6,3,4,3,4,1,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,65,28,60,55,41,46,46,30,26,22,0,0,0,0,39,34,31,21,30,20,6,14,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,33,23,12,11,4,13,9,7,3,5,4,1,0,0,8,4,7,6,8,3,1,1,0,1,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,171,134,67,59,67,59,37,49,36,28,0,0,0,0,39,31,39,36,37,20,23,14,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,47,32,22,13,12,15,14,14,4,7,0,1,0,0,10,14,7,7,12,2,4,1,1,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,2560,2184,672,604,589,501,466,434,370,281,20,21,12,0,604,492,483,448,402,323,257,288,10,6,7,0,SC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,1,2,0,0,0,0,1,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,6,0,0,1,0,1,0,1,0,0,0,0,6,2,1,2,1,4,1,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,1,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,3,HSS (I-XII),1,Department of Education,Urban,3,0,0,71,31,24,21,22,23,19,19,40,33,21,29,54,30,13,15,15,13,24,15,27,19,27,7,ST
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,20,17,38,28,40,52,50,42,55,60,67,101,50,70,15,22,22,26,28,29,28,26,45,55,50,44,ST
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,37,31,25,29,27,40,25,45,38,31,100,186,83,187,19,21,17,25,17,18,27,35,36,102,71,112,ST
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,30,10,6,9,3,5,9,11,3,3,8,10,17,12,5,5,4,3,4,3,3,1,3,5,9,11,ST
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,11,10,5,6,4,9,7,10,11,10,24,39,9,10,6,8,6,4,0,4,3,5,12,12,5,7,ST
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,12,5,7,8,14,10,12,7,14,14,22,44,18,21,11,3,11,5,6,8,9,8,19,15,15,20,ST
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,3,3,0,1,2,3,5,1,0,1,1,4,40,0,2,0,0,3,1,1,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,35,27,23,28,38,43,51,56,53,83,106,175,237,262,8,16,16,17,25,28,39,25,59,82,81,106,ST
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,2,1,0,2,3,4,2,18,1,9,0,0,2,2,0,3,1,0,1,3,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,13,9,3,15,2,9,14,8,8,9,14,20,17,25,4,1,6,5,6,3,7,1,4,4,1,8,ST
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,19,16,13,11,6,7,7,22,17,11,26,43,42,40,6,9,5,8,8,8,3,14,10,28,19,21,ST
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,631,474,248,253,264,247,265,318,304,406,508,810,927,1528,189,158,186,187,184,169,196,189,214,310,438,564,ST
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,3,HSS (I-XII),7,Central Govt,Urban,3,0,0,11,20,16,16,14,15,14,17,20,15,11,12,8,9,13,10,6,14,21,10,8,12,9,9,ST
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,1,3,ST
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,4,0,0,1,1,1,0,1,6,2,12,4,1,0,1,0,0,5,6,8,21,8,14,20,ST
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,1,0,1,0,0,1,4,2,11,9,12,4,0,0,0,1,1,0,0,0,6,9,5,8,ST
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,3,3,1,2,4,6,2,1,40,30,17,18,2,3,1,5,2,3,0,1,36,36,28,39,ST
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,1,1,2,1,2,4,4,1,2,1,3,3,0,0,0,0,0,0,0,0,5,3,2,5,ST
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6,7,7,ST
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,1,2,24,25,0,0,0,0,0,0,0,0,2,1,14,15,ST
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,1,3,7,12,17,27,22,ST
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,1,0,0,0,0,0,2,4,6,6,1,0,0,0,0,0,1,1,8,3,2,5,ST
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,6,4,3,4,3,1,3,4,10,15,10,21,8,5,0,4,1,1,5,3,18,21,27,15,ST
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,4,11,11,39,0,0,0,0,0,0,0,0,3,1,3,17,ST
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,7,15,13,20,0,0,0,0,0,0,0,0,4,4,5,8,ST
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,7,6,3,1,0,2,5,1,20,23,14,7,0,1,5,1,1,2,4,6,39,21,21,15,ST
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,2,5,1,3,5,12,14,12,31,21,25,17,3,3,0,1,0,5,4,8,42,15,22,20,ST
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,2,5,9,8,0,0,0,0,0,6,5,13,8,10,15,12,ST
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,18,9,9,9,10,6,12,10,28,18,15,17,2,7,2,4,6,6,1,4,12,4,8,8,ST
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,4,2,5,3,3,6,2,2,12,14,7,10,1,0,1,2,2,3,2,6,16,11,14,12,ST
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,2,2,9,26,0,0,0,0,0,0,0,0,6,3,20,30,ST
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,0,1,0,1,1,3,3,6,17,10,31,41,0,1,1,0,2,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,6,12,11,9,8,7,9,5,11,18,13,18,18,13,15,12,11,2,10,8,11,5,5,5,ST
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,5,HSS (VI-XII),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,12,12,11,11,10,ST
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,5,3,2,1,3,5,0,3,2,2,6,4,5,6,2,0,0,0,1,1,1,0,1,1,0,1,ST
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,8,5,0,0,2,0,1,41,50,71,77,64,113,272,1,1,4,0,0,25,4,24,18,24,43,63,ST
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,5,HSS (VI-XII),7,Central Govt,Rural,3,0,0,0,0,0,0,0,7,11,10,11,14,7,9,0,0,0,0,0,6,8,9,4,4,4,5,ST
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,7,1,0,0,0,0,0,0,0,0,0,0,2,0,ST
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,1,PS (I-V),1,Department of Education,Rural,3,0,0,36,34,27,29,22,29,16,11,0,0,0,0,44,36,33,32,38,36,23,22,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,1,PS (I-V),1,Department of Education,Rural,3,0,0,5,12,10,12,10,14,4,7,0,0,0,0,7,7,10,8,9,13,20,20,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,1,PS (I-V),1,Department of Education,Rural,3,0,0,8,12,9,12,8,9,6,6,0,0,0,0,5,10,8,9,8,7,4,3,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,1,PS (I-V),1,Department of Education,Rural,3,0,0,1,2,0,1,1,0,0,0,0,0,0,0,2,0,0,2,1,1,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,1,PS (I-V),1,Department of Education,Rural,3,0,0,20,6,20,15,9,10,9,11,0,0,0,0,15,14,10,17,9,11,9,12,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,1,PS (I-V),1,Department of Education,Urban,3,0,0,3,0,2,3,2,0,0,0,0,0,0,0,0,2,1,0,2,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,1,PS (I-V),1,Department of Education,Urban,3,0,0,3,5,4,0,4,0,0,0,0,0,0,0,0,2,1,0,3,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,1,PS (I-V),1,Department of Education,Urban,3,0,0,2,0,1,4,0,0,0,0,0,0,0,0,4,3,2,5,3,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,1,PS (I-V),1,Department of Education,Urban,3,0,0,41,31,37,20,15,0,0,0,0,0,0,0,87,61,35,31,17,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,1,PS (I-V),2,Tribal Welfare Department,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,1,PS (I-V),3,Local body,Rural,3,0,0,39,28,28,22,18,0,0,0,0,0,0,0,64,48,37,37,23,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,1,PS (I-V),3,Local body,Rural,3,0,0,123,98,83,83,78,0,0,0,0,0,0,0,129,101,92,76,87,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,1,PS (I-V),3,Local body,Rural,3,0,0,65,53,44,32,37,0,0,0,0,0,0,0,78,50,35,39,33,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,1,PS (I-V),3,Local body,Rural,3,0,0,54,34,26,27,41,0,0,0,0,0,0,0,72,50,39,28,31,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,1,PS (I-V),3,Local body,Rural,3,0,0,47,41,38,43,45,0,0,0,0,0,0,0,66,43,51,42,40,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,1,PS (I-V),3,Local body,Urban,3,0,0,1,0,1,3,1,0,0,0,0,0,0,0,4,4,1,0,1,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,43,14,10,22,13,13,7,0,0,0,0,0,0,0,4,6,10,5,1,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,56,28,11,9,5,7,5,0,2,0,0,0,0,0,6,6,4,1,5,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,42,25,8,8,6,10,6,3,4,4,0,0,0,0,11,7,9,3,9,9,2,5,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,65,21,25,25,17,16,5,3,2,0,0,0,0,0,19,8,4,10,7,0,2,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,6,6,10,3,5,5,5,2,3,2,0,0,0,0,8,5,1,1,4,1,4,3,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,3,0,3,0,1,2,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,5,0,0,0,1,2,1,0,0,0,0,0,0,0,2,0,2,0,1,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,23,12,8,3,5,9,5,0,0,0,0,0,0,0,4,5,3,2,3,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,181,139,52,36,32,31,23,3,1,1,0,0,0,0,30,36,25,23,19,2,1,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,3,6,9,7,0,0,0,0,0,0,0,4,5,3,4,3,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,7,5,9,8,6,3,5,0,0,0,0,0,4,2,5,4,6,4,2,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,1,3,2,3,1,0,0,0,0,0,0,0,2,0,0,2,1,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,6,SS (I-X),1,Department of Education,Rural,3,0,0,1,0,0,1,0,0,0,2,2,0,0,0,0,0,1,0,1,2,2,0,7,1,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,6,SS (I-X),1,Department of Education,Rural,3,0,0,61,14,7,5,8,8,17,14,11,9,4,2,27,13,6,6,4,12,4,4,15,11,4,0,ST
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,6,SS (I-X),1,Department of Education,Rural,3,0,0,3,7,3,4,2,9,4,5,6,8,5,1,7,2,5,3,3,9,7,6,13,8,2,1,ST
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,6,SS (I-X),1,Department of Education,Urban,3,0,0,2,1,0,0,1,0,0,0,0,0,0,0,4,2,1,5,5,11,16,16,17,8,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,6,SS (I-X),1,Department of Education,Urban,3,0,0,75,58,50,34,38,41,20,36,34,26,0,0,62,44,33,23,27,26,28,20,39,19,1,0,ST
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,6,SS (I-X),2,Tribal Welfare Department,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,16,15,21,41,33,36,31,28,39,41,48,67,17,16,21,21,23,21,30,25,22,19,34,59,5,13,ST
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,117,83,40,44,48,41,50,49,44,50,71,99,0,0,28,20,30,31,33,34,27,28,36,58,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,21,12,3,4,3,5,8,3,3,4,11,7,0,0,1,4,5,0,3,5,0,1,4,7,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,15,11,15,13,10,17,5,5,13,20,19,28,5,2,5,7,11,10,9,6,9,5,2,13,2,3,ST
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,13,10,18,18,23,23,20,40,30,34,28,60,0,0,11,16,8,15,20,15,13,22,24,30,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,21,23,22,45,47,46,50,91,75,57,91,109,0,0,18,10,17,13,18,27,14,26,29,37,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,4,4,3,1,3,0,5,3,5,10,13,23,0,0,0,0,2,4,2,7,5,5,8,2,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,28,18,6,12,5,9,15,5,10,9,17,23,0,0,6,3,12,7,8,8,7,5,8,7,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,18,18,11,13,10,13,5,8,9,10,16,20,19,12,12,8,3,6,8,1,6,11,11,8,10,9,ST
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,278,253,113,103,124,99,112,118,107,96,103,158,9,5,92,82,84,79,69,77,62,71,79,83,3,10,ST
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,1,3,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,7,SS (VI-X),1,Department of Education,Rural,3,0,0,30,31,29,25,24,32,31,45,61,40,26,6,49,24,29,41,32,51,46,43,94,74,42,5,ST
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,7,SS (VI-X),1,Department of Education,Rural,3,0,0,25,20,16,19,22,52,62,47,73,42,18,5,24,30,18,19,19,59,69,55,117,91,50,10,ST
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,7,SS (VI-X),1,Department of Education,Rural,3,0,0,92,25,21,20,16,14,16,16,38,23,14,6,50,10,12,13,12,21,14,12,41,36,17,10,ST
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,7,SS (VI-X),1,Department of Education,Rural,3,0,0,31,29,18,24,20,45,33,42,91,51,33,5,37,31,24,18,28,42,28,42,98,48,28,3,ST
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,7,SS (VI-X),1,Department of Education,Rural,3,0,0,27,21,33,25,21,26,27,31,46,21,18,2,23,22,28,18,34,22,27,21,35,26,14,1,ST
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,7,SS (VI-X),1,Department of Education,Urban,3,0,0,12,11,5,3,6,13,9,8,16,9,3,2,2,6,11,8,15,9,4,7,12,6,2,0,ST
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,13,13,17,22,11,8,5,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,1,0,4,3,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,7,5,6,9,8,0,0,0,0,0,0,0,3,4,1,3,3,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,7,6,6,1,4,3,3,1,0,2,0,0,0,0,5,1,7,4,1,3,4,7,8,7,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,93,111,78,82,72,65,70,48,6,3,0,0,128,115,111,106,108,111,112,115,31,14,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,47,43,24,33,36,44,45,35,6,1,0,0,62,42,37,44,53,68,63,61,12,12,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,124,80,109,71,94,115,94,60,12,8,0,0,123,95,95,60,85,102,96,58,16,14,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,100,99,88,84,107,147,120,133,19,8,0,0,137,109,106,126,132,174,134,125,25,15,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,52,58,45,44,46,56,34,27,4,1,0,0,77,39,45,38,59,82,50,40,10,7,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,0,1,0,1,2,2,0,1,0,0,0,0,2,0,0,0,5,3,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,3,1,2,0,2,5,3,1,0,0,0,0,2,1,1,0,1,2,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,5,2,5,3,4,1,4,1,0,0,0,0,5,5,2,1,3,1,4,4,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,2,UPS (I-VIII),1,Department of Education,Urban,3,4,4,139,88,79,74,63,53,42,42,1,1,0,0,115,60,49,42,38,37,42,31,3,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,2,UPS (I-VIII),2,Tribal Welfare Department,Urban,3,1,0,2,1,1,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,30,28,44,55,55,48,38,43,33,26,0,0,0,0,38,32,34,50,30,27,25,30,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,152,129,59,66,59,53,52,57,43,38,0,0,0,0,54,42,35,43,49,32,30,24,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,43,30,12,7,12,10,13,20,13,12,15,23,2,1,12,8,6,11,6,5,7,5,2,3,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,149,111,64,55,67,60,43,46,34,25,0,0,0,0,47,34,46,33,42,23,24,13,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,16,10,36,16,20,23,13,19,12,13,0,0,0,0,20,12,15,16,11,18,7,6,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,8,2,1,4,2,1,2,1,3,2,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,112,61,54,67,70,48,56,40,23,20,0,0,0,0,26,39,32,31,27,16,18,8,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,26,18,7,6,7,13,6,7,4,0,0,0,0,0,6,4,5,6,3,1,5,2,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,76,39,23,20,13,25,15,8,7,8,0,0,0,0,11,11,8,6,6,5,5,1,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,32,29,12,8,12,7,11,4,6,3,0,1,0,0,14,10,5,5,5,2,5,4,1,1,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,782,663,233,183,172,167,174,165,117,93,28,15,18,6,193,164,129,123,131,117,80,68,10,7,9,0,ST
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,3,HSS (I-XII),1,Department of Education,Urban,4,0,0,158,58,67,61,60,77,80,77,152,148,165,143,180,54,79,98,123,166,149,135,263,191,173,139,OBC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,120,86,74,72,87,74,78,95,109,101,146,167,117,173,63,43,62,52,67,73,53,64,82,94,95,112,OBC
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,185,156,74,86,85,95,72,83,91,108,166,322,185,338,60,72,57,70,54,60,80,50,90,124,155,222,OBC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,126,106,37,39,28,49,45,44,59,38,55,58,134,76,21,23,28,22,29,29,25,29,31,44,81,52,OBC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,96,64,44,50,57,68,63,93,85,91,138,119,74,81,28,31,37,24,34,31,54,36,49,66,52,54,OBC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,69,42,59,60,76,72,88,88,106,87,163,221,138,133,44,46,46,61,37,48,67,54,91,102,73,85,OBC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,74,43,24,29,18,14,22,14,7,15,31,19,105,80,13,16,14,12,6,9,2,5,10,15,25,10,OBC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,35,36,32,41,44,47,69,76,80,112,157,226,253,311,19,34,34,37,38,37,46,54,80,69,95,115,OBC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,44,21,12,17,11,17,28,25,28,48,33,65,25,70,16,7,10,25,14,17,14,24,30,22,16,31,OBC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,45,42,18,24,33,30,32,29,38,42,88,122,90,138,29,25,22,33,25,24,26,27,28,29,26,43,OBC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,146,90,89,90,84,95,116,100,101,132,204,317,242,257,83,62,71,69,89,102,92,112,142,182,165,193,OBC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,3035,2511,1253,1232,1266,1260,1254,1470,1461,1585,2319,2878,3843,5750,931,950,933,975,950,911,984,1031,1397,1511,1911,2426,OBC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,3,HSS (I-XII),7,Central Govt,Urban,4,0,0,34,39,36,29,18,16,7,4,19,14,19,27,26,34,32,23,19,15,6,6,20,5,15,20,OBC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,10,6,5,8,0,0,0,0,0,0,0,0,15,20,13,28,OBC
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,3,4,8,9,3,6,0,3,34,23,52,62,17,10,9,8,18,31,19,13,76,43,59,52,OBC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,2,3,2,2,3,3,7,8,24,47,29,38,1,1,2,2,0,5,1,4,5,8,51,45,OBC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,13,7,6,4,5,11,7,7,127,94,60,62,16,14,19,12,15,14,4,2,185,178,97,190,OBC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,3,2,3,3,2,6,7,7,11,6,21,22,0,0,0,0,0,0,0,0,12,18,24,29,OBC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,12,12,9,OBC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,60,67,161,177,0,0,0,0,0,0,0,0,80,53,130,179,OBC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,2,2,1,0,0,0,0,0,0,0,0,0,7,3,3,7,4,9,10,13,90,98,152,126,OBC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,11,9,5,11,9,4,2,0,14,19,55,45,11,21,14,13,17,19,22,19,45,31,30,18,OBC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,32,20,15,24,30,20,20,23,90,63,118,108,30,22,24,24,24,55,59,64,245,205,374,352,OBC
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,12,21,30,38,0,0,0,0,0,0,0,0,6,9,17,24,OBC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,4,7,8,1,2,1,0,0,0,0,0,27,32,30,56,0,0,0,0,0,0,0,0,16,17,23,41,OBC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,10,12,14,20,11,18,23,17,72,71,42,34,11,7,14,14,6,15,17,19,56,58,32,36,OBC
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,42,29,15,27,22,62,70,51,121,84,84,46,24,20,16,13,17,20,22,15,83,76,88,91,OBC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,32,23,24,21,0,0,0,0,0,10,10,39,41,28,30,39,OBC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,12,20,15,13,19,22,33,48,209,166,156,165,9,15,10,14,15,26,30,32,139,104,114,80,OBC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,20,35,21,33,36,22,29,55,109,73,86,61,19,12,17,16,18,32,41,28,91,77,104,77,OBC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,1,1,1,26,23,40,54,0,0,0,0,0,0,0,1,19,23,26,27,OBC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,2,8,2,7,6,14,6,4,65,72,139,115,2,6,3,2,2,0,0,0,0,0,1,1,OBC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,7,8,10,16,13,19,19,18,50,52,61,64,9,10,4,5,15,34,44,40,68,57,53,38,OBC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,5,HSS (VI-XII),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,11,8,11,5,9,8,OBC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,32,28,12,25,21,23,33,35,36,17,39,67,26,48,10,9,4,19,10,22,15,14,23,31,11,24,OBC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,13,22,5,10,12,6,13,71,86,127,196,192,390,396,2,9,22,3,9,27,16,26,39,28,121,140,OBC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,5,HSS (VI-XII),7,Central Govt,Rural,4,0,0,0,0,0,0,0,26,21,17,25,21,22,17,0,0,0,0,0,7,10,6,15,8,9,10,OBC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,29,8,0,0,0,0,0,0,0,0,0,0,4,2,OBC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,1,PS (I-V),1,Department of Education,Rural,4,0,0,63,66,67,45,61,31,32,37,0,0,0,0,69,68,61,64,55,45,53,39,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,1,PS (I-V),1,Department of Education,Rural,4,0,0,17,22,25,17,6,9,17,19,0,0,0,0,17,19,11,24,14,12,12,12,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,1,PS (I-V),1,Department of Education,Rural,4,0,0,25,23,12,12,29,22,13,13,0,0,0,0,34,22,19,15,5,19,10,11,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,1,PS (I-V),1,Department of Education,Rural,4,0,0,3,5,5,5,4,4,0,0,0,0,0,0,4,6,6,7,2,3,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,1,PS (I-V),1,Department of Education,Rural,4,0,0,50,43,47,48,43,52,38,29,0,0,0,0,68,42,43,42,45,51,34,32,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,1,PS (I-V),1,Department of Education,Urban,4,0,0,20,28,24,14,19,0,0,0,0,0,0,0,22,19,20,15,15,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,1,PS (I-V),1,Department of Education,Urban,4,0,0,2,4,5,5,6,0,0,0,0,0,0,0,7,4,7,5,3,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,1,PS (I-V),1,Department of Education,Urban,4,0,0,13,11,9,5,3,0,0,0,0,0,0,0,9,2,4,6,3,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,1,PS (I-V),1,Department of Education,Urban,4,0,0,51,37,29,32,21,0,1,1,0,0,0,0,100,59,52,52,26,0,1,1,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,1,PS (I-V),2,Tribal Welfare Department,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,1,PS (I-V),3,Local body,Rural,4,0,0,96,48,67,54,50,0,0,0,0,0,0,0,69,59,46,61,52,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,1,PS (I-V),3,Local body,Rural,4,0,0,145,107,112,94,108,0,0,0,0,0,0,0,180,137,108,101,101,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,1,PS (I-V),3,Local body,Rural,4,0,0,95,65,55,59,40,0,0,0,0,0,0,0,77,67,52,51,65,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,1,PS (I-V),3,Local body,Rural,4,0,0,117,122,124,111,105,0,0,0,0,0,0,0,150,147,94,118,113,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,1,PS (I-V),3,Local body,Rural,4,0,0,138,115,116,131,100,0,0,0,0,0,0,0,158,122,126,115,108,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,1,PS (I-V),3,Local body,Urban,4,0,0,16,17,8,6,4,0,0,0,0,0,0,0,15,18,23,6,5,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,76,34,21,22,19,11,8,3,2,0,0,0,0,0,9,7,5,9,7,3,2,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,111,64,36,33,28,18,12,4,1,0,0,0,0,0,12,14,18,7,7,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,87,63,38,20,30,19,18,13,11,5,0,0,0,0,29,22,17,11,9,12,8,9,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,322,211,116,97,121,88,74,14,11,1,0,0,0,0,82,64,58,45,53,11,4,1,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,40,28,24,16,16,14,21,2,2,2,0,0,0,0,20,11,15,13,14,2,1,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,16,10,3,5,8,2,6,0,0,0,0,0,0,0,3,5,3,2,4,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,44,19,3,3,2,5,4,0,0,0,0,0,0,0,2,4,4,1,1,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,95,85,54,37,36,44,28,0,0,0,0,0,0,0,13,31,27,17,14,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,961,658,223,194,163,146,101,27,8,8,1,0,0,0,185,156,149,121,83,15,9,2,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,15,22,8,17,14,0,0,0,0,0,0,0,16,22,25,8,18,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,58,43,43,41,41,0,0,0,0,0,0,0,55,60,50,45,41,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,16,5,11,20,4,0,0,0,0,0,0,0,16,8,8,13,4,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,13,6,6,6,8,0,0,0,0,0,0,0,12,8,6,4,3,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,44,36,33,31,33,0,0,0,0,0,0,0,35,33,35,23,17,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,8,8,10,13,9,0,0,0,0,0,0,0,9,8,10,11,8,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,30,21,18,19,22,14,12,9,0,0,0,0,26,21,20,13,17,5,11,10,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,18,19,25,25,32,0,0,0,0,0,0,0,13,23,22,26,16,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,20,19,251,218,202,232,188,0,0,0,0,0,0,0,225,213,212,211,192,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,6,SS (I-X),1,Department of Education,Rural,4,0,0,9,4,8,9,6,3,7,8,6,9,4,0,16,11,8,16,9,13,12,12,16,3,4,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,6,SS (I-X),1,Department of Education,Rural,4,0,0,58,14,16,11,15,22,29,41,75,48,18,5,32,27,24,27,25,34,27,21,64,36,11,2,OBC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,6,SS (I-X),1,Department of Education,Rural,4,0,0,9,2,5,6,5,21,15,8,2,8,2,0,9,10,7,4,5,20,9,10,7,4,5,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,6,SS (I-X),1,Department of Education,Rural,4,0,0,15,10,6,10,8,14,11,28,39,29,25,26,21,12,13,20,19,23,22,16,40,30,34,23,OBC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,6,SS (I-X),1,Department of Education,Urban,4,0,0,3,0,0,1,1,0,0,0,0,0,0,0,0,1,3,2,3,7,9,9,9,8,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,6,SS (I-X),1,Department of Education,Urban,4,0,0,82,90,90,115,126,158,176,156,202,116,0,0,112,116,100,109,134,168,170,168,258,189,3,5,OBC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,6,SS (I-X),2,Tribal Welfare Department,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,86,73,86,88,109,126,88,99,108,91,128,140,16,11,51,68,60,76,71,48,50,44,65,69,6,4,OBC
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,324,257,121,119,124,126,121,140,132,157,187,272,0,0,115,97,86,92,81,99,78,78,102,117,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,90,61,29,34,37,24,27,29,27,25,19,26,0,0,38,24,19,25,19,34,17,17,19,21,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,55,39,50,42,49,54,49,58,73,69,105,109,14,11,49,42,29,35,48,33,30,41,50,49,9,5,OBC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,162,110,134,148,112,127,141,135,157,171,217,221,0,0,94,99,99,96,73,108,79,89,131,162,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,67,52,49,49,62,65,78,76,90,86,126,151,0,0,43,32,40,35,61,25,39,68,81,61,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,121,115,49,44,42,43,37,37,46,47,69,78,0,0,37,35,24,30,42,35,49,27,39,38,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,140,94,67,69,66,98,88,78,93,83,133,165,1,0,45,43,45,60,75,55,53,78,58,56,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,47,30,25,31,21,29,19,25,19,18,28,86,60,62,11,18,13,18,14,21,10,10,22,47,30,22,OBC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,1877,1592,661,594,625,567,590,582,581,588,661,728,58,34,677,540,548,513,543,479,517,451,506,527,19,25,OBC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,8,19,28,27,18,30,22,13,21,20,0,0,16,17,12,26,26,20,30,24,35,19,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,6,5,6,7,9,10,10,13,13,11,0,0,5,12,6,12,13,14,13,9,10,9,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,8,SS (IX-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,2,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,7,SS (VI-X),1,Department of Education,Rural,4,0,0,101,93,85,92,82,100,107,128,158,117,49,10,124,91,111,98,82,109,134,117,179,131,78,19,OBC
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,7,SS (VI-X),1,Department of Education,Rural,4,0,0,57,48,48,45,57,124,112,108,180,131,90,15,52,64,45,64,51,139,117,121,271,194,81,27,OBC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,7,SS (VI-X),1,Department of Education,Rural,4,0,0,139,82,68,68,81,112,106,121,200,131,68,27,149,80,81,78,94,124,117,114,226,168,105,25,OBC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,7,SS (VI-X),1,Department of Education,Rural,4,0,0,90,74,82,90,98,138,159,145,316,191,65,11,93,93,121,92,97,178,168,159,357,287,120,27,OBC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,7,SS (VI-X),1,Department of Education,Rural,4,0,0,79,70,55,77,81,144,117,160,208,124,45,12,90,71,94,86,67,135,141,150,244,193,120,21,OBC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,7,SS (VI-X),1,Department of Education,Urban,4,0,0,20,25,23,18,33,62,52,60,92,50,26,7,23,28,36,34,34,52,54,66,73,70,8,15,OBC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,7,SS (VI-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,10,14,16,8,6,1,2,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,11,12,7,17,23,0,0,0,0,0,0,0,1,3,2,10,1,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,32,24,31,30,27,0,0,0,0,0,0,0,13,12,18,15,21,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,25,20,19,17,12,16,19,4,5,5,4,4,0,0,10,9,18,15,18,22,17,19,35,37,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,195,177,145,166,149,140,160,119,33,17,0,0,259,188,204,221,193,256,214,203,50,31,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,100,74,77,77,73,112,88,99,40,22,0,0,137,125,113,125,159,229,214,218,70,36,5,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,211,161,173,169,158,219,176,177,20,8,0,0,236,206,170,206,228,254,233,208,10,6,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,329,279,307,311,316,373,373,344,40,10,0,0,339,283,262,316,331,520,467,445,30,30,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,164,159,135,136,154,172,146,143,39,28,14,0,214,184,175,194,183,246,247,220,75,59,17,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,4,4,8,3,5,0,0,2,0,0,0,0,0,2,2,1,2,2,1,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,8,12,7,4,8,3,3,2,0,0,0,0,16,18,22,15,17,22,25,18,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,17,18,17,15,19,27,31,23,0,0,0,0,25,15,12,20,14,14,8,9,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,0,2,1,10,9,7,5,5,0,0,0,0,3,4,3,20,9,5,8,7,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,2,UPS (I-VIII),1,Department of Education,Urban,4,18,20,265,191,187,159,144,154,145,136,2,2,0,0,222,236,202,178,195,204,203,173,29,9,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,2,UPS (I-VIII),2,Tribal Welfare Department,Urban,4,0,0,9,3,4,4,4,2,3,2,0,0,0,0,3,0,1,0,0,1,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,136,94,131,141,108,109,116,87,96,77,0,0,0,0,111,85,87,82,45,72,51,40,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,484,435,247,197,178,180,186,198,151,134,0,0,0,0,167,170,146,125,120,122,116,94,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,513,450,202,191,155,160,151,141,133,92,59,51,8,7,164,149,141,125,105,84,70,52,21,23,1,8,OBC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,677,491,314,255,275,282,289,235,227,178,0,0,0,0,257,184,168,214,208,150,137,98,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,308,207,223,195,178,172,152,160,173,134,0,0,0,0,179,146,137,172,164,134,103,98,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,90,82,20,25,17,20,29,13,13,12,0,0,0,0,28,22,29,13,15,15,14,2,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83001,ITAWA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,206,131,104,135,84,76,85,80,54,50,0,0,0,0,83,77,64,68,49,47,41,29,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,190,176,97,80,83,67,72,63,59,63,23,25,0,0,68,71,57,54,76,44,38,37,21,14,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,211,161,89,87,78,83,63,62,58,40,0,0,0,0,60,60,51,64,52,38,47,34,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,186,140,62,49,63,62,57,57,37,30,2,7,0,0,48,42,41,36,42,23,42,39,6,2,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,3957,3507,1179,1006,933,919,854,745,591,548,83,34,59,6,965,882,817,765,710,618,554,444,36,18,29,3,OBC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,10,6,14,12,12,3,8,4,0,0,0,0,5,7,10,10,5,9,9,4,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,18,17,13,14,5,12,10,7,0,0,0,0,9,9,5,9,19,4,3,12,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83003,LADPURA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,27,36,9,11,18,30,12,11,12,13,0,0,0,0,16,8,14,21,11,14,16,15,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83005,SANGOD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,11,4,8,5,5,7,2,0,0,0,0,0,13,6,7,8,3,5,6,4,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83006,KOTA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,2,15,14,10,8,0,2,1,0,0,0,0,1,10,4,11,12,2,3,2,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83002,SULTANPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,22,8,10,0,0,0,0,0,0,0,0,0,11,25,10,0,0,0,0,OBC
+2015-16,8,Rajasthan,830,KOTA,83004,KHAIRABAD,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,5,5,3,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,OBC

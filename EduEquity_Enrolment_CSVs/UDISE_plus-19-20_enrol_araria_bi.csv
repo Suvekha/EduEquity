@@ -1,0 +1,641 @@
+ac_year,st_code,state_name,dt_code,district_name,block_cd,udise_block_name,loc_name,sch_category_id,tr_cat_name,school_category,sch_mgmt_id,sch_mgmt_name,caste_id,caste_name,pre_primary_boy,pre_primary_girl,class1_boy,class2_boy,class3_boy,class4_boy,class5_boy,class6_boy,class7_boy,class8_boy,class9_boy,class10_boy,class11_boy,class12_boy,class1_girl,class2_girl,class3_girl,class4_girl,class5_girl,class6_girl,class7_girl,class8_girl,class9_girl,class10_girl,class11_girl,class12_girl
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,2,cat2,UPS (I-VIII),4,Government Aided,4,OBC,0,0,48,73,54,62,59,57,49,32,0,0,0,0,57,43,27,59,44,48,51,37,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,2,cat2,UPS (I-VIII),4,Government Aided,4,OBC,0,0,8,5,6,8,5,8,2,6,0,0,0,0,10,7,12,7,5,2,6,2,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,2,cat2,UPS (I-VIII),4,Government Aided,4,OBC,0,0,44,39,54,55,39,75,86,58,0,0,0,0,45,52,44,43,58,60,69,57,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,2,cat2,UPS (I-VIII),4,Government Aided,4,OBC,0,0,13,12,16,11,14,14,24,17,0,0,0,0,13,14,14,17,11,22,18,11,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,2,cat2,UPS (I-VIII),4,Government Aided,4,OBC,0,0,7,4,18,22,7,10,18,7,0,0,0,0,0,7,13,18,6,15,7,3,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,2,cat2,UPS (I-VIII),4,Government Aided,4,OBC,0,0,4,4,5,4,3,0,0,0,0,0,0,0,5,3,1,2,1,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,2,cat2,UPS (I-VIII),4,Government Aided,4,OBC,0,0,5,4,3,2,2,2,2,2,0,0,0,0,6,4,4,4,2,3,2,1,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,540,454,376,296,260,238,230,205,190,184,0,0,0,0,322,233,198,173,175,146,130,126,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,318,271,244,233,206,172,167,143,130,109,0,0,0,0,156,119,114,106,118,111,87,84,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,776,670,349,331,268,244,211,185,173,190,0,0,0,0,320,255,206,193,198,183,153,163,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,162,84,191,160,159,147,155,162,114,104,0,0,0,0,86,59,86,100,83,66,72,62,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,180,90,87,103,70,81,70,28,30,24,0,0,0,0,62,46,35,39,17,16,13,15,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,108,62,67,46,56,53,29,20,11,5,0,0,0,0,69,76,70,60,25,26,21,19,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,497,273,412,545,317,273,307,239,212,186,0,0,0,0,262,250,251,177,221,175,144,145,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,167,112,398,359,327,294,291,254,246,235,0,0,0,0,275,299,288,260,247,276,194,197,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,193,162,170,209,172,171,165,151,0,0,0,0,129,105,118,121,120,123,137,121,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,566,380,524,498,420,410,364,349,292,401,0,0,0,0,413,381,376,298,240,254,242,225,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,436,305,512,500,531,489,451,454,369,364,0,0,0,0,389,393,354,338,279,276,256,216,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,70,90,12,14,10,9,6,13,16,3,0,0,0,0,19,15,11,13,14,15,21,4,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,8,12,13,8,10,11,6,0,0,0,0,0,4,4,4,4,4,4,4,4,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,4,OBC,795,656,768,462,391,344,300,281,204,147,0,0,0,0,584,429,294,255,266,230,189,137,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,4,OBC,254,173,214,161,185,168,167,168,112,85,0,0,0,0,179,136,164,152,138,114,94,63,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,4,OBC,798,568,403,344,320,302,300,243,208,172,0,0,0,0,288,249,236,252,236,197,173,147,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,4,OBC,43,65,42,49,59,64,57,50,22,34,0,0,0,0,58,49,37,44,37,39,40,34,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,4,OBC,216,173,339,154,134,122,135,100,78,80,0,0,0,0,208,120,94,83,76,78,62,57,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,4,OBC,105,59,75,69,77,54,25,25,28,25,0,0,0,0,32,23,30,33,17,11,24,18,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,4,OBC,10,8,119,130,149,126,104,97,80,57,0,0,0,0,84,92,86,92,68,88,85,57,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,4,OBC,128,68,416,242,214,176,124,107,64,80,0,0,0,0,348,153,157,113,102,97,63,70,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,4,OBC,0,0,23,30,21,19,20,11,8,7,0,0,0,0,14,14,6,3,7,1,2,3,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,2,cat2,UPS (I-VIII),8,Unrecognized,4,OBC,169,264,174,127,129,93,63,77,58,45,0,0,0,0,119,102,74,76,48,49,41,29,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Urban,2,cat2,UPS (I-VIII),8,Unrecognized,4,OBC,0,0,17,18,8,8,8,2,3,2,0,0,0,0,7,8,4,0,3,2,2,2,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,2,cat2,UPS (I-VIII),8,Unrecognized,4,OBC,160,91,228,189,147,169,144,167,135,118,0,0,0,0,162,158,127,160,112,125,111,109,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Urban,2,cat2,UPS (I-VIII),8,Unrecognized,4,OBC,51,29,23,12,10,7,2,4,7,0,0,0,0,0,6,7,13,2,12,2,2,4,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Urban,2,cat2,UPS (I-VIII),8,Unrecognized,4,OBC,0,0,105,99,63,63,56,63,48,62,0,0,0,0,58,54,45,48,42,31,44,46,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,263,205,176,135,153,142,136,114,0,0,0,0,312,309,273,211,203,178,117,202,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,208,122,89,73,76,45,38,57,0,0,0,0,215,111,76,80,79,67,61,75,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,525,500,465,408,385,302,254,270,0,0,0,0,642,566,550,463,476,402,316,395,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,85,99,86,73,81,52,49,47,0,0,0,0,106,120,123,122,87,78,55,77,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,370,275,236,211,155,124,108,100,0,0,0,0,329,340,299,250,189,142,126,112,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,110,108,138,94,115,80,75,48,41,42,0,0,0,0,125,95,92,76,73,61,63,53,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,163,137,104,92,83,69,66,71,0,0,0,0,179,142,145,153,94,116,100,96,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,93,83,62,51,51,34,31,20,0,0,0,0,124,92,88,65,46,44,37,42,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,10,10,9,53,60,11,12,6,0,0,0,0,5,7,8,45,12,6,9,8,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,26,22,22,21,20,12,21,21,0,0,0,0,17,19,18,11,13,9,13,38,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,10,7,9,8,14,8,20,45,0,0,0,0,12,9,11,7,16,11,25,56,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,4,OBC,0,0,23,27,24,30,26,24,25,26,0,0,0,0,27,32,28,24,28,26,24,29,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,4,OBC,0,0,6,13,6,7,5,4,1,1,0,0,0,0,8,14,14,8,12,4,6,4,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,4,OBC,0,0,33,22,22,17,15,18,16,42,0,0,0,0,43,29,32,22,23,16,25,48,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,4,OBC,0,0,31,25,16,16,14,9,9,8,0,0,0,0,41,31,22,19,17,10,9,13,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,4,OBC,0,0,58,45,20,20,18,15,11,10,0,0,0,0,65,70,24,29,22,17,16,13,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,4,OBC,0,0,28,21,20,24,8,5,8,3,0,0,0,0,25,19,20,16,10,11,5,9,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,4,OBC,0,0,5,18,2,5,6,1,1,6,0,0,0,0,5,22,5,0,8,6,4,14,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,3,cat3,HSS (I-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,3,cat3,HSS (I-XII),1,Department of Education,1,General,0,0,1,0,0,0,1,15,13,11,6,12,0,0,1,0,0,2,0,14,11,11,3,9,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,3,cat3,HSS (I-XII),1,Department of Education,1,General,0,0,0,2,2,2,3,7,2,11,5,7,0,0,1,1,3,1,7,4,1,9,3,9,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,0,0,28,31,46,35,56,78,88,76,130,116,83,96,14,18,15,34,32,32,27,47,54,63,49,47
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,30,19,23,38,37,51,48,57,69,89,80,92,74,58,16,24,16,16,27,28,29,28,29,37,35,42
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,3,cat3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,3,cat3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,3,cat3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,3,cat3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,3,cat3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,59,31,37,25,20,6,13,37,23,28,15,26,55,29,35,26,25,26,21,29,27,44,22,31
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,3,cat3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,10,cat10,HSS (IX-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,38,58,28,29,0,0,0,0,0,0,0,0,68,69,59,39
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,10,cat10,HSS (IX-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,29,87,29,39,0,0,0,0,0,0,0,0,35,38,31,56
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,10,cat10,HSS (IX-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,12,6,11,8,0,0,0,0,0,0,0,0,7,2,6,2
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,10,cat10,HSS (IX-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,9,15,4,5,0,0,0,0,0,0,0,0,7,21,8,5
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,10,cat10,HSS (IX-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,19,22,17,20,0,0,0,0,0,0,0,0,16,17,19,23
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,10,cat10,HSS (IX-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,29,39,11,6,0,0,0,0,0,0,0,0,43,44,29,14
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,10,cat10,HSS (IX-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,174,172,48,39,0,0,0,0,0,0,0,0,167,156,77,85
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,10,cat10,HSS (IX-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,93,102,32,13,0,0,0,0,0,0,0,0,84,144,36,37
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,10,cat10,HSS (IX-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,66,81,64,48,0,0,0,0,0,0,0,0,52,38,35,28
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,10,cat10,HSS (IX-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,29,38,30,26,0,0,0,0,0,0,0,0,193,199,96,95
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,10,cat10,HSS (IX-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,36,31,37,18,0,0,0,0,0,0,0,0,62,47,47,51
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,4,32,143,0,0,0,0,0,0,0,0,0,6,13,95
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,130,116,0,0,0,0,0,0,0,0,0,0,54,57
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,6,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,5,cat5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,1,General,0,0,0,0,0,0,0,3,1,4,5,6,4,8,0,0,0,0,0,2,1,1,3,1,5,4
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,11,cat11,HSS (XI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,0,0,205,160,0,0,0,0,0,0,0,0,0,0,89,80
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,11,cat11,HSS (XI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,0,0,99,84,0,0,0,0,0,0,0,0,0,0,42,31
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,57,61,0,0,0,0,0,0,0,0,0,0,60,31
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,8,8,0,0,0,0,0,0,0,0,0,0,2,2
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,51,43,0,0,0,0,0,0,0,0,0,0,30,33
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,76,76,0,0,0,0,0,0,0,0,0,0,47,47
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,65,62,0,0,0,0,0,0,0,0,0,0,34,33
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,40,60,0,0,0,0,0,0,0,0,0,0,18,14
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,154,142,165,128,153,0,0,0,0,0,0,0,163,153,200,139,196,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,107,99,78,68,83,0,0,0,0,0,0,0,114,94,81,94,86,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,46,42,17,28,11,0,0,0,0,0,0,0,49,49,31,23,24,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,40,42,33,31,49,0,0,0,0,0,0,0,33,41,32,46,42,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,58,50,49,42,46,0,0,0,0,0,0,0,45,55,50,25,38,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,11,13,15,18,25,0,0,0,0,0,0,0,10,21,13,17,24,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,307,230,240,235,243,0,0,0,0,0,0,0,284,261,227,221,283,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,436,364,361,380,334,0,0,0,0,0,0,0,455,411,411,428,433,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,60,75,70,66,68,0,0,0,0,0,0,0,67,62,55,79,66,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,12,4,10,4,11,0,0,0,0,0,0,0,8,8,10,8,14,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,23,40,25,35,44,0,0,0,0,0,0,0,32,37,51,48,50,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,1,cat1,PS (I-V),4,Government Aided,1,General,0,0,6,5,6,5,5,0,0,0,0,0,0,0,4,3,3,3,4,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,12,9,14,12,11,9,11,0,0,0,0,0,0,0,21,19,15,13,11,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,9,9,2,3,0,12,11,0,0,0,0,0,0,0,3,1,0,5,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,0,3,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,136,115,34,15,16,10,9,0,0,0,0,0,0,0,20,13,12,11,6,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,47,40,5,16,11,4,7,0,0,0,0,0,0,0,4,10,8,4,3,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,1,cat1,PS (I-V),8,Unrecognized,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,1,cat1,PS (I-V),8,Unrecognized,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,1,cat1,PS (I-V),8,Unrecognized,1,General,3,2,2,3,4,3,5,0,0,0,0,0,0,0,2,1,1,2,2,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,1,cat1,PS (I-V),8,Unrecognized,1,General,0,0,5,6,2,2,0,0,0,0,0,0,0,0,3,1,1,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,1,cat1,PS (I-V),8,Unrecognized,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,1,cat1,PS (I-V),8,Unrecognized,1,General,25,15,11,10,6,2,0,0,0,0,0,0,0,0,10,4,2,2,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,1,cat1,PS (I-V),8,Unrecognized,1,General,5,1,1,1,1,1,1,0,0,0,0,0,0,0,0,3,3,1,2,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,1,cat1,PS (I-V),8,Unrecognized,1,General,0,0,6,0,0,0,1,0,0,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,1,cat1,PS (I-V),8,Unrecognized,1,General,9,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,1,cat1,PS (I-V),8,Unrecognized,1,General,40,46,30,29,30,28,20,0,0,0,0,0,0,0,23,33,15,28,19,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,6,cat6,SS (I-X),1,Department of Education,1,General,0,0,6,5,8,4,6,26,15,19,16,13,0,0,7,2,10,4,5,13,10,14,17,21,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,6,cat6,SS (I-X),1,Department of Education,1,General,0,0,4,13,14,16,11,29,30,31,36,28,0,0,10,16,14,19,19,39,35,36,29,39,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,6,cat6,SS (I-X),1,Department of Education,1,General,0,0,1,2,3,5,6,9,6,6,5,5,0,0,1,4,5,6,8,5,3,9,6,8,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,6,cat6,SS (I-X),1,Department of Education,1,General,0,0,1,1,5,0,1,2,3,2,14,11,0,0,4,2,2,1,1,4,4,3,18,7,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,6,cat6,SS (I-X),1,Department of Education,1,General,0,0,2,3,8,8,7,10,7,6,4,5,0,0,5,7,6,8,7,12,10,11,3,12,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,6,cat6,SS (I-X),1,Department of Education,1,General,0,0,1,3,4,15,5,6,12,4,10,12,0,0,2,7,3,9,13,12,3,7,14,12,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,6,cat6,SS (I-X),1,Department of Education,1,General,0,0,29,26,30,42,38,43,42,31,64,41,0,0,33,27,35,43,31,55,47,29,101,77,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,6,cat6,SS (I-X),1,Department of Education,1,General,0,0,103,134,103,134,128,183,165,172,101,82,0,0,90,117,87,108,117,204,188,138,138,105,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,6,cat6,SS (I-X),1,Department of Education,1,General,0,0,16,14,19,23,25,22,30,37,31,28,0,0,20,11,15,16,24,21,33,21,31,44,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,6,cat6,SS (I-X),4,Government Aided,1,General,0,0,6,7,2,6,6,9,5,12,6,9,0,0,5,10,8,2,5,4,6,4,2,10,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,6,cat6,SS (I-X),4,Government Aided,1,General,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,3,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,2,0,0,0,0,18,8,0,0,0,0,0,1,0,1,0,0,5,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,0,0,6,4,10,2,3,4,5,5,3,5,0,0,5,3,1,3,1,5,2,5,0,4,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,0,0,23,18,18,20,20,15,15,15,28,24,0,0,7,9,7,9,11,8,14,10,25,12,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,10,4,2,0,4,4,4,4,19,9,10,11,0,0,1,1,1,3,3,1,9,3,10,7,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,6,cat6,SS (I-X),90,Social welfare Department,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,6,cat6,SS (I-X),92,Kendriya Vidyalaya / Central School,1,General,0,0,4,9,13,4,3,4,14,6,5,13,0,0,2,3,6,2,3,4,3,3,0,7,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,6,cat6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,6,cat6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,6,cat6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,6,cat6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,6,cat6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,14,18,10,12,6,10,15,25,0,0,0,0,16,21,13,7,3,15,20,40,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,8,cat8,SS (IX-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,5,23,0,0,0,0,0,0,0,0,0,0,3,14,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,8,cat8,SS (IX-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,72,23,0,0,0,0,0,0,0,0,0,0,39,29,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,8,cat8,SS (IX-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,20,22,0,0,0,0,0,0,0,0,0,0,22,26,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,8,cat8,SS (IX-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,0,5,4,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,2,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,47,47,0,0,0,0,0,0,0,0,0,0,54,52,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,3,15,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,8,cat8,SS (IX-X),8,Unrecognized,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,4,3,6,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,2,cat2,UPS (I-VIII),1,Department of Education,1,General,0,0,49,61,40,54,57,75,80,71,0,0,0,0,42,63,57,61,58,89,85,71,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,2,cat2,UPS (I-VIII),1,Department of Education,1,General,0,0,29,78,47,42,41,62,59,79,0,0,0,0,28,46,58,49,59,89,92,81,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,2,cat2,UPS (I-VIII),1,Department of Education,1,General,0,0,30,28,34,30,24,25,23,21,0,0,0,0,37,26,27,24,23,37,39,26,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,2,cat2,UPS (I-VIII),1,Department of Education,1,General,0,0,33,40,16,36,22,37,41,47,0,0,0,0,30,23,21,30,36,72,50,43,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,2,cat2,UPS (I-VIII),1,Department of Education,1,General,0,0,12,10,28,33,19,35,25,22,0,0,0,0,16,18,24,16,21,43,41,32,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,2,cat2,UPS (I-VIII),1,Department of Education,1,General,0,0,27,22,28,38,48,46,38,31,0,0,0,0,26,21,29,34,37,62,58,44,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,2,cat2,UPS (I-VIII),1,Department of Education,1,General,0,0,154,178,199,177,174,220,196,133,0,0,0,0,180,205,174,191,213,322,258,152,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,2,cat2,UPS (I-VIII),1,Department of Education,1,General,0,0,171,182,165,153,162,211,167,135,0,0,0,0,185,184,165,153,165,307,264,162,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,2,cat2,UPS (I-VIII),1,Department of Education,1,General,0,0,35,54,43,41,81,82,64,56,0,0,0,0,38,39,41,46,66,84,77,67,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,2,cat2,UPS (I-VIII),1,Department of Education,1,General,0,0,5,7,6,5,7,23,19,19,0,0,0,0,6,9,6,11,15,18,23,21,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,2,cat2,UPS (I-VIII),1,Department of Education,1,General,0,0,6,5,9,5,3,31,18,16,0,0,0,0,6,9,11,12,16,46,34,38,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,2,cat2,UPS (I-VIII),4,Government Aided,1,General,0,0,12,9,8,4,9,9,10,10,0,0,0,0,19,16,6,13,15,19,11,16,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,2,cat2,UPS (I-VIII),4,Government Aided,1,General,0,0,3,2,3,1,4,2,3,1,0,0,0,0,4,1,0,5,1,3,3,1,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,2,cat2,UPS (I-VIII),4,Government Aided,1,General,0,0,5,8,3,5,3,3,5,1,0,0,0,0,5,7,4,4,2,2,6,5,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,2,cat2,UPS (I-VIII),4,Government Aided,1,General,0,0,7,3,5,8,13,5,10,6,0,0,0,0,3,8,4,8,11,13,11,11,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,2,cat2,UPS (I-VIII),4,Government Aided,1,General,0,0,3,3,4,7,8,5,7,6,0,0,0,0,7,5,8,7,9,7,6,2,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,2,cat2,UPS (I-VIII),4,Government Aided,1,General,0,0,2,3,4,3,7,4,2,3,0,0,0,0,1,2,5,3,6,5,5,2,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,2,cat2,UPS (I-VIII),4,Government Aided,1,General,0,0,5,10,5,2,2,2,3,3,0,0,0,0,4,8,4,3,3,2,1,2,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,36,39,44,33,36,23,28,24,18,22,0,0,0,0,63,78,56,59,54,53,52,85,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,86,47,92,82,39,45,35,39,33,18,0,0,0,0,67,41,38,20,16,22,18,9,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,5,4,22,6,13,8,6,2,3,1,0,0,0,0,19,5,10,4,3,1,2,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,25,10,13,15,11,12,9,7,12,15,0,0,0,0,18,9,5,5,5,3,4,5,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,9,4,16,8,9,9,9,11,14,9,0,0,0,0,11,9,13,13,12,12,17,6,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,9,6,19,12,14,12,14,15,8,9,0,0,0,0,5,12,7,7,12,8,7,4,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,151,83,87,68,70,64,56,51,58,38,0,0,0,0,69,49,32,28,48,48,35,24,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,48,31,57,82,88,83,81,52,62,54,0,0,0,0,50,42,66,53,60,46,69,50,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,0,0,53,50,37,29,29,16,45,19,0,0,0,0,47,38,10,20,14,18,33,23,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,204,165,176,171,156,163,134,104,82,65,0,0,0,0,142,111,96,101,90,101,67,57,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,167,123,99,135,88,88,101,94,107,78,0,0,0,0,88,105,85,66,63,87,60,54,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,7,13,1,1,3,4,3,8,7,3,0,0,0,0,0,1,1,5,3,9,4,6,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,0,0,10,8,7,7,10,8,8,11,0,0,0,0,15,9,8,9,10,10,9,11,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,1,General,43,22,41,42,21,27,19,17,14,17,0,0,0,0,26,26,24,15,15,14,9,9,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,1,General,85,52,35,37,20,13,14,10,11,6,0,0,0,0,26,20,8,5,9,5,7,4,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,1,General,35,23,32,27,38,20,33,9,5,7,0,0,0,0,19,11,12,15,27,7,11,11,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,1,General,0,0,3,3,1,2,3,5,4,1,0,0,0,0,2,3,1,2,4,6,5,1,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,1,General,15,6,26,17,14,11,11,17,7,4,0,0,0,0,12,14,11,8,9,11,6,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,1,General,3,7,3,1,0,2,2,0,3,0,0,0,0,0,2,4,2,1,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,1,General,50,55,51,69,44,37,42,34,26,30,0,0,0,0,33,73,35,28,40,39,38,47,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,1,General,20,5,28,32,29,43,36,25,20,18,0,0,0,0,25,28,30,31,22,20,18,11,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,1,General,0,0,2,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,2,cat2,UPS (I-VIII),8,Unrecognized,1,General,82,52,47,39,43,49,17,18,2,0,0,0,0,0,32,29,18,12,12,11,2,2,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Urban,2,cat2,UPS (I-VIII),8,Unrecognized,1,General,0,0,19,20,9,9,8,6,4,3,0,0,0,0,7,8,2,2,2,3,2,3,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,2,cat2,UPS (I-VIII),8,Unrecognized,1,General,94,50,77,87,66,89,77,77,70,65,0,0,0,0,59,58,55,64,44,53,36,33,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Urban,2,cat2,UPS (I-VIII),8,Unrecognized,1,General,2,1,2,1,0,2,1,0,0,0,0,0,0,0,1,1,1,1,2,1,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Urban,2,cat2,UPS (I-VIII),8,Unrecognized,1,General,0,0,12,3,3,2,2,4,2,3,0,0,0,0,6,7,4,2,5,1,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,24,17,14,16,18,11,10,17,0,0,0,0,21,28,9,16,14,13,11,27,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,18,20,21,17,17,7,4,6,0,0,0,0,12,11,11,11,12,8,8,2,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,62,46,37,31,21,23,28,27,0,0,0,0,52,42,41,30,28,21,22,21,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,74,38,49,37,44,43,18,32,0,0,0,0,55,36,45,26,30,40,30,40,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,3,cat3,HSS (I-XII),1,Department of Education,2,SC,0,0,0,5,0,0,1,0,0,0,2,2,0,0,0,2,0,2,1,0,2,1,7,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,3,cat3,HSS (I-XII),1,Department of Education,2,SC,0,0,8,9,1,12,10,36,20,18,9,8,0,0,4,6,7,8,5,46,15,9,14,3,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,3,cat3,HSS (I-XII),1,Department of Education,2,SC,0,0,45,12,9,10,19,21,8,14,29,11,0,0,32,6,14,7,10,14,11,8,19,19,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,0,0,3,6,5,7,3,6,7,8,13,11,8,11,2,8,1,5,4,2,3,3,6,2,3,1
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,2,2,6,8,9,11,10,11,11,17,22,25,17,17,4,5,6,5,4,7,7,11,13,11,12,11
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,3,cat3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,3,cat3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,3,cat3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,3,cat3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,3,cat3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,3,cat3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,10,cat10,HSS (IX-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,71,80,42,26,0,0,0,0,0,0,0,0,62,40,51,17
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,10,cat10,HSS (IX-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,73,107,73,74,0,0,0,0,0,0,0,0,50,102,46,52
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,10,cat10,HSS (IX-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,56,53,15,21,0,0,0,0,0,0,0,0,63,47,16,9
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,10,cat10,HSS (IX-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,58,50,28,28,0,0,0,0,0,0,0,0,80,49,34,14
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,10,cat10,HSS (IX-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,63,55,42,34,0,0,0,0,0,0,0,0,65,73,42,28
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,10,cat10,HSS (IX-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,85,80,27,10,0,0,0,0,0,0,0,0,65,112,91,17
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,10,cat10,HSS (IX-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,92,161,41,44,0,0,0,0,0,0,0,0,86,70,36,53
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,10,cat10,HSS (IX-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,121,143,22,5,0,0,0,0,0,0,0,0,121,95,81,16
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,10,cat10,HSS (IX-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,46,44,26,27,0,0,0,0,0,0,0,0,50,52,37,24
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,10,cat10,HSS (IX-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,100,86,38,41,0,0,0,0,0,0,0,0,71,81,44,51
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,10,cat10,HSS (IX-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,30,31,42,20,0,0,0,0,0,0,0,0,73,71,48,16
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,3,0,37,6,0,0,0,0,0,0,0,0,2,0,8,7
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,62,103,0,0,0,0,0,0,0,0,0,0,26,45
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,5,cat5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,2,SC,0,0,0,0,0,0,0,13,12,3,10,9,4,4,0,0,0,0,0,2,2,8,4,3,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,11,cat11,HSS (XI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,160,210,0,0,0,0,0,0,0,0,0,0,40,38
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,11,cat11,HSS (XI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,125,111,0,0,0,0,0,0,0,0,0,0,30,24
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,121,139,0,0,0,0,0,0,0,0,0,0,71,65
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,2,2
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,43,51,0,0,0,0,0,0,0,0,0,0,29,33
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,66,66,0,0,0,0,0,0,0,0,0,0,21,21
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,106,108,0,0,0,0,0,0,0,0,0,0,58,49
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,41,61,0,0,0,0,0,0,0,0,0,0,11,11
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,334,346,360,336,365,0,0,0,0,0,0,0,309,348,334,300,331,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,909,857,751,831,843,0,0,0,0,0,0,0,870,764,659,826,725,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,134,139,99,115,126,0,0,0,0,0,0,0,143,142,120,130,123,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,231,244,212,222,273,0,0,0,0,0,0,0,229,221,226,212,236,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,216,225,188,230,200,0,0,0,0,0,0,0,203,225,175,189,170,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,143,160,133,171,219,0,0,0,0,0,0,0,140,154,120,173,218,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,607,510,474,449,478,0,0,0,0,0,0,0,556,510,462,399,427,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,602,657,571,565,598,0,0,0,0,0,0,0,577,543,549,554,522,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,625,620,581,562,528,0,0,0,0,0,0,0,537,598,513,495,497,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,30,35,39,35,61,0,0,0,0,0,0,0,33,25,36,39,44,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,70,83,62,69,49,0,0,0,0,0,0,0,67,60,83,72,69,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,1,cat1,PS (I-V),4,Government Aided,2,SC,0,0,12,10,8,6,4,0,0,0,0,0,0,0,6,8,3,3,4,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,3,3,43,11,21,30,19,0,0,0,0,0,0,0,1,20,14,16,16,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,1,1,6,5,4,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,8,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,0,4,4,1,1,0,0,0,0,0,0,0,1,4,1,1,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,47,39,11,10,6,10,13,0,0,0,0,0,0,0,12,6,9,4,14,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,11,5,3,7,3,3,3,0,0,0,0,0,0,0,1,6,0,3,1,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,1,cat1,PS (I-V),8,Unrecognized,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,1,cat1,PS (I-V),8,Unrecognized,2,SC,0,0,16,16,22,15,11,0,0,0,0,0,0,0,22,30,22,11,12,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,1,cat1,PS (I-V),8,Unrecognized,2,SC,5,5,5,2,2,4,4,0,0,0,0,0,0,0,3,3,3,3,2,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,1,cat1,PS (I-V),8,Unrecognized,2,SC,0,0,5,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,1,cat1,PS (I-V),8,Unrecognized,2,SC,0,0,4,1,2,0,1,0,0,0,0,0,0,0,5,1,1,1,1,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,1,cat1,PS (I-V),8,Unrecognized,2,SC,15,10,5,6,3,1,1,0,0,0,0,0,0,0,4,4,2,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,1,cat1,PS (I-V),8,Unrecognized,2,SC,6,5,26,13,8,6,3,0,0,0,0,0,0,0,12,9,3,8,1,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,1,cat1,PS (I-V),8,Unrecognized,2,SC,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,1,cat1,PS (I-V),8,Unrecognized,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,1,cat1,PS (I-V),8,Unrecognized,2,SC,8,5,6,2,0,2,1,0,0,0,0,0,0,0,5,0,0,1,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,6,cat6,SS (I-X),1,Department of Education,2,SC,0,0,15,16,11,11,7,34,29,28,42,40,0,0,10,18,9,16,5,23,14,22,42,23,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,6,cat6,SS (I-X),1,Department of Education,2,SC,0,0,37,74,56,47,60,136,101,64,91,68,0,0,58,55,47,50,46,106,76,56,76,66,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,6,cat6,SS (I-X),1,Department of Education,2,SC,0,0,22,25,19,15,16,24,20,15,26,22,0,0,14,20,11,18,14,26,30,17,25,8,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,6,cat6,SS (I-X),1,Department of Education,2,SC,0,0,44,32,28,26,21,19,17,5,30,24,0,0,37,27,26,22,11,17,14,12,35,7,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,6,cat6,SS (I-X),1,Department of Education,2,SC,0,0,35,45,22,39,44,70,41,33,17,37,0,0,34,34,33,36,32,35,28,17,28,32,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,6,cat6,SS (I-X),1,Department of Education,2,SC,0,0,13,16,10,21,15,16,26,28,42,47,0,0,15,14,10,10,14,14,26,18,34,41,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,6,cat6,SS (I-X),1,Department of Education,2,SC,0,0,148,182,119,139,91,168,93,106,132,112,0,0,222,185,82,93,66,118,85,65,91,80,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,6,cat6,SS (I-X),1,Department of Education,2,SC,0,0,61,110,89,92,96,151,167,151,120,137,0,0,67,86,71,91,81,147,142,117,115,112,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,6,cat6,SS (I-X),1,Department of Education,2,SC,0,0,50,68,51,49,42,66,73,66,94,88,0,0,49,30,28,39,24,67,54,29,56,61,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,6,cat6,SS (I-X),4,Government Aided,2,SC,0,0,0,1,2,0,1,0,1,1,5,6,0,0,0,0,2,4,4,3,5,4,5,6,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,6,cat6,SS (I-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,7,20,24,9,13,0,0,0,0,0,0,0,6,15,30,10,12,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,1,0,0,4,4,0,1,4,0,0,0,0,2,0,0,1,0,1,0,1,1,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,1,0,0,0,0,3,2,2,5,1,0,0,0,0,0,0,0,2,0,3,1,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,2,2,1,0,3,1,3,3,0,2,2,1,0,0,1,0,0,1,0,1,0,2,0,1,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,6,cat6,SS (I-X),90,Social welfare Department,2,SC,0,0,24,40,40,40,40,40,32,40,29,32,0,0,0,0,0,0,0,2,22,5,1,3,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,6,cat6,SS (I-X),92,Kendriya Vidyalaya / Central School,2,SC,0,0,6,7,6,2,3,1,4,5,3,0,0,0,1,3,1,2,1,2,2,3,2,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,6,cat6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,6,cat6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,6,cat6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,6,cat6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,6,cat6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,8,cat8,SS (IX-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,18,66,0,0,0,0,0,0,0,0,0,0,13,42,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,8,cat8,SS (IX-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,17,17,0,0,0,0,0,0,0,0,0,0,11,21,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,8,cat8,SS (IX-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,6,3,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,8,cat8,SS (IX-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,2,2,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,30,26,0,0,0,0,0,0,0,0,0,0,21,20,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,3,2,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,2,5,0,0,0,0,0,0,0,0,0,0,1,5,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,8,cat8,SS (IX-X),8,Unrecognized,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,4,4,4,7,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,0,0,191,187,139,136,150,161,184,126,0,0,0,0,145,166,140,130,128,156,170,139,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,0,0,482,480,339,339,359,442,398,282,0,0,0,0,355,465,291,268,304,372,298,225,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,0,0,60,46,40,47,54,65,48,34,0,0,0,0,50,66,39,34,54,63,47,40,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,0,0,200,198,178,158,173,221,210,202,0,0,0,0,202,205,163,169,181,270,198,216,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,0,0,180,156,136,141,140,179,166,122,0,0,0,0,178,166,157,128,140,189,107,117,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,0,0,191,190,165,158,158,201,194,194,0,0,0,0,173,187,146,120,151,185,188,166,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,0,0,233,240,293,176,211,276,244,198,0,0,0,0,234,191,192,162,194,224,183,131,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,0,0,291,268,285,277,321,384,284,273,0,0,0,0,325,259,244,243,259,305,247,248,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,0,0,263,260,275,249,276,378,356,301,0,0,0,0,206,194,224,217,253,269,269,257,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,0,0,28,56,38,36,41,61,50,43,0,0,0,0,26,38,25,49,52,86,60,62,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,0,0,5,7,9,11,6,28,18,18,0,0,0,0,18,6,12,13,13,28,30,23,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,2,cat2,UPS (I-VIII),4,Government Aided,2,SC,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,2,0,2,1,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,2,cat2,UPS (I-VIII),4,Government Aided,2,SC,0,0,1,1,0,0,0,2,0,1,0,0,0,0,2,5,0,0,0,1,0,1,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,2,cat2,UPS (I-VIII),4,Government Aided,2,SC,0,0,7,6,5,2,7,3,6,8,0,0,0,0,5,2,2,2,5,2,8,3,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,2,cat2,UPS (I-VIII),4,Government Aided,2,SC,0,0,5,3,3,4,4,1,2,1,0,0,0,0,9,2,3,11,5,2,1,1,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,2,cat2,UPS (I-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,2,cat2,UPS (I-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,2,cat2,UPS (I-VIII),4,Government Aided,2,SC,0,0,4,5,3,1,1,1,1,1,0,0,0,0,4,4,3,3,2,1,3,2,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,9,11,5,8,5,2,1,0,0,0,0,0,0,0,5,4,0,0,1,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,27,17,73,46,36,38,24,28,13,5,0,0,0,0,38,35,18,20,11,13,7,10,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,0,0,10,1,1,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,34,18,35,24,41,27,26,10,20,9,0,0,0,0,24,6,26,16,11,15,11,14,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,2,1,9,15,6,9,7,7,2,2,0,0,0,0,8,5,7,7,9,3,1,1,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,5,8,4,4,3,4,4,3,1,0,0,0,0,0,1,2,2,2,1,1,1,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,66,35,88,70,65,32,33,39,30,30,0,0,0,0,36,36,30,21,24,18,35,29,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,50,28,120,84,102,84,93,78,70,66,0,0,0,0,79,93,122,84,87,66,58,61,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,0,0,79,89,91,100,120,106,81,59,0,0,0,0,68,49,95,86,85,78,68,61,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,37,27,58,41,38,23,25,26,18,21,0,0,0,0,27,24,21,14,10,9,9,7,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,65,25,86,77,64,96,80,69,57,107,0,0,0,0,68,67,53,56,62,41,30,44,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,9,9,4,3,2,2,3,3,1,7,0,0,0,0,1,3,1,2,5,2,6,3,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,0,0,8,8,9,7,8,7,6,8,0,0,0,0,5,4,4,5,4,5,6,6,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,2,SC,56,38,18,16,16,16,11,9,2,0,0,0,0,0,17,10,9,12,6,10,1,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,2,SC,35,37,59,49,51,41,23,12,19,13,0,0,0,0,48,40,31,29,23,14,21,5,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,2,SC,54,50,33,21,21,29,23,8,11,7,0,0,0,0,25,25,22,17,16,8,7,6,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,2,SC,5,4,2,0,1,0,2,2,0,1,0,0,0,0,1,1,1,0,1,1,0,2,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,2,SC,15,11,62,18,12,12,10,19,7,8,0,0,0,0,16,9,11,7,8,9,7,4,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,2,SC,25,16,7,4,2,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,2,SC,0,0,15,9,6,11,10,4,8,9,0,0,0,0,9,3,7,6,7,7,6,2,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,2,SC,55,17,73,55,38,43,41,35,33,32,0,0,0,0,38,79,26,33,31,20,24,13,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,2,SC,0,0,25,14,12,9,4,2,0,5,0,0,0,0,12,12,10,7,6,1,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,2,cat2,UPS (I-VIII),8,Unrecognized,2,SC,6,2,5,9,3,2,2,0,0,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Urban,2,cat2,UPS (I-VIII),8,Unrecognized,2,SC,0,0,3,4,2,0,2,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,2,cat2,UPS (I-VIII),8,Unrecognized,2,SC,3,3,30,28,24,17,26,20,19,12,0,0,0,0,24,23,12,17,17,15,11,11,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Urban,2,cat2,UPS (I-VIII),8,Unrecognized,2,SC,10,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Urban,2,cat2,UPS (I-VIII),8,Unrecognized,2,SC,0,0,33,25,27,18,18,4,4,7,0,0,0,0,20,27,21,20,11,6,7,1,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,5,0,3,5,3,2,4,8,0,0,0,0,3,1,2,4,5,3,5,3,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,3,cat3,HSS (I-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,3,cat3,HSS (I-XII),1,Department of Education,3,ST,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,3,cat3,HSS (I-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,0,1,0,1,1
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,1,1,1,3,0,3,3,4,5,8,9,12,7,10,1,2,1,2,2,2,3,4,3,2,3,4
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,3,cat3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,3,cat3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,3,cat3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,3,cat3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,3,cat3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,3,cat3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,10,cat10,HSS (IX-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,2,4,1,0,0,0,0,0,0,0,0,0,0,4,0,1
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,10,cat10,HSS (IX-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,10,22,10,7,0,0,0,0,0,0,0,0,13,21,13,9
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,10,cat10,HSS (IX-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,12,2,0,0,0,0,0,0,0,0,0,0,11,4,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,10,cat10,HSS (IX-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,2,1
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,10,cat10,HSS (IX-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,10,10,6,4,0,0,0,0,0,0,0,0,1,8,8,3
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,10,cat10,HSS (IX-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,5,3,2,2,0,0,0,0,0,0,0,0,20,1,2,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,10,cat10,HSS (IX-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,13,15,6,7,0,0,0,0,0,0,0,0,15,10,3,2
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,10,cat10,HSS (IX-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,21,18,3,4,0,0,0,0,0,0,0,0,18,15,8,9
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,10,cat10,HSS (IX-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,11,3,3,4,0,0,0,0,0,0,0,0,11,4,1,2
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,10,cat10,HSS (IX-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,3,5,9,5,0,0,0,0,0,0,0,0,6,1,2,2
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,10,cat10,HSS (IX-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,3,3,1,1,0,0,0,0,0,0,0,0,8,5,2,1
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,3,8,0,0,0,0,0,0,0,0,0,0,2,5
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,1,cat1,PS (I-V),8,Unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,5,cat5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,3,ST,0,0,0,0,0,0,0,7,3,6,4,2,2,0,0,0,0,0,0,1,4,0,1,1,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,11,cat11,HSS (XI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,12,21,0,0,0,0,0,0,0,0,0,0,5,1
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,11,cat11,HSS (XI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,14,9,0,0,0,0,0,0,0,0,0,0,5,3
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,11,15,0,0,0,0,0,0,0,0,0,0,5,6
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,7,4,0,0,0,0,0,0,0,0,0,0,11,2
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,5,7,0,0,0,0,0,0,0,0,0,0,2,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,42,19,41,39,46,0,0,0,0,0,0,0,38,31,46,52,40,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,147,124,140,194,149,0,0,0,0,0,0,0,153,142,117,176,157,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,5,4,8,11,6,0,0,0,0,0,0,0,5,8,9,5,2,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,4,5,5,26,25,0,0,0,0,0,0,0,9,5,4,34,38,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,23,21,17,14,14,0,0,0,0,0,0,0,22,23,21,12,11,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,10,21,13,15,31,0,0,0,0,0,0,0,12,10,10,19,17,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,57,50,38,45,54,0,0,0,0,0,0,0,35,42,49,53,49,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,40,35,22,52,44,0,0,0,0,0,0,0,28,25,24,42,38,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,24,25,24,26,22,0,0,0,0,0,0,0,24,36,16,27,24,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,1,cat1,PS (I-V),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,2,0,1,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,1,cat1,PS (I-V),8,Unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,1,cat1,PS (I-V),8,Unrecognized,3,ST,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,2,0,0,3,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,1,cat1,PS (I-V),8,Unrecognized,3,ST,8,6,3,7,9,5,5,0,0,0,0,0,0,0,3,7,4,4,4,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,1,cat1,PS (I-V),8,Unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,1,cat1,PS (I-V),8,Unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,1,cat1,PS (I-V),8,Unrecognized,3,ST,0,0,2,3,6,5,5,0,0,0,0,0,0,0,1,0,2,1,1,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,1,cat1,PS (I-V),8,Unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,1,cat1,PS (I-V),8,Unrecognized,3,ST,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,1,cat1,PS (I-V),8,Unrecognized,3,ST,12,7,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,6,cat6,SS (I-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,6,cat6,SS (I-X),1,Department of Education,3,ST,0,0,1,7,3,2,0,18,22,6,41,16,0,0,1,5,2,2,0,16,16,10,18,20,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,6,cat6,SS (I-X),1,Department of Education,3,ST,0,0,2,4,1,7,7,9,2,2,9,5,0,0,1,7,5,0,7,6,2,8,5,9,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,6,cat6,SS (I-X),1,Department of Education,3,ST,0,0,0,1,1,3,0,0,0,0,2,2,0,0,1,0,1,1,2,0,0,0,0,2,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,6,cat6,SS (I-X),1,Department of Education,3,ST,0,0,2,5,2,2,3,7,7,0,2,8,0,0,4,2,4,0,1,6,3,1,3,3,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,6,cat6,SS (I-X),1,Department of Education,3,ST,0,0,0,3,0,0,0,1,1,0,4,5,0,0,0,0,0,0,0,0,0,0,4,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,6,cat6,SS (I-X),1,Department of Education,3,ST,0,0,4,9,0,2,1,7,3,6,8,7,0,0,2,7,1,1,1,2,1,0,11,5,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,6,cat6,SS (I-X),1,Department of Education,3,ST,0,0,1,6,0,1,2,1,0,0,3,3,0,0,0,2,1,0,5,14,4,8,2,8,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,6,cat6,SS (I-X),1,Department of Education,3,ST,0,0,4,0,6,3,0,5,2,1,11,5,0,0,0,1,2,0,0,3,2,1,3,7,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,6,cat6,SS (I-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,6,cat6,SS (I-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,3,1,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,6,cat6,SS (I-X),90,Social welfare Department,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,6,cat6,SS (I-X),92,Kendriya Vidyalaya / Central School,3,ST,0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,6,cat6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,6,cat6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,6,cat6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,6,cat6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,6,cat6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,8,cat8,SS (IX-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,8,cat8,SS (IX-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,8,cat8,SS (IX-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,8,cat8,SS (IX-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,8,cat8,SS (IX-X),8,Unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,0,0,2,18,16,26,8,15,17,8,0,0,0,0,3,16,6,11,7,14,11,11,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,0,0,38,49,44,60,56,84,87,95,0,0,0,0,39,63,46,39,63,80,71,83,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,0,0,2,2,0,0,5,4,5,6,0,0,0,0,1,1,1,0,2,6,5,8,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,0,0,0,0,1,0,0,0,5,2,0,0,0,0,0,0,0,0,1,0,5,3,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,0,0,11,4,11,9,11,16,5,2,0,0,0,0,11,1,5,2,8,8,15,8,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,0,0,9,10,7,2,6,18,15,5,0,0,0,0,13,12,7,2,7,13,20,7,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,0,0,9,25,15,10,22,28,24,23,0,0,0,0,22,25,14,3,10,31,29,26,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,0,0,17,22,18,20,25,47,34,22,0,0,0,0,25,12,29,21,40,47,37,36,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,0,0,17,31,12,21,18,9,6,8,0,0,0,0,24,17,11,20,14,8,16,15,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,4,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,2,cat2,UPS (I-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,2,cat2,UPS (I-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,2,cat2,UPS (I-VIII),4,Government Aided,3,ST,0,0,0,1,2,0,5,3,1,1,0,0,0,0,3,0,2,1,3,4,1,6,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,2,cat2,UPS (I-VIII),4,Government Aided,3,ST,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,2,cat2,UPS (I-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,2,cat2,UPS (I-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,2,cat2,UPS (I-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,10,2,5,2,1,2,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,19,13,28,28,17,21,14,6,8,14,0,0,0,0,12,13,12,12,12,11,5,15,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,6,3,2,6,1,6,4,1,0,0,0,0,1,2,4,2,0,1,2,1,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,6,3,6,6,4,5,6,2,5,5,0,0,0,0,7,4,3,3,4,1,4,2,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,27,14,55,33,35,33,32,43,28,18,0,0,0,0,31,34,44,27,19,37,36,22,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,28,12,17,11,8,7,16,5,0,0,0,0,14,8,11,10,15,9,10,15,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,28,15,20,5,10,9,5,3,5,2,0,0,0,0,16,9,3,2,3,2,1,2,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,28,23,7,9,5,5,10,2,5,6,0,0,0,0,6,3,5,19,2,1,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,3,ST,14,3,0,1,0,0,4,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,3,ST,49,45,36,40,27,17,24,26,8,5,0,0,0,0,23,29,22,23,12,20,9,6,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,3,ST,29,20,18,19,26,20,22,15,7,5,0,0,0,0,11,19,20,15,12,7,5,3,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,3,ST,13,8,4,1,10,8,7,12,4,3,0,0,0,0,1,5,1,4,8,6,2,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,3,ST,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,3,ST,0,0,5,2,2,2,3,5,3,2,0,0,0,0,2,3,2,1,0,1,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,3,ST,31,10,49,37,28,32,29,19,6,3,0,0,0,0,18,10,10,6,9,6,2,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,2,cat2,UPS (I-VIII),8,Unrecognized,3,ST,0,0,2,1,7,4,4,4,1,3,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,2,cat2,UPS (I-VIII),8,Unrecognized,3,ST,4,3,4,2,1,1,1,0,0,0,0,0,0,0,1,3,0,2,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Urban,2,cat2,UPS (I-VIII),8,Unrecognized,3,ST,0,0,5,6,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,2,cat2,UPS (I-VIII),8,Unrecognized,3,ST,3,3,2,2,2,0,0,0,1,1,0,0,0,0,1,1,0,1,1,1,2,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Urban,2,cat2,UPS (I-VIII),8,Unrecognized,3,ST,19,2,8,1,2,1,0,0,0,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Urban,2,cat2,UPS (I-VIII),8,Unrecognized,3,ST,0,0,10,13,8,8,10,2,3,4,0,0,0,0,4,6,2,4,2,11,0,3,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,3,cat3,HSS (I-XII),1,Department of Education,4,OBC,0,0,17,21,17,12,23,55,33,14,38,23,0,0,7,14,18,7,21,73,33,34,72,27,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,3,cat3,HSS (I-XII),1,Department of Education,4,OBC,0,0,9,7,3,13,20,90,110,57,45,46,0,0,12,6,7,10,29,55,80,64,13,17,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,3,cat3,HSS (I-XII),1,Department of Education,4,OBC,0,0,12,29,21,33,42,45,63,73,25,68,0,0,17,32,26,31,52,72,60,67,18,56,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,0,0,12,34,61,79,88,121,144,167,269,276,148,157,10,17,36,33,39,30,34,59,131,107,65,73
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,37,22,22,41,30,42,62,52,68,84,145,150,84,75,17,20,14,24,35,36,41,54,91,82,45,59
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,3,cat3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,15,25,82,75,96,60,32,30,11,42,121,94,106,119,103,100,120,113,95,87,70,93,254,121,169,148
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,3,cat3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,12,9,13,8,6,17,7,8,10,16,0,0,22,26,32,32,23,13,28,32,30,20,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,3,cat3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,60,59,56,56,45,53,62,65,117,121,76,132,118,110,101,89,90,86,86,95,126,171,90,102
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,3,cat3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,127,117,81,71,56,26,24,25,179,250,69,74,143,125,86,93,87,78,83,61,200,271,91,92
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,3,cat3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,36,31,22,25,25,26,30,32,28,36,29,26,27,22,23,22,17,24,26,29,25,43,24,29
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,3,cat3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,38,58,58,22,17,24,38,42,98,77,105,0,15,13,11,13,15,18,42,53,109,58,97,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,10,cat10,HSS (IX-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,364,397,212,153,0,0,0,0,0,0,0,0,430,454,249,149
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,10,cat10,HSS (IX-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,409,480,275,391,0,0,0,0,0,0,0,0,353,588,277,394
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,10,cat10,HSS (IX-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,613,475,204,237,0,0,0,0,0,0,0,0,628,514,174,139
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,10,cat10,HSS (IX-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,307,290,207,140,0,0,0,0,0,0,0,0,403,431,212,197
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,10,cat10,HSS (IX-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,610,653,349,332,0,0,0,0,0,0,0,0,727,643,365,351
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,10,cat10,HSS (IX-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,517,442,200,123,0,0,0,0,0,0,0,0,480,533,253,197
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,10,cat10,HSS (IX-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,720,868,186,171,0,0,0,0,0,0,0,0,504,575,406,346
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,10,cat10,HSS (IX-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,475,504,99,58,0,0,0,0,0,0,0,0,416,533,300,155
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,10,cat10,HSS (IX-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,162,155,86,112,0,0,0,0,0,0,0,0,256,256,170,156
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,10,cat10,HSS (IX-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,496,454,317,143,0,0,0,0,0,0,0,0,414,371,222,206
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,10,cat10,HSS (IX-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,242,271,164,109,0,0,0,0,0,0,0,0,491,519,289,244
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,45,26,476,430,0,0,0,0,0,0,0,0,52,29,270,202
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,419,593,0,0,0,0,0,0,0,0,0,0,142,244
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,133
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,13,16,80,278,232,0,0,0,0,0,0,0,3,12,23,238,174,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,5,cat5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,4,OBC,0,0,0,0,0,0,0,29,34,38,33,30,21,7,0,0,0,0,0,24,22,17,18,24,17,15
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,11,cat11,HSS (XI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,920,1069,0,0,0,0,0,0,0,0,0,0,295,335
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,11,cat11,HSS (XI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,537,524,0,0,0,0,0,0,0,0,0,0,165,140
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,403,606,0,0,0,0,0,0,0,0,0,0,372,344
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,208,208,0,0,0,0,0,0,0,0,0,0,45,45
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,311,224,0,0,0,0,0,0,0,0,0,0,175,157
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,343,343,0,0,0,0,0,0,0,0,0,0,141,141
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,450,432,0,0,0,0,0,0,0,0,0,0,263,254
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,377,401,0,0,0,0,0,0,0,0,0,0,100,107
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,3015,2799,2546,2572,2316,0,0,0,0,0,0,0,3045,3071,2846,2942,2902,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,2078,2111,1978,2075,2280,0,0,0,0,0,0,0,2167,2127,2102,2174,2315,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,2686,2582,2536,2593,2573,0,0,0,0,0,0,0,2890,2753,2804,2976,3061,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,924,854,790,836,897,0,0,0,0,0,0,0,911,841,826,842,911,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,2119,1852,1603,1605,1564,0,0,0,0,0,0,0,2061,1859,1803,1846,1819,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,684,769,617,687,799,0,0,0,0,0,0,0,645,696,665,684,761,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,2286,2238,1858,1908,1947,0,0,0,0,0,0,0,2166,2135,1814,1976,2146,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,1680,1558,1483,1632,1772,0,0,0,0,0,0,0,1622,1549,1522,1664,1764,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,1032,1170,1128,1167,1246,0,0,0,0,0,0,0,955,1153,1098,1189,1245,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,160,182,162,143,183,0,0,0,0,0,0,0,165,196,171,184,204,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,217,231,214,173,231,0,0,0,0,0,0,0,221,262,216,236,238,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,1,cat1,PS (I-V),4,Government Aided,4,OBC,0,0,8,7,8,7,5,0,0,0,0,0,0,0,4,5,6,4,4,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,71,57,53,56,73,64,54,0,0,0,0,0,0,0,51,43,76,70,51,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,11,10,18,51,23,29,24,0,0,0,0,0,0,0,32,17,26,31,16,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,21,43,31,27,36,0,0,0,0,0,0,0,35,36,43,45,37,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,14,8,111,13,4,3,3,0,0,0,0,0,0,0,44,8,3,3,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,67,25,11,12,2,12,20,0,0,0,0,0,0,0,4,0,2,7,11,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,61,29,36,25,23,13,13,0,0,0,0,0,0,0,17,27,11,17,15,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,61,66,43,30,26,0,0,0,0,0,0,0,42,29,42,33,21,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,1,cat1,PS (I-V),8,Unrecognized,4,OBC,50,41,42,35,54,30,37,0,0,0,0,0,0,0,35,24,28,30,26,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,1,cat1,PS (I-V),8,Unrecognized,4,OBC,0,0,17,12,9,16,14,0,0,0,0,0,0,0,11,10,7,18,19,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,1,cat1,PS (I-V),8,Unrecognized,4,OBC,0,0,50,29,35,37,30,0,0,0,0,0,0,0,42,23,24,19,20,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,246,184,59,41,41,28,43,0,0,0,0,0,0,0,58,47,30,24,33,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,178,153,90,69,64,47,45,0,0,0,0,0,0,0,60,56,51,32,24,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,1,cat1,PS (I-V),8,Unrecognized,4,OBC,0,0,0,4,0,1,1,0,0,0,0,0,0,0,0,1,0,4,2,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,1,cat1,PS (I-V),8,Unrecognized,4,OBC,12,5,10,8,4,10,5,0,0,0,0,0,0,0,12,12,4,5,3,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,1,cat1,PS (I-V),8,Unrecognized,4,OBC,17,2,12,17,22,29,14,0,0,0,0,0,0,0,12,16,15,20,8,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,1,cat1,PS (I-V),8,Unrecognized,4,OBC,6,2,70,52,41,35,18,0,0,0,0,0,0,0,40,34,19,27,7,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,1,cat1,PS (I-V),8,Unrecognized,4,OBC,0,0,19,9,11,7,9,0,0,0,0,0,0,0,10,12,8,13,8,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,1,cat1,PS (I-V),8,Unrecognized,4,OBC,98,47,15,19,11,9,0,0,0,0,0,0,0,0,10,6,5,3,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,1,cat1,PS (I-V),8,Unrecognized,4,OBC,40,15,38,23,17,13,10,0,0,0,0,0,0,0,10,10,9,3,2,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,6,cat6,SS (I-X),1,Department of Education,4,OBC,0,0,200,222,162,146,212,334,219,250,348,315,0,0,200,302,229,221,300,600,476,384,677,473,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,6,cat6,SS (I-X),1,Department of Education,4,OBC,0,0,248,316,216,252,266,490,446,358,452,433,0,0,280,339,272,266,350,602,518,520,567,458,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,6,cat6,SS (I-X),1,Department of Education,4,OBC,0,0,123,133,147,130,181,281,230,221,244,141,0,0,161,201,180,202,290,478,417,340,377,231,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,6,cat6,SS (I-X),1,Department of Education,4,OBC,0,0,142,132,127,124,143,183,211,145,208,173,0,0,137,141,139,114,126,233,212,166,207,220,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,6,cat6,SS (I-X),1,Department of Education,4,OBC,0,0,196,196,215,201,192,358,262,230,327,239,0,0,207,232,188,168,194,467,332,282,404,302,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,6,cat6,SS (I-X),1,Department of Education,4,OBC,0,0,84,88,71,52,86,148,214,184,289,336,0,0,66,97,81,78,110,164,179,189,333,320,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,6,cat6,SS (I-X),1,Department of Education,4,OBC,0,0,332,388,275,304,383,609,556,421,568,486,0,0,294,314,291,280,406,639,530,425,562,472,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,6,cat6,SS (I-X),1,Department of Education,4,OBC,0,0,205,262,247,290,299,618,648,562,657,625,0,0,204,257,197,297,358,638,578,559,661,612,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,6,cat6,SS (I-X),1,Department of Education,4,OBC,0,0,55,79,79,116,122,204,188,122,160,131,0,0,76,97,74,120,107,227,155,124,208,174,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,6,cat6,SS (I-X),4,Government Aided,4,OBC,0,0,14,5,11,16,9,15,11,13,8,2,0,0,9,8,8,16,11,12,9,5,5,6,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,6,cat6,SS (I-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,2,0,0,3,0,0,0,0,0,0,0,2,0,1,0,4,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,0,0,30,30,49,50,40,60,80,102,165,110,0,0,17,14,14,18,7,11,30,39,51,24,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,0,0,51,51,48,45,53,47,49,70,69,15,0,0,14,22,21,20,19,22,22,35,58,10,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,0,0,4,7,9,7,4,7,4,30,85,59,0,0,1,4,3,4,4,5,5,15,55,23,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,9,7,10,9,10,14,9,16,8,31,53,40,0,0,8,5,10,12,7,14,4,27,28,16,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,6,cat6,SS (I-X),90,Social welfare Department,4,OBC,0,0,0,0,0,0,0,6,12,18,5,15,0,0,0,0,0,0,0,5,12,22,5,9,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,6,cat6,SS (I-X),92,Kendriya Vidyalaya / Central School,4,OBC,0,0,15,14,12,23,16,17,14,15,10,12,0,0,13,5,3,9,15,18,10,9,15,10,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,6,cat6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,14,23,7,10,6,8,10,27,0,0,0,0,22,16,9,14,15,13,18,30,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,6,cat6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,53,32,36,22,21,31,19,25,0,0,0,0,47,38,29,30,28,20,18,37,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,6,cat6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,24,26,19,17,21,19,12,20,13,24,0,0,16,14,21,23,19,15,15,20,20,42,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,6,cat6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,68,62,26,24,20,24,23,37,34,35,0,0,61,58,21,13,8,8,12,78,71,95,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,6,cat6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,8,cat8,SS (IX-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,85,265,0,0,0,0,0,0,0,0,0,0,71,147,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,8,cat8,SS (IX-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,94,77,0,0,0,0,0,0,0,0,0,0,91,74,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,8,cat8,SS (IX-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,5,6,0,0,0,0,0,0,0,0,0,0,6,4,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,8,cat8,SS (IX-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,6,5,0,0,0,0,0,0,0,0,0,0,16,15,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,110,104,0,0,0,0,0,0,0,0,0,0,142,157,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,198,219,0,0,0,0,0,0,0,0,0,0,176,102,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,52,62,0,0,0,0,0,0,0,0,0,0,28,53,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,8,cat8,SS (IX-X),8,Unrecognized,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,8,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,44,75,80,72,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Rural,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,0,0,1504,1385,1218,1090,1163,1310,1164,1050,0,0,0,0,1449,1526,1331,1284,1502,1964,1669,1372,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100713,RANIGANJ,Rural,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,0,0,884,1107,857,943,1001,1494,1300,1126,0,0,0,0,845,1042,890,1049,1104,1665,1545,1392,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100714,JOKIHAT,Rural,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,0,0,1414,1533,1265,1316,1354,1490,1319,1012,0,0,0,0,1532,1616,1554,1577,1855,2400,1942,1682,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100715,SIKTI,Rural,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,0,0,589,609,515,604,622,828,821,768,0,0,0,0,555,540,538,551,649,1066,917,877,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100716,PALASI,Rural,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,0,0,996,1051,973,1046,1124,1400,1307,1166,0,0,0,0,996,1054,990,1140,1263,1769,1589,1372,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100717,KURSAKANTA,Rural,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,0,0,531,646,612,614,755,891,928,818,0,0,0,0,497,674,538,606,683,945,997,882,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Rural,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,0,0,1171,1114,939,1022,1135,1771,1519,1324,0,0,0,0,1102,1103,1012,969,1159,1734,1604,1363,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100719,NARPATGANJ,Rural,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,0,0,735,886,835,847,931,1439,1342,1211,0,0,0,0,696,851,749,861,967,1437,1244,1096,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100720,BHARGAMA,Rural,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,0,0,701,836,707,819,935,1134,1136,820,0,0,0,0,580,757,722,792,965,1131,1140,850,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100712,ARARIA,Urban,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,0,0,229,186,171,204,266,409,398,274,0,0,0,0,166,259,250,287,362,527,550,414,0,0,0,0
+2019-20,10,Bihar,1007,ARARIA,100718,FORBISGANJ,Urban,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,0,0,46,101,100,87,117,235,342,232,0,0,0,0,73,105,109,134,171,373,379,376,0,0,0,0

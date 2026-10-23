@@ -1,0 +1,825 @@
+ac_year,state_code,state_name,district_code,district_name,block_code,block_name,sch_category_id,category_name,sch_mgmt_id,sch_mgmt_name,loc_name,caste_id,pre_primary_boys,pre_primary_girls,class_1_boys,class_2_boys,class_3_boys,class_4_boys,class_5_boys,class_6_boys,class_7_boys,class_8_boys,class_9_boys,class_10_boys,class_11_boys,class_12_boys,class_1_girls,class_2_girls,class_3_girls,class_4_girls,class_5_girls,class_6_girls,class_7_girls,class_8_girls,class_9_girls,class_10_girls,class_11_girls,class_12_girls,caste_name
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,42,35,47,36,38,0,2,1,0,0,0,0,39,17,33,33,34,0,8,4,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,123,106,83,109,118,0,0,0,0,0,0,0,63,58,58,58,59,0,0,1,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,13,1,131,100,87,107,93,0,0,0,0,0,0,0,80,55,59,40,35,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,80,74,86,102,127,10,14,7,0,0,0,0,59,45,62,55,54,5,9,7,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,149,122,146,119,155,4,2,2,0,0,0,0,94,79,92,74,81,1,4,2,44,40,44,68,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,2,0,127,125,137,145,141,0,0,0,0,0,0,0,83,79,94,74,76,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,96,83,77,90,122,0,0,0,0,0,0,0,78,51,63,44,67,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,30,26,32,28,45,0,0,0,0,0,0,0,20,18,16,17,25,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,5,6,51,39,33,46,63,0,0,0,0,0,0,0,27,41,23,37,46,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,83,47,67,69,78,11,14,15,46,34,44,27,69,44,57,62,70,13,8,18,109,72,52,17,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,96,67,71,62,85,0,0,0,0,0,0,0,76,38,41,35,47,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,3,2,113,90,92,95,95,0,0,0,0,0,0,0,73,66,70,58,54,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,259,243,253,269,308,9,12,18,8,6,2,8,226,186,164,186,219,9,9,20,9,9,1,6,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,4,1,0,0,0,0,0,0,0,0,0,0,6,1,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,8,5,8,7,4,0,0,0,0,0,0,0,9,8,8,10,1,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,1,2,1,1,0,0,0,0,0,0,0,0,2,3,0,3,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,5,2,0,3,1,0,0,0,0,0,0,0,7,0,2,0,3,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,4,2,2,4,4,0,0,0,0,0,0,0,5,2,5,4,2,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,3,0,1,0,1,0,0,0,0,0,0,0,3,0,0,2,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,5,3,7,0,0,0,0,0,0,0,0,0,6,1,9,2,2,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,25,4,8,15,14,0,0,0,0,0,0,0,25,9,6,7,3,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,12,2,17,20,14,0,0,0,0,0,0,0,13,4,9,17,11,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,18,6,0,2,0,0,0,0,0,0,0,0,6,8,3,1,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,24,8,7,7,4,0,0,0,0,0,0,0,24,7,14,8,2,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,1,PS (I-V),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,1,PS (I-V),98,Madarsa unrecognized,Rural,2,0,0,2,2,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,1,PS (I-V),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,0,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,1,PS (I-V),98,Madarsa unrecognized,Urban,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1,3,1,1,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,6,SS (I-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,9,12,4,9,8,3,7,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,4,4,1,2,1,0,0,0,11,17,15,3,3,0,3,1,0,0,0,0,19,11,10,5,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,6,5,5,5,4,7,9,3,3,10,0,0,3,3,0,0,7,7,2,2,8,5,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,9,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,10,12,9,8,14,57,13,12,19,13,0,0,15,9,8,12,10,58,21,9,21,22,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,0,0,2,2,1,1,3,2,2,3,5,6,0,0,1,2,1,1,0,0,2,0,2,1,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,6,SS (I-X),98,Madarsa unrecognized,Rural,2,0,0,3,3,5,3,5,3,6,0,0,2,0,0,2,2,4,5,2,0,1,1,2,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,3,5,0,0,0,0,0,0,0,0,0,0,4,12,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,35,52,0,0,0,0,0,0,0,0,0,0,27,42,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,13,19,0,0,0,0,0,0,0,0,0,0,19,21,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,16,28,0,0,0,0,0,0,0,0,0,0,28,45,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,18,40,0,0,0,0,0,0,0,0,0,0,16,19,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,10,13,0,0,0,0,0,0,0,0,0,0,18,27,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,37,43,0,0,0,0,0,0,0,0,0,0,32,35,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,11,15,0,0,0,0,0,0,0,0,0,0,14,12,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,8,3,0,0,0,0,0,0,0,0,0,0,11,15,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,17,10,0,0,0,0,0,0,0,0,0,0,18,7,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,14,26,0,0,0,0,0,0,0,0,0,0,37,34,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,107,184,10,7,0,0,0,0,0,0,0,0,97,187,29,40,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,16,4,17,80,71,0,0,0,0,0,0,0,20,8,8,65,80,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,22,13,0,0,0,0,0,0,0,0,0,0,28,21,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,10,13,0,136,146,15,7,0,0,0,0,0,9,9,1,70,95,17,16,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,14,5,0,0,0,0,0,0,0,0,0,0,8,17,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,11,5,0,0,0,0,0,0,0,0,0,0,1,7,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,5,1,2,33,32,7,5,0,0,0,0,0,1,2,1,23,34,9,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,6,4,6,86,55,1,7,0,0,0,0,0,5,2,2,42,39,17,2,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,25,23,0,0,0,0,0,0,0,0,0,0,19,13,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,47,40,0,0,0,0,0,0,0,0,0,0,53,60,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,8,SS (IX-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,34,52,12,6,0,0,0,0,0,0,0,0,23,31,9,5,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,8,SS (IX-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,10,8,14,15,0,0,0,0,0,0,0,0,6,0,7,3,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,5,6,2,7,7,0,0,0,0,0,0,0,10,11,18,6,12,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,28,43,43,42,18,0,0,0,0,0,0,0,19,22,42,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,18,5,8,47,43,0,0,0,0,0,0,0,9,4,2,15,29,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,1,1,1,26,26,0,0,0,0,0,0,0,0,0,1,12,13,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,8,8,5,63,98,0,0,0,0,0,0,0,9,9,6,52,64,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,19,12,11,9,7,0,0,0,0,0,0,0,11,5,2,12,8,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,42,7,14,11,0,0,0,0,0,0,0,0,18,8,10,2,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,6,10,12,96,130,45,64,0,0,0,0,0,3,16,12,97,136,70,67,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,3,3,0,5,6,0,0,0,0,0,0,0,1,0,0,3,3,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,9,3,5,13,25,0,0,0,0,0,0,0,2,1,1,4,21,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,4,0,0,3,2,3,3,0,0,0,0,0,2,1,0,2,1,1,9,4,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,2,UPS (I-VIII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,5,8,4,3,5,4,1,2,0,0,0,0,2,1,2,4,4,3,0,1,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,13,15,2,8,8,7,3,2,1,0,0,0,4,2,1,3,4,8,0,4,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,26,4,9,8,7,8,0,1,4,1,0,0,0,0,1,0,3,1,3,0,0,1,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,9,2,1,1,2,4,3,1,0,0,0,0,6,0,2,3,1,1,2,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,2,3,12,19,11,1,11,9,10,4,0,0,0,0,3,5,3,1,5,8,3,2,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,37,45,25,20,24,22,24,19,0,0,0,0,17,38,23,12,21,15,12,12,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,7,6,7,1,7,2,5,10,1,5,0,0,3,6,3,0,2,1,4,2,2,5,3,6,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,10,1,10,11,9,6,1,12,2,5,0,0,0,0,4,4,3,0,2,3,3,5,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,5,4,7,6,6,5,9,4,1,1,0,0,0,0,6,7,4,3,1,0,1,2,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,4,4,89,70,67,58,44,70,55,61,0,0,0,0,67,49,48,55,43,31,43,45,51,53,56,53,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,3,0,87,66,78,82,130,107,87,66,17,15,0,0,63,61,58,48,76,79,45,58,2,5,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,11,4,8,3,6,6,4,5,0,0,0,0,10,5,9,2,4,6,7,3,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,1,4,4,6,3,0,0,0,0,0,0,0,2,0,2,2,2,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,2,1,0,1,0,1,0,0,0,0,0,0,2,1,3,2,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,2,2,0,5,2,4,0,1,0,0,0,0,2,1,1,0,1,0,2,5,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,2,0,1,1,5,3,3,1,0,0,0,0,1,0,0,2,4,4,5,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,125,157,150,0,0,0,0,0,0,0,0,0,123,147,186,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,746,892,855,0,0,0,0,0,0,0,0,0,732,889,822,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,330,478,442,0,0,0,0,0,0,0,0,0,401,510,500,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,244,342,279,0,0,0,0,0,0,0,0,0,321,374,371,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,390,401,386,0,0,0,0,0,0,0,0,0,404,366,336,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,567,540,529,0,0,0,0,0,0,0,0,0,604,565,575,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,203,226,224,0,0,0,0,0,0,0,0,0,281,244,245,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,259,225,238,0,0,0,0,0,0,0,0,0,269,299,282,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,173,201,176,0,0,0,0,0,0,0,0,0,105,181,131,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,300,299,220,0,0,0,0,0,0,0,0,0,276,294,267,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,581,665,567,0,0,0,0,0,0,0,0,0,552,658,636,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,385,362,332,0,0,0,0,0,0,0,0,0,398,449,419,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,7,4,2,0,0,0,0,0,0,0,0,0,29,27,29,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,34,39,46,0,0,0,0,0,0,0,0,0,28,44,37,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,3,9,14,0,0,0,0,0,0,0,0,0,5,5,2,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,17,11,13,0,0,0,0,0,0,0,0,0,9,16,2,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,50,51,44,0,0,0,0,0,0,0,0,0,42,28,35,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,9,9,12,0,0,0,0,0,0,0,0,0,32,24,16,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,29,41,50,0,0,0,0,0,0,0,0,0,30,38,43,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,4,UPS (VI-VIII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,18,12,19,0,0,0,0,0,0,0,0,0,18,21,10,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,36,38,32,41,30,33,14,0,0,0,0,0,25,23,18,43,44,16,19,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,114,98,100,79,113,27,7,0,0,0,0,0,68,62,71,87,148,49,71,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,63,65,61,109,195,30,34,0,0,0,0,0,33,44,43,114,236,59,66,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,116,142,111,79,73,18,12,0,0,0,0,0,65,126,91,70,107,27,52,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,3,2,3,1,3,90,99,120,224,315,215,259,3,1,6,3,12,70,82,99,135,156,96,99,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,7,12,18,7,7,52,48,54,0,0,0,0,5,11,7,7,7,37,43,55,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,59,29,61,0,0,0,0,0,0,0,0,0,48,36,38,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,22,18,31,0,0,0,0,0,0,0,0,0,10,22,20,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,4,6,4,5,3,20,13,21,0,0,0,0,3,6,4,3,3,21,11,14,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,11,9,2,2,0,14,32,24,52,15,0,0,2,2,0,3,0,12,42,16,12,3,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,71,81,56,74,71,0,0,0,0,0,0,0,45,60,38,86,57,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,26,20,20,13,5,8,13,0,0,0,0,0,19,15,12,2,2,3,2,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,213,157,149,17,18,3,0,0,0,0,0,0,143,134,125,13,11,30,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,4,UPS (VI-VIII),7,Central Govt,Rural,2,0,0,0,0,0,0,0,19,21,19,16,18,15,25,0,0,0,0,0,5,2,3,4,4,6,1,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,5,3,10,0,0,0,0,0,0,0,0,0,1,4,2,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,3,HSS (I-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,3,HSS (I-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,3,HSS (I-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,3,HSS (I-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,3,HSS (I-XII),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,3,HSS (I-XII),2,Tribal Welfare Department,Rural,3,0,0,0,1,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,3,HSS (I-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,3,2,2,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,1,0,0,0,1,1,8,2,0,0,0,0,0,0,0,0,1,0,1,3,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,3,5,4,0,2,0,1,1,2,6,5,0,2,7,1,0,2,0,0,2,1,1,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,1,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,2,1,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,1,0,2,2,3,5,4,1,5,2,3,5,2,1,2,1,2,3,4,2,3,3,2,2,1,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,10,HSS (IX-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,1,4,4,0,0,0,0,0,0,0,0,1,0,9,7,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,5,0,0,0,0,0,2,1,0,1,2,1,0,0,0,0,0,0,1,0,0,0,1,1,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,4,2,14,8,0,0,0,0,0,0,0,0,11,19,13,12,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,10,11,13,20,11,16,9,0,0,0,0,0,10,4,5,28,17,11,12,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,4,4,5,1,0,0,0,0,0,0,0,0,0,4,11,1,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,3,1,13,15,2,5,0,0,0,0,0,0,1,1,16,5,7,6,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,6,8,5,3,0,0,0,0,0,0,0,0,13,6,8,5,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,5,2,1,0,0,0,0,0,0,0,0,0,6,0,2,20,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,10,HSS (IX-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,1,0,0,5,0,2,8,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,1,11,5,5,7,0,0,0,0,0,1,0,0,5,9,4,1,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,15,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,1,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,1,4,1,5,6,6,4,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,8,0,4,1,4,2,0,0,0,0,0,0,3,0,1,0,0,2,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,1,2,1,2,3,0,0,0,0,0,0,1,1,4,1,4,7,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,2,1,3,2,1,3,2,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,1,0,1,9,7,3,5,0,0,0,0,0,0,0,3,3,10,9,8,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,1,0,0,2,10,4,4,0,0,0,0,0,0,0,0,7,1,2,2,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,5,9,1,4,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,5,HSS (VI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,4,4,4,12,12,3,6,0,0,0,0,0,2,2,0,3,12,6,7,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,7,1,4,5,0,0,0,0,0,6,4,11,41,1,1,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,3,0,3,4,0,0,0,0,0,0,0,0,0,0,1,4,3,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,2,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,1,0,0,5,2,2,0,0,0,0,0,0,1,0,0,8,1,5,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,2,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,1,PS (I-V),1,Department of Education,Rural,3,0,0,4,1,2,0,8,0,0,0,0,0,0,0,2,0,1,2,7,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,1,PS (I-V),1,Department of Education,Rural,3,0,0,22,15,24,39,13,0,0,0,0,0,0,0,11,14,14,22,28,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,1,PS (I-V),1,Department of Education,Rural,3,0,0,11,10,12,10,7,0,0,0,0,0,0,0,12,15,8,7,11,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,1,PS (I-V),1,Department of Education,Rural,3,0,0,13,6,6,5,6,0,0,0,0,0,0,0,2,6,2,10,4,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,1,PS (I-V),1,Department of Education,Rural,3,0,0,10,4,8,8,12,0,0,0,0,0,0,0,10,16,7,12,6,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,1,PS (I-V),1,Department of Education,Rural,3,0,0,19,33,20,28,22,0,0,0,0,0,0,0,22,30,14,27,20,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,1,PS (I-V),1,Department of Education,Rural,3,0,0,10,9,9,9,21,0,0,0,0,0,0,0,7,11,11,13,16,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,1,PS (I-V),1,Department of Education,Rural,3,0,0,3,3,7,16,14,0,0,0,0,0,0,0,8,9,12,15,17,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,1,PS (I-V),1,Department of Education,Rural,3,0,0,7,7,6,7,2,0,0,0,0,0,0,0,6,4,3,8,7,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,1,PS (I-V),1,Department of Education,Rural,3,0,0,10,8,4,6,13,0,0,0,0,0,0,0,14,9,7,7,1,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,1,PS (I-V),1,Department of Education,Rural,3,0,0,20,33,45,45,43,0,0,0,0,0,0,0,21,22,38,51,31,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,1,PS (I-V),1,Department of Education,Rural,3,0,0,23,15,14,12,19,0,0,0,0,0,0,0,18,6,13,5,10,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,1,PS (I-V),1,Department of Education,Urban,3,0,0,1,2,2,3,4,0,0,0,0,0,0,0,4,8,0,4,3,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,1,PS (I-V),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,1,3,4,1,4,0,0,0,0,0,0,0,1,4,5,4,8,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,30,22,13,14,8,0,0,0,0,0,0,0,13,13,2,5,6,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,1,1,0,0,1,0,0,0,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,5,1,8,5,16,0,4,3,0,0,0,0,1,1,2,10,7,0,0,3,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,8,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,22,22,23,20,10,0,0,0,0,0,0,0,13,6,10,7,6,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,7,8,4,7,12,0,0,0,0,0,0,0,2,2,2,2,14,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,2,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,13,8,14,9,8,0,0,0,0,0,0,0,7,8,14,12,6,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,6,8,9,4,8,0,1,3,4,4,10,5,3,3,7,4,11,3,3,1,14,5,8,4,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,2,3,4,7,0,0,0,0,0,0,0,0,3,2,4,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,2,5,1,9,3,0,0,0,0,0,0,0,3,3,6,4,3,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,11,15,8,9,18,1,2,0,0,0,0,0,11,14,8,11,12,3,0,1,0,1,0,2,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,4,0,0,2,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,2,1,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,1,PS (I-V),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,1,PS (I-V),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,1,PS (I-V),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,1,PS (I-V),98,Madarsa unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,6,SS (I-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,5,2,0,0,1,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,1,1,0,0,0,0,4,1,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,6,SS (I-X),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,3,1,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,1,0,0,2,1,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,6,2,0,0,0,0,0,0,0,0,0,0,4,3,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,3,2,0,1,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,8,SS (IX-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,3,4,3,0,0,0,0,0,0,0,0,0,2,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,12,17,40,18,68,0,0,0,0,0,0,0,6,4,8,6,23,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,2,UPS (I-VIII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,1,5,3,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,4,0,0,0,0,1,0,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,3,1,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,3,3,7,13,9,0,2,11,0,0,0,0,4,4,2,6,5,1,4,5,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,1,0,1,4,4,2,6,2,0,5,0,7,0,0,4,0,1,1,2,0,1,0,0,5,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,9,38,37,0,0,0,0,0,0,0,0,0,13,32,30,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,22,21,17,0,0,0,0,0,0,0,0,0,28,18,15,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,4,2,5,0,0,0,0,0,0,0,0,0,7,5,14,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,6,9,10,0,0,0,0,0,0,0,0,0,5,6,4,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,4,4,8,0,0,0,0,0,0,0,0,0,4,6,2,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,1,8,8,0,0,0,0,0,0,0,0,0,11,9,8,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,4,13,1,0,0,0,0,0,0,0,0,0,4,2,1,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,4,UPS (VI-VIII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,2,3,0,1,3,0,1,0,0,0,0,0,4,0,0,4,2,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,4,6,1,0,0,0,0,0,0,0,0,0,1,7,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,2,1,2,2,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,7,2,9,22,1,1,0,0,0,0,0,0,6,5,3,23,10,1,2,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,1,0,0,13,9,7,8,0,0,0,0,0,1,4,0,4,2,0,2,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,2,1,9,0,0,0,0,0,0,0,0,0,6,7,1,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,1,0,0,4,1,2,4,2,0,0,0,0,0,0,0,1,1,3,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,2,2,2,0,0,0,0,0,0,0,1,0,0,0,9,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,4,9,3,1,1,0,2,0,0,0,0,0,3,4,4,0,1,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,4,UPS (VI-VIII),7,Central Govt,Rural,3,0,0,0,0,0,0,0,6,6,1,5,3,4,2,0,0,0,0,0,0,0,2,1,0,1,1,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,3,HSS (I-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,9,4,8,23,32,32,19,21,23,34,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,3,HSS (I-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,12,9,18,68,87,93,164,177,156,115,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,3,HSS (I-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,9,10,22,14,10,16,25,46,39,29,27,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,3,HSS (I-XII),1,Department of Education,Urban,4,0,0,9,9,5,3,1,2,2,0,0,0,0,0,59,57,88,86,73,128,131,96,154,119,94,96,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,3,HSS (I-XII),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,12,8,10,10,10,10,5,8,4,7,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,3,HSS (I-XII),2,Tribal Welfare Department,Rural,4,0,0,0,13,10,17,11,18,19,6,6,9,0,2,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,3,HSS (I-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64,47,55,53,67,171,193,172,287,275,246,259,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,13,6,6,9,7,12,7,13,39,29,61,57,11,6,5,2,12,6,3,6,20,22,25,33,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,33,40,33,28,42,50,47,53,239,165,169,122,8,12,10,16,7,13,15,26,103,80,58,50,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,51,76,61,68,98,110,80,87,148,127,139,67,47,51,47,30,39,40,47,47,61,65,70,33,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,27,27,14,15,19,16,14,13,100,98,27,45,10,9,10,7,5,14,16,8,47,58,73,127,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,20,18,201,190,170,224,249,190,173,247,404,467,193,229,120,99,91,124,108,118,124,154,213,213,148,166,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,2,3,4,4,4,0,0,0,0,0,0,0,2,6,6,4,5,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,0,0,0,0,2,4,15,11,8,28,9,6,0,0,0,0,2,1,8,3,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,5,6,1,3,3,2,2,3,0,30,2,1,1,4,6,7,1,2,1,4,1,13,0,2,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,49,22,47,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,10,HSS (IX-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,163,140,307,218,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,199,207,110,121,0,0,0,0,0,0,0,0,211,328,167,339,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,40,64,57,100,133,119,174,0,0,0,0,0,43,54,65,181,263,268,269,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,157,172,76,66,0,0,0,0,0,0,0,0,245,201,416,274,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,9,9,11,499,554,485,502,0,0,0,0,0,10,11,16,482,477,612,563,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,92,100,114,214,320,186,211,0,0,0,0,0,90,69,102,255,286,214,269,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,132,159,55,66,0,0,0,0,0,0,0,0,176,195,95,100,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,22,15,3,0,0,0,0,0,0,0,0,0,24,28,2,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,64,83,14,22,0,0,0,0,0,0,0,0,40,83,33,25,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,33,44,64,382,382,250,224,0,0,0,0,0,23,32,29,320,281,287,279,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,146,172,109,83,0,0,0,0,0,0,0,0,169,187,197,146,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,44,54,7,7,0,0,0,0,0,0,0,0,46,66,57,47,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,4,0,0,6,5,4,4,17,20,8,20,291,312,295,261,7,1,3,2,12,10,9,5,346,333,412,437,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,10,HSS (IX-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,0,0,0,0,0,0,0,0,0,24,9,22,0,0,0,0,0,0,0,0,0,10,0,14,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,25,37,31,123,147,176,182,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,42,47,47,182,193,110,104,0,0,0,0,0,44,44,56,195,240,178,139,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,92,95,84,41,54,28,23,0,0,0,0,0,76,109,97,54,38,41,25,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,19,25,27,0,58,148,157,0,0,0,0,0,21,16,24,86,90,109,127,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,55,66,119,94,124,110,113,0,0,0,0,0,27,26,54,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,99,139,193,288,321,265,235,0,0,0,0,0,46,45,76,81,74,99,135,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,70,101,120,298,337,197,203,0,0,0,0,0,93,132,130,337,378,326,330,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,71,102,110,154,102,94,60,0,0,0,0,0,0,0,0,0,0,12,8,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,89,99,115,263,273,303,231,0,0,0,0,0,70,87,111,290,357,276,375,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,467,589,601,1125,1055,913,859,0,0,0,0,0,599,645,739,1161,1306,1247,1241,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,1,10,11,94,117,105,106,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,5,HSS (VI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,542,596,769,1456,1414,1101,1014,0,0,0,0,0,258,293,312,586,680,483,551,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,23,31,19,71,89,132,190,0,0,0,0,0,25,18,20,81,108,132,147,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,19,23,16,37,0,106,0,0,0,0,0,0,15,13,11,44,0,76,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,39,56,78,605,663,717,746,0,0,0,0,0,28,51,77,345,530,466,411,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,108,89,76,143,125,122,22,0,0,0,0,0,100,64,77,118,114,135,29,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,32,29,33,9,21,8,3,0,0,0,0,0,49,58,80,134,141,93,103,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,49,41,0,0,0,0,0,0,0,0,0,0,71,93,105,84,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,17,18,21,248,214,52,43,0,0,0,0,0,27,23,35,285,294,139,124,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,26,23,21,21,46,17,15,0,0,0,0,0,15,15,15,21,37,22,30,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,37,16,41,88,86,90,28,0,0,0,0,0,47,26,37,182,215,221,184,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,16,33,24,114,98,174,205,0,0,0,0,0,30,46,48,107,139,132,99,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,1,PS (I-V),1,Department of Education,Rural,4,0,0,197,276,273,311,305,0,0,0,0,0,0,0,236,319,337,328,348,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,1,PS (I-V),1,Department of Education,Rural,4,0,0,788,973,1041,1314,1180,0,0,0,0,0,0,0,756,920,966,1253,1167,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,1,PS (I-V),1,Department of Education,Rural,4,0,0,375,533,504,569,523,0,0,0,0,0,0,0,421,465,520,524,554,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,1,PS (I-V),1,Department of Education,Rural,4,0,0,555,628,669,726,680,0,0,0,0,0,0,0,620,655,659,747,825,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,1,PS (I-V),1,Department of Education,Rural,4,0,0,952,1106,1082,1262,1247,0,0,0,0,0,0,0,1002,1118,1131,1360,1364,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,1,PS (I-V),1,Department of Education,Rural,4,0,0,692,819,836,870,825,0,0,0,0,0,0,0,765,864,838,907,989,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,1,PS (I-V),1,Department of Education,Rural,4,0,0,345,347,346,398,398,0,0,0,0,0,0,0,378,415,400,453,415,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,1,PS (I-V),1,Department of Education,Rural,4,0,0,1295,1567,1577,1798,1718,0,0,0,0,0,0,0,1350,1613,1560,1929,1856,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,1,PS (I-V),1,Department of Education,Rural,4,0,0,712,990,945,1014,1003,0,0,0,0,0,0,0,805,982,958,1089,1102,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,1,PS (I-V),1,Department of Education,Rural,4,0,0,537,538,542,611,608,0,0,0,0,0,0,0,564,539,621,615,620,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,1,PS (I-V),1,Department of Education,Rural,4,0,0,304,401,363,415,439,0,0,0,0,0,0,0,309,434,391,422,471,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,1,PS (I-V),1,Department of Education,Rural,4,0,0,886,920,1029,1132,1026,0,0,0,0,0,0,0,954,1016,1181,1196,1117,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,1,PS (I-V),1,Department of Education,Urban,4,0,0,237,309,288,242,233,0,0,0,0,0,0,0,234,259,293,219,254,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,1,PS (I-V),4,Government Aided,Urban,4,0,0,25,38,35,56,35,47,39,20,0,0,0,0,15,8,23,16,19,28,23,15,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,94,121,87,102,143,12,4,6,0,0,0,0,72,86,95,80,103,12,10,11,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,264,218,222,207,273,13,12,16,0,0,0,0,210,165,169,154,185,24,16,15,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,23,8,231,215,263,274,272,0,0,0,0,0,0,0,164,173,173,158,174,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,311,276,302,346,397,26,38,37,0,0,0,0,257,198,209,241,317,25,18,31,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,514,397,453,415,501,33,18,12,0,0,0,0,379,305,330,306,325,13,12,7,159,188,199,249,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,17,19,321,357,386,368,380,0,0,0,0,0,0,0,273,289,286,311,348,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,245,230,225,245,278,0,0,0,0,0,0,0,190,197,170,194,208,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,311,371,390,346,371,0,0,0,0,0,0,0,250,258,280,265,315,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,29,28,395,415,416,421,630,0,0,0,0,0,0,0,342,312,343,359,449,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,232,241,231,248,309,42,46,44,210,247,399,424,209,169,189,204,255,29,44,40,490,397,415,294,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,151,150,150,147,139,0,0,0,0,0,0,0,102,94,81,105,113,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,12,10,299,265,256,266,267,0,0,0,0,0,0,0,208,197,214,192,172,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,1338,1175,1146,1181,1396,98,93,71,64,77,26,32,997,955,981,1004,1091,103,122,154,24,30,17,15,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,34,31,23,19,30,0,0,0,0,0,0,0,43,26,22,26,24,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,42,32,30,48,29,0,0,0,0,0,0,0,31,27,24,21,20,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,21,26,23,19,15,0,0,0,0,0,0,0,16,8,15,15,18,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,11,10,4,3,2,0,0,0,0,0,0,0,10,6,9,3,8,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,87,73,57,47,78,0,0,0,0,0,0,0,80,81,68,59,66,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,40,32,28,41,38,0,0,0,0,0,0,0,43,25,30,40,42,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,11,7,5,4,6,0,0,0,0,0,0,0,7,8,7,3,1,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,72,37,35,27,20,0,0,0,0,0,0,0,64,43,39,32,32,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,131,52,53,36,34,0,0,0,0,0,0,0,95,65,56,33,36,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,42,72,59,36,74,0,0,0,0,0,0,0,54,18,20,17,20,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,8,9,22,20,13,0,0,0,0,0,0,0,15,26,14,21,14,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,16,18,9,16,4,0,0,0,0,0,0,0,12,8,7,8,2,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,85,55,30,24,20,0,0,0,0,0,0,0,54,37,26,31,20,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,354,213,188,166,180,0,0,0,0,0,0,0,361,184,171,165,176,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,6,7,8,5,9,0,0,0,0,0,0,0,12,5,4,7,8,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,1,PS (I-V),98,Madarsa unrecognized,Rural,4,0,0,2,1,0,2,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,1,PS (I-V),98,Madarsa unrecognized,Rural,4,0,0,13,9,0,1,0,0,0,0,0,0,0,0,7,3,6,0,0,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,1,PS (I-V),98,Madarsa unrecognized,Rural,4,0,0,29,19,21,44,53,0,0,0,0,0,0,0,31,28,39,22,36,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,1,PS (I-V),98,Madarsa unrecognized,Urban,4,0,0,17,10,9,5,13,0,0,0,0,0,0,0,23,16,19,13,9,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,6,SS (I-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,39,40,57,57,57,49,39,41,24,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,8,2,3,2,4,0,0,0,33,22,22,23,6,3,1,0,1,0,0,0,26,28,27,37,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,24,13,20,17,25,23,20,15,22,29,0,0,10,8,1,6,6,11,14,14,20,13,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,119,154,0,0,0,0,0,0,0,0,0,0,66,70,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,37,39,32,28,40,23,61,54,37,43,0,0,14,19,21,20,32,22,41,53,74,76,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,0,0,17,10,13,11,11,19,7,11,54,28,0,0,14,9,13,6,9,9,4,10,25,15,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,10,12,9,11,12,10,13,28,30,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,20,19,17,21,22,27,9,9,25,20,0,0,18,16,15,13,9,15,9,16,22,22,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,6,7,9,6,7,8,4,4,5,12,0,0,13,8,3,9,6,5,8,5,5,13,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,6,SS (I-X),98,Madarsa unrecognized,Rural,4,0,0,18,8,18,18,20,12,7,12,4,31,0,0,12,15,19,25,16,9,13,8,18,14,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,1,5,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,27,40,0,0,0,0,0,0,0,0,0,0,20,29,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,21,16,0,0,0,0,0,0,0,0,0,0,21,8,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,13,15,0,0,0,0,0,0,0,0,0,0,28,28,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,26,54,0,0,0,0,0,0,0,0,0,0,35,89,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,4,5,0,0,0,0,0,0,0,0,0,0,20,10,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,59,54,0,0,0,0,0,0,0,0,0,0,46,38,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,72,46,0,0,0,0,0,0,0,0,0,0,66,79,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,9,2,0,0,0,0,0,0,0,0,0,0,28,21,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,9,8,0,0,0,0,0,0,0,0,0,0,11,24,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,12,14,0,0,0,0,0,0,0,0,0,0,22,30,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,153,167,42,51,0,0,0,0,0,0,0,0,130,168,43,67,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,5,32,16,79,116,0,0,0,0,0,0,0,14,21,30,104,111,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,71,55,0,0,0,0,0,0,0,0,0,0,108,62,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,12,23,1,435,445,21,20,0,0,0,0,0,14,20,1,322,284,76,65,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,12,7,0,0,0,0,0,0,0,0,0,0,5,13,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,3,8,0,0,0,0,0,0,0,0,0,0,3,1,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,15,14,13,138,99,5,14,0,0,0,0,0,10,5,6,127,133,27,18,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,15,15,14,176,229,11,26,0,0,0,0,0,11,11,17,99,125,19,17,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,14,46,0,0,0,0,0,0,0,0,0,0,14,13,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,68,88,0,0,0,0,0,0,0,0,0,0,117,83,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,8,SS (IX-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,157,130,53,33,0,0,0,0,0,0,0,0,79,63,31,25,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,8,SS (IX-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,0,0,0,0,0,0,0,0,14,16,0,0,0,0,0,0,0,0,0,0,6,18,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,26,38,26,27,0,0,0,0,0,0,0,0,18,15,9,1,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,9,25,7,24,29,0,0,0,0,0,0,0,36,66,32,27,21,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,41,89,86,27,24,0,0,0,0,0,0,0,38,37,45,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,42,26,32,84,73,0,0,0,0,0,0,0,30,9,23,82,63,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,3,1,1,28,38,0,0,0,0,0,0,0,0,1,1,22,28,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,27,32,38,199,316,0,0,0,0,0,0,0,30,22,16,137,176,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,22,9,15,17,12,0,0,0,0,0,0,0,23,15,9,16,11,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,7,5,6,25,0,0,0,0,0,0,0,0,6,7,7,10,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,110,51,91,62,0,0,0,0,0,0,0,0,60,54,39,30,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,15,10,28,102,155,78,101,0,0,0,0,0,11,16,16,99,138,119,108,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,2,8,7,3,1,0,0,0,0,0,0,0,8,3,4,8,3,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,42,41,27,41,91,0,0,0,0,0,0,0,37,20,21,16,91,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,4,0,0,0,0,2,0,0,0,0,0,0,10,0,0,0,0,1,6,4,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,35,11,13,14,12,8,21,39,0,0,0,0,36,19,17,14,26,15,15,15,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,44,56,62,64,69,73,70,61,0,0,0,0,46,57,46,44,55,64,64,60,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,2,UPS (I-VIII),4,Government Aided,Urban,4,0,0,23,17,21,25,16,28,19,18,0,0,0,0,25,14,20,12,14,9,13,18,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,29,27,32,27,29,27,11,15,0,0,0,0,23,24,21,20,21,14,21,5,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,24,34,11,25,21,27,25,19,5,7,5,5,13,14,11,7,8,13,9,15,6,1,1,3,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,17,13,5,7,16,14,11,16,15,16,0,0,0,0,3,9,3,9,5,4,6,6,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,56,28,18,15,22,22,9,12,0,0,0,0,24,9,14,3,9,5,7,3,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,36,20,133,100,74,91,79,75,53,43,0,0,0,0,102,69,55,71,41,38,31,31,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,91,83,75,66,71,59,83,56,0,0,0,0,33,61,58,44,43,58,45,60,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,58,53,51,53,41,51,46,44,12,12,0,0,35,30,24,26,31,32,24,31,54,55,53,46,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,41,26,91,83,92,93,86,133,128,104,0,0,0,0,66,82,70,83,64,76,73,85,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,24,23,24,27,17,19,14,18,12,6,0,0,0,0,17,12,14,14,3,3,2,2,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,23,21,149,101,149,125,166,156,171,201,0,0,0,0,116,93,116,120,138,112,137,157,177,157,192,180,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,34,25,296,230,278,248,312,335,293,270,10,27,0,0,208,192,194,192,227,229,227,198,15,8,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,15,13,7,2,2,5,0,3,0,0,0,0,9,5,3,1,0,0,0,0,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,7,10,7,5,7,8,6,7,0,0,0,0,5,2,5,7,5,4,6,5,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,47,43,36,42,49,54,34,37,0,0,0,0,40,22,34,25,29,30,20,34,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,2,3,3,2,1,10,6,10,0,0,0,0,1,0,7,3,0,10,12,9,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,25,33,26,31,29,45,24,25,0,0,0,0,20,18,27,31,36,27,37,25,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,9,6,1,5,4,3,0,0,0,0,0,0,7,5,7,4,7,1,0,5,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,5,4,4,10,8,13,12,13,0,0,0,0,3,1,3,10,12,9,6,13,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,33,25,33,27,23,34,41,34,0,0,0,0,40,32,32,23,27,79,47,26,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,38,39,48,43,38,48,53,28,0,0,0,0,33,33,37,34,38,48,71,42,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,4,0,0,4,11,7,11,11,18,7,9,0,0,0,0,11,2,9,13,9,15,17,17,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,148,169,215,0,0,0,0,0,0,0,0,0,194,216,222,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,484,583,587,0,0,0,0,0,0,0,0,0,540,592,549,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,238,229,296,0,0,0,0,0,0,0,0,0,282,292,318,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,295,311,322,0,0,0,0,0,0,0,0,0,355,363,411,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,628,600,659,0,0,0,0,0,0,0,0,0,644,690,759,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,383,459,397,0,0,0,0,0,0,0,0,0,490,540,542,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,198,179,178,0,0,0,0,0,0,0,0,0,237,289,258,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,782,901,833,0,0,0,0,0,0,0,0,0,854,963,933,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,314,372,334,0,0,0,0,0,0,0,0,0,272,288,286,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,310,296,257,0,0,0,0,0,0,0,0,0,336,327,368,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,217,197,181,0,0,0,0,0,0,0,0,0,259,259,254,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,529,531,502,0,0,0,0,0,0,0,0,0,706,680,797,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,25,22,16,0,0,0,0,0,0,0,0,0,57,71,60,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,27,32,42,0,0,0,0,0,0,0,0,0,28,22,37,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,19,25,14,0,0,0,0,0,0,0,0,0,18,23,12,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,28,14,28,0,0,0,0,0,0,0,0,0,24,21,16,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,95,149,170,0,0,0,0,0,0,0,0,0,110,105,97,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,19,24,31,0,0,0,0,0,0,0,0,0,52,58,54,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,118,122,180,0,0,0,0,0,0,0,0,0,118,115,137,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,4,UPS (VI-VIII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,91,132,106,0,0,0,0,0,0,0,0,0,71,68,93,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,82,125,77,150,111,134,103,0,0,0,0,0,78,88,60,131,91,117,90,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,228,242,252,117,178,51,48,0,0,0,0,0,136,151,184,128,161,65,62,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,181,209,206,121,213,17,47,0,0,0,0,0,123,134,153,150,170,102,105,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,236,179,358,188,105,38,27,0,0,0,0,0,164,133,290,157,169,60,106,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,11,10,5,4,1,301,343,452,579,686,733,603,21,15,10,9,25,283,319,320,346,433,294,302,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,47,54,50,65,55,251,184,229,0,0,0,0,38,51,39,47,33,195,190,221,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,135,140,131,0,0,0,0,0,0,0,0,0,139,122,90,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,184,176,242,0,0,0,0,0,0,0,0,0,168,199,233,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,8,6,5,10,10,222,217,221,0,0,0,0,10,4,4,3,12,165,180,145,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,26,6,21,17,11,124,126,146,71,42,0,0,10,3,12,10,14,79,100,109,22,9,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,69,81,117,70,74,0,0,0,0,0,0,0,81,78,92,96,88,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,54,51,32,41,62,57,56,0,0,0,0,0,44,42,45,7,10,31,21,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,708,740,769,131,187,25,41,0,0,0,0,0,689,542,700,73,54,47,61,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,4,UPS (VI-VIII),7,Central Govt,Rural,4,0,0,0,0,0,0,0,22,22,17,27,22,16,21,0,0,0,0,0,16,19,17,15,16,20,18,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,0,0,0,0,0,20,21,24,0,0,0,0,0,0,0,0,0,9,24,28,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,13,7,11,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,0,0,0,0,0,49,36,2,0,0,0,0,0,0,0,0,0,27,12,11,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,0,0,0,0,0,105,46,50,0,0,0,0,0,0,0,0,0,122,91,81,0,0,0,0,OBC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,3,HSS (I-XII),1,Department of Education,Rural,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,3,4,0,0,1,8,9,12,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,3,HSS (I-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,8,10,9,10,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,3,HSS (I-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2,1,4,3,12,5,4,3,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,3,HSS (I-XII),1,Department of Education,Urban,1,0,0,3,1,2,0,2,0,1,0,0,0,0,0,9,5,5,11,12,18,14,17,15,14,20,20,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,3,HSS (I-XII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,1,0,6,1,1,1,0,1,1,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,3,HSS (I-XII),2,Tribal Welfare Department,Rural,1,0,0,0,0,1,2,3,2,1,5,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,3,HSS (I-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6,10,7,6,17,23,32,72,61,62,62,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,1,0,2,0,1,0,0,12,11,17,17,0,0,0,0,1,1,0,0,0,3,13,4,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,73,45,52,49,63,70,68,68,261,210,211,172,34,20,18,8,16,24,24,23,159,94,100,67,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,8,8,13,7,14,6,9,12,40,57,23,10,9,4,6,2,5,5,8,12,21,29,16,11,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,12,15,13,7,5,12,7,11,40,49,31,30,9,6,4,10,5,5,2,3,35,33,16,35,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,40,19,229,254,259,276,315,289,325,349,370,339,299,277,117,133,153,160,155,170,192,150,211,161,177,208,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,7,9,2,1,0,0,0,0,2,1,1,1,0,2,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,11,11,3,9,4,4,4,0,8,12,6,4,14,6,14,6,4,4,4,7,21,6,10,13,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,27,21,29,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,10,HSS (IX-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,20,18,28,34,0,0,0,0,0,0,0,0,1,6,2,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,78,109,54,73,0,0,0,0,0,0,0,0,83,129,107,145,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,9,8,2,27,34,32,54,0,0,0,0,0,12,3,7,39,52,81,79,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,59,25,18,10,0,0,0,0,0,0,0,0,107,71,87,137,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,2,1,3,115,140,109,114,0,0,0,0,0,3,7,12,123,147,129,168,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,8,7,9,15,17,14,24,0,0,0,0,0,8,5,4,8,22,10,29,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,51,69,26,33,0,0,0,0,0,0,0,0,38,56,37,40,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,6,5,0,0,0,0,0,0,0,0,0,0,0,3,1,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,20,19,12,105,90,69,61,0,0,0,0,0,15,23,21,78,76,65,84,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,11,19,9,10,0,0,0,0,0,0,0,0,21,23,20,24,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,8,12,2,5,0,0,0,0,0,0,0,0,27,37,10,18,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,1,0,0,2,5,9,6,7,9,18,20,89,75,101,136,4,5,3,4,11,9,12,16,173,163,217,220,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,10,HSS (IX-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,6,3,3,0,0,0,0,0,0,0,0,0,1,0,12,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,3,5,5,7,15,38,40,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,4,7,11,43,34,46,17,0,0,0,0,0,8,12,10,53,33,61,52,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,19,28,29,16,28,6,14,0,0,0,0,0,25,29,22,22,82,37,58,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,7,18,15,0,62,120,97,0,0,0,0,0,5,6,15,81,39,88,109,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,8,14,24,44,34,45,48,0,0,0,0,0,6,8,16,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,47,76,111,197,208,210,226,0,0,0,0,0,21,50,53,78,90,87,72,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,8,2,10,30,26,30,18,0,0,0,0,0,6,5,9,33,34,29,31,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,5,6,11,29,23,46,21,0,0,0,0,0,0,0,0,0,0,10,4,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,3,2,10,23,28,18,18,0,0,0,0,0,2,1,6,27,26,25,34,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,12,17,22,65,52,75,67,0,0,0,0,0,22,27,42,84,92,101,121,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,16,29,21,41,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,5,HSS (VI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,64,86,103,274,266,323,267,0,0,0,0,0,16,19,26,56,69,65,63,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,6,4,5,13,19,25,33,0,0,0,0,0,2,3,4,14,20,38,31,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,2,6,1,5,0,13,0,0,0,0,0,0,6,1,0,1,0,13,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,3,17,18,123,148,139,182,0,0,0,0,0,19,16,18,107,119,123,126,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,3,3,3,3,9,15,3,0,0,0,0,0,5,7,7,6,10,10,2,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,14,7,19,11,4,8,3,0,0,0,0,0,16,20,18,34,25,39,16,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,4,7,0,0,0,0,0,0,0,0,0,0,10,9,13,11,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,1,1,2,13,8,1,0,0,0,0,0,0,2,2,4,20,6,9,4,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,5,5,5,6,7,1,1,0,0,0,0,0,5,6,3,5,6,5,3,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,9,2,3,15,12,5,8,0,0,0,0,0,14,1,15,33,38,43,57,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,6,5,0,15,14,44,109,0,0,0,0,0,3,5,14,9,10,24,22,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,1,PS (I-V),1,Department of Education,Rural,1,0,0,24,24,43,36,41,0,0,0,0,0,0,0,33,26,29,34,50,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,1,PS (I-V),1,Department of Education,Rural,1,0,0,187,231,202,338,298,0,0,0,0,0,0,0,172,238,240,296,321,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,1,PS (I-V),1,Department of Education,Rural,1,0,0,99,95,108,139,140,0,0,0,0,0,0,0,104,101,136,147,127,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,1,PS (I-V),1,Department of Education,Rural,1,0,0,83,85,117,113,98,0,0,0,0,0,0,0,84,84,94,116,116,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,1,PS (I-V),1,Department of Education,Rural,1,0,0,172,193,200,267,271,0,0,0,0,0,0,0,154,206,222,285,312,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,1,PS (I-V),1,Department of Education,Rural,1,0,0,48,50,52,39,47,0,0,0,0,0,0,0,44,47,40,56,46,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,1,PS (I-V),1,Department of Education,Rural,1,0,0,59,63,84,78,67,0,0,0,0,0,0,0,70,71,60,64,77,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,1,PS (I-V),1,Department of Education,Rural,1,0,0,32,51,45,49,63,0,0,0,0,0,0,0,32,66,48,64,69,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,1,PS (I-V),1,Department of Education,Rural,1,0,0,35,26,32,34,49,0,0,0,0,0,0,0,25,32,27,43,55,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,1,PS (I-V),1,Department of Education,Rural,1,0,0,58,69,79,70,86,0,0,0,0,0,0,0,79,84,87,79,91,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,1,PS (I-V),1,Department of Education,Rural,1,0,0,42,42,51,62,56,0,0,0,0,0,0,0,26,44,51,56,53,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,1,PS (I-V),1,Department of Education,Rural,1,0,0,62,89,78,100,119,0,0,0,0,0,0,0,79,107,95,112,127,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,1,PS (I-V),1,Department of Education,Urban,1,0,0,13,15,19,18,26,0,0,0,0,0,0,0,14,15,13,16,12,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,1,PS (I-V),4,Government Aided,Urban,1,0,0,2,7,9,3,0,1,0,1,0,0,0,0,1,1,1,0,2,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,26,15,34,38,35,0,0,0,0,0,0,0,14,22,25,32,22,1,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,92,67,69,87,122,0,1,1,0,0,0,0,78,56,70,82,80,1,1,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,21,6,83,53,72,67,83,0,0,0,0,0,0,0,58,55,48,48,67,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,69,56,53,65,85,10,8,11,0,0,0,0,57,43,44,45,70,5,15,9,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,136,119,126,142,198,21,7,15,0,0,0,0,153,119,115,147,179,18,8,10,97,91,107,130,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,16,26,25,30,21,0,0,0,0,0,0,0,24,26,14,19,30,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,56,74,67,68,61,0,0,0,0,0,0,0,47,48,51,56,69,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,25,24,16,28,29,0,0,0,0,0,0,0,18,12,12,23,22,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,6,3,32,16,35,37,31,0,0,0,0,0,0,0,18,18,21,31,23,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,53,64,53,40,61,11,9,12,53,25,76,66,51,37,38,45,61,6,9,14,104,101,102,59,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,41,29,27,33,27,0,0,0,0,0,0,0,19,25,9,17,22,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,78,55,54,67,67,0,0,0,0,0,0,0,56,65,59,49,53,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,386,361,355,348,395,12,19,5,7,6,2,7,313,324,308,342,324,17,23,34,5,4,9,4,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,4,3,2,0,3,0,0,0,0,0,0,0,5,1,1,2,3,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,6,5,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,1,3,3,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,12,9,12,3,5,0,0,0,0,0,0,0,19,9,4,29,22,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,3,1,1,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,11,5,10,2,2,0,0,0,0,0,0,0,9,10,10,8,3,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,2,2,1,2,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,31,15,8,3,6,0,0,0,0,0,0,0,22,11,8,8,9,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,40,15,18,9,13,0,0,0,0,0,0,0,24,14,13,14,4,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,1,PS (I-V),98,Madarsa unrecognized,Rural,1,0,0,7,4,4,5,3,0,0,0,0,0,0,0,2,2,6,0,1,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,1,PS (I-V),98,Madarsa unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,1,PS (I-V),98,Madarsa unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,1,PS (I-V),98,Madarsa unrecognized,Urban,1,0,0,6,3,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,6,SS (I-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,3,2,2,4,4,6,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,11,6,3,9,6,0,0,0,26,28,14,21,4,9,9,9,9,0,0,0,23,60,27,46,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,17,21,13,15,15,16,8,16,2,7,0,0,6,11,12,7,10,7,8,10,4,5,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,2,16,0,0,0,0,0,0,0,0,0,0,6,2,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,3,1,1,2,5,2,2,3,0,0,2,1,0,0,1,2,0,5,2,1,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,0,0,29,31,29,24,13,29,16,10,39,16,0,0,15,18,20,14,14,14,14,11,13,6,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,4,2,2,1,2,1,0,0,0,0,0,0,2,1,2,2,0,0,1,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,4,0,2,0,0,0,0,0,0,3,0,0,5,0,1,0,0,0,0,0,0,7,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,6,SS (I-X),98,Madarsa unrecognized,Rural,1,0,0,0,0,4,0,0,1,1,1,0,2,0,0,0,4,4,0,2,1,1,2,0,1,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,11,14,0,0,0,0,0,0,0,0,0,0,7,14,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,9,4,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,3,3,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,9,6,0,0,0,0,0,0,0,0,0,0,4,10,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,19,14,0,0,0,0,0,0,0,0,0,0,11,20,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,16,2,0,0,0,0,0,0,0,0,0,0,17,6,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,2,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,2,1,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,4,4,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,83,85,21,16,0,0,0,0,0,0,0,0,69,73,25,27,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,2,2,6,33,66,0,0,0,0,0,0,0,1,5,1,47,49,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,6,2,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,7,5,1,90,122,9,6,0,0,0,0,0,5,3,0,89,138,27,29,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,3,3,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,8,7,0,0,0,0,0,0,0,0,0,0,8,10,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,1,0,0,7,5,1,1,0,0,0,0,0,1,0,0,6,16,0,2,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,4,5,2,44,44,12,5,0,0,0,0,0,6,4,1,32,44,7,1,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,3,3,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,32,35,0,0,0,0,0,0,0,0,0,0,50,35,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,8,SS (IX-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,18,30,6,6,0,0,0,0,0,0,0,0,5,7,2,4,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,8,SS (IX-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,3,9,0,0,0,0,0,0,0,0,0,0,0,4,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,3,4,11,14,0,0,0,0,0,0,0,0,5,0,0,2,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,2,0,2,0,3,0,0,0,0,0,0,0,4,1,3,1,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,1,8,5,2,2,0,0,0,0,0,0,0,5,12,5,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,15,3,12,15,17,0,0,0,0,0,0,0,8,8,6,18,10,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,1,0,2,6,9,0,0,0,0,0,0,0,0,0,0,10,7,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,4,4,5,46,48,0,0,0,0,0,0,0,6,7,1,23,40,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,6,2,1,2,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,2,0,0,5,0,0,0,0,0,0,0,0,0,2,0,6,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,29,9,25,7,0,0,0,0,0,0,0,0,20,9,16,2,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,1,1,4,22,18,28,16,0,0,0,0,0,0,0,5,12,25,18,23,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,2,9,3,3,7,0,0,0,0,0,0,0,3,5,10,6,3,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,10,12,19,18,32,0,0,0,0,0,0,0,5,5,5,3,16,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,0,0,0,1,1,0,0,7,0,0,0,0,0,0,2,3,3,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,2,UPS (I-VIII),4,Government Aided,Urban,1,0,0,8,6,1,1,6,3,5,3,0,0,0,0,2,4,0,1,4,0,3,1,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,5,2,3,5,8,7,3,4,0,0,0,0,8,4,3,6,6,8,1,2,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,36,33,36,50,36,48,21,39,13,45,11,18,17,15,13,23,12,23,10,25,3,12,6,14,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,19,15,17,11,11,6,15,14,16,16,0,0,0,0,11,5,7,4,3,7,5,1,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,65,31,20,23,35,32,14,13,0,0,0,0,23,19,14,6,10,13,7,4,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,1,1,11,3,6,9,5,3,3,2,0,0,0,0,7,2,4,4,1,3,1,1,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,39,35,18,37,19,25,23,11,0,0,0,0,31,20,24,18,15,13,11,16,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,37,24,40,25,33,22,32,26,0,1,0,0,8,14,13,13,14,8,14,17,2,1,2,4,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,7,3,4,0,2,2,6,5,1,5,0,0,0,0,3,1,5,5,2,6,3,4,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,11,13,14,28,18,18,16,19,7,9,0,0,0,0,22,10,13,9,10,12,6,2,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,16,12,49,65,69,44,55,46,60,47,0,0,0,0,46,50,38,40,28,40,32,35,24,16,16,14,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,34,25,141,121,113,146,127,140,120,108,5,2,0,0,87,81,89,89,86,71,75,52,2,1,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,6,18,19,29,19,21,31,37,0,0,0,0,20,18,13,5,7,29,28,30,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,7,2,3,3,4,2,4,2,0,0,0,0,10,3,2,0,3,3,2,1,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,3,0,1,0,2,2,0,0,0,0,0,0,1,0,2,3,1,2,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,5,3,5,4,10,6,2,2,0,0,0,0,6,3,4,4,3,9,1,3,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,13,16,25,0,0,0,0,0,0,0,0,0,22,23,25,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,125,127,131,0,0,0,0,0,0,0,0,0,139,158,167,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,52,89,89,0,0,0,0,0,0,0,0,0,59,85,72,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,43,38,34,0,0,0,0,0,0,0,0,0,60,64,62,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,115,113,155,0,0,0,0,0,0,0,0,0,143,142,186,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,17,17,16,0,0,0,0,0,0,0,0,0,26,18,22,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,56,79,57,0,0,0,0,0,0,0,0,0,52,82,74,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,31,33,32,0,0,0,0,0,0,0,0,0,42,39,50,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,11,19,12,0,0,0,0,0,0,0,0,0,15,13,5,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,27,38,39,0,0,0,0,0,0,0,0,0,39,52,50,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,28,32,34,0,0,0,0,0,0,0,0,0,35,20,33,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,30,41,50,0,0,0,0,0,0,0,0,0,76,85,76,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,0,0,0,0,4,3,6,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,20,17,21,0,0,0,0,0,0,0,0,0,12,12,18,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,3,6,8,0,0,0,0,0,0,0,0,0,1,6,4,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,5,10,14,0,0,0,0,0,0,0,0,0,9,13,15,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,4,UPS (VI-VIII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,8,7,10,0,0,0,0,0,0,0,0,0,4,7,10,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,24,17,20,16,23,11,13,0,0,0,0,0,19,15,31,19,19,10,11,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,91,77,76,42,51,40,28,0,0,0,0,0,62,82,89,51,55,59,37,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,83,69,67,52,52,2,7,0,0,0,0,0,51,45,65,52,27,18,16,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,65,53,63,127,107,33,12,0,0,0,0,0,59,48,66,70,45,11,14,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,9,3,4,6,2,114,134,134,96,81,116,122,7,11,9,20,13,139,123,159,53,84,75,50,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,6,3,9,4,2,19,16,20,0,0,0,0,5,4,5,6,8,21,16,19,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,54,56,40,0,0,0,0,0,0,0,0,0,41,25,38,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,9,6,17,0,0,0,0,0,0,0,0,0,7,7,18,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,3,4,7,4,5,15,20,27,0,0,0,0,4,4,8,8,9,28,19,8,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,3,1,1,1,1,33,44,31,17,10,0,0,2,2,1,1,0,26,30,38,2,1,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,3,13,10,11,8,0,0,0,0,0,0,0,7,12,12,2,8,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,22,22,14,10,17,18,15,0,0,0,0,0,17,15,14,4,7,4,4,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,240,215,276,27,19,7,3,0,0,0,0,0,194,188,231,9,11,8,7,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,4,UPS (VI-VIII),7,Central Govt,Rural,1,0,0,0,0,0,0,0,3,4,6,4,9,9,6,0,0,0,0,0,5,4,3,8,5,5,4,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,1,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,4,6,13,0,0,0,0,0,0,0,0,0,5,9,5,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,General
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,3,HSS (I-XII),1,Department of Education,Rural,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,4,7,4,7,4,5,1,14,23,8,11,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,3,HSS (I-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,2,21,19,16,43,35,28,24,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,3,HSS (I-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,4,2,3,10,12,7,12,31,24,23,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,3,HSS (I-XII),1,Department of Education,Urban,2,0,0,1,5,4,3,3,2,6,0,0,0,0,0,8,14,19,17,19,28,23,24,17,23,23,17,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,3,HSS (I-XII),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,31,29,28,32,25,26,30,32,27,20,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,3,HSS (I-XII),2,Tribal Welfare Department,Rural,2,0,0,0,28,32,23,26,40,24,27,16,21,17,9,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,3,HSS (I-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,18,9,8,10,30,44,53,47,54,45,53,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,11,11,6,9,7,5,9,3,16,17,36,23,6,11,3,3,2,5,0,2,6,11,9,10,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,6,6,0,5,3,15,10,14,76,36,50,41,6,1,0,3,1,5,7,14,32,16,7,17,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,17,19,31,32,11,20,9,13,29,29,29,24,6,17,15,16,14,5,7,12,15,28,9,11,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,6,5,7,3,4,7,1,5,30,23,16,0,1,3,6,0,0,2,0,2,58,31,9,35,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,1,7,27,33,31,19,13,27,8,20,41,33,25,22,16,13,19,13,17,15,14,13,28,19,23,16,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,59,15,27,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,10,HSS (IX-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,23,34,48,46,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,141,203,58,65,0,0,0,0,0,0,0,0,106,212,88,93,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,29,17,18,66,85,59,68,0,0,0,0,0,16,11,9,98,169,142,108,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,102,62,39,18,0,0,0,0,0,0,0,0,141,134,135,105,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,3,0,1,100,157,63,99,0,0,0,0,0,8,6,3,136,207,110,87,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,42,16,37,125,145,81,84,0,0,0,0,0,28,19,22,109,149,98,80,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,55,70,36,41,0,0,0,0,0,0,0,0,71,69,32,39,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,4,5,2,0,0,0,0,0,0,0,0,0,7,10,1,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,7,10,1,3,0,0,0,0,0,0,0,0,11,4,0,9,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,14,8,17,150,179,90,78,0,0,0,0,0,11,14,13,121,157,99,108,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,150,189,75,82,0,0,0,0,0,0,0,0,170,242,130,143,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,13,18,0,3,0,0,0,0,0,0,0,0,32,53,16,15,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,0,0,1,1,0,2,1,13,4,11,74,91,72,64,0,2,0,0,2,0,2,5,90,70,106,75,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,10,HSS (IX-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,8,7,7,27,27,66,55,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,7,11,12,79,94,41,44,0,0,0,0,0,14,21,18,80,58,71,35,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,49,112,126,62,73,21,13,0,0,0,0,0,56,88,107,66,98,42,18,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,43,57,67,0,66,143,109,0,0,0,0,0,60,53,41,184,180,103,135,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,44,63,76,68,93,51,65,0,0,0,0,0,34,26,33,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,78,67,106,166,162,139,77,0,0,0,0,0,32,24,36,47,36,31,34,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,121,117,136,204,245,97,53,0,0,0,0,0,115,103,121,232,309,156,158,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,40,42,30,65,26,28,10,0,0,0,0,0,0,0,0,0,0,5,1,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,11,8,16,49,62,17,23,0,0,0,0,0,15,7,14,43,62,38,36,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,184,168,192,277,298,194,180,0,0,0,0,0,225,213,190,341,341,236,217,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,3,2,6,68,48,61,37,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,5,HSS (VI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,174,184,189,395,363,300,238,0,0,0,0,0,74,51,83,189,159,83,83,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,32,15,13,58,94,45,65,0,0,0,0,0,15,7,14,35,95,61,52,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,16,35,9,10,0,38,0,0,0,0,0,0,8,34,9,11,0,19,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,11,10,11,157,222,179,272,0,0,0,0,0,11,8,17,78,157,119,93,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,16,20,17,32,55,24,10,0,0,0,0,0,18,22,8,38,49,39,8,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,11,13,11,10,7,5,1,0,0,0,0,0,22,32,17,45,46,26,26,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,25,7,0,0,0,0,0,0,0,0,0,0,31,23,13,11,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,5,3,2,15,21,2,3,0,0,0,0,0,5,4,6,33,31,24,18,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,6,14,6,17,36,11,6,0,0,0,0,0,3,4,5,11,22,8,8,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,17,5,8,28,39,16,1,0,0,0,0,0,21,7,16,57,73,46,33,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,6,3,7,19,18,43,37,0,0,0,0,0,8,15,20,51,19,30,31,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96901,SEEKHAR,1,PS (I-V),1,Department of Education,Rural,2,0,0,148,172,171,170,199,0,0,0,0,0,0,0,157,196,210,203,233,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96902,HALIA,1,PS (I-V),1,Department of Education,Rural,2,0,0,1361,1774,1748,2317,1848,0,0,0,0,0,0,0,1265,1584,1658,2069,1717,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96903,LALGANJ,1,PS (I-V),1,Department of Education,Rural,2,0,0,783,864,895,977,928,0,0,0,0,0,0,0,710,831,884,894,896,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96904,PAHARI,1,PS (I-V),1,Department of Education,Rural,2,0,0,531,588,556,648,715,0,0,0,0,0,0,0,552,580,514,637,675,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96905,CHHANBEY,1,PS (I-V),1,Department of Education,Rural,2,0,0,576,586,609,713,755,0,0,0,0,0,0,0,600,644,656,667,745,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96906,RAJGARH,1,PS (I-V),1,Department of Education,Rural,2,0,0,933,998,938,1087,1215,0,0,0,0,0,0,0,851,1007,995,1082,1154,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96907,KONE,1,PS (I-V),1,Department of Education,Rural,2,0,0,360,351,343,382,339,0,0,0,0,0,0,0,342,390,398,337,340,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96908,JAMALPUR,1,PS (I-V),1,Department of Education,Rural,2,0,0,434,550,545,535,545,0,0,0,0,0,0,0,458,595,468,541,524,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96909,NARAYANPUR,1,PS (I-V),1,Department of Education,Rural,2,0,0,465,512,562,560,547,0,0,0,0,0,0,0,471,542,542,605,618,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96910,MAJHAWA,1,PS (I-V),1,Department of Education,Rural,2,0,0,411,403,448,436,428,0,0,0,0,0,0,0,370,365,446,447,426,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96911,MARIHAN,1,PS (I-V),1,Department of Education,Rural,2,0,0,924,1149,1146,1315,1346,0,0,0,0,0,0,0,975,1114,1203,1302,1293,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96914,NAGAR,1,PS (I-V),1,Department of Education,Rural,2,0,0,747,760,766,852,748,0,0,0,0,0,0,0,782,817,761,777,845,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,1,PS (I-V),1,Department of Education,Urban,2,0,0,109,128,128,118,90,0,0,0,0,0,0,0,120,126,111,107,106,0,0,0,0,0,0,0,SC
+2016-17,9,Uttar Pradesh,969,MIRZAPUR,96913,NAGAR PALIKA,1,PS (I-V),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC

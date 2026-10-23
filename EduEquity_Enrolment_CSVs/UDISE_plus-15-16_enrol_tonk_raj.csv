@@ -1,0 +1,605 @@
+ac_year,state_code,state_name,district_code,district_name,block_code,block_name,sch_category_id,category_name,sch_mgmt_id,sch_mgmt_name,loc_name,caste_id,pre_primary_boys,pre_primary_girls,class_1_boys,class_2_boys,class_3_boys,class_4_boys,class_5_boys,class_6_boys,class_7_boys,class_8_boys,class_9_boys,class_10_boys,class_11_boys,class_12_boys,class_1_girls,class_2_girls,class_3_girls,class_4_girls,class_5_girls,class_6_girls,class_7_girls,class_8_girls,class_9_girls,class_10_girls,class_11_girls,class_12_girls,caste_name
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,7,SS (VI-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,3,HSS (I-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,3,HSS (I-XII),1,Department of Education,Rural,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,2,0,1,1,0,0,1,1,0,General
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,3,HSS (I-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,1,0,2,0,0,3,0,0,1,0,0,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,3,HSS (I-XII),1,Department of Education,Urban,1,0,0,1,0,2,4,1,7,5,7,10,2,4,0,4,1,0,1,2,6,3,5,22,6,9,3,General
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,3,HSS (I-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,2,1,1,5,62,57,1,2,1,2,5,8,7,12,2,9,32,56,General
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,3,HSS (I-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,2,3,15,11,0,0,0,0,0,0,0,0,0,1,15,15,General
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,3,HSS (I-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,7,3,23,13,0,0,0,0,0,0,0,0,0,0,6,6,General
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,3,HSS (I-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,2,0,2,10,9,0,0,0,0,0,0,0,0,0,0,6,8,General
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,23,19,14,20,20,15,21,30,32,35,60,78,75,114,7,14,19,14,16,15,12,28,34,44,63,99,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,16,7,9,9,6,8,11,8,10,25,13,27,17,21,5,6,12,6,10,8,12,12,8,22,21,24,General
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,31,17,12,6,16,4,5,8,7,12,15,16,14,19,5,4,5,7,2,5,6,4,9,19,12,22,General
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,1,0,0,1,0,0,2,5,3,4,3,7,9,19,2,2,3,3,2,2,5,5,2,4,5,10,General
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,23,17,6,11,11,11,9,14,8,15,17,31,23,22,21,8,13,14,7,13,4,9,14,25,16,19,General
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,3,0,2,4,4,6,2,4,4,10,13,14,7,5,3,1,1,4,4,1,3,8,5,12,4,4,General
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,31,31,22,10,18,25,28,19,28,28,55,56,25,24,17,15,13,13,12,21,22,25,46,54,35,32,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,70,86,107,103,101,118,133,166,154,190,316,320,445,490,81,108,73,98,98,117,118,152,217,281,318,301,General
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,69,45,24,35,33,28,40,54,59,58,83,96,65,96,17,27,26,33,29,33,46,37,45,63,57,48,General
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,2,3,3,4,2,5,6,8,11,11,15,21,2,0,0,2,3,5,4,10,5,11,13,17,2,3,General
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,3,8,0,3,2,3,0,5,1,1,4,4,12,7,3,2,3,2,2,1,3,6,1,4,4,5,General
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,4,6,4,6,1,10,13,14,9,4,14,41,23,50,4,4,1,2,6,3,5,6,10,10,18,21,General
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,3,HSS (I-XII),7,Central Govt,Rural,1,0,0,9,6,8,6,7,12,17,12,16,14,17,13,3,8,5,5,6,9,6,8,8,5,16,19,General
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,3,HSS (I-XII),7,Central Govt,Urban,1,0,0,12,17,10,21,22,35,34,39,18,33,29,24,12,14,7,8,14,21,17,25,19,18,20,22,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,1,6,2,2,0,0,0,0,0,0,0,0,2,2,9,5,General
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,1,2,0,8,8,2,6,1,0,0,0,0,0,2,0,11,4,4,9,General
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,1,0,0,0,1,0,2,0,7,9,15,10,1,1,1,1,1,0,0,0,11,16,10,23,General
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,4,7,52,45,0,0,0,0,0,0,0,0,3,8,41,50,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,6,2,5,4,1,4,0,3,3,10,16,11,2,6,2,2,14,7,7,10,16,15,17,17,General
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,10,HSS (IX-XII),1,Department of Education,Urban,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,10,15,27,General
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,11,18,General
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,1,2,2,1,0,0,0,0,0,0,0,0,1,5,1,6,General
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,20,35,24,38,0,0,0,0,0,0,0,0,28,14,23,37,General
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,1,4,1,6,0,0,0,0,0,0,0,0,1,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,4,1,1,1,0,1,2,4,12,22,22,23,6,0,1,1,0,1,9,6,15,14,28,33,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,2,3,4,2,4,7,4,7,6,18,21,31,2,1,2,1,1,3,6,3,22,16,28,46,General
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,10,4,4,5,12,18,15,24,51,24,25,25,1,3,7,6,10,8,13,16,38,32,49,55,General
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,5,0,1,2,2,1,5,5,14,13,14,17,6,5,1,2,1,6,2,7,15,26,29,28,General
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,2,0,0,4,0,5,10,9,7,13,22,19,2,3,1,1,0,1,2,3,8,8,28,22,General
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,1,2,2,4,2,2,1,6,7,6,9,6,1,1,1,1,0,1,0,0,2,6,15,12,General
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,3,6,General
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,5,HSS (VI-XII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,5,HSS (VI-XII),2,Tribal Welfare Department,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,1,2,0,2,3,7,8,0,0,0,0,0,0,1,1,2,3,3,3,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,5,HSS (VI-XII),7,Central Govt,Rural,1,0,0,0,0,0,0,0,5,7,7,3,6,4,2,0,0,0,0,0,2,2,3,3,2,4,7,General
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,1,PS (I-V),1,Department of Education,Rural,1,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,2,2,0,3,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,1,PS (I-V),1,Department of Education,Rural,1,0,0,1,2,2,0,0,0,0,0,0,0,0,0,3,4,5,1,2,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,1,PS (I-V),1,Department of Education,Rural,1,0,0,0,1,1,0,2,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,1,PS (I-V),1,Department of Education,Rural,1,0,0,2,1,1,0,0,0,0,0,0,0,0,0,1,4,2,1,0,1,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,1,PS (I-V),1,Department of Education,Rural,1,0,0,1,1,0,2,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,2,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,1,PS (I-V),1,Department of Education,Rural,1,0,0,2,1,0,0,4,1,2,0,0,0,0,0,1,3,2,1,0,1,1,3,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,1,PS (I-V),1,Department of Education,Urban,1,0,0,5,3,5,1,2,0,0,0,0,0,0,0,3,5,2,2,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,1,PS (I-V),1,Department of Education,Urban,1,0,0,6,3,7,6,4,0,0,0,0,0,0,0,5,6,5,8,3,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,1,PS (I-V),3,Local body,Rural,1,0,0,1,6,1,5,3,0,0,0,0,0,0,0,2,4,4,4,3,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,1,PS (I-V),3,Local body,Rural,1,0,0,2,2,1,6,3,0,0,0,0,0,0,0,5,2,2,3,2,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,1,PS (I-V),3,Local body,Rural,1,0,0,10,7,6,10,8,0,0,0,0,0,0,0,15,14,9,13,9,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,1,PS (I-V),3,Local body,Rural,1,0,0,4,2,1,3,4,0,0,0,0,0,0,0,3,5,1,6,4,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,1,PS (I-V),3,Local body,Rural,1,0,0,2,4,4,2,0,0,0,0,0,0,0,0,3,7,6,4,7,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,1,PS (I-V),3,Local body,Rural,1,0,0,3,3,2,1,3,0,0,0,0,0,0,0,5,7,8,2,8,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,23,25,19,23,14,18,17,10,11,10,2,5,0,0,16,17,15,5,6,11,6,4,6,3,0,0,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,25,19,27,10,17,28,21,26,19,6,0,0,0,0,22,7,25,20,22,15,15,3,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,27,16,20,18,15,17,12,3,2,4,0,0,0,0,10,7,10,12,9,3,1,3,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,9,4,3,0,2,0,1,0,1,0,0,0,0,0,0,0,2,0,3,0,2,1,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,6,8,10,5,0,3,6,3,1,1,0,0,0,0,3,2,4,2,4,0,0,1,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,3,2,7,9,9,3,4,8,0,0,0,0,0,0,6,3,3,6,7,5,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,32,27,14,9,8,7,5,0,0,0,0,0,0,0,15,8,6,6,2,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,179,164,69,64,71,62,45,26,17,20,0,0,0,0,79,64,47,58,29,26,14,26,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,6,8,3,2,2,2,4,5,1,4,4,0,2,2,1,4,2,4,3,3,2,2,1,5,2,3,General
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,1,3,3,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,49,46,17,15,11,11,10,0,0,0,0,0,0,0,17,14,8,4,10,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,24,14,7,2,2,0,0,0,0,0,0,0,13,14,8,1,2,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,12,11,7,4,1,0,0,0,0,0,0,0,6,7,5,2,1,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,6,7,8,3,10,0,5,3,0,0,0,0,8,8,10,11,5,1,4,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,68,47,35,15,13,0,0,0,0,0,0,0,57,49,32,17,7,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,79,78,484,458,484,527,312,5,2,0,0,0,0,0,481,425,492,474,285,7,4,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,5,5,2,3,0,0,0,0,0,0,0,0,9,3,3,1,2,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,6,SS (I-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,6,SS (I-X),1,Department of Education,Rural,1,0,0,2,2,3,1,6,7,9,3,14,5,4,0,3,2,7,4,1,6,5,6,17,8,9,0,General
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,6,SS (I-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,6,SS (I-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,6,SS (I-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,1,0,0,0,1,0,2,2,0,0,General
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,6,SS (I-X),1,Department of Education,Rural,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,6,SS (I-X),1,Department of Education,Urban,1,0,0,8,14,24,2,0,11,13,10,2,8,0,0,5,6,14,1,0,13,14,5,20,5,0,0,General
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,6,SS (I-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,75,57,45,40,37,50,53,69,49,59,66,51,1,0,38,37,43,27,37,28,35,29,47,49,0,0,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,19,10,21,23,22,26,28,20,34,27,41,33,0,0,25,22,16,10,17,18,20,19,23,33,0,0,General
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,21,21,20,11,7,17,15,13,7,15,10,19,0,0,22,8,11,14,10,6,2,7,8,9,0,0,General
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,10,10,3,11,8,6,13,9,12,7,23,11,2,0,4,11,4,6,6,4,3,3,2,10,5,2,General
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,67,51,39,28,38,46,42,43,47,49,33,58,0,0,28,26,35,35,34,39,32,32,28,36,0,0,General
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,4,1,4,6,11,12,6,8,14,9,20,27,0,0,11,2,4,4,7,7,10,10,9,25,0,0,General
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,44,31,27,22,26,17,30,24,20,18,22,22,0,0,26,12,11,14,14,20,18,21,12,18,0,0,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,190,185,86,92,101,114,90,95,86,89,118,155,56,38,85,77,77,63,88,92,84,90,104,153,45,40,General
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,101,66,41,48,51,39,56,63,69,70,53,67,0,0,35,32,42,40,38,26,43,45,49,48,0,0,General
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,0,6,4,9,11,12,10,12,15,16,15,2,0,0,8,6,5,8,7,6,3,9,14,8,0,0,General
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,46,35,23,27,35,31,50,33,35,30,32,44,0,0,18,19,22,18,34,39,30,26,30,30,0,0,General
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,12,9,12,13,5,14,9,10,7,9,10,15,0,0,6,4,6,13,6,5,9,11,8,12,0,0,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,8,SS (IX-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,7,SS (VI-X),1,Department of Education,Rural,1,0,0,9,8,10,11,15,16,17,27,34,29,20,0,16,11,15,19,17,33,28,32,71,45,55,4,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,7,SS (VI-X),1,Department of Education,Rural,1,0,0,12,8,15,9,12,23,20,21,32,26,11,2,11,10,10,14,13,17,19,13,36,55,29,4,General
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,7,SS (VI-X),1,Department of Education,Rural,1,0,0,10,3,9,6,8,12,21,16,36,35,16,1,10,12,7,14,17,33,27,36,67,47,28,4,General
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,7,SS (VI-X),1,Department of Education,Rural,1,0,0,7,6,7,7,9,10,10,15,17,21,8,1,9,14,8,15,18,20,28,18,42,32,20,0,General
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,7,SS (VI-X),1,Department of Education,Rural,1,0,0,4,1,2,0,5,11,19,14,17,18,14,5,5,4,3,2,15,5,14,15,23,18,19,1,General
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,7,SS (VI-X),1,Department of Education,Rural,1,0,0,2,1,1,0,4,8,2,4,12,6,8,1,1,0,5,5,6,6,6,7,15,22,13,0,General
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,7,SS (VI-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,6,4,9,10,6,0,0,0,0,0,0,0,0,0,0,13,10,0,0,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,7,SS (VI-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,6,13,18,15,0,0,General
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,7,SS (VI-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,2,4,4,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,1,1,0,0,0,0,1,0,0,1,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,General
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,2,1,1,0,2,0,0,0,0,0,0,0,1,1,1,2,10,0,0,General
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,7,4,8,8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,26,21,19,16,34,24,34,25,8,6,1,0,27,22,23,29,38,43,34,51,8,10,0,0,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,36,38,31,28,36,50,34,36,1,1,0,0,42,36,46,41,39,53,50,43,2,1,0,0,General
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,25,28,22,28,39,26,31,32,5,8,0,0,49,33,36,55,39,55,56,86,11,10,0,0,General
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,6,4,5,5,8,11,7,9,5,5,1,0,15,8,7,9,7,14,23,14,3,3,2,0,General
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,3,3,3,4,6,5,10,4,1,1,1,0,18,13,2,8,7,10,11,11,1,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,13,11,8,8,15,10,15,7,0,2,0,0,14,16,10,11,25,31,28,23,0,2,0,0,General
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,10,7,8,7,10,2,8,13,0,0,0,0,15,12,13,10,13,22,14,25,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,55,47,38,45,43,71,44,39,0,0,0,0,39,53,42,44,43,56,42,27,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,0,0,2,0,2,0,1,2,0,0,0,0,3,0,2,2,0,0,2,3,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,1,1,1,2,3,4,6,11,0,0,0,0,1,3,6,2,2,0,7,7,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,10,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,2,UPS (I-VIII),3,Local body,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,95,84,93,88,43,53,60,48,42,44,0,0,0,0,59,39,57,40,38,43,36,33,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,51,49,41,36,45,48,36,41,33,26,0,0,0,0,41,35,44,40,34,39,22,26,0,1,0,0,General
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,97,51,24,43,33,39,51,47,32,28,20,20,0,0,37,32,27,34,26,34,24,17,3,6,0,0,General
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,46,59,39,28,30,27,21,34,23,22,0,0,0,0,26,30,19,17,20,28,19,8,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,121,81,47,32,33,42,35,45,22,51,17,12,0,0,35,46,30,31,24,35,26,21,6,8,0,0,General
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,9,7,30,39,35,40,28,30,33,18,1,0,0,0,45,26,31,21,32,18,28,20,3,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,82,58,51,58,43,42,40,38,45,50,0,0,0,0,38,23,37,38,48,37,38,30,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,662,524,294,220,195,192,146,156,127,125,0,0,0,0,226,157,192,156,149,137,136,100,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,193,116,59,50,46,41,31,21,23,9,0,0,0,0,38,41,38,22,19,18,15,7,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,52,35,23,22,17,21,24,20,16,12,0,0,0,0,16,12,16,20,15,13,4,5,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,28,24,8,10,13,10,3,5,4,4,0,0,0,0,11,4,2,7,7,7,6,6,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,19,11,6,7,7,11,7,11,4,8,0,0,0,0,21,4,13,8,8,12,5,6,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,6,5,2,5,6,10,10,9,0,0,0,0,11,3,2,9,3,11,7,8,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,5,1,45,36,29,30,32,23,22,10,0,0,0,0,66,51,52,47,41,89,78,45,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,77,17,22,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82202,TONK,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,3,HSS (I-XII),1,Department of Education,Rural,2,0,0,2,3,0,1,2,1,4,1,1,1,0,0,4,3,3,2,2,5,1,4,2,1,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,3,HSS (I-XII),1,Department of Education,Rural,2,0,0,4,0,2,3,3,6,4,1,3,3,0,0,3,2,3,2,1,4,6,1,4,3,3,0,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,3,HSS (I-XII),1,Department of Education,Urban,2,0,0,11,10,12,7,0,11,8,21,21,10,3,1,12,8,10,6,4,8,10,17,47,18,20,1,SC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,3,HSS (I-XII),1,Department of Education,Urban,2,0,0,4,2,6,5,3,6,14,13,54,38,103,132,10,7,2,19,18,14,19,12,48,23,38,48,SC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,3,HSS (I-XII),1,Department of Education,Urban,2,0,0,9,4,2,5,3,8,4,9,24,15,23,19,10,5,0,4,5,11,0,0,0,5,6,5,SC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,3,HSS (I-XII),1,Department of Education,Urban,2,0,0,2,0,0,0,3,6,4,8,39,47,104,99,2,0,3,0,2,2,1,1,0,0,14,6,SC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,3,HSS (I-XII),1,Department of Education,Urban,2,0,0,0,0,0,1,1,1,2,2,10,13,22,16,3,0,1,1,2,1,2,4,0,0,4,5,SC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,21,14,15,17,18,8,17,11,16,18,28,43,29,59,11,8,11,9,4,11,8,10,14,22,17,30,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,36,16,22,32,32,31,34,28,49,45,56,97,29,67,18,23,22,10,10,17,18,9,20,30,18,33,SC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,44,28,18,19,11,20,23,21,24,15,38,59,33,48,17,13,12,8,13,16,9,9,19,18,16,13,SC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,16,20,4,19,8,2,10,2,8,8,13,8,6,24,6,4,3,3,3,0,3,1,2,2,5,8,SC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,27,12,40,19,24,11,14,18,12,13,38,40,39,39,27,5,17,9,6,7,5,10,12,27,18,17,SC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,14,9,19,19,22,16,13,16,15,12,30,44,19,26,18,17,11,7,9,7,6,5,5,6,2,21,SC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,32,25,24,15,24,15,25,15,15,13,32,32,6,20,17,13,10,3,11,13,17,14,23,34,16,17,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,42,37,70,66,50,76,61,70,78,97,131,197,257,340,72,48,38,51,53,51,42,57,79,101,114,153,SC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,62,48,25,38,19,32,29,32,22,32,47,79,44,90,19,22,14,18,27,22,20,21,23,33,18,28,SC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,4,0,2,3,7,3,4,6,3,2,13,15,3,4,0,1,2,2,0,0,2,0,3,11,2,2,SC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,15,21,6,4,3,9,6,9,6,6,11,9,18,15,8,4,6,2,4,5,3,5,5,1,6,4,SC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,2,2,12,2,5,4,10,6,2,10,19,40,22,40,2,2,3,3,8,3,4,2,4,8,4,10,SC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,3,HSS (I-XII),7,Central Govt,Rural,2,0,0,4,1,2,5,6,4,2,3,0,4,0,1,0,1,1,1,2,3,1,0,1,4,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,3,HSS (I-XII),7,Central Govt,Urban,2,0,0,5,6,6,7,5,9,7,5,4,5,3,6,3,8,3,3,3,2,1,4,4,2,2,6,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,4,6,2,4,1,6,6,9,28,39,41,29,3,6,3,10,8,4,8,5,43,35,27,28,SC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,9,0,5,2,4,7,8,10,32,18,11,23,6,5,2,3,5,8,6,1,28,14,11,11,SC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,5,2,0,6,4,9,6,7,13,8,18,19,4,5,4,1,2,8,0,0,17,13,12,15,SC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,40,43,86,91,0,0,0,0,0,0,0,0,38,21,42,59,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,1,1,1,1,2,0,0,0,52,58,95,126,1,2,4,4,2,7,0,2,27,19,33,31,SC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65,35,44,67,SC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,13,8,8,SC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,1,0,2,10,0,0,0,0,0,0,0,0,0,2,1,1,SC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,5,0,0,2,0,0,0,0,0,0,0,0,0,0,1,2,SC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,33,32,24,27,29,51,43,49,154,103,101,99,27,26,16,16,27,19,12,11,113,50,66,75,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,55,40,41,33,40,70,50,66,144,95,138,137,37,41,39,30,26,43,31,42,132,109,81,108,SC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,46,34,30,42,39,61,60,73,160,82,94,113,30,50,32,26,30,42,25,23,114,53,69,81,SC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,26,27,19,38,26,38,44,41,85,70,47,57,36,17,21,26,19,22,22,21,79,56,28,42,SC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,82,46,58,56,51,78,77,76,143,100,115,116,46,37,19,22,35,35,19,29,120,67,63,94,SC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,19,19,14,17,23,40,23,37,79,43,49,38,8,8,8,7,5,10,1,1,54,33,29,34,SC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,7,17,16,13,12,SC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,5,HSS (VI-XII),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,5,HSS (VI-XII),2,Tribal Welfare Department,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,18,18,29,27,22,25,SC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,1,0,2,0,3,5,2,0,1,0,0,0,0,0,0,0,0,1,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,1,1,0,5,5,5,6,0,0,0,0,0,0,2,0,4,4,0,5,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,5,HSS (VI-XII),7,Central Govt,Rural,2,0,0,0,0,0,0,0,4,14,13,17,18,17,16,0,0,0,0,0,4,4,9,7,4,2,2,SC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,1,PS (I-V),1,Department of Education,Rural,2,0,0,6,2,1,1,3,0,0,0,0,0,0,0,7,6,4,7,3,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,1,PS (I-V),1,Department of Education,Rural,2,0,0,10,10,6,8,4,4,4,2,0,0,0,0,20,13,11,11,6,7,8,8,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,1,PS (I-V),1,Department of Education,Rural,2,0,0,16,12,11,14,9,0,0,0,0,0,0,0,18,17,17,14,7,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,1,PS (I-V),1,Department of Education,Rural,2,0,0,14,4,11,7,4,4,3,4,0,0,0,0,15,12,14,13,10,3,7,2,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,1,PS (I-V),1,Department of Education,Rural,2,0,0,22,9,12,4,21,2,6,2,0,0,0,0,15,9,18,13,6,3,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,1,PS (I-V),1,Department of Education,Rural,2,0,0,0,2,3,0,1,2,2,0,0,0,0,0,1,2,6,2,0,2,1,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,1,PS (I-V),1,Department of Education,Urban,2,0,0,13,8,8,13,3,0,0,0,0,0,0,0,10,6,7,5,8,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,1,PS (I-V),1,Department of Education,Urban,2,0,0,5,8,9,8,7,0,0,0,0,0,0,0,7,7,6,7,9,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,1,PS (I-V),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,1,PS (I-V),1,Department of Education,Urban,2,0,0,0,1,1,0,3,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,1,PS (I-V),3,Local body,Rural,2,0,0,62,50,42,40,46,0,0,0,0,0,0,0,73,61,48,47,37,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,1,PS (I-V),3,Local body,Rural,2,0,0,122,102,74,62,70,0,0,0,0,0,0,0,103,92,89,65,48,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,1,PS (I-V),3,Local body,Rural,2,0,0,203,134,132,128,125,0,0,0,0,0,0,0,176,153,131,112,121,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,1,PS (I-V),3,Local body,Rural,2,0,0,49,28,40,28,29,0,0,0,0,0,0,0,45,41,41,33,40,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,1,PS (I-V),3,Local body,Rural,2,0,0,107,86,76,60,51,0,0,0,0,0,0,0,110,114,90,78,74,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,1,PS (I-V),3,Local body,Rural,2,0,0,93,91,69,82,76,0,0,0,0,0,0,0,123,83,84,67,80,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,22,14,7,9,8,6,4,5,1,1,5,2,0,0,5,8,6,4,7,1,2,0,5,1,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,30,25,13,7,4,5,4,2,0,4,0,0,0,0,5,4,2,1,1,4,0,1,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,14,10,8,10,8,4,6,4,2,1,0,0,0,0,5,7,4,2,0,2,2,2,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,3,3,2,2,2,2,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,32,39,16,13,12,8,7,1,0,3,0,0,0,0,12,7,8,3,5,0,1,1,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,1,0,6,5,3,6,3,2,0,0,0,0,0,0,1,2,2,2,1,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,2,3,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,76,57,39,29,12,14,16,8,5,2,0,0,0,0,24,13,10,10,12,8,2,2,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,4,5,0,0,1,2,3,0,1,2,0,1,0,2,1,2,2,1,1,2,1,1,0,1,0,1,SC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,6,7,1,3,5,5,5,0,0,0,0,0,0,0,0,4,0,4,1,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,9,11,4,3,2,2,4,0,0,0,0,0,0,0,1,1,3,4,3,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,2,0,2,4,4,0,0,0,0,0,0,0,1,0,2,2,1,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,5,0,1,1,3,0,0,0,0,0,0,0,3,0,1,2,1,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,4,3,0,0,3,0,0,0,0,0,0,0,1,4,3,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,6,1,3,3,0,0,0,0,0,0,0,0,5,4,7,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,2,3,5,2,5,0,0,0,0,0,0,0,5,3,4,7,2,2,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,13,6,10,9,15,4,3,0,0,0,0,0,7,5,9,8,10,4,2,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,6,SS (I-X),1,Department of Education,Rural,2,0,0,0,0,1,1,0,0,0,0,9,5,0,0,0,1,2,0,0,1,0,2,3,6,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,6,SS (I-X),1,Department of Education,Rural,2,0,0,26,21,20,22,20,49,28,27,50,34,31,0,23,19,19,23,22,39,41,32,61,32,16,0,SC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,6,SS (I-X),1,Department of Education,Rural,2,0,0,4,2,1,1,1,5,1,1,2,2,0,0,2,1,2,0,0,3,0,1,1,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,6,SS (I-X),1,Department of Education,Rural,2,0,0,0,2,2,7,2,3,2,7,4,4,0,0,3,1,2,5,2,4,5,0,2,3,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,6,SS (I-X),1,Department of Education,Rural,2,0,0,5,4,3,1,4,4,8,6,13,7,0,0,5,5,3,2,8,8,0,5,5,3,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,6,SS (I-X),1,Department of Education,Rural,2,0,0,2,2,4,1,2,7,2,2,9,7,4,0,4,4,1,1,3,7,4,3,9,8,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,6,SS (I-X),1,Department of Education,Urban,2,0,0,2,3,1,2,5,1,1,6,8,3,0,0,0,4,2,3,3,2,6,2,6,8,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,6,SS (I-X),1,Department of Education,Urban,2,0,0,8,3,2,0,2,5,4,4,10,0,0,0,0,0,0,4,0,2,0,1,2,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,93,74,37,53,51,44,52,36,53,60,80,73,0,0,34,43,27,30,33,29,27,28,37,33,1,0,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,46,39,81,70,77,75,55,66,55,59,85,88,0,0,56,39,30,29,31,22,33,38,29,57,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,22,18,23,30,17,42,31,16,12,9,32,37,0,0,14,13,15,19,20,13,8,7,6,9,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,29,17,9,11,5,7,10,10,18,9,24,24,0,1,5,9,11,1,7,3,1,2,6,4,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,100,62,77,51,40,78,66,61,74,59,78,60,1,0,24,35,24,28,26,28,33,33,29,37,2,0,SC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,9,2,29,27,35,32,25,24,21,24,51,72,0,0,33,29,22,17,18,19,13,5,21,23,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,23,26,14,23,16,21,14,9,12,16,8,16,0,0,12,9,11,13,5,8,11,14,8,13,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,125,110,93,70,68,69,56,66,77,65,84,171,3,14,49,55,51,55,53,46,38,54,58,93,4,4,SC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,58,44,26,30,27,35,23,34,19,26,44,34,0,0,37,23,23,19,9,14,22,20,16,33,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,2,2,2,6,1,0,7,7,3,2,11,9,0,0,0,3,4,0,2,3,0,0,5,3,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,22,19,15,9,13,9,6,17,6,7,13,15,0,0,8,5,7,6,4,8,6,6,9,10,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,12,6,8,9,6,11,6,9,6,12,12,19,0,0,5,3,9,4,4,9,2,3,9,9,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,8,SS (IX-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,7,SS (VI-X),1,Department of Education,Rural,2,0,0,65,65,72,55,74,83,77,89,167,83,73,4,98,72,84,75,88,110,97,98,186,132,45,8,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,7,SS (VI-X),1,Department of Education,Rural,2,0,0,111,74,83,79,73,120,111,128,229,143,69,17,89,71,97,99,80,113,107,109,218,133,84,17,SC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,7,SS (VI-X),1,Department of Education,Rural,2,0,0,65,50,41,41,58,101,113,98,185,139,57,12,80,56,53,44,55,107,115,101,224,133,53,15,SC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,7,SS (VI-X),1,Department of Education,Rural,2,0,0,38,49,42,49,46,80,62,70,126,89,64,10,56,51,50,60,50,65,61,62,143,80,61,6,SC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,7,SS (VI-X),1,Department of Education,Rural,2,0,0,58,43,37,49,47,87,85,82,164,114,40,5,64,40,40,33,45,94,88,57,151,92,41,5,SC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,7,SS (VI-X),1,Department of Education,Rural,2,0,0,50,49,30,34,27,66,82,75,100,54,21,6,62,48,41,48,34,86,78,51,108,43,34,4,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,7,SS (VI-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,7,SS (VI-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,8,12,11,0,0,0,0,0,0,0,0,0,7,3,11,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,3,0,3,1,4,2,1,3,2,1,1,3,0,0,3,0,2,0,0,1,1,1,1,1,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,1,0,1,6,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,3,1,1,2,4,0,0,0,0,0,0,0,1,0,0,0,2,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,6,1,3,7,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,193,135,128,118,147,180,163,155,8,5,0,0,201,140,143,160,132,200,206,165,5,1,1,0,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,194,168,118,116,100,175,154,125,14,3,7,0,207,172,171,144,167,197,191,242,11,7,5,0,SC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,152,114,129,119,107,179,148,134,5,6,0,0,168,147,140,135,150,251,197,194,10,5,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,69,58,42,40,61,83,67,70,14,11,7,0,101,80,61,73,81,94,89,80,20,17,2,0,SC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,103,80,73,84,68,97,86,81,11,7,4,0,160,97,111,110,149,155,179,145,23,16,1,0,SC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,72,46,58,47,56,79,76,59,17,9,4,0,77,65,73,69,67,160,152,135,11,5,6,0,SC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,8,10,9,10,7,11,19,17,0,0,0,0,11,12,12,12,9,23,16,23,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,40,34,30,41,39,32,43,42,0,0,0,0,40,67,49,31,51,41,42,37,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,15,12,12,8,8,9,11,3,0,0,0,0,13,10,11,5,8,11,7,2,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,4,2,2,6,3,2,2,3,0,0,0,0,7,3,5,6,1,13,14,15,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,13,15,9,12,10,9,8,7,0,0,0,0,7,10,9,4,9,27,18,20,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,5,3,7,8,6,3,7,5,0,0,0,0,3,7,6,7,4,3,15,8,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,2,UPS (I-VIII),3,Local body,Rural,2,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,206,153,125,125,100,104,106,82,81,77,0,0,0,0,78,64,66,56,56,44,42,35,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,208,161,140,130,112,101,122,86,87,78,1,0,0,0,78,96,75,69,55,39,34,38,0,1,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,110,84,45,79,58,39,60,54,51,41,7,8,0,0,45,53,32,39,34,24,22,16,2,1,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,162,123,89,75,45,67,53,52,38,45,0,0,0,0,35,45,39,24,34,24,35,24,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,361,230,165,134,112,116,122,111,92,77,2,4,0,0,125,98,74,67,60,46,48,44,3,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,30,12,108,92,90,66,97,83,66,69,0,0,0,0,78,75,45,45,26,31,35,37,1,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,20,13,10,10,6,3,9,4,9,7,0,0,0,0,6,9,5,8,5,3,1,3,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,246,193,128,133,133,117,80,79,75,60,0,0,0,0,130,124,96,82,80,63,53,41,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,200,102,58,54,47,44,38,37,32,24,0,0,0,0,44,44,28,36,33,18,20,23,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,62,57,23,27,30,32,23,19,16,12,0,0,0,0,25,26,13,23,21,12,7,6,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,73,49,20,26,22,30,13,27,23,24,0,0,0,0,23,18,15,11,19,10,11,8,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,7,7,13,16,10,9,11,6,7,4,0,0,0,0,9,10,7,6,5,9,6,6,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,1,3,0,2,1,0,0,0,1,0,0,0,0,0,2,2,0,4,1,1,1,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,4,0,0,1,2,1,2,0,0,0,0,0,1,1,1,0,0,2,2,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,3,10,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,9,10,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,4,6,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,19,10,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,3,HSS (I-XII),1,Department of Education,Rural,3,0,0,0,1,0,2,3,2,0,0,1,0,1,0,0,0,1,1,1,2,5,2,2,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,3,HSS (I-XII),1,Department of Education,Urban,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,3,HSS (I-XII),1,Department of Education,Urban,3,0,0,0,0,0,1,1,1,4,3,13,23,127,73,0,0,0,0,0,0,1,2,7,8,19,27,ST
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,3,HSS (I-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,1,3,1,7,2,0,0,0,0,0,0,0,0,1,0,5,2,ST
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,3,HSS (I-XII),1,Department of Education,Urban,3,0,0,0,2,1,0,1,2,2,5,23,35,82,71,1,0,2,0,0,1,3,2,0,0,10,5,ST
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,3,HSS (I-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,1,0,0,3,25,26,0,0,0,0,0,0,0,0,0,0,3,9,ST
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,5,0,5,2,2,6,3,2,3,5,13,15,8,14,1,0,3,2,0,0,2,5,8,5,5,5,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,18,9,10,11,15,18,15,19,26,25,44,163,71,171,13,6,7,7,8,5,8,9,24,57,31,59,ST
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,13,18,21,16,6,10,14,11,6,15,29,64,54,69,4,11,3,5,4,7,2,5,10,26,20,31,ST
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,13,6,10,10,7,5,3,6,5,6,10,8,9,16,5,1,1,3,2,3,1,1,0,6,5,9,ST
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,17,15,13,39,28,43,23,21,23,29,54,83,57,69,11,18,16,8,6,8,12,9,31,37,43,50,ST
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,11,5,14,17,16,15,12,20,19,21,36,49,30,27,8,3,8,4,3,3,6,3,24,16,19,30,ST
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,3,3,1,0,0,0,0,1,1,0,3,4,0,5,1,0,1,0,2,1,0,1,0,1,0,4,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,22,8,17,21,20,21,19,47,38,46,108,171,231,326,9,5,9,13,16,13,18,14,26,49,73,102,ST
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,45,15,17,14,14,19,19,29,30,38,48,88,91,200,2,13,11,16,10,8,8,16,34,33,24,35,ST
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,1,0,0,0,2,0,0,4,1,2,12,9,0,2,1,0,0,0,1,0,0,0,2,2,2,0,ST
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,3,3,0,1,0,0,0,0,3,2,10,10,11,21,0,0,0,0,0,0,1,1,3,3,5,10,ST
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,34,17,17,12,21,22,40,22,23,28,43,86,42,101,11,6,13,4,11,6,4,1,8,14,18,16,ST
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,3,HSS (I-XII),7,Central Govt,Rural,3,0,0,2,4,1,1,3,1,1,7,2,0,1,1,2,2,1,1,3,0,1,0,1,2,0,1,ST
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,3,HSS (I-XII),7,Central Govt,Urban,3,0,0,9,7,13,15,8,9,11,7,17,10,10,3,4,6,9,6,6,3,7,1,7,4,10,6,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,2,1,3,4,5,5,0,0,1,2,0,2,1,0,3,2,4,4,ST
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,2,2,0,1,3,11,7,6,25,25,18,32,1,1,1,3,2,12,8,5,57,34,19,20,ST
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,3,0,0,0,2,3,4,7,22,31,55,40,0,0,0,0,1,2,0,0,35,19,50,46,ST
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,2,2,12,13,0,0,0,0,0,0,0,0,1,3,8,12,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,8,12,122,136,0,0,0,0,0,0,0,0,0,1,7,3,ST
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,14,39,76,ST
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,11,22,14,ST
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,10,13,11,13,0,0,0,0,0,0,0,0,0,4,1,6,ST
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,3,6,0,2,1,4,4,3,16,14,11,17,3,5,1,0,0,0,0,0,12,6,12,14,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,25,15,8,8,17,13,30,11,67,46,35,37,12,12,4,5,11,5,14,10,57,48,37,23,ST
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,5,3,3,1,8,27,15,29,68,52,75,40,4,2,5,7,4,9,5,14,64,63,72,52,ST
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,4,2,2,3,4,6,11,10,15,15,13,7,5,8,2,1,2,5,4,3,14,7,6,5,ST
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,19,15,16,9,11,23,26,32,64,49,65,68,30,19,18,8,14,16,26,17,55,41,62,72,ST
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,4,3,4,3,12,17,11,12,30,29,21,20,1,1,2,1,2,1,0,0,37,27,45,42,ST
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,ST
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,5,HSS (VI-XII),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,48,47,46,40,46,42,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,5,HSS (VI-XII),2,Tribal Welfare Department,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,10,4,4,7,6,ST
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,6,7,19,16,31,32,46,0,0,0,0,0,1,0,3,5,7,16,14,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,5,HSS (VI-XII),7,Central Govt,Rural,3,0,0,0,0,0,0,0,15,12,12,9,9,9,11,0,0,0,0,0,2,2,6,5,4,3,2,ST
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,1,PS (I-V),1,Department of Education,Rural,3,0,0,3,1,1,1,0,0,0,0,0,0,0,0,1,2,2,3,1,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,1,PS (I-V),1,Department of Education,Rural,3,0,0,12,10,8,6,12,0,0,1,0,0,0,0,23,6,5,7,9,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,1,PS (I-V),1,Department of Education,Rural,3,0,0,26,21,11,19,11,5,1,2,0,0,0,0,24,21,17,22,17,4,11,4,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,1,PS (I-V),1,Department of Education,Rural,3,0,0,9,8,12,17,9,6,5,3,0,0,0,0,16,5,13,11,11,9,6,4,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,1,PS (I-V),1,Department of Education,Rural,3,0,0,43,24,10,13,14,15,7,8,0,0,0,0,42,39,25,10,15,27,26,14,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,1,PS (I-V),1,Department of Education,Urban,3,0,0,6,1,2,3,2,0,0,0,0,0,0,0,3,0,2,2,10,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,1,PS (I-V),3,Local body,Rural,3,0,0,33,24,27,18,13,0,0,0,0,0,0,0,33,34,15,21,25,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,1,PS (I-V),3,Local body,Rural,3,0,0,60,50,48,52,26,0,0,0,0,0,0,0,71,62,51,27,57,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,1,PS (I-V),3,Local body,Rural,3,0,0,78,85,68,55,47,0,0,0,0,0,0,0,108,96,69,65,71,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,1,PS (I-V),3,Local body,Rural,3,0,0,36,31,34,29,23,0,0,0,0,0,0,0,29,28,27,31,21,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,1,PS (I-V),3,Local body,Rural,3,0,0,119,93,84,70,66,0,0,0,0,0,0,0,129,83,58,73,66,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,1,PS (I-V),3,Local body,Rural,3,0,0,153,129,103,117,92,0,0,0,0,0,0,0,215,164,137,129,120,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,1,4,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,15,5,5,6,2,3,9,3,0,6,0,0,0,0,2,4,5,0,1,2,0,2,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,44,26,27,22,22,12,11,4,9,6,0,0,0,0,8,13,5,6,7,6,0,2,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,5,2,2,3,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,60,49,41,37,17,30,24,5,2,1,0,0,0,0,31,30,19,12,9,1,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,2,1,21,16,19,12,7,6,1,0,0,0,0,0,6,1,3,3,3,4,0,1,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,33,11,19,10,6,8,9,5,6,4,0,0,0,0,7,6,3,6,3,2,3,2,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,15,16,5,9,10,3,3,0,0,0,0,0,0,0,5,4,5,7,5,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,3,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,1,0,3,1,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,3,1,2,0,1,0,0,0,0,0,0,0,1,3,3,2,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,6,SS (I-X),1,Department of Education,Rural,3,0,0,4,0,1,3,0,4,3,1,2,1,0,0,1,2,3,2,2,8,1,2,10,5,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,1,2,0,3,5,3,1,3,3,3,0,1,0,0,3,1,4,12,2,6,1,1,0,ST
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,6,SS (I-X),1,Department of Education,Rural,3,0,0,2,3,2,3,3,3,6,5,8,1,0,0,4,2,4,4,0,2,2,3,5,5,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,3,5,2,1,1,0,0,0,0,0,0,0,4,2,1,5,2,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,6,SS (I-X),1,Department of Education,Rural,3,0,0,7,5,6,4,7,11,6,6,12,7,0,0,3,6,7,6,4,16,8,4,14,9,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,1,0,1,2,1,6,1,0,0,0,1,1,0,0,1,1,0,8,1,1,0,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,6,SS (I-X),1,Department of Education,Urban,3,0,0,1,2,1,4,2,2,1,3,4,2,0,0,3,1,4,4,1,2,1,3,4,7,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,6,SS (I-X),1,Department of Education,Urban,3,0,0,0,0,1,1,0,0,3,2,4,2,0,0,1,0,0,0,1,0,0,0,2,3,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,21,12,10,18,9,15,16,11,16,9,33,22,0,0,10,10,8,9,2,6,9,11,9,8,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,13,9,38,34,30,24,29,39,26,27,65,56,0,0,21,17,13,10,13,16,19,11,27,36,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,22,11,33,25,37,35,19,36,36,36,54,55,0,0,8,19,18,20,14,34,10,13,10,19,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,9,3,12,2,5,0,1,4,1,5,8,10,2,2,3,3,6,2,1,2,0,3,0,2,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,80,60,46,42,38,35,34,52,63,59,88,91,0,0,22,35,18,25,34,35,27,27,47,46,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,21,4,44,49,41,56,51,47,64,75,106,139,0,0,40,29,26,30,18,18,33,24,41,50,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,3,3,3,2,0,3,3,0,1,0,0,0,0,0,2,2,2,1,0,2,2,1,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,9,4,20,13,17,23,16,23,23,21,52,91,2,3,2,4,5,8,8,5,9,9,26,30,0,1,ST
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,52,28,19,22,26,10,21,26,34,33,40,61,0,0,8,2,13,19,9,13,15,6,11,30,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,1,2,1,5,1,3,4,5,1,5,10,0,0,2,1,2,2,4,1,0,0,3,1,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,15,8,9,6,5,12,11,14,12,25,19,39,0,0,7,7,4,10,11,8,12,20,28,27,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,8,3,4,10,8,13,15,14,22,10,26,37,0,0,5,8,1,2,4,3,5,3,2,6,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,7,SS (VI-X),1,Department of Education,Rural,3,0,0,20,9,9,9,7,18,22,22,33,17,20,0,22,20,22,12,10,15,18,9,19,21,17,1,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,7,SS (VI-X),1,Department of Education,Rural,3,0,0,49,46,30,34,34,61,68,65,101,65,36,9,52,46,44,31,38,65,54,51,101,46,19,7,ST
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,7,SS (VI-X),1,Department of Education,Rural,3,0,0,43,39,45,43,49,80,90,98,199,116,47,20,71,72,61,47,52,87,92,84,229,160,74,31,ST
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,7,SS (VI-X),1,Department of Education,Rural,3,0,0,28,21,14,23,17,26,25,29,55,15,14,0,22,19,17,18,15,33,29,21,38,26,19,1,ST
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,7,SS (VI-X),1,Department of Education,Rural,3,0,0,61,43,36,44,42,85,91,133,222,146,60,16,74,50,50,48,58,104,97,103,226,144,87,12,ST
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,7,SS (VI-X),1,Department of Education,Rural,3,0,0,65,55,45,59,61,98,96,99,181,93,29,11,106,91,71,86,81,170,131,115,249,159,74,16,ST
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,3,5,3,0,0,0,0,0,0,0,0,0,1,6,5,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,5,9,0,0,0,0,0,0,0,0,0,0,1,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,6,13,18,29,45,0,0,0,0,0,0,0,1,1,2,10,21,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,2,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,9,14,5,18,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,71,37,30,32,33,46,38,28,1,0,1,0,55,26,27,20,20,36,38,25,0,1,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,158,83,115,62,94,104,97,74,5,5,3,0,151,134,105,121,134,170,150,103,6,3,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,137,108,98,123,100,131,130,135,22,21,0,0,175,152,160,149,157,230,217,191,24,22,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,36,36,29,36,29,40,30,29,3,3,1,0,50,30,24,30,34,41,43,32,6,6,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,120,93,67,80,84,104,92,74,4,0,2,0,142,76,103,94,101,151,119,137,6,2,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,97,64,71,69,56,86,61,77,19,12,7,0,122,102,72,87,97,203,184,151,8,14,10,0,ST
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,0,0,1,0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,1,5,1,3,1,1,0,1,0,0,0,0,2,1,1,0,2,1,3,4,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,1,2,1,2,0,0,1,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,0,0,1,1,1,1,0,2,0,0,0,0,0,2,0,2,3,2,3,4,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,2,4,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,2,UPS (I-VIII),3,Local body,Rural,3,0,0,2,2,2,3,3,0,0,0,0,0,0,0,7,7,2,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,26,22,12,9,15,7,10,5,10,9,0,0,0,0,11,8,5,6,6,3,3,5,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,129,65,134,97,78,108,100,105,86,58,1,5,0,0,112,65,70,48,41,51,32,23,2,3,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,77,47,131,111,108,107,94,99,88,76,5,6,0,0,86,59,57,59,48,50,40,49,2,1,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,51,36,28,31,19,23,18,22,14,13,0,0,0,0,25,14,15,12,10,6,7,6,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,331,262,172,136,123,145,122,97,98,100,3,0,0,0,109,96,88,67,68,69,50,55,0,2,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,48,20,200,184,153,147,140,145,118,96,8,0,0,0,82,87,83,73,79,76,49,48,1,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,6,1,0,0,4,0,1,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,66,40,32,26,36,27,31,29,19,16,0,0,0,0,25,19,9,2,8,6,11,1,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,101,43,31,15,30,21,24,22,15,6,0,0,0,0,10,14,14,5,12,5,4,7,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,10,4,5,4,3,3,8,1,2,0,0,0,0,0,4,2,2,3,3,0,1,2,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,26,32,22,16,18,13,10,15,21,9,0,0,0,0,13,11,16,6,10,10,9,4,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,22,12,23,12,19,18,8,15,8,9,0,0,0,0,10,14,5,11,3,10,7,2,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,9,16,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82202,TONK,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,4,3,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,8,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,3,HSS (I-XII),1,Department of Education,Rural,4,0,0,9,3,3,0,4,5,13,9,13,7,1,0,8,6,6,3,5,18,9,16,21,13,14,0,OBC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,3,HSS (I-XII),1,Department of Education,Rural,4,0,0,10,2,7,4,2,13,14,8,11,4,4,0,6,3,9,8,6,18,13,6,9,11,1,0,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,3,HSS (I-XII),1,Department of Education,Urban,4,0,0,12,10,10,8,3,0,3,3,10,1,0,0,20,16,9,15,18,3,21,12,11,4,8,0,OBC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,3,HSS (I-XII),1,Department of Education,Urban,4,0,0,4,3,2,1,8,8,10,8,42,35,185,143,5,6,5,9,7,7,7,13,71,28,65,104,OBC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,3,HSS (I-XII),1,Department of Education,Urban,4,0,0,9,4,4,17,16,12,14,10,38,32,137,90,12,10,3,8,8,7,0,0,19,11,70,54,OBC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,3,HSS (I-XII),1,Department of Education,Urban,4,0,0,9,6,2,2,2,2,3,3,47,56,89,92,13,1,0,2,4,0,4,5,0,0,18,8,OBC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,3,HSS (I-XII),1,Department of Education,Urban,4,0,0,2,0,1,3,2,6,2,7,10,10,58,50,1,0,1,1,5,2,2,4,0,0,15,10,OBC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,111,78,81,47,79,87,106,138,121,135,226,313,266,300,59,35,52,48,56,53,61,60,137,128,129,166,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,88,74,74,75,77,92,112,122,117,138,223,350,167,225,53,50,46,67,63,71,49,93,138,153,163,189,OBC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,99,85,60,54,43,67,55,56,66,58,111,143,105,185,32,33,28,24,31,26,32,38,46,49,65,79,OBC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,24,29,36,40,37,31,37,24,26,30,58,64,64,87,21,16,15,15,9,15,15,21,23,41,37,67,OBC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,97,66,49,74,78,83,56,66,73,83,117,132,109,193,32,49,45,44,31,27,33,29,58,79,58,102,OBC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,23,15,49,43,46,51,48,50,56,72,97,106,37,52,46,31,38,45,34,38,33,30,53,56,32,37,OBC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,121,90,63,62,73,78,88,66,83,92,100,144,74,113,38,69,42,49,47,56,48,50,87,95,50,73,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,102,99,146,121,135,156,188,203,288,275,499,672,815,1188,115,102,113,112,123,140,109,154,233,296,352,471,OBC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,177,141,96,113,111,102,142,108,156,184,271,302,184,348,59,74,80,74,72,81,59,95,116,140,118,170,OBC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,26,18,21,28,29,29,41,40,40,50,100,120,39,30,10,13,12,26,21,31,22,24,51,49,21,14,OBC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,29,27,8,8,10,6,9,13,20,15,6,15,16,20,6,8,7,8,8,6,10,14,9,4,14,18,OBC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,31,26,26,23,20,34,34,25,30,36,51,126,86,126,12,10,10,11,19,13,9,20,25,28,40,39,OBC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,3,HSS (I-XII),7,Central Govt,Rural,4,0,0,4,6,2,6,7,7,7,5,7,5,7,5,1,2,1,3,5,2,3,5,2,1,3,6,OBC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,3,HSS (I-XII),7,Central Govt,Urban,4,0,0,5,8,13,14,11,0,4,1,12,0,8,7,11,6,10,7,11,0,3,0,9,2,6,4,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,13,11,3,5,7,9,13,7,27,52,61,44,16,10,11,4,6,9,11,15,60,51,36,29,OBC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,8,11,3,6,8,10,7,8,45,23,19,37,2,2,3,0,2,9,6,5,34,23,11,15,OBC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,4,2,3,2,3,7,8,10,34,31,39,33,3,2,3,2,1,3,0,0,54,28,40,43,OBC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,23,49,205,240,0,0,0,0,0,0,0,0,87,35,86,108,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,28,32,229,175,0,0,0,1,2,1,2,4,19,12,27,21,OBC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57,56,73,102,OBC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,65,71,43,OBC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,6,6,21,39,0,0,0,0,0,0,0,0,3,5,8,17,OBC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,50,57,37,75,0,0,0,0,0,0,0,0,32,25,32,25,OBC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,78,45,37,53,46,75,67,65,261,203,300,306,80,56,47,27,32,30,21,25,162,128,287,294,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,36,29,28,32,33,60,85,69,211,192,254,237,51,50,39,33,38,63,56,75,191,214,233,237,OBC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,33,29,39,45,26,68,59,70,160,121,158,143,27,22,19,22,24,41,33,43,157,118,149,137,OBC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,31,15,34,29,26,59,46,64,120,96,87,118,36,22,20,24,32,39,39,25,136,91,93,118,OBC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,36,39,36,27,36,90,93,103,235,168,177,213,39,49,45,35,38,62,44,32,178,129,161,185,OBC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,31,29,19,15,24,43,27,36,89,57,73,63,14,23,30,20,10,11,1,0,68,47,64,53,OBC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,16,39,87,62,36,52,OBC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,5,HSS (VI-XII),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,5,HSS (VI-XII),2,Tribal Welfare Department,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,4,3,3,3,4,OBC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,5,1,0,4,7,8,2,10,17,17,5,2,0,0,2,1,0,1,0,0,2,7,3,2,OBC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,14,14,21,26,47,32,66,0,0,0,0,0,2,4,4,5,13,9,31,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,5,HSS (VI-XII),7,Central Govt,Rural,4,0,0,0,0,0,0,0,22,17,16,21,24,22,18,0,0,0,0,0,18,18,18,13,14,17,14,OBC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,1,PS (I-V),1,Department of Education,Rural,4,0,0,12,11,14,9,15,0,0,0,0,0,0,0,18,8,16,15,19,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,1,PS (I-V),1,Department of Education,Rural,4,0,0,34,21,16,19,18,6,4,2,0,0,0,0,27,29,23,23,22,12,2,8,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,1,PS (I-V),1,Department of Education,Rural,4,0,0,18,14,17,19,16,0,0,0,0,0,0,0,18,18,10,13,10,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,1,PS (I-V),1,Department of Education,Rural,4,0,0,13,8,7,8,7,4,5,4,0,0,0,0,15,18,15,18,14,4,3,5,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,1,PS (I-V),1,Department of Education,Rural,4,0,0,5,6,6,3,6,2,0,1,0,0,0,0,5,2,8,4,2,2,0,1,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,1,PS (I-V),1,Department of Education,Rural,4,0,0,10,12,9,16,12,16,17,9,0,0,0,0,24,5,9,9,12,11,7,15,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,1,PS (I-V),1,Department of Education,Urban,4,0,0,11,10,12,11,12,0,0,0,0,0,0,0,12,22,8,17,9,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,1,PS (I-V),1,Department of Education,Urban,4,0,0,34,27,30,11,15,0,0,0,0,0,0,0,48,42,35,31,29,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,1,PS (I-V),1,Department of Education,Urban,4,0,0,6,8,6,3,2,0,0,0,0,0,0,0,5,9,10,1,3,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,1,PS (I-V),1,Department of Education,Urban,4,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,1,PS (I-V),3,Local body,Rural,4,0,0,140,124,100,92,71,0,0,0,0,0,0,0,155,120,87,67,79,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,1,PS (I-V),3,Local body,Rural,4,0,0,148,89,102,102,79,0,0,0,0,0,0,0,153,119,119,104,86,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,1,PS (I-V),3,Local body,Rural,4,0,0,199,148,115,134,105,0,0,0,0,0,0,0,204,179,137,133,151,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,1,PS (I-V),3,Local body,Rural,4,0,0,126,86,88,72,69,0,0,0,0,0,0,0,149,137,126,104,94,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,1,PS (I-V),3,Local body,Rural,4,0,0,180,130,98,114,102,0,0,0,0,0,0,0,195,174,149,151,142,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,1,PS (I-V),3,Local body,Rural,4,0,0,190,137,136,123,107,0,0,0,0,0,0,0,207,191,134,136,140,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,119,82,42,53,36,41,35,30,25,28,30,24,0,0,28,28,21,26,33,15,14,8,14,9,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,70,64,44,27,27,26,16,8,2,10,0,0,0,0,18,15,15,10,11,1,4,4,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,49,47,33,34,32,36,32,18,12,6,0,0,0,0,27,28,24,19,18,7,7,8,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,23,33,32,18,13,14,10,12,3,0,0,0,0,0,31,12,15,13,13,6,7,6,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,74,48,55,39,32,30,28,9,5,13,0,0,0,0,22,23,18,20,16,1,0,3,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,12,5,33,29,29,27,24,8,2,4,0,0,0,0,10,10,14,17,5,5,2,2,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,7,5,3,1,1,1,1,0,0,0,0,0,0,0,1,2,2,2,0,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,145,103,75,47,28,23,25,20,14,5,0,0,0,0,38,18,17,16,16,8,6,3,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,10,7,2,4,3,1,1,6,2,6,4,5,5,5,5,4,2,2,3,6,4,2,3,2,2,3,OBC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,25,14,16,14,10,5,7,0,0,0,0,0,0,0,9,5,8,5,9,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,20,16,17,8,9,14,12,0,0,0,0,0,0,0,10,8,5,8,4,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,81,99,54,44,14,0,0,0,0,0,0,0,57,78,41,39,17,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,48,36,44,47,26,0,0,0,0,0,0,0,33,46,38,59,38,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,6,5,4,16,5,0,0,0,0,0,0,0,4,5,12,20,6,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,23,7,5,6,4,0,0,0,0,0,0,0,7,9,6,3,2,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,15,11,12,5,5,0,0,0,0,0,0,0,7,4,6,5,9,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,29,40,37,25,17,1,2,4,0,0,0,0,41,38,35,29,15,3,0,2,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,30,29,33,25,6,0,0,0,0,0,0,0,36,26,24,25,10,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,11,18,500,423,472,648,336,6,1,0,0,0,0,0,412,392,390,603,364,9,3,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,24,22,32,33,29,43,30,0,0,0,0,0,0,0,28,26,28,25,20,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,23,25,13,20,9,0,0,0,0,0,0,0,23,38,21,13,5,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,16,10,14,16,17,0,0,0,0,0,0,0,15,19,17,10,13,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,6,SS (I-X),1,Department of Education,Rural,4,0,0,0,0,0,2,2,5,2,4,13,6,0,0,0,1,2,2,0,3,8,4,3,3,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,6,SS (I-X),1,Department of Education,Rural,4,0,0,21,30,22,23,10,54,33,58,52,45,13,0,31,35,22,26,27,65,50,36,69,43,26,0,OBC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,6,SS (I-X),1,Department of Education,Rural,4,0,0,3,5,1,1,0,4,0,2,1,0,0,0,4,2,2,4,0,1,4,1,2,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,6,SS (I-X),1,Department of Education,Rural,4,0,0,2,4,4,2,4,2,4,4,8,8,0,0,5,3,3,8,6,11,8,2,7,9,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,6,SS (I-X),1,Department of Education,Rural,4,0,0,7,4,5,3,5,5,8,6,8,7,0,0,7,8,2,5,5,11,8,6,14,12,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,6,SS (I-X),1,Department of Education,Rural,4,0,0,4,0,5,4,2,5,1,8,5,2,1,0,1,3,2,4,1,11,5,9,21,8,10,0,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,6,SS (I-X),1,Department of Education,Urban,4,0,0,35,29,22,41,38,29,12,19,23,16,0,0,22,22,21,42,45,39,18,19,23,12,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,6,SS (I-X),1,Department of Education,Urban,4,0,0,4,2,1,0,1,1,5,7,14,3,0,0,7,1,3,1,4,3,0,2,1,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,331,226,256,217,195,253,278,245,284,275,329,397,7,0,171,172,145,135,155,133,129,141,214,193,2,0,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,96,64,214,192,214,228,183,193,194,207,279,367,0,0,160,146,128,146,120,114,122,108,156,196,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,117,80,69,71,61,64,58,96,80,72,101,133,0,0,36,39,48,37,32,45,46,20,36,40,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,99,52,39,48,45,48,61,64,57,64,74,69,13,12,34,28,30,39,42,34,32,29,43,41,12,5,OBC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,327,263,142,175,169,145,182,193,180,185,220,202,0,0,108,114,116,110,102,108,108,105,88,103,5,0,OBC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,16,4,85,72,102,87,100,106,93,99,138,253,0,0,61,50,53,52,45,58,40,40,58,64,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,73,60,35,45,36,39,40,44,41,30,17,15,0,0,22,31,33,35,20,23,31,19,18,22,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,355,268,268,290,266,286,274,258,303,291,455,524,15,48,258,211,201,232,218,235,202,219,303,275,10,21,OBC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,194,130,92,80,71,78,93,85,70,91,80,120,0,0,53,49,47,65,55,45,39,36,54,63,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,82,49,56,58,54,75,73,47,64,74,105,67,0,0,27,36,34,41,59,41,35,40,61,45,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,44,22,31,21,28,35,37,28,30,41,26,29,0,0,28,18,17,23,18,28,26,24,27,35,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,33,31,43,43,41,65,52,43,50,56,72,59,0,0,36,25,30,50,39,28,37,30,41,44,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,8,SS (IX-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,7,SS (VI-X),1,Department of Education,Rural,4,0,0,126,95,93,117,104,131,132,167,345,221,166,15,162,144,137,145,172,232,220,201,498,363,188,29,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,7,SS (VI-X),1,Department of Education,Rural,4,0,0,124,101,92,96,104,175,171,201,363,218,137,11,169,131,114,151,142,203,178,193,362,294,126,9,OBC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,7,SS (VI-X),1,Department of Education,Rural,4,0,0,165,88,119,95,115,179,176,201,303,228,101,31,166,123,133,154,152,236,231,224,411,309,148,47,OBC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,7,SS (VI-X),1,Department of Education,Rural,4,0,0,83,65,54,70,74,112,112,121,255,155,81,15,101,90,70,95,89,163,146,157,281,182,134,18,OBC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,7,SS (VI-X),1,Department of Education,Rural,4,0,0,117,103,115,91,92,150,168,186,330,230,115,18,127,110,95,103,111,206,163,174,339,247,128,14,OBC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,7,SS (VI-X),1,Department of Education,Rural,4,0,0,70,56,48,50,55,96,74,92,148,87,44,20,105,82,62,64,82,151,147,170,257,151,116,18,OBC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,7,SS (VI-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,7,SS (VI-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,17,9,15,1,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,7,SS (VI-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,25,20,24,0,0,0,0,0,0,0,0,0,33,29,20,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,11,33,0,0,0,0,0,0,0,0,0,0,0,1,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,16,19,9,8,15,10,22,15,14,10,15,7,0,0,14,14,17,6,12,11,12,9,17,15,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,6,14,23,20,39,0,0,0,0,0,0,0,2,2,2,2,13,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,7,12,16,16,22,0,0,0,0,0,0,0,7,3,6,8,14,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,13,14,13,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,426,308,255,262,271,396,337,302,33,11,9,0,475,387,354,381,368,501,483,410,21,17,3,0,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,363,320,241,239,256,308,314,248,38,23,5,0,519,368,364,390,385,490,446,449,38,19,15,0,OBC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,292,243,201,220,204,222,226,198,1,1,0,0,335,274,262,299,321,421,349,343,5,2,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,107,87,84,79,88,133,135,111,37,31,12,0,175,148,127,122,159,204,186,197,58,45,11,0,OBC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,253,190,161,146,141,245,180,163,39,26,19,0,292,242,203,220,223,368,290,277,34,15,12,0,OBC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,116,74,73,86,78,131,128,78,25,11,1,0,155,118,130,129,142,290,229,237,29,10,13,0,OBC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,10,9,8,4,7,10,7,5,0,0,0,0,7,7,8,12,6,20,17,15,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,60,60,72,51,44,56,46,46,0,0,0,0,80,75,67,45,62,96,77,54,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,31,38,28,13,10,20,10,10,0,0,0,0,32,39,36,28,28,31,18,22,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,12,14,7,3,6,5,2,6,0,0,0,0,17,16,11,20,10,20,19,23,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,22,17,13,9,12,10,13,10,0,0,0,0,25,17,13,6,18,20,23,22,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,6,11,10,6,3,3,1,8,0,0,0,0,6,10,7,9,7,8,9,12,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,2,UPS (I-VIII),3,Local body,Rural,4,0,0,2,3,0,3,3,0,0,0,0,0,0,0,2,1,2,2,2,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,755,565,396,380,343,366,375,340,314,265,0,0,0,0,329,284,287,254,223,201,202,197,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,487,366,425,349,389,383,435,296,299,239,22,19,0,0,314,262,247,254,257,223,167,147,7,9,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,323,199,182,175,180,183,186,168,144,144,18,22,0,0,143,109,100,98,88,62,73,58,5,12,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,432,365,233,222,218,241,218,173,153,125,0,0,0,0,164,148,132,121,158,99,84,66,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,853,616,409,395,313,329,314,284,234,218,4,8,0,0,322,254,211,234,196,148,137,123,4,4,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,126,74,341,297,322,291,271,233,231,223,32,0,0,0,249,233,197,157,158,151,112,116,16,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,89,57,44,50,29,28,35,21,30,29,0,0,0,0,32,29,21,32,15,25,16,18,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,576,459,411,332,334,338,264,223,210,212,0,0,0,0,347,256,208,225,192,176,123,122,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,295,213,116,76,78,65,57,39,27,22,0,0,0,0,43,52,43,34,32,21,27,13,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,263,193,93,130,117,96,124,111,101,60,0,0,0,0,84,101,88,94,67,94,47,50,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,79,57,31,31,22,44,29,38,29,29,0,0,0,0,27,27,23,21,25,19,20,15,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,61,52,64,47,44,55,38,38,41,44,0,0,0,0,36,39,41,35,34,32,26,18,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82206,UNIYARA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,1,1,4,9,7,2,7,3,0,0,0,0,1,4,6,3,3,7,5,10,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,51,48,41,38,29,31,25,8,0,0,0,0,25,24,31,24,27,30,11,3,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,11,1,1,2,7,4,2,2,0,0,0,0,10,0,3,2,0,2,2,7,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82205,DEOLI,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,9,9,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82201,MALPURA,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,17,11,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82202,TONK,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,13,8,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82204,TODARAISINGH,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,13,20,0,0,0,0,OBC
+2015-16,8,Rajasthan,822,TONK,82203,NEWAI,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,0,0,0,0,0,29,24,31,0,0,0,0,0,0,0,0,0,19,15,7,0,0,0,0,OBC

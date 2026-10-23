@@ -1,0 +1,734 @@
+ac_year,st_code,state_name,dt_code,district_name,block_cd,udise_block_name,loc_name,sch_category_id,tr_cat_name,school_category,sch_mgmt_id,sch_mgmt_name,caste_id,caste_name,pre_primary_boy,pre_primary_girl,class1_boy,class2_boy,class3_boy,class4_boy,class5_boy,class6_boy,class7_boy,class8_boy,class9_boy,class10_boy,class11_boy,class12_boy,class1_girl,class2_girl,class3_girl,class4_girl,class5_girl,class6_girl,class7_girl,class8_girl,class9_girl,class10_girl,class11_girl,class12_girl
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,65,48,59,71,65,62,57,57,0,0,0,0,0,0,34,45,48,48,49,37,1,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191003,NAKASHIPARA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,13,15,11,2,6,4,0,1,0,2,0,0,0,0,10,6,6,0,1,0,1,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,6,7,10,14,18,12,6,15,12,5,0,0,0,0,3,8,7,7,6,6,2,3,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191006,KRISHNAGANJ,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,40,39,11,17,12,9,6,5,4,5,0,0,0,0,8,4,11,13,7,3,2,3,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191009,TEHATTA - II,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,41,44,7,11,8,6,11,14,12,12,0,0,0,0,16,4,5,9,10,15,5,12,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191010,KARIMPUR - I,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,5,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191011,KARIMPUR - II,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,5,11,4,7,9,31,14,20,0,0,0,0,4,5,7,6,13,11,9,9,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,94,70,14,18,20,6,0,0,0,0,0,0,0,0,16,21,19,9,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,9,2,0,0,1,0,1,1,1,1,0,0,0,0,1,1,0,2,0,0,0,1,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191015,SANTIPUR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,4,8,1,2,2,2,0,0,1,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,5,4,3,3,6,4,2,0,0,0,0,0,0,0,4,4,4,3,0,1,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,3,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191022,BIRNAGAR MUNI,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,1,0,2,2,1,1,4,3,2,1,0,0,0,0,3,1,1,1,1,3,1,2,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191025,CHAKDAH MUNI,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191028,HARINGHATA MUNI,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,2,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,25,27,12,45,0,0,0,0,0,0,0,0,33,37,15,47,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191002,KRISHNAGAR - II,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,73,68,51,102,0,0,0,0,0,0,0,0,74,58,46,90,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191003,NAKASHIPARA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,27,15,26,25,0,0,0,0,0,0,0,0,17,27,35,26,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191004,KALIGANJ,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,36,25,35,40,0,0,0,0,0,0,0,0,96,76,60,108,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,198,235,163,260,0,0,0,0,0,0,0,0,153,131,76,162,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191006,KRISHNAGANJ,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,15,14,6,15,0,0,0,0,0,0,0,0,16,8,4,20,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191007,NABADWIP,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,63,68,56,97,0,0,0,0,0,0,0,0,92,86,92,86,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191008,TEHATTA - I,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,3,1,2,16,0,0,0,0,0,0,0,0,3,6,4,11,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191009,TEHATTA - II,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,2,4,6,6,0,0,0,0,0,0,0,0,5,5,7,13,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191010,KARIMPUR - I,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,19,19,5,16,0,0,0,0,0,0,0,0,15,12,8,15,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191011,KARIMPUR - II,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,53,76,61,82,0,0,0,0,0,0,0,0,78,79,60,104,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191012,HANSKHALI,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,35,46,35,42,0,0,0,0,0,0,0,0,42,18,23,44,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,10,6,8,12,0,0,0,0,0,0,0,0,6,5,9,9,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,28,31,25,13,0,0,0,0,0,0,0,0,35,18,28,20,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191015,SANTIPUR,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,64,45,32,77,0,0,0,0,0,0,0,0,42,47,23,58,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,6,3,3,5,0,0,0,0,0,0,0,0,0,5,0,1,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191017,HARINGHATA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,14,8,10,16,0,0,0,0,0,0,0,0,17,8,13,18,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,1,1,2,3,0,0,0,0,0,0,0,0,0,2,2,4,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191022,BIRNAGAR MUNI,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191024,GAYESHPUR MUNI,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191028,HARINGHATA MUNI,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,0,0,3,2,5,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191003,NAKASHIPARA,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,2,3,2,1,0,0,0,0,0,0,0,0,3,4,3,3,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191004,KALIGANJ,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,20,31,23,5,0,0,0,0,0,0,0,0,19,26,22,18,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,16,25,18,23,0,0,0,0,0,0,0,0,12,17,7,16,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191006,KRISHNAGANJ,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191008,TEHATTA - I,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,9,8,5,15,0,0,0,0,0,0,0,0,21,33,22,31,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191009,TEHATTA - II,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191011,KARIMPUR - II,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,16,20,16,14,0,0,0,0,0,0,0,0,16,10,20,27,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191012,HANSKHALI,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,20,18,18,19,0,0,0,0,0,0,0,0,18,20,20,20,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191012,HANSKHALI,Rural,4,cat4,UPS (VI-VIII),98,Madarsa unrecognized,4,OBC,0,0,0,0,0,0,13,11,9,12,0,0,0,0,0,0,0,0,6,5,11,11,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,3,cat3,HSS (I-XII),1,Department of Education,1,General,0,0,0,1,2,11,29,35,55,47,29,29,9,11,3,4,4,6,20,25,45,37,32,30,16,5
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,3,cat3,HSS (I-XII),1,Department of Education,1,General,12,0,46,52,55,60,75,72,66,65,72,46,70,72,0,0,17,22,19,17,21,21,24,24,26,24
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,132,138,42,28,26,32,26,38,35,20,26,23,34,26,28,4,14,30,21,30,30,22,25,19,18,17
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,115,90,126,116,154,128,113,125,95,107,104,91,92,72,91,110,104,90,90,90,95,80,76,68,68,51
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,117,101,196,201,220,175,143,176,151,131,116,100,90,99,124,138,135,109,127,115,114,114,81,93,66,74
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,114,72,82,118,117,126,123,149,151,170,162,132,139,149,86,111,74,104,106,130,133,105,127,118,106,126
+2019-20,19,West Bengal,1910,NADIA,191025,CHAKDAH MUNI,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,31,20,31,21,24,24,31,13,10,2,3,4,4,0,23,16,25,31,21,6,2,2,3,3,1,0
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,3,cat3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,1,General,0,0,10,16,24,15,18,20,18,15,17,26,9,6,11,18,15,16,14,8,19,19,18,19,14,4
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,472,341,436,578,761,525,487,395,0,0,0,0,520,417,307,616,801,631,467,402
+2019-20,19,West Bengal,1910,NADIA,191002,KRISHNAGAR - II,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,338,229,247,361,457,370,454,457,0,0,0,0,356,360,296,426,560,559,468,403
+2019-20,19,West Bengal,1910,NADIA,191003,NAKASHIPARA,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,1811,1367,1305,1975,2327,1517,1244,1159,0,0,0,0,1785,1423,1366,2021,2650,1940,1427,1357
+2019-20,19,West Bengal,1910,NADIA,191004,KALIGANJ,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,1775,1339,1590,1778,2501,1734,1465,1302,0,0,0,0,1590,1086,1207,1481,2669,1976,1766,1436
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,1083,856,772,1079,1605,939,892,721,0,0,0,0,1023,732,880,1094,2031,1226,1166,914
+2019-20,19,West Bengal,1910,NADIA,191006,KRISHNAGANJ,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,211,102,202,199,245,234,232,191,0,0,0,0,192,103,132,184,273,165,197,231
+2019-20,19,West Bengal,1910,NADIA,191007,NABADWIP,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,211,228,186,166,382,398,210,164,0,0,0,0,195,176,197,169,391,444,223,177
+2019-20,19,West Bengal,1910,NADIA,191008,TEHATTA - I,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,707,380,584,676,858,701,683,600,0,0,0,0,720,323,542,688,909,912,677,685
+2019-20,19,West Bengal,1910,NADIA,191009,TEHATTA - II,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,628,373,516,574,900,666,565,627,0,0,0,0,599,320,484,655,825,761,594,671
+2019-20,19,West Bengal,1910,NADIA,191010,KARIMPUR - I,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,798,618,548,811,1049,771,701,631,0,0,0,0,700,425,524,785,998,683,712,650
+2019-20,19,West Bengal,1910,NADIA,191011,KARIMPUR - II,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,613,410,333,594,769,574,546,475,0,0,0,0,528,412,319,576,814,598,573,437
+2019-20,19,West Bengal,1910,NADIA,191012,HANSKHALI,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,360,284,264,371,436,385,436,393,0,0,0,0,339,236,255,328,428,398,413,474
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,327,212,185,332,453,337,441,441,0,0,0,0,349,196,172,317,406,410,473,458
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,565,336,430,501,657,560,411,446,0,0,0,0,368,309,214,409,559,510,360,387
+2019-20,19,West Bengal,1910,NADIA,191015,SANTIPUR,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,509,412,354,542,638,347,330,334,0,0,0,0,409,316,271,491,677,354,364,284
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,584,481,488,580,722,682,590,642,0,0,0,0,541,354,445,632,722,599,700,640
+2019-20,19,West Bengal,1910,NADIA,191017,HARINGHATA,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,415,282,211,290,378,325,256,215,0,0,0,0,328,253,229,312,429,323,274,303
+2019-20,19,West Bengal,1910,NADIA,191018,NABADWIP MUNI ,Urban,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,444,365,284,357,461,387,377,429,0,0,0,0,519,397,190,415,503,423,454,505
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,726,557,337,582,761,628,545,496,0,0,0,0,747,589,455,561,698,569,617,537
+2019-20,19,West Bengal,1910,NADIA,191020,RANAGHAT MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,662,446,403,403,524,504,502,551,0,0,0,0,415,464,315,359,473,475,447,505
+2019-20,19,West Bengal,1910,NADIA,191021,SANTIPUR MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,672,499,368,545,789,488,461,453,0,0,0,0,727,590,532,563,1081,780,668,659
+2019-20,19,West Bengal,1910,NADIA,191022,BIRNAGAR MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,78,50,39,65,72,42,79,54,0,0,0,0,74,27,68,73,79,92,82,89
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,183,113,113,124,138,147,221,199,0,0,0,0,127,93,112,93,137,141,198,158
+2019-20,19,West Bengal,1910,NADIA,191024,GAYESHPUR MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,97,108,147,144,174,161,179,144,0,0,0,0,167,129,157,162,224,225,208,195
+2019-20,19,West Bengal,1910,NADIA,191025,CHAKDAH MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,511,383,389,462,565,403,487,475,0,0,0,0,404,322,394,411,473,395,499,527
+2019-20,19,West Bengal,1910,NADIA,191026,TEHARPUR NAA,Urban,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,97,100,47,153,206,150,146,126,0,0,0,0,80,78,37,99,94,113,64,80
+2019-20,19,West Bengal,1910,NADIA,191028,HARINGHATA MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,251,162,208,241,217,250,259,195,0,0,0,0,317,243,321,254,368,335,295,304
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,75,71,97,81,69,85,87,83,0,0,0,0,70,68,78,79,70,83,83,80
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,5,cat5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,1,General,0,0,0,0,0,0,0,8,10,9,11,10,6,4,0,0,0,0,0,2,11,6,8,8,11,8
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,11,cat11,HSS (XI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,0,0,80,91,0,0,0,0,0,0,0,0,0,0,81,62
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,586,585,758,751,806,813,3,0,0,0,0,0,0,0,648,769,777,752,3,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191002,KRISHNAGAR - II,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,534,449,568,582,609,582,0,0,0,0,0,0,0,0,553,554,622,586,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191003,NAKASHIPARA,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,1692,1653,1962,2244,2262,2277,65,0,0,0,0,0,0,0,1915,2046,2124,2142,46,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191004,KALIGANJ,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,1980,1950,2399,2480,2528,2501,0,0,0,0,0,0,0,0,2253,2480,2363,2350,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,1369,1448,1577,1639,1655,1630,0,0,0,0,0,0,0,0,1503,1640,1619,1504,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191006,KRISHNAGANJ,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,195,182,192,205,219,210,3,0,0,0,0,0,0,0,194,197,231,250,8,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191007,NABADWIP,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,511,531,647,666,669,666,0,0,0,0,0,0,0,0,571,659,637,627,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191008,TEHATTA - I,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,492,536,645,737,709,716,0,0,0,0,0,0,0,0,652,713,679,709,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191009,TEHATTA - II,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,591,591,777,903,891,922,11,0,0,0,0,0,0,0,721,878,889,910,17,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191010,KARIMPUR - I,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,720,702,831,772,832,798,58,0,0,0,0,0,0,0,790,815,797,803,39,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191011,KARIMPUR - II,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,777,747,921,913,890,862,49,0,0,0,0,0,0,0,884,943,920,850,57,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191012,HANSKHALI,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,381,337,468,428,500,509,34,0,0,0,0,0,0,0,427,395,453,506,23,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,319,362,451,420,463,487,14,0,0,0,0,0,0,0,425,434,432,445,11,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,552,583,674,691,743,741,14,0,0,0,0,0,0,0,688,701,690,763,15,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191015,SANTIPUR,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,527,490,589,625,606,642,0,0,0,0,0,0,0,0,565,601,597,630,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,558,606,667,696,751,789,11,0,0,0,0,0,0,0,685,753,734,734,7,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191017,HARINGHATA,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,410,393,438,465,433,534,4,0,0,0,0,0,0,0,438,461,495,501,8,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Urban,1,cat1,PS (I-V),1,Department of Education,1,General,1,3,2,3,2,0,0,0,0,0,0,0,0,0,1,4,5,5,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191003,NAKASHIPARA,Urban,1,cat1,PS (I-V),1,Department of Education,1,General,24,19,20,23,19,23,0,0,0,0,0,0,0,0,16,28,33,19,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Urban,1,cat1,PS (I-V),1,Department of Education,1,General,1,3,3,3,5,5,0,0,0,0,0,0,0,0,1,3,5,10,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191018,NABADWIP MUNI ,Urban,1,cat1,PS (I-V),1,Department of Education,1,General,242,304,323,316,312,366,0,0,0,0,0,0,0,0,327,350,354,326,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,1,General,516,417,653,679,654,687,0,0,0,0,0,0,0,0,651,636,694,664,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191020,RANAGHAT MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,1,General,176,176,225,211,234,267,3,0,0,0,0,0,0,0,211,227,240,289,2,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191021,SANTIPUR MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,1,General,345,349,446,473,476,527,0,0,0,0,0,0,0,0,434,459,491,487,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191022,BIRNAGAR MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,1,General,27,27,49,47,41,75,0,0,0,0,0,0,0,0,35,36,42,65,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,1,General,61,38,63,66,68,77,0,0,0,0,0,0,0,0,52,46,73,68,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191024,GAYESHPUR MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,1,General,53,58,91,103,96,101,1,0,0,0,0,0,0,0,69,83,81,86,1,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191025,CHAKDAH MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,1,General,202,186,240,252,255,318,0,0,0,0,0,0,0,0,226,216,223,311,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191026,TEHARPUR NAA,Urban,1,cat1,PS (I-V),1,Department of Education,1,General,26,37,50,55,67,79,0,0,0,0,0,0,0,0,43,50,58,81,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191027,RANAGHAT COOPERS NAA,Urban,1,cat1,PS (I-V),1,Department of Education,1,General,2,1,5,5,5,5,0,0,0,0,0,0,0,0,4,8,6,5,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191028,HARINGHATA MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,1,General,84,65,100,107,98,126,0,0,0,0,0,0,0,0,108,111,117,117,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191018,NABADWIP MUNI ,Urban,1,cat1,PS (I-V),3,Local body,1,General,97,95,175,158,165,166,0,0,0,0,0,0,0,0,159,166,182,161,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,1,cat1,PS (I-V),3,Local body,1,General,4,2,4,2,3,1,0,0,0,0,0,0,0,0,3,2,2,4,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191021,SANTIPUR MUNI,Urban,1,cat1,PS (I-V),3,Local body,1,General,73,58,86,67,82,87,0,0,0,0,0,0,0,0,70,56,68,73,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,1,cat1,PS (I-V),3,Local body,1,General,17,15,10,12,11,8,0,0,0,0,0,0,0,0,21,14,15,12,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191024,GAYESHPUR MUNI,Urban,1,cat1,PS (I-V),3,Local body,1,General,18,35,17,15,0,2,0,0,0,0,0,0,0,0,32,11,2,1,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191026,TEHARPUR NAA,Urban,1,cat1,PS (I-V),3,Local body,1,General,0,0,26,24,2,2,0,0,0,0,0,0,0,0,27,23,7,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191028,HARINGHATA MUNI,Urban,1,cat1,PS (I-V),3,Local body,1,General,12,9,14,10,10,13,0,0,0,0,0,0,0,0,14,15,16,14,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,484,418,174,141,87,69,0,0,0,0,0,0,0,0,117,112,78,62,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191002,KRISHNAGAR - II,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,522,395,124,99,67,48,0,0,0,0,0,0,0,0,90,80,44,42,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191003,NAKASHIPARA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,455,337,260,222,190,139,0,0,0,0,0,0,0,0,207,180,136,148,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191004,KALIGANJ,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,1275,958,397,329,242,203,0,0,0,0,0,0,0,0,324,283,193,153,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,798,731,339,259,253,209,0,0,0,0,0,0,0,0,337,272,241,178,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191006,KRISHNAGANJ,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,115,110,24,26,26,17,0,0,0,0,0,0,0,0,37,26,16,11,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191007,NABADWIP,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,192,162,75,62,49,43,0,0,0,0,0,0,0,0,74,64,59,28,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191008,TEHATTA - I,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,881,815,267,233,162,114,6,0,0,0,0,0,0,0,266,208,148,96,2,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191009,TEHATTA - II,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,723,614,348,263,197,149,7,0,0,0,0,0,0,0,272,186,147,129,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191010,KARIMPUR - I,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,362,285,145,105,90,73,0,0,0,0,0,0,0,0,122,101,71,71,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191011,KARIMPUR - II,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,762,717,257,197,164,101,9,0,0,0,0,0,0,0,227,195,140,86,7,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191012,HANSKHALI,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,469,257,243,92,64,61,10,0,0,0,0,0,0,0,175,68,76,58,15,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,312,248,129,102,71,68,0,0,0,0,0,0,0,0,90,95,80,58,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,598,436,291,236,165,140,0,0,0,0,0,0,0,0,279,180,120,99,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191015,SANTIPUR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,297,223,140,155,127,141,0,0,0,0,0,0,0,0,156,132,130,110,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,549,444,265,215,196,175,0,0,0,0,0,0,0,0,249,218,164,134,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191017,HARINGHATA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,416,347,119,138,116,51,0,0,0,0,0,0,0,0,114,104,86,65,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,23,29,23,25,21,20,0,0,0,0,0,0,0,0,28,19,22,13,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191018,NABADWIP MUNI ,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,495,371,284,254,169,168,0,0,0,0,0,0,0,0,251,212,177,165,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,1097,1009,189,152,139,88,0,0,0,0,0,0,0,0,161,142,95,82,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191020,RANAGHAT MUNI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,326,313,306,255,264,193,0,0,0,0,0,0,0,0,216,215,207,156,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191021,SANTIPUR MUNI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,414,348,268,294,202,186,11,0,0,0,0,0,0,0,240,230,200,181,7,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191022,BIRNAGAR MUNI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,162,121,40,30,19,6,0,0,0,0,0,0,0,0,22,35,20,5,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,165,171,240,233,231,221,0,0,0,0,0,0,0,0,275,212,231,242,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191024,GAYESHPUR MUNI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,57,55,16,13,22,15,0,0,0,0,0,0,0,0,24,21,12,18,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191025,CHAKDAH MUNI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,322,298,174,152,151,113,0,0,0,0,0,0,0,0,183,193,155,128,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191026,TEHARPUR NAA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,46,20,24,17,0,0,0,0,0,0,0,0,30,28,22,15,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191027,RANAGHAT COOPERS NAA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,22,17,12,12,9,6,0,0,0,0,0,0,0,0,10,9,5,6,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191028,HARINGHATA MUNI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,153,149,106,88,73,66,0,0,0,0,0,0,0,0,78,92,88,61,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191010,KARIMPUR - I,Rural,1,cat1,PS (I-V),8,Unrecognized,1,General,0,0,7,9,7,8,0,0,0,0,0,0,0,0,5,8,10,10,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191011,KARIMPUR - II,Rural,1,cat1,PS (I-V),8,Unrecognized,1,General,4,5,5,5,6,14,0,0,0,0,0,0,0,0,8,7,9,17,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191009,TEHATTA - II,Rural,1,cat1,PS (I-V),98,Madarsa unrecognized,1,General,23,27,8,9,9,5,0,0,0,0,0,0,0,0,11,9,8,6,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191010,KARIMPUR - I,Rural,1,cat1,PS (I-V),98,Madarsa unrecognized,1,General,5,4,6,8,9,8,0,0,0,0,0,0,0,0,5,4,7,6,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191011,KARIMPUR - II,Rural,1,cat1,PS (I-V),98,Madarsa unrecognized,1,General,14,9,17,13,16,20,18,0,0,0,0,0,0,0,18,17,16,25,15,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191011,KARIMPUR - II,Rural,6,cat6,SS (I-X),1,Department of Education,1,General,0,0,14,9,10,6,18,11,16,20,42,33,0,0,9,6,8,4,7,5,11,18,38,28,0,0
+2019-20,19,West Bengal,1910,NADIA,191012,HANSKHALI,Rural,6,cat6,SS (I-X),1,Department of Education,1,General,8,6,12,11,8,6,20,12,12,53,60,54,0,0,5,7,6,6,13,12,11,22,66,38,0,0
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,84,30,40,42,39,15,21,14,20,16,18,10,0,0,23,18,24,16,19,13,5,4,5,4,0,0
+2019-20,19,West Bengal,1910,NADIA,191004,KALIGANJ,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,15,15,5,6,8,7,21,20,22,14,13,5,0,0,8,1,1,1,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,236,92,144,133,108,93,108,92,112,83,98,54,0,0,75,45,40,44,28,17,19,21,20,27,0,0
+2019-20,19,West Bengal,1910,NADIA,191007,NABADWIP,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,60,46,40,43,28,25,33,18,24,27,22,16,0,0,18,18,28,23,20,17,17,17,18,4,0,0
+2019-20,19,West Bengal,1910,NADIA,191008,TEHATTA - I,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,33,30,20,21,30,22,18,24,23,14,18,20,0,0,19,15,12,20,13,17,11,15,4,5,0,0
+2019-20,19,West Bengal,1910,NADIA,191009,TEHATTA - II,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,22,10,6,14,9,5,18,19,11,12,5,0,0,0,6,5,11,8,6,6,4,2,6,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191010,KARIMPUR - I,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,32,20,37,24,29,20,12,9,9,13,0,0,0,0,38,17,26,8,15,9,13,6,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,56,51,36,32,34,34,23,30,30,45,0,0,0,0,34,59,40,28,50,37,34,48,15,29,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,117,117,52,41,63,53,50,30,42,30,55,62,0,0,37,45,35,27,28,34,29,28,40,56,0,0
+2019-20,19,West Bengal,1910,NADIA,191018,NABADWIP MUNI ,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,67,56,33,32,42,38,34,34,22,26,0,0,0,0,28,32,30,27,22,22,12,12,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,12,9,18,9,16,15,9,17,22,50,49,42,0,0,12,5,16,8,7,15,12,20,36,22,0,0
+2019-20,19,West Bengal,1910,NADIA,191024,GAYESHPUR MUNI,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,198,197,96,87,81,86,90,74,78,77,88,79,0,0,76,100,102,79,63,64,64,66,64,62,0,0
+2019-20,19,West Bengal,1910,NADIA,191028,HARINGHATA MUNI,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,0,0,3,4,2,3,4,3,6,3,7,6,0,0,2,2,3,2,1,0,2,0,1,1,0,0
+2019-20,19,West Bengal,1910,NADIA,191018,NABADWIP MUNI ,Urban,6,cat6,SS (I-X),6,Other Govt. managed schools,1,General,2,2,1,1,1,3,3,2,0,1,3,1,0,0,2,2,2,1,2,1,3,2,2,7,0,0
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,6,cat6,SS (I-X),92,Kendriya Vidyalaya / Central School,1,General,0,0,14,7,15,13,23,13,14,19,15,12,0,0,15,10,14,16,17,12,15,13,17,16,0,0
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,6,cat6,SS (I-X),98,Madarsa unrecognized,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,22,23,15,35,25,15,25,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,5,10,3,16,11,10,0,0,0,0,0,0,17,3,10,8,15,7,0,0
+2019-20,19,West Bengal,1910,NADIA,191002,KRISHNAGAR - II,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,3,1,3,5,0,0
+2019-20,19,West Bengal,1910,NADIA,191003,NAKASHIPARA,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,232,205,177,245,218,184,0,0,0,0,0,0,213,161,194,242,290,237,0,0
+2019-20,19,West Bengal,1910,NADIA,191004,KALIGANJ,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,68,69,53,62,116,39,0,0,0,0,0,0,343,338,176,373,546,478,0,0
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,0,1,1,1,13,4,0,0,0,0,0,0,52,23,47,30,87,76,0,0
+2019-20,19,West Bengal,1910,NADIA,191006,KRISHNAGANJ,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,17,16,5,25,36,25,0,0,0,0,0,0,38,32,12,36,60,39,0,0
+2019-20,19,West Bengal,1910,NADIA,191008,TEHATTA - I,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,9,6,5,11,15,16,0,0,0,0,0,0,7,3,4,6,12,15,0,0
+2019-20,19,West Bengal,1910,NADIA,191009,TEHATTA - II,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,5,3,15,4,16,18,0,0,0,0,0,0,85,93,69,108,80,53,0,0
+2019-20,19,West Bengal,1910,NADIA,191011,KARIMPUR - II,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,2,1,1,3,3,3,0,0,0,0,0,0,93,96,22,101,147,96,0,0
+2019-20,19,West Bengal,1910,NADIA,191012,HANSKHALI,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,41,27,7,39,60,41,0,0,0,0,0,0,72,63,20,58,100,85,0,0
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,52,54,25,80,58,50,0,0,0,0,0,0,65,57,25,65,57,35,0,0
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,22,15,42,45,44,49,0,0,0,0,0,0,19,20,13,28,46,17,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,34,31,17,31,41,44,0,0,0,0,0,0,131,106,116,122,163,136,0,0
+2019-20,19,West Bengal,1910,NADIA,191017,HARINGHATA,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,4,3,0,2,4,3,0,0,0,0,0,0,36,25,16,24,26,30,0,0
+2019-20,19,West Bengal,1910,NADIA,191018,NABADWIP MUNI ,Urban,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,24,24,29,31,42,11,0,0,0,0,0,0,26,14,41,36,77,31,0,0
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,5,3,6,5,7,3,0,0,0,0,0,0,28,27,31,29,54,33,0,0
+2019-20,19,West Bengal,1910,NADIA,191020,RANAGHAT MUNI,Urban,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,2,4,5,9,52,61,0,0,0,0,0,0,44,52,18,48,120,146,0,0
+2019-20,19,West Bengal,1910,NADIA,191021,SANTIPUR MUNI,Urban,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,2,2,0,1,1,0,0,0,0,0,0,0,6,1,5,16,4,11,0,0
+2019-20,19,West Bengal,1910,NADIA,191024,GAYESHPUR MUNI,Urban,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,17,14,20,11,10,7,0,0,0,0,0,0,10,18,13,7,17,16,0,0
+2019-20,19,West Bengal,1910,NADIA,191025,CHAKDAH MUNI,Urban,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,11,9,12,11,15,23,0,0,0,0,0,0,5,14,8,13,23,19,0,0
+2019-20,19,West Bengal,1910,NADIA,191027,RANAGHAT COOPERS NAA,Urban,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,6,7,3,8,5,6,0,0,0,0,0,0,2,4,3,4,5,5,0,0
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,4,19,15,23,16,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191009,TEHATTA - II,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,50,55,77,78,55,56,0,0,0,0,0,0,21,36,26,28,39,36,0,0
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,8,5,6,3,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,11,15,13,10,19,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,57,69,20,11,9,13,2,2,1,0,0,0,0,0,15,5,11,7,1,2,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191003,NAKASHIPARA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,53,43,96,89,88,84,98,81,63,91,0,0,0,0,53,57,50,62,59,59,54,49,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191004,KALIGANJ,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,253,226,109,88,68,42,44,18,11,9,0,0,0,0,127,100,57,52,33,22,17,12,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,246,203,87,103,100,80,135,116,89,87,0,0,0,0,82,78,51,49,85,84,70,65,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191006,KRISHNAGANJ,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,146,96,39,61,36,38,10,6,7,2,0,0,0,0,33,39,26,20,9,1,5,1,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191007,NABADWIP,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,10,10,10,10,10,10,10,10,10,10,0,0,0,0,10,10,10,10,10,10,10,10,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191008,TEHATTA - I,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,20,0,7,5,3,2,6,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191009,TEHATTA - II,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,213,158,133,98,92,83,72,52,52,41,0,0,0,0,80,64,69,50,42,44,36,23,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191010,KARIMPUR - I,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,22,17,8,5,7,2,0,0,0,0,0,0,0,0,6,2,1,2,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191011,KARIMPUR - II,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,8,19,28,28,18,18,45,29,30,48,0,0,0,0,18,12,9,12,21,22,13,17,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,220,171,88,77,53,43,1,4,4,2,0,0,0,0,75,69,48,27,0,3,3,4,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,76,50,47,27,34,33,21,23,22,22,0,0,0,0,26,15,16,25,18,17,13,7,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191015,SANTIPUR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,48,37,16,11,16,17,13,12,7,9,0,0,0,0,8,10,6,13,3,3,3,8,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,122,66,43,43,30,25,7,10,7,1,0,0,0,0,30,20,23,17,9,5,5,2,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191018,NABADWIP MUNI ,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,21,24,14,8,7,7,6,5,2,0,0,0,0,0,9,11,11,7,7,3,7,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,14,12,10,12,10,6,5,4,2,3,0,0,0,0,7,6,4,2,0,2,4,1,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191020,RANAGHAT MUNI,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,8,6,14,12,6,5,3,4,0,0,0,0,0,0,8,8,6,3,1,2,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191022,BIRNAGAR MUNI,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,31,23,9,9,9,9,7,2,3,2,0,0,0,0,6,7,8,2,4,3,1,1,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,15,14,24,13,18,18,23,11,8,11,0,0,0,0,22,19,9,14,16,7,9,9,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191025,CHAKDAH MUNI,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,13,7,3,6,14,1,0,0,1,0,0,0,0,0,4,9,13,1,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191028,HARINGHATA MUNI,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,50,48,22,34,22,19,22,25,11,14,0,0,0,0,11,24,21,11,7,11,4,6,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191003,NAKASHIPARA,Rural,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,1,General,82,81,120,70,47,33,16,20,20,19,0,0,0,0,70,62,47,34,16,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191004,KALIGANJ,Rural,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,1,General,0,0,10,9,11,15,3,6,10,10,0,0,0,0,9,6,5,9,9,8,10,13,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191011,KARIMPUR - II,Rural,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,1,General,0,0,8,6,4,10,8,5,24,22,0,0,0,0,15,12,10,12,8,9,23,20,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,160,170,92,151,0,0,0,0,0,0,0,0,134,141,87,159,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191002,KRISHNAGAR - II,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,117,127,121,168,0,0,0,0,0,0,0,0,90,59,75,112,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191003,NAKASHIPARA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,253,235,257,307,0,0,0,0,0,0,0,0,216,179,234,278,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191004,KALIGANJ,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,380,315,352,350,0,0,0,0,0,0,0,0,294,290,299,395,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,214,178,145,242,0,0,0,0,0,0,0,0,164,119,125,197,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191006,KRISHNAGANJ,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,8,7,13,4,0,0,0,0,0,0,0,0,14,3,6,8,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191007,NABADWIP,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,141,155,117,103,0,0,0,0,0,0,0,0,153,114,106,104,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191008,TEHATTA - I,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,76,48,67,76,0,0,0,0,0,0,0,0,86,84,47,97,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191009,TEHATTA - II,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,247,228,200,225,0,0,0,0,0,0,0,0,196,178,142,229,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191010,KARIMPUR - I,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,115,111,72,97,0,0,0,0,0,0,0,0,51,54,44,82,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191011,KARIMPUR - II,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,101,74,95,114,0,0,0,0,0,0,0,0,98,82,94,130,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191012,HANSKHALI,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,23,35,31,24,0,0,0,0,0,0,0,0,12,23,19,19,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,23,20,18,25,0,0,0,0,0,0,0,0,30,22,22,27,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,43,34,19,32,0,0,0,0,0,0,0,0,43,41,18,33,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191015,SANTIPUR,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,34,38,19,27,0,0,0,0,0,0,0,0,22,29,10,21,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,65,56,35,52,0,0,0,0,0,0,0,0,34,32,22,62,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191017,HARINGHATA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,33,47,27,17,0,0,0,0,0,0,0,0,25,28,24,22,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,3,1,2,3,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191020,RANAGHAT MUNI,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,1,9,6,3,0,0,0,0,0,0,0,0,0,4,6,2,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191022,BIRNAGAR MUNI,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,3,1,3,5,0,0,0,0,0,0,0,0,2,2,3,3,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191024,GAYESHPUR MUNI,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191025,CHAKDAH MUNI,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191028,HARINGHATA MUNI,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,8,8,1,13,0,0,0,0,0,0,0,0,2,5,0,8,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191002,KRISHNAGAR - II,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,8,9,20,14,0,0,0,0,0,0,0,0,2,5,18,12,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191003,NAKASHIPARA,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,115,95,99,121,0,0,0,0,0,0,0,0,149,123,123,195,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191004,KALIGANJ,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,112,109,90,146,0,0,0,0,0,0,0,0,124,125,107,120,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,131,109,77,118,0,0,0,0,0,0,0,0,69,63,49,103,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191006,KRISHNAGANJ,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191008,TEHATTA - I,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,10,15,7,9,0,0,0,0,0,0,0,0,6,6,6,5,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191009,TEHATTA - II,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,35,22,54,29,0,0,0,0,0,0,0,0,52,31,52,63,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191010,KARIMPUR - I,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,30,33,39,66,0,0,0,0,0,0,0,0,35,34,37,50,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191011,KARIMPUR - II,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,24,28,26,40,0,0,0,0,0,0,0,0,16,18,11,22,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191004,KALIGANJ,Rural,4,cat4,UPS (VI-VIII),98,Madarsa unrecognized,1,General,0,0,0,0,0,0,13,10,13,14,0,0,0,0,0,0,0,0,22,23,24,26,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,3,cat3,HSS (I-XII),1,Department of Education,2,SC,16,0,24,23,24,27,30,28,25,25,29,18,41,45,0,0,19,25,16,18,17,18,17,18,23,23
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,0,0,3,8,3,5,9,2,12,3,23,26,13,17,6,18,0,4,11,6,4,6,9,21,2,12
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,37,30,35,43,32,34,38,27,29,33,29,18,7,10,23,26,18,23,20,31,22,17,15,14,8,9
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,18,13,13,8,17,10,5,7,6,7,10,8,3,2,11,6,17,11,7,7,6,4,8,6,5,1
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,12,15,7,11,7,10,8,10,11,9,13,13,11,12,5,13,4,6,6,9,12,9,9,12,9,11
+2019-20,19,West Bengal,1910,NADIA,191025,CHAKDAH MUNI,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,4,2,8,4,6,6,2,4,1,1,1,1,3,0,7,6,5,6,3,2,0,1,1,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,3,cat3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,2,SC,0,0,9,14,11,10,17,10,11,13,7,3,8,2,6,7,11,9,13,12,6,8,11,3,8,1
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,652,409,468,585,953,588,591,511,0,0,0,0,581,402,442,534,1014,643,560,503
+2019-20,19,West Bengal,1910,NADIA,191002,KRISHNAGAR - II,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,179,136,120,193,253,188,117,121,0,0,0,0,189,116,101,183,286,156,173,139
+2019-20,19,West Bengal,1910,NADIA,191003,NAKASHIPARA,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,483,312,475,587,711,487,481,490,0,0,0,0,444,359,375,595,706,580,515,517
+2019-20,19,West Bengal,1910,NADIA,191004,KALIGANJ,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,296,260,255,336,482,278,243,239,0,0,0,0,227,209,195,267,468,334,295,196
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,258,189,181,312,391,286,240,205,0,0,0,0,214,140,169,245,415,271,209,218
+2019-20,19,West Bengal,1910,NADIA,191006,KRISHNAGANJ,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,370,261,377,417,585,435,419,403,0,0,0,0,346,266,291,392,518,370,385,366
+2019-20,19,West Bengal,1910,NADIA,191007,NABADWIP,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,85,61,61,74,117,73,66,52,0,0,0,0,58,30,57,82,140,107,94,72
+2019-20,19,West Bengal,1910,NADIA,191008,TEHATTA - I,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,564,333,467,581,784,643,697,498,0,0,0,0,560,376,422,558,829,632,502,517
+2019-20,19,West Bengal,1910,NADIA,191009,TEHATTA - II,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,112,108,117,143,214,124,132,131,0,0,0,0,113,93,116,116,173,119,135,101
+2019-20,19,West Bengal,1910,NADIA,191010,KARIMPUR - I,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,161,171,108,198,289,199,177,166,0,0,0,0,180,114,168,241,310,174,165,152
+2019-20,19,West Bengal,1910,NADIA,191011,KARIMPUR - II,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,170,91,117,167,241,194,182,171,0,0,0,0,165,82,116,147,233,182,178,165
+2019-20,19,West Bengal,1910,NADIA,191012,HANSKHALI,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,974,822,771,1099,1278,1172,1427,1325,0,0,0,0,973,744,814,951,1199,1131,1231,1124
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,370,267,248,376,455,364,389,397,0,0,0,0,337,281,264,371,518,388,419,408
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,1014,739,819,1146,1462,1162,1038,1190,0,0,0,0,1078,799,677,1079,1320,1166,1081,992
+2019-20,19,West Bengal,1910,NADIA,191015,SANTIPUR,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,528,373,461,630,886,566,477,381,0,0,0,0,578,383,484,636,876,696,477,512
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,1019,743,820,1050,1366,1064,1022,975,0,0,0,0,920,739,746,1049,1203,1125,1025,1061
+2019-20,19,West Bengal,1910,NADIA,191017,HARINGHATA,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,349,243,399,343,442,398,256,306,0,0,0,0,262,211,309,296,427,330,260,260
+2019-20,19,West Bengal,1910,NADIA,191018,NABADWIP MUNI ,Urban,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,149,123,91,130,167,124,107,105,0,0,0,0,103,116,62,144,133,131,110,96
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,259,240,171,278,340,172,155,133,0,0,0,0,303,265,220,315,398,284,227,205
+2019-20,19,West Bengal,1910,NADIA,191020,RANAGHAT MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,171,174,185,184,200,186,281,222,0,0,0,0,146,175,150,174,168,158,294,285
+2019-20,19,West Bengal,1910,NADIA,191021,SANTIPUR MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,189,187,148,225,224,146,157,155,0,0,0,0,173,149,201,222,244,131,144,159
+2019-20,19,West Bengal,1910,NADIA,191022,BIRNAGAR MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,120,102,53,116,154,107,118,98,0,0,0,0,105,56,140,119,129,137,122,106
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,425,390,396,437,459,378,392,388,0,0,0,0,463,345,391,439,442,386,313,310
+2019-20,19,West Bengal,1910,NADIA,191024,GAYESHPUR MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,41,67,64,67,77,48,80,74,0,0,0,0,64,82,72,73,63,67,67,78
+2019-20,19,West Bengal,1910,NADIA,191025,CHAKDAH MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,130,118,163,212,194,179,178,165,0,0,0,0,183,115,152,202,210,198,178,155
+2019-20,19,West Bengal,1910,NADIA,191026,TEHARPUR NAA,Urban,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,64,89,49,71,40,75,8,9,0,0,0,0,75,61,33,76,109,75,60,47
+2019-20,19,West Bengal,1910,NADIA,191028,HARINGHATA MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,72,45,47,70,77,75,45,64,0,0,0,0,81,50,79,117,104,86,70,101
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,2,1,2,1,2,0,1,1,0,0,0,0,3,2,1,0,1,1,1,2
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,5,cat5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,2,SC,0,0,0,0,0,0,0,16,21,23,24,27,23,9,0,0,0,0,0,8,18,16,11,17,7,11
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,11,cat11,HSS (XI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,51,55,0,0,0,0,0,0,0,0,0,0,34,37
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,700,681,810,858,901,869,16,0,0,0,0,0,0,0,815,820,810,875,21,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191002,KRISHNAGAR - II,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,143,145,205,196,220,196,0,0,0,0,0,0,0,0,160,184,183,193,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191003,NAKASHIPARA,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,559,530,723,756,728,728,13,0,0,0,0,0,0,0,706,693,769,741,5,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191004,KALIGANJ,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,369,379,477,498,474,474,0,0,0,0,0,0,0,0,438,483,459,447,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,337,331,457,437,439,429,0,0,0,0,0,0,0,0,423,421,426,407,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191006,KRISHNAGANJ,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,426,407,536,499,520,527,2,0,0,0,0,0,0,0,560,526,480,492,2,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191007,NABADWIP,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,84,100,119,147,150,155,0,0,0,0,0,0,0,0,138,134,154,173,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191008,TEHATTA - I,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,479,490,622,664,708,668,11,0,0,0,0,0,0,0,619,619,641,674,9,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191009,TEHATTA - II,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,152,157,193,220,224,212,0,0,0,0,0,0,0,0,196,229,211,208,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191010,KARIMPUR - I,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,172,199,218,253,243,241,14,0,0,0,0,0,0,0,214,218,258,258,10,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191011,KARIMPUR - II,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,242,241,278,262,251,252,20,0,0,0,0,0,0,0,260,268,277,288,15,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191012,HANSKHALI,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,834,860,1150,1171,1212,1298,81,0,0,0,0,0,0,0,1121,1139,1208,1252,78,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,459,463,538,610,638,674,6,0,0,0,0,0,0,0,556,580,608,618,14,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,896,923,1250,1311,1313,1418,27,0,0,0,0,0,0,0,1284,1322,1298,1268,17,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191015,SANTIPUR,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,566,567,653,767,781,759,0,0,0,0,0,0,0,0,725,726,743,759,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,865,899,1100,1065,1154,1255,13,0,0,0,0,0,0,0,1063,1118,1138,1179,8,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191017,HARINGHATA,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,351,356,404,444,442,486,3,0,0,0,0,0,0,0,451,477,433,482,1,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Urban,1,cat1,PS (I-V),1,Department of Education,2,SC,8,6,1,9,5,2,0,0,0,0,0,0,0,0,4,3,7,5,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Urban,1,cat1,PS (I-V),1,Department of Education,2,SC,1,2,0,6,2,6,0,0,0,0,0,0,0,0,9,3,6,4,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191018,NABADWIP MUNI ,Urban,1,cat1,PS (I-V),1,Department of Education,2,SC,51,76,55,62,75,87,0,0,0,0,0,0,0,0,57,65,73,71,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,2,SC,123,99,154,162,176,166,0,0,0,0,0,0,0,0,169,154,172,162,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191020,RANAGHAT MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,2,SC,47,49,49,62,75,97,2,0,0,0,0,0,0,0,64,56,80,83,1,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191021,SANTIPUR MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,2,SC,101,128,149,166,194,191,0,0,0,0,0,0,0,0,150,143,183,186,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191022,BIRNAGAR MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,2,SC,50,55,61,79,66,75,0,0,0,0,0,0,0,0,55,66,76,67,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,2,SC,171,134,185,198,198,237,0,0,0,0,0,0,0,0,161,169,163,171,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191024,GAYESHPUR MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,2,SC,35,31,48,56,50,51,1,0,0,0,0,0,0,0,57,55,62,66,3,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191025,CHAKDAH MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,2,SC,97,113,107,122,144,188,0,0,0,0,0,0,0,0,118,120,129,196,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191026,TEHARPUR NAA,Urban,1,cat1,PS (I-V),1,Department of Education,2,SC,7,15,29,30,21,44,0,0,0,0,0,0,0,0,19,28,26,21,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191027,RANAGHAT COOPERS NAA,Urban,1,cat1,PS (I-V),1,Department of Education,2,SC,28,34,39,41,48,42,0,0,0,0,0,0,0,0,40,48,46,35,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191028,HARINGHATA MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,2,SC,44,46,61,68,90,81,0,0,0,0,0,0,0,0,71,70,55,77,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191018,NABADWIP MUNI ,Urban,1,cat1,PS (I-V),3,Local body,2,SC,8,9,43,30,43,29,0,0,0,0,0,0,0,0,43,55,39,32,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,1,cat1,PS (I-V),3,Local body,2,SC,4,1,2,1,8,2,0,0,0,0,0,0,0,0,3,2,2,2,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191021,SANTIPUR MUNI,Urban,1,cat1,PS (I-V),3,Local body,2,SC,66,52,67,62,54,49,0,0,0,0,0,0,0,0,62,53,68,61,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,1,cat1,PS (I-V),3,Local body,2,SC,192,187,121,110,87,117,0,0,0,0,0,0,0,0,144,112,122,124,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191024,GAYESHPUR MUNI,Urban,1,cat1,PS (I-V),3,Local body,2,SC,39,31,26,9,0,0,0,0,0,0,0,0,0,0,20,17,5,1,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191026,TEHARPUR NAA,Urban,1,cat1,PS (I-V),3,Local body,2,SC,0,0,17,9,3,0,0,0,0,0,0,0,0,0,14,8,3,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191028,HARINGHATA MUNI,Urban,1,cat1,PS (I-V),3,Local body,2,SC,3,5,4,4,4,5,0,0,0,0,0,0,0,0,7,4,4,4,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,151,109,32,28,30,20,0,0,0,0,0,0,0,0,21,31,25,14,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191002,KRISHNAGAR - II,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,64,39,20,12,9,2,0,0,0,0,0,0,0,0,12,9,10,3,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191003,NAKASHIPARA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,141,130,52,30,29,18,0,0,0,0,0,0,0,0,43,24,10,11,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191004,KALIGANJ,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,80,80,28,15,11,10,0,0,0,0,0,0,0,0,31,17,8,4,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,14,17,13,14,12,9,0,0,0,0,0,0,0,0,23,15,22,15,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191006,KRISHNAGANJ,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,174,116,72,50,31,29,0,0,0,0,0,0,0,0,50,31,25,17,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191007,NABADWIP,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,33,22,15,9,4,6,0,0,0,0,0,0,0,0,14,4,6,7,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191008,TEHATTA - I,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,535,414,131,100,68,26,0,0,0,0,0,0,0,0,96,87,58,27,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191009,TEHATTA - II,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,100,72,41,17,12,11,0,0,0,0,0,0,0,0,25,18,12,5,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191010,KARIMPUR - I,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,42,33,20,11,10,10,0,0,0,0,0,0,0,0,11,8,5,8,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191011,KARIMPUR - II,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,29,18,19,9,8,6,5,0,0,0,0,0,0,0,6,5,4,7,2,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191012,HANSKHALI,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,909,849,491,335,249,170,0,0,0,0,0,0,0,0,398,269,213,118,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,92,79,57,38,33,28,0,0,0,0,0,0,0,0,47,40,27,17,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,631,551,224,243,191,133,0,0,0,0,0,0,0,0,201,197,122,85,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191015,SANTIPUR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,120,79,63,46,52,35,0,0,0,0,0,0,0,0,46,50,36,26,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,541,433,229,216,181,161,0,0,0,0,0,0,0,0,205,194,149,161,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191017,HARINGHATA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,138,130,84,53,62,34,0,0,0,0,0,0,0,0,61,56,38,30,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,18,22,18,19,19,18,0,0,0,0,0,0,0,0,17,19,21,17,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191018,NABADWIP MUNI ,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,23,31,14,20,10,14,0,0,0,0,0,0,0,0,14,17,13,4,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,55,46,25,22,13,17,0,0,0,0,0,0,0,0,16,25,7,5,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191020,RANAGHAT MUNI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,20,40,24,21,18,7,0,0,0,0,0,0,0,0,29,19,8,12,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191021,SANTIPUR MUNI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,64,44,47,35,27,16,4,0,0,0,0,0,0,0,33,29,25,16,1,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191022,BIRNAGAR MUNI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,35,38,5,8,4,0,0,0,0,0,0,0,0,0,7,2,5,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,27,30,12,13,5,10,0,0,0,0,0,0,0,0,15,12,11,8,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191024,GAYESHPUR MUNI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,10,5,7,3,4,3,0,0,0,0,0,0,0,0,6,7,8,4,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191025,CHAKDAH MUNI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,42,34,9,3,10,3,0,0,0,0,0,0,0,0,6,11,7,2,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191026,TEHARPUR NAA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,4,2,1,0,0,0,0,0,0,0,0,0,9,5,1,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191027,RANAGHAT COOPERS NAA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,80,85,30,34,35,29,0,0,0,0,0,0,0,0,37,42,26,23,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191028,HARINGHATA MUNI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,41,40,47,31,24,22,0,0,0,0,0,0,0,0,43,25,16,27,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191010,KARIMPUR - I,Rural,1,cat1,PS (I-V),8,Unrecognized,2,SC,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191012,HANSKHALI,Rural,6,cat6,SS (I-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,13,7,7,4,3,4,3,3,3,3,4,5,0,0,5,6,5,4,3,4,2,0,2,1,0,0
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,5,3,4,3,3,5,6,7,4,3,8,6,0,0,3,2,4,3,2,3,2,2,3,4,0,0
+2019-20,19,West Bengal,1910,NADIA,191007,NABADWIP,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,6,8,1,5,3,4,4,0,5,2,3,4,0,0,4,4,0,2,5,8,3,2,1,3,0,0
+2019-20,19,West Bengal,1910,NADIA,191008,TEHATTA - I,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,9,6,7,5,5,8,2,6,4,4,2,2,0,0,6,4,5,4,3,2,5,3,1,2,0,0
+2019-20,19,West Bengal,1910,NADIA,191010,KARIMPUR - I,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,15,8,22,9,12,11,7,10,3,7,0,0,0,0,19,4,8,3,7,7,7,8,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,34,31,16,7,7,11,0,0,0,0,0,0,0,0,22,21,13,14,10,9,6,6,6,4,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,18,17,4,4,9,10,8,1,9,4,3,4,0,0,10,6,9,2,5,7,6,6,3,3,0,0
+2019-20,19,West Bengal,1910,NADIA,191018,NABADWIP MUNI ,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,13,5,6,5,7,5,1,3,2,5,0,0,0,0,5,5,6,1,2,3,1,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,5,7,6,3,8,3,6,7,8,14,12,1,0,0,1,5,3,2,8,4,4,7,7,6,0,0
+2019-20,19,West Bengal,1910,NADIA,191024,GAYESHPUR MUNI,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,44,41,29,34,19,21,18,22,19,23,14,17,0,0,30,33,26,21,26,20,22,18,16,12,0,0
+2019-20,19,West Bengal,1910,NADIA,191028,HARINGHATA MUNI,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,1,1,1,2,2,3,1,2,1,1,0,0,1,1,0,1,0,0,0,1,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191018,NABADWIP MUNI ,Urban,6,cat6,SS (I-X),6,Other Govt. managed schools,2,SC,0,0,0,1,0,0,0,0,0,2,1,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,6,cat6,SS (I-X),92,Kendriya Vidyalaya / Central School,2,SC,0,0,4,5,2,3,7,5,4,9,7,5,0,0,2,4,7,4,0,6,4,4,1,2,0,0
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,17,19,12,17,14,20,0,0,0,0,0,0,19,13,14,21,19,20,0,0
+2019-20,19,West Bengal,1910,NADIA,191002,KRISHNAGAR - II,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,8,8,7,12,7,0,0
+2019-20,19,West Bengal,1910,NADIA,191003,NAKASHIPARA,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,43,40,39,42,44,44,0,0,0,0,0,0,93,57,73,76,120,93,0,0
+2019-20,19,West Bengal,1910,NADIA,191004,KALIGANJ,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,12,12,11,18,15,4,0,0,0,0,0,0,69,66,23,73,81,59,0,0
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,36,34,20,31,34,46,0,0,0,0,0,0,43,65,26,55,59,65,0,0
+2019-20,19,West Bengal,1910,NADIA,191006,KRISHNAGANJ,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,51,49,27,68,62,51,0,0,0,0,0,0,92,75,31,128,158,97,0,0
+2019-20,19,West Bengal,1910,NADIA,191008,TEHATTA - I,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191009,TEHATTA - II,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,23,8,26,17,26,31,0,0,0,0,0,0,51,33,44,53,75,79,0,0
+2019-20,19,West Bengal,1910,NADIA,191011,KARIMPUR - II,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,18,8,5,18,25,20,0,0
+2019-20,19,West Bengal,1910,NADIA,191012,HANSKHALI,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,61,51,48,70,105,86,0,0,0,0,0,0,92,72,31,93,109,103,0,0
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,70,68,30,64,86,45,0,0,0,0,0,0,66,66,26,61,70,39,0,0
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,41,35,51,68,40,74,0,0,0,0,0,0,47,36,33,45,79,77,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,28,30,26,31,47,43,0,0,0,0,0,0,45,46,53,61,132,79,0,0
+2019-20,19,West Bengal,1910,NADIA,191017,HARINGHATA,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,21,25,7,23,32,18,0,0,0,0,0,0,40,46,24,54,75,52,0,0
+2019-20,19,West Bengal,1910,NADIA,191018,NABADWIP MUNI ,Urban,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,21,23,23,31,16,8,0,0,0,0,0,0,30,28,30,40,37,39,0,0
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,21,25,10,18,49,27,0,0,0,0,0,0,19,19,18,15,21,11,0,0
+2019-20,19,West Bengal,1910,NADIA,191020,RANAGHAT MUNI,Urban,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,21,11,26,30,25,0,0
+2019-20,19,West Bengal,1910,NADIA,191021,SANTIPUR MUNI,Urban,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,41,22,34,22,39,29,0,0,0,0,0,0,49,36,44,46,76,58,0,0
+2019-20,19,West Bengal,1910,NADIA,191024,GAYESHPUR MUNI,Urban,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,9,12,8,10,12,6,0,0,0,0,0,0,6,9,16,13,13,11,0,0
+2019-20,19,West Bengal,1910,NADIA,191025,CHAKDAH MUNI,Urban,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,19,11,8,10,17,27,0,0,0,0,0,0,17,11,10,15,12,16,0,0
+2019-20,19,West Bengal,1910,NADIA,191027,RANAGHAT COOPERS NAA,Urban,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,28,18,21,34,27,25,0,0,0,0,0,0,17,14,13,22,28,31,0,0
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,10,7,7,10,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,49,42,26,19,12,17,1,2,1,0,0,0,0,0,20,16,10,4,3,1,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191003,NAKASHIPARA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,12,9,13,6,6,6,1,2,0,0,0,0,0,0,15,6,9,1,1,0,1,1,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191004,KALIGANJ,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,9,10,4,2,3,2,2,2,1,0,0,0,0,0,1,2,0,1,0,1,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191006,KRISHNAGANJ,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,111,65,28,34,20,23,20,7,15,6,0,0,0,0,23,15,10,15,4,4,4,2,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191009,TEHATTA - II,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,7,3,3,1,1,1,0,3,1,1,0,0,0,0,1,2,2,0,2,0,1,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191010,KARIMPUR - I,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,5,4,3,2,2,2,0,0,0,0,0,0,0,0,2,2,1,2,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,85,67,38,29,28,17,0,0,0,0,0,0,0,0,20,32,20,18,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,9,7,1,8,1,4,3,3,2,2,0,0,0,0,0,5,3,5,1,0,3,1,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191015,SANTIPUR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,4,7,2,2,5,2,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,2,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,30,27,33,28,24,9,6,6,8,2,0,0,0,0,35,26,16,14,7,5,5,1,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,0,2,4,4,2,1,0,2,2,2,0,0,0,0,1,2,2,3,6,1,0,1,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191022,BIRNAGAR MUNI,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,7,6,2,0,1,1,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,1,2,2,2,2,2,1,1,1,1,0,0,0,0,1,1,1,3,2,0,1,2,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191025,CHAKDAH MUNI,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,21,32,3,2,0,5,0,0,0,0,0,0,0,0,9,2,2,2,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191028,HARINGHATA MUNI,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,2,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191004,KALIGANJ,Rural,2,cat2,UPS (I-VIII),98,Madarsa unrecognized,2,SC,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,2,0,1,2,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,103,108,66,157,0,0,0,0,0,0,0,0,82,100,71,144,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191002,KRISHNAGAR - II,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,22,15,11,25,0,0,0,0,0,0,0,0,13,16,14,22,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191003,NAKASHIPARA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,49,29,28,50,0,0,0,0,0,0,0,0,34,41,36,56,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191004,KALIGANJ,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,73,69,47,89,0,0,0,0,0,0,0,0,90,66,59,102,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,91,99,39,116,0,0,0,0,0,0,0,0,89,73,51,140,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191006,KRISHNAGANJ,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,43,34,40,49,0,0,0,0,0,0,0,0,48,36,34,51,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191007,NABADWIP,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,23,23,18,32,0,0,0,0,0,0,0,0,22,17,14,28,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191008,TEHATTA - I,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,68,59,47,97,0,0,0,0,0,0,0,0,89,78,54,99,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191009,TEHATTA - II,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,22,14,18,20,0,0,0,0,0,0,0,0,26,17,16,26,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191010,KARIMPUR - I,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,33,37,23,42,0,0,0,0,0,0,0,0,16,21,10,21,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191011,KARIMPUR - II,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,39,34,15,52,0,0,0,0,0,0,0,0,37,34,22,40,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191012,HANSKHALI,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,42,41,45,24,0,0,0,0,0,0,0,0,29,33,35,34,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,85,65,55,81,0,0,0,0,0,0,0,0,48,48,61,76,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,140,126,97,89,0,0,0,0,0,0,0,0,108,116,94,96,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191015,SANTIPUR,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,74,89,63,91,0,0,0,0,0,0,0,0,58,76,49,120,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,46,45,28,82,0,0,0,0,0,0,0,0,40,38,30,54,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191017,HARINGHATA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,35,27,24,28,0,0,0,0,0,0,0,0,24,16,16,24,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,23,24,13,20,0,0,0,0,0,0,0,0,16,19,15,18,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191022,BIRNAGAR MUNI,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,5,2,6,3,0,0,0,0,0,0,0,0,1,1,2,3,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,2,4,3,1,0,0,0,0,0,0,0,0,2,3,2,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191024,GAYESHPUR MUNI,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191025,CHAKDAH MUNI,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191028,HARINGHATA MUNI,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,2,0,1,3,0,0,0,0,0,0,0,0,1,4,3,3,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191003,NAKASHIPARA,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,1,2,2,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191004,KALIGANJ,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,2,0,1,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191006,KRISHNAGANJ,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,10,15,16,10,0,0,0,0,0,0,0,0,6,13,5,14,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191008,TEHATTA - I,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,3,2,4,0,0,0,0,0,0,0,0,0,4,4,5,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,3,cat3,HSS (I-XII),1,Department of Education,3,ST,2,0,2,3,4,3,6,4,3,3,4,2,2,3,0,0,0,2,2,4,2,2,1,0,1,0
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,2,5,4,0,3,0,0,6,0,0,0,0,0,0,1,0,1,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,2,1,1,1,0,1,3,0,0,0,2,0,0,0,1,3,0,0,0,0,2,2,0,0,0,1
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,2,4,0,0,1,1,0,0,0,0,0,2,1,0,1,0,2,0,0,1,0,1,0,0,1,0
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,2,0,1,2,0,1,2,2,2,2,2,1,1,1,0,1,1,1,2,2,0,2,1,1,1,1
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,3,cat3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,3,ST,0,0,1,1,0,0,2,2,1,2,0,0,0,0,1,0,4,1,0,0,0,1,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,76,77,73,69,173,45,58,61,0,0,0,0,112,76,73,102,235,113,56,43
+2019-20,19,West Bengal,1910,NADIA,191002,KRISHNAGAR - II,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,17,15,10,12,15,24,6,7,0,0,0,0,13,10,10,6,4,3,7,4
+2019-20,19,West Bengal,1910,NADIA,191003,NAKASHIPARA,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,27,39,33,53,64,24,19,13,0,0,0,0,50,52,37,69,82,48,23,14
+2019-20,19,West Bengal,1910,NADIA,191004,KALIGANJ,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,16,24,24,16,34,21,11,13,0,0,0,0,11,16,18,16,55,22,25,14
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,1,2,0,5,6,1,0,1,0,0,0,0,16,15,9,8,18,6,16,8
+2019-20,19,West Bengal,1910,NADIA,191006,KRISHNAGANJ,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,32,31,43,58,73,40,25,28,0,0,0,0,38,41,51,77,92,54,25,27
+2019-20,19,West Bengal,1910,NADIA,191007,NABADWIP,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,4,2,4,3,3,4,1,3,0,0,0,0,13,17,3,7,7,4,1,0
+2019-20,19,West Bengal,1910,NADIA,191008,TEHATTA - I,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,23,14,6,22,46,19,10,264,0,0,0,0,18,20,16,35,46,24,6,49
+2019-20,19,West Bengal,1910,NADIA,191009,TEHATTA - II,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,10,9,4,6,13,7,10,9,0,0,0,0,17,6,8,8,16,15,10,9
+2019-20,19,West Bengal,1910,NADIA,191010,KARIMPUR - I,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,20,24,25,16,42,23,20,20,0,0,0,0,28,18,30,17,55,27,15,15
+2019-20,19,West Bengal,1910,NADIA,191011,KARIMPUR - II,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,16,10,6,8,32,21,22,9,0,0,0,0,13,6,14,13,21,12,13,5
+2019-20,19,West Bengal,1910,NADIA,191012,HANSKHALI,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,47,46,44,60,65,41,57,39,0,0,0,0,44,35,40,43,49,54,31,34
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,24,16,16,20,26,18,11,15,0,0,0,0,29,17,18,29,30,19,11,15
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,98,99,102,99,108,62,62,42,0,0,0,0,83,86,75,109,168,109,50,46
+2019-20,19,West Bengal,1910,NADIA,191015,SANTIPUR,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,49,42,40,54,63,40,24,19,0,0,0,0,43,36,43,71,94,60,40,22
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,133,102,145,176,203,134,105,109,0,0,0,0,134,122,129,158,267,175,124,100
+2019-20,19,West Bengal,1910,NADIA,191017,HARINGHATA,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,44,40,33,48,61,28,27,24,0,0,0,0,13,20,23,31,46,20,33,29
+2019-20,19,West Bengal,1910,NADIA,191018,NABADWIP MUNI ,Urban,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,10,4,4,8,7,2,7,5,0,0,0,0,2,2,1,2,0,2,2,5
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,12,14,18,14,8,10,5,6,0,0,0,0,51,43,21,18,20,18,22,7
+2019-20,19,West Bengal,1910,NADIA,191020,RANAGHAT MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,11,8,12,9,17,14,14,7,0,0,0,0,10,4,7,7,7,1,9,8
+2019-20,19,West Bengal,1910,NADIA,191021,SANTIPUR MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,12,10,4,9,15,7,18,10,0,0,0,0,7,9,4,3,5,3,8,9
+2019-20,19,West Bengal,1910,NADIA,191022,BIRNAGAR MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,0,1,0,0,0,2,2,1,0
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,41,36,37,41,46,35,37,8,0,0,0,0,19,24,24,23,20,21,24,7
+2019-20,19,West Bengal,1910,NADIA,191024,GAYESHPUR MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,8,9,9,8,10,7,6,7,0,0,0,0,7,8,8,8,13,6,11,11
+2019-20,19,West Bengal,1910,NADIA,191025,CHAKDAH MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,10,12,17,10,18,13,26,9,0,0,0,0,9,8,15,20,16,13,15,12
+2019-20,19,West Bengal,1910,NADIA,191026,TEHARPUR NAA,Urban,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,3,6,8,10,8,10,4,3,0,0,0,0,10,9,5,11,21,15,6,3
+2019-20,19,West Bengal,1910,NADIA,191028,HARINGHATA MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,18,9,17,22,19,14,9,18,0,0,0,0,32,11,20,24,24,28,22,23
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,5,cat5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,3,ST,0,0,0,0,0,0,0,2,2,3,7,3,5,2,0,0,0,0,0,1,3,3,2,2,1,0
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,11,cat11,HSS (XI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,2,4
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,129,137,155,149,152,138,0,0,0,0,0,0,0,0,130,129,127,144,1,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191002,KRISHNAGAR - II,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,16,23,23,28,29,21,0,0,0,0,0,0,0,0,26,23,28,28,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191003,NAKASHIPARA,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,70,69,94,109,118,75,0,0,0,0,0,0,0,0,72,76,97,84,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191004,KALIGANJ,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,18,19,17,21,24,22,0,0,0,0,0,0,0,0,15,24,15,17,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,4,3,6,0,3,3,0,0,0,0,0,0,0,0,1,7,4,7,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191006,KRISHNAGANJ,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,69,78,85,96,99,85,0,0,0,0,0,0,0,0,88,107,102,95,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191007,NABADWIP,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,11,11,13,21,13,20,4,0,0,0,0,0,0,0,11,14,29,22,5,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191008,TEHATTA - I,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,29,36,39,26,41,37,0,0,0,0,0,0,0,0,55,43,36,29,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191009,TEHATTA - II,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,15,15,9,16,9,12,0,0,0,0,0,0,0,0,16,16,16,19,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191010,KARIMPUR - I,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,63,57,67,66,80,62,4,0,0,0,0,0,0,0,65,73,67,70,4,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191011,KARIMPUR - II,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,23,17,34,31,30,31,0,0,0,0,0,0,0,0,24,39,26,22,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191012,HANSKHALI,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,53,59,83,76,69,65,7,0,0,0,0,0,0,0,64,68,80,59,7,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,25,23,33,54,43,45,0,0,0,0,0,0,0,0,38,29,47,50,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,141,130,211,193,185,180,1,0,0,0,0,0,0,0,233,196,186,162,7,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191015,SANTIPUR,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,65,75,84,97,100,87,0,0,0,0,0,0,0,0,99,74,96,109,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,148,148,222,226,198,207,0,0,0,0,0,0,0,0,199,197,221,209,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191017,HARINGHATA,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,72,57,73,78,78,71,0,0,0,0,0,0,0,0,79,85,76,71,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Urban,1,cat1,PS (I-V),1,Department of Education,3,ST,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191018,NABADWIP MUNI ,Urban,1,cat1,PS (I-V),1,Department of Education,3,ST,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,4,3,6,1,0,0,0,0,0,0,0,0,15,12,6,14,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191020,RANAGHAT MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,3,ST,4,3,6,7,11,4,1,0,0,0,0,0,0,0,5,5,5,17,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191021,SANTIPUR MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,3,ST,6,10,9,12,18,7,0,0,0,0,0,0,0,0,8,10,5,7,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191022,BIRNAGAR MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,3,ST,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,3,ST,10,11,21,18,25,28,0,0,0,0,0,0,0,0,11,8,8,13,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191024,GAYESHPUR MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,3,ST,11,6,11,16,7,11,0,0,0,0,0,0,0,0,10,8,11,7,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191025,CHAKDAH MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,3,ST,14,20,17,20,20,14,0,0,0,0,0,0,0,0,8,14,19,12,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191026,TEHARPUR NAA,Urban,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191027,RANAGHAT COOPERS NAA,Urban,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191028,HARINGHATA MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,3,ST,12,15,13,26,21,21,0,0,0,0,0,0,0,0,18,12,24,29,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191018,NABADWIP MUNI ,Urban,1,cat1,PS (I-V),3,Local body,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191021,SANTIPUR MUNI,Urban,1,cat1,PS (I-V),3,Local body,3,ST,8,7,8,11,10,6,0,0,0,0,0,0,0,0,9,10,10,6,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,1,cat1,PS (I-V),3,Local body,3,ST,21,22,23,8,15,13,0,0,0,0,0,0,0,0,20,14,14,11,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191024,GAYESHPUR MUNI,Urban,1,cat1,PS (I-V),3,Local body,3,ST,13,11,2,1,0,1,0,0,0,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191028,HARINGHATA MUNI,Urban,1,cat1,PS (I-V),3,Local body,3,ST,2,1,1,2,6,5,0,0,0,0,0,0,0,0,3,7,4,6,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,16,21,2,1,1,9,0,0,0,0,0,0,0,0,23,21,20,23,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191002,KRISHNAGAR - II,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,3,3,1,2,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191003,NAKASHIPARA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,16,10,4,1,1,1,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191004,KALIGANJ,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,2,5,0,0,2,1,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,1,3,3,2,2,0,0,0,0,0,0,0,0,8,5,8,6,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191006,KRISHNAGANJ,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,14,8,6,1,2,0,0,0,0,0,0,0,0,0,4,1,1,2,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191007,NABADWIP,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191008,TEHATTA - I,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,11,8,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191009,TEHATTA - II,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,4,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191010,KARIMPUR - I,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,13,11,0,1,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191011,KARIMPUR - II,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,5,6,1,0,0,1,0,0,0,0,0,0,0,0,3,2,1,0,2,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191012,HANSKHALI,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,27,40,0,1,3,2,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,15,8,5,7,8,2,0,0,0,0,0,0,0,0,4,6,1,4,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,51,27,16,17,10,17,0,0,0,0,0,0,0,0,15,12,15,4,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191015,SANTIPUR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,12,3,2,4,2,0,0,0,0,0,0,0,0,0,2,2,1,1,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,69,61,23,26,23,20,0,0,0,0,0,0,0,0,27,24,19,22,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191017,HARINGHATA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,12,16,11,1,3,2,0,0,0,0,0,0,0,0,8,7,3,2,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191018,NABADWIP MUNI ,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,3,5,3,3,0,2,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191020,RANAGHAT MUNI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,7,13,8,8,7,4,0,0,0,0,0,0,0,0,5,7,8,6,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191021,SANTIPUR MUNI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,10,10,7,5,3,5,0,0,0,0,0,0,0,0,4,2,5,3,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,2,4,1,2,1,2,0,0,0,0,0,0,0,0,2,3,2,3,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191024,GAYESHPUR MUNI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191028,HARINGHATA MUNI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,8,6,4,11,6,7,0,0,0,0,0,0,0,0,1,7,3,5,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,3,2,2,0,0,1,1,1,1,1,1,1,0,0,0,1,2,0,0,1,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191007,NABADWIP,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191010,KARIMPUR - I,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,2,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,4,3,4,0,2,2,0,0,0,0,0,0,0,0,2,1,5,1,4,4,2,3,0,2,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,1,3,0,0,0,0,0,0,2,0,2,2,0,0,0,0,0,0,1,0,1,1,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,1,0,0,1,0,0,1,2,3,2,1,0,0,0,0,0,0,0,0,1,2,0,1,0,0
+2019-20,19,West Bengal,1910,NADIA,191024,GAYESHPUR MUNI,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,5,2,5,5,4,2,4,7,4,5,1,2,0,0,3,2,3,3,3,2,2,3,1,1,0,0
+2019-20,19,West Bengal,1910,NADIA,191028,HARINGHATA MUNI,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191018,NABADWIP MUNI ,Urban,6,cat6,SS (I-X),6,Other Govt. managed schools,3,ST,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,6,cat6,SS (I-X),92,Kendriya Vidyalaya / Central School,3,ST,0,0,0,1,0,2,0,1,1,2,3,0,0,0,2,3,2,0,0,0,1,2,0,1,0,0
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,10,5,3,6,7,4,0,0,0,0,0,0,8,6,5,9,14,6,0,0
+2019-20,19,West Bengal,1910,NADIA,191002,KRISHNAGAR - II,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,5,5,6,4,2,0,0
+2019-20,19,West Bengal,1910,NADIA,191003,NAKASHIPARA,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,3,3,2,2,2,2,0,0,0,0,0,0,2,0,5,0,1,1,0,0
+2019-20,19,West Bengal,1910,NADIA,191004,KALIGANJ,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,1,0,0,4,1,1,0,0,0,0,0,0,2,1,0,0,1,1,0,0
+2019-20,19,West Bengal,1910,NADIA,191006,KRISHNAGANJ,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,9,3,7,10,8,7,0,0,0,0,0,0,6,9,8,7,15,12,0,0
+2019-20,19,West Bengal,1910,NADIA,191009,TEHATTA - II,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,5,6,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191011,KARIMPUR - II,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,2,2,5,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191012,HANSKHALI,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,43,34,25,23,47,29,0,0,0,0,0,0,11,17,15,16,35,10,0,0
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,2,3,1,3,3,1,0,0,0,0,0,0,3,1,1,3,1,2,0,0
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,9,3,1,3,2,3,0,0,0,0,0,0,2,6,9,4,13,2,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,2,0,1,3,1,2,0,0,0,0,0,0,5,13,6,10,12,5,0,0
+2019-20,19,West Bengal,1910,NADIA,191017,HARINGHATA,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,1,0,0,4,1,0,0,0,0,0,0,0,22,17,10,19,24,22,0,0
+2019-20,19,West Bengal,1910,NADIA,191018,NABADWIP MUNI ,Urban,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,3,4,2,11,7,2,0,0,0,0,0,0,2,6,3,4,5,10,0,0
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,4,5,5,7,6,0,0,0,0,0,0,0,4,0,0,1,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191020,RANAGHAT MUNI,Urban,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,2,4,6,4,0,0
+2019-20,19,West Bengal,1910,NADIA,191021,SANTIPUR MUNI,Urban,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,4,7,2,6,3,2,0,0,0,0,0,0,10,10,5,5,15,6,0,0
+2019-20,19,West Bengal,1910,NADIA,191024,GAYESHPUR MUNI,Urban,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,1,3,0,0,2,0,0,0,0,0,0,0,3,0,1,3,1,0,0
+2019-20,19,West Bengal,1910,NADIA,191025,CHAKDAH MUNI,Urban,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,6,7,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,21,22,19,20,20,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,3,3,0,1,2,0,0,0,0,0,0,0,0,0,2,0,2,0,1,1,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191003,NAKASHIPARA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191006,KRISHNAGANJ,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191015,SANTIPUR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,2,0,1,1,1,3,0,1,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,4,2,4,4,5,4,4,1,1,0,0,0,0,0,4,3,2,2,1,1,1,1,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,3,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191025,CHAKDAH MUNI,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,17,28,25,23,0,0,0,0,0,0,0,0,31,19,26,32,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191002,KRISHNAGAR - II,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,2,3,2,5,0,0,0,0,0,0,0,0,2,4,0,7,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191003,NAKASHIPARA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,18,27,28,19,0,0,0,0,0,0,0,0,23,26,34,33,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191004,KALIGANJ,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,9,4,11,14,0,0,0,0,0,0,0,0,6,4,8,11,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191006,KRISHNAGANJ,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,16,9,8,14,0,0,0,0,0,0,0,0,12,6,11,11,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191007,NABADWIP,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191008,TEHATTA - I,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,10,16,10,25,0,0,0,0,0,0,0,0,19,16,14,16,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191009,TEHATTA - II,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,6,2,5,8,0,0,0,0,0,0,0,0,6,5,4,7,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191010,KARIMPUR - I,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,34,28,29,39,0,0,0,0,0,0,0,0,31,24,17,21,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191011,KARIMPUR - II,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,9,4,2,5,0,0,0,0,0,0,0,0,9,11,2,13,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191012,HANSKHALI,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,1,0,4,3,0,0,0,0,0,0,0,0,1,2,4,1,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,8,5,3,0,0,0,0,0,0,0,0,0,7,0,7,3,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,26,26,25,31,0,0,0,0,0,0,0,0,21,32,28,43,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191015,SANTIPUR,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,15,13,15,17,0,0,0,0,0,0,0,0,9,13,11,16,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,23,18,16,33,0,0,0,0,0,0,0,0,17,27,21,17,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191017,HARINGHATA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,7,7,2,8,0,0,0,0,0,0,0,0,4,2,3,4,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191022,BIRNAGAR MUNI,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191024,GAYESHPUR MUNI,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,2,2,3,6,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191028,HARINGHATA MUNI,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,1,2,3,0,0,0,0,0,0,0,0,2,0,3,4,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191006,KRISHNAGANJ,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,1,0,5,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,3,cat3,HSS (I-XII),1,Department of Education,4,OBC,14,0,18,17,16,16,16,15,16,15,19,12,44,45,0,0,15,16,23,25,16,14,7,6,27,16
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,0,0,9,3,9,8,10,8,0,22,2,2,10,9,2,5,8,2,0,3,10,0,1,0,8,3
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,19,5,20,19,18,21,21,20,14,18,21,11,8,19,18,16,13,10,15,10,10,14,8,5,1,6
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,25,23,16,13,7,9,8,15,13,7,10,5,5,5,16,12,4,8,9,9,5,7,7,7,5,1
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,33,12,8,6,9,9,7,11,10,6,10,6,7,6,1,7,7,7,9,9,10,11,8,7,3,6
+2019-20,19,West Bengal,1910,NADIA,191025,CHAKDAH MUNI,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,6,2,4,1,2,1,1,1,0,0,0,0,1,0,1,1,0,2,1,0,0,0,0,0,1,0
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,3,cat3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,4,OBC,0,0,11,2,5,4,5,3,2,1,3,2,6,1,2,3,0,1,4,3,4,1,3,1,3,1
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,341,189,247,295,430,340,396,360,0,0,0,0,333,291,269,366,512,342,503,438
+2019-20,19,West Bengal,1910,NADIA,191002,KRISHNAGAR - II,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,233,150,177,222,369,279,339,231,0,0,0,0,105,79,72,137,260,162,349,256
+2019-20,19,West Bengal,1910,NADIA,191003,NAKASHIPARA,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,177,125,160,240,282,216,248,208,0,0,0,0,243,207,156,249,303,327,271,226
+2019-20,19,West Bengal,1910,NADIA,191004,KALIGANJ,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,288,187,200,271,348,279,304,229,0,0,0,0,161,115,159,195,294,309,285,254
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,709,493,521,709,1101,750,551,435,0,0,0,0,742,550,546,822,1128,1018,780,648
+2019-20,19,West Bengal,1910,NADIA,191006,KRISHNAGANJ,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,157,93,154,189,259,243,249,234,0,0,0,0,154,98,130,174,252,200,247,237
+2019-20,19,West Bengal,1910,NADIA,191007,NABADWIP,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,266,198,134,239,272,159,132,113,0,0,0,0,195,157,159,225,275,237,132,163
+2019-20,19,West Bengal,1910,NADIA,191008,TEHATTA - I,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,240,249,164,271,385,241,246,255,0,0,0,0,247,162,169,272,384,285,252,216
+2019-20,19,West Bengal,1910,NADIA,191009,TEHATTA - II,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,154,129,189,185,267,159,231,177,0,0,0,0,135,78,125,155,278,224,287,197
+2019-20,19,West Bengal,1910,NADIA,191010,KARIMPUR - I,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,137,141,85,136,235,126,127,122,0,0,0,0,170,132,142,194,225,185,158,137
+2019-20,19,West Bengal,1910,NADIA,191011,KARIMPUR - II,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,488,324,356,380,603,498,384,339,0,0,0,0,382,299,281,364,546,556,388,384
+2019-20,19,West Bengal,1910,NADIA,191012,HANSKHALI,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,260,215,156,255,388,311,395,347,0,0,0,0,227,164,150,262,323,307,402,379
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,212,139,135,189,332,191,203,211,0,0,0,0,182,164,112,215,361,244,243,248
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,342,248,223,346,412,335,312,258,0,0,0,0,377,297,316,419,554,565,384,344
+2019-20,19,West Bengal,1910,NADIA,191015,SANTIPUR,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,211,146,221,262,290,253,182,137,0,0,0,0,297,183,202,273,478,390,298,267
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,261,178,210,286,375,282,237,226,0,0,0,0,153,159,139,220,260,237,220,239
+2019-20,19,West Bengal,1910,NADIA,191017,HARINGHATA,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,131,137,262,191,265,243,200,184,0,0,0,0,114,106,212,273,279,304,158,258
+2019-20,19,West Bengal,1910,NADIA,191018,NABADWIP MUNI ,Urban,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,164,153,112,151,211,193,124,142,0,0,0,0,100,103,68,157,163,144,126,121
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,153,135,92,153,146,109,106,101,0,0,0,0,118,127,126,168,218,199,185,177
+2019-20,19,West Bengal,1910,NADIA,191020,RANAGHAT MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,57,54,80,48,92,53,99,61,0,0,0,0,64,92,62,77,71,75,106,110
+2019-20,19,West Bengal,1910,NADIA,191021,SANTIPUR MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,110,95,87,152,140,142,128,151,0,0,0,0,79,99,67,78,109,79,66,94
+2019-20,19,West Bengal,1910,NADIA,191022,BIRNAGAR MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,24,39,18,44,81,56,56,47,0,0,0,0,31,18,44,45,52,30,36,49
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,13,24,13,22,29,18,39,32,0,0,0,0,29,30,20,17,20,18,22,29
+2019-20,19,West Bengal,1910,NADIA,191024,GAYESHPUR MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,18,10,8,8,17,15,15,9,0,0,0,0,11,8,6,17,14,7,15,20
+2019-20,19,West Bengal,1910,NADIA,191025,CHAKDAH MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,44,12,49,47,43,45,97,64,0,0,0,0,69,51,56,78,85,63,62,97
+2019-20,19,West Bengal,1910,NADIA,191026,TEHARPUR NAA,Urban,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,31,22,7,7,5,1,6,4,0,0,0,0,24,21,9,21,24,20,23,26
+2019-20,19,West Bengal,1910,NADIA,191028,HARINGHATA MUNI,Urban,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,28,21,14,19,15,23,34,33,0,0,0,0,28,28,36,39,48,36,44,37
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,28,21,30,23,22,25,15
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,5,cat5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,4,OBC,0,0,0,0,0,0,0,2,5,9,8,4,7,6,0,0,0,0,0,1,4,8,8,5,4,4
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,11,cat11,HSS (XI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,44,51,0,0,0,0,0,0,0,0,0,0,46,47
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,243,261,298,284,318,300,0,0,0,0,0,0,0,0,294,283,302,321,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191002,KRISHNAGAR - II,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,219,230,265,264,276,280,0,0,0,0,0,0,0,0,224,265,255,263,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191003,NAKASHIPARA,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,398,372,484,509,537,491,37,0,0,0,0,0,0,0,454,481,502,507,31,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191004,KALIGANJ,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,140,139,180,198,189,168,0,0,0,0,0,0,0,0,166,167,149,155,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,389,395,483,524,479,496,0,0,0,0,0,0,0,0,453,508,479,483,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191006,KRISHNAGANJ,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,167,171,182,201,182,176,0,0,0,0,0,0,0,0,181,201,172,166,1,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191007,NABADWIP,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,188,165,224,235,233,214,0,0,0,0,0,0,0,0,223,226,215,244,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191008,TEHATTA - I,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,254,249,282,317,284,294,0,0,0,0,0,0,0,0,306,312,326,285,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191009,TEHATTA - II,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,69,69,85,97,114,109,0,0,0,0,0,0,0,0,86,95,108,100,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191010,KARIMPUR - I,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,134,140,150,195,192,172,4,0,0,0,0,0,0,0,141,157,145,170,5,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191011,KARIMPUR - II,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,451,462,514,539,550,560,24,0,0,0,0,0,0,0,483,536,482,501,35,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191012,HANSKHALI,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,246,278,288,333,338,349,41,0,0,0,0,0,0,0,319,317,310,328,32,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,172,162,205,217,191,204,1,0,0,0,0,0,0,0,202,205,220,204,2,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,152,146,202,224,245,222,3,0,0,0,0,0,0,0,220,216,227,204,6,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191015,SANTIPUR,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,123,100,127,149,157,158,0,0,0,0,0,0,0,0,134,165,169,178,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,129,139,162,154,168,177,1,0,0,0,0,0,0,0,142,171,141,144,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191017,HARINGHATA,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,161,160,194,188,171,216,0,0,0,0,0,0,0,0,190,179,195,196,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Urban,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191018,NABADWIP MUNI ,Urban,1,cat1,PS (I-V),1,Department of Education,4,OBC,20,20,20,22,11,19,0,0,0,0,0,0,0,0,24,24,21,32,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,4,OBC,36,49,46,44,38,43,0,0,0,0,0,0,0,0,65,48,56,63,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191020,RANAGHAT MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,4,OBC,15,22,13,19,14,11,0,0,0,0,0,0,0,0,18,25,23,21,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191021,SANTIPUR MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,4,OBC,27,18,29,35,27,28,0,0,0,0,0,0,0,0,18,29,29,35,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191022,BIRNAGAR MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,4,OBC,13,23,15,20,27,29,0,0,0,0,0,0,0,0,18,17,25,20,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,4,OBC,2,2,4,4,1,3,0,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191024,GAYESHPUR MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,4,OBC,1,1,5,7,10,8,0,0,0,0,0,0,0,0,2,1,0,5,1,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191025,CHAKDAH MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,4,OBC,8,12,13,16,16,19,0,0,0,0,0,0,0,0,15,11,12,15,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191026,TEHARPUR NAA,Urban,1,cat1,PS (I-V),1,Department of Education,4,OBC,3,3,5,6,4,6,0,0,0,0,0,0,0,0,5,8,4,14,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191027,RANAGHAT COOPERS NAA,Urban,1,cat1,PS (I-V),1,Department of Education,4,OBC,1,0,1,0,1,1,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191028,HARINGHATA MUNI,Urban,1,cat1,PS (I-V),1,Department of Education,4,OBC,17,10,12,21,19,28,0,0,0,0,0,0,0,0,11,13,18,24,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191018,NABADWIP MUNI ,Urban,1,cat1,PS (I-V),3,Local body,4,OBC,7,7,13,15,20,14,0,0,0,0,0,0,0,0,19,16,18,19,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,1,cat1,PS (I-V),3,Local body,4,OBC,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191021,SANTIPUR MUNI,Urban,1,cat1,PS (I-V),3,Local body,4,OBC,6,5,7,11,5,18,0,0,0,0,0,0,0,0,10,10,14,10,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,1,cat1,PS (I-V),3,Local body,4,OBC,5,3,2,4,1,3,0,0,0,0,0,0,0,0,5,1,4,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191024,GAYESHPUR MUNI,Urban,1,cat1,PS (I-V),3,Local body,4,OBC,1,0,0,2,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191026,TEHARPUR NAA,Urban,1,cat1,PS (I-V),3,Local body,4,OBC,0,0,11,8,0,0,0,0,0,0,0,0,0,0,12,12,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,128,103,30,39,41,28,0,0,0,0,0,0,0,0,33,37,30,31,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191002,KRISHNAGAR - II,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,184,136,56,56,44,24,0,0,0,0,0,0,0,0,48,42,22,31,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191003,NAKASHIPARA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,124,102,46,46,26,26,0,0,0,0,0,0,0,0,30,29,16,16,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191004,KALIGANJ,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,86,67,25,15,10,5,0,0,0,0,0,0,0,0,14,10,11,4,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,114,87,28,21,15,19,0,0,0,0,0,0,0,0,42,53,40,33,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191006,KRISHNAGANJ,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,90,70,38,21,23,14,0,0,0,0,0,0,0,0,24,17,25,7,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191007,NABADWIP,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,204,177,91,68,68,56,0,0,0,0,0,0,0,0,84,83,55,60,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191008,TEHATTA - I,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,156,142,55,46,25,11,0,0,0,0,0,0,0,0,47,38,18,20,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191009,TEHATTA - II,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,65,64,28,24,11,9,0,0,0,0,0,0,0,0,19,25,13,15,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191010,KARIMPUR - I,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,70,29,22,7,13,6,0,0,0,0,0,0,0,0,18,16,5,4,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191011,KARIMPUR - II,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,176,157,42,27,19,18,0,0,0,0,0,0,0,0,32,15,11,10,1,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191012,HANSKHALI,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,134,71,90,44,24,23,0,0,0,0,0,0,0,0,50,30,29,8,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,55,56,37,34,19,24,0,0,0,0,0,0,0,0,20,38,17,15,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,207,129,58,57,47,32,0,0,0,0,0,0,0,0,44,56,25,37,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191015,SANTIPUR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,94,80,51,51,48,30,0,0,0,0,0,0,0,0,36,43,28,21,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,192,160,89,79,63,49,0,0,0,0,0,0,0,0,76,63,48,45,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191017,HARINGHATA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,138,144,73,45,62,31,0,0,0,0,0,0,0,0,48,28,44,25,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191018,NABADWIP MUNI ,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,34,34,28,22,19,8,0,0,0,0,0,0,0,0,24,18,15,8,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,31,20,13,7,6,7,0,0,0,0,0,0,0,0,7,9,12,4,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191020,RANAGHAT MUNI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,58,26,21,13,12,6,0,0,0,0,0,0,0,0,15,15,11,15,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191021,SANTIPUR MUNI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,72,54,39,43,26,29,8,0,0,0,0,0,0,0,33,38,24,16,5,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191022,BIRNAGAR MUNI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,4,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,1,1,3,0,2,2,0,0,0,0,0,0,0,0,2,1,0,2,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191025,CHAKDAH MUNI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,3,0,0,1,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191026,TEHARPUR NAA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191028,HARINGHATA MUNI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,52,60,47,39,41,36,0,0,0,0,0,0,0,0,19,37,37,31,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191010,KARIMPUR - I,Rural,1,cat1,PS (I-V),98,Madarsa unrecognized,4,OBC,0,0,7,7,10,12,0,0,0,0,0,0,0,0,5,9,14,5,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191003,NAKASHIPARA,Rural,6,cat6,SS (I-X),1,Department of Education,4,OBC,0,0,13,13,21,12,35,19,28,44,105,73,0,0,14,14,18,19,63,50,46,77,69,72,0,0
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,6,5,10,12,9,9,7,4,5,4,2,0,0,0,10,3,8,2,5,1,2,3,1,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,32,15,30,20,9,12,8,15,11,9,12,8,0,0,12,10,6,4,5,2,5,3,4,3,0,0
+2019-20,19,West Bengal,1910,NADIA,191007,NABADWIP,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,5,2,0,1,0,1,1,1,4,3,1,8,0,0,0,1,0,0,1,1,1,0,1,4,0,0
+2019-20,19,West Bengal,1910,NADIA,191008,TEHATTA - I,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,13,6,6,5,3,4,1,2,5,2,2,2,0,0,45,2,0,2,1,1,2,1,2,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191010,KARIMPUR - I,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,14,9,12,7,10,6,1,3,5,2,0,0,0,0,13,8,14,5,6,2,3,5,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,6,8,5,1,5,2,0,0,0,0,0,0,0,0,8,2,9,5,2,1,2,0,0,2,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,7,5,1,1,5,1,3,0,1,0,1,3,0,0,2,2,2,3,2,3,0,1,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191018,NABADWIP MUNI ,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,23,25,9,8,12,5,5,4,2,3,0,0,0,0,3,3,5,6,6,2,2,1,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191023,KALYANI MUNI,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,3,2,0,4,2,2,2,2,1,5,4,2,0,0,1,4,2,1,3,0,2,3,1,1,0,0
+2019-20,19,West Bengal,1910,NADIA,191024,GAYESHPUR MUNI,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,18,17,11,9,5,7,9,10,7,12,3,4,0,0,8,5,4,7,6,10,8,6,5,9,0,0
+2019-20,19,West Bengal,1910,NADIA,191028,HARINGHATA MUNI,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,0,0,3,2,0,1,2,1,3,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191018,NABADWIP MUNI ,Urban,6,cat6,SS (I-X),6,Other Govt. managed schools,4,OBC,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,6,cat6,SS (I-X),92,Kendriya Vidyalaya / Central School,4,OBC,0,0,0,2,4,5,6,1,2,3,6,3,0,0,4,4,2,3,1,2,1,2,2,2,0,0
+2019-20,19,West Bengal,1910,NADIA,191001,KRISHNAGAR - I,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,29,8,7,24,19,17,0,0,0,0,0,0,31,11,13,21,25,16,0,0
+2019-20,19,West Bengal,1910,NADIA,191002,KRISHNAGAR - II,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,56,51,58,86,66,0,0
+2019-20,19,West Bengal,1910,NADIA,191003,NAKASHIPARA,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,17,22,49,49,69,60,0,0,0,0,0,0,87,77,166,177,219,128,0,0
+2019-20,19,West Bengal,1910,NADIA,191004,KALIGANJ,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,47,41,7,42,51,47,0,0
+2019-20,19,West Bengal,1910,NADIA,191005,CHAPRA,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,20,12,3,15,16,26,0,0,0,0,0,0,70,44,97,111,137,133,0,0
+2019-20,19,West Bengal,1910,NADIA,191006,KRISHNAGANJ,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,22,28,6,38,51,46,0,0,0,0,0,0,53,53,13,53,94,63,0,0
+2019-20,19,West Bengal,1910,NADIA,191008,TEHATTA - I,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191009,TEHATTA - II,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,21,15,38,28,41,30,0,0,0,0,0,0,21,11,29,34,57,50,0,0
+2019-20,19,West Bengal,1910,NADIA,191011,KARIMPUR - II,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,127,112,116,167,167,82,0,0,0,0,0,0,120,90,85,163,240,138,0,0
+2019-20,19,West Bengal,1910,NADIA,191012,HANSKHALI,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,45,45,20,38,58,62,0,0,0,0,0,0,53,55,24,54,77,65,0,0
+2019-20,19,West Bengal,1910,NADIA,191013,RANAGHAT - I,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,14,19,5,2,23,11,0,0,0,0,0,0,16,16,5,10,14,13,0,0
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,7,2,7,11,7,6,0,0,0,0,0,0,8,8,8,12,19,11,0,0
+2019-20,19,West Bengal,1910,NADIA,191016,CHAKDAH,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,11,11,6,18,29,21,0,0,0,0,0,0,25,15,27,37,50,24,0,0
+2019-20,19,West Bengal,1910,NADIA,191017,HARINGHATA,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,11,6,10,16,17,7,0,0,0,0,0,0,39,37,22,49,43,40,0,0
+2019-20,19,West Bengal,1910,NADIA,191018,NABADWIP MUNI ,Urban,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,5,16,7,13,14,8,0,0,0,0,0,0,7,18,29,23,36,35,0,0
+2019-20,19,West Bengal,1910,NADIA,191019,KRISHNAGAR MUNI,Urban,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,11,9,11,16,12,10,0,0,0,0,0,0,4,6,2,6,14,5,0,0
+2019-20,19,West Bengal,1910,NADIA,191020,RANAGHAT MUNI,Urban,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,5,7,16,7,16,0,0
+2019-20,19,West Bengal,1910,NADIA,191021,SANTIPUR MUNI,Urban,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,2,3,6,1,10,3,0,0
+2019-20,19,West Bengal,1910,NADIA,191024,GAYESHPUR MUNI,Urban,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,2,1,1,2,3,0,0,0,0,0,0,0,0,0,1,2,2,1,0,0
+2019-20,19,West Bengal,1910,NADIA,191025,CHAKDAH MUNI,Urban,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,1,2,0,3,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+2019-20,19,West Bengal,1910,NADIA,191027,RANAGHAT COOPERS NAA,Urban,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+2019-20,19,West Bengal,1910,NADIA,191014,RANAGHAT - II,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,3,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0

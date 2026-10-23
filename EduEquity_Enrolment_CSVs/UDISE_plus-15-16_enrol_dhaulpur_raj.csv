@@ -1,0 +1,413 @@
+ac_year,state_code,state_name,district_code,district_name,block_code,block_name,sch_category_id,category_name,sch_mgmt_id,sch_mgmt_name,loc_name,caste_id,pre_primary_boys,pre_primary_girls,class_1_boys,class_2_boys,class_3_boys,class_4_boys,class_5_boys,class_6_boys,class_7_boys,class_8_boys,class_9_boys,class_10_boys,class_11_boys,class_12_boys,class_1_girls,class_2_girls,class_3_girls,class_4_girls,class_5_girls,class_6_girls,class_7_girls,class_8_girls,class_9_girls,class_10_girls,class_11_girls,class_12_girls,caste_name
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,20,8,10,18,8,0,0,0,0,0,0,0,8,6,5,10,1,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,3,HSS (I-XII),1,Department of Education,Rural,1,0,0,23,6,3,5,4,3,3,7,4,3,5,0,12,7,8,10,4,9,7,11,18,14,14,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,3,HSS (I-XII),1,Department of Education,Rural,1,0,0,28,20,22,15,9,19,13,11,17,12,7,1,25,18,15,17,9,28,11,23,25,17,12,2,General
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,3,HSS (I-XII),1,Department of Education,Rural,1,0,0,18,8,9,8,8,15,13,18,50,44,33,24,15,10,19,10,23,18,28,16,54,43,35,29,General
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,3,HSS (I-XII),1,Department of Education,Rural,1,0,0,44,36,47,28,29,41,38,28,49,35,12,0,43,39,60,40,39,84,91,68,79,77,35,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,3,HSS (I-XII),1,Department of Education,Rural,1,0,0,69,47,43,38,40,41,36,47,64,67,78,37,60,35,46,37,45,47,42,33,124,99,91,76,General
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,3,HSS (I-XII),1,Department of Education,Urban,1,0,0,16,17,11,10,12,16,11,7,36,29,103,101,13,14,16,9,11,16,6,4,3,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,252,140,128,89,71,94,119,145,233,362,383,367,162,85,110,49,57,47,74,67,124,156,200,199,General
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,9,13,6,8,14,3,6,21,12,16,16,11,10,8,9,11,7,3,5,5,6,12,8,12,General
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,59,33,22,21,21,31,33,36,47,45,35,33,38,16,12,8,12,14,17,20,25,20,30,35,General
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,114,119,62,72,33,43,39,46,56,77,60,74,69,50,64,48,24,31,33,33,28,30,56,43,General
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,178,157,163,100,103,125,138,137,172,205,245,257,131,85,84,83,76,69,77,75,122,118,122,151,General
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,1,3,9,18,26,42,0,0,0,0,0,0,0,3,3,11,14,14,General
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,0,0,290,241,248,200,194,252,325,330,420,534,714,860,207,148,129,109,136,154,145,200,216,268,312,336,General
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,0,0,52,56,64,63,60,79,80,89,109,102,140,151,45,27,45,24,35,21,32,36,58,38,60,49,General
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,4,5,3,1,3,4,2,4,5,12,10,1,6,3,3,1,2,4,2,2,5,4,2,General
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,2,3,2,1,0,3,4,3,0,0,0,4,5,3,2,4,5,8,11,7,6,9,8,5,General
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,13,8,11,9,14,29,9,6,3,10,54,39,10,14,22,8,20,18,3,7,5,7,15,20,General
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,1,0,0,1,0,5,3,4,9,13,69,58,1,0,2,0,0,0,0,0,0,0,21,22,General
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,2,2,0,0,2,5,5,8,2,3,3,0,3,1,1,0,4,11,5,10,1,2,1,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,3,1,2,1,0,1,2,5,10,13,54,60,1,3,1,2,1,2,0,2,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,4,12,37,20,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,1,0,0,4,7,1,2,6,4,8,7,8,21,27,46,0,2,0,1,4,4,12,6,20,19,49,36,General
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,8,14,9,12,13,16,21,20,33,27,20,25,7,10,15,11,19,37,42,65,93,68,69,63,General
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,26,15,13,11,18,22,12,21,25,37,17,16,24,10,9,12,14,14,16,14,21,23,37,26,General
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,1,3,0,1,1,7,4,9,12,17,22,8,0,2,1,0,2,5,9,11,22,15,36,42,General
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,3,6,3,0,2,3,4,5,11,4,11,4,5,5,10,8,8,9,15,16,14,10,25,12,General
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,6,28,49,38,57,76,General
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,25,30,18,12,24,41,37,27,21,21,17,17,28,23,19,19,15,31,38,46,80,84,116,98,General
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,0,5,4,6,2,0,0,0,0,0,0,0,3,6,6,6,8,11,9,13,32,16,36,47,General
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,9,5,6,3,3,8,9,0,0,0,0,0,9,2,2,0,2,2,1,General
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,0,0,11,7,8,10,6,15,17,17,57,58,44,20,9,9,9,20,7,16,21,21,22,32,53,30,General
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,5,HSS (VI-XII),7,Central Govt,Rural,1,0,0,0,0,0,0,0,14,14,13,16,15,14,14,0,0,0,0,0,8,8,8,15,16,14,22,General
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,1,PS (I-V),1,Department of Education,Rural,1,0,0,4,3,1,3,2,0,0,0,0,0,0,0,3,0,4,1,0,1,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,1,PS (I-V),1,Department of Education,Rural,1,0,0,69,53,49,55,60,49,35,38,0,0,0,0,47,63,45,47,50,51,37,34,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,1,PS (I-V),1,Department of Education,Rural,1,0,0,6,2,3,3,1,0,0,0,0,0,0,0,4,5,2,8,7,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,1,PS (I-V),1,Department of Education,Rural,1,0,0,5,13,6,7,7,0,3,0,0,0,0,0,12,14,6,10,5,2,1,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,1,PS (I-V),1,Department of Education,Rural,1,0,0,1,2,2,1,2,0,0,0,0,0,0,0,0,0,2,2,4,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,1,PS (I-V),1,Department of Education,Urban,1,0,0,3,4,0,0,1,0,0,0,0,0,0,0,6,2,1,0,3,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,1,PS (I-V),1,Department of Education,Urban,1,0,0,4,0,1,0,0,0,0,0,0,0,0,0,4,2,1,1,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,1,PS (I-V),1,Department of Education,Urban,1,0,0,26,31,13,11,6,0,0,0,0,0,0,0,25,23,11,10,13,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,1,PS (I-V),3,Local body,Rural,1,0,0,81,70,59,42,45,0,0,0,0,0,0,0,86,74,57,52,54,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,1,PS (I-V),3,Local body,Rural,1,0,0,23,18,17,18,11,0,0,0,0,0,0,0,19,17,19,22,22,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,1,PS (I-V),3,Local body,Rural,1,0,0,44,32,28,35,37,0,0,0,0,0,0,0,40,29,26,29,31,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,1,PS (I-V),3,Local body,Rural,1,0,0,143,107,95,89,70,0,0,0,0,0,0,0,165,129,111,134,128,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,1,PS (I-V),3,Local body,Rural,1,0,0,29,23,32,15,23,0,0,0,0,0,0,0,23,15,23,21,14,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,67,33,125,65,64,49,55,23,17,10,0,0,0,0,53,34,32,24,42,11,17,7,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,43,33,23,20,19,5,5,0,0,0,0,0,22,12,11,9,14,13,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,26,35,19,9,5,0,0,0,0,0,0,0,26,31,17,11,10,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,43,37,27,15,11,0,0,0,0,0,0,0,27,20,11,11,8,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,92,40,30,32,24,0,0,0,0,0,0,0,47,27,28,17,9,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,12,9,7,16,15,0,0,0,0,0,0,0,18,9,10,8,7,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,28,11,95,58,55,47,31,20,9,0,0,0,0,0,47,30,26,23,25,10,6,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,7,17,11,16,19,0,0,0,0,0,0,0,13,16,8,11,7,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,52,56,48,51,40,0,0,0,0,0,0,0,45,51,47,65,56,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,20,17,13,7,13,0,0,0,0,0,0,0,16,6,13,7,13,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,7,1,4,9,1,0,0,0,0,0,0,0,3,4,1,6,3,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,22,7,20,13,15,0,0,0,0,0,0,0,27,9,13,19,9,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,32,27,39,49,39,53,61,0,0,0,0,0,0,0,51,50,51,53,71,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,6,SS (I-X),1,Department of Education,Rural,1,0,0,37,25,25,22,24,39,29,23,36,25,5,0,43,37,37,35,33,51,34,49,57,50,11,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,6,SS (I-X),1,Department of Education,Rural,1,0,0,27,16,31,20,15,23,19,21,33,19,6,0,35,32,26,22,18,37,44,31,46,26,3,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,6,SS (I-X),1,Department of Education,Rural,1,0,0,16,16,12,15,18,32,18,20,17,11,1,0,23,19,22,20,18,30,20,23,23,37,2,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,6,SS (I-X),1,Department of Education,Rural,1,0,0,15,17,31,13,6,16,19,3,12,8,2,3,21,12,28,16,24,32,21,23,29,28,14,5,General
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,6,SS (I-X),1,Department of Education,Rural,1,0,0,29,26,13,18,12,16,19,22,26,30,0,0,31,16,15,28,21,24,28,37,58,25,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,6,SS (I-X),1,Department of Education,Urban,1,0,0,14,13,12,7,4,11,8,3,2,3,0,0,24,17,6,3,1,5,7,3,2,3,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,2,1,311,232,160,155,126,138,127,135,180,217,11,0,223,162,131,122,88,95,88,70,85,114,14,3,General
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,37,33,33,26,28,31,29,30,30,41,0,0,32,30,13,18,9,11,13,12,15,20,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,19,27,119,71,102,90,73,71,73,76,104,70,0,0,93,65,70,47,46,50,53,42,42,55,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,20,5,272,144,112,100,100,105,117,131,172,218,39,0,152,105,76,55,74,68,81,61,58,81,14,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,119,63,48,57,67,67,73,48,76,84,0,0,93,47,41,42,33,49,38,37,62,51,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,24,16,75,81,68,85,81,89,83,83,110,140,60,35,59,43,46,42,65,63,63,54,81,76,33,12,General
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,116,68,276,223,196,220,261,209,201,225,258,238,10,23,244,166,164,143,136,152,144,129,154,163,9,11,General
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,14,4,169,88,140,70,87,96,93,113,145,146,35,0,83,71,96,37,55,61,59,62,61,61,11,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,7,SS (VI-X),1,Department of Education,Rural,1,0,0,28,27,27,26,25,44,58,45,67,56,22,3,35,22,31,37,25,61,53,65,115,83,44,3,General
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,7,SS (VI-X),1,Department of Education,Rural,1,0,0,1,0,3,3,0,2,2,0,10,12,6,0,3,4,1,0,3,1,5,7,22,8,11,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,7,SS (VI-X),1,Department of Education,Rural,1,0,0,13,9,13,21,22,21,21,22,35,19,3,3,16,17,17,13,20,20,20,22,39,27,12,7,General
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,7,SS (VI-X),1,Department of Education,Rural,1,0,0,37,38,30,30,26,48,33,38,34,25,23,2,49,46,27,29,26,57,42,46,73,53,43,17,General
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,7,SS (VI-X),1,Department of Education,Urban,1,0,0,9,9,4,3,1,0,1,4,4,2,1,3,12,9,10,9,10,30,39,44,49,40,0,1,General
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,7,SS (VI-X),1,Department of Education,Urban,1,0,0,1,1,0,1,0,2,3,2,5,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,37,37,51,39,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,2,1,9,4,4,5,3,4,12,9,0,0,0,3,4,6,4,1,5,3,4,7,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,24,20,27,19,11,0,0,0,0,0,0,0,10,7,9,10,7,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,126,105,105,101,106,136,129,110,12,3,0,0,120,136,129,134,133,164,139,132,39,27,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,79,61,61,52,64,58,62,44,49,16,2,0,84,67,65,51,57,61,83,65,38,25,11,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,48,42,48,63,65,58,44,55,11,4,0,0,64,57,56,63,69,73,77,74,17,9,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,128,89,96,91,82,74,67,69,9,5,1,0,139,119,120,104,119,109,88,115,8,4,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,51,46,30,39,39,32,31,18,0,0,0,0,50,32,45,38,35,36,52,36,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,21,18,34,9,5,3,5,4,0,0,0,0,11,20,15,20,8,10,4,5,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,18,30,30,27,21,18,16,17,2,1,0,0,12,26,17,16,17,27,23,28,1,1,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,5,6,0,0,0,0,0,0,0,0,0,0,7,4,4,4,1,0,3,2,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,2,UPS (I-VIII),2,Tribal Welfare Department,Urban,1,0,0,5,12,10,1,0,1,0,1,0,0,0,0,3,1,0,0,2,0,0,1,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,85,58,397,325,247,236,211,243,194,133,2,0,0,0,295,186,152,147,159,114,117,121,12,19,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,202,118,82,124,93,94,83,73,12,0,0,0,111,63,62,82,72,74,38,38,7,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,275,144,112,106,100,104,95,69,0,0,0,0,164,113,75,72,77,59,59,46,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,28,29,353,247,210,180,171,162,146,110,14,5,0,0,223,146,134,112,132,106,72,89,7,2,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,32,13,204,117,100,101,92,91,78,54,0,0,0,0,150,109,85,89,65,63,54,50,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,27,16,104,89,93,62,87,69,65,70,15,8,0,0,80,76,75,53,60,48,51,43,9,9,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,23,12,520,404,296,248,260,190,157,134,12,12,0,0,324,248,190,182,162,113,111,80,15,2,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,15,13,195,109,123,89,88,71,66,46,7,0,0,0,104,63,56,50,38,43,34,22,1,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,7,4,1,8,8,16,12,26,10,5,0,0,1,5,6,5,6,14,9,13,14,15,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,General
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,3,HSS (I-XII),1,Department of Education,Rural,2,0,0,11,6,5,3,5,9,5,9,31,27,9,0,12,2,6,6,2,11,15,14,31,19,15,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,3,HSS (I-XII),1,Department of Education,Rural,2,0,0,58,38,36,38,40,64,55,41,46,45,29,7,58,45,29,35,30,47,50,35,32,24,20,1,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,3,HSS (I-XII),1,Department of Education,Rural,2,0,0,41,37,38,26,37,42,60,44,78,70,55,21,61,41,28,37,38,41,35,42,102,64,41,18,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,3,HSS (I-XII),1,Department of Education,Rural,2,0,0,64,51,49,29,50,68,41,55,35,17,6,0,67,49,63,42,42,63,58,58,67,31,5,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,3,HSS (I-XII),1,Department of Education,Rural,2,0,0,226,192,151,164,155,197,127,160,233,122,124,98,189,165,177,133,131,184,151,147,242,118,96,63,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,3,HSS (I-XII),1,Department of Education,Urban,2,0,0,7,11,6,12,10,27,25,23,49,75,113,96,10,8,8,10,4,10,14,16,5,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,130,117,68,36,52,51,62,93,104,168,168,162,122,66,34,35,33,43,53,54,48,76,86,88,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,15,11,10,11,9,3,10,8,7,28,22,12,13,5,3,4,0,0,2,2,0,4,3,10,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,48,44,48,36,36,30,23,27,14,18,9,19,35,25,24,13,19,20,17,19,9,7,10,6,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,43,35,23,14,9,9,4,11,10,35,17,25,24,24,25,16,3,9,4,1,8,23,4,9,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,149,107,89,66,69,63,64,71,108,126,113,104,90,66,65,45,44,39,36,40,50,50,40,45,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,1,2,4,8,32,21,36,0,0,0,0,0,0,0,0,2,9,8,10,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,0,0,65,45,48,51,52,76,72,81,94,121,173,200,57,33,31,33,36,45,37,31,48,47,65,84,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,0,0,54,35,28,16,26,15,18,17,22,41,34,48,23,24,14,13,13,15,12,12,11,12,13,17,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,1,0,0,0,0,0,27,13,14,4,0,0,0,0,0,0,0,0,1,6,2,1,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,33,27,28,12,23,32,21,18,26,29,38,30,25,30,29,12,24,19,30,20,26,12,8,15,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,3,0,1,8,5,2,1,4,14,21,43,41,4,3,1,6,3,0,0,0,0,0,3,2,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,6,2,0,2,4,14,6,2,3,2,4,2,2,0,2,1,2,9,5,5,4,5,2,1,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,9,8,4,3,1,0,1,3,15,10,57,102,5,2,4,3,2,1,0,1,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,3,3,23,25,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,1,1,2,2,2,1,3,10,12,0,0,0,1,1,0,1,1,2,6,10,16,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,45,39,49,41,45,120,71,88,116,76,37,48,50,37,44,36,36,87,84,68,139,99,39,48,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,49,32,28,34,35,67,70,53,85,75,37,50,57,42,33,35,23,42,40,41,57,38,33,31,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,5,5,2,3,3,26,21,24,63,47,29,33,8,6,2,1,8,22,9,10,47,17,45,34,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,15,12,21,10,5,25,8,17,32,18,12,18,23,23,20,14,6,13,25,10,31,28,9,7,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,23,25,61,40,48,27,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,27,27,32,15,21,19,13,20,32,11,9,6,30,14,14,21,21,30,36,32,67,60,62,69,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,0,1,5,1,3,0,0,0,0,0,0,0,2,4,8,4,5,5,6,6,24,6,14,10,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,1,2,0,5,5,9,12,0,0,0,0,0,2,0,1,5,2,0,2,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,0,0,2,1,0,2,2,3,3,6,10,10,3,2,0,2,3,1,0,2,4,2,4,5,4,2,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,5,HSS (VI-XII),7,Central Govt,Rural,2,0,0,0,0,0,0,0,14,19,14,16,15,15,10,0,0,0,0,0,5,5,3,3,6,5,5,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,1,PS (I-V),1,Department of Education,Rural,2,0,0,15,21,19,14,27,13,5,9,0,0,0,0,17,12,21,12,20,9,12,15,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,1,PS (I-V),1,Department of Education,Rural,2,0,0,66,58,53,57,49,57,42,48,0,0,0,0,54,55,63,56,51,54,38,40,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,1,PS (I-V),1,Department of Education,Rural,2,0,0,18,11,11,19,15,6,3,0,0,0,0,0,17,12,11,12,6,5,5,0,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,1,PS (I-V),1,Department of Education,Rural,2,0,0,19,7,12,7,16,0,0,0,0,0,0,0,10,16,9,10,7,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,1,PS (I-V),1,Department of Education,Rural,2,0,0,11,10,6,11,14,0,0,0,0,0,0,0,17,9,7,0,5,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,1,PS (I-V),1,Department of Education,Urban,2,0,0,44,28,23,21,17,0,0,0,0,0,0,0,49,32,47,31,16,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,1,PS (I-V),1,Department of Education,Urban,2,0,0,19,13,6,3,7,0,0,0,0,0,0,0,14,18,9,6,6,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,1,PS (I-V),1,Department of Education,Urban,2,0,0,20,13,11,8,7,0,0,0,0,0,0,0,28,16,22,8,4,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,1,PS (I-V),3,Local body,Rural,2,0,0,187,145,163,144,150,0,0,0,0,0,0,0,171,172,155,109,150,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,1,PS (I-V),3,Local body,Rural,2,0,0,198,126,161,124,112,0,0,0,0,0,0,0,138,147,162,128,93,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,1,PS (I-V),3,Local body,Rural,2,0,0,163,148,119,117,124,0,0,0,0,0,0,0,132,90,100,99,110,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,1,PS (I-V),3,Local body,Rural,2,0,0,194,153,121,103,105,0,0,0,0,0,0,0,183,144,131,144,123,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,1,PS (I-V),3,Local body,Rural,2,0,0,42,37,18,40,36,0,0,0,0,0,0,0,34,22,22,25,26,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,16,14,43,20,20,14,13,15,4,7,0,0,0,0,41,21,10,4,4,5,2,3,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,44,12,14,12,24,0,0,0,0,0,0,0,32,7,7,5,7,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,41,30,19,26,30,4,4,1,0,0,0,0,35,20,24,21,13,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,40,22,13,5,6,0,0,0,0,0,0,0,24,14,6,2,1,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,64,28,23,20,20,0,0,0,0,0,0,0,27,24,14,10,5,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,20,4,8,1,3,0,0,0,0,0,0,0,21,8,2,3,0,0,2,0,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,4,2,4,3,1,0,0,0,0,0,0,0,1,1,4,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,2,3,0,1,0,0,0,0,0,0,0,0,0,1,2,0,3,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,9,4,0,2,3,0,0,0,0,0,0,0,3,7,6,2,1,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,3,6,0,1,0,0,0,0,0,0,0,0,3,9,2,2,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,5,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,9,5,2,3,5,0,0,0,0,0,0,0,5,6,2,2,6,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,6,SS (I-X),1,Department of Education,Rural,2,0,0,102,65,47,35,34,67,46,43,69,21,12,0,78,53,57,51,42,58,50,46,76,39,6,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,6,SS (I-X),1,Department of Education,Rural,2,0,0,53,50,45,27,33,51,39,44,81,52,9,0,58,56,53,33,41,60,57,73,114,49,5,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,6,SS (I-X),1,Department of Education,Rural,2,0,0,77,41,52,52,47,70,53,36,71,32,1,0,53,42,45,56,44,87,67,59,116,59,3,2,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,6,SS (I-X),1,Department of Education,Rural,2,0,0,25,29,22,18,12,32,19,26,28,5,3,2,25,29,18,13,19,32,12,30,29,14,6,3,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,6,SS (I-X),1,Department of Education,Rural,2,0,0,100,87,87,81,63,68,68,78,83,40,0,0,124,95,66,92,68,104,68,69,101,41,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,6,SS (I-X),1,Department of Education,Urban,2,0,0,23,22,14,13,16,22,7,5,6,4,0,0,16,15,18,14,14,36,22,14,19,11,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,3,1,268,223,154,100,93,75,94,97,129,113,3,0,163,130,92,56,55,66,66,41,66,76,3,1,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,68,41,30,31,54,40,35,32,40,48,0,0,45,26,13,15,17,14,21,22,21,14,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,13,9,72,75,61,45,37,35,56,46,56,58,4,2,80,55,46,30,23,24,13,22,15,30,0,3,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,3,1,184,129,102,67,54,89,60,65,73,87,13,0,103,80,50,17,31,43,28,19,26,27,1,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,104,108,49,42,53,35,40,39,63,64,0,0,74,72,37,20,16,20,34,38,41,37,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,16,8,67,43,46,27,37,41,27,39,29,49,27,7,45,27,27,27,22,16,23,39,21,32,18,1,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,7,5,179,128,89,79,74,75,75,72,106,134,6,7,120,96,76,56,42,48,52,38,56,60,5,6,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,17,8,105,76,82,51,51,53,38,49,57,61,6,0,87,62,47,35,38,32,27,29,28,35,1,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,7,SS (VI-X),1,Department of Education,Rural,2,0,0,41,38,39,41,32,64,53,41,106,44,22,3,47,28,31,41,24,54,40,34,90,58,13,1,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,7,SS (VI-X),1,Department of Education,Rural,2,0,0,23,25,20,17,26,38,24,25,37,23,7,0,20,21,20,19,27,31,33,16,36,14,9,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,7,SS (VI-X),1,Department of Education,Rural,2,0,0,39,35,24,21,35,62,49,56,35,25,20,7,41,18,30,23,19,53,42,48,54,24,11,6,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,7,SS (VI-X),1,Department of Education,Rural,2,0,0,74,44,54,41,43,49,56,73,60,28,12,2,81,47,53,47,35,73,52,69,83,32,13,8,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,7,SS (VI-X),1,Department of Education,Urban,2,0,0,14,11,7,8,5,9,7,6,5,2,2,3,21,10,16,24,11,20,26,19,27,27,2,3,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,7,SS (VI-X),1,Department of Education,Urban,2,0,0,12,9,2,5,3,14,19,9,17,20,0,0,5,5,0,5,1,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,1,1,0,2,1,3,0,1,2,1,0,0,1,0,1,0,0,1,2,0,1,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,1,2,1,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,369,270,264,237,237,307,300,262,23,10,0,0,364,274,257,255,234,290,287,264,33,22,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,257,181,181,202,169,189,161,171,95,62,5,0,244,187,166,145,147,190,136,168,100,45,6,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,287,209,206,211,187,264,214,185,12,13,3,0,246,208,192,191,167,255,206,171,29,13,1,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,176,103,97,94,90,144,117,108,14,8,0,0,152,118,103,98,98,144,107,101,12,8,2,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,166,202,149,128,118,142,107,80,0,0,0,0,201,177,136,138,105,121,99,100,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,23,17,9,11,6,8,6,7,0,0,0,0,16,31,22,14,17,17,17,16,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,29,21,30,21,25,35,26,12,6,4,0,0,40,31,29,22,22,26,19,15,3,3,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,3,5,6,2,2,0,0,1,0,0,0,0,9,7,6,4,2,3,0,0,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,2,UPS (I-VIII),2,Tribal Welfare Department,Urban,2,0,0,4,3,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,21,14,325,207,154,147,116,126,142,82,0,0,0,0,240,118,98,58,48,73,75,62,0,1,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,226,129,139,112,118,91,60,44,3,0,0,0,127,62,70,64,63,42,34,34,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,8,12,225,178,145,86,91,147,121,87,0,0,0,0,165,143,86,69,55,90,98,49,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,12,16,215,156,87,79,91,63,45,33,6,5,0,0,177,140,72,45,41,26,28,25,2,5,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,6,1,229,141,153,89,94,87,61,51,0,0,0,0,177,144,81,61,49,29,29,32,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,3,3,178,115,104,91,81,94,72,74,10,6,0,0,155,76,77,70,55,60,61,49,2,9,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,5,10,250,199,143,89,83,64,62,46,1,2,0,0,171,126,102,79,41,42,37,39,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,2,0,64,65,52,27,30,28,28,16,0,0,0,0,45,67,37,18,17,21,12,11,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,7,4,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,5,15,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,23,14,15,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,11,9,12,11,9,4,8,3,0,0,0,0,18,7,9,11,17,7,3,3,0,0,0,0,SC
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,3,HSS (I-XII),1,Department of Education,Rural,3,0,0,9,5,10,5,7,10,8,20,23,4,20,0,8,11,12,8,5,31,17,26,39,32,19,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,3,HSS (I-XII),1,Department of Education,Rural,3,0,0,25,14,23,10,23,39,31,22,33,37,14,1,28,29,29,18,23,30,32,37,51,44,22,14,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,3,HSS (I-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,11,1,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,3,HSS (I-XII),1,Department of Education,Rural,3,0,0,10,5,2,1,5,6,5,8,2,1,2,0,9,3,0,4,2,2,6,2,4,0,2,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,3,HSS (I-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,4,3,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,3,HSS (I-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,1,1,2,3,5,22,101,120,0,0,0,0,0,0,0,1,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,14,15,29,25,18,32,38,47,92,149,161,151,8,7,14,10,11,15,18,13,27,60,84,72,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,1,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,3,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,1,2,3,8,11,45,88,0,0,0,0,0,0,0,1,1,4,8,23,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,7,10,4,12,15,20,38,37,66,44,71,67,6,7,3,2,5,12,11,13,15,15,16,21,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,1,0,2,2,17,16,72,48,0,0,0,0,0,0,1,0,0,0,7,1,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,5,31,32,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,1,0,0,0,0,0,1,0,0,4,8,0,0,0,0,0,0,2,0,0,0,2,2,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,5,2,3,2,1,17,11,8,45,29,53,56,1,4,2,5,6,30,18,23,115,92,104,101,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,11,5,3,4,4,5,7,8,3,11,14,9,8,4,6,4,1,8,4,8,16,15,15,13,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,7,24,61,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,1,1,3,2,0,0,0,0,0,0,0,2,2,2,5,6,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,1,3,4,11,15,0,0,0,0,0,0,0,0,0,5,11,3,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,0,0,3,2,1,3,2,2,9,8,12,62,8,7,0,1,2,0,3,3,3,2,7,5,17,10,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,5,HSS (VI-XII),7,Central Govt,Rural,3,0,0,0,0,0,0,0,7,4,4,10,3,3,9,0,0,0,0,0,7,6,4,4,3,4,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,1,PS (I-V),1,Department of Education,Rural,3,0,0,43,14,25,27,23,17,20,4,0,0,0,0,19,21,26,16,20,20,15,11,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,1,PS (I-V),1,Department of Education,Rural,3,0,0,6,11,7,4,4,4,4,2,0,0,0,0,9,4,10,5,6,6,7,1,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,1,PS (I-V),1,Department of Education,Rural,3,0,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,1,PS (I-V),3,Local body,Rural,3,0,0,162,111,102,93,103,0,0,0,0,0,0,0,154,120,118,99,109,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,1,PS (I-V),3,Local body,Rural,3,0,0,38,32,18,21,11,0,0,0,0,0,0,0,54,32,21,19,10,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,1,PS (I-V),3,Local body,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,1,PS (I-V),3,Local body,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,1,PS (I-V),3,Local body,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,8,2,25,29,15,16,12,5,3,4,0,0,0,0,26,27,12,7,10,9,5,5,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,11,4,5,7,3,0,0,0,0,0,0,0,3,4,4,1,1,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,12,6,8,5,5,0,0,0,0,0,0,0,6,7,11,0,3,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,5,7,6,5,12,0,0,0,0,0,0,0,1,3,5,1,2,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,1,1,0,2,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,6,SS (I-X),1,Department of Education,Rural,3,0,0,31,14,17,13,8,50,35,24,46,36,10,0,28,23,19,15,25,35,38,41,55,50,26,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,6,SS (I-X),1,Department of Education,Rural,3,0,0,7,17,15,8,12,8,6,11,17,15,3,0,17,10,10,7,12,17,17,9,28,12,25,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,6,SS (I-X),1,Department of Education,Urban,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,2,2,70,78,80,61,71,112,115,115,186,199,21,3,41,59,24,36,30,63,62,50,82,105,18,4,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,72,47,27,36,50,40,34,40,56,50,0,0,34,31,29,24,32,25,22,15,17,25,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,1,10,9,8,7,7,3,16,14,9,4,0,0,7,9,6,5,3,1,6,6,4,3,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,20,4,9,5,4,5,6,0,2,1,0,0,0,4,3,2,0,3,0,1,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,7,3,47,22,23,13,27,22,16,13,24,33,15,10,25,16,14,7,22,18,19,30,49,23,8,2,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,4,0,17,15,14,10,10,7,9,9,17,18,0,12,9,10,8,3,5,5,6,3,3,6,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,7,SS (VI-X),1,Department of Education,Rural,3,0,0,12,6,5,14,3,16,17,17,34,13,6,0,7,6,4,11,8,16,15,21,44,34,13,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,7,SS (VI-X),1,Department of Education,Rural,3,0,0,19,14,10,10,13,19,15,12,16,30,14,0,22,18,16,7,14,26,25,32,44,24,41,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,1,1,0,2,1,2,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,2,6,6,19,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,1,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,235,168,178,191,198,233,199,158,34,25,0,0,222,180,181,172,212,328,273,265,90,53,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,17,21,26,20,19,23,21,19,2,0,0,0,26,23,21,26,16,28,22,16,1,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,15,14,6,2,1,0,2,1,0,0,0,0,10,17,8,9,9,11,10,6,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,2,UPS (I-VIII),2,Tribal Welfare Department,Urban,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,26,25,136,155,150,116,146,146,118,108,0,0,0,0,104,82,63,60,66,57,50,49,4,10,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,179,95,97,97,118,98,62,60,3,0,0,0,111,83,78,76,75,59,46,39,1,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,27,16,10,4,6,9,13,6,0,0,0,0,20,14,7,1,4,4,4,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,1,4,4,2,5,3,7,1,0,0,0,0,2,2,3,1,4,0,0,2,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,2,5,4,5,3,7,1,1,0,0,0,0,0,0,0,2,2,0,4,2,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,4,1,22,23,42,28,29,26,16,14,1,2,0,0,14,15,14,18,25,11,19,15,0,1,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,21,13,14,11,6,3,3,2,0,0,0,0,16,12,5,5,3,2,2,2,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,14,12,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,5,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,3,HSS (I-XII),1,Department of Education,Rural,4,0,0,18,27,18,13,13,7,17,11,14,15,9,0,32,19,26,23,13,25,15,7,32,28,24,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,3,HSS (I-XII),1,Department of Education,Rural,4,0,0,129,123,130,121,121,150,117,140,124,133,71,7,126,118,101,99,78,123,112,100,138,63,40,11,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,3,HSS (I-XII),1,Department of Education,Rural,4,0,0,170,160,134,129,159,228,204,217,349,259,159,86,180,152,128,161,139,267,191,195,506,312,278,93,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,3,HSS (I-XII),1,Department of Education,Rural,4,0,0,55,48,52,58,56,82,79,76,70,51,35,0,38,55,68,39,39,89,79,79,61,50,24,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,3,HSS (I-XII),1,Department of Education,Rural,4,0,0,295,222,211,190,190,311,304,319,446,425,357,316,303,239,246,193,227,315,293,333,605,478,344,323,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,3,HSS (I-XII),1,Department of Education,Urban,4,0,0,12,16,13,18,16,23,24,23,139,4,255,277,13,12,10,10,5,12,4,10,10,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,286,241,150,97,105,162,137,197,381,447,336,398,221,165,92,69,58,97,97,102,153,177,144,181,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,12,28,20,19,31,33,38,44,58,58,80,49,5,11,10,7,16,5,16,6,8,13,12,16,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,122,140,103,67,66,63,57,71,97,125,112,87,87,72,57,39,33,44,37,40,51,33,53,57,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,79,48,44,36,24,21,28,26,45,33,54,52,38,40,42,27,17,13,10,18,19,5,21,17,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,342,291,234,207,187,257,239,229,320,413,364,326,269,193,138,110,102,114,117,115,127,185,167,169,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,7,5,12,8,28,54,0,0,0,0,0,0,0,0,1,1,12,13,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,0,0,188,165,141,118,137,195,194,257,351,338,377,462,103,99,90,79,90,103,101,116,108,113,180,158,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,0,0,83,66,64,45,41,44,60,64,85,109,108,107,42,33,27,30,23,38,30,32,36,44,36,39,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,2,1,0,0,3,2,2,24,14,33,26,1,1,0,1,1,0,1,1,3,2,5,1,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,28,19,18,11,13,22,30,20,0,0,0,2,28,24,24,23,25,42,35,32,30,27,13,13,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,19,23,19,11,8,16,9,9,31,27,27,19,28,28,31,19,21,18,15,7,15,18,5,9,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,12,11,5,6,8,38,32,35,72,106,227,200,15,20,7,10,11,0,0,0,0,0,22,17,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,11,3,13,4,9,19,13,11,50,20,12,24,8,6,6,5,13,16,6,10,28,12,8,23,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,9,8,5,5,4,5,4,15,17,53,143,171,26,12,6,6,2,3,5,11,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,8,6,51,33,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,4,0,0,3,1,4,6,5,5,6,15,12,11,33,30,0,0,2,0,3,2,7,9,10,7,26,34,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,34,35,35,27,39,52,66,52,117,61,48,41,49,54,47,46,44,90,95,107,208,156,71,67,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,67,67,60,71,55,75,70,78,136,88,86,70,62,50,57,65,40,68,60,54,155,67,69,49,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,6,10,3,4,1,64,56,69,124,106,88,62,10,7,10,4,6,52,44,50,82,113,152,123,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,28,21,25,14,13,26,38,31,48,29,58,50,32,21,36,19,25,46,40,63,91,78,65,53,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,39,35,113,89,98,84,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,32,28,7,9,10,44,22,19,46,33,20,11,33,20,21,20,15,37,45,52,84,97,96,131,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,0,1,1,2,0,0,0,0,0,0,0,0,1,5,1,1,1,8,12,13,31,21,25,22,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,5,2,0,1,1,6,16,0,0,0,0,0,3,1,0,2,3,0,1,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,0,0,11,14,14,14,9,9,10,14,274,16,37,26,8,3,10,14,2,16,2,12,14,19,29,14,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,5,HSS (VI-XII),7,Central Govt,Rural,4,0,0,0,0,0,0,0,14,14,13,16,15,14,14,0,0,0,0,0,8,8,8,15,16,14,22,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,1,PS (I-V),1,Department of Education,Rural,4,0,0,20,21,21,14,30,3,4,5,0,0,0,0,27,27,21,24,17,1,1,2,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,1,PS (I-V),1,Department of Education,Rural,4,0,0,121,119,148,98,84,83,79,86,0,0,0,0,130,89,111,89,105,94,80,72,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,1,PS (I-V),1,Department of Education,Rural,4,0,0,69,42,44,56,56,26,20,8,0,0,0,0,82,59,44,41,51,39,36,23,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,1,PS (I-V),1,Department of Education,Rural,4,0,0,39,39,19,28,22,37,24,9,0,0,0,0,45,35,28,28,17,27,31,23,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,1,PS (I-V),1,Department of Education,Rural,4,0,0,31,15,17,21,14,0,0,0,0,0,0,0,33,17,20,23,23,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,1,PS (I-V),1,Department of Education,Urban,4,0,0,58,40,29,13,10,0,0,0,0,0,0,0,52,50,34,22,20,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,1,PS (I-V),1,Department of Education,Urban,4,0,0,39,33,19,12,25,0,0,0,0,0,0,0,43,29,25,18,16,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,1,PS (I-V),1,Department of Education,Urban,4,0,0,22,26,22,24,15,0,0,0,0,0,0,0,21,30,30,22,11,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,1,PS (I-V),3,Local body,Rural,4,0,0,322,241,229,198,184,0,0,0,0,0,0,0,312,220,190,226,202,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,1,PS (I-V),3,Local body,Rural,4,0,0,418,385,347,254,235,0,0,0,0,0,0,0,399,358,347,276,232,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,1,PS (I-V),3,Local body,Rural,4,0,0,700,553,463,421,435,0,0,0,0,0,0,0,663,501,475,459,491,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,1,PS (I-V),3,Local body,Rural,4,0,0,568,432,381,325,333,0,0,0,0,0,0,0,535,467,405,360,351,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,1,PS (I-V),3,Local body,Rural,4,0,0,453,348,370,291,258,0,0,0,0,0,0,0,454,330,389,291,257,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,79,40,67,66,51,44,38,12,11,9,0,0,0,0,86,48,43,20,30,10,13,9,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,139,67,70,69,54,1,0,2,0,0,0,0,96,51,41,33,25,0,13,9,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,96,73,72,89,56,0,0,0,0,0,0,0,89,58,46,33,32,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,52,89,30,34,31,0,0,0,0,0,0,0,43,49,26,20,15,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,281,167,102,103,101,0,0,0,0,0,0,0,220,121,68,66,51,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,72,35,46,23,28,0,0,0,0,0,0,0,33,27,13,11,19,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,94,40,29,17,14,0,1,0,0,0,0,0,76,18,11,14,9,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,11,15,8,11,5,0,0,0,0,0,0,0,7,3,7,3,6,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,23,25,26,22,31,0,0,0,0,0,0,0,24,24,12,13,28,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,29,15,8,17,10,0,0,0,0,0,0,0,20,13,5,15,11,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,15,7,9,12,6,0,0,0,0,0,0,0,11,13,8,10,7,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,31,42,48,48,36,0,0,0,0,0,0,0,38,47,55,47,41,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,45,41,35,52,45,59,45,0,0,0,0,0,0,0,53,49,54,54,51,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,2,8,10,14,0,0,0,0,0,0,0,0,3,3,11,12,0,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,6,SS (I-X),1,Department of Education,Rural,4,0,0,100,64,48,42,39,93,91,82,87,46,21,0,79,56,54,53,49,90,78,98,135,60,8,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,6,SS (I-X),1,Department of Education,Rural,4,0,0,144,161,121,114,88,225,93,117,185,109,18,9,149,147,126,107,89,149,113,140,185,110,11,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,6,SS (I-X),1,Department of Education,Rural,4,0,0,66,90,67,71,83,107,77,89,91,84,8,5,87,86,78,75,79,135,106,121,166,151,8,3,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,6,SS (I-X),1,Department of Education,Rural,4,0,0,57,51,51,34,37,73,52,47,49,39,4,3,51,44,37,41,37,85,59,50,51,43,9,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,6,SS (I-X),1,Department of Education,Rural,4,0,0,156,127,99,111,95,158,133,136,161,105,0,0,175,134,106,126,143,156,156,147,223,150,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,6,SS (I-X),1,Department of Education,Urban,4,0,0,6,10,2,4,4,3,2,0,5,3,0,0,4,9,4,1,0,3,0,0,1,2,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,1,1,377,304,175,134,156,144,154,150,232,169,5,0,236,241,120,94,91,77,79,66,78,106,3,1,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,70,43,34,56,34,54,44,72,67,93,0,0,70,28,34,23,22,14,14,29,30,43,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,26,15,311,242,245,174,207,218,239,196,208,237,11,0,201,164,146,109,106,102,94,105,86,120,3,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,32,14,282,209,186,173,179,169,194,221,264,308,62,0,173,147,108,78,101,60,76,97,120,100,21,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,338,200,181,149,173,182,163,148,249,227,0,0,211,158,109,82,85,99,62,75,80,105,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,57,21,172,110,124,107,128,132,120,121,181,195,28,21,126,90,63,60,65,80,74,77,96,96,8,3,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,6,5,355,211,208,186,183,175,182,193,252,283,28,30,241,196,147,128,115,106,131,102,119,112,9,5,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,16,18,188,140,136,78,104,84,86,92,100,69,12,0,135,98,76,63,59,71,53,61,53,43,4,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,7,SS (VI-X),1,Department of Education,Rural,4,0,0,53,42,51,39,55,88,71,51,155,84,46,3,56,44,52,46,38,62,70,66,151,116,56,8,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,7,SS (VI-X),1,Department of Education,Rural,4,0,0,32,18,22,20,20,28,25,20,34,21,13,0,35,27,17,15,19,20,33,25,31,19,13,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,7,SS (VI-X),1,Department of Education,Rural,4,0,0,58,59,48,36,57,144,88,117,126,100,60,37,55,37,51,52,51,103,88,98,179,107,89,31,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,7,SS (VI-X),1,Department of Education,Rural,4,0,0,37,33,36,23,17,69,48,39,52,22,23,7,45,30,39,25,29,87,60,52,83,55,22,13,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,7,SS (VI-X),1,Department of Education,Urban,4,0,0,8,4,4,2,2,4,8,4,1,2,5,0,2,11,6,7,9,19,20,18,3,18,2,2,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,7,SS (VI-X),1,Department of Education,Urban,4,0,0,4,6,2,6,6,17,14,17,15,18,0,0,3,3,5,2,1,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,6,1,1,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,2,1,2,3,8,6,2,3,5,7,0,0,4,3,6,3,5,1,2,4,3,4,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,9,7,5,2,7,0,0,0,0,0,0,0,5,5,3,6,5,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,658,449,387,339,360,440,366,297,52,21,0,0,563,466,388,396,314,486,402,397,99,23,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,509,410,396,375,379,460,349,322,73,42,10,0,442,412,390,363,346,413,355,313,101,77,6,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,610,409,445,396,435,629,479,367,55,32,3,0,589,459,434,419,401,612,503,476,88,49,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,246,201,165,137,172,179,144,125,22,17,1,0,215,177,182,160,163,158,192,136,18,9,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,515,436,367,341,360,375,311,285,0,0,0,0,509,421,384,404,342,415,364,328,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,19,25,13,11,8,21,10,12,0,0,0,0,19,28,22,18,10,24,30,20,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,39,27,24,16,17,13,12,9,0,0,0,0,18,34,29,27,35,28,19,18,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,42,38,38,21,24,25,21,15,8,8,0,0,50,31,17,15,17,34,17,17,6,9,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,2,UPS (I-VIII),2,Tribal Welfare Department,Urban,4,0,0,27,8,8,0,0,0,0,1,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80801,BASERI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,38,33,616,469,279,259,257,242,214,199,2,0,0,0,430,286,213,160,130,151,117,111,8,2,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,381,224,201,259,228,219,191,136,6,0,0,0,239,128,124,111,114,98,77,71,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,977,762,599,458,379,376,310,252,0,0,0,0,668,524,323,306,234,204,207,179,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,34,10,445,378,309,245,240,229,218,148,15,17,0,0,332,264,166,168,162,143,120,99,5,5,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80805,SAIPAU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,12,6,771,610,408,361,371,338,311,279,0,0,0,0,585,400,279,230,186,200,149,117,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,21,18,428,340,232,232,235,174,161,171,20,21,0,0,294,224,161,141,140,112,105,99,10,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,12,9,618,435,294,243,251,187,156,117,7,5,0,0,476,311,197,177,140,128,85,77,1,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,6,6,203,146,105,66,66,53,53,41,4,0,0,0,119,103,82,63,54,34,30,33,2,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,10,9,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80803,DHOLPUR,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,15,18,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80804,RAJAKHERA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,14,8,0,0,0,0,OBC
+2015-16,8,Rajasthan,808,DHAULPUR,80802,BARI,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,5,10,4,13,5,5,7,7,0,0,0,0,19,24,9,9,12,17,9,6,0,0,0,0,OBC

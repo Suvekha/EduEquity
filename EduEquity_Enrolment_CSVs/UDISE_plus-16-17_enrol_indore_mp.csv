@@ -1,0 +1,477 @@
+ac_year,state_code,state_name,district_code,district_name,block_code,block_name,sch_category_id,category_name,sch_mgmt_id,sch_mgmt_name,loc_name,caste_id,pre_primary_boys,pre_primary_girls,class_1_boys,class_2_boys,class_3_boys,class_4_boys,class_5_boys,class_6_boys,class_7_boys,class_8_boys,class_9_boys,class_10_boys,class_11_boys,class_12_boys,class_1_girls,class_2_girls,class_3_girls,class_4_girls,class_5_girls,class_6_girls,class_7_girls,class_8_girls,class_9_girls,class_10_girls,class_11_girls,class_12_girls,caste_name
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,30,17,22,25,12,10,13,6,2,4,1,0,0,0,21,17,11,8,6,4,6,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,11,11,26,29,26,23,13,6,5,5,0,0,0,0,25,28,14,8,5,7,4,6,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,4,9,7,25,10,4,0,0,0,0,0,0,0,0,7,25,8,2,1,1,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,84,68,89,88,72,58,37,12,19,8,13,15,15,7,57,56,47,21,11,11,4,7,10,7,8,5,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,111,83,407,331,281,282,241,176,195,183,162,223,108,125,298,253,263,217,203,149,154,141,120,154,77,86,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,11,20,0,1,2,0,0,0,0,0,0,0,0,0,5,4,1,2,1,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,5,4,3,8,4,1,5,2,5,4,1,3,0,0,3,3,2,2,1,1,3,6,0,6,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,8,7,3,3,2,2,2,1,0,0,0,0,0,0,3,3,4,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,3,3,1,1,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,1,PS (I-V),6,Other Govt. managed schools,Urban,2,2,1,8,5,4,2,1,0,0,0,0,0,0,0,9,6,5,3,3,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,2,0,7,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,1,PS (I-V),98,Madarsa unrecognized,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,55,49,62,26,33,25,27,26,13,53,11,5,38,45,26,18,17,19,21,13,15,19,11,3,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,7,9,7,4,3,2,0,2,4,0,2,2,4,9,3,2,1,1,3,2,0,7,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,30,34,32,51,40,22,23,32,26,43,15,18,19,34,20,19,24,36,23,21,29,18,7,8,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,21,8,60,59,45,42,41,51,61,31,55,57,44,26,41,42,37,27,39,46,20,10,34,33,33,17,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,132,69,484,486,493,450,406,421,427,344,309,337,97,72,429,375,366,326,337,336,302,267,239,253,81,66,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,0,0,15,16,15,6,11,6,8,10,13,11,1,1,13,13,13,6,11,12,12,7,7,9,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,0,0,4,5,6,3,4,8,6,1,6,5,1,0,5,7,2,2,3,2,1,2,2,1,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,0,0,8,5,4,8,4,4,7,10,12,6,0,0,4,2,4,2,3,2,3,2,1,5,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,0,0,8,9,10,2,3,4,2,2,5,12,0,0,1,3,6,3,1,2,1,3,5,10,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,172,74,11,13,0,0,0,0,0,0,0,0,190,93,13,5,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,175,80,23,26,0,0,0,0,0,0,0,0,137,42,20,11,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,228,113,59,45,0,0,0,0,0,0,0,0,226,90,26,27,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,162,64,16,9,0,0,0,0,0,0,0,0,170,69,14,7,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,187,78,47,40,0,0,0,0,0,0,0,0,303,147,63,49,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,9,12,7,1,0,0,0,0,0,0,0,0,26,15,17,8,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,20,13,14,6,0,0,0,0,0,0,0,0,55,33,36,23,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,10,3,0,0,0,0,0,0,0,0,0,0,13,5,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,8,SS (IX-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,8,12,0,0,0,0,0,0,0,0,0,0,8,12,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,8,SS (IX-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,3,11,10,0,0,0,0,0,0,0,0,0,8,12,2,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,1,0,1,0,0,0,2,1,2,3,0,0,1,1,0,1,0,0,0,0,1,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,2,UPS (I-VIII),4,Government Aided,Urban,2,50,1,57,52,45,24,46,39,55,26,65,76,60,49,29,36,37,33,31,43,53,43,51,68,56,52,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,156,151,146,156,130,86,97,105,101,99,42,25,7,5,115,100,100,65,55,49,61,41,33,17,7,3,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,322,231,243,242,212,158,156,134,92,72,33,41,30,23,187,166,117,93,77,63,57,40,22,23,18,12,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,182,127,331,298,303,216,178,186,138,120,68,115,25,16,250,225,187,157,84,89,90,75,34,30,19,13,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,480,414,739,759,705,624,497,521,468,452,215,229,132,145,571,561,468,402,391,415,342,274,159,218,131,119,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,,"",2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,419,368,2312,2056,1951,1850,1865,1865,1765,1773,1320,1517,920,910,1863,1761,1770,1561,1493,1625,1510,1394,1110,1235,722,667,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,87,65,61,60,65,48,48,60,43,44,13,16,10,2,60,48,57,38,41,41,44,40,11,11,4,5,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,78,64,73,68,60,54,55,54,47,33,14,10,6,1,51,41,45,48,23,30,18,12,2,5,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,24,23,44,33,31,26,25,16,13,14,24,7,1,9,28,22,19,11,12,10,1,7,2,3,3,2,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,41,40,35,31,31,15,26,17,13,14,2,1,0,0,31,28,21,19,16,13,10,11,0,1,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,2,UPS (I-VIII),6,Other Govt. managed schools,Urban,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,2,UPS (I-VIII),7,Central Govt,Rural,2,0,0,11,11,11,12,12,11,13,13,18,10,10,3,6,4,7,12,11,17,8,7,13,6,4,2,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,2,UPS (I-VIII),7,Central Govt,Urban,2,0,0,0,0,0,0,0,0,0,0,11,12,13,5,0,0,0,0,0,0,0,0,8,9,11,10,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,201,202,192,0,0,0,0,0,0,0,0,0,192,193,225,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,261,271,288,9,5,0,0,0,0,0,0,0,256,328,337,6,6,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,361,401,442,0,0,0,0,0,0,0,0,0,398,498,410,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,4,UPS (VI-VIII),1,Department of Education,Rural,2,3,0,0,0,0,0,0,464,517,512,0,0,0,0,0,0,0,0,0,507,573,560,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,616,663,625,0,0,0,0,0,0,0,0,0,754,850,836,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,69,94,91,0,0,0,0,0,0,0,0,0,37,59,49,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,60,89,75,0,0,0,0,0,0,0,0,0,74,97,63,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,43,47,42,0,0,0,0,0,0,0,0,0,44,39,54,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,50,91,46,0,0,0,0,0,0,0,0,0,71,86,57,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,15,17,15,0,0,0,0,0,0,0,0,0,16,24,18,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,4,UPS (VI-VIII),4,Government Aided,Urban,2,0,0,9,7,8,2,7,5,6,7,3,7,9,3,6,8,7,5,7,5,7,5,2,5,5,2,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,4,UPS (VI-VIII),4,Government Aided,Urban,2,0,0,1,0,4,4,4,1,1,2,0,0,0,0,3,0,6,3,1,10,13,16,44,43,25,12,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,23,14,8,6,5,3,5,2,6,3,3,10,1,3,5,5,2,3,0,1,0,0,5,2,1,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,2,1,0,53,53,46,42,41,38,42,39,47,25,16,20,42,47,35,27,33,36,26,21,32,19,13,13,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,4,UPS (VI-VIII),7,Central Govt,Urban,2,0,0,0,0,0,0,0,17,11,12,10,14,6,3,0,0,0,0,0,4,2,14,8,8,3,2,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,3,HSS (I-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,1,1,2,1,4,6,8,10,5,10,5,10,5,10,5,10,5,8,9,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,43,31,60,56,65,56,55,67,57,46,81,81,31,45,35,38,32,38,27,28,25,39,32,54,19,36,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,5,6,2,2,1,1,2,0,3,5,3,8,2,2,2,2,0,1,0,0,2,1,1,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,66,60,63,51,53,61,60,56,90,101,93,80,36,40,31,37,38,34,51,45,51,75,77,90,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,224,170,153,128,156,151,147,135,172,215,199,239,125,169,148,160,121,104,118,129,146,152,135,134,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,40,44,50,26,36,34,44,28,36,27,37,42,27,25,39,29,24,34,26,35,39,35,23,22,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,7,5,8,0,9,4,5,6,14,20,16,19,5,2,2,1,3,4,1,3,7,12,8,13,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,3,HSS (I-XII),6,Other Govt. managed schools,Urban,3,0,0,0,1,1,2,2,0,1,1,4,0,1,0,0,1,1,2,1,0,2,0,0,4,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,3,HSS (I-XII),7,Central Govt,Urban,3,0,0,17,4,14,12,17,16,15,8,15,7,7,4,12,9,12,14,9,13,11,15,8,1,8,5,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,3,HSS (I-XII),7,Central Govt,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,267,88,116,81,0,0,0,0,0,0,0,0,199,105,72,53,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,54,15,18,8,0,0,0,0,0,0,0,0,23,7,19,7,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,194,58,78,53,0,0,0,0,0,0,0,0,80,30,88,30,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,227,148,163,138,0,0,0,0,0,0,0,0,263,224,252,198,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,217,106,135,94,0,0,0,0,0,0,0,0,59,36,119,91,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,42,31,28,21,0,0,0,0,0,0,0,0,63,24,11,16,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,3,9,8,3,0,0,0,0,0,0,0,0,24,14,6,11,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,9,12,8,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,10,HSS (IX-XII),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,3,2,3,3,0,0,0,0,0,0,0,0,3,3,3,4,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,10,HSS (IX-XII),2,Tribal Welfare Department,Urban,3,0,0,0,0,0,0,0,0,0,0,21,17,11,10,0,0,0,0,0,0,0,0,11,6,16,8,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,10,HSS (IX-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,13,24,28,8,0,0,0,0,0,0,0,0,12,29,13,9,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,5,0,2,5,9,6,9,0,0,0,0,0,3,0,1,5,8,5,10,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,0,0,5,3,7,6,5,0,0,1,0,0,0,0,4,3,3,3,1,0,0,0,0,0,0,1,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,1,PS (I-V),1,Department of Education,Rural,3,0,0,1002,939,889,936,909,0,0,0,0,0,0,0,985,939,959,909,904,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,1,PS (I-V),1,Department of Education,Rural,3,0,0,185,146,139,146,122,0,0,0,0,0,0,0,162,143,153,135,140,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,1,PS (I-V),1,Department of Education,Rural,3,0,0,132,159,123,142,122,0,0,0,0,0,0,0,147,126,129,156,131,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,1,PS (I-V),1,Department of Education,Rural,3,11,14,713,626,657,617,589,0,0,0,0,0,0,0,658,589,596,538,541,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,1,PS (I-V),1,Department of Education,Urban,3,10,23,282,281,258,227,214,0,0,0,0,0,0,0,258,263,266,250,236,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,1,PS (I-V),1,Department of Education,Urban,3,0,0,30,37,44,43,50,0,0,0,0,0,0,0,16,28,18,21,9,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,1,PS (I-V),1,Department of Education,Urban,3,0,0,26,11,20,11,7,0,0,0,0,0,0,0,26,15,20,16,19,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,1,PS (I-V),1,Department of Education,Urban,3,0,0,3,4,2,5,2,0,0,0,0,0,0,0,1,4,4,6,6,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,1,PS (I-V),1,Department of Education,Urban,3,0,0,15,14,20,15,14,0,0,0,0,0,0,0,16,14,20,15,18,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,12,14,16,21,21,0,0,0,0,0,0,0,25,15,21,25,33,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,2,5,6,7,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,9,8,0,0,0,0,0,0,0,0,0,0,7,4,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,1,PS (I-V),2,Tribal Welfare Department,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,1,PS (I-V),4,Government Aided,Urban,3,0,0,5,0,1,0,1,0,2,0,3,2,0,2,7,4,7,3,10,11,11,11,22,12,20,15,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,1,PS (I-V),4,Government Aided,Urban,3,0,0,5,2,0,0,0,0,0,0,0,0,0,0,7,2,3,0,1,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,11,7,38,39,25,25,21,3,7,2,0,0,0,0,36,37,25,23,9,3,4,5,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,11,5,8,4,4,2,2,2,0,0,0,0,9,7,2,8,1,1,1,4,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,32,17,51,62,67,46,61,10,10,9,4,5,5,3,18,41,42,33,22,3,3,3,0,2,1,3,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,27,36,140,88,104,69,83,48,44,48,69,68,40,47,71,75,91,59,58,42,32,39,50,54,42,44,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,2,1,14,17,18,19,15,0,0,0,0,0,0,0,20,16,17,14,14,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,5,4,2,2,5,1,2,1,5,3,3,2,0,0,1,5,4,1,2,0,0,1,1,4,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,1,PS (I-V),6,Other Govt. managed schools,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,1,PS (I-V),98,Madarsa unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,25,13,22,15,13,21,10,10,13,15,14,2,18,19,5,5,7,6,5,10,8,7,6,1,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,5,6,4,2,1,1,1,1,1,3,1,1,6,3,1,1,0,0,2,2,0,1,1,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,5,5,6,3,7,2,3,2,2,2,0,0,10,3,5,1,1,0,1,5,5,3,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,6,1,27,29,32,25,26,35,38,22,28,31,6,19,29,29,19,30,23,16,17,15,10,13,21,18,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,21,21,110,87,92,94,98,88,94,88,80,79,30,42,84,102,78,80,74,64,84,67,63,60,29,30,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,6,6,3,1,1,1,2,6,2,1,0,3,5,4,5,1,3,0,1,1,0,1,0,3,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,2,3,4,2,1,1,1,4,4,3,1,0,1,2,1,3,0,1,1,1,1,1,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,0,4,2,0,0,3,1,0,0,0,0,0,2,2,0,4,1,0,0,0,1,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,387,125,27,15,0,0,0,0,0,0,0,0,299,121,13,11,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,53,22,4,6,0,0,0,0,0,0,0,0,52,23,3,2,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,19,9,4,2,0,0,0,0,0,0,0,0,29,9,1,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,134,43,14,13,0,0,0,0,0,0,0,0,119,34,8,4,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,90,43,11,18,0,0,0,0,0,0,0,0,124,67,17,12,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,5,6,2,2,0,0,0,0,0,0,0,0,113,62,10,5,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,20,10,20,12,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,7,2,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,5,8,0,0,0,0,0,0,0,0,0,0,6,8,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,20,27,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,1,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,1,2,2,1,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,2,UPS (I-VIII),4,Government Aided,Urban,3,12,10,27,21,21,25,26,19,17,14,36,39,17,32,18,17,13,16,14,17,14,14,21,18,9,13,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,152,137,178,207,193,155,141,151,111,115,34,38,10,1,145,136,128,107,84,90,101,83,16,15,5,3,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,161,133,85,67,49,43,42,27,21,18,11,13,14,5,59,38,39,25,16,11,7,22,4,15,9,3,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,28,25,55,48,56,38,31,21,26,26,9,6,5,4,58,47,44,28,25,21,22,16,5,5,4,2,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,224,193,443,385,435,328,348,246,306,292,85,132,72,67,327,260,268,247,210,217,250,204,120,118,110,96,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,,"",2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,146,130,665,581,573,625,569,510,774,548,305,343,239,246,562,512,490,442,452,408,422,416,249,274,200,199,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,71,48,44,61,50,53,53,46,41,27,4,11,5,0,40,41,42,46,37,33,32,35,6,4,2,1,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,32,25,37,26,23,20,17,10,12,9,0,3,0,1,24,17,16,9,10,6,4,4,1,1,1,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,1,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,8,7,5,11,9,7,6,5,4,0,0,0,0,0,11,8,4,3,3,3,1,1,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,2,UPS (I-VIII),6,Other Govt. managed schools,Urban,3,0,0,0,0,0,0,0,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,2,UPS (I-VIII),7,Central Govt,Rural,3,0,0,6,5,5,1,8,6,7,6,7,4,3,1,5,3,1,1,6,4,4,4,1,3,1,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,2,UPS (I-VIII),7,Central Govt,Urban,3,0,0,0,0,0,0,0,0,0,0,6,8,8,5,0,0,0,0,0,0,0,0,6,5,6,8,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,939,862,744,0,0,0,0,0,0,0,0,0,856,838,681,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,115,97,64,12,2,0,0,0,0,0,0,0,94,62,67,16,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,101,119,91,0,0,0,0,0,0,0,0,0,121,151,114,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,512,475,429,0,0,0,0,0,0,0,0,0,477,458,439,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,221,252,203,0,0,0,0,0,0,0,0,0,218,273,234,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,82,73,88,0,0,0,0,0,0,0,0,0,47,64,69,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,36,38,47,0,0,0,0,0,0,0,0,0,50,64,74,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,1,18,16,0,0,0,0,0,0,0,0,0,11,9,11,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,17,15,10,0,0,0,0,0,0,0,0,0,10,17,11,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,11,16,6,0,0,0,0,0,0,0,0,0,2,2,4,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,33,17,14,0,0,0,0,0,0,0,0,0,18,6,14,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,4,UPS (VI-VIII),4,Government Aided,Urban,3,0,0,0,1,1,1,1,2,5,1,3,3,1,4,1,1,0,1,1,3,2,2,5,8,3,2,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,4,UPS (VI-VIII),4,Government Aided,Urban,3,0,0,3,2,0,0,0,1,1,0,0,0,0,0,3,1,3,0,0,1,3,1,8,4,1,5,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,5,5,2,3,4,0,0,0,2,0,1,3,1,0,3,2,4,0,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,0,0,10,10,9,11,10,9,5,14,5,6,6,5,5,6,8,10,4,8,10,8,8,4,4,4,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,4,UPS (VI-VIII),7,Central Govt,Urban,3,0,0,0,0,0,0,0,10,6,9,11,11,4,3,0,0,0,0,0,2,6,3,5,3,2,1,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,3,HSS (I-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,4,5,6,58,67,58,104,50,50,60,70,70,80,40,50,50,50,50,50,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,8,7,9,5,5,5,5,5,0,0,0,0,5,4,6,6,4,6,4,6,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,5,4,90,123,123,121,101,126,126,113,156,211,111,155,73,80,92,84,77,91,87,75,127,159,106,119,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,54,56,53,78,67,70,88,102,188,264,212,238,47,38,36,32,38,28,41,43,109,124,75,82,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,514,604,639,584,595,644,639,680,788,819,683,572,343,337,406,325,330,356,362,354,381,412,398,332,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,73,62,1632,1643,1525,1533,1635,1638,1641,1595,1813,2192,2055,2242,1510,1517,1531,1419,1475,1468,1405,1339,1479,1716,1426,1546,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,0,0,153,153,162,147,177,213,190,198,221,210,184,201,202,181,156,170,193,207,220,180,201,191,155,129,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,0,0,15,15,15,15,16,19,25,21,17,23,34,17,10,3,13,12,5,10,4,3,5,6,7,3,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,0,0,22,12,22,23,14,32,30,30,45,58,52,70,16,13,10,16,16,13,21,16,32,55,38,53,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,3,HSS (I-XII),6,Other Govt. managed schools,Urban,4,0,0,0,2,1,2,1,0,0,2,0,0,1,0,0,0,0,3,2,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,3,HSS (I-XII),7,Central Govt,Urban,4,0,0,31,22,18,24,18,14,20,6,18,14,16,9,17,29,16,17,24,21,19,7,15,11,11,5,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,3,HSS (I-XII),7,Central Govt,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,173,111,117,107,0,0,0,0,0,0,0,0,131,87,121,83,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,25,33,16,13,0,0,0,0,0,0,0,0,17,19,17,7,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,175,76,115,57,0,0,0,0,0,0,0,0,105,49,90,51,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,158,133,150,124,0,0,0,0,0,0,0,0,143,119,107,99,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,455,317,612,467,0,0,0,0,0,0,0,0,1034,813,1079,868,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,192,82,164,147,0,0,0,0,0,0,0,0,110,57,140,135,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,184,118,225,147,0,0,0,0,0,0,0,0,99,58,95,58,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,32,15,25,25,0,0,0,0,0,0,0,0,63,34,49,54,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,28,38,25,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,10,HSS (IX-XII),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,10,HSS (IX-XII),2,Tribal Welfare Department,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,10,HSS (IX-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,1,18,5,16,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,36,36,46,15,0,0,0,0,0,0,0,0,11,7,15,9,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,10,11,8,5,0,0,0,0,0,0,0,0,6,13,6,3,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,91,106,79,95,0,0,0,0,0,0,0,0,52,63,54,67,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,22,14,25,28,36,43,58,0,0,0,0,0,23,19,18,22,29,28,49,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,0,0,16,25,13,10,25,14,26,27,21,52,46,46,11,18,10,11,21,14,5,16,11,6,7,2,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,1,PS (I-V),1,Department of Education,Rural,4,0,0,169,206,199,215,235,0,0,0,0,0,0,0,253,262,293,296,327,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,1,PS (I-V),1,Department of Education,Rural,4,0,0,345,284,324,281,288,0,0,0,0,0,0,0,496,460,494,489,540,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,1,PS (I-V),1,Department of Education,Rural,4,0,0,247,244,228,267,252,0,0,0,0,0,0,0,328,333,356,333,363,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,1,PS (I-V),1,Department of Education,Rural,4,5,9,325,372,391,365,451,0,0,0,0,0,0,0,433,463,538,498,584,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,1,PS (I-V),1,Department of Education,Urban,4,25,24,599,662,689,653,656,0,0,0,0,0,0,0,653,787,785,774,775,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,1,PS (I-V),1,Department of Education,Urban,4,0,0,7,4,15,12,11,0,0,0,0,0,0,0,28,30,30,25,41,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,1,PS (I-V),1,Department of Education,Urban,4,0,0,28,31,24,25,42,0,0,0,0,0,0,0,56,52,68,72,90,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,1,PS (I-V),1,Department of Education,Urban,4,0,0,19,14,15,16,16,0,0,0,0,0,0,0,13,14,25,21,20,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,1,PS (I-V),1,Department of Education,Urban,4,0,0,6,4,11,14,15,0,0,0,0,0,0,0,7,17,16,14,23,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,5,8,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,1,PS (I-V),2,Tribal Welfare Department,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,1,PS (I-V),4,Government Aided,Urban,4,2,4,35,32,39,26,36,6,9,2,9,12,15,3,93,118,130,147,164,176,166,204,269,225,231,206,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,1,PS (I-V),4,Government Aided,Urban,4,0,0,1,5,5,4,10,0,0,0,0,0,0,0,0,4,5,7,8,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,62,62,151,128,104,96,57,51,37,24,13,0,0,0,97,69,64,44,30,14,19,14,4,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,6,10,62,63,54,43,33,25,25,15,0,0,0,0,48,56,43,43,25,22,20,13,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,18,17,18,14,14,9,2,1,2,0,0,0,0,0,16,12,7,3,5,0,0,1,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,127,71,195,190,181,145,141,74,72,61,75,86,71,47,128,117,87,60,46,27,26,12,44,43,39,40,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,402,332,840,804,740,732,745,448,456,535,520,614,342,425,711,681,619,621,649,365,397,373,408,445,251,320,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,18,16,3,2,1,3,2,0,0,0,0,0,0,0,6,7,5,1,1,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,32,21,50,52,35,47,41,26,33,25,23,35,0,0,33,31,16,26,14,18,14,21,10,13,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,30,41,16,15,17,8,11,7,2,7,0,0,0,0,12,11,7,8,8,3,5,2,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,16,18,6,5,1,1,2,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,1,PS (I-V),6,Other Govt. managed schools,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,8,5,8,4,3,0,0,0,0,0,0,0,9,10,3,2,5,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,18,5,11,7,21,14,5,10,0,0,0,0,22,13,4,10,6,2,3,3,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,10,4,5,2,1,0,0,0,0,0,0,0,11,7,6,5,0,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,5,4,89,86,53,66,48,5,8,7,0,0,0,0,142,112,135,111,84,52,49,54,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,23,29,20,18,19,5,5,5,0,0,0,0,11,10,9,10,12,2,4,3,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,1,PS (I-V),98,Madarsa unrecognized,Urban,4,0,0,10,10,10,12,7,8,9,8,0,0,0,0,8,4,7,5,6,5,6,5,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,101,77,114,104,98,106,101,74,88,117,45,20,69,73,61,78,65,65,64,49,68,72,25,16,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,51,34,49,35,51,36,31,30,41,8,14,10,35,29,26,12,22,13,13,17,16,10,4,4,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,104,89,112,82,116,87,103,61,104,80,33,34,85,63,75,62,41,50,52,65,30,47,21,7,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,10,3,120,126,115,94,116,118,115,133,112,173,87,128,77,88,86,63,83,68,78,62,100,138,56,71,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,77,95,943,955,936,862,833,876,746,700,667,659,266,323,825,740,724,630,733,639,549,546,476,446,157,167,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,0,0,42,47,42,43,38,33,33,41,44,40,3,4,54,45,40,40,35,35,33,32,29,31,13,5,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,0,0,28,30,32,28,29,18,27,23,24,28,9,0,25,30,18,13,14,14,20,9,20,11,6,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,0,0,4,7,7,4,13,8,6,8,7,12,0,0,5,7,13,4,2,5,7,7,6,12,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,0,0,27,27,22,25,26,26,20,34,20,24,0,0,14,15,12,13,11,16,3,12,10,5,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,210,89,18,20,0,0,0,0,0,0,0,0,146,101,15,18,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,208,112,49,27,0,0,0,0,0,0,0,0,212,138,50,25,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,151,105,107,61,0,0,0,0,0,0,0,0,193,166,90,63,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,150,75,36,13,0,0,0,0,0,0,0,0,240,125,19,23,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,222,111,61,30,0,0,0,0,0,0,0,0,322,213,76,31,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,26,18,20,9,0,0,0,0,0,0,0,0,51,26,49,10,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,36,17,23,14,0,0,0,0,0,0,0,0,130,87,139,74,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,11,3,0,0,0,0,0,0,0,0,0,0,7,3,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,8,SS (IX-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,12,22,0,0,0,0,0,0,0,0,0,0,12,25,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,8,SS (IX-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,14,15,9,0,0,0,0,0,0,0,0,0,19,20,13,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,1,0,0,1,0,0,2,2,2,10,0,0,1,1,1,2,0,0,0,2,2,1,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,2,UPS (I-VIII),4,Government Aided,Urban,4,96,18,124,147,111,104,131,179,100,157,160,152,155,131,118,81,114,102,121,113,130,114,122,118,149,105,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,467,414,430,405,385,335,354,336,276,285,146,104,55,19,360,303,298,317,278,251,212,187,115,65,34,12,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,812,654,793,682,714,762,663,625,565,564,328,416,288,228,524,544,496,480,423,392,356,313,149,155,116,69,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,322,245,503,437,460,399,367,405,377,352,179,181,96,60,382,377,359,307,292,266,259,263,141,143,69,37,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,703,576,1422,1340,1296,1188,1065,1135,1074,1057,761,803,533,543,1174,1070,1020,967,830,828,854,903,731,827,836,770,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,,"",2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,4,5,1,1,2,1,1,1,4,1,0,0,0,0,2,4,0,2,2,2,0,2,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,1098,1010,5690,5484,5322,5152,5187,4884,4924,4797,3068,3510,2282,2448,4810,4583,4572,4432,4301,4237,3917,3789,2622,2751,1890,1762,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,243,236,163,161,183,174,182,187,148,134,92,90,59,40,169,161,146,143,128,162,132,122,29,31,20,23,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,309,252,243,252,252,248,245,221,226,204,63,57,34,31,240,199,183,150,140,169,131,103,43,55,16,10,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,87,57,92,86,94,72,52,55,45,49,36,21,28,28,62,72,50,49,54,37,37,33,16,18,17,7,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,120,63,73,82,79,74,68,63,66,42,9,3,0,0,54,74,76,46,48,39,32,25,6,2,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,2,UPS (I-VIII),6,Other Govt. managed schools,Urban,4,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,2,UPS (I-VIII),7,Central Govt,Rural,4,0,0,8,10,11,13,15,5,8,6,9,12,15,4,17,9,7,13,5,16,6,3,4,10,12,7,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,2,UPS (I-VIII),7,Central Govt,Urban,4,0,0,0,0,0,0,0,0,0,0,27,28,28,5,0,0,0,0,0,0,0,0,23,23,15,19,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,0,0,0,0,0,17,6,9,0,0,0,0,0,0,0,0,0,9,6,3,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,27,10,11,16,11,5,3,4,0,0,0,0,30,22,27,20,17,10,10,7,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,18,14,83,74,63,76,54,76,49,58,0,0,0,0,79,62,75,61,73,59,53,66,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,21,18,32,16,17,15,12,18,0,0,0,0,15,21,23,19,12,12,15,12,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,0,1,0,2,2,2,0,3,0,0,0,0,0,2,1,1,4,2,1,1,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,233,257,264,0,0,0,0,0,0,0,0,0,297,334,380,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,269,306,311,16,14,0,0,0,0,0,0,0,451,452,531,12,8,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,229,221,275,0,0,0,0,0,0,0,0,0,361,402,361,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,415,406,408,0,0,0,0,0,0,0,0,0,564,538,553,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,584,586,513,0,0,0,0,0,0,0,0,0,795,855,883,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,46,58,76,0,0,0,0,0,0,0,0,0,40,81,63,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,84,92,96,0,0,0,0,0,0,0,0,0,133,145,189,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,33,21,32,0,0,0,0,0,0,0,0,0,34,35,39,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,14,20,18,0,0,0,0,0,0,0,0,0,21,21,15,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,4,UPS (VI-VIII),4,Government Aided,Urban,4,0,0,3,3,4,3,3,1,6,3,8,4,11,13,4,3,4,4,3,2,3,4,1,4,5,3,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,4,UPS (VI-VIII),4,Government Aided,Urban,4,0,0,1,5,3,4,9,2,0,3,0,0,0,0,0,4,6,7,8,16,20,19,73,57,32,18,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,33,32,17,14,19,8,11,19,10,13,32,43,15,10,25,17,21,17,10,13,16,6,31,21,15,4,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,4,3,4,131,117,111,116,101,119,90,166,59,51,31,37,83,72,92,72,75,73,73,71,47,52,31,23,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,4,UPS (VI-VIII),7,Central Govt,Urban,4,0,0,0,0,0,0,0,19,26,20,15,20,10,15,0,0,0,0,0,12,12,2,14,9,5,6,OBC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,3,HSS (I-XII),7,Central Govt,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,ST
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,3,HSS (I-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,2,8,12,18,24,25,12,95,85,80,80,90,80,90,80,50,50,50,50,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,1,37,50,48,49,54,57,55,69,64,101,68,99,39,23,39,39,27,32,25,47,69,76,58,88,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,19,21,33,27,26,18,26,27,79,59,51,72,21,18,37,19,13,11,5,10,38,33,34,36,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,1008,1129,1167,1248,1438,1532,1547,1536,1800,1651,1594,1314,766,868,872,752,923,826,900,866,943,887,1033,852,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,36,29,1797,1846,1898,1897,2012,2070,1911,2067,2403,2561,2642,2778,1693,1796,1800,1710,1794,1848,1846,1914,2106,2285,2185,2243,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,0,0,93,126,137,143,137,132,136,141,135,159,157,124,93,100,89,93,91,82,83,106,112,120,96,111,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,0,0,11,12,14,15,12,10,15,15,13,10,18,28,3,5,6,5,7,3,7,8,5,7,7,9,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,0,0,8,9,15,9,11,7,15,16,33,38,20,56,6,11,7,3,12,3,5,4,23,36,18,49,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,3,HSS (I-XII),6,Other Govt. managed schools,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,3,HSS (I-XII),7,Central Govt,Urban,1,0,0,29,48,39,40,39,42,39,56,49,46,41,44,21,27,32,34,27,26,33,40,32,30,35,36,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,3,HSS (I-XII),7,Central Govt,Urban,1,0,0,96,103,131,142,132,152,144,140,118,124,79,60,61,95,91,81,83,92,74,93,73,74,45,14,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,32,30,23,27,0,0,0,0,0,0,0,0,34,34,27,28,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,7,2,0,4,0,0,0,0,0,0,0,0,2,2,3,2,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,25,26,27,21,0,0,0,0,0,0,0,0,36,29,24,14,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,51,78,47,31,0,0,0,0,0,0,0,0,28,29,71,40,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,114,81,177,172,0,0,0,0,0,0,0,0,243,248,281,249,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,28,23,48,42,0,0,0,0,0,0,0,0,15,22,45,33,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,35,36,49,32,0,0,0,0,0,0,0,0,17,11,15,7,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,20,2,15,9,0,0,0,0,0,0,0,0,30,24,20,22,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,4,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,10,HSS (IX-XII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,10,HSS (IX-XII),2,Tribal Welfare Department,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,10,HSS (IX-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,2,5,2,9,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,16,20,15,20,0,0,0,0,0,0,0,0,10,21,9,9,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,8,6,6,3,0,0,0,0,0,0,0,0,5,6,5,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,108,104,75,74,0,0,0,0,0,0,0,0,38,62,46,61,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,17,16,17,41,63,49,91,0,0,0,0,0,14,11,16,31,45,35,53,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,0,0,1,4,2,3,0,4,5,1,4,6,1,1,0,2,2,1,1,1,0,2,0,5,4,1,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,1,PS (I-V),1,Department of Education,Rural,1,0,0,38,45,45,57,63,0,0,0,0,0,0,0,64,56,62,70,64,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,1,PS (I-V),1,Department of Education,Rural,1,0,0,95,90,55,75,73,0,0,0,0,0,0,0,118,99,101,110,109,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,1,PS (I-V),1,Department of Education,Rural,1,0,0,99,112,93,97,83,0,0,0,0,0,0,0,156,165,126,173,156,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,1,PS (I-V),1,Department of Education,Rural,1,14,24,106,99,118,138,119,0,0,0,0,0,0,0,137,153,147,163,160,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,1,PS (I-V),1,Department of Education,Urban,1,5,11,252,241,210,203,205,0,0,0,0,0,0,0,207,233,235,233,235,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,1,PS (I-V),1,Department of Education,Urban,1,0,0,3,5,0,3,4,0,0,0,0,0,0,0,4,5,5,5,5,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,1,PS (I-V),1,Department of Education,Urban,1,0,0,9,6,12,5,6,0,0,0,0,0,0,0,15,14,8,12,13,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,1,PS (I-V),1,Department of Education,Urban,1,0,0,9,7,7,9,7,0,0,0,0,0,0,0,8,19,13,24,15,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,1,PS (I-V),1,Department of Education,Urban,1,0,0,1,1,2,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,1,PS (I-V),2,Tribal Welfare Department,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,1,PS (I-V),4,Government Aided,Urban,1,10,7,119,118,116,116,129,17,21,15,2,6,3,3,119,111,103,135,121,96,118,116,167,174,190,204,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,1,PS (I-V),4,Government Aided,Urban,1,19,11,3,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,38,33,79,61,46,37,29,21,15,7,2,0,0,0,45,25,26,15,17,8,6,3,2,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,1,1,18,15,13,4,6,9,4,9,0,0,0,0,17,11,13,9,6,7,5,6,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,30,16,127,154,35,26,1,0,0,0,0,0,0,0,159,160,29,31,3,2,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,48,48,151,127,121,99,50,32,21,19,28,25,63,32,125,92,79,53,27,16,27,26,24,17,28,14,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,407,349,1055,905,889,841,715,291,274,288,319,421,298,349,820,729,728,718,577,235,244,220,245,369,248,272,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,9,6,1,3,1,1,0,0,0,0,0,0,0,0,2,1,2,2,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,24,15,25,21,21,16,12,14,12,9,12,6,0,0,12,18,22,7,15,12,6,8,8,7,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,46,15,14,14,22,11,15,6,5,5,0,0,0,0,10,13,5,5,8,6,6,5,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,21,16,8,8,5,2,0,0,0,0,0,0,0,0,7,8,3,0,1,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,1,PS (I-V),6,Other Govt. managed schools,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,2,2,2,3,0,0,0,0,0,0,0,0,5,6,5,6,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,4,4,4,4,4,0,0,0,0,0,0,0,4,4,4,4,4,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,5,4,42,30,30,28,29,0,0,0,0,0,0,0,37,37,19,20,25,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,21,19,20,17,8,3,2,1,0,0,0,0,10,13,7,13,3,0,0,1,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,1,PS (I-V),98,Madarsa unrecognized,Urban,1,0,0,8,7,8,6,7,9,7,8,0,0,0,0,5,4,9,8,5,8,5,7,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,50,44,45,23,41,54,43,36,35,53,36,11,39,47,23,35,35,24,29,23,46,32,46,8,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,14,27,19,17,18,32,15,15,30,14,11,13,16,17,20,11,17,4,4,9,14,13,2,5,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,52,41,30,31,28,38,35,53,29,53,10,6,39,26,25,32,30,12,16,18,28,36,3,2,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,1,1,99,122,107,110,101,105,118,103,120,156,67,94,65,78,104,67,78,69,77,65,88,95,35,71,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,113,145,685,728,692,633,616,666,650,558,579,561,249,303,559,557,529,515,484,468,465,434,403,415,155,213,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,0,0,11,14,9,10,14,5,13,14,5,10,5,3,7,16,8,5,13,17,8,6,10,9,2,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,0,0,9,7,8,8,5,7,7,10,8,10,1,0,11,8,6,10,10,7,8,3,4,6,1,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,0,0,8,2,6,3,7,5,4,5,8,12,0,0,7,1,5,6,4,4,7,5,7,15,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,0,0,12,22,13,15,14,11,19,13,24,21,0,0,16,15,11,9,6,5,5,8,15,17,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,62,37,10,16,0,0,0,0,0,0,0,0,73,46,17,13,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,50,38,6,4,0,0,0,0,0,0,0,0,41,13,8,2,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,79,38,19,21,0,0,0,0,0,0,0,0,69,31,13,13,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,57,46,21,9,0,0,0,0,0,0,0,0,81,35,12,5,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,47,15,13,31,0,0,0,0,0,0,0,0,63,42,16,34,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,6,6,13,1,0,0,0,0,0,0,0,0,23,15,20,9,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,5,1,5,3,0,0,0,0,0,0,0,0,33,18,12,22,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,8,SS (IX-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,17,30,0,0,0,0,0,0,0,0,0,0,17,30,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,8,SS (IX-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,2,UPS (I-VIII),4,Government Aided,Urban,1,30,10,96,80,91,114,123,159,184,161,120,150,124,133,73,76,62,70,63,104,102,119,72,113,72,84,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,2,0,1,1,0,0,0,1,0,0,0,0,1,3,1,1,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,208,173,179,212,177,121,135,128,123,124,62,84,45,26,129,132,129,95,96,94,76,83,49,37,41,10,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,290,230,275,283,271,259,255,268,195,187,156,177,152,95,240,216,192,163,145,153,118,115,99,120,92,44,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,107,102,369,339,356,306,310,301,274,303,83,79,51,46,341,288,301,269,275,296,299,258,59,56,31,24,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,323,257,1210,1168,1138,1060,995,1000,877,834,704,812,671,629,1031,1029,1032,948,892,994,882,901,828,842,780,879,General
+2016-17,23,Madhya Pradesh,2326,INDORE,,"",2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,5,4,1,1,1,1,1,2,2,2,0,0,0,0,2,2,0,2,1,5,5,1,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,2418,2204,5663,5085,5060,4890,4731,4541,4538,4242,2293,2721,2002,2150,4707,4279,4206,4055,3786,3716,3808,3322,1927,2152,1648,1663,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,37,45,55,33,57,37,43,55,32,41,30,38,37,14,43,36,30,28,35,32,26,28,17,18,35,16,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,37,49,87,82,60,87,65,69,60,45,25,22,18,14,64,44,51,57,41,48,53,34,20,22,15,7,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,44,32,34,54,35,30,43,40,18,24,28,17,5,8,39,34,32,27,28,21,12,22,14,3,2,5,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,106,61,43,44,32,35,24,28,20,14,3,3,0,0,40,36,23,16,19,22,17,13,2,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,2,UPS (I-VIII),6,Other Govt. managed schools,Urban,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,2,UPS (I-VIII),7,Central Govt,Rural,1,0,0,19,22,21,21,32,26,31,26,43,32,44,41,17,21,21,26,22,10,28,19,19,19,29,23,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,2,UPS (I-VIII),7,Central Govt,Urban,1,0,0,77,72,70,74,68,73,65,85,54,16,39,40,47,51,61,63,70,70,57,54,27,7,29,5,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,19,10,11,9,7,6,8,5,0,0,0,0,10,8,12,7,6,5,6,6,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,11,71,119,115,93,87,87,65,61,56,0,0,0,0,173,138,141,155,158,101,101,84,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,8,2,4,2,4,2,1,3,0,0,0,0,5,6,10,10,9,11,13,11,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,4,3,5,5,4,4,6,4,0,0,0,0,1,0,1,2,4,7,6,5,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,59,72,70,0,0,0,0,0,0,0,0,0,78,76,113,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,70,56,82,5,0,0,0,0,0,0,0,0,99,108,130,5,3,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,103,137,122,0,0,0,0,0,0,0,0,0,181,222,201,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,111,126,147,0,0,0,0,0,0,0,0,0,154,163,202,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,267,244,267,0,0,0,0,0,0,0,0,0,317,352,345,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,5,6,5,0,0,0,0,0,0,0,0,0,6,5,6,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,15,15,7,0,0,0,0,0,0,0,0,0,22,26,26,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,10,10,16,0,0,0,0,0,0,0,0,0,17,18,17,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,4,UPS (VI-VIII),4,Government Aided,Urban,1,0,0,0,2,0,1,0,1,4,6,4,6,2,5,1,0,0,2,1,2,2,3,4,3,2,1,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,4,UPS (VI-VIII),4,Government Aided,Urban,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,3,3,10,6,5,6,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,3,4,3,1,11,0,5,2,2,6,3,8,4,2,4,4,1,1,2,1,4,2,9,4,1,3,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,1,7,8,68,59,57,67,74,60,84,67,33,38,34,31,47,41,50,55,52,49,58,47,39,27,25,14,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,4,UPS (VI-VIII),7,Central Govt,Urban,1,0,0,0,0,0,0,0,3,10,4,11,10,11,9,0,0,0,0,0,6,5,8,6,4,2,7,General
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,3,HSS (I-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,1,2,3,6,15,17,14,20,10,25,20,10,5,25,20,20,20,25,28,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,2,0,47,35,48,38,42,28,31,30,46,56,31,43,30,43,35,26,28,26,17,10,34,44,22,22,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,18,15,16,26,15,16,26,29,38,60,42,41,13,9,12,16,6,14,4,11,22,18,19,27,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,205,245,213,168,142,156,151,130,189,184,161,155,173,166,170,140,105,86,100,86,123,150,114,125,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,6,2,807,796,744,607,657,636,638,609,667,747,634,596,709,738,619,566,547,528,522,496,558,617,493,455,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,0,0,60,57,53,66,58,74,68,70,77,83,79,82,52,58,83,77,73,62,65,92,81,92,49,53,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,0,0,4,8,11,10,2,15,9,2,1,9,6,3,5,6,4,2,2,1,3,1,1,6,0,3,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,0,0,13,24,13,13,14,9,12,8,27,31,30,19,11,7,9,8,7,3,7,6,17,17,20,17,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,3,HSS (I-XII),6,Other Govt. managed schools,Urban,2,0,0,0,2,1,2,1,0,2,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,3,HSS (I-XII),7,Central Govt,Urban,2,0,0,16,14,19,13,13,18,24,19,34,13,12,3,14,11,13,11,21,11,24,10,21,9,14,9,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,96,53,63,44,0,0,0,0,0,0,0,0,86,51,54,41,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,18,14,7,4,0,0,0,0,0,0,0,0,14,4,2,2,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,169,67,80,49,0,0,0,0,0,0,0,0,106,39,60,28,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,246,81,91,88,0,0,0,0,0,0,0,0,190,62,57,58,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,510,272,322,309,0,0,0,0,0,0,0,0,788,579,588,462,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,83,44,58,45,0,0,0,0,0,0,0,0,63,36,54,61,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,124,69,75,73,0,0,0,0,0,0,0,0,72,46,37,40,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,60,29,36,34,0,0,0,0,0,0,0,0,101,60,62,29,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,9,5,10,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,10,HSS (IX-XII),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,16,14,25,14,0,0,0,0,0,0,0,0,14,15,16,9,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,10,HSS (IX-XII),2,Tribal Welfare Department,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,10,HSS (IX-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,8,4,3,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,11,13,17,7,0,0,0,0,0,0,0,0,3,5,8,1,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,5,2,4,2,0,0,0,0,0,0,0,0,0,1,1,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,26,25,24,12,0,0,0,0,0,0,0,0,14,23,8,10,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,8,7,5,10,11,10,13,0,0,0,0,0,9,6,4,8,10,8,14,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,0,0,2,0,0,0,0,3,3,2,4,2,4,2,0,0,0,1,0,3,0,0,0,1,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,1,PS (I-V),1,Department of Education,Rural,2,0,0,103,111,110,154,139,0,0,0,0,0,0,0,130,160,150,158,200,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,1,PS (I-V),1,Department of Education,Rural,2,0,0,301,231,278,261,295,0,0,0,0,0,0,0,328,279,308,330,323,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,1,PS (I-V),1,Department of Education,Rural,2,0,0,356,346,366,417,415,0,0,0,0,0,0,0,385,379,438,462,452,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,1,PS (I-V),1,Department of Education,Rural,2,10,13,450,422,459,458,471,0,0,0,0,0,0,0,427,505,506,517,541,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,1,PS (I-V),1,Department of Education,Urban,2,24,20,579,609,654,659,662,0,0,0,0,0,0,0,615,629,649,647,675,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,1,PS (I-V),1,Department of Education,Urban,2,0,0,11,13,19,15,19,0,0,0,0,0,0,0,14,21,18,16,12,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,1,PS (I-V),1,Department of Education,Urban,2,0,0,14,21,14,21,27,0,0,0,0,0,0,0,34,32,28,40,57,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232604,SANWER,1,PS (I-V),1,Department of Education,Urban,2,0,0,8,18,12,20,14,0,0,0,0,0,0,0,11,25,19,30,34,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,1,PS (I-V),1,Department of Education,Urban,2,0,0,32,32,35,35,48,0,0,0,0,0,0,0,32,29,54,47,41,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232603,DEPALPUR,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,3,5,5,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232605,INDORE RURAL,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,1,PS (I-V),2,Tribal Welfare Department,Urban,2,0,0,12,5,12,12,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232601,INDORE URBAN,1,PS (I-V),4,Government Aided,Urban,2,1,0,52,26,23,17,21,16,15,5,24,16,15,11,82,45,64,59,93,66,93,103,141,122,127,88,SC
+2016-17,23,Madhya Pradesh,2326,INDORE,232602,MHOW,1,PS (I-V),4,Government Aided,Urban,2,0,0,4,2,5,4,4,0,0,0,0,0,0,0,5,2,8,5,3,0,0,0,0,0,0,0,SC

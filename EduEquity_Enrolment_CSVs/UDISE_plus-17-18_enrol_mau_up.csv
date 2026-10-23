@@ -1,0 +1,985 @@
+ac_year,state_code,state_name,district_code,district_name,block_code,block_name,sch_category_id,category_name,sch_mgmt_id,sch_mgmt_name,loc_name,caste_id,pre_primary_boys,pre_primary_girls,class_1_boys,class_2_boys,class_3_boys,class_4_boys,class_5_boys,class_6_boys,class_7_boys,class_8_boys,class_9_boys,class_10_boys,class_11_boys,class_12_boys,class_1_girls,class_2_girls,class_3_girls,class_4_girls,class_5_girls,class_6_girls,class_7_girls,class_8_girls,class_9_girls,class_10_girls,class_11_girls,class_12_girls,caste_name
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,3,HSS (I-XII),1,Department of Education,Urban,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,4,1,5,2,4,0,0,2,2,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,3,HSS (I-XII),4,Government Aided,Rural,1,0,0,4,21,5,10,13,14,14,14,34,21,79,34,6,16,7,8,9,9,9,8,24,46,98,46,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,3,HSS (I-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,6,12,7,General
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,3,HSS (I-XII),4,Government Aided,Rural,1,0,0,16,22,1,22,23,13,11,22,12,11,9,4,15,23,4,11,14,21,25,21,12,14,5,6,General
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,3,HSS (I-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,3,1,1,5,6,3,4,2,4,3,General
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,107,108,107,88,96,80,98,99,78,69,38,41,90,127,101,113,82,91,97,82,70,58,53,50,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,2,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,7,25,29,22,0,0,0,0,0,0,0,0,16,8,9,13,General
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,4,5,5,6,9,9,10,11,6,2,5,8,4,4,6,7,9,8,9,7,4,6,4,7,General
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,44,31,21,20,32,29,24,25,0,0,0,0,12,33,41,41,12,25,26,12,General
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,0,0,8,8,9,9,9,10,5,4,7,7,8,9,8,8,9,9,9,5,4,4,7,8,8,9,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,19,16,22,28,23,21,22,26,29,22,22,General
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,10,HSS (IX-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,6,2,0,0,0,0,0,0,0,0,0,1,2,4,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,10,HSS (IX-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,2,1,6,18,0,0,0,0,0,0,0,0,4,4,11,15,General
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,27,28,16,16,0,0,0,0,0,0,0,0,27,28,16,16,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,18,25,24,27,0,0,0,0,0,0,0,0,26,20,22,22,General
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,7,1,4,0,0,0,0,0,0,0,0,1,4,1,5,General
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,92,117,108,117,0,0,0,0,0,0,0,0,43,42,60,79,General
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,24,32,27,32,0,0,0,0,0,0,0,0,13,36,45,26,General
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,87,81,161,82,0,0,0,0,0,0,0,0,94,92,87,71,General
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,45,377,376,375,0,0,0,0,0,0,0,0,45,197,185,225,General
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,38,11,37,36,0,0,0,0,0,0,0,0,18,19,74,25,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,10,8,5,5,16,5,12,0,0,0,0,0,11,6,7,7,16,18,27,General
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,63,57,66,64,60,60,65,0,0,0,0,0,77,75,72,78,77,73,78,General
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,3,1,3,2,General
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,5,2,9,5,5,12,0,0,0,0,0,0,4,8,4,6,2,11,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,3,11,10,22,80,25,27,0,0,0,0,0,17,33,27,50,50,32,106,General
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,10,15,71,29,38,29,27,0,0,0,0,0,14,23,36,22,36,29,56,General
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,29,75,28,40,33,21,32,0,0,0,0,0,44,100,33,66,27,45,32,General
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,1,0,1,4,5,1,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,5,HSS (VI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,2,6,9,23,4,0,6,0,0,0,0,0,2,0,10,22,5,0,7,General
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,5,HSS (VI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,5,HSS (VI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,30,22,25,42,28,53,119,0,0,0,0,0,70,71,122,186,189,253,242,General
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,27,27,28,26,26,26,29,0,0,0,0,0,27,26,29,26,26,28,29,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,5,5,4,17,23,52,44,0,0,0,0,0,4,4,2,33,27,32,42,General
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,24,34,37,62,43,19,19,0,0,0,0,0,26,31,36,46,48,20,16,General
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,8,11,15,38,32,44,60,0,0,0,0,0,9,8,10,37,15,18,16,General
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,2,7,3,20,10,0,0,0,0,0,0,0,2,7,8,20,14,General
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,20,11,18,3,11,0,0,0,0,0,0,0,12,17,4,9,12,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,4,13,17,49,134,77,100,0,0,0,0,0,28,48,68,80,132,154,242,General
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,50,32,36,50,47,54,32,0,0,0,0,0,52,27,34,40,55,27,24,General
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,12,24,3,8,0,0,0,0,0,0,1,0,8,12,7,3,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,4,4,4,3,3,1,3,0,0,0,0,0,3,4,4,2,1,3,2,General
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,3,6,5,4,1,3,2,0,0,0,0,0,4,6,8,4,2,1,1,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,33,42,0,0,0,0,0,0,0,0,0,0,33,20,General
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,11,14,0,0,0,0,0,0,0,0,0,0,9,5,General
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,1,PS (I-V),1,Department of Education,Rural,1,0,0,254,267,239,231,228,0,0,0,0,0,0,0,274,278,238,230,251,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),1,Department of Education,Rural,1,0,0,16,17,24,16,25,0,0,0,0,0,0,0,21,16,23,21,24,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,1,PS (I-V),1,Department of Education,Rural,1,0,0,35,54,46,44,42,0,0,0,0,0,0,0,55,36,38,44,56,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,1,PS (I-V),1,Department of Education,Rural,1,0,0,18,34,20,25,18,0,0,0,0,0,0,0,19,27,17,34,26,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,1,PS (I-V),1,Department of Education,Rural,1,0,0,19,24,36,29,25,0,0,0,0,0,0,0,18,28,30,22,23,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,1,PS (I-V),1,Department of Education,Rural,1,0,0,64,59,50,68,51,0,0,0,0,0,0,0,81,64,63,62,61,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,1,PS (I-V),1,Department of Education,Rural,1,2,3,24,31,35,40,53,0,0,0,0,0,0,0,36,40,36,31,39,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,1,PS (I-V),1,Department of Education,Rural,1,0,0,57,51,32,52,36,0,0,0,0,0,0,0,44,44,39,30,54,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,1,PS (I-V),1,Department of Education,Rural,1,0,0,13,16,15,19,17,0,0,0,0,0,0,0,10,18,16,14,18,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,1,PS (I-V),1,Department of Education,Rural,1,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),1,Department of Education,Urban,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,1,PS (I-V),1,Department of Education,Urban,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,2,0,1,1,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,1,PS (I-V),1,Department of Education,Urban,1,0,0,2,0,1,1,2,0,0,0,0,0,0,0,2,1,1,0,1,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,1,PS (I-V),1,Department of Education,Urban,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,1,PS (I-V),1,Department of Education,Urban,1,0,0,5,7,3,3,5,0,0,0,0,0,0,0,6,4,6,2,4,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,45,44,39,42,38,0,0,0,0,0,0,0,41,45,44,32,34,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,22,19,22,14,25,0,0,0,0,0,0,0,8,9,19,13,12,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,2,6,4,2,2,0,0,0,0,0,0,0,5,9,3,1,1,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,19,20,15,12,11,0,0,0,0,0,0,0,18,15,7,8,8,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),2,Tribal Welfare Department,Urban,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,1,PS (I-V),2,Tribal Welfare Department,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,350,347,325,331,373,0,0,0,0,0,0,0,344,339,305,335,305,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,220,201,195,147,135,0,0,0,0,0,0,0,165,133,134,126,144,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,134,131,123,138,134,0,0,0,0,0,0,0,124,128,141,114,122,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,1,2,4,1,5,0,0,0,0,0,0,0,0,3,5,2,6,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,3,5,7,5,6,0,0,0,0,0,0,0,3,10,8,10,8,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,12,17,20,13,12,0,0,0,0,0,0,0,17,18,20,10,16,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,93,133,125,169,76,0,0,0,0,0,0,0,104,137,109,96,113,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,169,192,210,223,154,0,0,0,0,0,0,0,196,184,269,268,160,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,17,23,18,12,17,0,0,0,0,0,0,0,16,22,19,25,12,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,1,2,13,10,10,12,12,0,0,0,0,0,0,0,11,12,12,13,12,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,44,57,57,51,37,0,0,0,0,0,0,0,29,42,39,41,36,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,5,4,9,9,4,0,0,0,0,0,0,0,6,7,5,7,9,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,3,7,4,0,8,0,0,0,0,0,0,0,4,1,8,5,1,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,3,3,5,7,0,0,0,0,0,0,0,0,4,4,6,8,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,21,33,21,14,17,0,0,0,0,0,0,0,22,26,11,19,8,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,1,PS (I-V),98,Madarsa unrecognized,Rural,1,0,0,9,8,10,9,10,0,0,0,0,0,0,0,9,9,10,10,10,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),98,Madarsa unrecognized,Rural,1,0,0,47,35,37,15,20,0,0,0,0,0,0,0,41,33,23,35,41,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,1,PS (I-V),98,Madarsa unrecognized,Rural,1,0,0,1,0,2,0,2,0,0,0,0,0,0,0,2,1,1,1,1,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,1,PS (I-V),98,Madarsa unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,1,PS (I-V),98,Madarsa unrecognized,Rural,1,0,0,2,2,1,2,0,0,0,0,0,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,1,PS (I-V),98,Madarsa unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,1,PS (I-V),98,Madarsa unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,1,PS (I-V),98,Madarsa unrecognized,Rural,1,0,0,61,53,49,40,34,0,0,0,0,0,0,0,59,46,44,38,33,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,1,PS (I-V),98,Madarsa unrecognized,Rural,1,0,0,53,19,10,23,7,0,0,0,0,0,0,0,41,14,20,6,22,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),98,Madarsa unrecognized,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,1,PS (I-V),98,Madarsa unrecognized,Urban,1,0,0,12,6,9,9,8,0,0,0,0,0,0,0,9,9,3,4,2,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,1,PS (I-V),98,Madarsa unrecognized,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,1,PS (I-V),98,Madarsa unrecognized,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,1,PS (I-V),98,Madarsa unrecognized,Urban,1,0,0,5,4,2,2,2,0,0,0,0,0,0,0,5,7,7,9,8,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,12,21,20,20,17,13,13,10,10,5,0,0,21,21,20,17,13,13,10,10,10,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,32,13,16,13,14,15,12,15,23,24,0,0,25,18,14,7,22,14,23,18,31,24,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,5,8,0,19,1,0,0,0,0,0,0,0,0,9,11,20,5,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,5,9,8,7,8,10,17,21,9,10,0,0,7,8,9,9,8,14,15,19,10,5,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,1,2,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,6,SS (I-X),98,Madarsa unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,6,SS (I-X),98,Madarsa unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,6,SS (I-X),98,Madarsa unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,6,SS (I-X),98,Madarsa unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,20,22,21,19,18,21,17,15,21,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,6,SS (I-X),98,Madarsa unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,6,SS (I-X),98,Madarsa unrecognized,Rural,1,0,0,10,17,16,24,18,28,65,24,14,10,0,0,13,15,48,27,25,34,40,18,9,14,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,6,SS (I-X),98,Madarsa unrecognized,Rural,1,0,0,3,1,1,0,1,0,0,1,2,0,0,0,0,2,1,2,1,0,0,0,1,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,6,SS (I-X),98,Madarsa unrecognized,Urban,1,0,0,43,10,5,8,6,11,10,12,13,19,0,0,15,5,5,8,8,8,8,5,5,2,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,6,SS (I-X),98,Madarsa unrecognized,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,6,SS (I-X),98,Madarsa unrecognized,Urban,1,0,0,1,2,4,3,6,6,4,5,7,7,0,0,3,5,2,4,4,4,5,5,4,5,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,17,17,0,0,0,0,0,0,0,0,0,0,10,20,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,9,9,0,0,0,0,0,0,0,0,0,0,9,8,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,13,26,0,0,0,0,0,0,0,0,0,0,14,37,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,8,SS (IX-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,5,7,0,0,0,0,0,0,0,0,0,0,6,8,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,111,92,0,0,0,0,0,0,0,0,0,0,120,95,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,28,21,0,0,0,0,0,0,0,0,0,0,30,20,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,6,7,0,0,0,0,0,0,0,0,0,0,15,12,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,3,15,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,146,291,0,0,0,0,0,0,0,0,0,0,110,400,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,51,95,0,0,0,0,0,0,0,0,0,0,52,54,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,49,57,0,0,0,0,0,0,0,0,0,0,57,56,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,10,10,0,0,0,0,0,0,0,0,0,0,10,10,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,8,SS (IX-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,8,SS (IX-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,42,109,0,0,0,0,0,0,0,0,0,0,113,141,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,2,1,0,5,0,0,0,0,0,0,0,2,0,4,2,2,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,21,24,22,22,26,0,0,0,0,0,0,0,22,25,21,28,30,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,4,5,0,0,0,0,0,0,0,0,0,0,5,5,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,47,40,42,45,37,0,0,0,0,0,0,0,30,34,47,35,41,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,9,13,11,18,20,0,0,0,0,0,0,0,9,11,11,16,11,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,9,8,4,16,8,0,0,0,0,0,0,0,4,10,6,10,5,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,30,33,32,60,50,0,0,0,0,0,0,0,36,44,50,19,82,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,10,3,5,8,30,0,0,0,0,0,0,0,15,2,4,3,32,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,1,3,4,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,2,UPS (I-VIII),1,Department of Education,Urban,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,2,2,0,0,0,0,0,0,0,0,0,0,1,4,0,0,1,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,2,UPS (I-VIII),4,Government Aided,Urban,1,0,0,2,1,1,4,0,5,2,3,0,0,0,0,4,3,2,1,0,6,2,4,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,14,14,14,14,14,14,0,0,0,0,0,0,14,14,14,14,14,16,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,12,24,6,14,16,14,18,13,0,0,0,0,5,13,10,7,13,8,14,8,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,16,15,17,13,18,20,16,14,0,0,0,0,14,15,15,15,18,16,18,11,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,36,10,12,12,12,9,9,9,0,0,0,0,33,9,8,10,14,12,10,7,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,7,6,12,7,4,1,2,6,0,0,0,0,7,5,3,0,16,22,6,13,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,9,15,22,21,52,37,75,29,0,0,0,0,12,19,16,23,49,31,28,19,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,12,9,2,2,0,0,0,0,0,0,0,0,11,3,1,1,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,0,0,3,7,10,3,7,4,6,3,0,0,0,0,4,8,8,4,3,5,2,2,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,5,2,3,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,0,0,2,3,1,1,2,3,1,2,0,0,0,0,5,1,1,1,1,2,2,2,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,2,UPS (I-VIII),93,Jawahar Navodaya Vidyalaya ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,38,22,17,18,25,16,20,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,10,12,10,15,10,4,6,5,0,0,0,0,10,13,8,12,8,9,11,8,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,22,19,14,21,16,18,21,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,1,0,0,2,0,4,7,4,2,1,3,0,0,0,0,1,2,1,0,1,2,6,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,1,0,0,19,14,10,18,13,3,2,4,0,0,0,0,20,10,10,11,11,8,6,2,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,2,UPS (I-VIII),98,Madarsa unrecognized,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,2,UPS (I-VIII),98,Madarsa unrecognized,Urban,1,0,0,3,9,4,6,0,3,2,2,0,0,0,0,6,9,7,9,2,1,1,1,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,104,97,112,0,0,0,0,0,0,0,0,0,130,136,109,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,19,15,17,0,0,0,0,0,0,0,0,0,11,15,22,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,9,13,22,0,0,0,0,0,0,0,0,0,13,19,25,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,19,6,8,0,0,0,0,0,0,0,0,0,16,10,14,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,13,17,21,0,0,0,0,0,0,0,0,0,11,18,12,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,26,20,23,0,0,0,0,0,0,0,0,0,33,27,33,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,44,35,45,0,0,0,0,0,0,0,0,0,37,35,42,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,22,21,15,0,0,0,0,0,0,0,0,0,39,33,25,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,39,20,22,0,0,0,0,0,0,0,0,0,39,18,19,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,2,5,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,3,3,1,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,6,1,5,0,0,0,0,0,0,0,0,0,1,4,6,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,206,206,211,0,0,0,0,0,0,0,0,0,229,286,213,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,89,84,90,0,0,0,0,0,0,0,0,0,112,95,104,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,19,13,16,0,0,0,0,0,0,0,0,0,16,17,30,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,6,7,7,0,0,0,0,0,0,0,0,0,4,9,7,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,22,19,18,0,0,0,0,0,0,0,0,0,23,25,35,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,20,23,22,0,0,0,0,0,0,0,0,0,24,55,45,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,31,44,62,0,0,0,0,0,0,0,0,0,30,30,62,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,15,24,14,0,0,0,0,0,0,0,0,0,13,13,26,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,4,UPS (VI-VIII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,10,11,11,0,0,0,0,0,0,0,0,0,15,14,21,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,4,UPS (VI-VIII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,4,UPS (VI-VIII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,4,UPS (VI-VIII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,3,5,8,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,40,33,30,0,0,0,0,0,0,0,0,0,40,37,48,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,23,14,25,0,0,0,0,0,0,0,0,0,34,37,32,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,10,13,15,0,0,0,0,0,0,0,0,0,4,20,13,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,47,48,56,0,0,0,0,0,0,0,0,0,61,105,50,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,3,10,4,0,0,0,0,0,0,0,0,0,7,13,16,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,25,36,24,0,0,0,0,0,0,0,0,0,27,32,24,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,7,7,5,0,0,0,0,0,0,0,0,0,5,6,4,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,20,13,0,0,0,0,0,0,0,0,0,0,23,9,0,0,0,0,General
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,3,HSS (I-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,2,3,4,2,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,3,HSS (I-XII),4,Government Aided,Rural,2,0,0,36,58,38,41,33,50,63,68,119,108,108,64,36,42,37,41,25,53,58,63,117,119,173,141,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,3,HSS (I-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,89,113,127,105,SC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,3,HSS (I-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,3,HSS (I-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,2,5,4,0,5,3,5,11,16,10,24,SC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,86,96,121,117,106,106,111,107,121,107,57,49,99,122,114,113,112,115,117,129,118,74,55,48,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,22,25,50,38,0,0,0,0,0,0,0,0,24,13,21,21,SC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,3,4,6,7,15,10,11,12,17,7,9,9,0,4,7,5,6,15,16,14,18,11,2,4,SC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,0,0,8,8,8,9,6,6,3,2,9,5,5,8,8,8,9,9,6,3,3,2,5,5,8,9,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,45,24,26,21,25,32,22,33,14,22,66,SC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,2,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,10,HSS (IX-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,54,97,11,0,0,0,0,0,0,0,0,0,62,62,55,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,10,HSS (IX-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,16,26,12,6,0,0,0,0,0,0,0,0,20,23,24,14,SC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,26,26,14,14,0,0,0,0,0,0,0,0,26,23,14,14,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,10,12,8,7,0,0,0,0,0,0,0,0,15,8,6,7,SC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,19,31,27,30,0,0,0,0,0,0,0,0,25,28,26,24,SC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,22,70,29,46,0,0,0,0,0,0,0,0,22,18,9,32,SC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,149,237,208,205,0,0,0,0,0,0,0,0,69,85,112,94,SC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,53,106,83,84,0,0,0,0,0,0,0,0,112,105,108,89,SC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,169,226,203,248,0,0,0,0,0,0,0,0,200,122,157,107,SC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,23,18,20,16,0,0,0,0,0,0,0,0,21,17,19,30,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,17,20,27,49,60,22,48,0,0,0,0,0,23,37,32,67,73,110,94,SC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,76,70,85,86,78,75,66,0,0,0,0,0,88,133,106,96,95,88,74,SC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,13,1,3,1,3,1,SC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,24,30,44,79,63,40,45,0,0,0,0,0,88,93,106,139,137,111,105,SC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,46,119,100,126,130,85,96,0,0,0,0,0,75,132,55,85,72,67,68,SC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,61,130,65,99,90,172,60,0,0,0,0,0,116,114,191,129,120,74,65,SC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,5,4,13,24,14,10,2,0,0,0,0,0,6,11,9,33,27,13,15,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,5,HSS (VI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,4,4,1,12,10,13,10,0,0,0,0,0,0,2,0,6,17,15,6,SC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,5,HSS (VI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,5,1,0,4,6,0,0,0,0,0,0,0,3,5,4,13,20,16,38,SC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,5,HSS (VI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,105,105,83,133,81,108,102,0,0,0,0,0,60,54,57,88,82,94,65,SC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,29,29,33,29,26,32,32,0,0,0,0,0,29,36,32,29,40,32,29,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,18,17,16,49,104,85,142,0,0,0,0,0,14,12,15,87,101,108,116,SC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,47,40,48,137,96,48,38,0,0,0,0,0,40,43,34,80,67,48,30,SC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,15,21,24,61,66,44,80,0,0,0,0,0,18,18,22,38,24,28,16,SC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,8,13,13,17,8,0,0,0,0,0,0,0,8,13,14,11,10,SC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,3,2,9,2,9,0,0,0,0,0,0,0,0,0,21,8,11,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,17,22,36,148,114,242,244,0,0,0,0,0,25,25,48,107,141,213,200,SC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,51,43,64,30,41,28,13,0,0,0,0,0,62,31,25,22,35,17,15,SC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,3,6,4,10,16,24,0,0,0,0,0,8,4,9,11,20,9,4,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,4,4,4,4,6,0,0,0,0,0,0,0,4,2,5,3,4,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,3,4,3,2,1,1,3,0,0,0,0,0,2,0,0,3,0,1,3,SC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,21,19,14,30,21,17,12,0,0,0,0,0,16,12,12,31,23,18,12,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,11,23,0,0,0,0,0,0,0,0,0,0,52,33,SC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,1,PS (I-V),1,Department of Education,Rural,2,0,1,511,485,491,470,424,0,0,0,0,0,0,0,496,462,476,422,428,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),1,Department of Education,Rural,2,0,0,582,519,539,458,475,0,0,0,0,0,0,0,593,577,577,496,438,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,1,PS (I-V),1,Department of Education,Rural,2,0,0,422,367,414,422,405,0,0,0,0,0,0,0,441,396,455,481,409,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,1,PS (I-V),1,Department of Education,Rural,2,0,0,345,313,311,335,296,0,0,0,0,0,0,0,359,320,309,328,313,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,1,PS (I-V),1,Department of Education,Rural,2,0,0,241,204,240,243,238,0,0,0,0,0,0,0,250,264,255,238,253,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,1,PS (I-V),1,Department of Education,Rural,2,0,0,626,578,600,552,539,0,0,0,0,0,0,0,618,611,584,625,552,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,1,PS (I-V),1,Department of Education,Rural,2,42,29,410,338,358,326,336,0,0,0,0,0,0,0,346,365,390,338,378,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,1,PS (I-V),1,Department of Education,Rural,2,0,0,474,421,400,358,347,0,0,0,0,0,0,0,456,420,450,399,361,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,1,PS (I-V),1,Department of Education,Rural,2,0,2,286,315,305,320,297,0,0,0,0,0,0,0,325,331,349,310,300,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,1,PS (I-V),1,Department of Education,Rural,2,0,0,46,19,19,22,22,0,0,0,0,0,0,0,35,18,23,19,21,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),1,Department of Education,Urban,2,0,0,25,45,43,20,24,0,0,0,0,0,0,0,26,44,54,19,29,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,1,PS (I-V),1,Department of Education,Urban,2,0,0,9,5,9,13,9,0,0,0,0,0,0,0,10,9,13,13,11,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,1,PS (I-V),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,1,PS (I-V),1,Department of Education,Urban,2,0,0,15,12,11,7,17,0,0,0,0,0,0,0,8,9,16,22,6,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,1,PS (I-V),1,Department of Education,Urban,2,0,0,1,0,2,1,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,1,PS (I-V),1,Department of Education,Urban,2,0,0,88,65,92,72,62,0,0,0,0,0,0,0,103,78,77,70,78,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,75,59,63,65,46,0,0,0,0,0,0,0,57,41,59,62,42,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,45,29,31,26,30,0,0,0,0,0,0,0,44,22,30,31,25,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,23,49,19,39,36,0,0,0,0,0,0,0,40,35,31,26,25,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,23,14,19,12,16,0,0,0,0,0,0,0,24,18,24,14,15,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,59,15,10,10,6,0,0,0,0,0,0,0,56,7,13,8,10,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,65,75,45,51,43,0,0,0,0,0,0,0,56,59,49,43,38,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,79,60,65,42,43,0,0,0,0,0,0,0,57,68,44,53,34,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,61,32,45,51,41,0,0,0,0,0,0,0,51,38,40,48,38,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),2,Tribal Welfare Department,Urban,2,0,0,28,35,31,27,41,0,0,0,0,0,0,0,41,36,29,28,26,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,1,PS (I-V),2,Tribal Welfare Department,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,401,343,330,310,328,0,0,0,0,0,0,0,360,315,359,303,313,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,790,668,601,514,458,0,0,0,0,0,0,0,504,416,343,331,320,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,8,2,366,378,349,317,362,0,0,0,0,0,0,0,356,334,340,314,302,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,7,12,11,5,11,0,0,0,0,0,0,0,11,5,15,7,8,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,29,31,28,33,41,0,0,0,0,0,0,0,29,31,24,33,24,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,34,40,47,36,33,0,0,0,0,0,0,0,23,52,46,41,46,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,39,30,362,463,318,271,232,0,0,0,0,0,0,0,395,353,344,311,228,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,286,267,298,258,253,0,0,0,0,0,0,0,249,267,275,243,267,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,36,31,43,43,34,0,0,0,0,0,0,0,41,27,38,41,35,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,19,4,27,28,22,26,21,0,0,0,0,0,0,0,20,17,26,23,23,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,78,84,76,72,57,0,0,0,0,0,0,0,50,54,47,44,37,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,5,7,4,6,6,0,0,0,0,0,0,0,6,9,8,9,9,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,17,20,10,24,16,0,0,0,0,0,0,0,11,13,6,16,5,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,3,4,7,8,0,0,0,0,0,0,0,0,2,6,8,9,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,1,3,0,5,2,0,0,0,0,0,0,0,1,3,3,5,2,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,44,31,48,54,52,0,0,0,0,0,0,0,41,36,45,41,19,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,1,PS (I-V),98,Madarsa unrecognized,Rural,2,0,0,11,5,2,10,9,0,0,0,0,0,0,0,12,11,8,9,8,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),98,Madarsa unrecognized,Rural,2,0,0,15,13,8,1,4,0,0,0,0,0,0,0,7,11,3,4,2,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,1,PS (I-V),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,1,PS (I-V),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,1,PS (I-V),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,1,PS (I-V),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,1,PS (I-V),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,1,PS (I-V),98,Madarsa unrecognized,Rural,2,0,0,21,26,33,36,24,0,0,0,0,0,0,0,29,29,29,31,1,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,1,PS (I-V),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),98,Madarsa unrecognized,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,1,PS (I-V),98,Madarsa unrecognized,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,1,PS (I-V),98,Madarsa unrecognized,Urban,2,0,0,3,1,3,1,1,0,0,0,0,0,0,0,3,2,4,1,1,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,1,PS (I-V),98,Madarsa unrecognized,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,1,PS (I-V),98,Madarsa unrecognized,Urban,2,0,0,6,5,3,3,1,0,0,0,0,0,0,0,5,2,0,1,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,19,19,17,17,17,14,17,8,9,0,0,0,19,19,17,17,14,14,8,9,9,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,14,12,15,15,15,29,19,20,18,16,0,0,20,13,18,12,16,20,20,21,15,14,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,4,16,41,1,0,0,0,0,0,0,0,5,7,11,54,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,4,24,5,3,14,18,19,15,29,8,0,0,4,3,4,3,10,21,24,19,20,12,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,6,SS (I-X),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,6,SS (I-X),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,6,SS (I-X),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,6,SS (I-X),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,6,SS (I-X),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,6,SS (I-X),98,Madarsa unrecognized,Rural,2,0,0,13,42,45,19,55,73,43,36,62,53,0,0,31,34,36,33,59,50,42,55,55,45,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,6,SS (I-X),98,Madarsa unrecognized,Rural,2,0,0,2,2,4,1,1,0,3,2,0,0,0,0,2,3,5,6,1,1,2,5,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,6,SS (I-X),98,Madarsa unrecognized,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,6,SS (I-X),98,Madarsa unrecognized,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,6,SS (I-X),98,Madarsa unrecognized,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,5,14,0,0,0,0,0,0,0,0,0,0,5,13,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,8,5,0,0,0,0,0,0,0,0,0,0,8,8,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,4,6,0,0,0,0,0,0,0,0,0,0,3,4,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,19,11,0,0,0,0,0,0,0,0,0,0,17,24,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,8,SS (IX-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,134,112,0,0,0,0,0,0,0,0,0,0,129,81,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,94,148,0,0,0,0,0,0,0,0,0,0,90,110,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,5,4,0,0,0,0,0,0,0,0,0,0,13,15,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,2,6,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,76,100,0,0,0,0,0,0,0,0,0,0,87,73,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,124,196,0,0,0,0,0,0,0,0,0,0,81,148,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,39,51,0,0,0,0,0,0,0,0,0,0,54,47,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,10,12,0,0,0,0,0,0,0,0,0,0,15,12,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,8,SS (IX-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,8,SS (IX-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,4,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,11,16,16,23,25,0,0,0,0,0,0,0,15,29,30,35,20,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,18,25,21,35,42,0,0,0,0,0,0,0,23,24,44,24,43,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,20,20,0,0,0,0,0,0,0,0,0,0,5,5,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,39,43,37,54,66,0,0,0,0,0,0,0,32,39,40,43,66,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,10,11,3,7,8,0,0,0,0,0,0,0,8,65,4,1,1,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,9,8,5,17,34,0,0,0,0,0,0,0,6,4,44,23,32,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,112,57,48,57,21,0,0,0,0,0,0,0,61,45,87,29,36,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,4,17,19,0,0,0,0,0,0,0,0,0,5,8,5,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,2,4,3,0,0,0,0,0,0,0,0,0,5,0,3,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,6,4,2,0,0,0,0,0,0,0,0,0,2,1,4,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,2,UPS (I-VIII),1,Department of Education,Urban,2,2,5,1,1,0,2,1,0,0,0,0,0,0,0,1,0,3,3,0,2,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,2,0,0,66,1,18,21,12,14,0,0,0,0,0,0,55,10,11,13,9,12,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,2,3,1,1,2,0,0,0,0,0,0,0,1,2,2,1,3,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,2,UPS (I-VIII),4,Government Aided,Urban,2,0,0,10,4,2,3,0,7,4,4,0,0,0,0,6,2,6,3,0,8,10,3,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,14,14,14,14,14,14,0,0,0,0,0,0,14,14,14,14,14,14,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,22,25,22,14,20,13,21,14,0,0,0,0,18,20,13,11,18,13,14,11,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,20,11,11,10,18,19,15,25,0,0,0,0,12,10,14,15,20,21,21,20,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,6,8,5,3,5,7,8,3,0,0,0,0,7,10,4,9,4,6,7,6,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,20,10,5,8,5,10,5,0,0,0,0,0,10,5,5,5,5,6,3,5,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,5,10,9,1,5,10,7,8,0,0,0,0,9,6,10,3,15,17,13,19,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,7,15,15,8,29,49,29,23,0,0,0,0,32,12,7,12,34,44,29,58,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,0,5,9,11,4,2,3,3,2,0,0,0,0,3,3,12,5,1,4,3,1,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,10,8,12,0,0,0,0,0,0,0,0,0,4,5,9,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,2,UPS (I-VIII),93,Jawahar Navodaya Vidyalaya ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,2,0,0,4,4,2,1,5,3,2,2,0,0,0,0,4,3,2,3,9,5,3,1,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,2,0,0,14,4,2,5,3,2,3,6,0,0,0,0,10,4,3,8,4,5,10,5,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,2,UPS (I-VIII),98,Madarsa unrecognized,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,2,UPS (I-VIII),98,Madarsa unrecognized,Urban,2,0,0,1,5,0,1,1,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,259,276,185,0,0,0,0,0,0,0,0,0,255,280,265,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,392,283,318,0,0,0,0,0,0,0,0,0,352,298,322,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,154,133,151,0,0,0,0,0,0,0,0,0,197,173,148,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,118,130,131,0,0,0,0,0,0,0,0,0,143,146,157,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,133,121,114,0,0,0,0,0,0,0,0,0,144,133,143,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,372,336,303,0,0,0,0,0,0,0,0,0,386,323,295,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,192,199,164,0,0,0,0,0,0,0,0,0,225,174,228,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,211,147,179,0,0,0,0,0,0,0,0,0,186,168,148,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,182,150,121,0,0,0,0,0,0,0,0,0,199,158,173,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,4,2,1,0,0,0,0,0,0,0,0,0,5,4,5,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,10,7,4,0,0,0,0,0,0,0,0,0,11,6,4,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,20,9,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,4,2,3,0,0,0,0,0,0,0,0,0,9,6,9,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,10,8,11,0,0,0,0,0,0,0,0,0,24,11,10,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,39,44,41,0,0,0,0,0,0,0,0,0,56,38,27,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,46,29,26,0,0,0,0,0,0,0,0,0,54,44,45,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,426,396,389,0,0,0,0,0,0,0,0,0,452,442,479,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,172,184,244,0,0,0,0,0,0,0,0,0,214,263,330,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,73,59,62,0,0,0,0,0,0,0,0,0,68,93,101,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,56,44,62,0,0,0,0,0,0,0,0,0,36,36,36,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,6,19,15,0,0,0,0,0,0,0,0,0,9,10,13,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,29,42,49,0,0,0,0,0,0,0,0,0,28,32,98,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,104,119,111,0,0,0,0,0,0,0,0,0,110,130,182,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,41,39,35,0,0,0,0,0,0,0,0,0,78,46,33,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,43,33,48,0,0,0,0,0,0,0,0,0,32,38,37,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,4,UPS (VI-VIII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,65,75,38,0,0,0,0,0,0,0,0,0,44,84,66,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,4,UPS (VI-VIII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,3,3,6,0,0,0,0,0,0,0,0,0,3,10,4,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,4,UPS (VI-VIII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,4,UPS (VI-VIII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,16,11,10,0,0,0,0,0,0,0,0,0,19,18,5,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,107,100,91,0,0,0,0,0,0,0,0,0,101,92,117,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,40,52,42,0,0,0,0,0,0,0,0,0,67,76,62,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,1,5,6,0,0,0,0,0,0,0,0,0,3,4,2,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,128,87,81,0,0,0,0,0,0,0,0,0,85,88,76,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,95,109,107,0,0,0,0,0,0,0,0,0,122,109,115,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,44,46,47,0,0,0,0,0,0,0,0,0,48,52,43,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,13,13,13,0,0,0,0,0,0,0,0,0,10,12,12,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,7,6,6,0,0,0,0,0,0,0,0,0,8,5,7,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,2,3,4,0,0,0,0,0,0,0,0,0,1,1,3,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,3,HSS (I-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,3,HSS (I-XII),4,Government Aided,Rural,3,0,0,1,1,1,0,0,6,5,3,1,7,3,2,1,1,2,0,1,2,3,4,5,4,2,3,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,3,HSS (I-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,4,7,ST
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,3,HSS (I-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,3,HSS (I-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,2,3,10,7,0,0,0,0,0,0,0,0,0,4,2,4,ST
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,1,1,11,7,19,20,6,7,8,0,0,0,1,11,4,8,10,10,7,8,9,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,10,HSS (IX-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,10,HSS (IX-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,1,2,2,1,0,0,0,0,0,0,0,0,0,4,0,4,ST
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,5,4,8,6,0,0,0,0,0,0,0,0,6,7,5,7,ST
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,1,3,0,3,0,0,0,0,0,0,0,0,2,3,1,1,ST
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,19,10,21,20,0,0,0,0,0,0,0,0,20,30,31,23,ST
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,14,7,12,43,0,0,0,0,0,0,0,0,8,19,58,21,ST
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,141,120,77,118,0,0,0,0,0,0,0,0,125,107,110,61,ST
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,20,18,15,9,0,0,0,0,0,0,0,0,12,10,14,11,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,1,1,1,2,3,1,3,0,0,0,0,0,1,1,3,3,5,3,5,ST
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,2,3,4,3,1,3,2,0,0,0,0,0,1,2,1,2,2,1,1,ST
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,1,1,2,2,2,4,14,0,0,0,0,0,0,3,0,0,3,2,2,ST
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,29,86,45,58,29,39,23,0,0,0,0,0,54,77,48,54,56,22,118,ST
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,5,HSS (VI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,5,HSS (VI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,5,HSS (VI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,10,0,1,2,0,0,0,0,0,0,0,0,5,0,1,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,6,7,1,0,0,0,0,0,0,0,0,0,3,2,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,2,2,2,0,1,4,1,0,0,0,0,0,2,0,1,0,1,2,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,1,2,0,2,1,0,0,0,0,0,0,0,1,3,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,6,3,2,4,20,14,14,0,0,0,0,0,1,2,43,5,11,14,21,ST
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,39,42,33,36,62,12,23,0,0,0,0,0,38,28,27,58,33,24,42,ST
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,16,38,0,6,0,0,0,0,0,0,0,0,10,6,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,1,2,1,2,1,3,0,0,0,0,0,0,0,0,0,0,0,3,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,1,PS (I-V),1,Department of Education,Rural,3,0,0,35,23,16,16,27,0,0,0,0,0,0,0,25,18,38,16,19,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),1,Department of Education,Rural,3,0,0,16,10,20,13,17,0,0,0,0,0,0,0,24,17,6,19,15,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,1,PS (I-V),1,Department of Education,Rural,3,0,0,21,20,26,23,25,0,0,0,0,0,0,0,15,22,17,19,23,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,1,PS (I-V),1,Department of Education,Rural,3,0,2,30,18,15,20,17,0,0,0,0,0,0,0,33,35,18,13,14,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,1,PS (I-V),1,Department of Education,Rural,3,0,0,21,15,14,19,13,0,0,0,0,0,0,0,23,23,11,12,19,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,1,PS (I-V),1,Department of Education,Rural,3,0,0,22,8,8,6,11,0,0,0,0,0,0,0,21,18,12,12,9,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,1,PS (I-V),1,Department of Education,Rural,3,0,0,20,15,20,34,31,0,0,0,0,0,0,0,17,26,16,17,20,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,1,PS (I-V),1,Department of Education,Rural,3,0,0,45,58,49,48,47,0,0,0,0,0,0,0,51,43,44,43,34,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,1,PS (I-V),1,Department of Education,Rural,3,0,0,7,10,9,14,4,0,0,0,0,0,0,0,9,6,7,1,4,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,6,1,1,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,1,PS (I-V),1,Department of Education,Urban,3,0,0,22,0,1,9,3,0,0,0,0,0,0,0,14,0,1,6,5,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,0,4,0,8,9,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,2,6,9,3,9,0,0,0,0,0,0,0,2,5,4,5,7,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,4,12,6,2,7,0,0,0,0,0,0,0,8,13,3,3,8,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,3,4,4,7,0,0,0,0,0,0,0,0,4,0,1,2,3,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),2,Tribal Welfare Department,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,1,PS (I-V),2,Tribal Welfare Department,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,16,5,1,1,0,0,0,0,0,0,0,0,4,2,1,1,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,6,6,4,6,3,0,0,0,0,0,0,0,11,9,8,3,7,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,2,0,8,15,10,11,13,0,0,0,0,0,0,0,13,15,14,12,16,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,7,7,5,6,7,0,0,0,0,0,0,0,6,5,6,7,10,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,71,47,185,58,55,0,0,0,0,0,0,0,92,69,46,61,38,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,145,146,201,176,183,0,0,0,0,0,0,0,126,180,205,156,119,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,2,2,1,1,1,0,0,0,0,0,0,0,1,2,1,1,1,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,5,0,5,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,1,2,2,3,4,0,0,0,0,0,0,0,2,1,3,3,4,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,24,14,21,16,16,0,0,0,0,0,0,0,21,21,21,17,13,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,1,PS (I-V),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,1,PS (I-V),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,1,PS (I-V),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,1,PS (I-V),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,1,PS (I-V),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,1,PS (I-V),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,1,PS (I-V),98,Madarsa unrecognized,Rural,3,0,0,11,19,26,22,23,0,0,0,0,0,0,0,17,22,24,31,10,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,1,PS (I-V),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),98,Madarsa unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,1,PS (I-V),98,Madarsa unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,1,PS (I-V),98,Madarsa unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,1,PS (I-V),98,Madarsa unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,1,PS (I-V),98,Madarsa unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,4,7,5,14,10,27,13,27,8,0,0,4,5,8,4,14,13,15,61,3,9,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,6,SS (I-X),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,6,SS (I-X),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,6,SS (I-X),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,6,SS (I-X),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,6,SS (I-X),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,6,SS (I-X),98,Madarsa unrecognized,Rural,3,0,0,11,11,5,8,4,11,3,8,0,0,0,0,22,4,7,9,3,22,6,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,6,SS (I-X),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,6,SS (I-X),98,Madarsa unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,6,SS (I-X),98,Madarsa unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,6,SS (I-X),98,Madarsa unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,8,SS (IX-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,3,4,0,0,0,0,0,0,0,0,0,0,2,4,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,9,16,0,0,0,0,0,0,0,0,0,0,12,33,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,33,63,0,0,0,0,0,0,0,0,0,0,41,50,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,20,29,0,0,0,0,0,0,0,0,0,0,11,54,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,61,46,0,0,0,0,0,0,0,0,0,0,62,40,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,5,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,20,23,25,31,31,0,0,0,0,0,0,0,19,16,21,25,19,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,3,7,2,1,2,0,0,0,0,0,0,0,14,1,1,1,4,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,28,18,6,9,0,0,0,0,0,0,0,0,37,8,14,3,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,2,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,2,UPS (I-VIII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,1,1,0,1,2,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,5,0,0,0,3,2,1,0,0,0,0,0,2,0,0,2,2,3,1,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,13,16,19,15,43,39,28,20,0,0,0,0,14,17,23,26,36,41,19,13,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,2,UPS (I-VIII),93,Jawahar Navodaya Vidyalaya ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,36,35,46,61,66,115,109,109,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,3,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,2,UPS (I-VIII),98,Madarsa unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,2,UPS (I-VIII),98,Madarsa unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,16,8,6,0,0,0,0,0,0,0,0,0,22,21,15,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,26,20,26,0,0,0,0,0,0,0,0,0,22,18,19,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,7,6,3,0,0,0,0,0,0,0,0,0,5,4,15,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,6,1,1,0,0,0,0,0,0,0,0,0,8,7,2,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,18,17,16,0,0,0,0,0,0,0,0,0,26,22,14,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,2,2,3,0,0,0,0,0,0,0,0,0,0,8,7,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,25,21,15,0,0,0,0,0,0,0,0,0,22,26,23,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,7,0,3,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,1,2,12,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,9,2,1,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,23,4,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,9,10,11,0,0,0,0,0,0,0,0,0,9,12,36,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,8,8,9,0,0,0,0,0,0,0,0,0,11,9,7,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,10,12,18,0,0,0,0,0,0,0,0,0,4,14,19,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,4,UPS (VI-VIII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,4,UPS (VI-VIII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,4,UPS (VI-VIII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,4,UPS (VI-VIII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,6,10,5,0,0,0,0,0,0,0,0,0,14,8,6,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,2,8,6,0,0,0,0,0,0,0,0,0,2,4,2,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,44,55,67,0,0,0,0,0,0,0,0,0,54,48,32,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,5,0,7,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,3,HSS (I-XII),1,Department of Education,Urban,4,0,0,0,7,13,15,0,0,0,0,0,0,0,0,15,4,13,25,18,14,14,12,21,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,3,HSS (I-XII),4,Government Aided,Rural,4,0,0,75,91,102,112,130,102,144,162,358,340,235,230,75,112,97,107,126,103,121,159,376,353,307,336,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,3,HSS (I-XII),4,Government Aided,Rural,4,0,0,89,112,89,45,55,65,24,45,45,42,65,11,98,87,54,25,54,45,32,12,305,230,331,323,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,3,HSS (I-XII),4,Government Aided,Rural,4,0,0,64,77,66,56,31,27,36,37,37,29,47,29,34,43,26,23,40,21,29,35,28,16,23,44,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,3,HSS (I-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,7,2,4,4,11,16,12,13,14,72,22,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,89,99,111,95,123,103,93,121,95,110,109,90,96,104,113,121,116,117,107,126,118,107,111,104,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,23,27,27,24,25,39,39,60,124,117,367,476,19,17,28,23,25,28,36,30,79,54,109,110,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,44,68,51,32,57,67,65,68,114,84,40,40,43,45,28,39,47,72,58,52,78,57,46,43,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,72,64,75,43,80,29,69,20,28,9,3,11,58,47,40,32,56,25,28,41,63,17,6,2,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,27,18,24,38,28,33,15,23,34,30,27,25,25,26,27,33,11,16,16,21,22,5,10,11,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,122,158,220,186,0,0,0,0,0,0,0,0,77,75,110,117,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,74,87,35,26,53,54,51,52,48,56,48,46,99,75,22,45,54,53,19,45,49,42,48,92,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,42,33,21,25,93,81,46,28,48,31,28,67,12,18,9,12,56,86,62,30,12,16,63,41,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,33,41,48,50,33,34,30,32,55,88,97,98,94,69,79,94,116,37,28,98,110,128,99,98,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,0,0,8,8,9,8,8,5,5,5,5,0,0,0,8,8,8,8,8,5,0,0,6,6,9,3,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,0,0,22,101,29,100,60,112,72,116,141,127,97,156,64,24,121,53,94,108,90,123,100,107,97,128,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,0,0,4,3,2,4,6,3,7,7,8,5,4,8,5,4,3,5,6,5,4,6,7,3,8,7,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,77,66,88,52,64,42,44,55,65,42,82,64,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,0,0,60,66,56,64,67,34,45,47,106,122,98,100,67,46,40,48,28,21,18,15,87,99,92,77,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,0,15,391,317,336,315,305,302,326,300,262,293,293,271,347,348,352,315,338,331,328,337,329,323,311,323,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,2,0,0,10,0,0,0,0,0,0,0,0,1,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,10,HSS (IX-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,21,80,12,0,0,0,0,0,0,0,0,0,23,60,67,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,10,HSS (IX-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,44,46,32,30,0,0,0,0,0,0,0,0,35,49,46,76,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,32,32,30,30,0,0,0,0,0,0,0,0,32,27,30,30,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,348,710,410,654,0,0,0,0,0,0,0,0,334,392,367,408,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,67,68,76,71,0,0,0,0,0,0,0,0,56,59,61,66,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,145,174,175,156,0,0,0,0,0,0,0,0,125,160,100,92,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,71,215,91,82,0,0,0,0,0,0,0,0,74,170,49,60,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,404,595,404,492,0,0,0,0,0,0,0,0,270,423,390,308,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,97,137,119,148,0,0,0,0,0,0,0,0,152,162,87,151,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,320,384,424,388,0,0,0,0,0,0,0,0,199,231,155,192,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,400,423,320,352,0,0,0,0,0,0,0,0,234,367,339,296,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,144,154,92,89,0,0,0,0,0,0,0,0,215,201,176,183,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,72,90,71,83,79,57,44,0,0,0,0,0,77,88,83,94,106,103,48,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,161,161,156,166,161,134,134,0,0,0,0,0,173,181,145,193,192,164,179,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,48,44,60,35,35,47,42,0,0,0,0,0,41,62,30,42,40,31,36,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,95,100,88,125,85,32,0,0,0,0,0,0,64,112,83,40,68,23,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,90,78,82,140,164,145,132,0,0,0,0,0,124,129,134,186,206,199,212,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,40,65,84,211,157,157,116,0,0,0,0,0,41,76,70,188,132,151,131,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,71,83,85,115,81,48,70,0,0,0,0,0,154,136,192,168,159,163,163,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,65,75,67,78,79,41,42,0,0,0,0,0,69,98,54,93,83,66,59,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,5,HSS (VI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,56,82,132,306,340,427,455,0,0,0,0,0,18,47,70,108,71,85,120,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,5,HSS (VI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,1,4,3,15,4,0,0,0,0,0,0,0,12,7,12,58,50,32,50,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,5,HSS (VI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,493,433,452,465,379,1246,267,0,0,0,0,0,317,361,340,532,551,713,566,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,29,31,31,29,30,29,29,0,0,0,0,0,31,31,31,29,31,29,29,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,85,110,159,406,335,322,514,0,0,0,0,0,97,127,128,356,463,286,373,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,140,121,107,250,464,156,76,0,0,0,0,0,91,94,85,218,220,86,53,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,104,135,152,204,140,131,155,0,0,0,0,0,103,97,154,127,83,134,118,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,77,109,138,136,113,120,54,0,0,0,0,0,85,58,91,125,103,81,59,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,205,232,182,187,249,143,157,0,0,0,0,0,192,208,188,284,247,102,85,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,112,115,189,658,660,789,850,0,0,0,0,0,142,117,134,570,882,853,897,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,80,74,73,89,70,86,60,0,0,0,0,0,44,94,52,59,32,33,42,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,168,181,168,278,318,321,343,0,0,0,0,0,108,124,135,166,197,254,250,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,4,3,2,5,2,0,0,0,0,0,0,0,2,3,5,3,3,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,7,7,8,15,9,15,5,0,0,0,0,0,3,8,8,10,9,15,5,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,27,48,59,50,51,36,20,0,0,0,0,0,16,17,34,35,40,28,18,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,50,90,0,0,0,0,0,0,0,0,0,0,55,80,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,11,4,0,0,0,0,0,0,0,0,0,0,6,9,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,1,PS (I-V),1,Department of Education,Rural,4,13,15,989,900,940,862,829,0,0,0,0,0,0,0,965,953,1002,1010,944,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),1,Department of Education,Rural,4,0,0,775,711,620,628,497,0,0,0,0,0,0,0,825,704,664,636,551,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,1,PS (I-V),1,Department of Education,Rural,4,0,0,529,504,532,481,455,0,0,0,0,0,0,0,542,517,574,520,533,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,1,PS (I-V),1,Department of Education,Rural,4,0,0,646,757,831,735,737,0,0,0,0,0,0,0,753,795,818,723,697,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,1,PS (I-V),1,Department of Education,Rural,4,0,0,769,795,823,728,688,0,0,0,0,0,0,0,695,729,768,710,711,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,1,PS (I-V),1,Department of Education,Rural,4,0,0,996,987,882,938,880,0,0,0,0,0,0,0,1038,930,977,874,925,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,1,PS (I-V),1,Department of Education,Rural,4,87,84,861,786,695,666,671,0,0,0,0,0,0,0,801,769,806,731,698,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,1,PS (I-V),1,Department of Education,Rural,4,0,0,958,665,662,652,564,0,0,0,0,0,0,0,868,803,772,733,735,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,1,PS (I-V),1,Department of Education,Rural,4,0,0,603,684,611,553,504,0,0,0,0,0,0,0,671,745,658,668,546,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,1,PS (I-V),1,Department of Education,Rural,4,0,0,22,18,27,5,12,0,0,0,0,0,0,0,13,24,29,20,9,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),1,Department of Education,Urban,4,0,0,73,50,54,56,36,0,0,0,0,0,0,0,53,66,58,63,42,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,1,PS (I-V),1,Department of Education,Urban,4,0,0,19,27,22,19,25,0,0,0,0,0,0,0,21,19,13,11,16,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,1,PS (I-V),1,Department of Education,Urban,4,0,0,14,15,16,11,12,0,0,0,0,0,0,0,11,12,14,9,14,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,1,PS (I-V),1,Department of Education,Urban,4,0,0,25,13,15,8,18,0,0,0,0,0,0,0,29,32,24,18,21,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,1,PS (I-V),1,Department of Education,Urban,4,0,0,2,1,2,2,2,0,0,0,0,0,0,0,4,3,1,2,1,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,1,PS (I-V),1,Department of Education,Urban,4,0,0,136,130,144,112,112,0,0,0,0,0,0,0,143,141,133,130,87,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,65,60,69,73,60,0,0,0,0,0,0,0,73,84,51,53,55,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,41,20,24,22,11,0,0,0,0,0,0,0,49,33,27,24,19,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,28,23,21,20,25,0,0,0,0,0,0,0,23,25,24,29,25,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,89,106,132,138,126,0,0,0,0,0,0,0,96,114,107,114,147,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,47,39,51,40,45,0,0,0,0,0,0,0,42,38,55,29,42,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,36,63,66,48,40,0,0,0,0,0,0,0,28,41,56,39,33,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,75,72,58,60,53,0,0,0,0,0,0,0,78,91,58,60,47,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,73,43,37,47,53,0,0,0,0,0,0,0,69,61,57,50,57,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,203,197,171,207,201,0,0,0,0,0,0,0,143,211,191,156,201,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),2,Tribal Welfare Department,Urban,4,0,0,10,11,10,11,4,0,0,0,0,0,0,0,7,8,8,8,3,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,1,PS (I-V),2,Tribal Welfare Department,Urban,4,0,0,25,20,15,20,25,0,0,0,0,0,0,0,25,20,28,35,27,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,511,515,494,474,527,0,0,0,0,0,0,0,496,469,409,401,408,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,1144,899,805,795,780,0,0,0,0,0,0,0,858,565,616,620,581,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,35,32,646,619,635,636,667,0,0,0,0,0,0,0,551,534,611,487,528,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,390,334,294,359,401,0,0,0,0,0,0,0,307,363,381,362,325,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,223,231,301,378,316,0,0,0,0,0,0,0,203,276,239,240,228,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,802,943,875,877,932,0,0,0,0,0,0,0,716,705,720,651,724,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,30,40,1314,751,562,548,540,0,0,0,0,0,0,0,766,619,592,514,538,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,1261,436,489,477,442,0,0,0,0,0,0,0,484,522,460,426,338,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,752,698,714,725,687,0,0,0,0,0,0,0,615,539,562,602,534,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,4,3,79,92,78,90,76,0,0,0,0,0,0,0,82,98,86,96,81,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,100,98,93,67,57,0,0,0,0,0,0,0,84,66,54,50,40,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,9,9,8,9,9,0,0,0,0,0,0,0,5,6,4,5,5,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,81,75,63,82,60,0,0,0,0,0,0,0,31,32,39,48,29,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,4,7,6,12,9,0,0,0,0,0,0,0,8,7,9,12,11,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,11,20,489,625,474,632,469,0,0,0,0,0,0,0,567,656,519,655,492,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,1,PS (I-V),98,Madarsa unrecognized,Rural,4,0,0,21,24,23,20,21,0,0,0,0,0,0,0,20,22,25,20,18,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),98,Madarsa unrecognized,Rural,4,0,0,133,54,37,44,47,0,0,0,0,0,0,0,90,75,55,66,44,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,1,PS (I-V),98,Madarsa unrecognized,Rural,4,0,0,39,34,43,38,31,0,0,0,0,0,0,0,35,38,33,41,34,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,1,PS (I-V),98,Madarsa unrecognized,Rural,4,0,0,9,6,8,2,3,0,0,0,0,0,0,0,7,5,4,1,1,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,1,PS (I-V),98,Madarsa unrecognized,Rural,4,0,0,272,270,268,262,262,0,0,0,0,0,0,0,114,144,149,138,168,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,1,PS (I-V),98,Madarsa unrecognized,Rural,4,0,0,79,56,69,59,32,0,0,0,0,0,0,0,53,51,63,48,30,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,1,PS (I-V),98,Madarsa unrecognized,Rural,4,0,0,82,71,112,66,152,0,0,0,0,0,0,0,66,97,88,42,20,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,1,PS (I-V),98,Madarsa unrecognized,Rural,4,0,0,23,17,16,18,19,0,0,0,0,0,0,0,29,14,15,18,10,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,1,PS (I-V),98,Madarsa unrecognized,Rural,4,0,0,487,586,557,639,574,0,0,0,0,0,0,0,295,340,386,389,431,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,1,PS (I-V),98,Madarsa unrecognized,Urban,4,0,0,37,48,41,45,39,0,0,0,0,0,0,0,23,38,36,43,39,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,1,PS (I-V),98,Madarsa unrecognized,Urban,4,0,0,134,152,165,119,167,0,0,0,0,0,0,0,134,140,126,170,115,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,1,PS (I-V),98,Madarsa unrecognized,Urban,4,0,0,17,18,7,13,8,0,0,0,0,0,0,0,5,4,16,7,11,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,1,PS (I-V),98,Madarsa unrecognized,Urban,4,0,0,94,62,87,68,83,0,0,0,0,0,0,0,58,76,53,78,83,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,1,PS (I-V),98,Madarsa unrecognized,Urban,4,0,0,253,255,316,263,273,0,0,0,0,0,0,0,272,291,246,231,253,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,29,29,29,28,19,13,22,17,17,8,0,0,29,29,29,19,22,22,17,0,17,9,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,371,365,238,234,248,164,140,162,140,127,0,0,224,218,226,182,228,123,94,161,139,142,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,9,7,9,9,21,12,20,24,12,22,0,0,8,11,5,1,21,13,20,20,23,7,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,13,15,23,8,5,6,0,0,0,0,0,0,17,15,17,22,4,7,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,0,4,4,7,22,15,24,27,28,30,0,0,21,22,7,9,5,7,2,6,11,11,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,55,48,42,72,57,64,90,51,56,85,0,0,37,47,41,77,99,59,107,77,49,48,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,33,21,25,21,79,74,94,64,40,60,0,0,9,12,12,31,92,87,118,58,65,57,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,0,0,12,12,11,9,14,8,6,6,4,3,0,0,4,7,5,3,0,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,6,SS (I-X),98,Madarsa unrecognized,Rural,4,0,0,23,15,18,5,3,6,9,7,17,14,0,0,17,7,7,9,8,8,5,6,3,4,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,6,SS (I-X),98,Madarsa unrecognized,Rural,4,0,0,11,15,11,6,19,6,5,4,5,7,0,0,17,11,13,10,8,15,3,2,6,8,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,6,SS (I-X),98,Madarsa unrecognized,Rural,4,0,0,26,25,22,17,20,12,15,24,18,20,0,0,26,31,29,43,17,24,25,33,25,27,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,6,SS (I-X),98,Madarsa unrecognized,Rural,4,0,0,65,58,75,66,115,57,87,75,111,75,0,0,66,67,62,75,102,91,92,95,119,127,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,6,SS (I-X),98,Madarsa unrecognized,Rural,4,0,0,47,54,78,88,82,42,66,80,66,79,0,0,42,35,27,49,34,32,46,49,38,44,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,6,SS (I-X),98,Madarsa unrecognized,Rural,4,0,0,136,128,194,164,201,200,178,224,122,177,0,0,126,156,150,160,168,201,247,143,164,155,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,6,SS (I-X),98,Madarsa unrecognized,Rural,4,0,0,144,158,130,145,130,144,114,139,107,152,0,0,107,118,153,136,105,101,90,99,115,71,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,6,SS (I-X),98,Madarsa unrecognized,Urban,4,0,0,95,118,82,103,50,75,98,105,113,104,0,0,102,64,57,37,64,48,41,63,54,57,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,6,SS (I-X),98,Madarsa unrecognized,Urban,4,0,0,81,64,70,77,56,66,78,61,54,77,0,0,52,47,47,42,55,73,72,72,68,71,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,6,SS (I-X),98,Madarsa unrecognized,Urban,4,0,0,234,229,241,223,261,253,239,233,185,200,0,0,308,268,304,262,238,220,256,312,292,213,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,6,24,0,0,0,0,0,0,0,0,0,0,96,115,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,5,4,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,6,8,0,0,0,0,0,0,0,0,0,0,5,7,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,0,7,2,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,45,44,0,0,0,0,0,0,0,0,0,0,24,27,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,5,1,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,8,SS (IX-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,3,5,0,0,0,0,0,0,0,0,0,0,4,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,127,130,0,0,0,0,0,0,0,0,0,0,131,131,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,233,337,0,0,0,0,0,0,0,0,0,0,272,245,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,16,14,0,0,0,0,0,0,0,0,0,0,29,27,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,166,182,0,0,0,0,0,0,0,0,0,0,108,170,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,54,53,0,0,0,0,0,0,0,0,0,0,92,51,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,446,454,0,0,0,0,0,0,0,0,0,0,457,483,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,243,356,0,0,0,0,0,0,0,0,0,0,187,187,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,72,94,0,0,0,0,0,0,0,0,0,0,81,78,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,100,140,0,0,0,0,0,0,0,0,0,0,65,64,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,15,12,0,0,0,0,0,0,0,0,0,0,12,12,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,8,SS (IX-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,22,11,0,0,0,0,0,0,0,0,0,0,22,9,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,8,SS (IX-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,121,170,0,0,0,0,0,0,0,0,0,0,207,229,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,11,13,15,10,4,0,0,0,0,0,0,0,22,14,4,5,10,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,35,42,26,21,36,0,0,0,0,0,0,0,21,11,14,22,33,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,28,39,24,26,40,0,0,0,0,0,0,0,32,29,23,43,45,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,40,20,0,0,0,0,0,0,0,0,0,0,35,35,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,67,79,71,96,128,0,0,0,0,0,0,0,50,72,67,95,149,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,85,108,158,167,146,0,0,0,0,0,0,0,87,138,130,149,138,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,88,87,98,109,97,0,0,0,0,0,0,0,66,77,72,45,98,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,180,175,135,130,130,0,0,0,0,0,0,0,107,118,134,89,64,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,10,11,12,25,91,0,0,0,0,0,0,0,8,9,9,31,32,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,99,119,82,76,69,0,0,0,0,0,0,0,121,92,66,55,45,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,77,69,72,131,163,0,0,0,0,0,0,0,59,69,67,102,119,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,10,23,36,0,0,0,0,0,0,0,0,0,3,21,32,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,8,12,16,20,24,0,0,0,0,0,0,0,10,14,18,22,26,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,11,18,22,14,45,20,29,14,0,0,0,0,16,12,15,8,28,20,14,6,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,2,UPS (I-VIII),1,Department of Education,Urban,4,14,18,5,5,2,4,11,1,2,3,0,0,0,0,6,1,4,6,6,3,2,2,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,40,66,70,44,41,0,0,0,0,0,0,0,31,43,38,41,46,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,26,30,19,30,26,0,0,0,0,0,0,0,20,19,13,16,13,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,1,5,3,1,3,0,0,0,0,0,0,0,2,3,8,8,4,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,22,9,14,12,0,0,0,0,0,0,0,0,33,23,25,25,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,2,UPS (I-VIII),4,Government Aided,Urban,4,0,0,10,2,4,8,5,7,6,8,0,0,0,0,9,3,5,1,0,9,10,10,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,19,16,15,17,15,18,2,3,0,0,0,0,18,17,18,19,20,19,4,6,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,96,111,127,119,120,118,89,86,0,0,0,0,102,112,110,105,117,78,110,90,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,58,67,65,51,49,73,70,85,0,0,0,0,53,46,31,37,36,43,52,47,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,92,54,53,30,69,82,87,101,0,0,0,0,67,39,30,42,64,81,103,86,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,241,353,253,225,253,170,218,191,0,0,0,0,171,232,178,261,208,143,162,142,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,90,102,105,109,162,151,69,79,0,0,0,0,78,105,98,82,123,123,46,71,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,29,30,20,25,28,48,41,57,0,0,0,0,22,19,22,21,43,60,64,75,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,79,70,82,61,89,93,92,64,0,0,0,0,82,90,102,75,91,114,91,97,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,12,22,7,14,136,132,220,193,0,0,0,0,14,13,8,12,132,118,124,181,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,5,10,5,10,5,10,5,10,0,0,0,0,10,15,10,15,10,15,10,15,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,0,12,21,0,0,0,0,0,0,0,0,0,0,24,15,0,0,0,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,0,36,42,21,26,22,15,14,6,0,0,0,0,28,33,19,10,21,11,16,6,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,17,19,40,32,0,0,0,0,0,0,0,0,19,21,31,21,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,0,132,128,156,126,120,98,113,100,0,0,0,0,139,142,122,116,126,112,98,94,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,2,UPS (I-VIII),93,Jawahar Navodaya Vidyalaya ,Rural,4,0,0,12,13,9,25,11,41,32,14,0,0,0,0,14,11,21,32,15,22,12,15,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,45,32,46,48,36,62,66,54,0,0,0,0,44,46,39,50,47,62,35,26,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,5,3,4,8,6,3,7,9,0,0,0,0,7,8,6,8,4,9,6,8,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,88,91,67,68,63,69,64,56,0,0,0,0,70,65,49,68,51,86,42,29,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,287,274,295,259,218,191,179,207,0,0,0,0,256,180,194,175,158,117,107,114,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,277,122,140,127,122,97,105,64,0,0,0,0,141,118,97,96,100,46,35,34,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,372,284,289,276,270,249,249,282,0,0,0,0,267,224,143,211,200,165,180,160,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,4,0,0,58,44,47,42,36,15,13,15,0,0,0,0,12,14,9,10,7,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,4,0,0,8,7,8,9,9,7,7,7,0,0,0,0,5,6,4,5,6,5,6,5,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,4,0,0,36,30,19,17,10,7,5,9,0,0,0,0,29,15,13,12,9,5,6,11,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,4,0,0,175,148,104,129,103,94,127,116,0,0,0,0,176,124,112,93,139,87,148,106,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,4,0,0,18,11,10,15,18,14,12,12,0,0,0,0,12,7,12,11,8,8,11,16,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,4,0,0,54,63,85,75,85,56,62,74,0,0,0,0,40,22,46,35,22,36,44,56,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,2,UPS (I-VIII),98,Madarsa unrecognized,Urban,4,0,0,20,16,12,10,12,10,9,6,0,0,0,0,14,9,10,8,8,6,4,4,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,2,UPS (I-VIII),98,Madarsa unrecognized,Urban,4,0,0,155,183,231,161,191,153,140,128,0,0,0,0,109,172,136,144,170,94,139,140,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,465,433,382,0,0,0,0,0,0,0,0,0,570,473,452,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,353,319,313,0,0,0,0,0,0,0,0,0,359,351,354,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,212,222,195,0,0,0,0,0,0,0,0,0,254,241,209,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,213,203,212,0,0,0,0,0,0,0,0,0,188,186,233,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,361,365,371,0,0,0,0,0,0,0,0,0,384,452,356,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,421,385,351,0,0,0,0,0,0,0,0,0,491,430,439,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,401,366,379,0,0,0,0,0,0,0,0,0,398,404,379,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,412,257,246,0,0,0,0,0,0,0,0,0,320,255,241,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,331,351,306,0,0,0,0,0,0,0,0,0,439,430,364,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,16,11,7,0,0,0,0,0,0,0,0,0,26,15,16,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,14,23,12,0,0,0,0,0,0,0,0,0,20,18,27,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,15,19,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,32,14,15,0,0,0,0,0,0,0,0,0,32,23,16,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,32,4,4,0,0,0,0,0,0,0,0,0,15,4,6,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,23,13,22,0,0,0,0,0,0,0,0,0,30,24,30,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,12,6,8,0,0,0,0,0,0,0,0,0,2,6,5,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,92,121,124,0,0,0,0,0,0,0,0,0,93,129,172,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96201,RATANPURA,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,629,590,564,0,0,0,0,0,0,0,0,0,683,533,609,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,352,365,297,0,0,0,0,0,0,0,0,0,514,512,559,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,86,108,105,0,0,0,0,0,0,0,0,0,129,133,163,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,5,14,10,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,123,157,142,0,0,0,0,0,0,0,0,0,192,209,294,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,118,110,124,0,0,0,0,0,0,0,0,0,137,122,112,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,215,246,264,0,0,0,0,0,0,0,0,0,274,358,418,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,132,179,169,0,0,0,0,0,0,0,0,0,174,215,184,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,138,169,154,0,0,0,0,0,0,0,0,0,196,188,221,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,4,UPS (VI-VIII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,92,78,78,0,0,0,0,0,0,0,0,0,88,83,85,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,4,UPS (VI-VIII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,20,11,9,0,0,0,0,0,0,0,0,0,22,6,18,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,4,UPS (VI-VIII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,45,23,36,0,0,0,0,0,0,0,0,0,48,33,12,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,4,UPS (VI-VIII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,30,27,38,0,0,0,0,0,0,0,0,0,161,167,178,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,160,161,168,0,0,0,0,0,0,0,0,0,160,159,170,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,135,118,113,0,0,0,0,0,0,0,0,0,150,127,99,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96204,PARDAHA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,128,98,88,0,0,0,0,0,0,0,0,0,92,129,109,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,21,32,48,0,0,0,0,0,0,0,0,0,12,19,18,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96206,RANIPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,241,231,261,0,0,0,0,0,0,0,0,0,155,208,213,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96207,BADRAW,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,235,226,211,0,0,0,0,0,0,0,0,0,201,211,161,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96208,FATEHPUR MANDAON,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,65,79,79,0,0,0,0,0,0,0,0,0,123,102,100,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96209,KOPAGANG,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,215,190,204,0,0,0,0,0,0,0,0,0,178,150,163,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96202,MOHAMMADABAD,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,21,12,26,0,0,0,0,0,0,0,0,0,25,25,25,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96203,DOHRIGHAT,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,17,28,45,0,0,0,0,0,0,0,0,0,6,25,18,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96205,GHOSI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,31,29,33,0,0,0,0,0,0,0,0,0,13,18,16,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,962,MAU,96210,NAGAR KSHETRA MAU,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,11,26,0,0,0,0,0,0,0,0,0,0,24,32,0,0,0,0,OBC

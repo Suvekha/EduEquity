@@ -1,0 +1,781 @@
+ac_year,state_code,state_name,district_code,district_name,block_code,block_name,sch_category_id,category_name,sch_mgmt_id,sch_mgmt_name,loc_name,caste_id,pre_primary_boys,pre_primary_girls,class_1_boys,class_2_boys,class_3_boys,class_4_boys,class_5_boys,class_6_boys,class_7_boys,class_8_boys,class_9_boys,class_10_boys,class_11_boys,class_12_boys,class_1_girls,class_2_girls,class_3_girls,class_4_girls,class_5_girls,class_6_girls,class_7_girls,class_8_girls,class_9_girls,class_10_girls,class_11_girls,class_12_girls,caste_name
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,3,HSS (I-XII),3,Local body,Rural,1,0,0,0,0,0,0,6,4,2,7,3,4,9,12,0,0,0,0,6,5,3,6,9,3,6,5,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,3,HSS (I-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,109,117,144,184,246,215,294,271,0,0,0,0,95,104,138,202,180,196,262,283,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,3,HSS (I-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,17,12,8,17,15,23,12,16,0,0,0,0,15,11,16,17,16,22,10,24,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,3,HSS (I-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,36,52,50,82,96,62,83,85,0,0,0,0,34,42,45,83,97,63,99,95,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,3,HSS (I-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,78,85,97,137,130,156,203,230,0,0,0,0,43,56,70,95,140,148,168,198,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,3,HSS (I-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,43,44,45,78,99,68,125,126,0,0,0,0,34,29,38,77,68,93,110,112,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,3,HSS (I-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,27,24,30,27,55,37,54,64,0,0,0,0,22,25,33,34,25,47,67,59,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,3,HSS (I-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,36,60,54,52,72,53,110,126,0,0,0,0,40,34,42,35,89,62,87,93,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,3,HSS (I-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,95,76,79,96,125,117,121,99,0,0,0,0,73,70,69,97,119,99,108,120,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,3,HSS (I-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,62,73,80,139,108,104,118,156,0,0,0,0,51,63,74,108,124,118,141,130,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,3,HSS (I-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,21,29,28,40,42,43,43,46,0,0,0,0,28,39,42,44,66,54,54,50,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,3,HSS (I-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,47,52,54,59,75,59,205,181,0,0,0,0,58,55,66,75,80,105,193,188,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,3,HSS (I-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,29,51,53,48,52,67,114,126,0,0,0,0,16,33,33,57,56,62,98,114,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,3,HSS (I-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,16,17,26,43,52,43,106,106,0,0,0,0,27,28,22,39,48,51,97,108,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,3,HSS (I-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,48,55,55,97,81,104,65,59,0,0,0,0,50,67,69,88,73,73,52,60,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,42,41,49,22,39,40,5,7,0,0,0,0,32,32,24,30,34,29,17,6,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,112,83,50,33,32,41,23,23,30,23,12,22,5,2,45,25,16,18,23,9,20,12,8,6,7,1,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,24,25,5,13,0,0,0,7,12,0,0,0,0,0,10,7,0,0,0,2,7,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,23,18,30,21,26,43,29,36,31,28,81,61,20,11,6,19,28,30,15,16,19,26,81,61,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,3,5,4,6,6,3,5,8,6,2,3,4,2,3,1,5,5,6,5,4,3,1,3,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,19,22,57,38,0,0,0,0,0,0,0,0,12,10,35,16,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,72,54,28,40,0,0,0,0,0,0,0,0,27,32,20,31,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,7,22,9,28,34,0,0,0,0,0,0,0,8,10,12,14,16,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,8,4,9,8,7,0,0,0,0,0,0,0,13,12,11,5,10,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,17,28,24,17,23,0,0,0,0,0,0,0,28,37,29,29,44,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,7,9,10,12,11,5,10,0,0,0,0,0,5,9,12,11,15,13,11,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,6,8,15,9,6,0,0,0,0,0,0,0,10,17,7,12,6,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,4,4,5,6,5,0,0,0,0,0,0,0,3,3,3,12,3,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,1,2,1,3,0,0,0,0,0,0,0,0,2,3,2,4,2,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,16,48,36,40,51,0,0,0,0,0,0,0,25,23,35,77,57,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,6,3,9,7,9,0,0,0,0,0,0,0,7,6,11,7,4,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,80,68,61,72,73,0,0,0,0,0,0,0,58,52,41,65,69,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,5,3,5,0,0,4,0,0,0,0,0,0,3,2,4,0,0,4,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,22,23,12,9,0,0,0,0,0,0,0,0,15,7,14,2,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,1,1,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,7,12,9,0,1,0,0,0,0,0,0,0,6,5,5,6,2,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,37,40,42,32,52,0,0,0,0,0,0,0,28,36,31,21,37,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,13,10,4,3,4,0,0,0,0,0,0,0,9,7,3,5,6,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,63,66,56,55,52,0,0,0,0,0,0,0,56,62,39,34,34,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,94,97,61,47,29,0,0,0,0,0,0,0,50,50,49,39,34,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya,Rural,1,0,0,0,0,0,0,0,13,28,25,15,19,8,9,0,0,0,0,0,10,10,12,12,11,7,7,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,11,HSS (XI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,14,18,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,11,HSS (XI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,30,17,0,0,0,0,0,0,0,0,0,0,15,14,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,11,HSS (XI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,49,46,0,0,0,0,0,0,0,0,0,0,45,39,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,11,HSS (XI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,226,173,0,0,0,0,0,0,0,0,0,0,216,241,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,11,HSS (XI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,81,78,0,0,0,0,0,0,0,0,0,0,75,82,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,11,HSS (XI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,237,229,0,0,0,0,0,0,0,0,0,0,343,336,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,51,60,0,0,0,0,0,0,0,0,0,0,37,32,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,37,28,0,0,0,0,0,0,0,0,0,0,39,35,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,27,38,0,0,0,0,0,0,0,0,0,0,23,27,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,6,5,0,0,0,0,0,0,0,0,0,0,3,2,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,109,74,0,0,0,0,0,0,0,0,0,0,54,64,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,19,22,0,0,0,0,0,0,0,0,0,0,8,16,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,17,25,0,0,0,0,0,0,0,0,0,0,7,17,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,10,12,0,0,0,0,0,0,0,0,0,0,12,9,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,29,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,12,7,0,0,0,0,0,0,0,0,0,0,11,13,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,1,PS (I-V),3,Local body,Rural,1,0,0,56,47,56,70,6,0,0,0,0,0,0,0,55,59,75,72,8,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,1,PS (I-V),3,Local body,Rural,1,0,0,48,42,41,57,7,0,0,0,0,0,0,0,50,53,56,47,11,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,1,PS (I-V),3,Local body,Rural,1,0,0,13,21,19,9,4,0,0,0,0,0,0,0,18,15,24,16,1,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),3,Local body,Rural,1,0,0,62,53,63,87,62,0,0,0,0,0,0,0,76,81,98,81,48,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,1,PS (I-V),3,Local body,Rural,1,0,0,31,29,39,40,16,0,0,0,0,0,0,0,41,35,47,40,13,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,1,PS (I-V),3,Local body,Rural,1,0,0,38,44,44,36,28,0,0,0,0,0,0,0,59,54,58,43,23,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,1,PS (I-V),3,Local body,Rural,1,0,0,38,64,61,59,13,0,0,0,0,0,0,0,55,60,53,58,9,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,1,PS (I-V),3,Local body,Rural,1,0,0,100,84,87,100,13,0,0,0,0,0,0,0,80,84,84,81,11,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,1,PS (I-V),3,Local body,Rural,1,0,0,75,48,58,69,11,0,0,0,0,0,0,0,70,86,64,69,15,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,1,PS (I-V),3,Local body,Urban,1,0,0,4,4,5,4,0,0,0,0,0,0,0,0,2,3,5,6,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,1,PS (I-V),3,Local body,Urban,1,0,0,11,16,11,25,0,0,0,0,0,0,0,0,18,20,29,18,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),3,Local body,Urban,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,1,4,3,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,1,PS (I-V),3,Local body,Urban,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,3,4,5,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,1,PS (I-V),3,Local body,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,1,PS (I-V),3,Local body,Urban,1,0,0,11,9,11,6,3,0,0,0,0,0,0,0,11,15,26,17,1,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,1,PS (I-V),3,Local body,Urban,1,1,0,7,8,12,6,1,0,0,0,0,0,0,0,8,12,7,9,2,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,1,PS (I-V),4,Government Aided,Rural,1,50,49,53,49,51,49,0,0,0,0,0,0,0,0,45,67,43,50,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,1,PS (I-V),4,Government Aided,Rural,1,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,1,PS (I-V),4,Government Aided,Rural,1,0,0,3,1,3,4,0,0,0,0,0,0,0,0,4,4,2,3,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),4,Government Aided,Rural,1,0,0,10,6,16,9,0,0,0,0,0,0,0,0,8,9,9,9,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,1,PS (I-V),4,Government Aided,Rural,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,1,PS (I-V),4,Government Aided,Rural,1,0,0,5,4,4,1,0,0,0,0,0,0,0,0,3,3,1,1,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,1,PS (I-V),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,1,PS (I-V),4,Government Aided,Urban,1,6,2,42,64,62,74,0,0,0,0,0,0,0,0,47,56,59,63,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,1,PS (I-V),4,Government Aided,Urban,1,0,0,25,22,23,27,0,0,0,0,0,0,0,0,27,28,18,21,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),4,Government Aided,Urban,1,0,0,17,9,9,13,0,0,0,0,0,0,0,0,16,15,9,14,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,1,PS (I-V),4,Government Aided,Urban,1,219,253,121,140,138,124,0,0,0,0,0,0,0,0,164,177,186,176,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,103,69,116,136,123,159,9,0,0,0,0,0,0,0,101,102,90,108,6,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,43,20,18,18,14,13,0,0,0,0,0,0,0,0,8,8,10,5,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,45,52,23,15,17,22,1,0,0,0,0,0,0,0,19,15,15,22,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,45,37,40,26,20,25,11,0,0,0,0,0,0,0,25,28,21,15,10,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,10,11,3,5,1,0,0,0,0,0,0,0,9,12,6,6,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,6,4,5,3,8,1,0,0,0,0,0,0,0,0,3,4,6,3,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,6,3,7,3,3,6,5,0,0,0,0,0,0,0,7,2,2,2,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,26,31,87,89,96,88,6,0,0,0,0,0,0,0,57,59,52,63,6,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,9,7,10,5,4,0,0,0,0,0,0,0,0,0,6,2,0,0,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,85,85,89,60,28,0,0,0,0,0,0,0,96,110,77,81,43,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,8,10,8,11,10,0,0,0,0,0,0,0,11,11,10,10,10,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,20,7,10,6,0,0,0,0,0,0,0,0,41,37,26,29,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,0,0,2,4,3,0,0,0,0,0,0,0,0,0,0,6,1,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,7,6,69,55,49,45,2,0,0,0,0,0,0,0,58,49,44,52,2,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,1,PS (I-V),8,Unrecognized,Rural,1,0,0,12,14,0,0,0,0,0,0,0,0,0,0,5,4,0,0,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,1,13,17,6,6,0,0,0,0,0,0,0,0,0,0,5,2,0,0,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),98,Madarsa unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,6,SS (I-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,1,2,1,1,1,3,0,0,0,0,0,0,1,1,1,2,3,4,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,6,SS (I-X),4,Government Aided,Rural,1,0,0,0,0,0,0,60,55,72,92,86,100,0,0,0,0,0,0,48,53,87,85,73,80,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,6,SS (I-X),4,Government Aided,Rural,1,0,0,0,0,0,0,39,50,56,82,74,98,0,0,0,0,0,0,43,42,42,98,89,80,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,6,SS (I-X),4,Government Aided,Rural,1,0,0,0,0,0,0,4,10,8,12,15,15,0,0,0,0,0,0,4,6,12,7,11,18,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,6,SS (I-X),4,Government Aided,Rural,1,0,0,0,0,0,0,41,66,77,80,84,68,0,0,0,0,0,0,23,21,52,38,49,48,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,6,SS (I-X),4,Government Aided,Rural,1,0,0,0,0,0,0,9,7,11,20,13,12,0,0,0,0,0,0,11,9,9,10,15,27,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,6,SS (I-X),4,Government Aided,Rural,1,0,0,0,0,0,0,35,38,39,42,56,53,0,0,0,0,0,0,24,31,50,49,73,50,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,6,SS (I-X),4,Government Aided,Rural,1,0,0,0,0,0,0,5,8,14,8,21,16,0,0,0,0,0,0,8,3,11,11,15,18,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,6,SS (I-X),4,Government Aided,Rural,1,0,0,0,0,0,0,23,27,25,53,53,38,0,0,0,0,0,0,25,23,30,36,54,46,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,6,SS (I-X),4,Government Aided,Rural,1,0,0,0,0,0,0,27,31,26,64,66,65,0,0,0,0,0,0,21,19,23,40,47,60,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,6,SS (I-X),4,Government Aided,Urban,1,0,0,0,0,0,0,36,51,53,59,62,85,0,0,0,0,0,0,48,42,56,54,74,73,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,6,SS (I-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,37,28,36,39,49,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,6,SS (I-X),4,Government Aided,Urban,1,0,0,0,0,0,0,112,115,92,152,150,163,0,0,0,0,0,0,159,174,181,262,244,220,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,34,31,23,30,25,28,94,106,100,84,120,96,0,0,22,23,29,23,66,69,72,79,63,58,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,15,13,30,29,22,32,27,25,20,20,24,9,0,0,28,20,19,19,18,18,17,17,13,8,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,10,8,15,13,9,13,10,8,14,12,19,12,0,0,10,9,6,5,7,6,3,8,13,5,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,78,56,13,10,7,13,6,10,8,6,5,0,0,0,9,8,9,7,2,7,4,5,4,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,5,15,3,2,4,3,4,4,5,1,1,0,0,0,2,1,5,3,0,6,0,1,1,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,110,97,94,96,90,71,119,125,95,99,115,63,0,0,65,67,63,70,94,85,111,73,98,57,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,21,14,18,10,13,13,3,1,3,4,0,0,9,13,9,11,6,5,2,2,1,1,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,0,0,1,5,7,1,18,19,25,34,24,14,0,0,1,5,2,3,13,24,23,15,13,13,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,11,6,20,19,20,21,19,17,8,19,12,6,0,0,10,11,11,11,8,7,4,6,7,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,19,17,35,37,44,40,0,0,0,0,0,0,24,14,15,21,29,21,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,6,SS (I-X),92,Kendriya Vidyalaya / Central School,Rural,1,31,19,12,11,8,9,4,6,7,5,3,1,0,0,0,7,4,6,6,0,8,1,3,1,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,6,SS (I-X),98,Madarsa unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,20,24,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,20,20,0,0,0,0,0,0,0,0,0,0,15,10,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,7,7,0,0,0,0,0,0,0,0,0,0,3,7,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,8,SS (IX-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,37,31,0,0,0,0,0,0,0,0,0,0,21,18,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,74,72,95,0,0,0,0,0,0,0,0,0,68,74,83,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,1,0,38,37,30,0,0,0,0,0,0,0,1,0,37,21,31,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,10,24,24,0,0,0,0,0,0,0,0,0,13,13,15,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,1,2,68,72,78,0,0,0,0,0,0,0,1,2,83,70,73,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,35,47,57,0,0,0,0,0,0,0,0,0,55,60,63,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,44,39,40,0,0,0,0,0,0,0,0,0,42,42,54,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,2,0,74,87,103,0,0,0,0,0,0,0,1,2,105,110,111,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,26,40,29,0,0,0,0,0,0,0,0,0,36,43,38,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,52,41,54,0,0,0,0,0,0,0,0,0,34,51,41,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,7,SS (VI-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,2,10,5,0,0,0,0,0,0,0,0,0,3,3,5,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,7,SS (VI-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,3,3,4,0,0,0,0,0,0,0,0,0,2,0,1,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,27,14,15,0,0,0,0,0,0,0,0,0,16,12,13,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,1,3,2,0,0,0,0,0,0,0,0,0,4,3,1,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,9,22,21,0,0,0,0,0,0,0,0,0,14,15,16,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,7,7,8,0,0,0,0,0,0,0,0,0,4,7,4,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,47,64,41,0,0,0,0,0,0,0,0,0,46,52,42,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,48,41,52,0,0,0,0,0,0,0,0,0,22,29,19,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,12,25,15,0,0,0,0,0,0,0,0,0,20,17,13,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,79,92,97,0,0,0,0,0,0,0,0,0,73,70,68,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,16,21,22,0,0,0,0,0,0,0,0,0,17,13,12,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,52,51,42,0,0,0,0,0,0,0,0,0,31,43,46,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,7,SS (VI-X),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,2,UPS (I-VIII),3,Local body,Rural,1,0,0,54,63,69,86,69,90,92,5,0,0,0,0,84,83,96,92,104,130,119,8,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,2,UPS (I-VIII),3,Local body,Rural,1,0,0,62,77,107,84,73,87,74,7,0,0,0,0,57,76,101,90,92,78,115,12,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,2,UPS (I-VIII),3,Local body,Rural,1,0,0,39,39,48,48,48,48,59,16,0,0,0,0,44,54,36,51,65,66,61,29,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,2,UPS (I-VIII),3,Local body,Rural,1,0,0,61,87,73,83,85,109,80,4,0,0,0,0,77,89,109,93,106,122,122,18,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,2,UPS (I-VIII),3,Local body,Rural,1,0,0,68,73,82,72,62,96,73,7,0,0,0,0,76,83,89,84,64,85,98,6,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,2,UPS (I-VIII),3,Local body,Rural,1,0,0,34,40,46,42,49,50,43,0,0,0,0,0,34,37,45,53,54,51,67,1,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,2,UPS (I-VIII),3,Local body,Rural,1,0,0,69,70,68,82,76,94,90,0,0,0,0,0,62,87,63,86,73,87,85,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,2,UPS (I-VIII),3,Local body,Rural,1,0,0,79,66,64,103,95,74,88,3,0,0,0,0,92,103,119,107,108,105,110,1,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,2,UPS (I-VIII),3,Local body,Rural,1,0,0,84,68,67,90,72,87,81,5,0,0,0,0,77,76,78,100,73,89,84,5,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,2,UPS (I-VIII),3,Local body,Urban,1,0,0,12,5,21,21,17,21,14,0,0,0,0,0,14,13,17,15,29,17,35,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,2,UPS (I-VIII),3,Local body,Urban,1,0,0,3,3,3,2,4,7,1,0,0,0,0,0,1,2,1,4,3,2,7,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,2,UPS (I-VIII),3,Local body,Urban,1,0,0,0,1,2,1,3,1,1,0,0,0,0,0,1,4,1,2,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,2,UPS (I-VIII),3,Local body,Urban,1,0,0,2,0,3,1,1,1,2,0,0,0,0,0,1,2,1,2,0,0,1,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,2,UPS (I-VIII),3,Local body,Urban,1,0,0,13,6,12,8,10,7,9,0,0,0,0,0,4,7,8,6,2,4,4,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,2,UPS (I-VIII),3,Local body,Urban,1,11,11,42,44,62,71,48,55,42,13,0,0,0,0,44,58,48,70,58,64,55,24,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,1,1,3,5,3,4,3,0,0,0,0,0,2,2,6,0,3,5,5,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,19,24,20,1,0,0,0,0,0,0,0,0,14,13,8,2,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,2,UPS (I-VIII),4,Government Aided,Urban,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,2,UPS (I-VIII),4,Government Aided,Urban,1,0,0,0,0,3,0,1,4,1,0,0,0,0,0,0,1,1,2,0,3,1,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,2,UPS (I-VIII),4,Government Aided,Urban,1,0,3,1,1,2,1,2,0,1,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,49,49,120,118,132,146,140,109,121,22,0,0,0,0,85,94,114,112,100,101,103,38,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,9,9,4,3,9,2,2,4,3,5,0,0,0,0,8,2,6,4,4,3,2,6,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,3,4,3,4,9,7,4,7,6,0,0,0,0,0,5,6,5,7,2,9,5,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,10,4,50,43,60,39,45,38,54,24,0,0,0,0,39,34,30,30,29,23,16,13,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,5,5,6,7,10,5,4,5,0,0,0,0,3,4,1,4,3,1,3,2,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,11,10,23,15,14,16,7,12,10,11,0,0,0,0,14,16,10,19,6,4,6,7,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,19,26,19,29,26,26,22,0,0,0,0,0,21,20,24,13,17,14,12,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,50,44,97,119,120,115,102,92,94,31,0,0,0,0,79,105,87,84,71,85,63,21,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,58,41,52,45,67,50,50,50,51,13,0,0,0,0,54,50,55,50,32,49,37,15,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,6,9,57,59,80,72,118,107,106,33,0,0,0,0,56,46,57,67,90,80,57,26,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,25,13,76,57,88,63,105,81,88,0,0,0,0,0,62,58,67,64,65,68,73,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,0,0,138,146,155,134,116,138,145,53,0,0,0,0,85,95,111,110,125,89,96,45,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,0,0,13,20,22,10,21,16,21,0,0,0,0,0,8,11,13,13,9,8,11,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,0,0,6,4,6,5,2,3,3,0,0,0,0,0,6,4,5,0,1,2,0,1,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,280,212,104,130,140,166,140,181,149,0,0,0,0,0,86,97,109,116,101,82,120,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,1,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,4,UPS (VI-VIII),3,Local body,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,3,HSS (I-XII),3,Local body,Rural,2,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,0,1,1,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,3,HSS (I-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,41,36,47,59,77,86,102,92,0,0,0,0,29,27,38,68,78,77,95,83,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,3,HSS (I-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,7,9,11,16,12,23,18,10,0,0,0,0,7,7,15,10,11,25,14,19,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,3,HSS (I-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,20,18,26,35,25,37,48,59,0,0,0,0,11,16,8,30,33,30,42,61,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,3,HSS (I-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,17,24,37,44,44,41,69,69,0,0,0,0,18,21,29,38,46,52,63,47,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,3,HSS (I-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,8,14,21,26,30,31,45,43,0,0,0,0,14,11,9,26,37,20,59,42,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,3,HSS (I-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,11,11,10,12,11,18,31,36,0,0,0,0,7,8,7,11,11,13,27,30,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,3,HSS (I-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,13,14,15,16,20,21,24,18,0,0,0,0,11,17,15,20,19,13,19,15,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,3,HSS (I-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,22,32,28,45,52,70,56,69,0,0,0,0,28,27,39,49,65,48,54,62,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,3,HSS (I-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,23,23,40,44,63,56,73,52,0,0,0,0,23,24,34,64,58,55,68,62,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,3,HSS (I-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,3,HSS (I-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,18,12,12,26,22,31,34,20,0,0,0,0,11,15,10,32,33,27,24,17,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,3,HSS (I-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,10,12,12,11,21,23,43,53,0,0,0,0,7,11,10,21,18,20,46,47,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,3,HSS (I-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,2,1,1,5,7,7,10,14,0,0,0,0,1,3,2,2,3,5,9,7,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,3,HSS (I-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,16,13,15,15,21,23,17,29,0,0,0,0,15,13,11,15,15,13,17,7,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,4,3,3,5,1,3,1,2,0,0,0,0,2,1,1,3,2,2,1,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,2,0,0,0,1,0,0,0,0,1,3,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,1,4,3,4,7,8,5,10,3,4,14,8,5,5,8,1,6,8,3,3,6,5,19,15,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,1,0,0,1,2,1,2,0,2,2,0,0,2,3,2,2,3,3,2,3,1,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,2,1,6,1,0,0,0,0,0,0,0,0,2,1,7,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,6,9,1,1,0,0,0,0,0,0,0,0,8,5,1,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,4,5,10,11,9,0,0,0,0,0,0,0,6,5,10,9,8,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,1,0,2,3,1,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,5,4,11,3,2,0,0,0,0,0,0,0,4,1,6,4,2,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,4,5,2,4,3,0,0,0,0,0,0,0,6,8,3,1,2,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,3,3,8,3,7,0,0,0,0,0,0,0,6,5,6,7,6,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,1,3,3,2,4,0,0,0,0,0,0,0,3,7,4,0,2,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,7,9,8,3,4,0,0,0,0,0,0,0,4,1,4,2,3,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,1,3,2,0,0,0,0,0,0,0,0,0,4,2,1,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,1,0,0,2,6,2,7,0,0,0,0,0,0,1,2,4,0,1,5,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,2,0,1,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,2,1,5,1,3,0,0,0,0,0,0,0,2,6,3,3,5,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya,Rural,2,0,0,0,0,0,0,0,12,8,8,9,7,4,1,0,0,0,0,0,5,6,5,4,7,3,1,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,11,HSS (XI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,4,5,0,0,0,0,0,0,0,0,0,0,1,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,11,HSS (XI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,10,7,0,0,0,0,0,0,0,0,0,0,9,6,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,11,HSS (XI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,28,20,0,0,0,0,0,0,0,0,0,0,23,27,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,11,HSS (XI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,57,76,0,0,0,0,0,0,0,0,0,0,63,77,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,11,HSS (XI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,20,16,0,0,0,0,0,0,0,0,0,0,14,12,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,11,HSS (XI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,69,58,0,0,0,0,0,0,0,0,0,0,66,76,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,9,13,0,0,0,0,0,0,0,0,0,0,8,6,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,5,4,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,4,5,0,0,0,0,0,0,0,0,0,0,4,5,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,3,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,6,19,0,0,0,0,0,0,0,0,0,0,9,8,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,9,12,0,0,0,0,0,0,0,0,0,0,11,7,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,15,16,0,0,0,0,0,0,0,0,0,0,17,18,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,10,17,0,0,0,0,0,0,0,0,0,0,9,4,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,2,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,1,PS (I-V),3,Local body,Rural,2,0,0,40,37,48,38,3,0,0,0,0,0,0,0,31,37,38,56,4,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,1,PS (I-V),3,Local body,Rural,2,0,0,27,21,24,14,7,0,0,0,0,0,0,0,22,29,27,14,10,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,1,PS (I-V),3,Local body,Rural,2,0,0,10,11,13,12,1,0,0,0,0,0,0,0,8,12,7,10,5,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),3,Local body,Rural,2,0,0,38,36,42,44,24,0,0,0,0,0,0,0,47,46,49,41,20,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,1,PS (I-V),3,Local body,Rural,2,0,0,15,16,11,14,4,0,0,0,0,0,0,0,12,9,9,17,1,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,1,PS (I-V),3,Local body,Rural,2,0,0,16,21,11,20,12,0,0,0,0,0,0,0,12,17,26,24,10,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,1,PS (I-V),3,Local body,Rural,2,0,0,11,17,11,19,2,0,0,0,0,0,0,0,11,13,13,11,1,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,1,PS (I-V),3,Local body,Rural,2,0,0,32,25,44,29,2,0,0,0,0,0,0,0,38,42,31,26,3,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,1,PS (I-V),3,Local body,Rural,2,0,0,22,34,32,30,10,0,0,0,0,0,0,0,35,30,23,46,7,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,1,PS (I-V),3,Local body,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,1,PS (I-V),3,Local body,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),3,Local body,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,1,PS (I-V),3,Local body,Urban,2,0,0,1,3,2,5,0,0,0,0,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,1,PS (I-V),3,Local body,Urban,2,0,0,4,1,3,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,1,PS (I-V),3,Local body,Urban,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,1,PS (I-V),3,Local body,Urban,2,1,1,0,2,0,3,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,1,PS (I-V),4,Government Aided,Rural,2,15,11,21,11,11,20,0,0,0,0,0,0,0,0,17,11,17,9,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,1,PS (I-V),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,1,PS (I-V),4,Government Aided,Rural,2,0,0,2,1,3,1,0,0,0,0,0,0,0,0,4,2,1,1,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),4,Government Aided,Rural,2,0,0,1,1,0,2,0,0,0,0,0,0,0,0,1,2,0,2,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,1,PS (I-V),4,Government Aided,Rural,2,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,1,PS (I-V),4,Government Aided,Rural,2,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,3,2,1,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,1,PS (I-V),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,1,PS (I-V),4,Government Aided,Urban,2,2,4,12,14,12,15,0,0,0,0,0,0,0,0,8,9,16,12,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,1,PS (I-V),4,Government Aided,Urban,2,0,0,11,18,9,17,0,0,0,0,0,0,0,0,13,8,7,8,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),4,Government Aided,Urban,2,0,0,6,6,9,7,0,0,0,0,0,0,0,0,3,4,8,4,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,1,PS (I-V),4,Government Aided,Urban,2,18,10,12,15,8,19,0,0,0,0,0,0,0,0,23,8,10,12,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,10,5,22,20,16,20,0,0,0,0,0,0,0,0,10,15,10,18,1,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,9,8,0,4,1,7,2,0,0,0,0,0,0,0,4,4,5,3,2,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,4,3,0,3,1,5,0,0,0,0,0,0,0,0,2,0,2,3,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,2,2,1,3,0,0,0,0,0,0,0,0,3,7,2,3,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,8,3,4,1,0,0,0,0,0,0,0,0,6,5,1,2,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,1,4,12,11,6,6,0,0,0,0,0,0,0,0,8,3,8,6,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,1,PS (I-V),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,6,SS (I-X),2,Tribal Welfare Department,Rural,2,0,0,1,0,1,1,0,6,4,3,4,8,0,0,0,1,0,0,0,2,4,5,1,5,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,6,SS (I-X),4,Government Aided,Rural,2,0,0,0,0,0,0,15,27,22,50,46,50,0,0,0,0,0,0,28,30,38,27,51,33,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,6,SS (I-X),4,Government Aided,Rural,2,0,0,0,0,0,0,4,13,9,17,25,17,0,0,0,0,0,0,6,3,11,18,22,22,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,6,SS (I-X),4,Government Aided,Rural,2,0,0,0,0,0,0,4,2,2,3,2,8,0,0,0,0,0,0,1,1,4,2,5,7,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,6,SS (I-X),4,Government Aided,Rural,2,0,0,0,0,0,0,8,3,11,15,8,10,0,0,0,0,0,0,4,5,6,13,11,13,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,6,SS (I-X),4,Government Aided,Rural,2,0,0,0,0,0,0,7,3,3,5,10,5,0,0,0,0,0,0,2,3,3,1,3,5,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,6,SS (I-X),4,Government Aided,Rural,2,0,0,0,0,0,0,2,3,3,7,4,20,0,0,0,0,0,0,6,5,2,5,5,18,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,6,SS (I-X),4,Government Aided,Rural,2,0,0,0,0,0,0,3,2,5,5,5,4,0,0,0,0,0,0,4,5,4,6,5,9,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,6,SS (I-X),4,Government Aided,Rural,2,0,0,0,0,0,0,10,17,11,20,19,13,0,0,0,0,0,0,16,18,18,15,29,21,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,6,SS (I-X),4,Government Aided,Rural,2,0,0,0,0,0,0,12,17,19,14,21,23,0,0,0,0,0,0,9,9,12,16,28,16,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,6,SS (I-X),4,Government Aided,Urban,2,0,0,0,0,0,0,11,25,19,25,23,23,0,0,0,0,0,0,13,12,28,24,25,27,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,6,SS (I-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,6,SS (I-X),4,Government Aided,Urban,2,0,0,0,0,0,0,17,12,20,32,50,22,0,0,0,0,0,0,17,10,14,29,38,27,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,17,6,7,5,8,7,8,5,6,11,5,10,0,0,6,5,5,2,8,4,5,10,5,4,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,2,3,8,5,6,3,4,5,4,2,3,2,0,0,7,5,9,3,5,1,2,0,0,1,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,5,3,9,9,9,5,3,3,0,4,6,4,0,0,4,1,1,1,3,0,1,2,3,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,16,7,4,2,3,1,1,2,0,0,0,0,0,0,2,1,2,0,0,2,1,1,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,3,2,4,2,1,4,2,0,1,3,0,0,0,2,0,1,0,0,1,0,0,1,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,8,5,13,10,15,13,12,18,13,18,18,10,0,0,10,12,15,16,10,12,10,13,10,11,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,4,5,1,2,2,2,1,0,0,0,0,0,3,3,3,0,2,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,0,0,1,1,2,1,2,0,3,3,3,3,0,0,0,0,1,1,0,1,2,4,1,1,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,3,1,1,3,3,11,4,2,1,1,0,0,0,0,5,5,4,3,2,0,4,3,3,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,4,3,5,3,5,4,0,0,0,0,0,0,1,1,0,4,3,3,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,6,SS (I-X),92,Kendriya Vidyalaya / Central School,Rural,2,4,3,3,0,1,1,1,2,1,1,0,0,0,0,0,0,0,2,0,1,0,1,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,6,SS (I-X),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,10,5,0,0,0,0,0,0,0,0,0,0,2,5,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,8,SS (IX-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,26,30,22,0,0,0,0,0,0,0,0,0,31,15,29,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,17,19,20,0,0,0,0,0,0,0,0,1,19,20,31,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,15,16,16,0,0,0,0,0,0,0,0,0,14,12,12,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,12,3,35,37,37,0,0,0,0,0,0,0,4,11,39,33,37,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,12,9,20,0,0,0,0,0,0,0,0,0,14,17,17,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,11,9,13,0,0,0,0,0,0,0,0,0,16,13,13,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,2,0,17,15,20,0,0,0,0,0,0,0,0,0,14,16,19,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,16,13,9,0,0,0,0,0,0,0,0,0,17,12,14,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,25,41,33,0,0,0,0,0,0,0,0,0,37,47,39,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,7,SS (VI-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,2,4,3,0,0,0,0,0,0,0,0,0,3,14,9,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,7,SS (VI-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,3,4,13,0,0,0,0,0,0,0,0,0,1,3,2,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,1,1,6,0,0,0,0,0,0,0,0,0,4,6,3,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,1,1,1,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,16,17,9,0,0,0,0,0,0,0,0,0,14,9,14,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,1,7,4,0,0,0,0,0,0,0,0,0,0,2,3,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,1,3,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,3,8,4,0,0,0,0,0,0,0,0,0,3,2,2,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,5,1,5,0,0,0,0,0,0,0,0,0,2,2,2,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,9,10,7,0,0,0,0,0,0,0,0,0,4,3,5,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,7,SS (VI-X),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,2,UPS (I-VIII),3,Local body,Rural,2,0,0,49,45,51,51,55,59,76,6,0,0,0,0,48,59,46,64,62,63,70,5,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,2,UPS (I-VIII),3,Local body,Rural,2,0,0,25,23,18,21,29,29,36,2,0,0,0,0,26,20,24,32,29,32,37,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,2,UPS (I-VIII),3,Local body,Rural,2,0,0,22,25,30,24,21,24,24,1,0,0,0,0,24,27,33,31,23,21,33,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,2,UPS (I-VIII),3,Local body,Rural,2,0,0,36,46,39,42,59,58,53,4,0,0,0,0,43,37,44,38,55,54,62,3,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,2,UPS (I-VIII),3,Local body,Rural,2,0,0,29,27,39,29,32,40,51,0,0,0,0,0,29,27,22,29,24,32,40,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,2,UPS (I-VIII),3,Local body,Rural,2,0,0,7,17,15,8,15,23,29,0,0,0,0,0,10,10,13,16,16,21,19,4,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,2,UPS (I-VIII),3,Local body,Rural,2,0,0,12,12,17,17,9,19,15,0,0,0,0,0,12,16,16,17,17,21,23,1,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,2,UPS (I-VIII),3,Local body,Rural,2,0,0,37,32,38,30,21,13,39,0,0,0,0,0,23,36,36,35,37,36,41,1,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,2,UPS (I-VIII),3,Local body,Rural,2,0,0,38,46,44,59,47,54,76,2,0,0,0,0,43,53,43,48,31,46,60,4,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,2,UPS (I-VIII),3,Local body,Urban,2,0,0,3,5,3,6,3,7,4,0,0,0,0,0,2,4,5,4,3,8,3,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,2,UPS (I-VIII),3,Local body,Urban,2,0,0,1,1,0,1,3,2,8,0,0,0,0,0,0,0,1,3,5,4,1,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,2,UPS (I-VIII),3,Local body,Urban,2,0,0,0,1,2,0,0,0,1,0,0,0,0,0,2,1,3,2,1,1,1,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,2,UPS (I-VIII),3,Local body,Urban,2,0,0,0,0,0,0,2,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,2,UPS (I-VIII),3,Local body,Urban,2,0,0,1,2,2,2,0,1,2,0,0,0,0,0,2,4,2,1,1,4,1,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,2,UPS (I-VIII),3,Local body,Urban,2,4,5,11,12,11,20,8,14,11,0,0,0,0,0,16,9,9,15,13,16,9,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,1,1,1,1,3,2,2,0,0,0,0,0,0,2,0,2,1,2,1,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,2,UPS (I-VIII),4,Government Aided,Urban,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,2,UPS (I-VIII),4,Government Aided,Urban,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,2,UPS (I-VIII),4,Government Aided,Urban,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,17,11,22,23,13,10,12,8,13,8,0,0,0,0,32,16,8,10,6,11,4,3,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,5,2,3,0,0,1,0,0,0,0,0,0,0,0,5,2,0,1,1,1,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,5,7,9,9,5,10,7,6,3,0,0,0,0,0,7,7,5,7,4,0,1,2,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,1,0,2,3,0,0,0,0,0,0,0,0,2,1,0,1,1,3,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,1,13,4,6,3,3,3,1,1,1,0,0,0,0,4,1,1,3,3,1,2,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,3,0,3,1,2,0,2,0,0,0,0,0,1,0,1,1,0,1,1,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,13,5,8,14,7,7,13,13,10,2,0,0,0,0,6,16,8,9,8,11,8,1,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,6,4,3,4,7,4,2,3,2,0,0,0,0,0,1,2,4,6,0,2,2,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,5,8,8,6,7,7,1,8,5,3,0,0,0,0,5,6,6,9,1,6,7,1,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,3,5,2,4,3,6,1,1,4,0,0,0,0,0,3,5,3,2,0,1,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,0,5,5,9,7,6,8,8,6,0,0,0,0,8,7,9,5,5,8,10,6,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,0,4,5,2,1,2,4,3,0,0,0,0,0,5,3,2,5,4,4,3,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,0,3,1,1,1,3,0,2,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,9,16,6,7,5,2,5,4,5,0,0,0,0,0,5,5,6,4,6,4,3,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,4,UPS (VI-VIII),3,Local body,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,3,HSS (I-XII),3,Local body,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,3,HSS (I-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,3,8,12,8,9,9,6,5,0,0,0,0,7,8,8,6,1,4,2,2,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,3,HSS (I-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,1,1,6,2,2,1,9,0,0,0,0,5,6,1,6,1,1,1,2,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,3,HSS (I-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,2,0,2,2,6,2,3,0,0,0,0,1,2,3,3,7,7,1,1,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,3,HSS (I-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,12,6,5,13,15,13,4,5,0,0,0,0,4,6,6,7,9,6,9,5,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,3,HSS (I-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,3,2,0,1,0,1,0,1,0,0,0,0,3,0,2,0,2,0,1,2,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,3,HSS (I-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,3,5,6,6,2,2,5,5,0,0,0,0,3,2,7,3,3,3,2,2,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,3,HSS (I-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,3,1,0,2,3,0,1,1,0,0,0,0,0,1,2,2,3,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,3,HSS (I-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,1,0,2,1,2,1,3,1,0,0,0,0,2,3,2,2,1,2,1,1,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,3,HSS (I-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,2,0,5,6,2,2,2,3,0,0,0,0,2,5,5,6,4,4,1,1,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,3,HSS (I-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,3,HSS (I-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,1,8,3,2,4,4,1,4,0,0,0,0,2,2,1,2,2,4,1,1,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,3,HSS (I-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,2,0,1,1,2,0,3,3,0,0,0,0,1,2,1,1,1,3,2,3,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,3,HSS (I-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,1,0,1,1,1,2,2,0,0,0,0,0,0,0,0,0,1,2,2,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,3,HSS (I-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,3,0,4,2,4,6,3,2,0,0,0,0,0,0,0,3,0,2,1,1,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,1,1,0,1,1,1,2,0,1,0,1,3,0,0,2,0,0,0,0,1,0,1,3,1,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,3,0,2,0,1,0,0,0,0,0,0,0,4,2,0,1,1,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,1,5,5,3,2,0,0,0,0,0,0,0,4,3,1,1,1,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,2,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya,Rural,3,0,0,0,0,0,0,0,5,0,6,3,3,3,0,0,0,0,0,0,0,3,1,0,4,1,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,11,HSS (XI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,11,HSS (XI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,11,HSS (XI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,11,HSS (XI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,3,2,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,11,HSS (XI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,11,HSS (XI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,4,6,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,5,2,0,0,0,0,0,0,0,0,0,0,3,3,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,1,PS (I-V),3,Local body,Rural,3,0,0,10,6,12,19,0,0,0,0,0,0,0,0,16,12,19,16,2,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,1,PS (I-V),3,Local body,Rural,3,0,0,11,12,13,9,3,0,0,0,0,0,0,0,10,20,16,16,3,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,1,PS (I-V),3,Local body,Rural,3,0,0,1,1,0,3,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),3,Local body,Rural,3,0,0,14,19,8,14,5,0,0,0,0,0,0,0,15,18,12,14,6,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,1,PS (I-V),3,Local body,Rural,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,1,PS (I-V),3,Local body,Rural,3,0,0,22,23,22,25,9,0,0,0,0,0,0,0,26,20,20,27,9,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,1,PS (I-V),3,Local body,Rural,3,0,0,5,3,4,1,0,0,0,0,0,0,0,0,3,2,3,1,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,1,PS (I-V),3,Local body,Rural,3,0,0,9,7,10,7,1,0,0,0,0,0,0,0,10,10,12,6,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,1,PS (I-V),3,Local body,Rural,3,0,0,4,1,3,3,0,0,0,0,0,0,0,0,2,6,2,4,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,1,PS (I-V),3,Local body,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,1,PS (I-V),3,Local body,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),3,Local body,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,1,PS (I-V),3,Local body,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,1,PS (I-V),3,Local body,Urban,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,1,PS (I-V),3,Local body,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,1,PS (I-V),3,Local body,Urban,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,1,PS (I-V),4,Government Aided,Rural,3,0,0,26,17,17,24,0,0,0,0,0,0,0,0,21,15,20,19,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,1,PS (I-V),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,1,PS (I-V),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),4,Government Aided,Rural,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,1,PS (I-V),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,1,PS (I-V),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,1,PS (I-V),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,1,PS (I-V),4,Government Aided,Urban,3,1,0,1,1,1,2,0,0,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,1,PS (I-V),4,Government Aided,Urban,3,0,0,3,2,0,3,0,0,0,0,0,0,0,0,3,3,2,4,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),4,Government Aided,Urban,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,1,PS (I-V),4,Government Aided,Urban,3,4,3,1,2,1,3,0,0,0,0,0,0,0,0,4,1,1,5,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,1,3,5,1,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,2,1,1,0,0,1,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,1,2,1,2,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,1,PS (I-V),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,6,SS (I-X),2,Tribal Welfare Department,Rural,3,0,0,4,0,4,7,10,10,14,9,9,5,0,0,1,12,5,7,9,8,11,7,3,3,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,6,SS (I-X),4,Government Aided,Rural,3,0,0,0,0,0,0,3,0,2,0,2,3,0,0,0,0,0,0,6,2,1,1,2,2,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,6,SS (I-X),4,Government Aided,Rural,3,0,0,0,0,0,0,2,5,8,13,7,6,0,0,0,0,0,0,7,3,5,8,6,8,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,6,SS (I-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,2,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,6,SS (I-X),4,Government Aided,Rural,3,0,0,0,0,0,0,2,3,6,4,4,2,0,0,0,0,0,0,4,1,3,3,9,1,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,6,SS (I-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,6,SS (I-X),4,Government Aided,Rural,3,0,0,0,0,0,0,3,5,6,6,10,2,0,0,0,0,0,0,3,8,5,4,4,1,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,6,SS (I-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,1,2,0,1,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,6,SS (I-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,6,SS (I-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,1,1,0,2,1,0,0,0,0,0,0,0,1,1,1,2,1,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,6,SS (I-X),4,Government Aided,Urban,3,0,0,0,0,0,0,3,2,0,1,0,0,0,0,0,0,0,0,0,2,2,3,0,3,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,6,SS (I-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,6,SS (I-X),4,Government Aided,Urban,3,0,0,0,0,0,0,2,5,1,5,7,10,0,0,0,0,0,0,0,2,0,2,5,5,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,2,0,1,1,4,1,2,1,2,0,0,0,3,1,1,1,2,2,0,0,3,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,1,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,4,3,0,3,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,6,4,3,1,0,2,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,4,4,2,0,2,0,2,1,5,3,1,0,0,0,3,2,3,2,3,0,2,3,0,2,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,1,0,1,1,1,2,1,1,0,1,1,0,0,0,1,1,0,0,2,0,0,1,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,2,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,6,SS (I-X),92,Kendriya Vidyalaya / Central School,Rural,3,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,6,SS (I-X),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,8,13,14,0,0,0,0,0,0,0,0,0,10,17,9,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,5,3,3,0,0,0,0,0,0,0,0,0,2,0,2,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,12,16,3,0,0,0,0,0,0,0,0,0,9,14,9,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,3,4,1,0,0,0,0,0,0,0,0,0,9,3,2,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,3,4,3,0,0,0,0,0,0,0,0,0,4,4,2,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,7,SS (VI-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,7,SS (VI-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,3,6,0,0,0,0,0,0,0,0,0,0,3,6,4,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,1,1,2,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,1,3,5,0,0,0,0,0,0,0,0,0,0,0,2,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,7,SS (VI-X),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,2,UPS (I-VIII),3,Local body,Rural,3,0,0,15,13,11,11,16,7,18,1,0,0,0,0,10,11,11,12,16,14,21,1,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,2,UPS (I-VIII),3,Local body,Rural,3,0,0,37,52,76,54,43,37,50,0,0,0,0,0,47,50,57,53,44,41,56,2,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,2,UPS (I-VIII),3,Local body,Rural,3,0,0,1,0,1,3,3,0,2,0,0,0,0,0,0,2,3,5,0,1,1,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,2,UPS (I-VIII),3,Local body,Rural,3,0,0,5,6,14,13,9,20,12,0,0,0,0,0,8,14,6,14,11,18,12,2,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,2,UPS (I-VIII),3,Local body,Rural,3,0,0,4,4,4,1,1,1,0,0,0,0,0,0,3,4,2,0,2,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,2,UPS (I-VIII),3,Local body,Rural,3,0,0,3,3,1,8,9,12,16,0,0,0,0,0,3,7,4,4,11,11,12,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,2,UPS (I-VIII),3,Local body,Rural,3,0,0,1,1,0,0,3,0,1,0,0,0,0,0,0,1,0,1,1,0,2,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,2,UPS (I-VIII),3,Local body,Rural,3,0,0,3,2,3,4,3,3,4,0,0,0,0,0,1,4,0,3,3,2,2,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,2,UPS (I-VIII),3,Local body,Rural,3,0,0,5,3,7,6,2,4,9,0,0,0,0,0,4,2,2,4,2,5,7,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,2,UPS (I-VIII),3,Local body,Urban,3,0,0,1,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,2,UPS (I-VIII),3,Local body,Urban,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,2,UPS (I-VIII),3,Local body,Urban,3,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,2,UPS (I-VIII),3,Local body,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,2,UPS (I-VIII),3,Local body,Urban,3,0,0,1,0,2,1,1,0,1,0,0,0,0,0,1,4,0,0,0,0,1,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,2,UPS (I-VIII),3,Local body,Urban,3,13,22,3,2,3,3,1,2,2,0,0,0,0,0,4,2,0,1,0,3,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,2,UPS (I-VIII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,2,UPS (I-VIII),4,Government Aided,Urban,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,2,UPS (I-VIII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,2,4,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,1,1,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,2,1,2,0,4,0,0,1,1,0,0,0,0,0,1,1,0,0,2,0,2,1,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,3,2,2,5,0,2,0,0,0,1,0,0,0,0,1,2,1,1,0,1,1,1,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,14,9,4,13,5,4,6,4,3,0,0,0,0,0,7,6,2,6,8,6,3,2,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,1,2,2,0,0,1,0,0,0,0,0,0,0,0,2,1,1,1,1,1,1,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,1,0,2,1,2,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,1,0,0,3,0,3,0,1,0,0,0,0,0,0,0,5,0,0,0,5,1,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,1,2,4,2,0,0,1,1,0,0,0,0,1,2,1,3,1,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,3,2,1,2,3,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,4,UPS (VI-VIII),3,Local body,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,3,HSS (I-XII),3,Local body,Rural,4,0,0,0,0,0,0,12,17,11,36,61,34,13,11,0,0,0,0,7,12,15,23,21,13,13,15,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,3,HSS (I-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,234,229,269,420,464,484,518,590,0,0,0,0,182,206,232,399,406,446,576,525,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,3,HSS (I-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,44,67,69,94,136,119,187,171,0,0,0,0,41,61,76,114,114,131,127,140,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,3,HSS (I-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,125,140,140,205,205,221,465,513,0,0,0,0,87,109,160,205,203,227,388,416,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,3,HSS (I-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,87,142,175,240,260,239,348,378,0,0,0,0,109,119,123,187,226,220,311,295,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,3,HSS (I-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,46,80,82,184,196,232,357,423,0,0,0,0,57,73,62,167,200,230,353,312,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,3,HSS (I-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,30,36,40,37,54,66,104,79,0,0,0,0,35,38,43,41,57,46,86,103,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,3,HSS (I-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,148,167,202,250,309,257,347,395,0,0,0,0,118,164,185,244,281,272,351,367,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,3,HSS (I-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,256,300,285,471,549,575,657,657,0,0,0,0,244,291,319,464,568,456,517,559,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,3,HSS (I-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,203,298,252,424,505,531,503,585,0,0,0,0,169,224,235,380,484,455,476,432,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,3,HSS (I-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,3,HSS (I-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,95,93,90,178,171,165,194,170,0,0,0,0,60,60,81,138,162,146,159,191,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,3,HSS (I-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,43,48,66,89,82,82,211,193,0,0,0,0,43,54,52,67,85,79,165,169,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,3,HSS (I-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,28,27,28,73,106,91,247,234,0,0,0,0,36,35,28,79,97,94,218,227,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,3,HSS (I-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,143,150,170,207,212,223,223,216,0,0,0,0,127,131,133,191,191,198,223,183,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,21,32,23,23,19,19,4,4,0,0,0,0,16,16,20,18,15,24,4,2,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,1,0,1,0,2,0,1,1,1,1,2,0,0,0,1,2,1,0,0,1,1,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,15,29,21,22,34,47,49,30,39,29,70,49,14,20,15,18,28,25,34,26,24,22,69,57,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,3,4,6,5,6,4,10,2,8,3,0,0,5,2,2,1,3,1,3,2,1,2,0,1,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,9,9,55,22,0,0,0,0,0,0,0,0,6,3,29,15,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,21,12,5,1,0,0,0,0,0,0,0,0,20,9,1,1,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,45,57,72,70,73,0,0,0,0,0,0,0,52,50,48,65,49,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,17,15,11,34,33,0,0,0,0,0,0,0,22,22,16,44,40,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,35,34,46,45,61,0,0,0,0,0,0,0,34,27,21,51,40,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,77,78,88,74,98,0,0,0,0,0,0,0,57,81,67,81,54,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,19,34,42,68,79,0,0,0,0,0,0,0,42,32,35,75,71,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,15,18,19,40,44,0,0,0,0,0,0,0,20,15,19,35,33,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,22,48,26,39,47,0,0,0,0,0,0,0,43,30,38,65,32,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,16,21,24,8,9,0,0,0,0,0,0,0,19,13,17,6,1,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,22,21,29,13,10,0,0,0,0,0,0,0,13,21,22,15,11,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,4,6,9,6,14,26,37,0,0,0,0,0,8,8,7,11,5,20,22,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,12,13,7,6,1,0,0,0,0,0,0,0,5,12,8,4,6,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,19,16,10,14,11,0,0,0,0,0,0,0,19,10,8,5,12,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,7,12,0,14,23,0,0,0,0,0,0,0,13,6,0,8,5,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya,Rural,4,0,0,0,0,0,0,0,12,6,7,19,14,8,9,0,0,0,0,0,12,5,5,10,9,6,8,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,11,HSS (XI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,65,50,0,0,0,0,0,0,0,0,0,0,2,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,11,HSS (XI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,22,22,0,0,0,0,0,0,0,0,0,0,17,18,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,11,HSS (XI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,199,165,0,0,0,0,0,0,0,0,0,0,167,189,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,11,HSS (XI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,274,199,0,0,0,0,0,0,0,0,0,0,258,254,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,11,HSS (XI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,161,175,0,0,0,0,0,0,0,0,0,0,163,169,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,11,HSS (XI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,338,270,0,0,0,0,0,0,0,0,0,0,401,384,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,156,149,0,0,0,0,0,0,0,0,0,0,146,119,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,18,14,0,0,0,0,0,0,0,0,0,0,12,9,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,13,27,0,0,0,0,0,0,0,0,0,0,18,22,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,17,15,0,0,0,0,0,0,0,0,0,0,14,15,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,53,69,0,0,0,0,0,0,0,0,0,0,38,45,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,43,54,0,0,0,0,0,0,0,0,0,0,36,30,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,72,67,0,0,0,0,0,0,0,0,0,0,45,54,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,34,37,0,0,0,0,0,0,0,0,0,0,69,37,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,16,9,0,0,0,0,0,0,0,0,0,0,13,8,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,1,PS (I-V),3,Local body,Rural,4,0,0,261,268,274,275,38,0,0,0,0,0,0,0,264,268,293,324,52,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,1,PS (I-V),3,Local body,Rural,4,0,0,168,194,205,207,91,0,0,0,0,0,0,0,173,193,191,192,115,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,1,PS (I-V),3,Local body,Rural,4,0,0,223,202,219,215,55,0,0,0,0,0,0,0,221,219,194,231,50,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),3,Local body,Rural,4,0,0,161,162,195,189,99,0,0,0,0,0,0,0,162,172,169,211,106,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,1,PS (I-V),3,Local body,Rural,4,0,0,164,161,155,190,87,0,0,0,0,0,0,0,173,157,133,157,78,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,1,PS (I-V),3,Local body,Rural,4,6,5,100,81,81,97,45,0,0,0,0,0,0,0,88,86,74,86,46,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,1,PS (I-V),3,Local body,Rural,4,0,0,261,272,312,325,80,0,0,0,0,0,0,0,292,269,293,324,75,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,1,PS (I-V),3,Local body,Rural,4,0,0,489,438,465,458,65,0,0,0,0,0,0,0,463,430,453,437,72,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,1,PS (I-V),3,Local body,Rural,4,0,0,274,270,252,345,101,0,0,0,0,0,0,0,347,310,297,336,111,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,1,PS (I-V),3,Local body,Urban,4,0,0,4,5,4,7,0,0,0,0,0,0,0,0,6,6,8,4,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,1,PS (I-V),3,Local body,Urban,4,0,0,7,5,5,1,0,0,0,0,0,0,0,0,2,8,3,5,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),3,Local body,Urban,4,0,0,3,2,4,5,0,0,0,0,0,0,0,0,4,3,4,9,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,1,PS (I-V),3,Local body,Urban,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,1,PS (I-V),3,Local body,Urban,4,0,0,1,4,4,0,0,0,0,0,0,0,0,0,2,1,2,4,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,1,PS (I-V),3,Local body,Urban,4,0,0,5,6,4,5,0,0,0,0,0,0,0,0,10,4,8,9,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,1,PS (I-V),3,Local body,Urban,4,1,2,5,6,1,8,0,0,0,0,0,0,0,0,3,3,4,9,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,1,PS (I-V),4,Government Aided,Rural,4,106,99,59,51,58,65,0,0,0,0,0,0,0,0,49,58,50,63,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,1,PS (I-V),4,Government Aided,Rural,4,0,0,1,1,4,7,0,0,0,0,0,0,0,0,1,3,2,3,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,1,PS (I-V),4,Government Aided,Rural,4,0,0,10,27,19,22,0,0,0,0,0,0,0,0,21,21,24,18,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),4,Government Aided,Rural,4,0,0,14,13,9,14,0,0,0,0,0,0,0,0,12,7,7,10,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,1,PS (I-V),4,Government Aided,Rural,4,0,0,0,2,0,6,0,0,0,0,0,0,0,0,1,1,5,3,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,1,PS (I-V),4,Government Aided,Rural,4,0,0,5,5,3,7,0,0,0,0,0,0,0,0,6,2,2,9,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,1,PS (I-V),4,Government Aided,Rural,4,0,0,3,8,5,12,0,0,0,0,0,0,0,0,4,4,6,5,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,1,PS (I-V),4,Government Aided,Urban,4,23,24,80,97,101,81,6,0,0,0,0,0,0,0,62,87,78,53,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,1,PS (I-V),4,Government Aided,Urban,4,0,0,90,63,76,81,0,0,0,0,0,0,0,0,66,75,75,71,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),4,Government Aided,Urban,4,0,0,39,24,21,22,0,0,0,0,0,0,0,0,34,31,30,33,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,1,PS (I-V),4,Government Aided,Urban,4,186,159,149,148,148,170,0,0,0,0,0,0,0,0,128,134,156,126,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,26,11,111,104,98,97,3,0,0,0,0,0,0,0,81,90,87,71,3,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,30,18,16,24,10,8,0,0,0,0,0,0,0,0,21,13,9,10,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,6,5,4,3,5,0,0,0,0,0,0,0,2,1,2,2,3,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,24,23,35,45,31,31,3,0,0,0,0,0,0,0,33,17,24,20,6,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,2,1,1,0,5,0,0,0,0,0,0,0,0,4,1,1,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,17,14,6,5,2,7,0,0,0,0,0,0,0,0,5,2,3,8,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,1,1,3,0,2,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,17,21,21,12,0,0,0,0,0,0,0,0,18,15,14,8,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,1,2,2,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,13,14,10,12,0,0,0,0,0,0,0,0,17,9,7,12,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,0,0,9,1,3,0,0,0,0,0,0,0,0,0,5,1,2,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,16,22,81,73,89,70,0,0,0,0,0,0,0,0,62,60,56,64,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,1,PS (I-V),8,Unrecognized,Rural,4,5,7,2,3,6,1,0,0,0,0,0,0,0,0,2,3,1,0,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,1,PS (I-V),98,Madarsa unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,6,SS (I-X),2,Tribal Welfare Department,Rural,4,0,0,2,3,7,8,12,18,20,25,22,21,0,0,7,1,9,6,14,12,17,14,10,14,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,6,SS (I-X),4,Government Aided,Rural,4,0,0,0,0,0,0,182,182,198,264,283,291,0,0,0,0,0,0,156,144,175,268,287,297,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,6,SS (I-X),4,Government Aided,Rural,4,0,0,0,0,0,0,91,102,105,157,191,179,0,0,0,0,0,0,92,93,114,148,181,176,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,6,SS (I-X),4,Government Aided,Rural,4,0,0,0,0,0,0,39,32,58,66,73,86,0,0,0,0,0,0,30,45,37,70,82,79,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,6,SS (I-X),4,Government Aided,Rural,4,0,0,0,0,0,0,20,26,28,37,50,48,0,0,0,0,0,0,27,31,31,44,26,44,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,6,SS (I-X),4,Government Aided,Rural,4,0,0,0,0,0,0,25,17,14,20,17,22,0,0,0,0,0,0,17,17,14,25,27,31,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,6,SS (I-X),4,Government Aided,Rural,4,0,0,0,0,0,0,26,30,46,49,66,56,0,0,0,0,0,0,26,29,40,46,56,49,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,6,SS (I-X),4,Government Aided,Rural,4,0,0,0,0,0,0,56,88,88,119,142,124,0,0,0,0,0,0,66,70,80,127,142,122,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,6,SS (I-X),4,Government Aided,Rural,4,0,0,0,0,0,0,104,121,166,189,247,252,0,0,0,0,0,0,104,126,117,202,217,220,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,6,SS (I-X),4,Government Aided,Rural,4,0,0,0,0,0,0,71,92,99,160,216,179,0,0,0,0,0,0,54,76,105,167,198,184,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,6,SS (I-X),4,Government Aided,Urban,4,0,0,0,0,0,0,86,76,109,129,114,127,0,0,0,0,0,0,100,74,112,115,126,115,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,6,SS (I-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,6,SS (I-X),4,Government Aided,Urban,4,0,0,0,0,0,0,79,111,99,152,196,168,0,0,0,0,0,0,85,94,82,130,188,164,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,34,28,38,30,31,41,49,55,45,34,28,32,0,0,19,19,11,24,40,35,36,29,21,21,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,10,5,34,34,37,26,27,23,18,16,18,6,0,0,25,27,12,23,22,15,15,18,11,10,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,23,26,31,25,30,23,12,19,11,13,25,18,0,0,22,27,21,11,9,11,11,10,9,11,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,80,50,24,10,17,9,9,3,6,6,0,0,0,0,19,13,7,14,9,6,5,4,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,3,8,4,4,8,3,0,1,2,5,2,0,0,0,1,2,2,4,1,0,1,2,1,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,18,15,35,60,44,53,63,54,46,63,59,40,0,0,26,35,38,38,52,41,55,37,36,29,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,21,15,19,12,10,7,3,2,1,2,0,0,16,13,17,7,11,5,3,1,1,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,0,0,0,3,4,2,18,12,13,14,14,4,0,0,1,2,2,1,7,7,5,3,3,3,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,8,1,20,26,31,25,21,27,15,11,9,5,0,0,23,18,32,17,21,21,7,13,10,2,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,54,49,47,40,51,35,0,0,0,0,0,0,45,39,41,39,29,32,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,6,SS (I-X),92,Kendriya Vidyalaya / Central School,Rural,4,62,58,26,31,13,18,14,18,20,14,8,3,0,0,14,19,12,9,16,11,11,7,5,2,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,6,SS (I-X),98,Madarsa unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,13,5,0,0,0,0,0,0,0,0,0,0,3,5,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,1,1,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,8,SS (IX-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,146,157,175,0,0,0,0,0,0,0,0,0,136,184,163,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,2,4,207,264,242,0,0,0,0,0,0,0,6,4,240,260,273,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,228,268,270,0,0,0,0,0,0,0,0,0,237,271,282,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,9,15,136,192,158,0,0,0,0,0,0,0,14,13,150,135,160,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,122,141,152,0,0,0,0,0,0,0,0,0,114,151,168,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,50,50,50,0,0,0,0,0,0,0,0,0,45,58,67,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,10,13,198,220,217,0,0,0,0,0,0,0,3,4,220,260,242,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,178,232,180,0,0,0,0,0,0,0,0,0,152,193,201,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,185,228,184,0,0,0,0,0,0,0,0,0,189,247,250,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,7,SS (VI-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,16,21,24,0,0,0,0,0,0,0,0,0,17,13,23,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,7,SS (VI-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,8,13,7,0,0,0,0,0,0,0,0,0,12,10,7,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,31,24,31,0,0,0,0,0,0,0,0,0,30,29,27,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,16,34,28,0,0,0,0,0,0,0,0,0,13,19,26,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,8,12,15,0,0,0,0,0,0,0,0,0,1,4,4,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,54,51,49,0,0,0,0,0,0,0,0,0,50,64,56,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,22,28,25,0,0,0,0,0,0,0,0,0,22,23,25,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,10,18,23,0,0,0,0,0,0,0,0,0,17,16,18,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,27,27,19,0,0,0,0,0,0,0,0,0,23,16,18,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,20,18,22,0,0,0,0,0,0,0,0,0,17,11,19,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,13,8,3,0,0,0,0,0,0,0,0,0,9,7,5,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,17,9,12,0,0,0,0,0,0,0,0,0,13,7,12,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,9,13,3,0,0,0,0,0,0,0,0,0,4,3,6,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,54,43,47,0,0,0,0,0,0,0,0,0,38,27,32,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,7,SS (VI-X),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,1,8,0,0,0,0,0,0,0,0,0,0,5,10,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,2,UPS (I-VIII),3,Local body,Rural,4,0,0,278,283,284,310,318,412,397,12,0,0,0,0,296,274,302,309,363,428,451,18,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,2,UPS (I-VIII),3,Local body,Rural,4,0,0,210,201,219,253,201,303,325,9,0,0,0,0,204,233,204,245,248,279,342,25,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,2,UPS (I-VIII),3,Local body,Rural,4,0,0,316,287,294,308,325,373,393,8,0,0,0,0,274,273,263,298,319,333,377,6,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,2,UPS (I-VIII),3,Local body,Rural,4,0,0,203,181,188,222,199,264,243,24,0,0,0,0,192,209,194,236,183,252,327,36,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,2,UPS (I-VIII),3,Local body,Rural,4,0,0,232,225,218,256,227,338,374,21,0,0,0,0,212,219,195,186,242,349,376,22,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,2,UPS (I-VIII),3,Local body,Rural,4,0,0,72,57,70,79,77,124,132,18,0,0,0,0,64,51,89,86,88,116,121,25,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,2,UPS (I-VIII),3,Local body,Rural,4,0,0,260,291,300,327,334,392,448,11,0,0,0,0,313,313,306,312,350,417,427,12,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,2,UPS (I-VIII),3,Local body,Rural,4,0,0,348,343,377,386,358,462,500,8,0,0,0,0,333,357,301,401,364,472,471,9,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,2,UPS (I-VIII),3,Local body,Rural,4,0,0,334,304,304,347,334,358,401,61,0,0,0,0,290,301,295,343,330,395,471,35,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,2,UPS (I-VIII),3,Local body,Urban,4,0,0,13,15,19,18,21,24,22,0,0,0,0,0,15,16,24,27,27,22,42,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,2,UPS (I-VIII),3,Local body,Urban,4,0,0,6,2,4,5,10,12,14,0,0,0,0,0,4,2,8,11,13,6,7,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,2,UPS (I-VIII),3,Local body,Urban,4,0,0,2,0,2,3,2,2,1,0,0,0,0,0,2,2,2,4,3,2,1,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,2,UPS (I-VIII),3,Local body,Urban,4,0,0,3,5,0,0,2,4,2,0,0,0,0,0,1,1,1,0,2,4,6,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,2,UPS (I-VIII),3,Local body,Urban,4,0,0,12,17,12,17,10,13,19,1,0,0,0,0,14,18,25,22,16,17,26,3,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,2,UPS (I-VIII),3,Local body,Urban,4,37,30,43,44,56,70,43,39,42,0,0,0,0,0,36,58,58,73,43,60,53,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,2,UPS (I-VIII),4,Government Aided,Urban,4,0,0,1,1,4,4,2,0,6,0,0,0,0,0,0,1,4,4,2,14,7,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,2,UPS (I-VIII),4,Government Aided,Urban,4,2,0,0,1,1,0,3,1,5,0,0,0,0,0,1,2,0,0,2,1,1,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,2,UPS (I-VIII),4,Government Aided,Urban,4,1,3,1,2,1,0,1,0,0,1,0,0,0,0,1,1,2,2,2,1,2,2,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,53,39,87,95,88,94,69,63,43,28,0,0,0,0,47,66,69,63,58,27,30,16,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,2,0,3,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273203,GUHAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,15,11,10,10,7,7,8,3,6,0,0,0,0,0,8,8,4,16,8,2,8,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,8,10,34,30,29,32,27,25,28,18,0,0,0,0,22,34,27,19,18,12,15,10,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,6,4,4,8,5,1,6,0,0,0,0,0,6,7,3,6,6,4,1,1,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273206,MANDANGAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,24,16,10,8,10,6,3,5,3,1,0,0,0,0,6,8,4,5,5,1,0,4,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,12,4,11,19,12,16,18,9,29,8,0,0,0,0,3,10,3,6,3,5,7,3,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,72,47,87,76,83,66,62,72,38,12,0,0,0,0,57,61,62,58,41,56,30,8,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,38,37,39,39,39,34,36,19,36,3,0,0,0,0,24,16,24,25,16,15,17,2,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273201,CHIPLUN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,7,10,22,23,23,26,5,34,12,7,0,0,0,0,24,20,17,29,10,18,25,3,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,3,4,14,7,8,2,17,14,20,0,0,0,0,0,8,3,7,4,9,4,6,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,0,36,24,28,28,30,21,14,18,0,0,0,0,21,15,27,22,17,17,11,10,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273205,LANJA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,0,12,12,13,17,11,9,14,0,0,0,0,0,4,7,7,9,8,6,7,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273207,RAJAPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,0,4,10,14,7,6,2,4,0,0,0,0,0,6,3,5,8,3,4,4,1,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273208,RATNAGIRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,188,163,71,65,69,55,53,53,61,0,0,0,0,0,59,58,48,44,50,34,42,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273202,DAPOLI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273209,SANGMESHWAR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,27,Maharashtra,2732,RATNAGIRI,273204,KHED,4,UPS (VI-VIII),3,Local body,Rural,4,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,5,7,0,0,0,0,0,OBC

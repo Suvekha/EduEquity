@@ -1,0 +1,693 @@
+ac_year,state_code,state_name,district_code,district_name,block_code,block_name,sch_category_id,category_name,sch_mgmt_id,sch_mgmt_name,loc_name,caste_id,pre_primary_boys,pre_primary_girls,class_1_boys,class_2_boys,class_3_boys,class_4_boys,class_5_boys,class_6_boys,class_7_boys,class_8_boys,class_9_boys,class_10_boys,class_11_boys,class_12_boys,class_1_girls,class_2_girls,class_3_girls,class_4_girls,class_5_girls,class_6_girls,class_7_girls,class_8_girls,class_9_girls,class_10_girls,class_11_girls,class_12_girls,caste_name
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,3,1,1,1,3,1,2,1,0,0,0,0,0,0,1,1,0,3,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,3,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,7,7,6,2,1,2,4,2,1,1,0,0,0,0,6,2,0,3,2,2,1,3,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,3,3,6,2,1,1,0,0,0,0,0,0,0,0,1,2,0,3,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,2,3,0,2,1,0,0,0,1,0,0,2,0,0,2,1,1,0,0,0,2,1,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,5,2,5,5,7,7,3,0,1,0,1,0,0,0,3,5,2,5,3,0,1,2,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,1,PS (I-V),8,Unrecognized,Rural,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,1,PS (I-V),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,1,PS (I-V),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,1,PS (I-V),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,1,PS (I-V),8,Unrecognized,Rural,2,1,0,0,1,3,2,0,0,0,0,0,0,0,0,3,1,0,3,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,1,PS (I-V),8,Unrecognized,Urban,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,1,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,1,PS (I-V),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,1,PS (I-V),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,6,SS (I-X),1,Department of Education,Rural,2,0,0,0,1,0,0,0,1,3,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,8,5,7,8,7,6,4,5,5,4,7,7,0,0,7,3,8,5,3,6,5,3,7,5,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,17,10,14,33,11,9,14,7,6,3,5,4,0,0,8,5,9,4,7,4,5,4,3,3,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,36,32,15,18,9,11,10,9,12,5,9,4,0,0,11,10,12,7,7,7,6,7,7,4,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,24,15,28,13,12,6,11,9,9,11,7,7,0,0,23,12,9,10,8,8,10,6,5,3,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,2,1,7,6,2,2,4,3,2,1,2,0,0,0,5,3,2,2,1,1,1,4,0,2,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,2,4,4,4,2,3,6,4,4,4,2,1,0,0,5,5,1,5,2,2,3,2,1,1,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,5,6,1,1,0,0,1,0,0,4,2,1,0,0,0,0,0,1,1,1,1,4,5,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,35,33,23,22,27,23,16,33,30,17,26,17,0,0,30,26,19,17,21,20,20,16,9,14,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,4,3,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,50,36,0,0,0,0,0,0,0,0,0,0,44,48,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,12,12,0,0,0,0,0,0,0,0,0,0,11,14,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,10,8,0,0,0,0,0,0,0,0,0,0,12,17,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,8,10,0,0,0,0,0,0,0,0,0,0,23,16,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,4,8,0,0,0,0,0,0,0,0,0,0,12,8,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,8,4,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,6,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,8,SS (IX-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,8,SS (IX-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,8,SS (IX-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,8,SS (IX-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,8,SS (IX-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,5,4,0,0,0,0,0,0,0,0,0,0,1,3,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,8,SS (IX-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,8,SS (IX-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,3,1,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,8,SS (IX-X),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,1,5,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,8,SS (IX-X),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,19,9,0,0,0,0,0,0,0,0,0,0,7,4,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,8,SS (IX-X),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,8,SS (IX-X),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,2,1,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,8,SS (IX-X),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,6,4,3,7,3,0,0,0,0,0,0,0,5,6,5,14,10,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,25,40,35,29,30,8,8,0,0,0,0,0,31,24,30,41,33,8,10,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,18,33,19,40,29,0,0,0,0,0,0,0,42,39,44,40,53,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,56,61,24,33,24,0,0,0,0,0,0,0,31,34,40,29,18,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,11,9,11,8,7,0,0,0,0,0,0,0,8,7,7,9,11,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,9,3,5,8,5,0,0,0,0,0,0,0,8,2,1,4,8,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,7,SS (VI-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,2,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,7,SS (VI-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,8,10,12,4,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,7,SS (VI-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,30,10,0,0,0,0,0,0,0,0,0,8,1,1,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,7,SS (VI-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,8,3,7,9,3,0,0,0,0,0,0,0,5,6,4,10,5,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,7,SS (VI-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,4,8,4,26,9,0,0,0,0,0,0,0,11,6,3,12,5,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,2,1,0,2,0,0,0,0,0,0,0,0,1,1,1,6,8,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,3,3,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,7,SS (VI-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,1,0,2,3,7,0,0,0,0,0,0,0,1,1,1,2,5,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,2,0,0,2,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,7,SS (VI-X),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,7,SS (VI-X),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,0,0,0,1,0,0,3,7,0,0,0,0,0,0,0,2,1,1,0,4,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,2,UPS (I-VIII),1,Department of Education,Rural,2,4,3,0,1,0,2,2,5,9,8,0,0,0,0,1,1,2,5,0,11,7,7,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,2,UPS (I-VIII),1,Department of Education,Rural,2,5,3,3,8,2,3,1,6,6,10,0,0,0,0,3,4,4,5,0,6,2,5,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,2,UPS (I-VIII),1,Department of Education,Rural,2,24,1,3,1,0,0,3,5,5,16,0,0,0,0,2,0,0,1,0,2,4,7,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,2,UPS (I-VIII),1,Department of Education,Rural,2,1,1,2,2,1,3,2,8,6,3,0,0,0,0,0,1,0,1,2,7,3,4,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,0,0,0,3,0,5,6,0,0,0,0,0,0,0,0,3,0,2,3,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,7,4,5,5,8,1,0,2,2,1,2,2,0,0,0,5,1,4,2,0,1,0,2,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,8,7,6,1,3,2,1,0,1,0,0,0,0,0,3,7,1,2,0,1,1,1,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,27,21,9,7,10,11,6,6,8,3,2,3,0,0,6,11,8,7,2,4,3,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,11,12,1,6,5,1,1,2,0,3,0,3,0,0,8,5,1,4,0,2,0,1,1,1,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,3,3,1,2,2,0,1,2,0,0,0,0,0,0,1,1,0,2,3,2,1,1,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,5,1,2,1,0,2,2,2,1,2,2,0,0,0,0,0,2,2,0,2,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,6,10,1,2,1,1,1,2,0,1,0,0,0,0,2,1,0,1,0,2,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,19,11,19,0,0,0,0,0,0,0,0,0,17,11,7,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,44,58,47,0,0,0,0,0,0,0,0,0,31,48,40,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,18,22,21,0,0,0,0,0,0,0,0,0,12,22,24,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,50,52,74,0,0,0,0,0,0,0,0,0,26,13,23,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,15,23,25,0,0,0,0,0,0,0,0,0,19,19,20,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,55,49,35,0,0,0,0,0,0,0,0,0,48,41,35,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,6,7,3,0,0,0,0,0,0,0,0,0,2,8,4,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,9,10,9,0,0,0,0,0,0,0,0,0,10,13,15,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,5,5,2,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,6,4,2,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,2,2,4,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,6,5,10,0,0,0,0,0,0,0,0,0,7,7,3,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,4,UPS (VI-VIII),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,4,5,7,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,4,UPS (VI-VIII),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,4,UPS (VI-VIII),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,4,UPS (VI-VIII),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,3,4,2,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,4,UPS (VI-VIII),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,4,UPS (VI-VIII),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,4,UPS (VI-VIII),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,8,10,7,6,3,4,5,0,1,5,4,4,1,3,4,0,2,1,4,2,3,1,1,3,5,1,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,1,2,0,0,2,0,0,0,0,2,0,0,0,0,3,1,0,0,1,0,0,1,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,3,HSS (I-XII),7,Central Govt,Urban,3,0,0,5,5,5,1,4,6,3,3,6,2,2,3,4,2,2,6,4,1,4,2,2,4,5,2,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,3,HSS (I-XII),7,Central Govt,Urban,3,0,0,0,2,4,0,1,2,3,1,4,4,5,5,2,0,2,1,4,0,1,2,3,3,1,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,3,5,0,0,0,0,0,0,0,0,0,1,3,6,2,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,9,3,2,4,0,0,0,0,0,0,0,0,4,7,3,7,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,3,2,2,4,0,0,0,0,0,0,0,0,1,7,5,7,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,2,0,3,7,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,4,ST
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,5,5,15,42,16,8,22,0,0,0,0,0,10,8,8,37,27,11,8,ST
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,10,15,17,52,28,15,22,0,0,0,0,0,20,7,12,10,18,25,11,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,1,4,2,2,7,7,4,0,0,0,0,0,1,1,1,3,3,2,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,2,12,15,5,4,4,5,0,0,0,0,0,1,3,8,3,2,7,4,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,8,1,1,5,6,0,0,0,0,0,0,0,3,1,4,5,7,2,1,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,1,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,9,8,11,14,21,18,26,0,0,0,0,0,5,2,9,5,6,10,11,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,5,7,7,8,10,13,8,0,0,0,0,0,2,3,2,3,5,5,5,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,9,5,5,5,5,39,44,0,0,0,0,0,4,2,2,4,7,33,32,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,1,0,1,2,4,8,2,0,0,0,0,0,11,11,11,6,8,17,9,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,5,HSS (VI-XII),7,Central Govt,Rural,3,0,0,0,0,0,0,0,10,7,7,5,4,11,3,0,0,0,0,0,5,2,1,3,1,15,3,ST
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,18,11,0,0,0,0,0,0,0,0,0,0,16,11,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,31,34,0,0,0,0,0,0,0,0,0,0,25,21,ST
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,0,3,2,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,4,2,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,11,HSS (XI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,11,22,0,0,0,0,0,0,0,0,0,0,17,15,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,11,HSS (XI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,28,33,0,0,0,0,0,0,0,0,0,0,33,15,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,11,HSS (XI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,9,10,0,0,0,0,0,0,0,0,0,0,11,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,11,HSS (XI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,0,4,3,ST
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,11,HSS (XI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,10,7,0,0,0,0,0,0,0,0,0,0,8,5,ST
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,11,HSS (XI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,11,HSS (XI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,11,HSS (XI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,6,ST
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,42,47,0,0,0,0,0,0,0,0,0,0,58,36,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,24,24,0,0,0,0,0,0,0,0,0,0,10,18,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,9,12,0,0,0,0,0,0,0,0,0,0,9,8,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,4,8,0,0,0,0,0,0,0,0,0,0,6,3,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,17,20,0,0,0,0,0,0,0,0,0,0,22,19,ST
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,11,HSS (XI-XII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,19,8,0,0,0,0,0,0,0,0,0,0,18,12,ST
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,11,HSS (XI-XII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,1,PS (I-V),1,Department of Education,Rural,3,76,64,64,50,57,46,51,0,0,0,0,0,0,0,57,55,56,41,67,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,1,PS (I-V),1,Department of Education,Rural,3,305,315,240,232,207,238,229,0,0,0,0,0,0,0,212,229,212,238,214,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,1,PS (I-V),1,Department of Education,Rural,3,65,58,56,52,39,41,46,0,0,0,0,0,0,0,43,36,45,33,50,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,1,PS (I-V),1,Department of Education,Rural,3,81,46,89,106,66,83,39,0,0,0,0,0,0,0,43,63,34,51,34,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,1,PS (I-V),1,Department of Education,Rural,3,77,66,47,55,42,50,46,0,0,0,0,0,0,0,40,51,45,44,69,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,1,PS (I-V),1,Department of Education,Rural,3,56,73,59,52,53,60,49,0,0,0,0,0,0,0,67,47,63,40,63,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,1,PS (I-V),1,Department of Education,Urban,3,4,3,4,6,4,5,9,0,0,0,0,0,0,0,3,1,5,2,1,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,1,PS (I-V),1,Department of Education,Urban,3,8,5,10,8,6,0,3,0,0,0,0,0,0,0,8,10,2,2,2,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,1,PS (I-V),1,Department of Education,Urban,3,15,0,5,50,35,0,10,0,0,0,0,0,0,0,0,7,5,6,2,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,1,PS (I-V),1,Department of Education,Urban,3,17,11,26,6,7,11,16,0,0,0,0,0,0,0,15,11,4,14,6,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,1,PS (I-V),1,Department of Education,Urban,3,6,7,12,5,7,5,3,0,0,0,0,0,0,0,10,9,12,8,9,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,1,2,1,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,20,12,13,6,4,3,1,0,0,0,0,0,0,0,3,4,2,1,1,0,1,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,7,7,1,2,3,5,3,0,0,0,0,0,0,0,2,4,2,4,5,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,9,6,5,3,6,6,4,6,4,2,0,0,0,0,4,4,7,10,10,8,2,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,2,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,6,1,2,0,4,5,0,0,2,0,0,0,1,1,2,1,0,1,1,0,2,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,1,0,0,2,1,1,0,0,0,0,0,0,0,0,1,0,0,1,3,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,1,PS (I-V),8,Unrecognized,Rural,3,0,0,0,1,1,3,2,0,0,0,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,1,PS (I-V),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,1,PS (I-V),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,1,PS (I-V),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,1,PS (I-V),8,Unrecognized,Rural,3,2,0,1,0,0,2,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,1,PS (I-V),8,Unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,1,PS (I-V),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,1,PS (I-V),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,6,SS (I-X),1,Department of Education,Rural,3,0,0,8,6,0,0,0,1,6,0,1,0,0,0,5,3,0,0,0,2,7,0,0,1,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,20,16,15,16,11,7,6,14,6,5,6,1,0,0,15,21,11,8,6,11,4,3,8,9,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,36,25,20,19,23,25,26,21,18,21,13,18,0,0,23,28,15,20,19,13,13,6,8,9,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,22,13,22,18,26,18,13,6,9,12,16,4,0,0,27,11,8,9,7,5,7,7,8,1,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,23,13,19,10,12,11,7,9,5,7,9,6,0,0,16,14,9,12,8,6,7,12,6,4,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,4,7,7,4,6,4,0,2,0,2,2,2,0,0,6,3,3,6,2,1,1,1,1,2,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,4,7,3,1,1,1,0,2,4,1,0,1,0,0,7,2,1,2,3,3,0,2,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,21,25,16,20,18,69,11,11,9,3,8,18,0,0,17,16,18,10,13,7,11,3,8,10,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,10,8,0,0,0,0,0,0,0,0,0,0,12,8,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,130,129,0,0,0,0,0,0,0,0,0,0,188,141,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,21,11,0,0,0,0,0,0,0,0,0,0,15,6,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,18,18,0,0,0,0,0,0,0,0,0,0,30,19,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,30,21,0,0,0,0,0,0,0,0,0,0,38,26,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,31,27,0,0,0,0,0,0,0,0,0,0,26,14,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,6,1,0,0,0,0,0,0,0,0,0,0,3,3,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,5,2,0,0,0,0,0,0,0,0,0,0,6,3,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,8,SS (IX-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,8,SS (IX-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,8,SS (IX-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,8,SS (IX-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,8,SS (IX-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,10,8,0,0,0,0,0,0,0,0,0,0,1,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,8,SS (IX-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,8,SS (IX-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,8,SS (IX-X),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,10,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,8,SS (IX-X),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,12,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,8,SS (IX-X),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,8,SS (IX-X),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,8,SS (IX-X),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,5,9,8,13,7,0,0,0,0,0,0,0,7,7,7,17,10,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,25,19,9,65,37,6,9,0,0,0,0,0,20,25,16,60,48,0,4,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,13,23,12,20,14,0,0,0,0,0,0,0,14,14,23,19,18,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,33,3,27,12,19,0,0,0,0,0,0,0,22,47,31,21,7,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,6,3,1,4,0,0,0,0,0,0,0,0,6,0,5,6,5,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,5,12,13,15,10,0,0,0,0,0,0,0,7,8,13,13,13,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,10,0,10,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,1,0,3,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,7,SS (VI-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,7,SS (VI-X),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,7,SS (VI-X),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,2,UPS (I-VIII),1,Department of Education,Rural,3,2,4,1,0,1,3,1,6,1,7,0,0,0,0,5,4,3,2,4,9,5,4,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,2,UPS (I-VIII),1,Department of Education,Rural,3,8,9,11,13,7,18,23,20,18,21,0,0,0,0,8,6,15,12,12,23,21,23,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,2,UPS (I-VIII),1,Department of Education,Rural,3,3,5,4,3,1,2,1,0,1,2,0,0,0,0,3,2,1,3,3,1,0,1,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,2,UPS (I-VIII),1,Department of Education,Rural,3,4,5,1,1,1,5,1,7,9,16,0,0,0,0,1,1,0,1,1,6,3,5,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,2,UPS (I-VIII),1,Department of Education,Rural,3,6,3,3,4,3,2,2,3,1,5,0,0,0,0,2,5,4,3,9,6,0,4,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,2,4,3,3,2,0,0,1,1,0,0,0,0,0,2,1,2,0,0,2,0,0,1,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,20,9,9,12,11,15,9,9,3,6,2,0,0,0,11,10,5,7,1,0,4,3,3,3,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,2,5,4,1,2,2,1,0,3,0,1,0,0,0,2,3,1,4,2,5,0,0,1,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,5,3,3,0,2,4,0,1,2,2,1,0,0,0,1,4,2,0,0,2,0,2,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,2,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,2,6,0,3,0,1,2,2,1,1,2,0,0,0,0,2,1,0,1,1,1,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,4,3,0,1,0,1,1,1,0,0,0,0,0,0,1,1,1,0,0,1,0,1,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,2,2,0,5,0,2,3,0,0,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,24,27,27,0,0,0,0,0,0,0,0,0,21,13,29,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,193,201,197,0,0,0,0,0,0,0,0,0,192,179,186,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,25,15,33,0,0,0,0,0,0,0,0,0,19,19,27,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,74,68,58,0,0,0,0,0,0,0,0,0,31,26,22,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,39,28,23,0,0,0,0,0,0,0,0,0,46,63,57,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,5,7,5,0,0,0,0,0,0,0,0,0,1,2,5,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,2,3,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,12,12,19,0,0,0,0,0,0,0,0,0,24,26,29,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,3,4,2,0,0,0,0,0,0,0,0,0,2,4,3,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,4,6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,7,7,6,0,0,0,0,0,0,0,0,0,3,8,8,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,4,UPS (VI-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,4,UPS (VI-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,4,UPS (VI-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,4,UPS (VI-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,2,0,5,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,4,UPS (VI-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,4,UPS (VI-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,4,UPS (VI-VIII),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,23,17,10,22,13,16,8,5,10,10,11,12,1,2,10,14,8,5,3,15,6,12,9,17,5,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,29,21,21,43,35,27,35,35,34,37,28,33,19,17,16,27,21,16,30,19,26,26,23,20,20,20,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,11,11,14,7,14,7,21,14,15,15,20,18,3,21,10,7,15,12,9,12,11,10,17,22,3,2,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,3,HSS (I-XII),7,Central Govt,Urban,4,0,0,28,16,19,19,14,14,10,15,6,19,12,10,15,21,16,16,18,12,7,10,4,13,10,15,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,3,HSS (I-XII),7,Central Govt,Urban,4,0,0,29,34,32,21,19,17,7,21,12,8,12,14,29,21,23,24,14,16,7,12,5,5,12,10,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,111,63,50,33,0,0,0,0,0,0,0,0,108,75,58,43,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,39,32,66,60,0,0,0,0,0,0,0,0,28,28,76,51,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,36,17,14,25,0,0,0,0,0,0,0,0,53,29,15,9,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,4,8,13,13,0,0,0,0,0,0,0,0,12,10,10,8,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,10,0,108,105,0,0,0,0,0,0,0,0,12,0,123,92,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,7,2,21,24,0,0,0,0,0,0,0,0,7,5,6,16,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,141,122,130,212,134,147,195,0,0,0,0,0,107,106,116,195,160,186,180,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,5,14,19,99,78,24,27,0,0,0,0,0,3,8,10,61,52,20,16,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,38,56,44,103,101,171,174,0,0,0,0,0,36,27,34,65,68,147,161,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,148,128,127,175,131,119,68,0,0,0,0,0,114,102,62,124,93,83,66,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,56,54,49,112,71,49,47,0,0,0,0,0,59,35,45,95,86,57,59,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,190,142,174,316,236,164,161,0,0,0,0,0,161,119,122,181,195,106,101,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,115,100,111,153,143,148,137,0,0,0,0,0,39,39,34,66,60,75,52,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,71,88,91,131,80,109,101,0,0,0,0,0,18,18,8,16,30,36,35,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,120,106,102,134,124,225,292,0,0,0,0,0,144,160,132,219,150,233,240,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,36,43,39,50,56,107,82,0,0,0,0,0,123,135,128,150,150,176,177,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,4,4,5,11,14,12,14,0,0,0,0,0,1,1,4,11,6,10,7,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,5,HSS (VI-XII),7,Central Govt,Rural,4,0,0,0,0,0,0,0,21,30,25,22,27,20,10,0,0,0,0,0,25,23,24,25,15,17,23,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,48,16,0,0,0,0,0,0,0,0,0,0,58,20,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,106,89,0,0,0,0,0,0,0,0,0,0,119,88,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,228,272,0,0,0,0,0,0,0,0,0,0,288,276,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,77,74,0,0,0,0,0,0,0,0,0,0,249,247,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,73,60,0,0,0,0,0,0,0,0,0,0,104,61,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,11,HSS (XI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,14,11,0,0,0,0,0,0,0,0,0,0,14,5,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,11,HSS (XI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,493,441,0,0,0,0,0,0,0,0,0,0,366,276,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,11,HSS (XI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,52,59,0,0,0,0,0,0,0,0,0,0,78,53,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,11,HSS (XI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,57,41,0,0,0,0,0,0,0,0,0,0,74,29,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,11,HSS (XI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,14,16,0,0,0,0,0,0,0,0,0,0,16,18,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,11,HSS (XI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,34,13,0,0,0,0,0,0,0,0,0,0,37,27,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,11,HSS (XI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,30,47,0,0,0,0,0,0,0,0,0,0,44,48,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,11,HSS (XI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,32,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,106,100,0,0,0,0,0,0,0,0,0,0,94,77,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,34,28,0,0,0,0,0,0,0,0,0,0,54,34,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,190,227,0,0,0,0,0,0,0,0,0,0,180,205,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,9,14,0,0,0,0,0,0,0,0,0,0,15,16,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,65,92,0,0,0,0,0,0,0,0,0,0,69,112,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,185,140,0,0,0,0,0,0,0,0,0,0,154,141,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,297,286,0,0,0,0,0,0,0,0,0,0,291,260,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,11,HSS (XI-XII),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,11,HSS (XI-XII),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,28,26,0,0,0,0,0,0,0,0,0,0,34,26,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,1,PS (I-V),1,Department of Education,Rural,4,1776,1733,1596,1424,1327,1245,1264,0,0,0,0,0,0,0,1579,1468,1373,1226,1298,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,1,PS (I-V),1,Department of Education,Rural,4,964,959,815,833,765,789,773,0,0,0,0,0,0,0,899,854,781,824,786,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,1,PS (I-V),1,Department of Education,Rural,4,634,686,623,537,544,549,594,0,0,0,0,0,0,0,613,566,574,606,589,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,1,PS (I-V),1,Department of Education,Rural,4,1066,850,909,798,723,771,818,0,0,0,0,0,0,0,752,606,624,651,704,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,1,PS (I-V),1,Department of Education,Rural,4,1948,1859,1894,1720,1487,1475,1399,0,0,0,0,0,0,0,1826,1710,1579,1474,1405,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,1,PS (I-V),1,Department of Education,Rural,4,1449,1584,1330,1256,1182,1195,1146,0,0,0,0,0,0,0,1324,1201,1222,1191,1154,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,1,PS (I-V),1,Department of Education,Urban,4,42,48,48,28,39,33,33,0,0,0,0,0,0,0,42,43,44,55,35,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,1,PS (I-V),1,Department of Education,Urban,4,38,39,51,34,37,40,51,0,0,0,0,0,0,0,32,42,40,44,39,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,1,PS (I-V),1,Department of Education,Urban,4,20,19,5,1,4,30,11,0,0,0,0,0,0,0,0,0,2,11,16,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,1,PS (I-V),1,Department of Education,Urban,4,96,123,119,115,91,92,81,0,0,0,0,0,0,0,126,118,129,116,97,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,1,PS (I-V),1,Department of Education,Urban,4,36,58,37,36,40,43,37,0,0,0,0,0,0,0,41,47,45,48,35,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,54,35,25,12,16,5,7,0,0,0,0,0,0,0,18,7,10,6,6,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,19,15,14,16,10,17,9,2,0,0,0,0,0,0,13,13,9,11,14,2,2,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,19,34,14,15,9,7,6,0,0,0,0,0,0,0,10,12,8,4,2,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,23,12,11,6,6,2,1,0,0,0,0,0,0,0,7,5,2,3,2,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,101,59,95,76,72,54,57,38,37,34,0,0,0,0,78,92,68,56,45,52,33,40,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,107,90,29,25,41,45,43,29,23,0,0,0,0,0,30,39,23,34,16,12,18,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,5,4,2,1,2,1,1,1,2,0,2,0,0,0,3,1,0,1,2,1,1,1,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,15,14,27,18,26,22,11,2,3,4,1,0,0,0,19,20,11,27,8,0,5,1,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,13,8,6,5,9,2,6,0,0,0,0,0,0,0,12,3,6,0,4,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,11,5,2,4,6,0,0,0,0,0,0,0,0,0,2,3,4,0,0,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,1,PS (I-V),8,Unrecognized,Rural,4,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,1,PS (I-V),8,Unrecognized,Rural,4,8,11,13,3,15,8,3,0,0,0,0,0,0,0,4,7,10,6,9,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,1,PS (I-V),8,Unrecognized,Rural,4,4,4,7,3,2,4,2,0,0,0,0,0,0,0,2,2,2,1,1,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,1,PS (I-V),8,Unrecognized,Rural,4,6,4,2,3,5,2,5,0,0,0,0,0,0,0,2,1,5,4,7,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,1,PS (I-V),8,Unrecognized,Rural,4,22,20,22,17,20,10,10,0,0,0,0,0,0,0,23,23,18,20,10,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,1,PS (I-V),8,Unrecognized,Urban,4,4,2,3,3,2,0,0,0,0,0,0,0,0,0,4,0,3,3,2,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,1,PS (I-V),98,Madarsa unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,1,PS (I-V),98,Madarsa unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,6,SS (I-X),1,Department of Education,Rural,4,0,0,39,27,0,0,0,34,29,0,4,6,0,0,17,26,0,0,0,24,14,0,2,7,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,290,228,190,176,144,121,134,107,116,106,114,105,0,0,151,131,134,104,95,112,88,87,82,76,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,225,175,138,140,111,120,107,84,88,88,80,81,0,0,127,108,95,87,93,81,79,68,67,64,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,136,118,156,127,112,100,75,78,73,65,56,55,0,0,107,100,88,54,56,46,48,47,49,36,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,283,219,179,211,187,204,215,162,161,168,159,141,0,0,142,169,159,154,150,148,148,140,119,127,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,189,164,89,93,79,71,83,96,105,86,81,87,0,0,95,72,64,58,54,68,60,62,56,52,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,117,97,119,121,112,87,93,76,68,64,67,57,0,0,95,106,77,64,83,51,58,63,48,46,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,5,6,19,11,2,5,3,1,1,2,0,0,0,0,8,7,6,6,1,1,1,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,103,69,52,60,67,47,57,37,45,22,18,24,0,0,28,44,40,37,45,22,32,29,17,14,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,37,31,17,12,5,7,20,12,7,11,6,6,0,0,15,11,8,12,10,8,2,14,5,5,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,270,217,131,146,185,206,163,136,145,141,169,167,0,0,141,162,152,141,117,138,105,115,125,100,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,219,151,109,95,79,74,92,97,102,104,64,63,0,0,84,82,65,65,54,79,55,74,65,48,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,444,230,0,0,0,0,0,0,0,0,0,0,426,275,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,307,226,0,0,0,0,0,0,0,0,0,0,251,194,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,159,167,0,0,0,0,0,0,0,0,0,0,247,179,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,149,168,0,0,0,0,0,0,0,0,0,0,247,234,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,476,336,0,0,0,0,0,0,0,0,0,0,439,363,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,260,205,0,0,0,0,0,0,0,0,0,0,298,241,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,44,33,0,0,0,0,0,0,0,0,0,0,23,33,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,36,17,0,0,0,0,0,0,0,0,0,0,23,30,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,31,29,0,0,0,0,0,0,0,0,0,0,117,55,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,8,SS (IX-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,54,42,0,0,0,0,0,0,0,0,0,0,45,48,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,8,SS (IX-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,86,48,0,0,0,0,0,0,0,0,0,0,75,78,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,8,SS (IX-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,1,7,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,8,SS (IX-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,25,26,0,0,0,0,0,0,0,0,0,0,4,6,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,8,SS (IX-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,75,80,0,0,0,0,0,0,0,0,0,0,80,65,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,8,SS (IX-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,48,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,8,SS (IX-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,38,10,0,0,0,0,0,0,0,0,0,0,49,16,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,12,11,0,0,0,0,0,0,0,0,0,0,21,9,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,7,5,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,28,23,9,8,8,8,9,10,7,7,22,13,0,0,3,5,2,2,4,4,1,6,21,23,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,8,SS (IX-X),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,45,42,0,0,0,0,0,0,0,0,0,0,55,56,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,8,SS (IX-X),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,13,18,0,0,0,0,0,0,0,0,0,0,6,14,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,8,SS (IX-X),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,21,12,0,0,0,0,0,0,0,0,0,0,14,9,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,8,SS (IX-X),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,55,46,0,0,0,0,0,0,0,0,0,0,37,22,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,8,SS (IX-X),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,32,27,0,0,0,0,0,0,0,0,0,0,17,25,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,138,147,129,296,167,0,0,0,0,0,0,0,155,169,178,355,206,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,165,160,156,248,188,77,79,0,0,0,0,0,200,216,231,354,287,84,70,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,180,178,186,326,267,0,0,0,0,0,0,0,207,184,221,377,347,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,109,93,184,298,246,2,1,0,0,0,0,0,116,156,159,354,338,0,1,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,165,156,157,234,148,0,0,0,0,0,0,0,146,155,178,205,187,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,139,122,145,238,102,0,0,0,0,0,0,0,183,159,144,291,209,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,7,SS (VI-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,6,3,1,2,1,0,0,0,0,0,0,0,3,5,4,6,10,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,7,SS (VI-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,11,19,13,20,25,0,0,0,0,0,0,0,75,68,77,115,77,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,7,SS (VI-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,10,0,10,0,0,0,0,0,0,0,0,0,10,0,1,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,7,SS (VI-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,56,50,31,52,36,0,0,0,0,0,0,0,53,29,32,46,42,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,7,SS (VI-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,59,52,68,130,74,0,0,0,0,0,0,0,43,41,40,54,38,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,13,6,12,53,56,0,0,0,0,0,0,0,7,3,6,37,65,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,34,29,32,45,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,4,2,2,6,15,0,0,0,0,0,0,0,2,5,1,20,17,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,7,SS (VI-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,18,9,36,56,28,0,0,0,0,0,0,0,13,8,19,47,36,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,16,20,14,22,7,0,0,0,0,0,0,0,19,25,8,19,10,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,7,SS (VI-X),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,5,7,6,20,15,0,0,0,0,0,0,0,0,0,0,0,16,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,7,SS (VI-X),98,Madarsa unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,2,UPS (I-VIII),1,Department of Education,Rural,4,20,17,30,33,34,19,34,65,70,85,0,0,0,0,34,35,27,22,31,86,72,83,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,2,UPS (I-VIII),1,Department of Education,Rural,4,23,22,21,23,47,25,45,75,97,87,0,0,0,0,38,31,38,38,30,72,75,69,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,2,UPS (I-VIII),1,Department of Education,Rural,4,53,67,61,50,59,60,57,74,70,73,0,0,0,0,52,60,63,67,78,61,60,77,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,2,UPS (I-VIII),1,Department of Education,Rural,4,30,35,33,31,34,36,42,53,69,46,0,0,0,0,30,35,30,28,28,45,30,41,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,2,UPS (I-VIII),1,Department of Education,Rural,4,15,21,37,36,27,34,37,132,116,149,0,0,0,0,37,40,32,36,52,115,121,89,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,2,UPS (I-VIII),1,Department of Education,Rural,4,56,35,36,31,26,30,30,54,47,55,0,0,0,0,29,24,40,29,37,50,51,47,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,2,UPS (I-VIII),1,Department of Education,Urban,4,3,3,2,7,2,0,0,0,0,5,0,0,0,0,1,2,1,0,0,0,0,5,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,61,36,32,37,25,27,20,23,16,13,15,10,0,0,24,26,18,26,29,18,8,13,10,4,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,24,23,25,28,18,30,20,19,10,8,5,6,0,0,18,19,16,13,18,9,10,4,2,2,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,153,152,79,58,63,50,52,36,39,8,16,17,0,0,61,58,37,46,59,22,33,22,20,14,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,51,55,47,47,39,33,28,21,15,16,7,2,0,0,44,34,32,28,28,19,23,6,10,6,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,59,42,21,18,19,26,14,10,5,5,0,0,0,0,6,11,15,10,11,5,6,3,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,71,36,38,30,31,31,30,21,15,18,15,24,9,0,26,25,32,21,34,21,15,23,10,8,10,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,50,41,15,25,13,8,4,12,6,6,5,3,0,0,10,17,16,9,10,8,3,3,5,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,6,12,2,2,4,1,1,5,2,2,0,0,0,0,2,0,2,2,4,2,0,2,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,2,1,5,5,1,0,4,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,785,738,708,0,0,0,0,0,0,0,0,0,798,717,763,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,513,508,474,0,0,0,0,0,0,0,0,0,453,461,456,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,315,300,294,0,0,0,0,0,0,0,0,0,327,336,300,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,200,217,223,0,0,0,0,0,0,0,0,0,193,222,223,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,792,713,721,0,0,0,0,0,0,0,0,0,742,650,639,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,478,463,384,0,0,0,0,0,0,0,0,0,565,429,440,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,5,24,21,0,0,0,0,0,0,0,0,0,9,7,4,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,19,22,23,0,0,0,0,0,0,0,0,0,15,17,22,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,51,44,65,0,0,0,0,0,0,0,0,0,59,88,75,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,27,24,21,0,0,0,0,0,0,0,0,0,15,16,17,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,43,34,37,0,0,0,0,0,0,0,0,0,27,24,34,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,57,48,74,0,0,0,0,0,0,0,0,0,61,53,74,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,29,27,27,0,0,0,0,0,0,0,0,0,19,21,20,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,55,34,46,0,0,0,0,0,0,0,0,0,45,31,45,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,111,123,107,0,0,0,0,0,0,0,0,0,103,135,105,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,10,9,3,0,0,0,0,0,0,0,0,0,5,1,4,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,4,UPS (VI-VIII),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,20,13,10,0,0,0,0,0,0,0,0,0,6,9,13,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,4,UPS (VI-VIII),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,2,5,7,0,0,0,0,0,0,0,0,0,4,7,2,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,4,UPS (VI-VIII),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,4,UPS (VI-VIII),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,4,UPS (VI-VIII),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,9,16,20,0,0,0,0,0,0,0,0,0,7,4,6,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,4,UPS (VI-VIII),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,13,9,5,0,0,0,0,0,0,0,0,0,8,2,8,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,4,UPS (VI-VIII),98,Madarsa unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,1,0,2,0,0,0,3,0,0,0,0,0,0,0,2,1,0,2,1,1,0,0,0,0,0,0,ST
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,7,12,7,4,3,4,2,3,5,4,5,5,3,1,4,5,4,2,3,2,2,3,0,5,5,3,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,38,36,30,27,33,37,40,28,35,44,28,29,14,28,17,28,21,37,30,16,36,30,34,38,19,12,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,5,7,4,6,6,4,6,2,1,8,19,6,3,0,5,4,8,7,6,6,5,15,7,15,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,3,HSS (I-XII),7,Central Govt,Urban,1,0,0,6,6,7,11,12,22,34,19,27,11,18,17,7,8,9,8,10,22,17,12,16,22,21,24,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,3,HSS (I-XII),7,Central Govt,Urban,1,0,0,18,11,11,11,21,25,31,15,32,26,16,12,12,17,16,19,12,21,21,19,23,25,10,15,General
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,1,2,2,3,0,0,0,0,0,0,0,0,4,2,3,8,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,6,8,18,14,0,0,0,0,0,0,0,0,5,7,18,27,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,5,5,10,9,0,0,0,0,0,0,0,0,3,4,10,4,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,13,0,33,37,0,0,0,0,0,0,0,0,10,0,42,27,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,1,2,6,3,0,0,0,0,0,0,0,0,0,0,14,6,General
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,12,16,10,30,13,16,16,0,0,0,0,0,8,11,15,24,16,19,17,General
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,1,2,3,39,15,4,5,0,0,0,0,0,0,4,6,18,10,12,1,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,22,18,23,29,41,59,43,0,0,0,0,0,19,19,24,24,18,32,29,General
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,20,27,16,31,18,15,6,0,0,0,0,0,14,17,19,17,16,10,11,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,19,19,18,49,39,8,9,0,0,0,0,0,21,23,17,32,34,10,12,General
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,58,79,58,76,83,36,42,0,0,0,0,0,23,27,12,24,19,17,16,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,40,41,36,46,44,24,36,0,0,0,0,0,5,12,11,11,17,12,16,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,50,47,54,67,67,69,53,0,0,0,0,0,59,58,75,70,58,75,53,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,37,33,41,65,41,75,63,0,0,0,0,0,96,78,67,105,86,76,81,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,16,14,14,12,1,20,29,0,0,0,0,0,0,3,5,3,11,5,2,General
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,1,1,0,2,1,0,0,0,0,0,0,0,1,4,5,1,4,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,5,HSS (VI-XII),7,Central Govt,Rural,1,0,0,0,0,0,0,0,5,3,4,4,1,2,9,0,0,0,0,0,3,3,3,5,7,3,5,General
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,5,3,0,0,0,0,0,0,0,0,0,0,3,5,General
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,7,6,0,0,0,0,0,0,0,0,0,0,12,19,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,30,26,0,0,0,0,0,0,0,0,0,0,34,29,General
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,3,3,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,3,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,9,18,0,0,0,0,0,0,0,0,0,0,23,19,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,11,HSS (XI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,8,11,0,0,0,0,0,0,0,0,0,0,6,4,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,11,HSS (XI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,81,109,0,0,0,0,0,0,0,0,0,0,75,64,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,11,HSS (XI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,44,42,0,0,0,0,0,0,0,0,0,0,67,35,General
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,11,HSS (XI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,5,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,11,HSS (XI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,12,8,0,0,0,0,0,0,0,0,0,0,10,10,General
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,11,HSS (XI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,1,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,11,HSS (XI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,11,HSS (XI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,11,General
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,24,20,0,0,0,0,0,0,0,0,0,0,18,16,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,5,2,0,0,0,0,0,0,0,0,0,0,6,8,General
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,135,141,0,0,0,0,0,0,0,0,0,0,114,107,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,9,14,0,0,0,0,0,0,0,0,0,0,17,15,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,36,24,0,0,0,0,0,0,0,0,0,0,36,19,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,82,99,0,0,0,0,0,0,0,0,0,0,95,107,General
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,11,HSS (XI-XII),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,11,HSS (XI-XII),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,1,PS (I-V),1,Department of Education,Rural,1,30,29,31,38,29,35,33,0,0,0,0,0,0,0,32,22,31,34,29,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,1,PS (I-V),1,Department of Education,Rural,1,103,91,99,101,90,88,82,0,0,0,0,0,0,0,84,100,76,99,101,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,1,PS (I-V),1,Department of Education,Rural,1,133,129,134,129,120,128,116,0,0,0,0,0,0,0,146,134,143,121,114,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,1,PS (I-V),1,Department of Education,Rural,1,156,83,145,137,119,116,95,0,0,0,0,0,0,0,113,83,86,92,80,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,1,PS (I-V),1,Department of Education,Rural,1,94,95,87,85,57,72,69,0,0,0,0,0,0,0,85,76,74,102,61,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,1,PS (I-V),1,Department of Education,Rural,1,212,205,194,170,169,157,127,0,0,0,0,0,0,0,206,146,159,184,152,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,1,PS (I-V),1,Department of Education,Urban,1,46,36,41,36,42,45,39,0,0,0,0,0,0,0,33,53,45,31,36,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,1,PS (I-V),1,Department of Education,Urban,1,25,25,33,21,30,21,17,0,0,0,0,0,0,0,39,21,27,18,17,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,1,PS (I-V),1,Department of Education,Urban,1,35,17,57,17,30,18,35,0,0,0,0,0,0,0,28,13,19,13,11,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,1,PS (I-V),1,Department of Education,Urban,1,49,53,40,46,41,41,46,0,0,0,0,0,0,0,33,43,46,50,60,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,1,PS (I-V),1,Department of Education,Urban,1,53,59,44,47,57,52,36,0,0,0,0,0,0,0,62,66,73,69,60,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,4,5,8,3,6,2,0,0,0,0,0,0,0,0,2,4,1,2,0,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,6,2,7,3,1,2,4,0,0,0,0,0,0,0,1,0,3,3,2,1,1,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,9,2,1,5,1,2,0,0,0,0,0,0,0,0,2,3,0,0,2,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,20,7,4,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,10,16,27,32,30,24,28,12,8,16,2,1,0,0,25,15,35,37,32,12,9,10,3,1,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,38,32,16,11,0,1,0,0,0,0,2,1,0,0,11,9,4,5,0,0,0,0,3,1,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,12,7,2,3,3,1,1,2,1,3,7,2,0,0,2,5,3,3,0,4,1,3,4,6,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,25,20,9,7,10,7,8,0,0,0,4,2,0,0,9,9,8,7,7,0,2,1,4,3,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,2,2,2,0,3,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,1,PS (I-V),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,1,PS (I-V),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,1,PS (I-V),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,1,PS (I-V),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,1,PS (I-V),8,Unrecognized,Rural,1,4,3,7,2,2,4,5,0,0,0,0,0,0,0,8,3,3,2,5,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,1,PS (I-V),8,Unrecognized,Urban,1,0,0,1,5,1,1,2,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,1,PS (I-V),98,Madarsa unrecognized,Rural,1,0,0,0,10,4,9,4,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,1,PS (I-V),98,Madarsa unrecognized,Rural,1,0,0,17,11,6,9,5,0,0,0,0,0,0,0,0,1,3,2,2,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,6,SS (I-X),1,Department of Education,Rural,1,0,0,5,6,0,0,0,5,3,0,9,7,0,0,2,6,0,0,0,4,3,0,9,8,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,23,31,11,18,7,9,19,12,15,11,48,36,0,0,13,9,19,12,9,11,6,6,45,41,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,23,25,31,24,18,21,23,25,23,14,31,25,0,0,23,18,15,19,21,20,13,10,26,22,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,64,49,33,27,34,35,29,21,24,27,54,29,0,0,28,25,16,17,23,19,20,12,44,38,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,69,52,58,50,45,55,61,56,49,52,64,56,0,0,49,50,49,48,48,50,44,36,70,58,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,6,6,5,6,8,6,6,5,3,2,25,14,0,0,4,8,6,6,5,5,4,0,60,19,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,66,48,58,58,32,45,34,35,33,27,53,28,0,0,50,33,31,35,39,28,29,20,40,33,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,1,0,0,2,1,0,0,0,1,0,1,0,0,0,0,3,1,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,78,70,67,69,47,35,54,40,47,27,34,34,0,0,59,34,27,33,34,29,27,19,32,22,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,0,1,4,3,4,2,8,3,6,11,12,10,0,0,1,4,3,3,5,2,2,2,14,10,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,4,4,7,3,1,1,3,2,1,4,2,2,0,0,3,0,3,2,1,2,4,2,5,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,152,132,83,105,101,92,68,72,74,69,80,95,0,0,62,74,73,80,77,55,55,43,73,67,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,3,4,0,0,0,0,0,0,0,0,0,0,2,5,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,29,24,0,0,0,0,0,0,0,0,0,0,30,26,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,65,48,0,0,0,0,0,0,0,0,0,0,98,103,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,25,31,0,0,0,0,0,0,0,0,0,0,25,25,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,26,17,0,0,0,0,0,0,0,0,0,0,23,24,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,28,20,0,0,0,0,0,0,0,0,0,0,43,39,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,8,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,11,7,0,0,0,0,0,0,0,0,0,0,40,17,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,8,SS (IX-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,8,SS (IX-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,6,9,0,0,0,0,0,0,0,0,0,0,5,6,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,8,SS (IX-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,7,4,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,8,SS (IX-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,8,SS (IX-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,8,12,0,0,0,0,0,0,0,0,0,0,19,9,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,8,SS (IX-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,8,SS (IX-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,5,3,0,0,0,0,0,0,0,0,0,0,4,1,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,9,8,6,4,3,2,6,8,2,2,11,7,0,0,0,4,0,4,1,2,5,2,17,11,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,8,SS (IX-X),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,8,SS (IX-X),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,2,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,8,SS (IX-X),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,8,SS (IX-X),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,3,6,0,0,0,0,0,0,0,0,0,0,5,10,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,8,SS (IX-X),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,10,12,8,12,8,0,0,0,0,0,0,0,3,9,6,11,9,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,24,38,37,45,37,2,6,0,0,0,0,0,39,40,27,59,59,7,3,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,27,33,33,66,33,0,0,0,0,0,0,0,15,19,26,44,47,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,34,56,29,50,27,0,0,0,0,0,0,0,29,38,43,54,58,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,18,20,24,27,25,0,0,0,0,0,0,0,20,12,29,26,35,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,39,27,26,56,35,0,0,0,0,0,0,0,30,27,38,43,41,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,7,SS (VI-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,5,1,4,6,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,7,SS (VI-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,2,4,2,9,3,0,0,0,0,0,0,0,35,16,17,52,23,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,7,SS (VI-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,10,0,10,5,5,0,0,0,0,0,0,0,10,2,10,7,4,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,7,SS (VI-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,4,5,5,10,6,0,0,0,0,0,0,0,16,14,11,14,8,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,7,SS (VI-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,23,30,20,44,37,0,0,0,0,0,0,0,25,15,20,31,23,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,4,0,0,6,4,0,0,0,0,0,0,0,0,0,0,2,5,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,3,3,4,12,14,0,0,0,0,0,0,0,6,4,1,15,16,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,7,SS (VI-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,3,1,2,3,3,0,0,0,0,0,0,0,1,1,1,6,1,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,2,8,12,3,2,0,0,0,0,0,0,0,2,10,7,3,7,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,7,SS (VI-X),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,7,SS (VI-X),98,Madarsa unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,27,18,15,16,19,9,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,2,UPS (I-VIII),1,Department of Education,Rural,1,1,0,1,0,0,0,1,0,2,3,0,0,0,0,0,1,1,2,0,2,0,5,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,2,UPS (I-VIII),1,Department of Education,Rural,1,2,4,4,2,1,3,2,5,5,10,0,0,0,0,6,3,3,3,6,6,5,4,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,2,UPS (I-VIII),1,Department of Education,Rural,1,5,5,7,5,5,2,2,6,7,2,0,0,0,0,4,4,6,1,2,1,5,5,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,2,UPS (I-VIII),1,Department of Education,Rural,1,4,3,7,1,5,3,9,13,18,18,0,0,0,0,4,6,1,7,3,14,13,16,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,0,1,1,1,3,4,1,5,0,0,0,0,1,2,0,1,1,6,3,4,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,2,UPS (I-VIII),1,Department of Education,Rural,1,13,18,6,14,10,11,4,13,8,11,0,0,0,0,4,2,11,12,11,9,5,8,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,4,7,9,4,4,1,1,2,2,1,5,6,0,0,2,5,2,2,0,1,2,0,7,4,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,5,2,4,11,5,9,6,10,4,5,13,9,0,0,5,10,8,7,6,3,6,2,15,10,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,34,24,12,12,13,9,12,9,9,6,21,14,0,0,16,4,13,8,6,4,9,3,22,16,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,24,25,10,18,8,15,10,11,14,2,22,15,0,0,5,20,13,9,7,11,7,5,23,18,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,7,3,4,4,1,6,1,0,0,0,0,0,0,0,3,0,1,1,2,2,0,3,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,34,32,19,17,8,13,11,9,5,6,14,9,0,0,17,14,7,13,4,7,6,6,15,11,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,53,46,33,36,15,15,18,8,13,2,11,5,0,0,17,23,13,14,13,4,9,2,7,10,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,2,2,2,6,2,2,1,1,0,1,0,0,0,0,1,2,1,1,2,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,1,0,0,0,0,20,13,21,14,8,12,7,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,24,18,30,0,0,0,0,0,0,0,0,0,24,20,27,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,37,32,33,0,0,0,0,0,0,0,0,0,23,40,46,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,48,54,50,0,0,0,0,0,0,0,0,0,64,89,75,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,72,64,93,0,0,0,0,0,0,0,0,0,34,35,34,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,77,37,48,0,0,0,0,0,0,0,0,0,62,73,65,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,59,46,40,0,0,0,0,0,0,0,0,0,74,59,82,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,16,26,31,0,0,0,0,0,0,0,0,0,8,13,11,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,20,9,20,0,0,0,0,0,0,0,0,0,3,8,12,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,6,17,18,0,0,0,0,0,0,0,0,0,27,42,34,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,4,6,6,0,0,0,0,0,0,0,0,0,3,1,5,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,2,7,5,0,0,0,0,0,0,0,0,0,4,2,3,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,7,9,8,0,0,0,0,0,0,0,0,0,6,11,8,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,6,7,7,0,0,0,0,0,0,0,0,0,6,8,7,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,4,UPS (VI-VIII),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,4,UPS (VI-VIII),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,4,UPS (VI-VIII),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,4,UPS (VI-VIII),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,1,4,2,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,4,UPS (VI-VIII),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,0,0,0,1,5,1,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,4,UPS (VI-VIII),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,4,UPS (VI-VIII),98,Madarsa unrecognized,Rural,1,0,0,0,0,0,0,0,10,8,9,0,0,0,0,0,0,0,0,0,0,4,3,0,0,0,0,General
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,9,6,4,7,1,1,0,3,2,1,2,4,0,0,6,2,1,3,0,1,2,1,0,1,4,4,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,1,0,2,3,3,1,4,4,3,6,2,5,1,5,0,0,2,1,3,5,2,5,4,5,3,3,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,2,2,0,1,0,0,1,0,1,1,3,1,0,0,0,1,2,1,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,3,HSS (I-XII),7,Central Govt,Urban,2,0,0,6,5,4,2,6,5,6,2,5,2,4,1,2,8,6,4,5,1,4,3,5,1,4,3,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,3,HSS (I-XII),7,Central Govt,Urban,2,0,0,2,3,2,1,3,0,7,2,0,3,4,4,5,3,5,1,2,3,2,1,1,1,3,3,SC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,2,6,3,0,0,0,0,0,0,0,0,3,4,5,4,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,2,4,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,2,2,1,2,0,0,0,0,0,0,0,0,2,1,2,1,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,1,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,SC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,13,8,11,16,6,14,4,0,0,0,0,0,9,12,8,14,10,6,8,SC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,4,3,2,10,10,3,0,0,0,0,0,0,1,2,0,6,7,1,1,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,21,21,36,31,37,39,30,0,0,0,0,0,21,17,25,19,20,33,38,SC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,20,13,14,11,8,7,3,0,0,0,0,0,7,7,13,6,7,5,5,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,7,5,1,14,8,4,4,0,0,0,0,0,4,1,2,18,8,2,1,SC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,27,29,26,26,31,24,22,0,0,0,0,0,9,7,9,9,14,7,10,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,10,8,11,16,6,16,10,0,0,0,0,0,7,2,3,3,6,8,6,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,21,13,9,17,13,4,9,0,0,0,0,0,20,13,20,18,21,10,8,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,15,24,14,13,19,9,9,0,0,0,0,0,44,42,43,41,38,23,36,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,2,2,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,5,HSS (VI-XII),7,Central Govt,Rural,2,0,0,0,0,0,0,0,5,6,4,13,8,7,4,0,0,0,0,0,9,7,5,4,6,3,7,SC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,8,2,0,0,0,0,0,0,0,0,0,0,4,1,SC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,8,5,0,0,0,0,0,0,0,0,0,0,7,4,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,18,20,0,0,0,0,0,0,0,0,0,0,22,9,SC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,3,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,11,HSS (XI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,9,4,0,0,0,0,0,0,0,0,0,0,5,3,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,11,HSS (XI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,24,21,0,0,0,0,0,0,0,0,0,0,10,12,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,11,HSS (XI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,10,8,0,0,0,0,0,0,0,0,0,0,12,8,SC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,11,HSS (XI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,11,HSS (XI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,8,6,0,0,0,0,0,0,0,0,0,0,6,5,SC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,11,HSS (XI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,1,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,11,HSS (XI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,11,HSS (XI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,7,SC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,22,13,0,0,0,0,0,0,0,0,0,0,7,5,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,SC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,37,36,0,0,0,0,0,0,0,0,0,0,38,20,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,6,2,0,0,0,0,0,0,0,0,0,0,3,3,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,5,6,0,0,0,0,0,0,0,0,0,0,2,2,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,25,21,0,0,0,0,0,0,0,0,0,0,15,19,SC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,11,HSS (XI-XII),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,4,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,11,HSS (XI-XII),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181601,SAPEKHATI,1,PS (I-V),1,Department of Education,Rural,2,37,38,29,24,29,28,47,0,0,0,0,0,0,0,41,28,34,34,28,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,1,PS (I-V),1,Department of Education,Rural,2,74,93,75,81,79,62,78,0,0,0,0,0,0,0,87,96,75,66,70,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,1,PS (I-V),1,Department of Education,Rural,2,84,83,70,68,65,89,70,0,0,0,0,0,0,0,74,51,76,53,58,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,1,PS (I-V),1,Department of Education,Rural,2,112,69,131,140,92,87,78,0,0,0,0,0,0,0,56,64,39,50,42,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,1,PS (I-V),1,Department of Education,Rural,2,39,29,41,36,47,48,29,0,0,0,0,0,0,0,33,29,30,43,45,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,1,PS (I-V),1,Department of Education,Rural,2,62,60,69,71,48,42,65,0,0,0,0,0,0,0,63,63,62,58,51,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181602,DEMOW,1,PS (I-V),1,Department of Education,Urban,2,15,18,16,17,20,9,8,0,0,0,0,0,0,0,17,20,15,14,5,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181603,AMGURI,1,PS (I-V),1,Department of Education,Urban,2,8,16,22,12,18,8,9,0,0,0,0,0,0,0,21,13,18,11,12,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181604,KHELUA,1,PS (I-V),1,Department of Education,Urban,2,10,9,5,5,2,10,5,0,0,0,0,0,0,0,9,10,3,6,2,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181605,SONARI,1,PS (I-V),1,Department of Education,Urban,2,24,18,33,12,11,13,11,0,0,0,0,0,0,0,25,24,30,26,13,0,0,0,0,0,0,0,SC
+2016-17,18,Assam,1816,SIBSAGAR,181606,NAZIRA,1,PS (I-V),1,Department of Education,Urban,2,30,32,15,16,17,15,19,0,0,0,0,0,0,0,22,29,24,26,19,0,0,0,0,0,0,0,SC

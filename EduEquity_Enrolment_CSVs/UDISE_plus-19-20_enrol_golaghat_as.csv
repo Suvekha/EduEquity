@@ -1,0 +1,633 @@
+ac_year,st_code,state_name,dt_code,district_name,block_cd,udise_block_name,loc_name,sch_category_id,tr_cat_name,school_category,sch_mgmt_id,sch_mgmt_name,caste_id,caste_name,pre_primary_boy,pre_primary_girl,class1_boy,class2_boy,class3_boy,class4_boy,class5_boy,class6_boy,class7_boy,class8_boy,class9_boy,class10_boy,class11_boy,class12_boy,class1_girl,class2_girl,class3_girl,class4_girl,class5_girl,class6_girl,class7_girl,class8_girl,class9_girl,class10_girl,class11_girl,class12_girl
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,235,216,199,220,179,112,141,148,103,70,0,0,0,0,161,136,126,100,124,90,85,43,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,8,10,5,9,4,5,4,2,2,1,0,0,0,0,5,2,6,1,6,6,2,3,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,257,197,128,146,121,96,86,92,61,46,0,0,0,0,113,117,86,83,61,68,47,32,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,27,16,5,5,3,6,4,0,0,0,0,0,0,0,12,7,3,6,6,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,7,11,25,18,12,13,14,11,7,0,0,0,0,0,11,14,13,6,9,3,4,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,2,22,0,4,6,7,6,6,8,2,0,0,0,0,12,10,4,3,8,4,5,9,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,30,23,26,15,33,21,16,19,22,18,0,0,0,0,14,13,23,23,8,20,17,8,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,52,54,52,0,0,0,0,0,0,0,0,0,51,45,56,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,170,188,155,0,0,0,0,0,0,0,0,0,170,166,153,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,17,15,12,0,0,0,0,0,0,0,0,0,16,10,11,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,30,19,18,0,0,0,0,0,0,0,0,0,40,29,38,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,59,57,53,0,0,0,0,0,0,0,0,0,56,50,39,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,2,2,3,0,0,0,0,0,0,0,0,0,3,4,3,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,17,4,15,0,0,0,0,0,0,0,0,0,12,11,12,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,6,12,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,137,151,161,0,0,0,0,0,0,0,0,0,122,134,158,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,158,145,171,0,0,0,0,0,0,0,0,0,183,190,207,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,23,43,44,0,0,0,0,0,0,0,0,0,39,38,49,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,248,248,250,0,0,0,0,0,0,0,0,0,276,295,330,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,97,97,100,0,0,0,0,0,0,0,0,0,144,152,157,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,8,10,7,0,0,0,0,0,0,0,0,0,10,8,8,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,4,3,5,0,0,0,0,0,0,0,0,0,4,1,2,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,4,cat4,UPS (VI-VIII),8,Unrecognized,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,4,cat4,UPS (VI-VIII),8,Unrecognized,4,OBC,0,0,0,0,0,0,0,48,22,31,0,0,0,0,0,0,0,0,0,39,43,37,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,4,cat4,UPS (VI-VIII),8,Unrecognized,4,OBC,0,0,0,0,0,0,0,6,6,9,0,0,0,0,0,0,0,0,0,4,4,3,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,4,cat4,UPS (VI-VIII),8,Unrecognized,4,OBC,0,0,0,0,0,0,0,21,8,5,0,0,0,0,0,0,0,0,0,17,11,7,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,4,cat4,UPS (VI-VIII),8,Unrecognized,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,3,cat3,HSS (I-XII),1,Department of Education,1,General,0,0,1,0,0,1,1,6,4,4,11,0,0,0,2,3,4,0,3,7,9,8,21,8,41,33
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,7,2,1,1,3,5,3,3,3,0,0,0,1,1,1,1,2,1,0,0,1,0,0,0,7,3
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,101,59,45,61,48,44,53,45,35,69,37,38,69,49,36,57,38,45,65,44,50,47,45,47,66,57
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,37,30,38,50,53,48,56,60,54,49,53,45,22,43,40,39,30,33,41,33,49,41,43,41,22,20
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,10,2,8,8,11,10,8,11,8,8,24,33,21,22,8,7,15,9,5,6,3,5,5,17,26,31
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,10,cat10,HSS (IX-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,1,4,1,1,0,0,0,0,0,0,0,0,3,5,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,10,cat10,HSS (IX-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,12,7,10,6,0,0,0,0,0,0,0,0,23,14,15,14
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,10,cat10,HSS (IX-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,0,6,0,3,0,0,0,0,0,0,0,0,0,5,0,3
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,3,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,10,cat10,HSS (IX-XII),8,Unrecognized,1,General,0,0,0,0,0,0,0,0,0,0,0,4,3,1,0,0,0,0,0,0,0,0,0,4,4,2
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,43,43,40,69,42,44,43,0,0,0,0,0,21,27,24,29,32,43,41
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,45,33,46,41,54,49,51,0,0,0,0,0,35,23,31,59,43,56,68
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,53,42,55,53,53,66,95,0,0,0,0,0,51,54,40,52,57,77,73
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,5,4,3,6,6,8,8,0,0,0,0,0,6,5,4,7,7,7,7
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,24,35,24,28,40,28,22,0,0,0,0,0,12,6,6,0,0,8,14
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,29,32,37,65,59,65,73,0,0,0,0,0,23,30,46,56,56,70,78
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,18,10,20,13,13,21,13,0,0,0,0,0,16,4,7,18,13,19,10
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,2,4,6,9,4,0,1,0,0,0,0,0,7,20,12,7,4,2,3
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,5,cat5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,1,General,0,0,0,0,0,0,0,12,7,14,8,5,8,3,0,0,0,0,0,12,14,6,17,12,7,4
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,11,cat11,HSS (XI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,0,0,42,16,0,0,0,0,0,0,0,0,0,0,38,30
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,11,cat11,HSS (XI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,0,0,30,35,0,0,0,0,0,0,0,0,0,0,22,18
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,11,cat11,HSS (XI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,0,0,95,79,0,0,0,0,0,0,0,0,0,0,73,67
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,11,cat11,HSS (XI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,0,0,14,14,0,0,0,0,0,0,0,0,0,0,23,11
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,11,cat11,HSS (XI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,0,0,87,74,0,0,0,0,0,0,0,0,0,0,88,88
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,11,cat11,HSS (XI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,0,0,37,22,0,0,0,0,0,0,0,0,0,0,26,24
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,11,cat11,HSS (XI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,0,0,34,27,0,0,0,0,0,0,0,0,0,0,17,24
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,11,cat11,HSS (XI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,0,0,9,13,0,0,0,0,0,0,0,0,0,0,12,6
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,11,cat11,HSS (XI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,0,0,17,11,0,0,0,0,0,0,0,0,0,0,58,13
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,11,cat11,HSS (XI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,0,0,13,9,0,0,0,0,0,0,0,0,0,0,10,8
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,11,cat11,HSS (XI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,3
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,24,14,0,0,0,0,0,0,0,0,0,0,13,9
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,3,4,0,0,0,0,0,0,0,0,0,0,1,4
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,63,63,0,0,0,0,0,0,0,0,0,0,53,66
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,80,62,0,0,0,0,0,0,0,0,0,0,87,61
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,11,cat11,HSS (XI-XII),8,Unrecognized,1,General,0,0,0,0,0,0,0,0,0,0,0,0,21,9,0,0,0,0,0,0,0,0,0,0,8,9
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,11,cat11,HSS (XI-XII),8,Unrecognized,1,General,0,0,0,0,0,0,0,0,0,0,0,0,1,7,0,0,0,0,0,0,0,0,0,0,10,4
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,11,cat11,HSS (XI-XII),8,Unrecognized,1,General,0,0,0,0,0,0,0,0,0,0,0,0,10,9,0,0,0,0,0,0,0,0,0,0,9,4
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,11,cat11,HSS (XI-XII),8,Unrecognized,1,General,0,0,0,0,0,0,0,0,0,0,0,0,10,19,0,0,0,0,0,0,0,0,0,0,6,11
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,120,134,172,154,166,180,138,0,0,0,0,0,0,0,198,162,145,159,165,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,221,250,436,405,382,360,411,0,0,0,0,0,0,0,468,436,416,420,412,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,70,60,157,113,128,108,127,0,0,0,0,0,0,0,111,119,129,141,146,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,55,68,402,340,307,254,260,0,0,0,0,0,0,0,485,386,376,296,290,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,36,21,32,28,35,40,37,0,0,0,0,0,0,0,28,22,37,39,43,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,1,cat1,PS (I-V),1,Department of Education,1,General,48,65,70,63,49,62,58,0,0,0,0,0,0,0,63,86,72,75,55,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,1,cat1,PS (I-V),1,Department of Education,1,General,22,14,9,14,18,12,14,0,0,0,0,0,0,0,6,14,17,9,15,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,1,cat1,PS (I-V),1,Department of Education,1,General,10,15,29,14,23,12,8,0,0,0,0,0,0,0,14,15,20,16,17,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,1,cat1,PS (I-V),1,Department of Education,1,General,5,17,3,8,7,4,2,0,0,0,0,0,0,0,20,14,22,14,12,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,39,28,19,9,5,3,1,0,0,0,0,0,0,0,6,8,9,1,3,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,50,58,31,33,18,19,14,0,0,0,0,0,0,0,16,17,16,14,18,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,8,14,9,6,4,0,0,0,0,0,0,0,0,0,8,6,3,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,27,28,14,19,10,4,6,0,0,0,0,0,0,0,11,15,9,0,5,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,24,18,13,10,3,6,3,0,0,0,0,0,0,0,6,4,3,5,2,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,6,4,8,6,1,0,0,0,0,0,0,0,0,0,7,3,5,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,11,6,4,2,4,3,3,0,0,0,0,0,0,0,5,5,5,4,3,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,1,cat1,PS (I-V),8,Unrecognized,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,1,cat1,PS (I-V),8,Unrecognized,1,General,6,11,16,9,12,2,8,0,0,0,0,0,0,0,12,10,13,8,9,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,1,cat1,PS (I-V),8,Unrecognized,1,General,0,0,3,8,11,6,7,0,0,0,0,0,0,0,3,5,5,7,4,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,1,cat1,PS (I-V),8,Unrecognized,1,General,55,56,85,58,62,39,49,0,0,0,0,0,0,0,120,66,64,56,38,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,1,cat1,PS (I-V),8,Unrecognized,1,General,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,1,cat1,PS (I-V),8,Unrecognized,1,General,0,0,6,6,4,1,5,0,0,0,0,0,0,0,3,11,7,11,8,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,1,cat1,PS (I-V),8,Unrecognized,1,General,0,0,2,2,1,1,2,0,0,0,0,0,0,0,2,1,4,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,1,cat1,PS (I-V),8,Unrecognized,1,General,0,1,1,3,2,4,4,0,0,0,0,0,0,0,1,2,1,2,2,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,6,cat6,SS (I-X),1,Department of Education,1,General,9,4,5,1,3,3,8,25,13,13,14,13,0,0,2,6,5,4,7,15,12,16,14,23,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,6,cat6,SS (I-X),1,Department of Education,1,General,0,0,6,11,5,7,13,24,47,23,35,26,0,0,7,6,10,11,3,24,31,27,37,25,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,6,cat6,SS (I-X),1,Department of Education,1,General,6,6,11,5,3,7,9,16,8,12,21,16,0,0,9,8,2,5,10,17,18,10,23,13,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,6,cat6,SS (I-X),1,Department of Education,1,General,0,1,0,0,2,0,0,1,2,3,2,4,0,0,0,0,1,0,0,2,0,0,4,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,6,cat6,SS (I-X),1,Department of Education,1,General,0,0,0,2,0,2,2,5,3,8,8,9,0,0,0,0,0,0,1,0,2,9,9,7,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,6,cat6,SS (I-X),1,Department of Education,1,General,0,0,0,0,1,0,1,2,2,2,4,1,0,0,2,2,0,0,1,0,3,4,5,3,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,6,cat6,SS (I-X),1,Department of Education,1,General,0,1,4,6,4,1,5,16,14,15,24,11,0,0,3,2,3,3,6,16,17,19,22,17,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,6,cat6,SS (I-X),1,Department of Education,1,General,6,5,4,7,7,9,6,24,16,10,22,8,0,0,2,2,3,3,4,18,10,16,17,23,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,121,99,73,109,84,84,60,53,55,64,64,49,0,0,60,86,70,72,63,57,44,54,37,41,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,119,123,115,93,93,98,71,66,53,53,70,50,0,0,91,88,91,58,65,75,37,57,52,65,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,57,40,20,36,27,16,23,27,23,15,12,28,0,0,30,33,7,16,16,18,18,14,18,15,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,136,95,55,61,55,48,43,43,43,40,52,28,0,0,49,40,38,49,40,46,26,24,44,26,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,68,49,25,36,24,26,31,36,32,26,14,22,0,0,36,25,28,21,29,27,28,26,29,30,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,143,118,113,122,104,94,118,66,90,90,100,88,0,0,95,108,105,88,104,104,95,98,85,66,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,76,63,96,127,109,88,73,73,89,60,79,76,0,0,71,80,79,74,64,75,89,54,58,69,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,59,73,48,64,36,37,40,35,22,26,35,20,0,0,43,45,30,44,40,26,31,37,27,12,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,38,33,21,36,29,19,30,28,31,28,26,20,0,0,22,28,23,21,18,24,22,26,22,21,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,6,cat6,SS (I-X),8,Unrecognized,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,6,cat6,SS (I-X),8,Unrecognized,1,General,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,6,cat6,SS (I-X),92,Kendriya Vidyalaya / Central School,1,General,0,0,6,12,4,4,9,8,8,15,7,7,0,0,3,8,9,4,5,7,6,13,4,6,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,8,cat8,SS (IX-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,42,39,0,0,0,0,0,0,0,0,0,0,35,45,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,8,cat8,SS (IX-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,7,10,0,0,0,0,0,0,0,0,0,0,23,30,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,8,cat8,SS (IX-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,7,2,0,0,0,0,0,0,0,0,0,0,4,6,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,8,cat8,SS (IX-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,27,16,0,0,0,0,0,0,0,0,0,0,37,9,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,8,cat8,SS (IX-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,8,cat8,SS (IX-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,4,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,8,cat8,SS (IX-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,39,34,0,0,0,0,0,0,0,0,0,0,22,26,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,8,cat8,SS (IX-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,70,28,0,0,0,0,0,0,0,0,0,0,69,51,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,8,cat8,SS (IX-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,13,15,0,0,0,0,0,0,0,0,0,0,17,15,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,8,cat8,SS (IX-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,22,20,0,0,0,0,0,0,0,0,0,0,19,32,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,8,cat8,SS (IX-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,2,5,0,0,0,0,0,0,0,0,0,0,11,8,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,8,cat8,SS (IX-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,8,6,0,0,0,0,0,0,0,0,0,0,2,7,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,8,cat8,SS (IX-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,12,12,0,0,0,0,0,0,0,0,0,0,11,10,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,5,2,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,8,cat8,SS (IX-X),8,Unrecognized,1,General,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,8,cat8,SS (IX-X),8,Unrecognized,1,General,0,0,0,0,0,0,0,0,0,0,10,18,0,0,0,0,0,0,0,0,0,0,11,8,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,8,cat8,SS (IX-X),8,Unrecognized,1,General,0,0,0,0,0,0,0,0,0,0,15,8,0,0,0,0,0,0,0,0,0,0,29,42,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,8,cat8,SS (IX-X),8,Unrecognized,1,General,0,0,0,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,6,7,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,8,cat8,SS (IX-X),8,Unrecognized,1,General,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,0,68,60,57,103,65,0,0,0,0,0,0,0,83,67,78,128,105,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,0,121,104,90,132,74,0,0,0,0,0,0,0,120,124,115,143,135,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,0,78,67,58,76,59,0,0,0,0,0,0,0,92,53,74,128,87,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,0,25,21,33,55,31,0,0,0,0,0,0,0,36,27,31,54,51,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,0,23,24,23,22,24,0,0,0,0,0,0,0,35,26,30,36,32,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,0,74,64,47,61,35,0,0,0,0,0,0,0,84,85,72,105,90,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,0,7,17,17,24,11,0,0,0,0,0,0,0,9,17,12,12,12,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,0,9,7,6,9,7,0,0,0,0,0,0,0,22,20,34,30,27,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,7,cat7,SS (VI-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,9,7,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,7,cat7,SS (VI-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,7,cat7,SS (VI-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,7,cat7,SS (VI-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,4,3,1,0,0,0,0,0,0,0,0,2,0,1,2,2,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,4,6,10,6,5,0,0,0,0,0,0,0,3,4,7,6,6,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,7,cat7,SS (VI-X),8,Unrecognized,1,General,0,0,0,0,0,0,0,1,2,3,2,3,0,0,0,0,0,0,0,0,1,2,2,2,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,2,cat2,UPS (I-VIII),1,Department of Education,1,General,8,4,20,25,26,29,32,39,42,46,0,0,0,0,22,22,20,20,18,33,31,34,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,2,cat2,UPS (I-VIII),1,Department of Education,1,General,16,17,28,18,28,25,36,35,42,53,0,0,0,0,20,26,25,21,24,42,43,59,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,2,cat2,UPS (I-VIII),1,Department of Education,1,General,20,9,36,24,25,22,27,36,28,22,0,0,0,0,27,20,19,21,23,21,16,30,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,2,cat2,UPS (I-VIII),1,Department of Education,1,General,0,1,28,20,15,17,20,48,23,34,0,0,0,0,40,17,21,18,26,57,36,41,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,2,cat2,UPS (I-VIII),1,Department of Education,1,General,3,2,7,11,13,15,7,21,19,11,0,0,0,0,9,18,17,10,25,15,11,17,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,2,cat2,UPS (I-VIII),1,Department of Education,1,General,0,0,0,2,0,0,2,2,0,0,0,0,0,0,1,0,0,1,2,1,2,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,2,cat2,UPS (I-VIII),1,Department of Education,1,General,23,21,15,27,22,22,23,35,25,15,0,0,0,0,17,24,24,26,33,27,20,29,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,2,cat2,UPS (I-VIII),1,Department of Education,1,General,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,2,cat2,UPS (I-VIII),1,Department of Education,1,General,1,1,1,0,3,2,1,4,0,2,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,0,0,15,15,15,15,6,8,4,4,0,0,0,0,15,15,15,15,6,8,2,1,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,32,31,19,15,15,16,6,6,5,6,0,0,0,0,12,13,11,10,4,9,2,4,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,50,50,25,30,32,32,26,17,11,14,0,0,0,0,27,31,32,27,14,16,17,12,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,155,125,117,92,66,57,46,31,23,24,0,0,0,0,71,59,57,46,32,34,14,15,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,2,4,2,1,1,1,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,0,0,2,0,1,1,2,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,3,35,2,10,21,17,17,8,10,16,0,0,0,0,45,29,25,26,18,11,9,7,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,9,11,7,9,8,7,8,10,4,9,0,0,0,0,7,18,6,8,8,6,8,2,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,21,23,24,0,0,0,0,0,0,0,0,0,17,21,14,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,91,61,72,0,0,0,0,0,0,0,0,0,99,91,87,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,30,27,19,0,0,0,0,0,0,0,0,0,31,39,31,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,26,6,10,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,24,8,5,0,0,0,0,0,0,0,0,0,15,7,3,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,7,12,4,0,0,0,0,0,0,0,0,0,4,5,2,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,13,26,30,0,0,0,0,0,0,0,0,0,11,14,17,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,79,72,68,0,0,0,0,0,0,0,0,0,71,81,91,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,9,11,12,0,0,0,0,0,0,0,0,0,14,11,8,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,170,165,124,0,0,0,0,0,0,0,0,0,239,232,158,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,4,4,5,0,0,0,0,0,0,0,0,0,6,7,5,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,5,4,2,0,0,0,0,0,0,0,0,0,5,6,5,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,4,cat4,UPS (VI-VIII),8,Unrecognized,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,4,cat4,UPS (VI-VIII),8,Unrecognized,1,General,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,4,cat4,UPS (VI-VIII),8,Unrecognized,1,General,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,4,cat4,UPS (VI-VIII),8,Unrecognized,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,4,cat4,UPS (VI-VIII),8,Unrecognized,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,3,cat3,HSS (I-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,1,1,0,0,2,0,0,3,3,0,0,0,3,1,0,0,1,0,0,0,0,0,0,0,1,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,0,0,6,2,2,1,0,0,0,0,0,0,0,0,0,0,2,8,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,1,1,2,3,3,0,2,1,4,4,12,3,10,4,4,4,2,0,3,0,2,3,1,2,14,8
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,10,cat10,HSS (IX-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,4,1,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,10,cat10,HSS (IX-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,3,1,2,1,0,0,0,0,0,0,0,0,4,2,3,1
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,10,cat10,HSS (IX-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,10,cat10,HSS (IX-XII),8,Unrecognized,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,7,8,4,8,7,16,10,0,0,0,0,0,2,3,4,5,5,14,8
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,18,12,17,28,20,13,23,0,0,0,0,0,13,21,19,28,15,12,11
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,30,25,22,18,22,7,12,0,0,0,0,0,34,28,21,19,23,6,9
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,14,10,12,16,10,11,5,0,0,0,0,0,6,0,4,0,0,4,2
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,18,9,9,20,8,23,16,0,0,0,0,0,24,18,12,23,13,32,21
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,6,5,2,7,1,10,6,0,0,0,0,0,0,0,1,1,3,4,8
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,8,3,3,13,1,2,5,0,0,0,0,0,5,3,6,10,2,0,1
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,5,cat5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,2,SC,0,0,0,0,0,0,0,2,10,8,5,6,6,2,0,0,0,0,0,10,8,7,6,7,7,3
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,11,cat11,HSS (XI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,8,13,0,0,0,0,0,0,0,0,0,0,14,11
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,11,cat11,HSS (XI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,13,11,0,0,0,0,0,0,0,0,0,0,11,16
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,11,cat11,HSS (XI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,51,8,0,0,0,0,0,0,0,0,0,0,18,11
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,11,cat11,HSS (XI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,10,15,0,0,0,0,0,0,0,0,0,0,15,5
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,11,cat11,HSS (XI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,17,26,0,0,0,0,0,0,0,0,0,0,26,12
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,11,cat11,HSS (XI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,9,17,0,0,0,0,0,0,0,0,0,0,13,10
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,11,cat11,HSS (XI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,14,12,0,0,0,0,0,0,0,0,0,0,10,8
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,11,cat11,HSS (XI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,11,cat11,HSS (XI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,23,43,0,0,0,0,0,0,0,0,0,0,24,51
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,11,cat11,HSS (XI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,26,7,0,0,0,0,0,0,0,0,0,0,11,9
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,11,cat11,HSS (XI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,5
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,2,8
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,5,6,0,0,0,0,0,0,0,0,0,0,2,9
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,10,15,0,0,0,0,0,0,0,0,0,0,11,11
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,16,13,0,0,0,0,0,0,0,0,0,0,12,8
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,11,cat11,HSS (XI-XII),8,Unrecognized,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,7,7,0,0,0,0,0,0,0,0,0,0,1,4
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,11,cat11,HSS (XI-XII),8,Unrecognized,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,8,1,0,0,0,0,0,0,0,0,0,0,1,2
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,11,cat11,HSS (XI-XII),8,Unrecognized,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,11,cat11,HSS (XI-XII),8,Unrecognized,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,1,1
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,41,44,76,70,63,86,67,0,0,0,0,0,0,0,80,74,63,64,80,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,81,77,117,105,74,113,106,0,0,0,0,0,0,0,115,98,117,119,95,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,14,12,81,65,49,66,86,0,0,0,0,0,0,0,78,58,59,61,87,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,9,21,35,28,30,32,32,0,0,0,0,0,0,0,43,34,36,38,38,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,114,81,95,87,102,117,100,0,0,0,0,0,0,0,115,114,79,112,114,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,1,cat1,PS (I-V),1,Department of Education,2,SC,7,12,13,28,13,20,20,0,0,0,0,0,0,0,27,23,15,19,21,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,1,cat1,PS (I-V),1,Department of Education,2,SC,14,17,42,24,13,20,14,0,0,0,0,0,0,0,18,19,13,14,16,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,1,cat1,PS (I-V),1,Department of Education,2,SC,2,9,8,8,13,8,11,0,0,0,0,0,0,0,8,11,8,9,7,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,1,cat1,PS (I-V),1,Department of Education,2,SC,3,6,1,6,4,6,7,0,0,0,0,0,0,0,4,4,5,12,9,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,4,9,3,1,2,1,0,0,0,0,0,0,0,0,2,2,3,2,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,27,27,16,23,16,8,13,0,0,0,0,0,0,0,18,11,7,9,13,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,4,5,6,3,1,1,3,0,0,0,0,0,0,0,3,6,5,0,1,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,2,4,1,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,7,10,2,1,1,3,2,0,0,0,0,0,0,0,5,2,2,4,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,2,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,6,5,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,1,cat1,PS (I-V),8,Unrecognized,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,1,cat1,PS (I-V),8,Unrecognized,2,SC,7,6,15,12,7,12,8,0,0,0,0,0,0,0,6,8,8,6,12,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,1,cat1,PS (I-V),8,Unrecognized,2,SC,2,1,1,3,4,3,5,0,0,0,0,0,0,0,2,3,2,4,3,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,1,cat1,PS (I-V),8,Unrecognized,2,SC,3,2,13,11,8,8,16,0,0,0,0,0,0,0,11,9,10,11,7,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,1,cat1,PS (I-V),8,Unrecognized,2,SC,13,11,6,7,5,5,7,0,0,0,0,0,0,0,9,4,4,3,6,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,1,cat1,PS (I-V),8,Unrecognized,2,SC,0,0,3,2,0,1,4,0,0,0,0,0,0,0,2,1,1,2,3,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,1,cat1,PS (I-V),8,Unrecognized,2,SC,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,2,1,1,2,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,1,cat1,PS (I-V),8,Unrecognized,2,SC,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,6,cat6,SS (I-X),1,Department of Education,2,SC,0,0,11,8,4,11,10,25,28,18,32,25,0,0,11,7,12,3,7,45,18,15,36,13,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,6,cat6,SS (I-X),1,Department of Education,2,SC,0,0,9,7,10,7,7,23,7,17,20,14,0,0,6,3,10,1,7,28,15,12,22,23,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,6,cat6,SS (I-X),1,Department of Education,2,SC,0,0,0,0,0,1,0,8,7,8,15,5,0,0,1,0,0,0,0,8,6,10,19,6,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,6,cat6,SS (I-X),1,Department of Education,2,SC,0,1,0,0,0,0,2,3,4,3,4,4,0,0,1,0,1,1,0,0,3,3,5,6,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,6,cat6,SS (I-X),1,Department of Education,2,SC,0,0,2,1,0,1,6,8,8,11,11,0,0,0,0,0,0,2,3,6,5,9,6,5,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,8,cat8,SS (IX-X),8,Unrecognized,2,SC,0,0,0,0,0,0,0,0,0,0,6,14,0,0,0,0,0,0,0,0,0,0,8,13,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,6,cat6,SS (I-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,1,0,0,2,2,0,0,0,1,0,0,0,0,0,2,2,4,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,6,cat6,SS (I-X),1,Department of Education,2,SC,0,0,2,0,2,0,1,4,8,6,13,9,0,0,3,4,3,2,1,6,7,3,13,6,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,6,cat6,SS (I-X),1,Department of Education,2,SC,4,1,4,1,3,2,5,10,9,10,9,5,0,0,3,2,3,2,3,10,5,8,6,7,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,49,49,16,24,23,20,18,7,19,11,7,10,0,0,17,15,12,24,17,11,18,10,7,7,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,78,70,52,62,43,41,50,34,33,32,29,21,0,0,44,38,39,40,27,26,21,29,20,21,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,50,47,24,16,23,13,17,16,12,20,18,11,0,0,20,18,16,12,11,7,9,9,7,2,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,30,33,21,17,19,17,18,16,13,14,16,7,0,0,18,14,17,15,17,17,13,14,5,3,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,33,14,14,24,13,19,17,21,16,8,15,7,0,0,13,11,12,14,16,14,17,6,17,10,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,20,17,24,18,15,15,19,11,18,19,21,17,0,0,20,11,18,18,16,10,10,12,21,7,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,9,5,5,4,5,2,3,3,0,1,1,2,0,0,5,4,1,2,2,3,0,2,2,3,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,14,15,13,13,10,5,5,4,6,6,5,2,0,0,7,10,14,5,2,4,7,6,4,1,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,6,cat6,SS (I-X),8,Unrecognized,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,6,cat6,SS (I-X),8,Unrecognized,2,SC,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,2,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,6,cat6,SS (I-X),92,Kendriya Vidyalaya / Central School,2,SC,0,0,3,1,5,4,3,2,1,3,1,2,0,0,3,5,2,1,1,2,2,2,1,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,8,cat8,SS (IX-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,8,cat8,SS (IX-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,8,cat8,SS (IX-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,8,cat8,SS (IX-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,8,cat8,SS (IX-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,8,cat8,SS (IX-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,8,cat8,SS (IX-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,9,10,0,0,0,0,0,0,0,0,0,0,7,13,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,8,cat8,SS (IX-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,12,8,0,0,0,0,0,0,0,0,0,0,9,8,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,8,cat8,SS (IX-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,3,3,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,8,cat8,SS (IX-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,14,14,0,0,0,0,0,0,0,0,0,0,19,18,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,8,cat8,SS (IX-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,4,6,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,8,cat8,SS (IX-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,7,3,0,0,0,0,0,0,0,0,0,0,4,1,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,8,cat8,SS (IX-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,11,3,0,0,0,0,0,0,0,0,0,0,4,7,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,8,cat8,SS (IX-X),8,Unrecognized,2,SC,0,0,0,0,0,0,0,0,0,0,7,4,0,0,0,0,0,0,0,0,0,0,1,3,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,8,cat8,SS (IX-X),8,Unrecognized,2,SC,0,0,0,0,0,0,0,0,0,0,24,18,0,0,0,0,0,0,0,0,0,0,24,38,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,8,cat8,SS (IX-X),8,Unrecognized,2,SC,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,12,8,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,8,cat8,SS (IX-X),8,Unrecognized,2,SC,0,0,0,0,0,0,0,0,0,0,4,7,0,0,0,0,0,0,0,0,0,0,2,6,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,45,33,29,41,27,0,0,0,0,0,0,0,56,30,41,76,52,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,59,64,56,75,36,0,0,0,0,0,0,0,63,81,65,113,59,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,29,25,18,48,45,0,0,0,0,0,0,0,34,26,47,48,47,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,3,8,4,7,1,0,0,0,0,0,0,0,1,3,3,4,3,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,55,41,34,46,31,0,0,0,0,0,0,0,31,33,38,70,35,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,16,16,6,15,11,0,0,0,0,0,0,0,20,18,20,37,20,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,22,34,20,22,10,0,0,0,0,0,0,0,18,12,13,30,9,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,6,7,3,8,7,0,0,0,0,0,0,0,5,5,6,14,9,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,7,cat7,SS (VI-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,6,6,11,4,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,7,cat7,SS (VI-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,7,cat7,SS (VI-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,7,cat7,SS (VI-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,2,8,8,7,6,0,0,0,0,0,0,0,2,8,11,9,3,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,7,cat7,SS (VI-X),8,Unrecognized,2,SC,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,3,0,6,0,8,3,3,6,5,6,0,0,0,0,5,9,8,3,4,11,8,11,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,7,12,29,24,21,25,27,33,35,34,0,0,0,0,25,26,25,28,34,41,38,41,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,0,2,2,6,5,5,8,9,15,5,0,0,0,0,5,6,5,10,8,3,8,12,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,0,0,3,0,0,2,5,12,3,11,0,0,0,0,8,2,3,5,5,11,11,18,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,4,2,0,6,8,7,10,13,7,16,0,0,0,0,5,10,2,10,2,14,10,24,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,0,0,0,4,0,3,3,2,4,2,0,0,0,0,1,3,2,0,1,5,3,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,9,7,9,7,5,3,13,11,11,7,0,0,0,0,6,6,6,7,7,12,10,9,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,0,1,0,1,1,0,1,3,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,10,13,8,10,8,6,10,3,1,2,0,0,0,0,5,6,7,3,4,3,1,5,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,6,4,4,3,3,1,1,1,0,1,0,0,0,0,3,2,3,1,0,0,0,1,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,15,10,12,12,11,11,4,3,4,3,0,0,0,0,6,5,5,2,0,3,2,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,3,1,2,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,0,0,2,1,0,2,0,0,0,0,0,0,0,0,2,2,0,1,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,1,3,0,0,2,2,1,1,1,1,0,0,0,0,5,8,2,1,0,0,1,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,1,2,1,2,2,2,3,1,2,0,0,0,0,0,2,2,3,1,4,0,0,1,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,13,8,13,0,0,0,0,0,0,0,0,0,11,9,10,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,18,13,9,0,0,0,0,0,0,0,0,0,14,25,17,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,16,11,12,0,0,0,0,0,0,0,0,0,5,16,7,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,1,8,13,0,0,0,0,0,0,0,0,0,2,15,9,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,0,0,5,1,4,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,4,10,20,0,0,0,0,0,0,0,0,0,6,16,14,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,17,16,27,0,0,0,0,0,0,0,0,0,10,17,18,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,8,5,12,0,0,0,0,0,0,0,0,0,5,7,8,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,10,12,9,0,0,0,0,0,0,0,0,0,15,22,19,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,5,11,9,0,0,0,0,0,0,0,0,0,13,25,17,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,4,cat4,UPS (VI-VIII),8,Unrecognized,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,4,cat4,UPS (VI-VIII),8,Unrecognized,2,SC,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,4,cat4,UPS (VI-VIII),8,Unrecognized,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,4,cat4,UPS (VI-VIII),8,Unrecognized,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,4,cat4,UPS (VI-VIII),8,Unrecognized,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,3,cat3,HSS (I-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,2,1,1,2,1,3,2,0,1,0,0,0,2,3,1,0,1,1,1,0,2,0,0,0,0,1
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,0,1,2,2,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,5,2,4,1,9,4,1,2,2,2,5,8,10,8,3,5,1,7,2,1,1,2,7,2,10,9
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,10,cat10,HSS (IX-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,3,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,10,cat10,HSS (IX-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,10,7,9,8,0,0,0,0,0,0,0,0,16,12,12,15
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,10,cat10,HSS (IX-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,10,cat10,HSS (IX-XII),8,Unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,4,2,4,1,1,2,0,0,0,0,0,0,0,0,0,0,1,3
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,4,1,0,4,2,6,6,0,0,0,0,0,1,0,3,1,1,2,6
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,1,0,0,0,0,12,11,0,0,0,0,0,0,0,0,0,0,3,4
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,12,6,12,5,20,5,6,0,0,0,0,0,14,10,16,12,19,5,8
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,5,2,2,2,3,0,3,0,0,0,0,0,1,0,0,0,0,3,3
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,5,7,5,8,9,42,29,0,0,0,0,0,0,2,5,8,4,55,37
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,14,7,10,3,3,12,12,0,0,0,0,0,4,7,8,4,5,10,9
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,20,15,14,15,4,9,11,0,0,0,0,0,18,11,12,17,8,1,3
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,1,cat1,PS (I-V),8,Unrecognized,3,ST,0,0,5,6,2,8,4,0,0,0,0,0,0,0,6,4,4,2,1,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,1,cat1,PS (I-V),8,Unrecognized,3,ST,15,16,19,15,17,13,20,0,0,0,0,0,0,0,20,23,16,18,16,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,1,cat1,PS (I-V),8,Unrecognized,3,ST,9,3,6,2,3,5,3,0,0,0,0,0,0,0,9,3,5,4,5,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,1,cat1,PS (I-V),8,Unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,1,cat1,PS (I-V),8,Unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,5,cat5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,3,ST,0,0,0,0,0,0,0,7,5,6,5,13,4,5,0,0,0,0,0,7,4,5,9,9,7,3
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,1,cat1,PS (I-V),8,Unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,11,cat11,HSS (XI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,12,26,0,0,0,0,0,0,0,0,0,0,16,19
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,11,cat11,HSS (XI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,16,10,0,0,0,0,0,0,0,0,0,0,17,19
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,11,cat11,HSS (XI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,62,43,0,0,0,0,0,0,0,0,0,0,13,21
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,11,cat11,HSS (XI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,58,63,0,0,0,0,0,0,0,0,0,0,52,61
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,11,cat11,HSS (XI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,23,31,0,0,0,0,0,0,0,0,0,0,26,21
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,11,cat11,HSS (XI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,67,63,0,0,0,0,0,0,0,0,0,0,74,32
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,11,cat11,HSS (XI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,69,42,0,0,0,0,0,0,0,0,0,0,40,34
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,11,cat11,HSS (XI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,11,cat11,HSS (XI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,56,47,0,0,0,0,0,0,0,0,0,0,96,61
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,11,cat11,HSS (XI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,9,9,0,0,0,0,0,0,0,0,0,0,6,3
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,11,cat11,HSS (XI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,19
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,4,16,0,0,0,0,0,0,0,0,0,0,10,13
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,61,52,0,0,0,0,0,0,0,0,0,0,42,28
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,13,25,0,0,0,0,0,0,0,0,0,0,14,17
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,25,36,0,0,0,0,0,0,0,0,0,0,18,12
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,11,cat11,HSS (XI-XII),8,Unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,2
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,11,cat11,HSS (XI-XII),8,Unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,9,11,0,0,0,0,0,0,0,0,0,0,6,4
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,11,cat11,HSS (XI-XII),8,Unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,10,23,0,0,0,0,0,0,0,0,0,0,0,4
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,11,cat11,HSS (XI-XII),8,Unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,3,1
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,53,58,122,106,100,102,104,0,0,0,0,0,0,0,115,110,116,117,127,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,106,110,156,131,150,162,186,0,0,0,0,0,0,0,199,179,172,167,185,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,11,1,73,77,83,91,96,0,0,0,0,0,0,0,92,62,62,114,98,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,51,68,190,166,162,167,130,0,0,0,0,0,0,0,193,160,125,147,166,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,211,204,228,219,235,240,252,0,0,0,0,0,0,0,222,223,203,223,261,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,1,cat1,PS (I-V),1,Department of Education,3,ST,3,2,8,7,7,1,7,0,0,0,0,0,0,0,6,5,4,6,6,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,1,cat1,PS (I-V),1,Department of Education,3,ST,8,2,0,4,3,1,6,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,1,cat1,PS (I-V),1,Department of Education,3,ST,1,2,3,4,3,6,6,0,0,0,0,0,0,0,4,7,8,6,1,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,1,cat1,PS (I-V),1,Department of Education,3,ST,10,15,19,22,17,19,17,0,0,0,0,0,0,0,19,25,16,24,22,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,8,6,8,4,1,1,0,0,0,0,0,0,0,0,8,2,4,1,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,55,77,45,47,27,27,28,0,0,0,0,0,0,0,22,26,19,21,36,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,13,7,3,12,4,2,4,0,0,0,0,0,0,0,8,4,1,4,4,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,44,45,33,19,15,15,13,0,0,0,0,0,0,0,22,22,15,14,7,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,50,42,25,14,16,15,5,0,0,0,0,0,0,0,16,13,9,7,8,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,9,3,1,4,2,0,1,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,1,cat1,PS (I-V),8,Unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,1,cat1,PS (I-V),8,Unrecognized,3,ST,1,2,8,0,5,5,6,0,0,0,0,0,0,0,3,5,1,3,3,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,6,cat6,SS (I-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,6,cat6,SS (I-X),1,Department of Education,3,ST,0,0,13,9,9,11,17,59,45,50,73,48,0,0,10,10,8,10,17,67,48,49,90,81,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,6,cat6,SS (I-X),1,Department of Education,3,ST,0,0,14,8,11,15,25,36,42,38,87,46,0,0,20,13,13,21,18,34,29,38,103,47,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,6,cat6,SS (I-X),1,Department of Education,3,ST,14,17,10,8,8,13,13,43,47,34,75,37,0,0,9,6,5,12,10,40,30,45,70,45,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,6,cat6,SS (I-X),1,Department of Education,3,ST,0,0,1,1,2,4,3,8,10,5,18,6,0,0,2,5,4,2,7,14,8,12,13,7,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,6,cat6,SS (I-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,6,cat6,SS (I-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,6,cat6,SS (I-X),1,Department of Education,3,ST,0,0,1,0,1,0,0,21,21,8,13,9,0,0,0,0,2,0,1,14,10,13,16,9,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,34,31,14,14,9,13,10,9,10,5,6,8,0,0,18,17,12,11,8,1,8,5,6,4,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,163,118,102,92,83,88,98,75,69,80,85,52,0,0,74,80,59,81,59,70,60,53,48,58,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,25,13,8,10,9,12,12,11,9,3,10,4,0,0,6,3,1,5,4,4,2,2,4,1,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,110,103,74,63,63,53,60,59,49,51,61,25,0,0,54,48,44,44,45,41,36,41,42,25,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,23,21,12,23,15,16,15,12,9,7,5,8,0,0,15,14,15,10,15,10,14,10,10,4,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,6,cat6,SS (I-X),8,Unrecognized,3,ST,1,0,0,0,1,0,1,3,6,0,1,2,0,0,1,1,0,0,1,1,2,0,0,8,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,20,13,10,4,12,10,10,7,8,7,13,4,0,0,7,3,3,6,5,8,8,5,9,3,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,14,23,27,25,30,26,22,18,20,18,14,20,0,0,11,13,13,13,11,12,12,9,10,13,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,14,12,8,8,8,4,5,6,11,2,10,6,0,0,9,10,7,7,8,5,3,8,11,4,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,28,24,16,21,19,13,23,16,13,15,20,10,0,0,16,20,14,12,14,15,8,11,10,9,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,6,cat6,SS (I-X),8,Unrecognized,3,ST,30,13,12,5,4,6,1,6,2,2,3,6,0,0,3,3,3,4,5,3,1,0,1,1,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,6,cat6,SS (I-X),92,Kendriya Vidyalaya / Central School,3,ST,0,0,2,3,4,2,2,1,2,1,3,1,0,0,1,2,2,2,4,1,1,0,1,1,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,8,cat8,SS (IX-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,8,cat8,SS (IX-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,8,cat8,SS (IX-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,8,cat8,SS (IX-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,27,6,0,0,0,0,0,0,0,0,0,0,18,10,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,8,cat8,SS (IX-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,8,cat8,SS (IX-X),8,Unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,34,25,0,0,0,0,0,0,0,0,0,0,24,41,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,8,cat8,SS (IX-X),8,Unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,17,15,0,0,0,0,0,0,0,0,0,0,21,37,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,8,cat8,SS (IX-X),8,Unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,43,39,0,0,0,0,0,0,0,0,0,0,60,50,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,8,cat8,SS (IX-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,6,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,8,cat8,SS (IX-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,15,16,0,0,0,0,0,0,0,0,0,0,16,19,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,8,cat8,SS (IX-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,18,21,0,0,0,0,0,0,0,0,0,0,14,22,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,8,cat8,SS (IX-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,20,12,0,0,0,0,0,0,0,0,0,0,22,12,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,8,cat8,SS (IX-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,26,26,0,0,0,0,0,0,0,0,0,0,22,18,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,8,cat8,SS (IX-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,41,38,0,0,0,0,0,0,0,0,0,0,52,26,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,8,cat8,SS (IX-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,8,cat8,SS (IX-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,40,10,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,3,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,8,cat8,SS (IX-X),8,Unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,26,13,0,0,0,0,0,0,0,0,0,0,13,14,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,8,cat8,SS (IX-X),8,Unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,2,10,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,77,67,54,96,94,0,0,0,0,0,0,0,65,92,63,97,79,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,71,81,99,131,109,0,0,0,0,0,0,0,79,88,80,154,127,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,10,11,9,39,24,0,0,0,0,0,0,0,11,14,10,41,27,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,31,20,20,57,26,0,0,0,0,0,0,0,17,20,24,53,24,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,98,100,85,161,112,0,0,0,0,0,0,0,93,98,103,178,138,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,5,4,3,4,5,0,0,0,0,0,0,0,7,9,7,10,9,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,5,0,3,14,4,0,0,0,0,0,0,0,4,3,8,9,3,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,7,4,22,8,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,7,cat7,SS (VI-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,8,2,13,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,7,cat7,SS (VI-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,20,22,29,28,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,7,cat7,SS (VI-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,1,2,3,9,6,0,0,0,0,0,0,0,2,10,3,5,1,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,7,cat7,SS (VI-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,3,3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,2,8,4,5,6,0,0,0,0,0,0,0,4,3,6,8,6,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,7,cat7,SS (VI-X),8,Unrecognized,3,ST,0,0,0,0,0,0,0,1,0,2,6,1,0,0,0,0,0,0,0,0,0,0,3,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,1,0,15,15,15,13,19,29,25,31,0,0,0,0,12,14,12,20,8,30,24,32,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,1,2,16,18,25,23,13,17,31,44,0,0,0,0,16,18,12,15,19,29,23,33,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,0,1,33,31,34,30,63,67,48,49,0,0,0,0,34,28,29,43,62,79,65,48,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,0,1,24,15,19,25,23,59,55,46,0,0,0,0,14,28,22,20,19,51,63,56,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,7,4,47,44,34,48,51,78,94,75,0,0,0,0,51,32,36,55,42,93,80,73,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,2,1,1,0,1,1,3,4,1,0,0,0,0,0,0,0,0,2,4,1,3,1,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,0,0,2,2,5,3,1,2,4,2,0,0,0,0,4,5,4,4,3,6,3,1,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,0,0,0,0,1,2,0,4,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,49,53,30,11,19,20,9,5,14,3,0,0,0,0,21,19,12,17,12,13,8,2,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,7,6,14,12,5,7,8,3,2,4,0,0,0,0,1,9,4,1,2,2,0,3,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,57,51,49,48,43,32,33,22,19,9,0,0,0,0,31,40,19,30,25,23,12,15,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,4,25,0,0,7,6,17,7,10,7,0,0,0,0,9,17,8,8,7,8,6,14,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,11,11,3,8,0,2,5,1,2,2,0,0,0,0,2,3,2,5,4,3,2,2,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,18,28,30,0,0,0,0,0,0,0,0,0,26,34,30,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,14,12,12,0,0,0,0,0,0,0,0,0,9,12,12,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,50,49,48,0,0,0,0,0,0,0,0,0,61,41,63,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,14,6,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,18,23,19,0,0,0,0,0,0,0,0,0,16,18,19,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,57,74,60,0,0,0,0,0,0,0,0,0,70,55,75,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,22,25,20,0,0,0,0,0,0,0,0,0,31,23,35,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,50,99,86,0,0,0,0,0,0,0,0,0,71,87,97,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,26,32,26,0,0,0,0,0,0,0,0,0,20,31,41,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,4,cat4,UPS (VI-VIII),8,Unrecognized,3,ST,0,0,0,0,0,0,0,7,8,5,0,0,0,0,0,0,0,0,0,8,7,7,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,4,cat4,UPS (VI-VIII),8,Unrecognized,3,ST,0,0,0,0,0,0,0,4,6,9,0,0,0,0,0,0,0,0,0,4,5,7,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,4,cat4,UPS (VI-VIII),8,Unrecognized,3,ST,0,0,0,0,0,0,0,5,3,4,0,0,0,0,0,0,0,0,0,10,14,20,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,4,cat4,UPS (VI-VIII),8,Unrecognized,3,ST,0,0,0,0,0,0,0,29,6,20,0,0,0,0,0,0,0,0,0,24,23,19,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,4,cat4,UPS (VI-VIII),8,Unrecognized,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,6,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,3,cat3,HSS (I-XII),1,Department of Education,4,OBC,0,0,3,3,2,7,3,4,0,0,6,0,0,0,1,2,5,4,4,5,4,0,14,6,23,46
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,16,15,5,6,6,10,13,15,13,0,0,0,14,7,4,2,5,4,2,4,6,0,0,0,7,10
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,9,15,12,5,7,1,0,0,0,0,0,0,0,0,7,5,7,5,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,90,101,50,50,42,52,39,29,44,45,53,47,110,58,14,36,34,34,36,29,20,22,26,18,132,57
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,10,cat10,HSS (IX-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,1,15,1,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,10,cat10,HSS (IX-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,32,24,35,25,0,0,0,0,0,0,0,0,54,32,58,39
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,10,cat10,HSS (IX-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,8,7,0,2,0,0,0,0,0,0,0,0,7,10,2,1
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,1,9,0,0,0,0,0,0,0,0,0,0,0,2,0,1
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,10,cat10,HSS (IX-XII),8,Unrecognized,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,110,137,126,189,147,156,130,0,0,0,0,0,105,99,86,146,128,145,121
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,144,115,112,190,139,190,163,0,0,0,0,0,128,117,126,164,120,157,145
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,6,3,3,16,11,18,22,0,0,0,0,0,2,0,3,12,10,22,14
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,8,6,8,10,7,5,13,0,0,0,0,0,11,9,12,9,8,7,10
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,32,42,38,36,47,48,40,0,0,0,0,0,17,9,6,0,0,23,33
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,9,12,22,22,12,22,11,0,0,0,0,0,25,26,12,36,27,32,19
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,46,44,37,98,45,91,89,0,0,0,0,0,40,15,27,41,43,92,88
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,36,24,22,29,3,15,4,0,0,0,0,0,24,18,30,20,6,4,2
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,5,cat5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,4,OBC,0,0,0,0,0,0,0,14,13,16,10,13,8,6,0,0,0,0,0,16,18,14,11,13,4,12
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,11,cat11,HSS (XI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,40,52,0,0,0,0,0,0,0,0,0,0,53,48
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,11,cat11,HSS (XI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,159,143,0,0,0,0,0,0,0,0,0,0,183,131
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,11,cat11,HSS (XI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,69,51,0,0,0,0,0,0,0,0,0,0,42,45
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,11,cat11,HSS (XI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,40,32,0,0,0,0,0,0,0,0,0,0,38,54
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,11,cat11,HSS (XI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,144,121,0,0,0,0,0,0,0,0,0,0,169,174
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,11,cat11,HSS (XI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,186,220,0,0,0,0,0,0,0,0,0,0,170,186
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,11,cat11,HSS (XI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,85,85,0,0,0,0,0,0,0,0,0,0,72,72
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,11,cat11,HSS (XI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,5,9,0,0,0,0,0,0,0,0,0,0,3,2
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,11,cat11,HSS (XI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,27,22,0,0,0,0,0,0,0,0,0,0,28,42
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,11,cat11,HSS (XI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,44,20,0,0,0,0,0,0,0,0,0,0,31,20
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,11,cat11,HSS (XI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,37
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,1,1
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,63,107,0,0,0,0,0,0,0,0,0,0,99,109
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,20,15,0,0,0,0,0,0,0,0,0,0,16,14
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,185,194,0,0,0,0,0,0,0,0,0,0,149,136
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,11,cat11,HSS (XI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,53,50,0,0,0,0,0,0,0,0,0,0,60,52
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,11,cat11,HSS (XI-XII),8,Unrecognized,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,37,28,0,0,0,0,0,0,0,0,0,0,16,12
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,11,cat11,HSS (XI-XII),8,Unrecognized,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,4,12,0,0,0,0,0,0,0,0,0,0,3,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,11,cat11,HSS (XI-XII),8,Unrecognized,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,1,6,0,0,0,0,0,0,0,0,0,0,11,2
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,11,cat11,HSS (XI-XII),8,Unrecognized,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,21,12,0,0,0,0,0,0,0,0,0,0,16,14
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,368,343,540,494,471,530,535,0,0,0,0,0,0,0,577,540,491,560,547,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,859,918,1463,1290,1355,1334,1384,0,0,0,0,0,0,0,1465,1410,1408,1383,1444,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,47,43,138,150,138,158,182,0,0,0,0,0,0,0,196,148,167,152,167,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,273,297,773,641,593,626,658,0,0,0,0,0,0,0,772,763,686,683,669,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,519,538,762,713,675,739,771,0,0,0,0,0,0,0,758,690,692,725,772,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,1,cat1,PS (I-V),1,Department of Education,4,OBC,24,22,31,39,27,43,39,0,0,0,0,0,0,0,38,35,38,57,37,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,1,cat1,PS (I-V),1,Department of Education,4,OBC,6,4,4,9,11,10,4,0,0,0,0,0,0,0,6,7,6,11,7,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,1,cat1,PS (I-V),1,Department of Education,4,OBC,31,22,36,36,24,49,37,0,0,0,0,0,0,0,30,54,36,41,41,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,1,cat1,PS (I-V),1,Department of Education,4,OBC,24,25,50,30,32,40,32,0,0,0,0,0,0,0,37,28,30,27,34,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,52,49,30,23,15,10,11,0,0,0,0,0,0,0,22,13,18,7,4,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,265,224,159,141,148,124,75,0,0,0,0,0,0,0,125,105,108,101,61,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,6,6,1,2,1,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,165,136,95,65,57,39,42,0,0,0,0,0,0,0,57,64,55,31,23,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,12,14,12,7,11,9,3,0,0,0,0,0,0,0,4,5,11,9,9,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,4,4,2,3,4,0,0,0,0,0,0,0,7,3,4,4,4,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,39,27,8,8,8,2,2,0,0,0,0,0,0,0,4,11,3,6,1,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,1,cat1,PS (I-V),8,Unrecognized,4,OBC,0,0,2,6,4,1,5,0,0,0,0,0,0,0,8,2,6,5,7,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,1,cat1,PS (I-V),8,Unrecognized,4,OBC,36,42,59,62,64,56,64,0,0,0,0,0,0,0,51,46,59,54,56,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,1,cat1,PS (I-V),8,Unrecognized,4,OBC,5,3,6,3,12,5,8,0,0,0,0,0,0,0,5,3,6,2,4,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,1,cat1,PS (I-V),8,Unrecognized,4,OBC,34,41,116,88,84,73,67,0,0,0,0,0,0,0,137,85,75,76,69,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,1,cat1,PS (I-V),8,Unrecognized,4,OBC,0,0,1,3,2,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,1,cat1,PS (I-V),8,Unrecognized,4,OBC,0,0,13,10,14,13,8,0,0,0,0,0,0,0,12,7,11,9,10,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,1,cat1,PS (I-V),8,Unrecognized,4,OBC,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,1,cat1,PS (I-V),8,Unrecognized,4,OBC,2,0,1,0,3,1,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,6,cat6,SS (I-X),1,Department of Education,4,OBC,4,4,72,41,40,31,52,115,89,68,105,85,0,0,50,33,43,40,50,109,76,95,102,129,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,6,cat6,SS (I-X),1,Department of Education,4,OBC,7,9,56,88,70,57,76,280,182,194,266,161,0,0,53,66,56,69,71,242,178,184,308,183,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,6,cat6,SS (I-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,5,10,14,25,26,0,0,0,0,0,0,0,4,6,10,38,26,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,6,cat6,SS (I-X),1,Department of Education,4,OBC,5,8,50,29,41,30,49,131,100,128,196,145,0,0,32,56,38,42,60,126,114,98,226,158,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,6,cat6,SS (I-X),1,Department of Education,4,OBC,0,0,6,10,10,12,14,35,20,16,45,29,0,0,5,5,3,4,10,20,26,18,65,32,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,6,cat6,SS (I-X),1,Department of Education,4,OBC,0,0,2,1,0,0,0,0,2,6,3,2,0,0,1,3,4,1,1,2,7,3,4,5,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,6,cat6,SS (I-X),1,Department of Education,4,OBC,0,1,10,9,4,5,7,22,21,24,48,22,0,0,17,8,5,10,8,22,27,24,40,35,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,6,cat6,SS (I-X),1,Department of Education,4,OBC,5,2,13,10,13,11,15,68,51,34,30,15,0,0,6,0,8,8,8,46,39,31,44,24,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,147,137,134,99,89,93,102,75,77,50,64,53,0,0,91,70,96,56,62,66,62,53,53,45,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,589,487,370,399,359,366,325,317,292,292,296,236,0,0,345,317,283,264,243,248,225,229,267,225,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,9,13,8,4,5,8,7,7,5,4,3,2,0,0,3,6,1,3,10,7,3,4,1,6,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,556,430,300,285,270,224,242,252,234,237,226,139,0,0,207,191,200,203,182,169,181,176,184,137,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,121,111,93,96,92,91,62,91,62,67,57,60,0,0,89,90,63,77,58,76,53,62,45,51,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,175,151,152,150,167,139,149,114,120,133,98,95,0,0,147,131,136,120,89,89,82,75,74,82,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,49,56,61,65,54,45,49,37,40,33,34,39,0,0,54,42,31,50,48,30,37,23,24,27,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,128,78,70,92,78,76,77,68,64,53,54,51,0,0,57,82,66,80,70,71,41,51,73,57,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,51,38,48,35,29,33,36,26,27,32,26,15,0,0,35,26,22,19,22,29,21,23,18,11,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,6,cat6,SS (I-X),8,Unrecognized,4,OBC,42,33,38,26,17,30,14,14,20,22,9,20,0,0,23,16,30,22,34,16,19,24,11,9,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,6,cat6,SS (I-X),8,Unrecognized,4,OBC,3,0,8,3,0,1,1,3,1,4,9,16,0,0,1,0,0,1,3,1,1,1,6,7,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,6,cat6,SS (I-X),92,Kendriya Vidyalaya / Central School,4,OBC,0,0,14,11,16,18,12,11,13,3,17,7,0,0,12,6,14,11,7,4,8,5,12,7,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,8,cat8,SS (IX-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,17,13,0,0,0,0,0,0,0,0,0,0,12,8,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,8,cat8,SS (IX-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,50,41,0,0,0,0,0,0,0,0,0,0,118,67,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,8,cat8,SS (IX-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,8,cat8,SS (IX-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,101,42,0,0,0,0,0,0,0,0,0,0,135,66,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,8,cat8,SS (IX-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,31,28,0,0,0,0,0,0,0,0,0,0,26,15,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,8,cat8,SS (IX-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,13,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,8,cat8,SS (IX-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,62,53,0,0,0,0,0,0,0,0,0,0,45,46,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,8,cat8,SS (IX-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,64,88,0,0,0,0,0,0,0,0,0,0,86,116,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,8,cat8,SS (IX-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,10,11,0,0,0,0,0,0,0,0,0,0,12,14,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,8,cat8,SS (IX-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,62,47,0,0,0,0,0,0,0,0,0,0,70,75,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,8,cat8,SS (IX-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,31,37,0,0,0,0,0,0,0,0,0,0,37,22,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,8,cat8,SS (IX-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,27,18,0,0,0,0,0,0,0,0,0,0,21,13,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,8,cat8,SS (IX-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,5,8,0,0,0,0,0,0,0,0,0,0,8,7,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,8,cat8,SS (IX-X),8,Unrecognized,4,OBC,0,0,0,0,0,0,0,0,0,0,87,94,0,0,0,0,0,0,0,0,0,0,96,108,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,8,cat8,SS (IX-X),8,Unrecognized,4,OBC,0,0,0,0,0,0,0,0,0,0,83,69,0,0,0,0,0,0,0,0,0,0,166,209,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,8,cat8,SS (IX-X),8,Unrecognized,4,OBC,0,0,0,0,0,0,0,0,0,0,40,44,0,0,0,0,0,0,0,0,0,0,32,31,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,1,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,10,6,0,0,0,0,0,0,0,0,0,0,27,16,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,19,43,0,0,0,0,0,0,0,0,0,0,9,25,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,8,cat8,SS (IX-X),8,Unrecognized,4,OBC,0,0,0,0,0,0,0,0,0,0,17,8,0,0,0,0,0,0,0,0,0,0,16,10,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,8,cat8,SS (IX-X),8,Unrecognized,4,OBC,0,0,0,0,0,0,0,0,0,0,25,22,0,0,0,0,0,0,0,0,0,0,16,35,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,234,177,177,256,243,0,0,0,0,0,0,0,229,182,187,319,253,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,602,473,453,606,421,0,0,0,0,0,0,0,529,458,463,705,551,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,87,91,94,166,111,0,0,0,0,0,0,0,64,86,81,161,123,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,116,78,82,156,116,0,0,0,0,0,0,0,127,91,85,171,111,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,303,276,205,316,144,0,0,0,0,0,0,0,283,215,201,373,256,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,71,47,59,63,48,0,0,0,0,0,0,0,66,109,98,122,83,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,4,2,3,4,1,0,0,0,0,0,0,0,3,1,10,3,2,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,7,5,9,7,4,0,0,0,0,0,0,0,62,60,63,139,77,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,7,cat7,SS (VI-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57,34,33,53,22,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,7,cat7,SS (VI-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,17,16,21,20,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,7,cat7,SS (VI-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,18,28,28,31,24,0,0,0,0,0,0,0,25,31,20,32,26,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,7,cat7,SS (VI-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,13,16,20,21,18,0,0,0,0,0,0,0,7,9,9,22,9,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,31,26,47,44,41,0,0,0,0,0,0,0,27,25,45,58,42,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,7,cat7,SS (VI-X),8,Unrecognized,4,OBC,0,0,0,0,0,0,0,12,13,12,32,16,0,0,0,0,0,0,0,4,9,3,11,19,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181801,CENTRAL,Rural,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,16,25,79,65,71,72,73,119,117,103,0,0,0,0,63,69,75,73,75,119,114,103,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Rural,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,67,55,223,183,213,224,216,453,396,335,0,0,0,0,230,227,234,216,256,455,397,379,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Rural,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,0,2,15,15,21,14,18,31,32,30,0,0,0,0,18,6,20,11,27,38,30,36,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Rural,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,8,8,109,94,117,120,133,287,252,266,0,0,0,0,134,122,117,136,128,270,276,286,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Rural,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,36,34,75,82,58,75,66,206,203,153,0,0,0,0,79,71,60,75,65,200,174,156,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181802,EAST,Urban,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,0,0,7,12,6,4,8,17,9,6,0,0,0,0,8,12,9,7,6,14,2,13,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181803,NORTH,Urban,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,16,9,11,9,11,12,10,14,16,7,0,0,0,0,20,14,15,11,17,14,9,11,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181804,SOUTH,Urban,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,3,5,6,1,1,4,3,8,9,11,0,0,0,0,4,7,3,1,2,9,7,4,0,0,0,0
+2019-20,18,Assam,1818,GOLAGHAT,181805,WEST,Urban,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,3,3,5,11,3,8,2,19,21,11,0,0,0,0,5,3,3,3,4,15,18,7,0,0,0,0

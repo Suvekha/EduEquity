@@ -1,0 +1,989 @@
+ac_year,state_code,state_name,district_code,district_name,block_code,block_name,sch_category_id,category_name,sch_mgmt_id,sch_mgmt_name,loc_name,caste_id,pre_primary_boys,pre_primary_girls,class_1_boys,class_2_boys,class_3_boys,class_4_boys,class_5_boys,class_6_boys,class_7_boys,class_8_boys,class_9_boys,class_10_boys,class_11_boys,class_12_boys,class_1_girls,class_2_girls,class_3_girls,class_4_girls,class_5_girls,class_6_girls,class_7_girls,class_8_girls,class_9_girls,class_10_girls,class_11_girls,class_12_girls,caste_name
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,2,0,9,5,0,3,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,60,30,42,31,20,23,9,5,1,2,1,0,0,0,15,26,27,16,7,5,1,2,1,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,5,6,5,2,1,1,0,3,1,2,0,0,0,0,2,2,2,0,1,0,2,1,1,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,16,13,24,6,14,2,2,1,5,2,1,0,0,0,10,8,5,6,2,1,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,40,28,12,4,17,10,7,6,2,0,0,0,0,0,22,18,12,6,2,2,2,1,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,3,1,4,1,2,1,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,8,8,6,3,2,2,0,0,2,1,0,0,0,0,2,1,3,4,0,0,2,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,4,5,11,7,6,5,6,3,3,0,0,0,0,0,4,8,4,2,1,2,2,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,1,0,4,6,6,5,2,5,2,0,0,0,0,0,7,0,2,3,1,2,3,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,16,9,26,24,16,7,11,8,2,1,5,1,0,0,13,18,13,16,7,8,3,2,1,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,6,6,7,6,4,4,0,1,0,0,0,0,8,2,4,2,2,3,3,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,14,9,22,13,20,26,2,2,2,0,0,0,0,0,18,14,13,15,5,0,1,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,3,3,2,0,1,0,1,1,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,10,4,3,1,0,1,0,0,0,0,0,0,0,0,2,2,0,2,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,5,5,5,7,6,5,1,0,1,0,0,0,0,0,9,10,5,8,1,1,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,14,3,9,7,6,5,0,1,0,0,0,0,0,0,6,4,6,3,0,2,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,81,60,45,30,32,41,31,16,21,18,9,17,3,7,25,36,16,27,10,4,6,6,10,5,3,2,SC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,3,5,3,4,5,4,6,8,4,2,0,0,3,3,4,7,4,7,0,3,1,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,1,PS (I-V),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),8,Unrecognized,Rural,2,4,3,4,1,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,1,PS (I-V),8,Unrecognized,Rural,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,1,PS (I-V),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),8,Unrecognized,Rural,2,0,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,6,SS (I-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,3,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,6,SS (I-X),2,Tribal Welfare Department,Rural,2,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,6,SS (I-X),2,Tribal Welfare Department,Rural,2,0,0,1,2,1,1,0,4,1,3,6,1,0,0,2,3,1,0,0,2,2,4,6,2,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,6,SS (I-X),3,Local body,Urban,2,0,0,0,0,0,0,0,2,4,16,9,18,0,0,0,0,0,0,1,4,4,1,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,6,SS (I-X),4,Government Aided,Rural,2,0,0,0,0,0,0,6,12,8,14,28,22,0,0,0,0,0,0,10,3,8,14,18,15,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,6,SS (I-X),4,Government Aided,Rural,2,0,0,0,0,0,0,177,204,184,263,269,284,6,3,0,0,0,0,156,207,181,278,251,240,6,5,SC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,6,SS (I-X),4,Government Aided,Rural,2,0,0,0,0,0,1,43,53,49,68,78,71,0,0,0,0,0,0,53,54,53,61,82,61,1,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,6,SS (I-X),4,Government Aided,Rural,2,0,0,0,0,0,0,68,61,72,90,92,93,1,0,0,0,0,0,80,90,87,81,85,90,6,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,6,SS (I-X),4,Government Aided,Rural,2,0,0,0,0,0,0,20,30,14,33,35,28,1,1,0,0,0,0,14,18,23,30,31,20,3,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,6,SS (I-X),4,Government Aided,Rural,2,0,0,0,0,0,0,2,2,3,14,11,26,0,1,0,0,0,0,2,4,6,12,8,14,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,6,SS (I-X),4,Government Aided,Rural,2,0,0,0,0,0,0,67,88,83,116,136,125,0,0,0,0,0,0,75,80,67,89,85,63,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,6,SS (I-X),4,Government Aided,Rural,2,0,0,0,0,0,0,38,41,43,63,87,84,2,1,0,0,0,0,38,53,46,57,65,81,2,1,SC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,6,SS (I-X),4,Government Aided,Rural,2,0,0,0,0,0,0,59,78,82,118,136,107,15,13,0,0,0,0,64,67,69,112,100,96,18,16,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,6,SS (I-X),4,Government Aided,Rural,2,0,0,0,0,0,0,51,84,107,117,136,114,0,0,0,0,0,0,65,68,73,94,87,82,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,6,SS (I-X),4,Government Aided,Rural,2,0,0,0,0,0,0,21,23,27,39,52,51,0,0,0,0,0,0,12,20,15,42,42,35,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,6,SS (I-X),4,Government Aided,Urban,2,0,0,0,0,0,0,45,71,78,89,90,85,0,0,0,0,0,0,56,52,68,93,106,87,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,6,SS (I-X),4,Government Aided,Urban,2,0,0,0,0,0,0,17,15,18,15,19,17,1,10,0,0,0,0,11,14,10,12,10,10,0,3,SC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,6,SS (I-X),4,Government Aided,Urban,2,0,0,0,0,0,0,1,2,0,4,2,2,0,0,0,0,0,0,0,0,1,6,3,3,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,6,SS (I-X),4,Government Aided,Urban,2,0,0,0,0,0,0,3,5,2,11,4,3,0,0,0,0,0,0,23,29,31,30,24,39,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,6,SS (I-X),4,Government Aided,Urban,2,0,0,0,0,0,0,10,10,12,9,13,8,3,3,0,0,0,0,21,17,16,26,24,18,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,6,SS (I-X),4,Government Aided,Urban,2,0,0,0,0,0,0,50,49,54,101,65,63,0,0,0,0,0,0,48,32,50,77,72,63,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,6,SS (I-X),4,Government Aided,Urban,2,0,0,0,0,0,0,14,12,18,21,19,17,0,0,0,0,0,0,9,9,7,12,7,10,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,2,1,4,4,3,2,2,2,7,14,0,0,0,0,1,3,3,3,1,3,1,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,6,5,5,4,3,7,13,25,12,21,20,23,0,0,1,3,2,3,12,5,9,9,12,13,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,2,2,0,9,4,7,2,2,1,0,0,0,1,1,2,0,0,0,0,1,1,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,9,3,4,2,3,1,3,1,0,4,8,6,0,0,1,1,3,1,1,2,1,1,1,2,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,3,3,2,5,1,0,1,1,0,3,0,0,1,2,2,3,2,1,1,1,1,1,0,1,SC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,1,0,2,0,6,5,2,2,1,1,0,0,0,0,0,2,0,1,1,0,1,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,4,2,5,4,1,3,2,4,0,0,0,0,0,4,2,3,0,1,2,1,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,3,1,2,6,5,2,0,0,0,0,0,0,3,1,5,4,10,4,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,3,4,2,6,13,10,9,13,8,5,0,0,2,5,4,4,9,6,9,11,9,1,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,2,4,3,3,4,4,0,0,0,0,0,0,1,2,3,5,3,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,8,7,8,10,5,7,0,0,0,0,0,0,4,2,5,5,8,6,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,22,17,39,53,50,53,75,46,17,24,14,17,0,0,32,42,42,37,61,23,18,12,14,13,1,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,13,6,3,4,5,5,0,0,0,0,0,0,14,3,5,2,4,3,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,6,SS (I-X),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,3,1,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,2,7,0,0,0,0,0,0,0,0,0,0,9,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,7,4,0,0,0,0,0,0,0,0,0,0,3,4,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,8,SS (IX-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,2,1,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,22,18,14,1,0,0,0,0,0,0,0,0,14,15,6,1,2,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,45,44,42,0,0,0,0,0,0,0,0,0,52,44,45,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,4,6,39,55,65,0,0,0,0,0,0,0,0,5,50,31,41,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,41,57,54,3,6,0,0,0,0,0,0,0,56,38,43,3,2,SC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,5,12,10,0,0,0,0,0,0,0,0,0,9,11,5,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,9,7,13,0,0,0,0,0,0,0,0,0,9,8,16,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,27,34,30,0,0,0,0,0,0,0,0,0,11,23,18,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,15,19,21,0,0,0,0,0,0,0,0,0,27,32,18,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,104,97,93,0,0,0,0,0,0,0,0,0,100,74,86,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,40,65,62,0,0,0,0,0,0,0,0,0,36,41,33,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,14,14,18,0,0,0,0,0,0,0,0,0,26,18,20,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,7,SS (VI-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,9,4,10,0,0,0,0,0,0,0,0,0,4,3,1,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,7,SS (VI-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,2,4,1,0,0,0,0,0,0,0,0,0,0,1,2,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,7,SS (VI-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,4,3,2,0,0,0,0,0,0,0,0,0,3,4,2,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,7,SS (VI-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,9,12,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,7,SS (VI-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,2,13,0,0,0,0,0,0,0,0,0,0,0,2,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,12,10,14,0,0,0,0,0,0,0,0,0,6,9,7,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,2,5,0,0,0,0,0,0,0,0,0,1,3,2,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,4,4,4,0,0,0,0,0,0,0,0,0,5,10,4,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,2,4,5,0,0,0,0,0,0,0,0,0,0,1,1,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,13,13,23,0,0,0,0,0,0,0,0,0,20,20,11,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,3,7,5,0,0,0,0,0,0,0,0,0,4,4,4,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,6,5,7,0,0,0,0,0,0,0,0,0,5,4,8,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,28,42,42,0,0,0,0,0,0,0,0,0,22,30,36,1,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,14,7,5,0,0,0,0,0,0,0,0,0,5,5,8,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,5,3,4,0,0,0,0,0,0,0,0,0,4,2,2,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,16,25,15,0,0,0,0,0,0,1,1,0,9,9,9,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,5,3,0,0,0,0,0,0,0,0,0,1,1,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,2,UPS (I-VIII),3,Local body,Rural,2,0,0,27,29,21,27,50,29,38,1,0,0,0,0,30,30,33,30,27,30,25,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),3,Local body,Rural,2,0,0,138,148,164,154,115,143,126,8,0,0,0,0,157,150,140,147,144,169,130,8,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,2,UPS (I-VIII),3,Local body,Rural,2,0,0,84,90,80,91,78,65,63,0,0,0,0,0,67,79,85,76,63,77,73,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,2,UPS (I-VIII),3,Local body,Rural,2,0,0,52,72,65,57,44,50,39,0,0,0,0,0,46,59,39,50,43,54,45,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,2,UPS (I-VIII),3,Local body,Rural,2,0,0,55,46,63,62,46,30,30,1,0,0,0,0,39,45,37,44,39,38,35,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,2,UPS (I-VIII),3,Local body,Rural,2,0,0,8,8,5,8,6,11,11,0,0,0,0,0,12,14,7,6,7,14,13,3,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,2,UPS (I-VIII),3,Local body,Rural,2,0,0,55,69,67,52,61,44,44,1,0,0,0,0,64,51,42,50,50,60,52,2,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,2,UPS (I-VIII),3,Local body,Rural,2,0,0,60,39,58,50,56,61,56,8,0,0,0,0,54,66,54,52,59,66,66,18,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,2,UPS (I-VIII),3,Local body,Rural,2,0,0,130,138,148,140,132,163,152,15,0,0,0,0,132,130,127,126,133,131,144,11,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,2,UPS (I-VIII),3,Local body,Rural,2,0,0,130,134,131,117,108,109,109,31,0,0,0,0,140,145,141,137,103,127,95,24,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,2,UPS (I-VIII),3,Local body,Rural,2,0,0,48,60,51,42,45,49,43,0,0,0,0,0,37,45,45,47,45,48,56,1,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),3,Local body,Urban,2,0,0,6,2,5,2,6,4,3,0,0,0,0,0,5,11,6,10,8,6,6,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,2,UPS (I-VIII),3,Local body,Urban,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2,0,2,1,0,0,1,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,2,UPS (I-VIII),3,Local body,Urban,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,2,UPS (I-VIII),3,Local body,Urban,2,0,0,20,9,11,13,7,7,7,0,0,0,0,0,14,11,11,11,11,20,11,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,2,UPS (I-VIII),3,Local body,Urban,2,0,0,19,25,28,34,9,23,14,0,0,0,0,0,25,16,20,27,16,15,15,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,2,UPS (I-VIII),3,Local body,Urban,2,0,0,11,6,4,5,5,3,8,0,0,0,0,0,10,4,4,6,8,3,9,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,2,UPS (I-VIII),3,Local body,Urban,2,0,0,25,30,23,19,28,30,27,0,0,0,0,0,25,21,22,31,21,27,22,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,2,UPS (I-VIII),3,Local body,Urban,2,0,0,1,6,1,3,5,6,6,3,0,0,0,0,1,0,1,5,4,6,9,6,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),4,Government Aided,Rural,2,14,10,24,14,29,19,29,15,18,0,0,0,0,0,13,20,22,15,11,15,14,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,0,2,0,0,1,1,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,2,UPS (I-VIII),4,Government Aided,Rural,2,2,1,8,13,5,8,12,9,16,1,0,0,0,0,6,7,4,11,7,13,3,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,2,UPS (I-VIII),4,Government Aided,Rural,2,17,8,4,7,5,2,1,1,0,0,0,0,0,0,1,3,2,4,1,0,1,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,3,8,6,7,4,8,14,0,0,0,0,0,5,3,6,5,9,7,9,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,4,11,7,8,11,22,20,0,0,0,0,0,7,13,9,9,12,14,9,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,2,UPS (I-VIII),4,Government Aided,Rural,2,21,19,45,38,43,31,39,36,38,3,0,0,0,0,32,46,35,34,25,30,31,3,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),4,Government Aided,Urban,2,28,17,19,23,14,12,16,10,24,7,0,0,0,0,13,14,16,13,9,7,9,2,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,2,UPS (I-VIII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,2,UPS (I-VIII),4,Government Aided,Urban,2,22,21,25,20,28,32,18,22,13,0,0,0,0,0,24,24,19,19,28,21,22,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,2,UPS (I-VIII),4,Government Aided,Urban,2,38,23,24,35,27,38,26,28,38,0,0,0,0,0,43,30,41,35,22,26,20,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,41,40,35,23,18,16,16,23,21,15,3,4,0,0,19,22,14,24,10,14,10,9,3,2,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,10,3,6,3,12,5,4,2,0,0,0,0,3,3,2,3,4,9,2,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,26,9,13,13,10,13,10,4,9,1,4,3,0,0,10,5,8,8,2,6,2,0,2,1,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,17,13,10,11,12,11,5,5,9,10,0,0,0,0,4,7,9,3,6,2,3,1,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,21,11,4,7,2,2,1,1,3,3,0,1,0,0,1,4,0,2,0,2,2,1,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,5,2,16,10,6,9,15,12,6,2,1,1,0,0,5,10,11,12,9,1,7,2,0,0,2,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,28,22,52,63,73,60,45,39,37,41,12,6,8,6,37,59,40,40,29,24,28,21,6,9,6,3,SC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,7,9,18,13,12,13,8,0,1,2,0,0,7,10,9,7,6,6,6,4,4,1,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,0,5,5,7,5,2,5,4,2,5,7,3,3,1,0,5,3,4,2,2,2,1,0,4,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,3,1,1,0,1,0,0,1,1,1,0,0,0,0,1,0,0,2,1,0,1,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,5,3,3,4,2,6,1,2,5,4,0,5,0,0,1,1,2,4,3,2,5,2,3,2,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,5,7,8,6,12,5,12,8,10,6,6,3,0,1,10,10,12,5,7,7,6,5,1,4,1,1,SC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,12,12,1,7,2,1,3,1,3,1,0,0,0,0,1,0,3,3,4,3,2,2,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,7,7,8,10,9,6,8,8,9,2,0,0,0,0,5,9,8,6,10,4,6,5,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,24,14,13,13,17,10,3,12,11,0,0,0,0,0,7,8,9,7,4,7,8,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,0,1,4,5,6,6,3,3,5,1,2,0,0,1,2,3,2,4,2,6,2,0,1,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),8,Unrecognized,Rural,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,3,HSS (I-XII),3,Local body,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,3,HSS (I-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,8,5,8,9,6,2,5,5,0,0,0,0,3,6,6,14,7,0,5,6,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,3,HSS (I-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,4,6,9,11,8,3,4,2,0,0,0,0,5,2,5,3,4,2,3,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,3,HSS (I-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,5,6,8,3,8,4,3,0,0,0,0,0,4,0,4,7,3,3,2,3,ST
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,3,HSS (I-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,5,4,25,9,3,3,1,5,0,0,0,0,3,5,3,5,3,7,1,1,ST
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,3,HSS (I-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,8,8,8,17,14,21,11,7,0,0,0,0,4,9,14,5,3,3,9,3,ST
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,3,HSS (I-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,1,0,0,1,2,1,0,1,0,0,0,0,0,0,0,2,0,1,1,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,3,HSS (I-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,1,0,0,2,3,1,0,0,0,0,1,1,1,2,2,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,3,HSS (I-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,3,13,6,11,6,4,2,1,0,0,0,0,10,4,8,8,7,3,2,2,ST
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,3,HSS (I-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,3,4,4,9,1,2,0,1,0,0,0,0,7,4,3,7,3,4,1,3,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,3,HSS (I-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,3,4,2,6,16,12,0,4,0,0,0,0,7,2,1,5,5,8,2,5,ST
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,3,HSS (I-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,2,2,6,2,2,3,3,4,0,0,0,0,3,0,3,2,1,0,5,2,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,3,HSS (I-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,1,1,0,2,2,1,4,0,0,0,0,0,0,3,2,0,6,1,2,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,3,HSS (I-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,3,HSS (I-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,2,0,0,1,ST
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,3,HSS (I-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,2,2,0,3,0,0,0,0,0,0,0,1,1,1,1,1,ST
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,3,HSS (I-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,2,0,1,4,2,4,0,0,0,0,0,0,2,0,0,1,0,0,0,2,ST
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,3,HSS (I-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,1,2,6,3,3,1,0,0,0,0,0,0,4,2,4,1,4,3,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,3,HSS (I-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,3,6,2,6,8,5,4,8,0,0,0,0,7,8,7,6,5,4,7,4,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,3,HSS (I-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,8,10,5,9,13,5,3,1,0,0,0,0,2,12,11,10,10,16,7,6,ST
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,3,HSS (I-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,4,7,25,12,14,7,3,3,0,0,0,0,1,11,10,8,11,11,5,3,ST
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,1,1,0,1,0,0,1,2,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,1,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,32,14,18,24,52,3,3,3,4,3,2,4,2,6,16,13,31,1,2,2,1,0,1,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,86,157,42,57,130,137,2,22,3,4,1,3,63,71,33,45,95,88,1,17,0,2,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,2,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,5,HSS (VI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,5,HSS (VI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,1,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,1,7,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,ST
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,5,HSS (VI-XII),7,Central Govt,Rural,3,0,0,0,0,0,0,0,1,3,2,1,3,2,1,0,0,0,0,0,0,2,1,1,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,5,HSS (VI-XII),7,Central Govt,Urban,3,0,0,0,0,0,0,0,8,3,6,4,3,3,2,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,11,HSS (XI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,11,HSS (XI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,21,20,0,0,0,0,0,0,0,0,0,0,10,11,ST
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,11,HSS (XI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,1,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,11,HSS (XI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,2,2,ST
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,11,HSS (XI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,11,HSS (XI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,11,HSS (XI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,11,HSS (XI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,11,HSS (XI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,1,ST
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,11,HSS (XI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,11,HSS (XI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,20,20,0,0,0,0,0,0,0,0,0,0,6,22,ST
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,11,HSS (XI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,8,9,0,0,0,0,0,0,0,0,0,0,10,8,ST
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,0,4,4,ST
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,1,PS (I-V),3,Local body,Rural,3,0,0,9,14,11,10,0,0,0,0,0,0,0,0,17,12,11,11,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),3,Local body,Rural,3,0,0,9,9,10,15,0,0,0,0,0,0,0,0,12,12,14,6,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,1,PS (I-V),3,Local body,Rural,3,0,0,7,12,6,6,2,0,0,0,0,0,0,0,12,16,11,4,3,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,1,PS (I-V),3,Local body,Rural,3,0,0,8,12,13,9,0,0,0,0,0,0,0,0,11,10,3,11,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,1,PS (I-V),3,Local body,Rural,3,0,0,9,14,5,6,0,0,0,0,0,0,0,0,9,18,8,10,2,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,1,PS (I-V),3,Local body,Rural,3,0,0,16,13,17,11,8,2,1,0,0,0,0,0,16,20,14,16,10,3,4,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,1,PS (I-V),3,Local body,Rural,3,0,0,1,5,0,2,0,0,0,0,0,0,0,0,0,5,0,2,1,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,1,PS (I-V),3,Local body,Rural,3,0,0,11,12,16,19,0,0,0,0,0,0,0,0,13,18,17,14,1,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,1,PS (I-V),3,Local body,Rural,3,0,0,12,18,16,15,5,1,0,0,0,0,0,0,14,20,16,5,2,0,2,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),3,Local body,Rural,3,0,0,18,26,15,21,0,1,0,0,0,0,0,0,9,29,20,18,2,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,1,PS (I-V),3,Local body,Rural,3,0,0,16,12,13,11,10,9,7,0,0,0,0,0,17,14,18,18,6,1,2,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),3,Local body,Urban,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,1,PS (I-V),3,Local body,Urban,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,1,PS (I-V),3,Local body,Urban,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,1,PS (I-V),3,Local body,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,1,PS (I-V),3,Local body,Urban,3,0,0,1,0,1,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,1,PS (I-V),3,Local body,Urban,3,0,0,2,2,0,1,0,0,0,0,0,0,0,0,3,5,1,2,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,1,PS (I-V),3,Local body,Urban,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),3,Local body,Urban,3,0,0,1,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,1,PS (I-V),3,Local body,Urban,3,0,0,5,7,11,6,2,2,2,1,0,0,0,0,10,6,9,9,8,0,1,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),4,Government Aided,Rural,3,1,1,2,4,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,1,PS (I-V),4,Government Aided,Rural,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,1,PS (I-V),4,Government Aided,Rural,3,2,2,0,0,2,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,1,PS (I-V),4,Government Aided,Rural,3,0,0,2,1,1,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,1,PS (I-V),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,1,PS (I-V),4,Government Aided,Rural,3,1,0,2,2,1,3,0,0,0,0,0,0,0,0,1,2,3,0,1,1,1,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),4,Government Aided,Rural,3,0,0,3,1,0,1,2,0,0,0,0,0,0,0,2,2,0,4,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,1,PS (I-V),4,Government Aided,Rural,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),4,Government Aided,Urban,3,0,1,1,5,2,0,0,0,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,1,PS (I-V),4,Government Aided,Urban,3,0,0,1,0,2,3,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,1,PS (I-V),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,1,PS (I-V),4,Government Aided,Urban,3,1,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,1,PS (I-V),4,Government Aided,Urban,3,0,0,2,3,4,3,0,0,0,0,0,0,0,0,1,2,0,3,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,1,PS (I-V),4,Government Aided,Urban,3,9,7,0,0,5,2,2,0,0,0,0,0,0,0,1,2,1,2,0,1,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),4,Government Aided,Urban,3,6,3,5,4,6,2,0,0,0,0,0,0,0,0,8,4,4,1,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,1,PS (I-V),4,Government Aided,Urban,3,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,1,0,2,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,5,11,5,3,3,15,2,2,0,0,0,0,0,0,5,5,8,9,2,1,1,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,1,0,3,3,1,1,0,0,0,0,0,0,0,0,4,2,0,1,1,1,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,7,3,6,3,5,0,0,0,0,0,0,0,0,0,2,2,2,0,0,1,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,2,3,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,1,0,0,2,0,4,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,2,0,3,3,1,0,0,0,1,0,0,0,0,0,1,2,2,1,0,1,1,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,2,1,1,0,1,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,3,11,5,3,2,3,0,0,0,0,0,0,0,0,2,2,2,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,4,3,0,1,1,13,1,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,1,PS (I-V),8,Unrecognized,Rural,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),8,Unrecognized,Rural,3,4,2,0,0,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,1,PS (I-V),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,1,PS (I-V),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,3,19,18,13,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,6,SS (I-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,6,SS (I-X),2,Tribal Welfare Department,Rural,3,0,0,0,1,0,2,5,8,5,6,7,7,0,0,0,0,0,1,1,0,6,5,7,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,6,SS (I-X),3,Local body,Urban,3,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,6,SS (I-X),4,Government Aided,Rural,3,0,0,0,0,0,0,4,6,5,3,5,2,0,0,0,0,0,0,1,5,1,7,0,2,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,6,SS (I-X),4,Government Aided,Rural,3,0,0,0,0,0,0,11,5,6,11,8,0,0,0,0,0,0,0,9,7,12,4,9,6,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,6,SS (I-X),4,Government Aided,Rural,3,0,0,0,0,0,0,4,11,4,7,5,2,0,0,0,0,0,0,8,12,9,10,8,3,1,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,6,SS (I-X),4,Government Aided,Rural,3,0,0,0,0,0,0,3,3,3,5,2,3,0,0,0,0,0,0,4,5,3,5,5,2,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,6,SS (I-X),4,Government Aided,Rural,3,0,0,0,0,0,0,6,4,13,8,4,6,0,0,0,0,0,0,7,9,4,6,3,3,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,6,SS (I-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,2,4,5,1,4,0,0,0,0,0,0,0,1,2,2,2,2,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,6,SS (I-X),4,Government Aided,Rural,3,0,0,0,0,0,0,5,1,0,5,2,3,0,0,0,0,0,0,1,1,1,4,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,6,SS (I-X),4,Government Aided,Rural,3,0,0,0,0,0,0,4,2,3,9,1,1,0,0,0,0,0,0,5,4,3,2,4,8,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,6,SS (I-X),4,Government Aided,Rural,3,0,0,0,0,0,0,6,6,4,5,4,0,0,1,0,0,0,0,7,3,5,5,6,2,2,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,6,SS (I-X),4,Government Aided,Rural,3,0,0,0,0,0,0,6,6,13,14,7,10,0,0,0,0,0,0,13,3,10,1,2,2,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,6,SS (I-X),4,Government Aided,Rural,3,0,0,0,0,0,0,8,2,5,18,23,18,0,0,0,0,0,0,4,6,3,15,23,12,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,6,SS (I-X),4,Government Aided,Urban,3,0,0,0,0,0,0,4,1,1,4,3,22,0,0,0,0,0,0,2,2,4,2,1,2,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,6,SS (I-X),4,Government Aided,Urban,3,0,0,0,0,0,0,1,0,0,1,1,0,0,2,0,0,0,0,0,1,0,1,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,6,SS (I-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,6,SS (I-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,3,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,6,SS (I-X),4,Government Aided,Urban,3,0,0,0,0,0,0,4,0,0,1,2,0,0,0,0,0,0,0,3,5,2,1,5,1,0,1,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,6,SS (I-X),4,Government Aided,Urban,3,0,0,0,0,0,0,7,3,3,11,9,5,0,0,0,0,0,0,3,2,3,5,7,5,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,6,SS (I-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,4,2,6,3,0,0,0,0,0,0,0,0,1,1,3,3,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,2,1,1,0,0,1,0,0,0,0,0,0,0,3,0,2,0,1,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,4,1,0,0,0,1,0,0,0,1,0,0,2,0,0,1,0,0,1,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,24,28,15,29,26,29,50,0,0,1,0,0,17,20,10,21,21,18,26,1,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,2,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,1,3,84,68,34,56,110,46,52,5,6,2,0,0,21,55,29,31,90,11,16,6,2,1,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,6,SS (I-X),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,1,4,2,0,0,0,0,0,0,0,0,0,1,5,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,0,0,4,4,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,4,0,2,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,20,10,13,0,0,0,0,0,0,0,0,0,8,10,9,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,11,11,10,0,0,0,0,0,0,0,0,0,5,4,5,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,1,1,2,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,10,2,4,0,0,0,0,0,0,0,0,0,11,5,6,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,7,SS (VI-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,7,SS (VI-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,7,SS (VI-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,7,SS (VI-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,7,SS (VI-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,1,0,5,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,3,1,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,2,1,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,2,UPS (I-VIII),3,Local body,Rural,3,0,0,10,12,8,18,8,11,9,0,0,0,0,0,12,11,11,10,14,14,10,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),3,Local body,Rural,3,0,0,5,8,7,3,3,5,6,0,0,0,0,0,4,7,2,5,8,5,3,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,2,UPS (I-VIII),3,Local body,Rural,3,0,0,10,11,11,5,3,5,2,0,0,0,0,0,7,2,5,13,6,7,13,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,2,UPS (I-VIII),3,Local body,Rural,3,0,0,5,2,2,2,3,6,3,0,0,0,0,0,8,9,6,6,5,8,8,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,2,UPS (I-VIII),3,Local body,Rural,3,0,0,7,7,10,6,8,13,6,1,0,0,0,0,10,12,7,8,7,3,4,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,2,UPS (I-VIII),3,Local body,Rural,3,0,0,11,16,10,8,9,16,12,2,0,0,0,0,10,14,18,10,8,14,17,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,2,UPS (I-VIII),3,Local body,Rural,3,0,0,2,0,1,1,0,1,0,0,0,0,0,0,0,3,1,1,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,2,UPS (I-VIII),3,Local body,Rural,3,0,0,5,5,4,4,6,7,3,0,0,0,0,0,3,5,3,4,4,7,7,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,2,UPS (I-VIII),3,Local body,Rural,3,0,0,16,13,14,14,13,19,14,1,0,0,0,0,19,13,16,10,14,14,13,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,2,UPS (I-VIII),3,Local body,Rural,3,0,0,9,20,15,19,15,5,9,0,0,0,0,0,14,20,18,11,13,13,7,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,2,UPS (I-VIII),3,Local body,Rural,3,0,0,16,14,18,18,15,15,22,0,0,0,0,0,19,20,22,13,12,11,22,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),3,Local body,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,2,UPS (I-VIII),3,Local body,Urban,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,2,UPS (I-VIII),3,Local body,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,2,UPS (I-VIII),3,Local body,Urban,3,0,0,3,4,3,4,2,1,3,0,0,0,0,0,11,6,4,7,2,6,3,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,2,UPS (I-VIII),3,Local body,Urban,3,0,0,0,0,0,0,1,3,0,0,0,0,0,0,1,0,3,0,1,0,1,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,2,UPS (I-VIII),3,Local body,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,2,UPS (I-VIII),3,Local body,Urban,3,0,0,1,2,0,6,2,2,2,0,0,0,0,0,0,1,0,5,2,1,1,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,2,UPS (I-VIII),3,Local body,Urban,3,0,0,1,1,0,0,4,4,3,0,0,0,0,0,0,0,1,1,6,4,1,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,1,2,1,2,0,2,1,0,0,0,0,0,0,2,2,0,1,1,3,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,6,3,4,2,1,1,0,0,0,0,0,0,2,1,1,0,1,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,4,3,1,3,0,2,2,0,0,0,0,0,0,3,2,5,4,2,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,2,UPS (I-VIII),4,Government Aided,Rural,3,3,1,0,2,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,3,5,1,2,4,2,2,0,0,0,0,0,0,0,1,3,1,3,1,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,8,8,8,7,7,9,4,0,0,0,0,0,7,2,7,8,4,6,9,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,2,UPS (I-VIII),4,Government Aided,Rural,3,1,1,2,2,2,0,3,3,3,1,0,0,0,0,3,0,2,0,1,2,1,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),4,Government Aided,Urban,3,5,4,1,1,1,1,0,1,1,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,2,UPS (I-VIII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,2,UPS (I-VIII),4,Government Aided,Urban,3,0,0,1,1,1,1,1,2,2,0,0,0,0,0,1,2,1,0,0,3,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,2,UPS (I-VIII),4,Government Aided,Urban,3,2,2,1,3,0,3,1,1,0,0,0,0,0,0,1,1,3,1,0,2,1,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,1,2,1,2,5,1,2,2,0,1,0,1,0,0,2,5,4,0,1,1,0,1,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,1,0,4,2,0,1,0,0,0,0,0,0,3,0,0,1,3,2,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,2,3,0,1,5,2,0,1,1,0,0,0,0,0,2,1,3,1,1,1,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,1,0,0,1,2,3,2,0,1,0,0,0,0,0,2,0,0,0,1,0,1,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,6,6,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,2,0,2,0,1,0,5,0,0,0,0,0,0,0,3,1,0,0,1,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,11,8,8,4,4,7,3,4,5,0,3,1,0,0,2,0,5,6,0,4,0,1,1,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,1,1,0,0,1,0,2,0,0,1,0,0,0,0,0,0,0,1,2,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,18,3,6,4,16,0,0,0,0,0,0,0,16,1,7,7,18,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,1,0,2,1,2,1,0,0,0,1,1,1,2,0,1,0,0,0,1,1,0,0,0,2,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,3,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,1,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,3,HSS (I-XII),3,Local body,Urban,4,0,0,0,0,0,0,7,5,10,13,41,36,25,42,0,0,0,0,0,7,20,16,23,38,29,22,OBC
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,3,HSS (I-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,23,40,40,65,65,52,58,61,0,0,0,0,20,28,25,68,63,44,49,51,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,3,HSS (I-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,122,132,140,170,209,186,244,239,0,0,0,0,89,109,106,168,165,131,178,184,OBC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,3,HSS (I-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,115,125,105,159,184,176,204,221,0,0,0,0,83,103,118,163,169,136,175,211,OBC
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,3,HSS (I-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,262,330,292,346,414,388,518,481,0,0,0,0,193,217,255,292,254,251,444,445,OBC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,3,HSS (I-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,175,157,197,231,268,240,437,475,0,0,0,0,152,167,162,214,220,219,344,367,OBC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,3,HSS (I-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,11,10,8,26,10,29,17,16,0,0,0,0,8,7,11,19,15,13,13,18,OBC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,3,HSS (I-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,168,204,162,211,197,233,274,320,0,0,0,0,144,156,150,180,159,146,189,142,OBC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,3,HSS (I-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,48,65,81,75,97,87,103,90,0,0,0,0,65,70,55,81,103,77,88,80,OBC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,3,HSS (I-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,146,219,175,220,226,208,110,118,0,0,0,0,141,155,159,215,220,179,100,125,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,3,HSS (I-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,111,154,127,201,212,180,173,181,0,0,0,0,98,98,96,155,142,108,124,111,OBC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,3,HSS (I-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,57,63,77,77,79,71,65,71,0,0,0,0,43,70,75,70,75,74,85,86,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,3,HSS (I-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,92,64,88,117,135,129,42,40,0,0,0,0,39,54,46,79,80,93,213,186,OBC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,3,HSS (I-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,29,31,42,42,41,42,156,161,0,0,0,0,22,21,28,27,33,23,125,119,OBC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,3,HSS (I-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,17,16,19,28,26,28,29,38,0,0,0,0,6,19,22,19,24,17,29,31,OBC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,3,HSS (I-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,4,3,4,7,6,3,20,15,0,0,0,0,0,1,3,6,8,3,19,21,OBC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,3,HSS (I-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,117,154,153,204,165,186,179,167,0,0,0,0,65,64,74,101,116,101,199,173,OBC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,3,HSS (I-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,24,37,39,50,55,64,21,33,0,0,0,0,17,20,21,24,37,37,20,33,OBC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,3,HSS (I-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,217,269,291,361,409,455,809,854,0,0,0,0,177,191,246,343,349,374,600,519,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,3,HSS (I-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,83,86,104,130,147,138,58,41,0,0,0,0,108,124,146,227,211,258,214,545,OBC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,3,HSS (I-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,27,51,53,93,71,88,23,15,0,0,0,0,52,70,76,92,113,102,49,50,OBC
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,4,2,7,3,12,1,9,1,0,0,0,0,0,0,0,0,1,0,1,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,18,18,24,17,11,11,19,34,0,0,0,0,9,8,15,7,13,5,16,15,OBC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,57,41,40,36,32,37,33,28,35,20,18,16,2,5,26,16,25,19,16,21,19,11,14,10,1,2,OBC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,4,4,5,5,2,4,11,11,4,8,15,14,0,2,1,2,2,2,4,7,0,0,7,2,OBC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,0,0,8,9,6,14,15,28,19,27,36,36,15,29,6,5,3,2,7,3,4,11,11,7,8,6,OBC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,1,1,2,2,0,0,0,0,9,11,0,0,0,1,0,1,0,0,0,0,6,5,OBC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,48,37,43,14,9,0,0,0,0,0,0,0,41,41,39,31,29,OBC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,35,58,65,19,19,0,0,0,0,0,0,0,53,41,47,15,21,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,3,1,2,0,1,0,0,0,0,0,0,0,4,3,4,0,1,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,5,HSS (VI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,17,19,23,8,3,0,0,0,0,0,0,0,5,4,4,2,1,OBC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,5,HSS (VI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,24,21,23,10,9,0,0,0,0,0,0,0,28,25,9,2,8,OBC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,8,3,6,3,9,0,0,0,0,0,0,0,3,2,2,1,4,OBC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,7,10,15,6,10,0,0,0,0,0,0,0,9,9,2,0,2,OBC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,3,6,1,7,6,1,2,0,0,0,0,0,3,2,3,2,1,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,5,HSS (VI-XII),7,Central Govt,Rural,4,0,0,0,0,0,0,0,10,7,12,10,6,6,9,0,0,0,0,0,6,5,9,10,10,2,10,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,5,HSS (VI-XII),7,Central Govt,Urban,4,0,0,0,0,0,0,0,11,17,6,13,7,8,6,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,11,HSS (XI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,11,8,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,11,HSS (XI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,747,723,0,0,0,0,0,0,0,0,0,0,437,430,OBC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,11,HSS (XI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,106,103,0,0,0,0,0,0,0,0,0,0,91,78,OBC
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,11,HSS (XI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,84,64,0,0,0,0,0,0,0,0,0,0,76,58,OBC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,11,HSS (XI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,20,33,0,0,0,0,0,0,0,0,0,0,6,7,OBC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,11,HSS (XI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,32,21,0,0,0,0,0,0,0,0,0,0,27,20,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,11,HSS (XI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,89,79,0,0,0,0,0,0,0,0,0,0,9,10,OBC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,11,HSS (XI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,186,163,0,0,0,0,0,0,0,0,0,0,149,159,OBC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,11,HSS (XI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,72,65,0,0,0,0,0,0,0,0,0,0,42,50,OBC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,11,HSS (XI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,227,198,0,0,0,0,0,0,0,0,0,0,85,90,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,11,HSS (XI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,873,777,0,0,0,0,0,0,0,0,0,0,494,517,OBC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,11,HSS (XI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,183,179,0,0,0,0,0,0,0,0,0,0,145,135,OBC
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,3,20,0,0,0,0,0,0,0,0,0,0,1,2,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,29,24,0,0,0,0,0,0,0,0,0,0,15,15,OBC
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,6,8,0,0,0,0,0,0,0,0,0,0,2,4,OBC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,7,8,0,0,0,0,0,0,0,0,0,0,13,16,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,29,33,0,0,0,0,0,0,0,0,0,0,16,10,OBC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,36,27,0,0,0,0,0,0,0,0,0,0,19,27,OBC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,23,9,0,0,0,0,0,0,0,0,0,0,14,4,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,24,12,0,0,0,0,0,0,0,0,0,0,10,8,OBC
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,1,PS (I-V),3,Local body,Rural,4,0,0,51,73,56,71,24,0,0,0,0,0,0,0,65,60,74,57,18,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),3,Local body,Rural,4,0,0,355,385,370,366,8,3,3,0,0,0,0,0,352,354,350,346,13,8,8,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,1,PS (I-V),3,Local body,Rural,4,0,0,195,190,195,192,19,11,7,6,0,0,0,0,186,202,222,163,9,6,4,3,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,1,PS (I-V),3,Local body,Rural,4,0,0,406,417,380,380,20,1,1,0,0,0,0,0,392,377,400,379,16,2,1,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,1,PS (I-V),3,Local body,Rural,4,0,0,229,245,256,231,4,3,1,0,0,0,0,0,231,246,284,223,15,3,1,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,1,PS (I-V),3,Local body,Rural,4,0,0,39,34,44,28,23,1,2,0,0,0,0,0,41,31,37,34,21,4,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,1,PS (I-V),3,Local body,Rural,4,0,0,503,518,495,519,26,1,0,0,0,0,0,0,471,495,532,485,37,1,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,1,PS (I-V),3,Local body,Rural,4,0,0,198,185,199,184,73,6,8,0,0,0,0,0,187,199,196,215,70,9,7,1,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,1,PS (I-V),3,Local body,Rural,4,0,0,682,569,639,610,131,26,17,0,0,0,0,0,590,536,564,558,143,22,21,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),3,Local body,Rural,4,0,0,171,196,195,175,17,10,6,0,0,0,0,0,211,190,169,186,28,13,12,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,1,PS (I-V),3,Local body,Rural,4,0,0,104,115,104,98,11,6,9,0,0,0,0,0,89,90,99,103,12,11,6,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),3,Local body,Urban,4,0,1,91,70,65,66,32,13,14,0,0,0,0,0,49,68,60,50,20,15,5,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,1,PS (I-V),3,Local body,Urban,4,0,0,2,3,5,2,0,0,0,0,0,0,0,0,4,2,2,1,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,1,PS (I-V),3,Local body,Urban,4,0,0,3,11,8,11,0,0,0,0,0,0,0,0,5,3,5,8,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,1,PS (I-V),3,Local body,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,1,PS (I-V),3,Local body,Urban,4,0,0,55,50,58,51,0,0,0,0,0,0,0,0,44,40,47,41,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,1,PS (I-V),3,Local body,Urban,4,0,0,12,9,16,16,0,0,0,0,0,0,0,0,7,12,11,13,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,1,PS (I-V),3,Local body,Urban,4,0,0,15,14,22,21,0,0,0,0,0,0,0,0,17,18,23,15,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),3,Local body,Urban,4,0,0,13,17,19,14,0,0,0,0,0,0,0,0,8,11,12,13,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,1,PS (I-V),3,Local body,Urban,4,0,0,52,53,44,47,48,17,12,15,0,0,0,0,44,49,50,40,29,14,14,14,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),4,Government Aided,Rural,4,15,23,68,98,74,83,0,0,0,0,0,0,0,0,71,66,68,62,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,1,PS (I-V),4,Government Aided,Rural,4,33,25,70,57,62,65,8,0,0,0,0,0,0,0,55,54,60,49,4,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,1,PS (I-V),4,Government Aided,Rural,4,37,24,40,31,32,32,0,0,0,0,0,0,0,0,28,19,30,33,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,1,PS (I-V),4,Government Aided,Rural,4,0,0,12,14,15,23,0,0,0,0,0,0,0,0,5,9,9,8,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,1,PS (I-V),4,Government Aided,Rural,4,2,4,13,16,13,17,0,0,0,0,0,0,0,0,12,11,17,14,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,1,PS (I-V),4,Government Aided,Rural,4,68,44,63,62,66,74,11,17,8,7,0,0,0,0,62,54,57,57,6,5,3,7,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),4,Government Aided,Rural,4,0,0,35,32,52,54,3,0,0,0,0,0,0,0,38,36,39,39,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,1,PS (I-V),4,Government Aided,Rural,4,0,0,9,7,9,6,0,0,0,0,0,0,0,0,6,13,5,5,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),4,Government Aided,Urban,4,71,102,54,50,73,66,0,0,0,0,0,0,0,0,55,63,60,64,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,1,PS (I-V),4,Government Aided,Urban,4,45,66,58,46,50,61,0,0,0,0,0,0,0,0,37,44,31,48,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,1,PS (I-V),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,1,PS (I-V),4,Government Aided,Urban,4,41,34,31,32,26,16,0,0,0,0,0,0,0,0,18,19,20,20,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,1,PS (I-V),4,Government Aided,Urban,4,0,0,15,12,12,11,0,0,0,0,0,0,0,0,5,8,7,12,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,1,PS (I-V),4,Government Aided,Urban,4,259,233,126,138,136,161,13,11,12,4,0,0,0,0,111,117,94,100,8,7,6,3,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),4,Government Aided,Urban,4,147,117,192,177,182,168,0,0,0,0,0,0,0,0,179,185,163,168,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,1,PS (I-V),4,Government Aided,Urban,4,0,0,61,39,48,62,0,0,0,0,0,0,0,0,52,50,46,55,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,7,4,8,6,4,5,0,0,0,0,0,0,0,0,3,3,3,1,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,135,102,113,92,88,82,15,14,12,9,2,0,0,0,83,76,57,48,14,5,7,3,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,20,16,14,3,5,8,2,0,1,0,1,0,0,0,5,6,5,4,3,2,0,1,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,63,37,67,48,44,26,12,6,6,3,6,0,0,0,33,28,36,19,5,2,1,1,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,131,132,83,42,39,33,24,14,14,5,0,0,0,0,35,33,21,22,9,8,2,2,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,6,4,6,1,2,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,23,11,21,25,19,6,8,5,5,7,0,0,0,0,17,14,9,7,6,0,4,6,1,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,11,4,7,16,9,7,10,3,3,2,1,0,0,0,16,11,8,8,1,3,1,1,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,9,8,43,32,43,26,20,12,6,0,0,0,0,0,25,19,16,16,4,5,5,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,50,30,54,37,39,24,18,16,10,7,8,3,0,0,33,33,25,18,17,9,9,3,7,8,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,24,14,13,14,5,5,2,0,0,0,0,0,13,11,6,2,5,1,3,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,42,35,61,59,57,62,5,3,2,0,0,0,0,0,43,38,32,31,5,2,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,6,7,6,1,2,0,3,2,0,0,0,0,0,0,4,1,1,0,0,0,3,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,37,21,13,6,8,4,2,1,0,0,0,0,0,0,4,1,1,2,3,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,0,1,1,4,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,48,38,64,53,51,45,15,10,3,0,0,0,0,0,48,42,41,30,5,5,6,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,25,18,17,11,15,11,0,0,0,0,0,0,0,0,9,11,7,10,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,159,101,70,76,56,49,36,14,24,31,13,11,8,14,49,38,40,35,18,10,6,12,10,10,4,4,OBC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,9,15,17,12,6,9,4,4,9,1,0,0,8,16,13,10,2,7,5,2,3,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,1,PS (I-V),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),8,Unrecognized,Rural,4,9,9,5,6,4,1,0,0,0,0,0,0,0,0,8,1,4,1,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,1,PS (I-V),8,Unrecognized,Rural,4,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,1,PS (I-V),8,Unrecognized,Rural,4,0,0,4,0,6,0,0,0,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),8,Unrecognized,Rural,4,0,0,0,7,5,2,1,0,0,0,0,0,0,0,1,0,1,3,1,1,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,8,10,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,6,SS (I-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,6,5,6,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,6,SS (I-X),2,Tribal Welfare Department,Rural,4,0,0,1,2,5,5,4,8,5,7,10,14,0,0,2,1,3,3,5,9,6,7,11,4,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,6,SS (I-X),2,Tribal Welfare Department,Rural,4,0,0,3,1,2,1,0,4,2,4,2,3,0,0,2,5,2,1,2,1,2,0,5,6,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,6,SS (I-X),3,Local body,Urban,4,0,0,0,0,0,0,0,1,2,19,13,14,0,0,0,0,0,0,0,0,4,4,4,2,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,6,SS (I-X),4,Government Aided,Rural,4,0,0,0,0,0,0,26,24,24,34,36,43,0,0,0,0,0,0,22,23,33,38,34,32,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,6,SS (I-X),4,Government Aided,Rural,4,0,0,0,0,0,0,392,420,441,504,521,561,19,19,0,0,0,0,355,381,382,508,425,421,20,15,OBC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,6,SS (I-X),4,Government Aided,Rural,4,0,0,1,1,0,1,122,151,148,201,181,210,2,0,0,1,0,0,153,149,162,188,214,173,2,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,6,SS (I-X),4,Government Aided,Rural,4,0,0,0,0,0,0,211,264,244,311,275,281,7,0,0,0,0,0,216,268,246,296,349,271,12,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,6,SS (I-X),4,Government Aided,Rural,4,0,0,0,0,0,0,82,79,74,127,111,113,11,2,0,0,0,0,68,74,89,95,75,86,23,16,OBC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,6,SS (I-X),4,Government Aided,Rural,4,0,0,1,1,2,2,12,12,9,23,15,32,0,0,2,1,0,2,5,20,16,22,31,24,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,6,SS (I-X),4,Government Aided,Rural,4,0,0,0,0,0,0,329,409,381,478,451,436,0,0,0,0,0,0,301,316,310,414,368,377,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,6,SS (I-X),4,Government Aided,Rural,4,0,0,0,0,0,0,91,99,112,128,134,163,10,12,0,0,0,0,64,115,99,130,142,116,10,13,OBC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,6,SS (I-X),4,Government Aided,Rural,4,0,0,0,0,0,0,301,344,377,460,458,429,42,31,0,0,0,0,204,269,283,380,344,369,59,47,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,6,SS (I-X),4,Government Aided,Rural,4,0,0,0,0,0,0,174,194,187,218,272,263,0,0,0,0,0,0,154,173,196,202,215,182,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,6,SS (I-X),4,Government Aided,Rural,4,0,0,0,0,0,0,42,52,74,113,99,107,0,0,0,0,0,0,29,33,40,62,52,74,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,6,SS (I-X),4,Government Aided,Urban,4,0,0,0,0,0,0,74,84,91,140,127,114,0,0,0,0,0,0,125,123,128,153,169,175,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,6,SS (I-X),4,Government Aided,Urban,4,0,0,0,0,0,0,48,43,58,52,52,35,9,19,0,0,0,0,36,37,41,29,42,25,2,10,OBC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,6,SS (I-X),4,Government Aided,Urban,4,0,0,0,0,0,0,7,7,11,22,17,14,0,0,0,0,0,0,1,9,8,23,17,12,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,6,SS (I-X),4,Government Aided,Urban,4,0,0,0,0,0,0,14,14,9,21,17,26,0,0,0,0,0,0,68,86,76,113,114,103,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,6,SS (I-X),4,Government Aided,Urban,4,0,0,0,0,0,0,35,27,33,28,29,31,3,7,0,0,0,0,38,16,32,39,34,27,4,2,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,6,SS (I-X),4,Government Aided,Urban,4,0,0,0,0,0,0,134,130,185,211,250,241,0,0,0,0,0,0,102,161,147,169,159,169,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,6,SS (I-X),4,Government Aided,Urban,4,0,0,0,0,0,0,44,55,59,63,80,75,0,0,0,0,0,0,20,18,20,30,34,30,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,2,5,1,3,1,2,8,1,2,4,0,0,0,1,2,1,1,0,0,0,0,1,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,22,14,10,14,18,9,37,33,34,51,33,39,0,0,14,7,7,12,21,18,17,26,18,18,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,18,12,13,15,9,7,16,6,1,2,0,0,9,8,12,6,6,5,8,3,0,1,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,25,11,10,5,5,7,0,3,4,6,10,17,0,0,1,12,7,9,3,2,0,3,9,2,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,4,4,2,9,2,2,0,5,1,2,0,1,1,2,1,5,0,1,0,4,0,1,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,2,5,4,7,9,8,8,7,10,9,0,0,1,1,1,1,0,1,3,4,2,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,2,4,9,9,6,0,0,0,0,3,0,0,1,6,2,5,2,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,1,3,5,5,6,9,0,0,0,0,0,0,0,7,4,6,4,6,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,24,31,16,13,19,14,23,20,15,14,0,0,13,15,15,13,21,21,13,16,13,8,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,7,1,5,2,2,5,7,5,7,5,0,0,0,0,2,0,6,4,7,4,8,1,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,20,21,23,23,12,8,0,0,0,0,0,0,20,17,8,11,6,11,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,26,20,20,23,19,33,29,22,16,20,25,18,5,1,9,10,8,10,13,7,17,12,15,11,4,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,34,27,18,15,21,9,0,0,0,0,0,0,18,20,13,11,8,12,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,6,SS (I-X),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,5,2,0,0,0,0,0,0,0,0,0,0,4,2,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,14,18,0,0,0,0,0,0,0,0,0,0,15,17,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,15,7,0,0,0,0,0,0,0,0,0,0,6,4,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,18,21,0,0,0,0,0,0,0,0,0,0,7,15,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,8,SS (IX-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,39,50,38,1,1,0,0,0,0,0,0,0,32,34,27,2,2,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,84,77,90,0,0,0,0,0,0,0,0,0,78,92,75,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,4,0,92,80,94,0,0,0,0,0,0,0,2,1,82,78,67,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,144,161,150,24,28,0,0,0,0,0,0,0,129,116,120,4,8,OBC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,72,69,80,0,0,0,0,0,0,0,0,0,71,68,60,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,22,23,26,0,0,0,0,0,0,0,0,0,15,22,19,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,94,109,112,0,0,0,0,0,0,0,0,0,115,131,84,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,25,17,36,0,0,0,0,0,0,0,0,0,19,30,24,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,236,290,243,0,0,0,0,0,0,0,0,0,215,197,161,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,54,61,96,0,0,0,0,0,0,0,0,0,32,45,50,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,29,39,31,0,0,0,0,0,0,0,0,0,42,60,60,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,7,SS (VI-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,47,33,34,0,0,0,0,0,0,0,0,0,35,52,32,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,7,SS (VI-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,7,4,5,0,0,0,0,0,0,0,0,0,1,0,2,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,7,SS (VI-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,24,10,10,0,0,0,0,0,0,0,0,0,12,10,14,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,7,SS (VI-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,4,6,10,0,0,0,0,0,0,0,0,0,0,0,1,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,7,SS (VI-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,7,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,18,13,13,0,0,0,0,0,0,0,0,0,8,10,15,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,15,23,18,0,0,0,0,0,0,0,0,0,12,15,11,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,4,4,11,0,0,0,0,0,0,0,0,0,6,2,5,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,27,20,28,0,0,0,0,0,0,0,0,0,19,22,19,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,5,14,18,0,0,0,0,0,0,0,0,0,0,3,3,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,46,63,52,0,0,0,0,0,0,0,0,0,40,53,52,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,11,15,13,0,0,0,0,0,0,0,0,0,11,9,11,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,5,17,11,0,0,0,0,0,0,0,0,0,7,4,8,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,42,58,68,2,0,0,0,0,0,0,0,0,32,52,31,2,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,22,23,16,0,0,0,0,0,0,0,0,0,12,8,7,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,6,11,0,0,0,0,0,0,0,0,0,0,2,5,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,17,26,16,0,0,0,0,0,0,0,0,0,9,12,10,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,4,5,0,0,0,0,0,0,0,0,0,0,3,2,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,7,8,3,0,0,0,0,0,0,0,0,0,6,6,8,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,75,64,48,19,21,17,30,31,22,36,34,26,0,0,37,23,19,9,21,17,15,41,25,16,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,7,8,6,0,0,0,0,0,0,0,0,0,3,7,3,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,2,UPS (I-VIII),3,Local body,Rural,4,0,0,80,63,59,74,61,74,85,10,0,0,0,0,71,69,77,61,54,76,87,9,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),3,Local body,Rural,4,0,0,221,238,222,260,180,154,177,24,0,0,0,0,255,241,214,236,197,208,184,17,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,2,UPS (I-VIII),3,Local body,Rural,4,0,0,166,174,175,156,154,167,137,0,0,0,0,0,158,187,167,170,152,153,136,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,2,UPS (I-VIII),3,Local body,Rural,4,0,0,195,232,210,171,161,184,145,5,0,0,0,0,195,206,189,178,171,174,162,10,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,2,UPS (I-VIII),3,Local body,Rural,4,0,0,185,191,156,168,197,195,177,0,0,0,0,0,131,135,162,154,153,168,135,1,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,2,UPS (I-VIII),3,Local body,Rural,4,0,0,8,17,18,13,14,38,21,1,0,0,0,0,13,7,16,17,16,23,25,3,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,2,UPS (I-VIII),3,Local body,Rural,4,0,0,184,183,170,200,178,203,177,11,0,0,0,0,181,178,157,183,217,216,200,6,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,2,UPS (I-VIII),3,Local body,Rural,4,0,0,84,90,91,90,79,102,87,37,0,0,0,0,93,88,74,92,107,118,121,52,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,2,UPS (I-VIII),3,Local body,Rural,4,0,0,324,340,367,373,403,415,414,71,0,0,0,0,311,317,341,358,365,447,362,74,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,2,UPS (I-VIII),3,Local body,Rural,4,0,0,185,198,180,194,140,151,125,26,0,0,0,0,186,212,219,184,153,154,162,40,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,2,UPS (I-VIII),3,Local body,Rural,4,0,0,82,95,106,120,86,117,97,4,0,0,0,0,91,95,83,104,87,78,101,5,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),3,Local body,Urban,4,0,0,5,4,1,4,4,5,1,0,0,0,0,0,22,20,16,9,11,6,14,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,2,UPS (I-VIII),3,Local body,Urban,4,0,0,0,1,1,0,0,0,0,0,0,0,0,0,3,0,1,1,1,1,1,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,2,UPS (I-VIII),3,Local body,Urban,4,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,2,UPS (I-VIII),3,Local body,Urban,4,0,0,14,14,22,17,13,5,11,0,0,0,0,0,14,16,20,11,24,11,16,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,2,UPS (I-VIII),3,Local body,Urban,4,0,0,72,90,92,89,74,49,42,0,0,0,0,0,75,74,89,78,69,58,34,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,2,UPS (I-VIII),3,Local body,Urban,4,0,0,18,13,17,15,13,17,13,0,0,0,0,0,20,18,13,8,12,15,18,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,2,UPS (I-VIII),3,Local body,Urban,4,0,0,23,36,23,20,29,34,36,0,0,0,0,0,22,43,43,31,43,36,38,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,2,UPS (I-VIII),3,Local body,Urban,4,0,0,9,5,11,8,5,6,10,7,0,0,0,0,11,4,7,8,8,10,12,4,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),4,Government Aided,Rural,4,19,21,31,40,40,43,31,26,31,0,0,0,0,0,24,32,33,33,18,19,20,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,1,1,4,9,2,6,3,0,0,0,0,0,4,0,2,2,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,2,UPS (I-VIII),4,Government Aided,Rural,4,21,12,34,30,40,41,33,37,45,1,0,0,0,0,20,29,36,34,25,22,19,1,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,2,UPS (I-VIII),4,Government Aided,Rural,4,56,55,21,18,27,25,11,8,6,0,0,0,0,0,9,12,14,19,8,3,9,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,20,26,23,22,11,20,16,0,0,0,0,0,20,11,22,22,13,15,11,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,34,28,45,53,55,79,61,0,0,0,0,0,16,22,27,34,44,45,36,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,2,UPS (I-VIII),4,Government Aided,Rural,4,59,33,53,71,61,71,48,65,52,4,0,0,0,0,40,45,48,48,27,25,35,4,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),4,Government Aided,Urban,4,107,59,58,67,55,67,56,46,47,13,0,0,0,0,39,49,58,49,35,24,37,6,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,2,UPS (I-VIII),4,Government Aided,Urban,4,0,0,1,3,1,2,3,1,2,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,2,UPS (I-VIII),4,Government Aided,Urban,4,78,82,39,52,38,51,41,45,38,0,0,0,0,0,50,35,37,43,55,34,35,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,2,UPS (I-VIII),4,Government Aided,Urban,4,43,33,45,50,47,58,41,42,45,0,0,0,0,0,38,48,33,42,29,22,28,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,105,56,85,69,70,61,56,42,42,25,17,17,0,0,51,43,33,48,31,25,26,22,14,5,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,18,21,18,19,22,11,14,1,0,0,0,0,11,9,15,11,11,15,7,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,99,70,42,31,29,53,23,23,28,26,8,8,0,0,27,30,29,20,11,5,12,12,6,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,34,29,27,30,31,19,21,20,14,13,0,0,0,0,21,17,20,19,17,9,7,8,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,24,15,8,9,9,2,8,12,2,3,0,0,0,0,3,3,4,9,10,6,4,1,1,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,19,9,54,39,44,43,39,27,32,9,0,1,0,0,32,32,21,25,16,12,12,5,4,3,7,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,84,72,164,172,147,163,130,140,137,106,60,43,24,14,130,113,86,95,83,62,86,68,24,17,15,16,OBC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,22,21,20,26,24,21,21,6,6,6,0,0,19,15,11,21,16,18,17,5,6,10,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,0,7,7,9,14,11,11,9,11,9,13,12,11,8,10,3,3,5,12,8,6,3,6,4,4,OBC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,8,6,2,1,2,4,3,1,0,1,0,0,0,0,2,2,4,1,4,1,2,1,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,2,10,0,3,6,2,5,3,5,14,16,0,0,6,2,1,1,4,1,4,2,3,2,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,49,10,48,54,50,37,45,52,43,20,13,11,5,6,20,26,27,29,26,30,16,16,11,12,4,2,OBC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,27,21,11,8,8,9,7,8,12,2,0,0,0,0,7,4,4,5,7,4,3,3,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,21,22,27,26,22,24,23,20,21,4,0,0,0,0,14,21,18,15,11,13,12,9,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,47,34,16,22,20,19,29,25,32,0,0,0,0,0,15,13,14,9,16,14,11,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,0,16,35,21,19,25,22,19,6,9,4,0,0,22,15,15,21,9,11,13,7,3,4,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),8,Unrecognized,Rural,4,0,0,5,4,0,2,3,0,0,0,0,0,0,0,2,3,2,3,1,3,4,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,6,SS (I-X),3,Local body,Urban,1,0,0,0,0,0,0,0,0,4,5,16,21,0,0,0,0,0,0,0,0,0,5,4,1,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,3,HSS (I-XII),3,Local body,Urban,1,0,0,0,0,0,0,4,7,5,19,15,24,65,35,0,0,0,0,0,8,9,24,21,30,41,66,General
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,3,HSS (I-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,47,37,55,100,105,106,146,197,0,0,0,0,32,31,46,128,109,124,161,217,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,3,HSS (I-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,316,303,370,438,475,540,667,655,0,0,0,0,235,254,287,394,388,395,519,527,General
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,3,HSS (I-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,165,177,219,352,324,380,374,427,0,0,0,0,141,180,189,261,275,287,310,343,General
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,3,HSS (I-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,296,379,351,426,466,481,633,702,0,0,0,0,225,294,296,375,303,322,691,656,General
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,3,HSS (I-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,112,127,133,209,232,216,456,487,0,0,0,0,127,157,142,209,217,216,345,367,General
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,3,HSS (I-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,18,21,28,50,50,48,44,41,0,0,0,0,11,13,13,46,48,35,53,59,General
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,3,HSS (I-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,144,165,145,209,191,216,169,193,0,0,0,0,107,109,132,151,172,170,126,128,General
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,3,HSS (I-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,206,242,301,347,389,381,436,426,0,0,0,0,207,239,282,329,343,311,395,466,General
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,3,HSS (I-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,74,88,103,146,135,176,43,74,0,0,0,0,78,70,93,115,130,119,52,63,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,3,HSS (I-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,221,264,315,369,449,516,427,443,0,0,0,0,166,200,216,364,377,398,386,356,General
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,3,HSS (I-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,91,120,118,167,144,157,181,161,0,0,0,0,88,99,106,169,142,142,185,192,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,3,HSS (I-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,149,141,210,191,238,234,89,88,0,0,0,0,109,129,147,195,206,185,374,392,General
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,3,HSS (I-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,78,87,91,86,83,72,389,393,0,0,0,0,59,77,56,83,70,66,281,283,General
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,3,HSS (I-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,40,33,27,45,56,50,52,28,0,0,0,0,22,29,26,32,34,28,69,54,General
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,3,HSS (I-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,5,5,3,14,8,10,92,99,0,0,0,0,0,8,11,12,13,22,82,103,General
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,3,HSS (I-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,84,81,87,110,124,112,61,74,0,0,0,0,10,10,17,16,20,17,89,87,General
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,3,HSS (I-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,61,71,69,106,117,115,102,110,0,0,0,0,33,53,57,72,84,78,100,144,General
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,3,HSS (I-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,105,138,165,221,267,263,584,666,0,0,0,0,97,135,132,179,202,209,438,403,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,3,HSS (I-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,115,119,137,255,235,262,136,122,0,0,0,0,158,211,221,373,405,392,572,486,General
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,3,HSS (I-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,58,62,91,110,137,110,54,62,0,0,0,0,83,123,126,182,163,180,158,156,General
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,5,10,13,9,12,16,16,8,0,0,0,0,0,0,1,0,0,4,1,0,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,52,57,64,71,75,57,88,65,0,0,0,0,43,26,37,36,37,39,44,43,General
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,81,59,55,50,48,49,49,47,38,53,36,37,6,13,31,33,39,33,37,34,33,18,25,21,6,4,General
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,12,16,14,22,24,27,34,29,60,30,54,66,1,3,6,3,7,11,12,9,7,9,24,21,General
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,0,0,46,72,103,100,135,193,202,241,242,215,97,130,32,37,32,54,47,58,66,82,69,63,42,50,General
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,0,0,12,14,12,14,21,15,13,25,8,0,16,30,9,8,12,8,8,16,6,8,2,0,4,8,General
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,6,4,5,5,2,0,0,0,0,0,0,0,5,6,2,0,1,General
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,3,10,12,3,3,0,0,0,0,0,0,0,7,10,4,8,11,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,34,18,27,16,18,0,0,0,0,0,0,0,22,25,34,15,20,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,5,HSS (VI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,39,63,44,2,5,0,0,0,0,0,0,0,26,29,22,1,1,General
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,5,HSS (VI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,16,15,20,2,1,0,0,0,0,0,0,0,20,17,8,3,0,General
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,42,33,18,10,18,0,0,0,0,0,0,0,39,16,14,4,7,General
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,20,27,24,7,7,0,0,0,0,0,0,0,17,19,8,2,4,General
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,10,32,32,31,28,16,7,0,0,0,0,0,4,5,5,8,8,2,0,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,5,HSS (VI-XII),7,Central Govt,Rural,1,0,0,0,0,0,0,0,18,25,27,26,27,16,16,0,0,0,0,0,9,20,10,18,14,19,16,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,5,HSS (VI-XII),7,Central Govt,Urban,1,0,0,0,0,0,0,0,64,70,76,61,60,65,45,0,0,0,0,0,1,2,4,0,4,5,4,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,11,HSS (XI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,25,29,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,11,HSS (XI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,1801,1719,0,0,0,0,0,0,0,0,0,0,1344,1243,General
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,11,HSS (XI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,168,206,0,0,0,0,0,0,0,0,0,0,218,211,General
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,11,HSS (XI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,109,137,0,0,0,0,0,0,0,0,0,0,127,124,General
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,11,HSS (XI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,51,38,0,0,0,0,0,0,0,0,0,0,17,14,General
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,11,HSS (XI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,182,174,0,0,0,0,0,0,0,0,0,0,166,143,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,11,HSS (XI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,221,226,0,0,0,0,0,0,0,0,0,0,18,28,General
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,11,HSS (XI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,152,156,0,0,0,0,0,0,0,0,0,0,179,151,General
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,11,HSS (XI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,345,337,0,0,0,0,0,0,0,0,0,0,293,214,General
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,11,HSS (XI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,134,159,0,0,0,0,0,0,0,0,0,0,65,70,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,11,HSS (XI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,1795,1720,0,0,0,0,0,0,0,0,0,0,1061,1061,General
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,11,HSS (XI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,459,448,0,0,0,0,0,0,0,0,0,0,377,380,General
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,169,215,0,0,0,0,0,0,0,0,0,0,94,87,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,154,101,0,0,0,0,0,0,0,0,0,0,110,29,General
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,6,9,0,0,0,0,0,0,0,0,0,0,7,5,General
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,59,75,0,0,0,0,0,0,0,0,0,0,49,47,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,57,103,0,0,0,0,0,0,0,0,0,0,46,28,General
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,56,44,0,0,0,0,0,0,0,0,0,0,30,34,General
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,13,8,0,0,0,0,0,0,0,0,0,0,7,8,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,52,45,0,0,0,0,0,0,0,0,0,0,31,20,General
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,1,PS (I-V),3,Local body,Rural,1,0,0,134,169,170,142,38,0,0,0,0,0,0,0,163,167,150,177,46,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),3,Local body,Rural,1,0,0,748,799,765,784,31,3,0,0,0,0,0,0,681,746,670,800,43,2,2,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,1,PS (I-V),3,Local body,Rural,1,0,0,259,302,288,315,3,0,0,0,0,0,0,0,249,327,284,284,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,1,PS (I-V),3,Local body,Rural,1,0,0,424,462,429,470,24,0,0,0,0,0,0,0,445,478,481,420,25,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,1,PS (I-V),3,Local body,Rural,1,0,0,150,161,161,150,8,2,3,0,0,0,0,0,184,209,188,163,16,1,5,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,1,PS (I-V),3,Local body,Rural,1,0,0,59,54,67,52,25,0,3,0,0,0,0,0,70,68,72,80,49,4,3,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,1,PS (I-V),3,Local body,Rural,1,0,0,226,236,242,260,9,2,3,0,0,0,0,0,239,216,223,244,7,5,3,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,1,PS (I-V),3,Local body,Rural,1,0,0,651,680,661,774,223,17,14,8,0,0,0,0,602,706,702,809,274,12,9,4,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,1,PS (I-V),3,Local body,Rural,1,0,0,260,241,262,251,74,11,10,0,0,0,0,0,228,239,260,260,61,12,9,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),3,Local body,Rural,1,0,0,309,372,374,373,61,32,37,0,0,0,0,0,354,353,378,377,61,38,33,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,1,PS (I-V),3,Local body,Rural,1,0,0,196,196,207,214,33,6,2,0,0,0,0,0,193,194,216,219,41,7,1,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),3,Local body,Urban,1,18,45,155,153,157,134,70,38,22,0,0,0,0,0,127,150,128,139,22,14,5,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,1,PS (I-V),3,Local body,Urban,1,0,0,8,8,10,7,0,0,0,0,0,0,0,0,3,3,6,8,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,1,PS (I-V),3,Local body,Urban,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,3,3,0,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,1,PS (I-V),3,Local body,Urban,1,0,0,4,1,3,1,3,0,0,0,0,0,0,0,8,8,5,9,10,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,1,PS (I-V),3,Local body,Urban,1,0,0,42,27,29,30,0,0,0,0,0,0,0,0,20,27,28,29,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,1,PS (I-V),3,Local body,Urban,1,0,0,13,12,10,17,0,0,0,0,0,0,0,0,16,6,24,14,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,1,PS (I-V),3,Local body,Urban,1,0,0,7,6,2,2,0,0,0,0,0,0,0,0,3,2,2,3,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),3,Local body,Urban,1,0,0,28,30,37,20,4,2,1,0,0,0,0,0,41,62,49,53,10,12,13,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,1,PS (I-V),3,Local body,Urban,1,0,0,55,46,48,45,47,7,8,5,0,0,0,0,46,55,53,38,38,7,4,3,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),4,Government Aided,Rural,1,25,30,79,61,70,70,0,0,0,0,0,0,0,0,43,81,48,75,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,1,PS (I-V),4,Government Aided,Rural,1,40,29,142,117,119,143,3,0,0,0,0,0,0,0,119,99,109,101,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,1,PS (I-V),4,Government Aided,Rural,1,73,68,27,46,47,43,0,0,0,0,0,0,0,0,36,44,24,34,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,1,PS (I-V),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,1,PS (I-V),4,Government Aided,Rural,1,20,17,13,5,12,7,0,0,0,0,0,0,0,0,12,9,8,6,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,1,PS (I-V),4,Government Aided,Rural,1,55,57,52,45,46,72,5,3,3,1,0,0,0,0,38,36,44,47,9,7,4,1,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),4,Government Aided,Rural,1,0,0,52,59,50,58,8,0,0,0,0,0,0,0,39,50,61,52,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,1,PS (I-V),4,Government Aided,Rural,1,0,0,22,24,25,17,0,0,0,0,0,0,0,0,22,17,13,15,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,1,PS (I-V),4,Government Aided,Urban,1,0,0,74,77,70,76,0,0,0,0,0,0,0,0,68,69,63,82,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),4,Government Aided,Urban,1,159,127,91,112,80,118,0,0,0,0,0,0,0,0,86,92,82,123,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,1,PS (I-V),4,Government Aided,Urban,1,121,114,89,112,83,98,0,0,0,0,0,0,0,0,66,59,81,70,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,1,PS (I-V),4,Government Aided,Urban,1,0,0,8,12,23,18,0,0,0,0,0,0,0,0,9,11,19,23,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,1,PS (I-V),4,Government Aided,Urban,1,45,20,21,13,18,18,0,0,0,0,0,0,0,0,10,11,16,10,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,1,PS (I-V),4,Government Aided,Urban,1,0,0,13,19,23,15,0,0,0,0,0,0,0,0,10,15,5,13,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,1,PS (I-V),4,Government Aided,Urban,1,172,132,92,75,85,81,11,11,6,8,0,0,0,0,62,32,69,68,10,4,6,5,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),4,Government Aided,Urban,1,367,282,287,281,331,321,0,0,0,0,0,0,0,0,279,340,278,298,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,22,5,26,22,8,9,1,0,0,0,0,0,0,0,12,9,6,5,1,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,505,411,402,355,311,273,99,40,42,36,7,0,0,0,280,199,211,187,47,62,33,13,5,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,106,60,58,39,27,20,19,3,3,10,11,0,0,0,42,22,14,16,9,3,3,3,1,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,173,101,148,98,86,46,15,14,9,6,4,0,0,0,85,67,56,38,2,9,2,3,3,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,323,249,96,106,77,55,24,31,19,5,0,0,0,0,89,67,58,22,22,12,8,6,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,13,7,20,17,9,4,0,0,0,0,0,0,0,0,9,10,3,3,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,22,28,27,30,20,15,10,7,8,9,1,0,0,0,14,21,11,8,6,7,5,6,1,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,105,74,106,96,64,68,49,26,24,9,2,0,0,0,72,50,46,39,27,6,8,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,16,11,25,20,10,11,8,9,3,0,0,0,0,0,3,11,8,14,4,5,2,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,220,162,149,145,112,81,52,56,46,41,32,18,0,0,129,93,76,56,45,38,34,34,31,29,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,99,93,62,59,40,44,42,5,0,0,0,0,58,41,41,26,28,10,17,4,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,79,82,116,130,127,129,12,9,1,0,0,0,0,0,95,95,81,89,12,10,3,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,86,73,30,30,15,17,7,8,8,7,9,0,0,0,14,12,16,15,5,7,10,2,4,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,41,34,12,11,9,9,4,6,0,0,0,0,0,0,13,10,4,5,3,1,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,0,0,3,5,17,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,37,13,44,51,59,43,14,9,5,0,0,0,0,0,27,39,24,33,8,2,7,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,34,31,34,28,22,30,2,5,0,0,0,0,0,0,31,15,22,18,3,2,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,470,355,305,258,216,180,133,89,69,89,84,57,32,31,198,141,157,143,77,64,63,38,43,40,9,7,General
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,24,31,35,33,19,25,31,23,15,15,0,0,21,37,19,24,16,21,12,14,12,5,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,1,PS (I-V),8,Unrecognized,Rural,1,22,4,1,3,2,1,0,0,3,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),8,Unrecognized,Rural,1,3,2,1,0,2,2,0,0,0,0,0,0,0,0,0,2,1,1,0,1,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,1,PS (I-V),8,Unrecognized,Rural,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,1,PS (I-V),8,Unrecognized,Rural,1,0,0,4,3,3,4,0,2,0,0,0,0,0,0,5,0,1,3,2,1,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),8,Unrecognized,Rural,1,0,0,30,22,15,2,2,5,0,0,0,0,0,0,10,9,7,4,1,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,17,16,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,19,18,14,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,0,0,9,8,9,8,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,6,SS (I-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,10,6,3,5,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,6,SS (I-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,6,SS (I-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,3,4,2,3,4,0,0,0,0,0,1,1,2,0,2,0,2,1,2,1,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,6,SS (I-X),4,Government Aided,Rural,1,0,0,0,0,0,0,65,98,82,166,181,190,0,0,0,0,0,0,62,72,64,153,140,151,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,6,SS (I-X),4,Government Aided,Rural,1,0,0,0,0,0,0,699,822,856,1059,1132,1248,52,51,0,0,0,0,622,796,866,1083,1094,966,25,40,General
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,6,SS (I-X),4,Government Aided,Rural,1,0,0,2,1,1,4,301,317,295,422,390,417,12,0,0,0,1,1,304,305,281,415,358,385,8,0,General
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,6,SS (I-X),4,Government Aided,Rural,1,0,0,0,0,0,0,276,330,338,364,450,461,8,0,0,0,0,0,288,376,344,396,445,408,5,0,General
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,6,SS (I-X),4,Government Aided,Rural,1,0,0,0,0,0,0,96,115,105,173,163,168,4,9,0,0,0,0,99,122,90,128,128,143,6,1,General
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,6,SS (I-X),4,Government Aided,Rural,1,0,0,7,8,6,12,20,49,52,74,112,105,12,12,1,3,3,1,13,24,29,55,73,82,1,2,General
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,6,SS (I-X),4,Government Aided,Rural,1,0,0,0,0,0,0,132,127,130,149,161,170,0,0,0,0,0,0,128,157,125,162,130,147,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,6,SS (I-X),4,Government Aided,Rural,1,0,0,0,0,0,0,339,418,483,584,768,765,59,49,0,0,0,0,273,398,480,592,680,668,50,25,General
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,6,SS (I-X),4,Government Aided,Rural,1,0,0,0,0,0,0,134,161,162,209,223,247,18,23,0,0,0,0,108,130,148,209,216,184,20,21,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,6,SS (I-X),4,Government Aided,Rural,1,0,0,0,0,0,0,284,350,375,504,550,623,0,0,0,0,0,0,279,344,360,459,414,453,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,6,SS (I-X),4,Government Aided,Rural,1,0,0,0,0,0,0,124,153,153,264,302,336,0,0,0,0,0,0,119,114,143,233,236,228,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,6,SS (I-X),4,Government Aided,Urban,1,0,0,0,0,0,0,174,197,216,277,300,261,0,0,0,0,0,0,229,292,309,341,358,305,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,6,SS (I-X),4,Government Aided,Urban,1,0,0,0,0,0,0,40,38,37,50,48,39,26,44,0,0,0,0,38,52,32,54,45,43,12,20,General
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,6,SS (I-X),4,Government Aided,Urban,1,0,0,0,0,0,0,32,39,26,44,42,37,32,0,0,0,0,0,21,33,30,37,58,71,39,0,General
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,6,SS (I-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,74,62,56,65,76,66,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,6,SS (I-X),4,Government Aided,Urban,1,0,0,0,0,0,0,46,47,46,52,40,54,27,20,0,0,0,0,60,67,57,57,75,70,9,6,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,6,SS (I-X),4,Government Aided,Urban,1,0,0,0,0,0,0,258,326,358,448,415,459,0,0,0,0,0,0,256,233,258,335,323,365,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,6,SS (I-X),4,Government Aided,Urban,1,0,0,0,0,0,0,49,83,94,112,114,134,0,0,0,0,0,0,20,39,41,58,51,59,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,10,15,9,15,6,11,7,1,2,3,0,0,3,10,13,11,3,1,4,0,4,1,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,101,52,66,72,64,65,132,122,113,117,128,104,0,0,26,17,27,31,70,80,78,65,50,61,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,73,75,54,42,29,20,12,17,7,7,0,0,31,46,30,26,15,18,19,10,12,1,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,93,44,28,20,34,30,4,6,7,5,5,14,0,0,18,18,19,22,8,3,8,6,4,8,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,30,28,21,46,28,34,29,22,32,29,5,12,17,31,21,15,10,15,24,9,13,22,0,9,General
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,30,24,28,42,21,26,45,47,38,31,0,0,12,11,13,8,15,14,13,16,12,7,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,8,12,9,8,10,13,0,0,0,0,0,0,3,8,7,15,14,11,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,30,38,56,43,39,21,26,18,21,18,0,0,30,27,24,25,22,26,30,9,19,5,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,5,8,5,5,8,13,10,7,13,13,0,0,5,2,1,5,8,14,6,8,8,10,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,76,85,82,82,83,63,0,0,0,0,0,0,61,54,78,53,56,47,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,76,72,120,107,137,144,199,166,184,174,196,152,6,7,92,90,106,132,155,104,123,108,117,96,3,2,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,74,92,72,65,69,81,0,0,0,0,0,0,60,62,55,58,48,38,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,6,SS (I-X),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,5,4,9,8,0,0,0,0,0,0,0,0,3,2,14,9,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,25,20,0,0,0,0,0,0,0,0,0,0,13,16,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,2,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,25,9,0,0,0,0,0,0,0,0,0,0,9,7,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,48,57,0,0,0,0,0,0,0,0,0,0,25,34,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,8,SS (IX-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,16,7,0,0,0,0,0,0,0,0,0,0,12,9,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,167,173,188,4,1,0,0,0,0,0,0,0,144,147,148,15,13,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,200,233,292,0,0,0,0,0,0,0,0,0,224,231,221,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,1,151,139,157,0,0,0,0,0,0,0,0,0,126,122,135,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,116,144,165,2,4,0,0,0,0,0,0,0,112,131,147,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,28,24,21,0,0,0,0,0,0,0,0,0,28,28,25,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,72,71,77,0,0,0,0,0,0,0,0,0,69,59,78,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,54,61,72,0,0,0,0,0,0,0,0,0,67,55,84,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,136,212,220,0,0,0,0,0,0,0,0,0,144,168,215,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,136,138,164,0,0,0,0,0,0,0,0,0,123,146,156,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,113,158,180,0,0,0,0,0,0,0,0,0,112,118,133,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,114,113,130,0,0,0,0,0,0,0,0,0,134,117,131,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,7,SS (VI-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,45,51,53,0,0,0,0,0,0,0,0,0,29,26,36,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,7,SS (VI-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,13,23,20,0,0,0,0,0,0,0,0,0,3,7,7,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,7,SS (VI-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,0,0,2,0,5,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,7,SS (VI-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,6,6,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,7,SS (VI-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,19,21,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,17,20,20,0,0,0,0,0,0,0,0,0,14,7,18,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,68,55,56,0,0,0,0,0,0,0,0,0,44,40,29,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,29,34,29,0,0,0,0,0,0,0,0,0,12,17,12,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,28,36,43,0,0,0,0,0,0,0,0,0,40,32,28,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,1,45,44,0,0,0,0,0,0,0,0,0,0,24,16,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,19,18,34,0,0,0,0,0,0,0,0,0,16,11,20,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,63,68,82,0,0,0,0,0,0,0,0,0,47,68,61,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,32,32,24,0,0,0,0,0,0,0,0,0,28,38,28,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,105,188,190,5,0,0,0,0,0,0,0,0,56,137,111,1,0,General
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,70,90,58,0,0,0,0,0,0,0,0,0,52,37,29,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,22,22,0,0,0,0,0,0,0,0,0,0,13,19,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,8,19,12,0,0,0,0,0,0,0,0,0,4,5,10,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,11,10,0,0,0,0,0,0,0,0,0,0,7,8,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,5,1,8,0,0,0,0,0,0,0,0,0,7,9,5,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,70,50,15,24,31,18,22,14,26,71,60,41,0,0,20,23,11,20,4,9,15,39,39,28,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,18,36,21,0,0,0,0,0,0,0,0,0,17,17,9,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,2,UPS (I-VIII),3,Local body,Rural,1,0,0,175,194,205,200,206,292,314,13,0,0,0,0,195,211,221,217,242,303,319,10,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),3,Local body,Rural,1,0,0,480,513,532,569,400,410,408,19,0,0,0,0,452,504,547,539,432,425,428,23,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,2,UPS (I-VIII),3,Local body,Rural,1,0,0,207,280,272,250,249,237,242,0,0,0,0,0,245,257,313,293,282,296,289,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,2,UPS (I-VIII),3,Local body,Rural,1,0,0,205,185,202,222,171,184,179,7,0,0,0,0,220,217,221,194,174,225,179,10,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,2,UPS (I-VIII),3,Local body,Rural,1,0,0,138,135,136,136,99,97,90,2,0,0,0,0,115,107,100,103,109,105,97,6,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,2,UPS (I-VIII),3,Local body,Rural,1,0,0,55,60,62,69,82,94,113,11,0,0,0,0,76,64,50,77,98,87,108,15,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,2,UPS (I-VIII),3,Local body,Rural,1,0,0,93,99,86,115,96,110,83,7,0,0,0,0,75,92,105,97,105,111,102,11,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,2,UPS (I-VIII),3,Local body,Rural,1,0,0,393,386,409,446,447,500,474,146,0,0,0,0,348,380,414,459,478,553,601,207,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,2,UPS (I-VIII),3,Local body,Rural,1,0,0,182,202,219,228,237,268,230,34,0,0,0,0,217,192,192,188,210,255,225,40,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,2,UPS (I-VIII),3,Local body,Rural,1,0,0,380,402,409,458,313,292,328,68,0,0,0,0,393,411,453,416,351,378,371,47,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,2,UPS (I-VIII),3,Local body,Rural,1,0,0,219,236,238,238,227,213,220,10,0,0,0,0,231,259,252,239,230,238,278,16,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),3,Local body,Urban,1,0,0,6,2,1,8,0,2,2,0,0,0,0,0,16,22,10,15,5,11,5,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,2,UPS (I-VIII),3,Local body,Urban,1,0,0,4,6,2,3,0,0,2,0,0,0,0,0,8,8,3,2,1,2,2,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,2,UPS (I-VIII),3,Local body,Urban,1,0,0,1,2,3,1,3,5,3,0,0,0,0,0,0,3,5,3,0,3,3,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,2,UPS (I-VIII),3,Local body,Urban,1,0,0,33,34,34,19,23,19,22,8,0,0,0,0,17,30,33,38,33,39,56,27,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,2,UPS (I-VIII),3,Local body,Urban,1,0,0,14,8,19,17,13,2,3,0,0,0,0,0,14,5,12,14,10,2,6,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,2,UPS (I-VIII),3,Local body,Urban,1,0,0,3,5,4,3,7,7,1,0,0,0,0,0,5,4,1,0,4,7,3,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,2,UPS (I-VIII),3,Local body,Urban,1,0,0,27,28,31,36,43,35,33,0,0,0,0,0,19,21,21,24,31,27,32,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,2,UPS (I-VIII),3,Local body,Urban,1,0,0,8,11,14,9,9,17,11,3,0,0,0,0,15,17,12,14,12,15,18,7,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),4,Government Aided,Rural,1,69,40,58,57,47,68,60,62,66,0,0,0,0,0,27,38,52,61,36,52,27,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,2,UPS (I-VIII),4,Government Aided,Rural,1,23,22,38,36,32,33,13,11,9,2,0,0,0,0,29,23,19,25,10,7,14,3,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,2,UPS (I-VIII),4,Government Aided,Rural,1,118,90,50,38,37,58,12,18,17,0,0,0,0,0,22,23,17,40,16,5,4,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,4,5,2,1,4,4,1,0,0,0,0,0,4,3,4,3,3,4,3,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,6,3,4,3,5,4,18,0,0,0,0,0,4,3,1,5,3,4,7,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,2,UPS (I-VIII),4,Government Aided,Rural,1,129,112,101,130,133,124,93,93,88,10,0,0,0,0,113,108,105,105,78,87,78,7,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),4,Government Aided,Urban,1,280,319,171,155,188,178,131,154,135,38,0,0,0,0,124,144,122,144,112,122,104,24,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,2,UPS (I-VIII),4,Government Aided,Urban,1,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,2,UPS (I-VIII),4,Government Aided,Urban,1,29,32,23,29,23,25,22,37,20,0,0,0,0,0,18,16,23,25,25,26,20,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,2,UPS (I-VIII),4,Government Aided,Urban,1,56,46,77,73,69,66,43,53,62,0,0,0,0,0,42,53,49,56,35,33,38,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,407,295,348,354,334,323,244,237,220,148,88,66,0,0,216,184,173,188,147,129,141,85,59,50,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,84,97,101,88,96,84,95,7,0,0,0,0,43,58,67,67,55,59,49,2,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,189,177,127,100,115,122,62,52,47,32,23,24,0,0,86,69,71,56,34,28,23,13,14,12,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,111,107,73,65,69,73,68,63,49,62,0,0,0,0,44,49,49,46,35,32,28,21,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,117,73,47,41,48,40,34,28,48,30,1,2,0,0,29,33,22,30,26,17,16,18,0,2,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,37,17,65,54,53,50,58,46,57,18,8,6,0,0,25,43,32,39,20,23,26,13,3,1,1,0,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,254,212,449,459,469,464,443,427,469,322,150,147,101,62,289,291,314,312,284,281,267,209,90,64,73,54,General
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,88,74,80,83,79,86,73,5,3,3,0,0,45,57,54,52,41,44,34,5,4,2,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,0,0,46,38,45,36,36,36,40,37,40,43,39,32,24,20,28,29,26,28,17,25,14,12,6,7,General
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,47,21,5,5,6,3,10,7,4,1,0,0,0,0,8,7,11,9,4,3,3,2,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,2,2,28,10,8,12,9,14,11,17,20,29,0,0,5,6,4,5,7,7,5,9,10,2,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,18,10,44,49,40,42,47,40,33,8,17,17,1,7,31,28,28,24,21,18,15,14,7,6,1,1,General
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,58,43,27,22,19,19,17,23,19,11,0,0,0,0,14,10,9,12,6,10,10,8,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,21,21,20,28,30,17,21,26,23,10,0,0,0,0,20,13,13,17,15,11,11,7,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,125,97,81,104,88,70,84,67,76,0,0,0,0,0,58,70,61,66,63,45,41,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,0,0,29,34,34,41,34,23,33,21,13,17,0,0,22,17,26,25,22,27,34,12,13,12,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,1,0,0,24,29,28,28,0,0,0,0,0,0,0,19,18,17,16,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,1,2,2,1,2,3,2,0,0,0,0,0,1,0,0,2,1,0,1,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,1,5,6,18,18,17,20,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,6,7,17,24,16,0,0,0,0,0,0,0,15,15,11,11,15,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,10,13,3,2,11,12,11,9,7,1,1,0,0,0,15,4,7,2,0,0,0,0,0,0,0,0,General
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,3,HSS (I-XII),3,Local body,Urban,2,0,0,0,0,0,0,0,0,2,1,4,8,12,6,0,0,0,0,0,0,0,1,5,4,10,4,SC
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,3,HSS (I-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,12,5,7,22,21,19,18,19,0,0,0,0,4,6,6,18,21,28,18,30,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,3,HSS (I-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,45,62,48,94,100,104,118,119,0,0,0,0,42,58,53,80,91,89,83,100,SC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,3,HSS (I-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,44,40,48,75,91,83,73,84,0,0,0,0,31,36,44,72,67,66,55,86,SC
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,3,HSS (I-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,64,87,83,102,124,116,137,132,0,0,0,0,40,58,64,84,65,73,110,138,SC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,3,HSS (I-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,38,29,44,81,83,65,94,94,0,0,0,0,43,47,35,68,64,55,84,73,SC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,3,HSS (I-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,2,2,6,8,10,10,2,10,0,0,0,0,4,3,2,6,5,8,9,7,SC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,3,HSS (I-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,46,67,55,76,80,72,69,65,0,0,0,0,39,42,35,55,52,55,42,45,SC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,3,HSS (I-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,21,51,47,42,57,68,52,48,0,0,0,0,33,28,50,39,65,36,46,54,SC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,3,HSS (I-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,50,49,62,58,68,81,34,29,0,0,0,0,37,57,56,78,64,50,45,39,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,3,HSS (I-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,37,63,69,70,91,86,84,79,0,0,0,0,30,39,34,78,91,84,69,87,SC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,3,HSS (I-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,10,14,16,29,20,37,34,37,0,0,0,0,9,19,14,38,29,29,35,46,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,3,HSS (I-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,36,35,46,63,77,68,16,18,0,0,0,0,42,39,52,67,91,66,131,99,SC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,3,HSS (I-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,5,9,7,11,12,15,56,48,0,0,0,0,5,6,4,11,12,7,48,46,SC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,3,HSS (I-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,4,4,3,6,2,6,5,4,0,0,0,0,4,3,2,6,7,2,8,9,SC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,3,HSS (I-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,3,1,16,13,15,29,26,0,0,0,0,0,2,1,15,19,10,32,34,SC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,3,HSS (I-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,23,41,28,66,47,50,32,44,0,0,0,0,10,14,14,41,24,36,45,35,SC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,3,HSS (I-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,14,24,19,19,39,28,12,10,0,0,0,0,15,13,11,15,23,21,6,23,SC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,3,HSS (I-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,58,75,101,127,140,139,233,229,0,0,0,0,62,58,66,115,114,112,201,165,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,3,HSS (I-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,42,63,73,115,115,132,20,22,0,0,0,0,80,73,102,131,157,162,127,117,SC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,3,HSS (I-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,12,18,22,36,48,34,12,7,0,0,0,0,18,31,28,28,43,42,19,16,SC
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,3,7,4,5,8,4,7,0,0,0,0,0,0,1,0,0,2,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,3,7,6,6,8,5,5,3,0,0,0,0,2,3,7,1,6,4,8,6,SC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,14,5,4,4,6,8,4,10,7,2,7,7,0,1,7,3,5,4,3,6,4,1,2,8,0,1,SC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,1,0,0,5,4,4,9,5,4,3,2,3,0,0,3,1,1,1,2,3,1,1,2,1,SC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,0,0,5,3,3,1,5,11,5,15,13,7,4,13,5,6,4,1,3,5,3,7,2,7,3,3,SC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,0,0,2,0,1,2,0,1,0,3,0,0,0,1,1,1,0,0,0,0,0,1,0,0,2,2,SC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,3,6,9,4,3,0,0,0,0,0,0,0,5,4,6,1,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,18,25,17,13,10,0,0,0,0,0,0,0,18,21,18,15,7,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,2,1,2,3,0,0,0,0,0,0,0,0,2,5,1,1,1,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,5,HSS (VI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,9,10,4,1,4,0,0,0,0,0,0,0,0,7,2,2,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,5,HSS (VI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,4,5,5,5,2,0,0,0,0,0,0,0,6,6,7,3,2,SC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,2,3,1,2,2,0,0,0,0,0,0,0,4,2,1,1,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,5,4,6,3,3,0,0,0,0,0,0,0,5,0,5,1,2,SC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,5,HSS (VI-XII),7,Central Govt,Rural,2,0,0,0,0,0,0,0,6,8,2,7,9,7,8,0,0,0,0,0,2,3,8,9,10,7,7,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,5,HSS (VI-XII),7,Central Govt,Urban,2,0,0,0,0,0,0,0,20,17,18,16,9,9,11,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,11,HSS (XI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,11,HSS (XI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,315,340,0,0,0,0,0,0,0,0,0,0,231,214,SC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,11,HSS (XI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,33,26,0,0,0,0,0,0,0,0,0,0,29,30,SC
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,11,HSS (XI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,35,23,0,0,0,0,0,0,0,0,0,0,19,19,SC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,11,HSS (XI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,9,6,0,0,0,0,0,0,0,0,0,0,4,1,SC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,11,HSS (XI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,18,18,0,0,0,0,0,0,0,0,0,0,16,11,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,11,HSS (XI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,52,67,0,0,0,0,0,0,0,0,0,0,5,7,SC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,11,HSS (XI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,45,43,0,0,0,0,0,0,0,0,0,0,43,43,SC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,11,HSS (XI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,58,49,0,0,0,0,0,0,0,0,0,0,41,39,SC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,11,HSS (XI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,39,52,0,0,0,0,0,0,0,0,0,0,29,29,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,11,HSS (XI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,399,428,0,0,0,0,0,0,0,0,0,0,261,267,SC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,11,HSS (XI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,71,54,0,0,0,0,0,0,0,0,0,0,45,62,SC
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,1,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,32,16,0,0,0,0,0,0,0,0,0,0,22,10,SC
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,6,7,0,0,0,0,0,0,0,0,0,0,5,3,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,8,11,0,0,0,0,0,0,0,0,0,0,7,5,SC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,12,22,0,0,0,0,0,0,0,0,0,0,11,18,SC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,0,2,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,1,5,SC
+2016-17,27,Maharashtra,2731,SATARA,273101,JAOLI,1,PS (I-V),3,Local body,Rural,2,0,0,16,6,7,15,1,0,0,0,0,0,0,0,12,17,14,14,1,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),3,Local body,Rural,2,0,0,188,182,155,189,2,0,0,0,0,0,0,0,156,199,191,183,4,1,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,1,PS (I-V),3,Local body,Rural,2,0,0,63,61,63,55,2,0,1,0,0,0,0,0,56,54,60,47,1,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,1,PS (I-V),3,Local body,Rural,2,0,0,122,98,104,120,2,0,0,0,0,0,0,0,109,110,124,122,3,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,1,PS (I-V),3,Local body,Rural,2,0,0,43,40,48,44,2,1,0,0,0,0,0,0,59,54,67,47,4,1,6,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,1,PS (I-V),3,Local body,Rural,2,0,0,11,10,18,7,10,0,0,0,0,0,0,0,11,9,13,6,5,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,1,PS (I-V),3,Local body,Rural,2,0,0,107,120,103,117,3,0,0,0,0,0,0,0,109,123,115,101,4,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,1,PS (I-V),3,Local body,Rural,2,0,0,91,90,84,78,28,2,3,3,0,0,0,0,73,103,68,90,23,4,3,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,1,PS (I-V),3,Local body,Rural,2,0,0,150,186,159,150,28,5,1,0,0,0,0,0,164,160,167,145,34,2,1,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),3,Local body,Rural,2,0,0,63,85,77,80,5,8,3,0,0,0,0,0,75,82,78,89,8,5,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,1,PS (I-V),3,Local body,Rural,2,0,0,41,41,37,29,2,2,0,0,0,0,0,0,33,30,36,40,5,1,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),3,Local body,Urban,2,0,0,60,53,55,49,18,20,4,0,0,0,0,0,45,48,48,47,21,11,4,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,1,PS (I-V),3,Local body,Urban,2,0,0,4,5,6,3,0,0,0,0,0,0,0,0,6,4,6,7,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,1,PS (I-V),3,Local body,Urban,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,1,PS (I-V),3,Local body,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,1,PS (I-V),3,Local body,Urban,2,0,0,20,19,17,16,0,0,0,0,0,0,0,0,12,11,15,16,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,1,PS (I-V),3,Local body,Urban,2,0,0,5,14,8,9,0,0,0,0,0,0,0,0,3,15,5,5,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,1,PS (I-V),3,Local body,Urban,2,0,0,2,1,1,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),3,Local body,Urban,2,0,0,4,10,6,12,0,0,0,0,0,0,0,0,5,7,4,6,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,1,PS (I-V),3,Local body,Urban,2,0,0,20,8,22,25,15,3,2,4,0,0,0,0,15,17,17,17,19,1,1,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),4,Government Aided,Rural,2,29,12,16,44,29,29,0,0,0,0,0,0,0,0,24,29,27,22,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,1,PS (I-V),4,Government Aided,Rural,2,8,7,17,23,15,20,4,0,0,0,0,0,0,0,12,13,18,21,5,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273104,KHATAV,1,PS (I-V),4,Government Aided,Rural,2,9,8,9,7,7,6,0,0,0,0,0,0,0,0,3,5,2,7,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273105,KHANDALA,1,PS (I-V),4,Government Aided,Rural,2,0,0,6,2,3,4,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,1,PS (I-V),4,Government Aided,Rural,2,4,3,5,3,5,10,0,0,0,0,0,0,0,0,4,6,5,6,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,1,PS (I-V),4,Government Aided,Rural,2,28,23,18,30,17,21,2,1,2,1,0,0,0,0,20,18,10,20,1,1,1,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),4,Government Aided,Rural,2,0,0,25,18,18,26,0,0,0,0,0,0,0,0,19,23,18,23,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,1,PS (I-V),4,Government Aided,Rural,2,0,0,2,4,1,1,0,0,0,0,0,0,0,0,1,1,1,3,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273102,KARAD,1,PS (I-V),4,Government Aided,Urban,2,32,44,34,32,24,30,0,0,0,0,0,0,0,0,39,34,28,34,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273103,KOREGAON,1,PS (I-V),4,Government Aided,Urban,2,9,8,11,6,12,9,0,0,0,0,0,0,0,0,5,8,10,7,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273106,MAHABALESHWAR,1,PS (I-V),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273107,MAN,1,PS (I-V),4,Government Aided,Urban,2,8,6,6,5,4,3,0,0,0,0,0,0,0,0,6,7,5,5,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273108,PATAN,1,PS (I-V),4,Government Aided,Urban,2,0,0,4,1,5,4,0,0,0,0,0,0,0,0,3,1,2,1,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273109,PHALTAN,1,PS (I-V),4,Government Aided,Urban,2,65,43,46,34,30,25,4,2,2,0,0,0,0,0,37,29,25,41,1,3,1,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273110,SATARA,1,PS (I-V),4,Government Aided,Urban,2,81,73,65,78,72,72,0,0,0,0,0,0,0,0,80,80,74,83,0,0,0,0,0,0,0,0,SC
+2016-17,27,Maharashtra,2731,SATARA,273111,WAI,1,PS (I-V),4,Government Aided,Urban,2,0,0,14,19,15,13,0,0,0,0,0,0,0,0,17,25,20,7,0,0,0,0,0,0,0,0,SC

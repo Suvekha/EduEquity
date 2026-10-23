@@ -1,0 +1,945 @@
+ac_year,state_code,state_name,district_code,district_name,block_code,block_name,sch_category_id,category_name,sch_mgmt_id,sch_mgmt_name,loc_name,caste_id,pre_primary_boys,pre_primary_girls,class_1_boys,class_2_boys,class_3_boys,class_4_boys,class_5_boys,class_6_boys,class_7_boys,class_8_boys,class_9_boys,class_10_boys,class_11_boys,class_12_boys,class_1_girls,class_2_girls,class_3_girls,class_4_girls,class_5_girls,class_6_girls,class_7_girls,class_8_girls,class_9_girls,class_10_girls,class_11_girls,class_12_girls,caste_name
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,7,SS (VI-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,6,10,13,10,14,0,0,0,0,0,0,0,7,3,3,5,1,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363001,NAGARAM,3,HSS (I-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,3,HSS (I-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,11,12,7,6,1,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363011,PENPAHAD,3,HSS (I-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,3,HSS (I-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,3,HSS (I-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,3,8,2,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,3,HSS (I-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6,6,5,3,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,3,HSS (I-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,10,5,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,3,HSS (I-XII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,1,0,0,0,2,1,1,1,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,0,0,15,18,19,0,0,0,0,0,0,0,0,0,10,10,7,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,3,HSS (I-XII),90,Social welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363006,JAJIREDDIGUDEM,3,HSS (I-XII),90,Social welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,1,3,0,1,0,General
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,3,HSS (I-XII),90,Social welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,1,General
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,3,HSS (I-XII),90,Social welfare Department,Rural,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,3,HSS (I-XII),90,Social welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,General
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,3,HSS (I-XII),90,Social welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,1,0,1,2,1,General
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,3,HSS (I-XII),90,Social welfare Department,Urban,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,3,HSS (I-XII),90,Social welfare Department,Urban,1,0,0,0,0,0,0,2,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363001,NAGARAM,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,1,2,1,1,0,0,0,0,0,0,0,2,2,1,2,1,1,1,General
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,5,0,1,0,1,1,0,0,0,0,0,1,2,0,2,0,1,0,General
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,4,2,1,3,0,0,0,0,0,0,0,3,2,5,3,2,2,1,General
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,3,4,0,0,0,0,0,0,0,0,2,1,1,2,2,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363011,PENPAHAD,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,3,2,0,0,0,1,0,0,0,0,0,0,1,1,2,0,5,1,1,General
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,1,3,5,4,4,3,1,0,0,0,0,0,3,2,4,1,3,6,4,General
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,2,3,7,2,0,0,0,0,0,0,0,1,2,2,2,3,5,4,General
+2018-19,36,Telangana,3630,SURYAPET,363017,GARIDEPALLE,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,2,5,2,1,2,0,0,0,0,0,0,0,3,0,1,1,0,3,1,General
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,10,5,1,2,1,2,1,0,0,0,0,0,1,4,2,1,1,3,4,General
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,2,General
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,8,3,0,0,0,0,0,0,0,0,0,0,7,2,General
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,6,10,0,0,0,0,0,0,0,0,0,0,2,5,General
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,8,1,0,0,0,0,0,0,0,0,0,0,5,0,General
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,11,HSS (XI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,3,5,0,0,0,0,0,0,0,0,0,0,7,0,General
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,11,HSS (XI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,3,7,0,0,0,0,0,0,0,0,0,0,1,1,General
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,11,HSS (XI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,6,3,0,0,0,0,0,0,0,0,0,0,1,0,General
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363005,NOOTHANKAL,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,4,8,0,0,0,0,0,0,0,0,0,0,1,6,General
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,2,General
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,General
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,4,9,0,0,0,0,0,0,0,0,0,0,3,8,General
+2018-19,36,Telangana,3630,SURYAPET,363016,CHILKUR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,15,24,0,0,0,0,0,0,0,0,0,0,21,19,General
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,2,5,0,0,0,0,0,0,0,0,0,0,3,3,General
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,72,59,0,0,0,0,0,0,0,0,0,0,103,91,General
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,136,97,0,0,0,0,0,0,0,0,0,0,177,131,General
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,11,14,0,0,0,0,0,0,0,0,0,0,7,12,General
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,1,PS (I-V),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,1,PS (I-V),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363004,MADDIRALA,1,PS (I-V),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),1,PS (I-V),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,1,PS (I-V),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,1,PS (I-V),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,1,PS (I-V),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,1,PS (I-V),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,1,PS (I-V),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,1,PS (I-V),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,1,PS (I-V),1,Department of Education,Urban,1,0,0,2,1,3,3,0,0,0,0,0,0,0,0,1,2,3,3,2,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363001,NAGARAM,1,PS (I-V),3,Local body,Rural,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,1,PS (I-V),3,Local body,Rural,1,0,0,0,5,0,2,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,1,PS (I-V),3,Local body,Rural,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363004,MADDIRALA,1,PS (I-V),3,Local body,Rural,1,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,3,1,0,2,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363005,NOOTHANKAL,1,PS (I-V),3,Local body,Rural,1,0,0,1,1,5,0,1,0,0,0,0,0,0,0,3,2,3,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363006,JAJIREDDIGUDEM,1,PS (I-V),3,Local body,Rural,1,0,0,2,0,1,0,2,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,1,PS (I-V),3,Local body,Rural,1,0,0,0,1,1,2,0,0,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),1,PS (I-V),3,Local body,Rural,1,0,0,4,1,0,0,1,0,0,0,0,0,0,0,2,5,2,0,1,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,1,PS (I-V),3,Local body,Rural,1,0,0,2,5,1,1,0,0,0,0,0,0,0,0,2,3,1,1,4,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,1,PS (I-V),3,Local body,Rural,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363011,PENPAHAD,1,PS (I-V),3,Local body,Rural,1,0,0,1,0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,1,PS (I-V),3,Local body,Rural,1,0,0,1,4,2,2,5,0,0,0,0,0,0,0,3,2,3,4,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,1,PS (I-V),3,Local body,Rural,1,0,0,3,1,1,2,2,0,0,0,0,0,0,0,2,2,0,1,2,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,1,PS (I-V),3,Local body,Rural,1,0,0,3,0,1,4,3,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,1,PS (I-V),3,Local body,Rural,1,0,0,3,5,5,4,3,0,0,0,0,0,0,0,3,6,1,3,8,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363016,CHILKUR,1,PS (I-V),3,Local body,Rural,1,0,0,1,1,0,2,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363017,GARIDEPALLE,1,PS (I-V),3,Local body,Rural,1,0,0,3,1,0,2,2,0,0,0,0,0,0,0,3,6,0,2,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,1,PS (I-V),3,Local body,Rural,1,0,0,8,1,0,3,3,0,0,0,0,0,0,0,4,2,3,3,2,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363019,PALAKEEDU,1,PS (I-V),3,Local body,Rural,1,0,0,7,0,2,5,0,0,0,0,0,0,0,0,1,0,4,1,1,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,1,PS (I-V),3,Local body,Rural,1,0,0,13,2,3,4,7,0,0,0,0,0,0,0,6,1,6,1,6,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,1,PS (I-V),3,Local body,Rural,1,0,0,1,0,2,2,2,0,0,0,0,0,0,0,6,0,1,0,1,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,1,PS (I-V),3,Local body,Rural,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363023,CHINTHALA PALEM,1,PS (I-V),3,Local body,Rural,1,0,0,2,3,1,2,2,0,0,0,0,0,0,0,2,1,2,5,4,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,1,PS (I-V),3,Local body,Urban,1,0,0,2,1,2,0,0,0,0,0,0,0,0,0,1,1,4,1,3,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,1,PS (I-V),3,Local body,Urban,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,1,PS (I-V),3,Local body,Urban,1,0,0,1,2,2,1,2,0,0,0,0,0,0,0,1,4,1,0,2,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,1,PS (I-V),3,Local body,Urban,1,0,0,0,2,0,1,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,1,PS (I-V),4,Government Aided,Rural,1,7,3,5,2,6,3,6,0,0,0,0,0,0,0,1,3,3,4,5,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,1,PS (I-V),4,Government Aided,Rural,1,11,13,2,6,4,4,3,0,0,0,0,0,0,0,3,9,3,4,1,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,1,PS (I-V),4,Government Aided,Urban,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,2,3,2,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,1,PS (I-V),4,Government Aided,Urban,1,21,6,4,3,4,3,10,0,0,0,0,0,0,0,7,6,5,4,4,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,1,PS (I-V),4,Government Aided,Urban,1,0,0,1,0,3,0,1,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,0,1,4,9,0,0,0,0,0,0,0,0,1,0,1,9,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363016,CHILKUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,11,5,0,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363019,PALAKEEDU,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,4,0,6,2,0,0,0,0,0,0,0,0,2,1,2,1,1,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,15,11,9,6,6,12,8,0,0,0,0,0,0,0,7,4,9,5,6,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,6,13,13,12,4,8,0,0,0,0,0,0,0,14,16,8,7,5,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,1,PS (I-V),98,Madarsa unrecognized,Rural,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,1,PS (I-V),98,Madarsa unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,6,SS (I-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,6,SS (I-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,6,SS (I-X),2,Tribal Welfare Department,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363001,NAGARAM,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,6,6,1,6,4,2,8,2,1,2,2,4,0,0,1,5,2,3,6,2,4,4,4,5,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,19,9,15,44,18,18,15,14,10,12,8,12,0,0,20,29,14,18,15,6,13,24,6,5,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,1,2,0,3,0,0,1,0,0,0,0,1,0,0,1,1,1,0,1,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363005,NOOTHANKAL,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,10,8,9,11,6,12,6,3,3,3,3,3,0,0,5,8,7,5,4,4,10,9,6,6,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363006,JAJIREDDIGUDEM,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,2,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,1,1,0,3,1,1,1,0,0,0,0,0,0,0,0,1,1,0,2,0,1,1,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,12,7,11,9,11,8,6,7,6,5,5,4,0,0,7,11,10,19,4,12,8,15,5,3,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,4,2,2,1,2,0,0,0,0,2,0,0,3,5,1,3,2,0,0,1,2,3,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,51,46,39,34,52,47,60,70,78,62,101,79,0,0,28,31,30,28,42,48,50,66,62,73,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363016,CHILKUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,12,13,7,7,10,12,11,8,6,18,17,18,0,0,6,8,10,8,10,8,17,15,12,15,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363017,GARIDEPALLE,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,28,48,42,50,34,36,31,25,35,55,0,0,48,39,42,38,30,35,37,26,25,51,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363019,PALAKEEDU,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,3,7,6,7,1,7,1,3,2,0,0,0,6,4,3,3,1,3,0,2,2,2,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,26,24,25,33,28,20,15,14,18,23,0,0,29,29,37,32,28,28,29,36,22,27,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363023,CHINTHALA PALEM,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,36,45,34,37,32,22,23,16,12,16,0,0,35,27,32,18,26,30,30,22,23,19,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,45,53,153,137,143,129,161,155,185,154,144,189,0,0,121,143,130,123,117,124,134,166,161,152,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,2,0,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,1,2,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,86,84,83,114,123,125,139,142,164,170,189,177,0,0,61,88,86,92,110,106,110,115,115,148,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,0,0,29,29,40,27,36,34,28,37,33,40,0,0,31,28,36,31,28,44,27,32,30,24,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363001,NAGARAM,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363004,MADDIRALA,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363005,NOOTHANKAL,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363006,JAJIREDDIGUDEM,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363011,PENPAHAD,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363019,PALAKEEDU,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363023,CHINTHALA PALEM,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,1,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,7,SS (VI-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,4,4,1,3,2,0,0,0,0,0,0,0,1,3,4,5,1,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,7,SS (VI-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,1,0,2,1,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363001,NAGARAM,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,1,2,1,2,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,2,1,4,1,2,0,0,0,0,0,0,0,0,2,1,3,2,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,0,4,2,0,2,0,0,0,0,0,0,0,0,1,1,2,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363004,MADDIRALA,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,1,5,0,1,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363005,NOOTHANKAL,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,2,1,5,5,7,0,0,0,0,0,0,0,3,5,4,4,5,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363006,JAJIREDDIGUDEM,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,1,1,1,2,2,0,0,0,0,0,0,0,1,1,1,1,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,2,2,1,6,2,0,0,0,0,0,0,0,1,1,0,4,4,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,2,0,2,3,3,0,0,0,0,0,0,0,0,0,3,0,3,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,2,6,2,5,1,0,0,0,0,0,0,0,0,1,4,3,4,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,0,2,1,3,2,2,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363011,PENPAHAD,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,2,2,1,1,3,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,0,2,0,7,9,0,0,0,0,0,0,0,1,5,1,5,5,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,2,1,0,2,4,0,0,0,0,0,0,0,0,3,0,7,4,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,3,2,6,4,3,0,0,0,0,0,0,0,1,1,1,4,5,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363016,CHILKUR,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,2,2,1,0,2,0,0,0,0,0,0,0,1,3,2,4,5,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363017,GARIDEPALLE,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,0,0,0,0,0,5,2,0,2,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,4,4,0,8,6,0,0,0,0,0,0,0,2,1,0,2,1,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363019,PALAKEEDU,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,0,3,2,3,2,0,0,0,0,0,0,0,1,2,4,4,1,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,1,4,3,1,1,0,0,0,0,0,0,0,2,1,3,5,3,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,0,2,0,2,3,0,0,0,0,0,0,0,0,1,2,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,0,1,1,2,2,0,0,0,0,0,0,0,2,1,0,1,2,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363023,CHINTHALA PALEM,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,0,1,2,5,9,0,0,0,0,0,0,0,3,3,3,8,8,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,7,SS (VI-X),3,Local body,Urban,1,0,0,0,0,0,0,0,1,2,4,4,0,0,0,0,0,0,0,0,1,4,5,6,2,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,7,SS (VI-X),3,Local body,Urban,1,0,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,0,0,0,3,0,0,3,2,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,7,SS (VI-X),3,Local body,Urban,1,0,0,0,0,0,0,0,1,6,3,5,1,0,0,0,0,0,0,0,9,4,4,5,8,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,7,SS (VI-X),3,Local body,Urban,1,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,1,0,3,1,2,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,3,5,2,3,0,0,0,0,0,0,0,0,2,6,0,5,2,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,7,SS (VI-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,7,SS (VI-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,1,5,4,1,2,0,0,0,0,0,0,0,4,4,3,11,9,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,7,SS (VI-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,2,0,0,4,2,0,0,0,0,0,0,0,3,0,2,4,5,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,13,45,50,68,59,0,0,0,0,0,0,0,11,28,34,40,42,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,1,6,1,4,0,0,0,0,0,0,0,0,3,5,3,2,2,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,18,19,25,48,28,0,0,0,0,0,0,0,10,16,21,24,24,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363001,NAGARAM,2,UPS (I-VIII),3,Local body,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,2,UPS (I-VIII),3,Local body,Rural,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,2,UPS (I-VIII),3,Local body,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363004,MADDIRALA,2,UPS (I-VIII),3,Local body,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363005,NOOTHANKAL,2,UPS (I-VIII),3,Local body,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363006,JAJIREDDIGUDEM,2,UPS (I-VIII),3,Local body,Rural,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,2,UPS (I-VIII),3,Local body,Rural,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),2,UPS (I-VIII),3,Local body,Rural,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,2,UPS (I-VIII),3,Local body,Rural,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,2,UPS (I-VIII),3,Local body,Rural,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363011,PENPAHAD,2,UPS (I-VIII),3,Local body,Rural,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,2,UPS (I-VIII),3,Local body,Rural,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,2,UPS (I-VIII),3,Local body,Rural,1,0,0,0,2,0,2,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,2,UPS (I-VIII),3,Local body,Rural,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363016,CHILKUR,2,UPS (I-VIII),3,Local body,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363017,GARIDEPALLE,2,UPS (I-VIII),3,Local body,Rural,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363019,PALAKEEDU,2,UPS (I-VIII),3,Local body,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,2,UPS (I-VIII),3,Local body,Rural,1,0,0,0,1,2,1,6,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,2,UPS (I-VIII),3,Local body,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,2,UPS (I-VIII),3,Local body,Rural,1,0,0,0,2,0,0,1,0,1,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363023,CHINTHALA PALEM,2,UPS (I-VIII),3,Local body,Rural,1,0,0,3,3,1,4,1,6,7,0,0,0,0,0,1,1,0,0,2,1,3,1,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,2,UPS (I-VIII),3,Local body,Urban,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,2,UPS (I-VIII),3,Local body,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,2,UPS (I-VIII),3,Local body,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,2,UPS (I-VIII),4,Government Aided,Urban,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,3,5,3,2,4,5,3,0,0,0,0,0,0,0,4,1,1,6,2,2,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363004,MADDIRALA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,1,4,2,2,1,1,0,0,0,0,0,0,3,1,2,2,0,1,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363005,NOOTHANKAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,1,1,4,1,0,1,3,0,0,0,0,0,1,0,1,6,1,0,3,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363006,JAJIREDDIGUDEM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,1,1,4,2,3,0,0,0,0,0,0,0,0,0,1,0,2,1,2,2,1,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,11,1,2,5,3,0,0,0,0,0,0,0,2,5,5,6,1,0,2,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363011,PENPAHAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,3,4,5,0,1,0,0,0,0,0,0,0,4,2,0,1,2,0,1,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,3,2,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,4,5,4,2,1,2,0,0,0,0,0,0,11,5,4,5,4,3,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363016,CHILKUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,5,4,1,1,1,2,0,0,0,0,0,0,0,0,2,1,2,3,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363017,GARIDEPALLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,4,3,1,4,1,0,0,0,0,0,0,0,2,5,3,0,2,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,16,10,14,10,6,3,3,1,0,0,0,0,6,5,12,7,7,11,4,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,11,12,6,11,7,5,3,5,2,1,0,0,0,0,8,11,9,8,2,7,1,1,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,6,10,16,17,14,9,11,8,6,0,0,0,0,0,10,13,20,8,4,7,6,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363023,CHINTHALA PALEM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,11,3,12,5,5,2,1,1,0,0,0,0,8,6,6,5,3,9,5,1,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,3,4,23,20,16,20,8,7,1,0,0,0,0,0,29,9,22,11,15,5,6,1,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,0,1,0,0,0,6,14,14,16,5,0,0,0,0,0,1,0,4,11,5,10,3,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,13,17,23,43,31,21,14,4,1,0,0,0,0,0,28,25,20,18,22,7,5,1,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,0,0,13,13,15,10,8,5,5,0,0,0,0,0,14,8,11,17,9,4,5,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,2,UPS (I-VIII),98,Madarsa unrecognized,Urban,1,0,0,0,1,1,0,0,2,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,General
+2018-19,36,Telangana,3630,SURYAPET,363001,NAGARAM,3,HSS (I-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,12,12,15,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,3,HSS (I-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,15,18,19,13,15,19,17,0,0,0,0,0,1,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363011,PENPAHAD,3,HSS (I-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,12,13,13,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,3,HSS (I-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,12,11,11,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,3,HSS (I-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,3,5,3,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,3,HSS (I-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6,4,4,3,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,3,HSS (I-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,6,11,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,3,HSS (I-XII),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,6,4,3,7,7,7,2,SC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,0,0,1,3,2,0,0,0,0,0,0,0,0,0,1,3,3,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,3,HSS (I-XII),90,Social welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,68,71,69,71,70,57,64,SC
+2018-19,36,Telangana,3630,SURYAPET,363006,JAJIREDDIGUDEM,3,HSS (I-XII),90,Social welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,62,63,66,65,60,0,64,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,3,HSS (I-XII),90,Social welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64,63,59,65,68,65,64,59,SC
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,3,HSS (I-XII),90,Social welfare Department,Rural,2,0,0,0,0,0,0,60,66,62,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,3,HSS (I-XII),90,Social welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,66,66,74,70,72,72,63,67,SC
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,3,HSS (I-XII),90,Social welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,68,66,74,72,67,65,64,SC
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,3,HSS (I-XII),90,Social welfare Department,Urban,2,0,0,0,0,0,0,59,64,63,61,0,0,59,0,0,0,0,0,1,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,3,HSS (I-XII),90,Social welfare Department,Urban,2,0,0,0,0,0,0,57,62,61,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363001,NAGARAM,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,6,5,5,8,4,4,2,0,0,0,0,0,7,3,4,3,9,25,24,SC
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,9,11,12,7,7,4,6,0,0,0,0,0,9,12,14,9,10,15,21,SC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,12,7,5,7,8,5,2,0,0,0,0,0,8,8,10,10,8,16,16,SC
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,11,10,11,11,15,8,6,0,0,0,0,0,3,6,3,5,12,33,23,SC
+2018-19,36,Telangana,3630,SURYAPET,363011,PENPAHAD,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,11,11,14,11,13,0,0,0,0,0,0,0,8,8,3,13,5,13,20,SC
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,13,8,12,13,13,3,2,0,0,0,0,0,8,9,10,10,6,13,15,SC
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,22,10,8,17,9,9,6,0,0,0,0,0,2,1,5,9,9,24,14,SC
+2018-19,36,Telangana,3630,SURYAPET,363017,GARIDEPALLE,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,14,14,13,9,7,2,2,0,0,0,0,0,11,12,7,13,18,31,9,SC
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,4,5,6,6,4,4,3,0,0,0,0,0,2,4,3,6,9,31,15,SC
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,25,36,0,0,0,0,0,0,0,0,0,0,21,23,SC
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,47,34,0,0,0,0,0,0,0,0,0,0,11,5,SC
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,77,42,0,0,0,0,0,0,0,0,0,0,15,26,SC
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,69,50,0,0,0,0,0,0,0,0,0,0,18,11,SC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,11,HSS (XI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,118,60,0,0,0,0,0,0,0,0,0,0,87,83,SC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,11,HSS (XI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,76,34,0,0,0,0,0,0,0,0,0,0,37,31,SC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,11,HSS (XI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,48,39,0,0,0,0,0,0,0,0,0,0,9,8,SC
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,64,93,0,0,0,0,0,0,0,0,0,0,36,68,SC
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,3,SC
+2018-19,36,Telangana,3630,SURYAPET,363005,NOOTHANKAL,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,29,43,0,0,0,0,0,0,0,0,0,0,26,21,SC
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,10,23,0,0,0,0,0,0,0,0,0,0,5,5,SC
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,8,18,0,0,0,0,0,0,0,0,0,0,1,3,SC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,3,11,0,0,0,0,0,0,0,0,0,0,7,8,SC
+2018-19,36,Telangana,3630,SURYAPET,363016,CHILKUR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,13,12,0,0,0,0,0,0,0,0,0,0,10,10,SC
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,18,22,0,0,0,0,0,0,0,0,0,0,14,11,SC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,204,250,0,0,0,0,0,0,0,0,0,0,241,259,SC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,210,152,0,0,0,0,0,0,0,0,0,0,188,133,SC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,46,20,0,0,0,0,0,0,0,0,0,0,14,14,SC
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,1,PS (I-V),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,1,PS (I-V),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363004,MADDIRALA,1,PS (I-V),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),1,PS (I-V),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,1,PS (I-V),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,1,PS (I-V),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,1,PS (I-V),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,1,PS (I-V),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,1,PS (I-V),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,1,PS (I-V),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,1,PS (I-V),1,Department of Education,Urban,2,0,0,24,25,16,16,23,0,0,0,0,0,0,0,20,22,33,37,33,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,1,PS (I-V),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363001,NAGARAM,1,PS (I-V),3,Local body,Rural,2,0,0,30,28,25,37,25,0,0,0,0,0,0,0,33,20,27,23,13,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,1,PS (I-V),3,Local body,Rural,2,0,0,64,44,38,35,33,0,0,0,0,0,0,0,54,43,38,41,30,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,1,PS (I-V),3,Local body,Rural,2,0,0,39,25,30,33,32,0,0,0,0,0,0,0,38,30,28,45,34,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363004,MADDIRALA,1,PS (I-V),3,Local body,Rural,2,0,0,23,20,12,21,17,0,0,0,0,0,0,0,17,25,25,18,29,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363005,NOOTHANKAL,1,PS (I-V),3,Local body,Rural,2,0,0,25,24,19,14,30,0,0,0,0,0,0,0,27,24,25,19,16,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363006,JAJIREDDIGUDEM,1,PS (I-V),3,Local body,Rural,2,0,0,25,23,20,19,13,0,0,0,0,0,0,0,34,25,24,15,11,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,1,PS (I-V),3,Local body,Rural,2,0,0,23,43,44,31,17,0,0,0,0,0,0,0,18,27,29,26,23,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),1,PS (I-V),3,Local body,Rural,2,0,0,26,33,37,29,21,0,0,0,0,0,0,0,48,43,25,35,23,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,1,PS (I-V),3,Local body,Rural,2,0,0,42,24,30,20,17,0,0,0,0,0,0,0,39,22,34,40,18,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,1,PS (I-V),3,Local body,Rural,2,0,0,21,26,30,41,22,0,0,0,0,0,0,0,30,25,23,32,19,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363011,PENPAHAD,1,PS (I-V),3,Local body,Rural,2,0,0,50,40,36,44,24,0,0,0,0,0,0,0,41,49,53,59,34,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,1,PS (I-V),3,Local body,Rural,2,0,0,40,41,39,52,35,0,0,0,0,0,0,0,60,41,44,52,41,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,1,PS (I-V),3,Local body,Rural,2,0,0,36,45,26,30,27,0,0,0,0,0,0,0,33,38,43,31,27,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,1,PS (I-V),3,Local body,Rural,2,0,0,45,41,36,51,34,0,0,0,0,0,0,0,45,31,40,45,25,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,1,PS (I-V),3,Local body,Rural,2,0,0,55,43,45,76,53,0,0,0,0,0,0,0,55,58,56,66,67,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363016,CHILKUR,1,PS (I-V),3,Local body,Rural,2,0,0,53,35,25,25,22,0,0,0,0,0,0,0,31,28,29,32,18,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363017,GARIDEPALLE,1,PS (I-V),3,Local body,Rural,2,0,0,119,55,37,52,41,0,0,0,0,0,0,0,109,64,70,50,44,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,1,PS (I-V),3,Local body,Rural,2,0,0,54,50,53,46,48,0,0,0,0,0,0,0,57,48,37,44,37,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363019,PALAKEEDU,1,PS (I-V),3,Local body,Rural,2,0,0,31,25,15,11,11,0,0,0,0,0,0,0,33,24,25,19,12,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,1,PS (I-V),3,Local body,Rural,2,0,0,49,32,22,29,27,0,0,0,0,0,0,0,44,33,17,18,33,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,1,PS (I-V),3,Local body,Rural,2,0,0,34,24,21,14,19,0,0,0,0,0,0,0,42,9,15,21,9,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,1,PS (I-V),3,Local body,Rural,2,0,0,11,25,20,20,16,0,0,0,0,0,0,0,23,16,20,21,16,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363023,CHINTHALA PALEM,1,PS (I-V),3,Local body,Rural,2,0,0,16,9,11,11,9,0,0,0,0,0,0,0,18,14,15,13,15,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,1,PS (I-V),3,Local body,Urban,2,0,0,9,8,10,14,14,0,0,0,0,0,0,0,20,10,16,7,7,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,1,PS (I-V),3,Local body,Urban,2,0,0,28,17,17,12,13,0,0,0,0,0,0,0,35,24,21,16,8,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,1,PS (I-V),3,Local body,Urban,2,0,0,16,33,38,20,34,0,0,0,0,0,0,0,25,25,21,29,22,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,1,PS (I-V),3,Local body,Urban,2,0,0,26,24,30,7,27,0,0,0,0,0,0,0,34,24,25,22,11,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,1,PS (I-V),4,Government Aided,Rural,2,3,3,4,10,8,3,4,0,0,0,0,0,0,0,2,6,10,6,4,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,1,PS (I-V),4,Government Aided,Rural,2,5,6,5,4,9,1,0,0,0,0,0,0,0,0,5,10,7,3,3,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,1,PS (I-V),4,Government Aided,Urban,2,0,0,1,1,6,3,3,0,0,0,0,0,0,0,4,3,3,2,4,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,1,PS (I-V),4,Government Aided,Urban,2,23,7,8,9,14,8,3,0,0,0,0,0,0,0,15,14,8,5,6,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,1,PS (I-V),4,Government Aided,Urban,2,0,0,3,7,5,6,2,0,0,0,0,0,0,0,5,8,6,6,1,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,1,2,7,9,1,0,0,0,0,0,0,0,2,1,5,7,2,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363016,CHILKUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,7,3,4,8,7,5,5,0,0,0,0,0,0,0,9,5,8,6,3,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363019,PALAKEEDU,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,1,2,1,3,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,1,5,3,7,6,11,10,0,0,0,0,0,0,0,3,13,10,12,5,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,0,3,2,1,0,0,0,0,0,0,0,0,0,4,1,0,2,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,2,1,0,0,0,0,0,0,0,0,0,0,1,2,1,1,1,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,1,0,3,1,1,2,0,0,0,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,1,PS (I-V),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,1,PS (I-V),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,6,SS (I-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,6,SS (I-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,9,6,5,1,3,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,6,SS (I-X),2,Tribal Welfare Department,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,6,2,3,4,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363001,NAGARAM,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,14,12,8,3,11,5,5,3,8,2,2,3,0,0,17,5,4,4,3,2,2,1,1,4,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,1,1,22,32,24,24,24,10,10,8,5,1,0,0,21,19,11,18,17,5,8,4,6,5,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,3,0,2,0,3,1,0,1,0,1,0,0,1,3,2,2,0,0,1,0,1,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363005,NOOTHANKAL,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,16,5,10,17,20,14,8,7,3,4,4,0,0,0,18,9,8,15,9,1,1,4,3,1,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363006,JAJIREDDIGUDEM,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,1,1,2,3,5,2,2,1,2,0,0,0,0,0,4,1,4,2,2,1,3,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,10,11,12,7,8,9,10,5,12,9,0,0,8,1,8,9,3,4,6,7,10,7,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,2,0,4,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,13,29,17,15,13,17,13,10,3,7,4,9,0,0,15,13,13,15,2,5,3,4,3,9,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,8,2,4,4,3,1,2,0,0,0,0,0,7,1,6,0,0,3,1,0,0,2,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,2,1,1,5,5,6,6,10,12,5,15,15,0,0,2,4,4,4,9,9,5,6,5,6,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363016,CHILKUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,1,0,1,0,2,0,1,0,0,4,5,0,0,0,1,3,1,1,1,1,3,1,1,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363017,GARIDEPALLE,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,15,4,6,4,6,4,2,4,3,5,0,0,5,6,3,3,1,0,2,0,1,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,16,23,29,16,13,6,9,8,19,14,0,0,17,21,24,11,6,10,11,4,5,6,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363019,PALAKEEDU,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,8,10,8,4,3,5,9,4,6,3,0,0,4,8,6,7,5,6,3,4,2,3,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,0,6,4,2,1,0,1,0,0,0,0,0,0,5,1,1,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,18,15,19,18,12,11,5,8,8,9,0,0,20,16,9,10,4,8,3,3,5,6,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363023,CHINTHALA PALEM,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,14,6,13,10,9,4,7,4,5,9,0,0,4,8,4,8,3,4,3,2,3,1,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,13,14,154,134,139,134,86,84,84,94,89,87,0,0,98,127,117,91,68,75,67,43,64,66,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,0,0,2,1,1,1,0,1,1,1,1,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,22,21,51,55,80,56,46,30,24,33,41,47,0,0,44,48,53,35,24,27,26,16,20,26,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,0,0,12,25,19,12,14,7,5,3,10,16,0,0,10,17,16,15,6,7,9,5,5,17,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363001,NAGARAM,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,15,13,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,13,11,18,13,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,7,10,15,7,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363004,MADDIRALA,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,13,8,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363005,NOOTHANKAL,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,23,17,20,18,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363006,JAJIREDDIGUDEM,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,14,9,29,13,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,12,19,17,20,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,9,13,7,21,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,12,8,7,8,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363011,PENPAHAD,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,10,14,12,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,21,16,15,13,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,27,19,17,20,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363019,PALAKEEDU,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,9,7,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,18,7,14,12,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,2,0,4,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363023,CHINTHALA PALEM,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,8,4,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,7,SS (VI-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,36,37,32,32,32,0,0,0,0,0,0,0,28,47,35,44,57,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,7,SS (VI-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,15,28,23,31,41,0,0,0,0,0,0,0,0,4,5,3,5,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363001,NAGARAM,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,22,18,30,45,34,0,0,0,0,0,0,0,15,13,20,17,19,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,30,19,37,48,39,0,0,0,0,0,0,0,24,20,25,25,29,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,41,39,30,31,44,0,0,0,0,0,0,0,30,19,39,25,32,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363004,MADDIRALA,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,11,18,18,19,19,0,0,0,0,0,0,0,8,16,12,11,20,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363005,NOOTHANKAL,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,21,22,48,49,51,0,0,0,0,0,0,0,14,11,22,21,34,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363006,JAJIREDDIGUDEM,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,18,21,35,30,33,0,0,0,0,0,0,0,19,11,18,12,13,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,36,31,27,24,37,0,0,0,0,0,0,0,24,23,11,20,29,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,22,25,28,31,42,0,0,0,0,0,0,0,11,21,15,17,17,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,14,18,13,24,40,0,0,0,0,0,0,0,12,9,11,11,18,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,30,35,24,32,33,0,0,0,0,0,0,0,20,10,26,24,18,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363011,PENPAHAD,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,21,30,22,35,34,0,0,0,0,0,0,0,11,17,18,17,25,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,27,23,21,36,42,0,0,0,0,0,0,0,19,15,21,36,32,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,27,17,23,24,36,0,0,0,0,0,0,0,20,8,13,9,8,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,29,18,20,32,32,0,0,0,0,0,0,0,18,11,19,20,17,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,31,32,29,47,44,0,0,0,0,0,0,0,35,34,21,18,32,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363016,CHILKUR,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,12,23,35,19,25,0,0,0,0,0,0,0,18,14,15,10,13,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363017,GARIDEPALLE,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,37,25,39,36,29,0,0,0,0,0,0,0,17,25,22,19,29,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,38,43,42,47,58,0,0,0,0,0,0,0,24,21,29,26,23,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363019,PALAKEEDU,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,8,11,5,7,10,0,0,0,0,0,0,0,4,3,9,11,9,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,8,22,14,23,22,0,0,0,0,0,0,0,11,7,14,17,16,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,8,12,14,7,11,0,0,0,0,0,0,0,6,7,5,6,13,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,14,16,8,18,17,0,0,0,0,0,0,0,9,10,9,11,15,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363023,CHINTHALA PALEM,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,7,7,12,14,24,0,0,0,0,0,0,0,6,9,10,16,14,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,7,SS (VI-X),3,Local body,Urban,2,0,0,0,0,0,0,0,25,40,29,35,40,0,0,0,0,0,0,0,12,14,15,23,30,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,7,SS (VI-X),3,Local body,Urban,2,0,0,0,0,0,0,0,10,16,18,19,15,0,0,0,0,0,0,0,7,0,6,7,5,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,7,SS (VI-X),3,Local body,Urban,2,0,0,0,0,0,0,0,19,28,34,31,23,0,0,0,0,0,0,0,56,41,67,53,55,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,7,SS (VI-X),3,Local body,Urban,2,0,0,0,0,0,0,0,4,4,4,12,10,0,0,0,0,0,0,0,17,19,27,30,25,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,15,13,16,21,9,0,0,0,0,0,0,0,6,1,3,3,4,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,2,0,0,3,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,7,SS (VI-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,3,11,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,7,SS (VI-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,3,5,2,1,0,0,0,0,0,0,0,0,5,4,4,2,3,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,1,6,4,10,8,0,0,0,0,0,0,0,2,4,1,4,2,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,5,0,2,8,2,0,0,0,0,0,0,0,4,0,5,3,2,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,3,2,0,2,2,0,0,0,0,0,0,0,0,1,0,0,2,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,3,3,0,7,4,0,0,0,0,0,0,0,2,1,2,0,2,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,6,14,15,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,2,0,0,0,0,4,11,8,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363001,NAGARAM,2,UPS (I-VIII),3,Local body,Rural,2,0,0,1,4,0,6,0,1,2,1,0,0,0,0,2,0,2,2,0,1,1,3,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,2,UPS (I-VIII),3,Local body,Rural,2,0,0,6,8,5,2,1,5,0,1,0,0,0,0,3,2,7,9,3,1,0,2,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,2,UPS (I-VIII),3,Local body,Rural,2,0,0,8,6,2,3,2,3,1,0,0,0,0,0,5,5,5,6,1,3,1,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363004,MADDIRALA,2,UPS (I-VIII),3,Local body,Rural,2,0,0,7,2,4,3,6,3,0,3,0,0,0,0,7,4,5,2,1,2,2,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363005,NOOTHANKAL,2,UPS (I-VIII),3,Local body,Rural,2,0,0,7,2,7,2,6,4,1,1,0,0,0,0,2,8,3,5,3,7,3,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363006,JAJIREDDIGUDEM,2,UPS (I-VIII),3,Local body,Rural,2,0,0,4,6,2,2,2,3,5,8,0,0,0,0,2,2,2,5,5,3,2,5,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,2,UPS (I-VIII),3,Local body,Rural,2,0,0,6,19,10,9,4,14,7,5,0,0,0,0,8,10,8,16,3,9,6,2,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),2,UPS (I-VIII),3,Local body,Rural,2,0,0,7,9,3,10,1,3,8,0,0,0,0,0,6,6,5,7,2,9,2,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,2,UPS (I-VIII),3,Local body,Rural,2,0,0,6,12,8,4,7,1,1,0,0,0,0,0,9,2,10,5,6,1,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,2,UPS (I-VIII),3,Local body,Rural,2,0,0,5,6,1,6,3,5,3,1,0,0,0,0,3,3,8,4,3,2,1,2,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363011,PENPAHAD,2,UPS (I-VIII),3,Local body,Rural,2,0,0,10,7,7,11,6,14,15,2,0,0,0,0,12,4,12,7,10,5,7,2,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,2,UPS (I-VIII),3,Local body,Rural,2,0,0,1,4,2,3,6,3,4,0,0,0,0,0,3,5,0,6,0,0,1,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,2,UPS (I-VIII),3,Local body,Rural,2,0,0,0,0,4,3,2,1,2,1,0,0,0,0,1,0,1,0,2,4,3,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,2,UPS (I-VIII),3,Local body,Rural,2,0,0,8,3,9,1,1,0,3,0,0,0,0,0,4,4,5,2,3,0,2,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363016,CHILKUR,2,UPS (I-VIII),3,Local body,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363017,GARIDEPALLE,2,UPS (I-VIII),3,Local body,Rural,2,0,0,8,9,5,8,11,2,3,0,0,0,0,0,7,5,5,8,5,0,4,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363019,PALAKEEDU,2,UPS (I-VIII),3,Local body,Rural,2,0,0,0,2,0,1,0,0,0,0,0,0,0,0,2,1,1,2,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,2,UPS (I-VIII),3,Local body,Rural,2,0,0,4,5,6,3,3,4,1,0,0,0,0,0,6,5,5,4,1,5,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,2,UPS (I-VIII),3,Local body,Rural,2,0,0,12,8,9,7,4,2,4,0,0,0,0,0,9,2,11,4,3,2,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,2,UPS (I-VIII),3,Local body,Rural,2,0,0,4,3,3,0,1,0,0,0,0,0,0,0,2,7,2,1,3,1,3,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363023,CHINTHALA PALEM,2,UPS (I-VIII),3,Local body,Rural,2,0,0,20,29,20,23,17,11,11,8,0,0,0,0,22,40,29,18,13,14,9,2,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,2,UPS (I-VIII),3,Local body,Urban,2,0,0,5,4,7,4,4,4,4,0,0,0,0,0,7,9,5,3,1,2,4,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,2,UPS (I-VIII),3,Local body,Urban,2,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,3,1,1,3,2,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,2,UPS (I-VIII),3,Local body,Urban,2,0,0,1,3,1,1,2,0,0,0,0,0,0,0,3,3,2,5,2,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,2,UPS (I-VIII),4,Government Aided,Urban,2,0,0,0,1,0,2,0,0,0,0,0,0,0,0,3,0,4,0,1,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,2,1,2,5,0,0,0,0,0,0,0,0,2,2,2,5,2,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,7,3,9,9,8,6,5,4,0,0,0,0,0,0,10,4,6,6,3,3,3,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363004,MADDIRALA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,5,5,4,2,1,2,0,0,0,0,0,0,3,6,4,2,1,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363005,NOOTHANKAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,2,5,3,0,0,1,0,0,0,0,0,0,0,3,1,0,1,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363006,JAJIREDDIGUDEM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,1,0,1,3,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,3,4,8,4,6,8,11,2,4,0,0,0,0,0,3,4,1,4,0,1,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,6,6,3,7,0,0,0,0,0,0,0,0,11,10,3,7,1,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363011,PENPAHAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,4,7,3,9,2,0,1,0,0,0,0,0,7,5,4,3,3,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,5,9,7,3,0,0,0,0,0,0,0,0,3,3,2,3,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363016,CHILKUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,4,4,5,4,5,4,0,0,0,0,0,0,0,0,5,10,3,3,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363017,GARIDEPALLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,8,6,6,7,1,0,0,0,0,0,0,0,7,2,7,1,4,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,16,23,6,11,10,6,5,0,0,0,0,0,14,22,16,2,4,5,3,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,7,0,5,15,7,7,1,3,2,0,0,0,0,0,4,9,8,1,2,3,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,1,0,8,8,7,5,6,3,3,0,0,0,0,0,0,9,5,8,4,1,1,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363023,CHINTHALA PALEM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,6,17,5,10,5,3,1,0,0,0,0,0,4,2,7,5,4,2,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,5,5,29,49,22,15,13,4,4,0,0,0,0,0,25,35,25,20,12,2,2,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,2,3,2,0,1,0,1,2,0,0,0,0,0,1,1,0,0,2,4,3,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,14,10,33,17,22,10,16,4,3,0,0,0,0,0,30,24,23,11,10,0,2,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,0,8,8,4,5,2,0,1,0,0,0,0,0,5,5,3,3,0,1,1,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,2,UPS (I-VIII),98,Madarsa unrecognized,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3630,SURYAPET,363001,NAGARAM,3,HSS (I-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,6,10,10,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,3,HSS (I-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,27,21,18,26,19,10,8,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363011,PENPAHAD,3,HSS (I-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,5,5,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,3,HSS (I-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,7,6,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,3,HSS (I-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,3,3,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,3,HSS (I-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,5,3,3,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,3,HSS (I-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,3,2,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,3,HSS (I-XII),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65,70,73,71,66,68,44,94,ST
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,1,0,3,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,3,HSS (I-XII),90,Social welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,4,4,6,5,4,2,2,ST
+2018-19,36,Telangana,3630,SURYAPET,363006,JAJIREDDIGUDEM,3,HSS (I-XII),90,Social welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,4,4,5,0,2,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,3,HSS (I-XII),90,Social welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5,5,5,3,3,4,ST
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,3,HSS (I-XII),90,Social welfare Department,Rural,3,0,0,0,0,0,0,5,4,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,3,HSS (I-XII),90,Social welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,5,5,5,5,2,2,ST
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,3,HSS (I-XII),90,Social welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,5,3,4,1,3,4,ST
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,3,HSS (I-XII),90,Social welfare Department,Urban,3,0,0,0,0,0,0,3,3,5,6,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,3,HSS (I-XII),90,Social welfare Department,Urban,3,0,0,0,0,0,0,5,5,7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363001,NAGARAM,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,5,7,9,10,3,3,0,0,0,0,0,0,9,5,8,5,5,5,4,ST
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,4,8,7,9,2,1,2,0,0,0,0,0,2,6,4,5,6,11,1,ST
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,7,6,14,12,7,1,1,0,0,0,0,0,8,5,5,6,6,12,6,ST
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,11,8,7,5,9,1,1,0,0,0,0,0,2,1,5,5,6,7,2,ST
+2018-19,36,Telangana,3630,SURYAPET,363011,PENPAHAD,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,8,3,12,10,4,1,0,0,0,0,0,0,2,5,8,3,10,6,1,ST
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,5,4,6,5,6,0,0,0,0,0,0,0,1,3,3,5,4,9,3,ST
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,1,2,1,0,2,2,0,0,0,0,0,0,0,0,0,1,3,4,1,ST
+2018-19,36,Telangana,3630,SURYAPET,363017,GARIDEPALLE,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,5,4,12,10,8,0,0,0,0,0,0,0,12,11,17,13,19,14,6,ST
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,23,15,12,17,7,2,1,0,0,0,0,0,13,3,14,15,11,15,5,ST
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,9,5,0,0,0,0,0,0,0,0,0,0,2,3,ST
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,14,1,0,0,0,0,0,0,0,0,0,0,4,2,ST
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,2,4,ST
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,12,8,0,0,0,0,0,0,0,0,0,0,5,3,ST
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,11,HSS (XI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,36,19,0,0,0,0,0,0,0,0,0,0,24,9,ST
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,11,HSS (XI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,52,22,0,0,0,0,0,0,0,0,0,0,43,25,ST
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,11,HSS (XI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,10,2,0,0,0,0,0,0,0,0,0,0,1,1,ST
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,46,41,0,0,0,0,0,0,0,0,0,0,49,49,ST
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,4,ST
+2018-19,36,Telangana,3630,SURYAPET,363005,NOOTHANKAL,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,11,5,0,0,0,0,0,0,0,0,0,0,10,13,ST
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,30,38,0,0,0,0,0,0,0,0,0,0,6,12,ST
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,7,10,0,0,0,0,0,0,0,0,0,0,3,3,ST
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,6,10,0,0,0,0,0,0,0,0,0,0,5,5,ST
+2018-19,36,Telangana,3630,SURYAPET,363016,CHILKUR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,37,27,0,0,0,0,0,0,0,0,0,0,14,11,ST
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,8,4,0,0,0,0,0,0,0,0,0,0,7,5,ST
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,304,248,0,0,0,0,0,0,0,0,0,0,249,248,ST
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,213,148,0,0,0,0,0,0,0,0,0,0,124,115,ST
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,18,19,0,0,0,0,0,0,0,0,0,0,6,11,ST
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,1,PS (I-V),1,Department of Education,Rural,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,1,PS (I-V),1,Department of Education,Rural,3,0,0,1,1,1,1,1,0,0,0,0,0,0,0,3,2,4,6,2,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363004,MADDIRALA,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),1,PS (I-V),1,Department of Education,Rural,3,0,0,0,3,0,1,0,0,0,0,0,0,0,0,2,3,0,1,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,1,PS (I-V),1,Department of Education,Rural,3,0,0,2,5,7,3,6,0,0,0,0,0,0,0,4,1,1,1,1,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,2,2,5,7,0,0,0,0,0,0,0,3,3,1,2,1,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,1,PS (I-V),1,Department of Education,Rural,3,0,0,2,2,5,4,4,0,0,0,0,0,0,0,6,1,2,6,4,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,1,PS (I-V),1,Department of Education,Urban,3,0,0,5,6,10,12,15,0,0,0,0,0,0,0,7,6,5,18,33,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,1,PS (I-V),1,Department of Education,Urban,3,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,29,33,34,29,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363001,NAGARAM,1,PS (I-V),3,Local body,Rural,3,0,0,5,2,5,0,3,0,0,0,0,0,0,0,1,2,4,2,2,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,1,PS (I-V),3,Local body,Rural,3,0,0,25,32,35,35,35,0,0,0,0,0,0,0,43,29,37,37,37,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,1,PS (I-V),3,Local body,Rural,3,0,0,24,22,16,11,12,0,0,0,0,0,0,0,19,25,42,24,15,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363004,MADDIRALA,1,PS (I-V),3,Local body,Rural,3,0,0,5,6,8,9,7,0,0,0,0,0,0,0,9,5,11,3,9,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363005,NOOTHANKAL,1,PS (I-V),3,Local body,Rural,3,0,0,11,16,11,12,11,0,0,0,0,0,0,0,12,11,5,10,21,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363006,JAJIREDDIGUDEM,1,PS (I-V),3,Local body,Rural,3,0,0,15,12,10,11,15,0,0,0,0,0,0,0,15,10,10,12,7,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,1,PS (I-V),3,Local body,Rural,3,0,0,22,16,18,13,15,0,0,0,0,0,0,0,13,13,17,11,18,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),1,PS (I-V),3,Local body,Rural,3,0,0,49,21,21,35,17,0,0,0,0,0,0,0,31,48,28,33,27,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,1,PS (I-V),3,Local body,Rural,3,0,0,27,33,35,19,30,0,0,0,0,0,0,0,34,36,37,31,28,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,1,PS (I-V),3,Local body,Rural,3,0,0,37,36,30,26,45,0,0,0,0,0,0,0,47,37,40,33,22,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363011,PENPAHAD,1,PS (I-V),3,Local body,Rural,3,0,0,17,25,28,20,21,0,0,0,0,0,0,0,41,29,23,37,25,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,1,PS (I-V),3,Local body,Rural,3,0,0,10,15,3,9,8,0,0,0,0,0,0,0,2,7,9,9,13,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,1,PS (I-V),3,Local body,Rural,3,0,0,4,1,5,6,8,0,0,0,0,0,0,0,5,4,6,9,7,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,1,PS (I-V),3,Local body,Rural,3,0,0,10,21,12,18,14,0,0,0,0,0,0,0,14,13,9,11,9,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,1,PS (I-V),3,Local body,Rural,3,0,0,5,4,5,12,6,0,0,0,0,0,0,0,3,6,10,7,5,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363016,CHILKUR,1,PS (I-V),3,Local body,Rural,3,0,0,36,9,14,3,5,0,0,0,0,0,0,0,14,10,12,14,15,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363017,GARIDEPALLE,1,PS (I-V),3,Local body,Rural,3,0,0,46,27,19,12,7,0,0,0,0,0,0,0,40,28,15,29,15,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,1,PS (I-V),3,Local body,Rural,3,0,0,13,8,12,7,15,0,0,0,0,0,0,0,11,12,11,5,7,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363019,PALAKEEDU,1,PS (I-V),3,Local body,Rural,3,0,0,34,36,33,22,19,0,0,0,0,0,0,0,34,36,38,37,31,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,1,PS (I-V),3,Local body,Rural,3,0,0,39,52,70,47,34,0,0,0,0,0,0,0,40,61,65,53,51,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,1,PS (I-V),3,Local body,Rural,3,0,0,3,1,0,2,1,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,1,PS (I-V),3,Local body,Rural,3,0,0,9,13,10,8,7,0,0,0,0,0,0,0,17,13,5,11,8,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363023,CHINTHALA PALEM,1,PS (I-V),3,Local body,Rural,3,0,0,28,19,9,13,10,0,0,0,0,0,0,0,19,19,19,19,13,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,1,PS (I-V),3,Local body,Urban,3,0,0,4,6,7,5,6,0,0,0,0,0,0,0,1,5,7,2,11,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,1,PS (I-V),3,Local body,Urban,3,0,0,2,7,10,3,9,0,0,0,0,0,0,0,4,1,1,12,4,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,1,PS (I-V),3,Local body,Urban,3,0,0,4,7,8,14,8,0,0,0,0,0,0,0,4,5,9,11,11,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,1,PS (I-V),3,Local body,Urban,3,0,0,11,12,46,24,24,0,0,0,0,0,0,0,15,10,17,25,9,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,1,PS (I-V),4,Government Aided,Rural,3,1,1,0,7,5,6,7,0,0,0,0,0,0,0,4,6,11,9,3,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,1,PS (I-V),4,Government Aided,Rural,3,1,1,1,0,0,3,1,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,1,PS (I-V),4,Government Aided,Urban,3,0,0,0,0,1,4,0,0,0,0,0,0,0,0,3,3,0,1,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,1,PS (I-V),4,Government Aided,Urban,3,6,9,2,1,4,5,12,0,0,0,0,0,0,0,0,5,3,10,8,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,1,PS (I-V),4,Government Aided,Urban,3,0,0,2,2,4,4,3,0,0,0,0,0,0,0,3,2,2,1,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,2,6,2,2,0,0,0,0,0,0,0,2,2,2,1,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,8,18,26,29,3,0,0,0,0,0,0,0,5,5,4,7,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363016,CHILKUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,9,7,8,3,1,1,1,0,0,0,0,0,0,0,10,13,6,1,2,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363019,PALAKEEDU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,12,9,5,7,3,0,0,0,0,0,0,0,4,3,7,2,3,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,3,8,8,12,15,28,0,0,0,0,0,0,0,6,8,10,15,25,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,3,8,5,2,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,1,0,1,3,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,1,PS (I-V),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,1,PS (I-V),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,6,SS (I-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,79,107,106,79,34,48,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,6,SS (I-X),2,Tribal Welfare Department,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,10,31,47,48,33,45,24,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363001,NAGARAM,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,1,2,5,5,2,5,0,1,1,0,1,1,0,0,2,1,0,1,1,2,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,10,6,45,39,40,26,33,25,22,18,14,8,0,0,16,19,19,16,8,9,6,13,5,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,13,3,9,7,7,7,4,3,4,3,0,0,2,2,8,7,4,2,2,0,1,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363005,NOOTHANKAL,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,5,10,21,10,6,5,1,5,4,0,4,0,0,7,6,3,5,1,1,1,1,3,2,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363006,JAJIREDDIGUDEM,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,9,8,9,7,7,2,3,4,0,0,0,0,0,0,3,5,4,4,3,0,1,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,6,3,6,3,4,5,2,5,1,1,0,0,3,5,2,3,5,1,0,1,4,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,5,8,2,6,1,2,1,0,0,0,0,0,4,6,3,0,1,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,2,4,3,1,8,4,4,3,1,4,6,0,0,1,7,1,0,2,2,0,0,1,3,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,2,5,5,8,5,10,10,12,7,13,8,0,0,2,5,4,4,7,5,5,10,8,5,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363016,CHILKUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,1,2,4,1,3,4,4,2,8,2,0,0,2,1,1,0,1,1,0,2,3,3,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363017,GARIDEPALLE,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,1,0,1,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,17,18,13,24,24,14,14,12,17,24,0,0,10,7,8,12,5,9,4,2,9,8,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363019,PALAKEEDU,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,4,1,1,2,3,2,1,0,2,1,0,0,1,0,3,3,0,0,0,2,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,37,23,24,28,20,18,23,11,14,9,0,0,11,22,23,16,10,14,3,6,5,3,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363023,CHINTHALA PALEM,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,12,13,15,7,6,9,6,10,3,6,0,0,9,5,8,6,3,1,1,5,7,7,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,17,22,159,156,182,158,196,185,147,164,162,149,0,0,102,89,96,83,80,61,66,57,73,70,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,0,3,2,2,4,1,0,1,0,2,0,0,2,0,3,0,3,1,0,0,1,2,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,8,10,31,45,57,37,55,49,71,54,68,68,0,0,26,34,18,26,15,26,22,16,28,22,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,11,15,14,19,13,19,16,15,9,11,0,0,6,8,12,12,4,6,3,10,6,6,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363001,NAGARAM,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,3,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,11,11,13,13,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,20,18,21,12,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363004,MADDIRALA,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,4,1,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363005,NOOTHANKAL,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,9,7,10,4,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363006,JAJIREDDIGUDEM,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,3,11,4,11,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,9,9,4,11,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,11,7,10,6,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,14,16,27,19,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363011,PENPAHAD,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,12,10,9,14,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,5,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,4,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363019,PALAKEEDU,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,11,6,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,13,15,23,14,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,31,43,27,26,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363023,CHINTHALA PALEM,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,8,1,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,30,21,22,27,16,0,0,0,0,0,0,0,35,42,45,47,43,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,9,4,4,8,4,0,0,0,0,0,0,0,1,4,5,2,3,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363001,NAGARAM,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,3,3,9,3,8,0,0,0,0,0,0,0,1,4,3,9,3,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,24,28,42,58,38,0,0,0,0,0,0,0,19,21,38,35,28,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,9,16,22,33,37,0,0,0,0,0,0,0,7,13,13,12,14,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363004,MADDIRALA,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,5,6,8,7,4,0,0,0,0,0,0,0,1,1,1,5,12,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363005,NOOTHANKAL,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,14,19,18,35,15,0,0,0,0,0,0,0,8,12,16,21,15,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363006,JAJIREDDIGUDEM,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,15,9,9,18,22,0,0,0,0,0,0,0,12,7,10,14,16,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,2,8,11,13,10,0,0,0,0,0,0,0,1,4,7,7,6,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,29,13,31,39,38,0,0,0,0,0,0,0,7,7,28,36,36,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,19,15,24,30,27,0,0,0,0,0,0,0,7,12,14,16,18,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,29,30,37,48,41,0,0,0,0,0,0,0,7,21,29,46,47,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363011,PENPAHAD,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,10,13,21,27,13,0,0,0,0,0,0,0,8,12,13,13,19,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,2,5,2,4,8,0,0,0,0,0,0,0,1,0,0,5,1,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,6,4,11,7,4,0,0,0,0,0,0,0,5,4,4,8,2,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,13,17,21,17,23,0,0,0,0,0,0,0,7,7,4,11,17,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,13,11,20,19,21,0,0,0,0,0,0,0,8,22,20,18,17,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363016,CHILKUR,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,10,12,15,20,22,0,0,0,0,0,0,0,8,11,15,11,11,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363017,GARIDEPALLE,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,4,9,7,10,11,0,0,0,0,0,0,0,2,10,1,5,10,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,32,27,22,34,25,0,0,0,0,0,0,0,2,2,2,1,3,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363019,PALAKEEDU,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,13,10,17,10,7,0,0,0,0,0,0,0,12,6,4,9,13,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,17,12,16,10,24,0,0,0,0,0,0,0,25,21,20,27,28,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,13,12,21,9,14,0,0,0,0,0,0,0,11,6,4,5,6,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363023,CHINTHALA PALEM,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,8,9,11,10,11,0,0,0,0,0,0,0,6,21,20,13,7,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,7,SS (VI-X),3,Local body,Urban,3,0,0,0,0,0,0,0,4,7,6,24,14,0,0,0,0,0,0,0,4,0,5,4,3,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,7,SS (VI-X),3,Local body,Urban,3,0,0,0,0,0,0,0,13,9,22,13,18,0,0,0,0,0,0,0,11,12,7,6,5,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,7,SS (VI-X),3,Local body,Urban,3,0,0,0,0,0,0,0,22,27,20,32,20,0,0,0,0,0,0,0,22,21,18,31,22,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,7,SS (VI-X),3,Local body,Urban,3,0,0,0,0,0,0,0,25,40,20,21,16,0,0,0,0,0,0,0,7,7,13,8,6,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,2,8,2,3,6,0,0,0,0,0,0,0,2,5,7,1,5,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,7,SS (VI-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,2,6,11,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,7,SS (VI-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,18,11,30,8,9,0,0,0,0,0,0,0,13,5,22,10,7,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,7,SS (VI-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,2,2,0,4,0,0,0,0,0,0,0,1,3,2,5,5,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,5,3,1,1,1,0,0,0,0,0,0,0,0,0,2,2,2,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,3,13,18,18,24,0,0,0,0,0,0,0,1,4,8,6,12,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,22,21,15,19,16,0,0,0,0,0,0,0,16,21,19,7,5,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,8,7,7,9,9,0,0,0,0,0,0,0,0,4,4,1,3,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,1,2,4,7,0,0,0,0,0,0,0,0,1,2,3,1,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,7,2,3,6,6,1,1,0,0,0,0,0,2,4,7,4,5,1,5,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,4,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,0,0,0,6,13,11,11,10,8,7,0,0,0,0,0,6,0,1,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363001,NAGARAM,2,UPS (I-VIII),3,Local body,Rural,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,2,UPS (I-VIII),3,Local body,Rural,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,2,UPS (I-VIII),3,Local body,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363004,MADDIRALA,2,UPS (I-VIII),3,Local body,Rural,3,0,0,1,1,4,1,1,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363005,NOOTHANKAL,2,UPS (I-VIII),3,Local body,Rural,3,0,0,2,2,3,0,1,1,0,1,0,0,0,0,1,4,2,3,4,6,2,3,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363006,JAJIREDDIGUDEM,2,UPS (I-VIII),3,Local body,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,2,UPS (I-VIII),3,Local body,Rural,3,0,0,6,4,6,5,2,6,7,0,0,0,0,0,12,8,9,7,6,2,5,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),2,UPS (I-VIII),3,Local body,Rural,3,0,0,16,11,10,7,10,1,8,0,0,0,0,0,16,14,12,0,2,1,11,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,2,UPS (I-VIII),3,Local body,Rural,3,0,0,6,4,3,2,1,1,4,0,0,0,0,0,6,7,7,6,3,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,2,UPS (I-VIII),3,Local body,Rural,3,0,0,1,0,1,2,4,0,1,0,0,0,0,0,1,4,1,2,0,0,3,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363011,PENPAHAD,2,UPS (I-VIII),3,Local body,Rural,3,0,0,0,0,2,0,0,4,4,1,0,0,0,0,0,1,0,0,0,0,3,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,2,UPS (I-VIII),3,Local body,Rural,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,2,UPS (I-VIII),3,Local body,Rural,3,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,2,UPS (I-VIII),3,Local body,Rural,3,0,0,17,7,9,7,4,7,2,0,0,0,0,0,15,13,17,10,6,5,6,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363016,CHILKUR,2,UPS (I-VIII),3,Local body,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363017,GARIDEPALLE,2,UPS (I-VIII),3,Local body,Rural,3,0,0,0,2,1,0,1,5,1,0,0,0,0,0,2,3,0,1,0,4,5,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363019,PALAKEEDU,2,UPS (I-VIII),3,Local body,Rural,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,2,UPS (I-VIII),3,Local body,Rural,3,0,0,0,4,2,0,0,5,0,0,0,0,0,0,0,2,6,4,5,5,1,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,2,UPS (I-VIII),3,Local body,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,2,UPS (I-VIII),3,Local body,Rural,3,0,0,6,4,9,7,5,5,5,7,0,0,0,0,17,17,11,5,12,10,8,12,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363023,CHINTHALA PALEM,2,UPS (I-VIII),3,Local body,Rural,3,0,0,5,8,12,5,12,8,3,3,0,0,0,0,14,8,8,10,17,11,8,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,2,UPS (I-VIII),3,Local body,Urban,3,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,2,UPS (I-VIII),3,Local body,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,2,UPS (I-VIII),3,Local body,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,2,UPS (I-VIII),4,Government Aided,Urban,3,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,2,6,13,6,7,2,3,2,5,0,0,0,0,0,7,6,4,5,1,1,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363004,MADDIRALA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,5,4,4,4,2,1,0,0,0,0,0,0,3,2,4,6,1,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363005,NOOTHANKAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,3,2,3,5,1,0,1,0,0,0,0,0,5,6,0,3,2,0,2,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363006,JAJIREDDIGUDEM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,2,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,5,3,6,5,5,5,4,2,0,0,0,0,0,0,7,6,4,3,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,39,21,14,30,6,0,1,0,0,0,0,0,24,10,8,17,2,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363011,PENPAHAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,3,1,3,3,3,0,0,0,0,0,0,0,0,1,3,1,1,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,2,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,2,3,5,1,1,0,0,0,0,0,0,0,0,1,1,3,1,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,2,2,5,4,2,0,0,0,0,0,0,0,1,0,2,1,1,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363016,CHILKUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,3,2,2,2,0,0,0,0,0,0,0,0,3,1,1,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363017,GARIDEPALLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,16,12,11,6,7,0,0,0,0,0,0,0,18,5,7,4,3,0,1,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,4,15,7,4,2,2,1,1,0,0,0,0,3,4,2,1,2,0,1,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,31,10,47,61,47,27,21,7,9,3,0,0,0,0,24,45,27,19,7,6,1,2,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,1,30,25,21,17,16,7,6,0,0,0,0,0,28,10,13,9,8,5,2,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363023,CHINTHALA PALEM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,12,15,18,11,5,1,2,0,0,0,0,0,28,7,7,5,2,1,5,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,3,2,18,27,16,17,19,8,6,2,0,0,0,0,20,21,9,10,6,3,2,1,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,9,5,9,6,9,6,4,4,1,0,0,0,0,0,8,1,0,3,3,3,0,1,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,7,1,19,48,21,31,14,4,7,0,0,0,0,0,18,32,22,9,11,6,3,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,4,2,1,3,1,1,0,0,0,0,0,0,2,4,1,3,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,2,UPS (I-VIII),98,Madarsa unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3630,SURYAPET,363001,NAGARAM,3,HSS (I-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,58,56,53,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,3,HSS (I-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,86,95,92,85,41,32,32,0,0,0,0,0,1,0,0,1,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363011,PENPAHAD,3,HSS (I-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,57,62,55,55,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,3,HSS (I-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,42,50,53,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,3,HSS (I-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,34,51,47,53,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,3,HSS (I-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,1,61,64,60,60,64,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,3,HSS (I-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56,67,50,55,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,3,HSS (I-XII),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6,3,1,1,4,1,3,2,OBC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,5,8,6,7,2,2,5,2,2,0,0,0,0,0,7,6,5,7,3,1,1,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,0,0,13,9,9,0,0,0,0,0,0,0,0,0,9,10,4,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,3,HSS (I-XII),90,Social welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,5,3,5,4,2,6,8,OBC
+2018-19,36,Telangana,3630,SURYAPET,363006,JAJIREDDIGUDEM,3,HSS (I-XII),90,Social welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,9,9,9,10,0,9,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,3,HSS (I-XII),90,Social welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,10,3,3,4,4,10,10,OBC
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,3,HSS (I-XII),90,Social welfare Department,Rural,4,0,0,0,0,0,0,13,10,12,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,3,HSS (I-XII),90,Social welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,9,1,4,2,3,10,7,OBC
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,3,HSS (I-XII),90,Social welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,7,7,2,4,5,9,10,OBC
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,3,HSS (I-XII),90,Social welfare Department,Urban,4,0,0,0,0,0,0,11,12,10,11,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,3,HSS (I-XII),90,Social welfare Department,Urban,4,0,0,0,0,0,0,12,9,10,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363001,NAGARAM,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,35,35,26,38,20,16,10,0,0,0,0,0,27,36,36,27,48,42,43,OBC
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,30,23,16,28,32,12,15,0,0,0,0,0,31,27,32,38,27,40,25,OBC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,31,28,34,39,30,13,7,0,0,0,0,0,30,37,25,21,34,35,32,OBC
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,39,39,33,36,26,6,14,0,0,0,0,0,29,29,28,27,21,31,24,OBC
+2018-19,36,Telangana,3630,SURYAPET,363011,PENPAHAD,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,30,33,28,28,29,5,0,0,0,0,0,0,33,28,17,25,23,47,24,OBC
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,29,29,25,36,21,14,9,0,0,0,0,0,39,42,35,25,31,58,40,OBC
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,34,27,33,25,18,17,10,0,0,0,0,0,21,20,16,33,24,57,44,OBC
+2018-19,36,Telangana,3630,SURYAPET,363017,GARIDEPALLE,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,42,34,29,31,31,1,3,0,0,0,0,0,47,56,37,50,36,96,38,OBC
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,12,14,25,8,15,7,2,0,0,0,0,0,18,21,20,13,16,31,21,OBC
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,61,58,0,0,0,0,0,0,0,0,0,0,66,49,OBC
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,91,55,0,0,0,0,0,0,0,0,0,0,28,8,OBC
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,98,56,0,0,0,0,0,0,0,0,0,0,21,42,OBC
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,75,52,0,0,0,0,0,0,0,0,0,0,37,20,OBC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,11,HSS (XI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,124,75,0,0,0,0,0,0,0,0,0,0,83,55,OBC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,11,HSS (XI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,65,39,0,0,0,0,0,0,0,0,0,0,16,13,OBC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,11,HSS (XI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,86,53,0,0,0,0,0,0,0,0,0,0,39,12,OBC
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,145,181,0,0,0,0,0,0,0,0,0,0,141,138,OBC
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,2,17,0,0,0,0,0,0,0,0,0,0,0,28,OBC
+2018-19,36,Telangana,3630,SURYAPET,363005,NOOTHANKAL,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,66,140,0,0,0,0,0,0,0,0,0,0,77,101,OBC
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,26,74,0,0,0,0,0,0,0,0,0,0,14,28,OBC
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,18,23,0,0,0,0,0,0,0,0,0,0,8,13,OBC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,43,49,0,0,0,0,0,0,0,0,0,0,22,46,OBC
+2018-19,36,Telangana,3630,SURYAPET,363016,CHILKUR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,83,65,0,0,0,0,0,0,0,0,0,0,60,64,OBC
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,29,38,0,0,0,0,0,0,0,0,0,0,47,47,OBC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,864,879,0,0,0,0,0,0,0,0,0,0,1059,983,OBC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,644,490,0,0,0,0,0,0,0,0,0,0,657,536,OBC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,90,78,0,0,0,0,0,0,0,0,0,0,84,84,OBC
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,1,PS (I-V),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,1,PS (I-V),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363004,MADDIRALA,1,PS (I-V),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),1,PS (I-V),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,1,PS (I-V),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,1,PS (I-V),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,1,PS (I-V),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,1,PS (I-V),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,1,PS (I-V),1,Department of Education,Rural,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,1,PS (I-V),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,1,PS (I-V),1,Department of Education,Urban,4,0,0,28,37,35,32,33,0,0,0,0,0,0,0,37,32,39,41,32,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,1,PS (I-V),1,Department of Education,Urban,4,0,0,0,0,2,1,1,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363001,NAGARAM,1,PS (I-V),3,Local body,Rural,4,0,0,43,46,38,35,30,0,0,0,0,0,0,0,42,36,38,51,48,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,1,PS (I-V),3,Local body,Rural,4,0,0,44,46,40,36,42,0,0,0,0,0,0,0,54,55,54,53,48,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,1,PS (I-V),3,Local body,Rural,4,0,0,53,39,44,30,49,0,0,0,0,0,0,0,62,50,50,66,56,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363004,MADDIRALA,1,PS (I-V),3,Local body,Rural,4,0,0,34,26,21,19,25,0,0,0,0,0,0,0,44,41,36,32,29,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363005,NOOTHANKAL,1,PS (I-V),3,Local body,Rural,4,0,0,49,36,35,29,33,0,0,0,0,0,0,0,69,32,29,29,48,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363006,JAJIREDDIGUDEM,1,PS (I-V),3,Local body,Rural,4,0,0,50,46,41,47,34,0,0,0,0,0,0,0,58,50,60,36,46,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,1,PS (I-V),3,Local body,Rural,4,0,0,26,36,31,30,41,0,0,0,0,0,0,0,29,46,34,49,40,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),1,PS (I-V),3,Local body,Rural,4,0,0,82,64,63,78,68,0,0,0,0,0,0,0,69,83,85,72,69,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,1,PS (I-V),3,Local body,Rural,4,0,0,70,62,47,46,46,0,0,0,0,0,0,0,65,49,52,54,36,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,1,PS (I-V),3,Local body,Rural,4,0,0,22,43,22,22,32,0,0,0,0,0,0,0,25,35,32,37,23,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363011,PENPAHAD,1,PS (I-V),3,Local body,Rural,4,0,0,36,43,30,33,49,0,0,0,0,0,0,0,39,33,51,49,41,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,1,PS (I-V),3,Local body,Rural,4,0,0,42,41,57,60,34,0,0,0,0,0,0,0,43,51,48,54,68,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,1,PS (I-V),3,Local body,Rural,4,0,0,38,41,40,38,67,0,0,0,0,0,0,0,27,50,59,59,64,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,1,PS (I-V),3,Local body,Rural,4,0,0,44,65,45,44,44,0,0,0,0,0,0,0,54,52,60,45,36,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,1,PS (I-V),3,Local body,Rural,4,0,0,64,67,73,90,59,0,0,0,0,0,0,0,53,72,73,78,74,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363016,CHILKUR,1,PS (I-V),3,Local body,Rural,4,0,0,52,28,32,34,33,0,0,0,0,0,0,0,60,36,33,36,33,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363017,GARIDEPALLE,1,PS (I-V),3,Local body,Rural,4,0,0,125,66,65,53,61,0,0,0,0,0,0,0,125,75,65,77,75,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,1,PS (I-V),3,Local body,Rural,4,0,0,66,49,58,60,68,0,0,0,0,0,0,0,58,55,57,76,66,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363019,PALAKEEDU,1,PS (I-V),3,Local body,Rural,4,0,0,40,36,31,18,16,0,0,0,0,0,0,0,26,41,32,26,23,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,1,PS (I-V),3,Local body,Rural,4,0,0,60,54,45,46,48,0,0,0,0,0,0,0,82,48,44,45,43,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,1,PS (I-V),3,Local body,Rural,4,0,0,28,17,32,24,18,0,0,0,0,0,0,0,31,31,28,35,22,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,1,PS (I-V),3,Local body,Rural,4,0,0,25,27,7,13,22,0,0,0,0,0,0,0,30,32,26,25,15,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363023,CHINTHALA PALEM,1,PS (I-V),3,Local body,Rural,4,0,0,19,20,15,20,16,0,0,0,0,0,0,0,23,23,35,23,29,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,1,PS (I-V),3,Local body,Urban,4,0,1,14,17,8,13,9,0,0,0,0,0,0,0,18,23,24,25,21,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,1,PS (I-V),3,Local body,Urban,4,0,0,22,17,21,23,15,0,0,0,0,0,0,0,18,24,23,23,6,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,1,PS (I-V),3,Local body,Urban,4,0,0,26,56,47,61,56,0,0,0,0,0,0,0,41,47,45,49,43,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,1,PS (I-V),3,Local body,Urban,4,0,0,50,45,46,44,61,0,0,0,0,0,0,0,60,40,45,42,37,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,1,PS (I-V),4,Government Aided,Rural,4,8,11,8,30,28,20,16,0,0,0,0,0,0,0,18,20,17,13,14,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,1,PS (I-V),4,Government Aided,Rural,4,3,4,9,4,5,3,10,0,0,0,0,0,0,0,4,5,1,4,9,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,1,PS (I-V),4,Government Aided,Urban,4,0,0,14,9,11,11,13,0,0,0,0,0,0,0,12,7,15,11,23,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,1,PS (I-V),4,Government Aided,Urban,4,4,3,24,24,32,31,28,0,0,0,0,0,0,0,17,31,27,29,22,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,1,PS (I-V),4,Government Aided,Urban,4,0,0,18,22,20,19,14,0,0,0,0,0,0,0,23,28,31,21,22,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,7,8,8,5,3,0,0,0,0,0,0,0,9,8,2,5,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,11,6,10,58,5,0,0,0,0,0,0,0,4,2,8,19,2,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363016,CHILKUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,26,21,29,23,15,16,12,0,0,0,0,0,0,0,22,23,19,14,20,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363019,PALAKEEDU,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,5,6,2,3,0,0,0,0,0,0,0,0,2,0,1,3,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,11,10,21,22,21,24,29,0,0,0,0,0,0,0,8,14,12,15,21,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,3,3,1,0,2,0,0,0,0,0,0,0,3,1,1,2,3,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,4,2,5,3,1,0,0,0,0,0,0,0,2,1,1,0,1,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,1,21,6,14,11,10,0,0,0,0,0,0,0,17,13,7,7,7,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,1,PS (I-V),98,Madarsa unrecognized,Rural,4,0,0,9,28,28,22,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,1,PS (I-V),98,Madarsa unrecognized,Rural,4,0,0,0,3,4,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,6,SS (I-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,6,SS (I-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,8,4,2,2,4,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,6,SS (I-X),2,Tribal Welfare Department,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,4,2,5,2,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363001,NAGARAM,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,57,34,52,58,38,56,50,60,33,42,59,45,0,0,28,35,35,40,13,23,25,21,21,30,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,31,20,127,101,132,131,127,107,82,73,85,107,0,0,107,61,104,84,87,69,50,42,47,31,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,7,10,9,21,9,7,11,1,7,4,0,0,8,12,13,8,16,3,1,8,5,3,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363005,NOOTHANKAL,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,31,25,61,62,51,61,42,36,26,13,12,8,0,0,35,41,47,21,33,18,18,13,13,7,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363006,JAJIREDDIGUDEM,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,19,16,22,17,22,14,25,8,8,0,0,0,0,0,23,19,13,11,13,7,2,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,20,18,23,8,12,8,5,6,9,6,0,0,18,8,14,15,8,8,6,12,7,4,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,3,4,4,2,1,4,1,1,0,0,0,0,5,3,2,0,1,1,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,52,64,57,58,58,78,57,44,30,36,33,30,0,0,47,59,48,58,42,25,18,18,11,32,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,21,21,16,14,3,6,6,1,0,5,0,0,15,19,16,10,9,4,3,0,2,4,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,4,2,15,27,25,60,48,58,56,60,82,89,0,0,15,28,24,38,23,40,33,28,57,46,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363016,CHILKUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,3,2,12,16,7,9,14,17,22,14,30,32,0,0,6,10,9,10,8,7,8,12,8,12,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363017,GARIDEPALLE,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,18,14,17,24,8,7,13,7,6,10,0,0,16,8,12,9,9,7,5,2,7,2,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,69,70,95,93,79,68,60,52,65,77,0,0,100,82,84,69,65,47,51,31,65,45,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363019,PALAKEEDU,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,7,18,16,8,8,5,9,6,7,8,0,0,12,7,9,9,12,11,4,4,4,3,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,0,14,14,9,7,2,4,0,0,0,0,0,1,15,9,5,2,5,3,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,110,116,97,117,94,77,76,58,52,62,0,0,122,105,100,86,69,64,61,59,66,61,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363023,CHINTHALA PALEM,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,41,70,40,52,45,40,47,61,39,43,0,0,32,38,33,36,35,33,46,31,37,38,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,54,48,587,605,564,512,530,501,421,490,504,530,0,0,461,414,441,371,347,322,343,324,348,366,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,0,0,1,6,3,3,0,0,4,3,2,6,0,0,1,0,1,2,1,0,3,2,2,6,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,93,65,229,314,290,279,259,271,224,309,300,341,0,0,197,241,207,188,194,140,156,186,166,186,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,0,0,128,145,142,148,112,118,92,96,95,105,0,0,94,116,97,113,82,58,65,84,71,89,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363001,NAGARAM,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,24,13,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,10,1,9,13,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5,6,3,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363004,MADDIRALA,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,27,9,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363005,NOOTHANKAL,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,10,10,7,13,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363006,JAJIREDDIGUDEM,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,6,10,12,10,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,19,11,21,10,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,19,20,25,13,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,5,15,4,10,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363011,PENPAHAD,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,8,9,4,6,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,17,21,20,22,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,19,23,17,10,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363019,PALAKEEDU,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,19,17,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,13,14,8,8,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,6,3,9,11,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363023,CHINTHALA PALEM,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,19,25,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,7,SS (VI-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,41,53,51,76,75,0,0,0,0,0,0,0,68,52,66,93,85,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,7,SS (VI-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,51,37,49,46,47,0,0,0,0,0,0,0,9,1,8,9,7,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363001,NAGARAM,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,40,52,67,85,70,0,0,0,0,0,0,0,41,55,57,67,83,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,40,38,61,74,85,0,0,0,0,0,0,0,35,60,58,93,100,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,51,67,68,82,103,0,0,0,0,0,0,0,44,69,90,95,88,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363004,MADDIRALA,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,24,29,51,57,58,0,0,0,0,0,0,0,26,43,45,46,69,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363005,NOOTHANKAL,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,54,51,79,85,101,0,0,0,0,0,0,0,44,79,95,96,114,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363006,JAJIREDDIGUDEM,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,54,71,83,80,82,0,0,0,0,0,0,0,69,72,78,87,84,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,43,43,59,66,68,0,0,0,0,0,0,0,49,39,59,73,76,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,54,64,81,105,87,0,0,0,0,0,0,0,63,60,99,103,91,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,41,46,61,67,80,0,0,0,0,0,0,0,34,43,40,52,70,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,31,36,31,48,54,0,0,0,0,0,0,0,26,35,45,49,49,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363011,PENPAHAD,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,17,25,30,38,35,0,0,0,0,0,0,0,22,40,42,43,49,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,33,35,37,57,50,0,0,0,0,0,0,0,38,23,34,60,58,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,34,49,46,50,56,0,0,0,0,0,0,0,49,59,84,90,66,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,38,37,36,60,58,0,0,0,0,0,0,0,35,42,24,43,44,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,70,72,82,89,86,0,0,0,0,0,0,0,113,85,84,100,97,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363016,CHILKUR,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,40,52,68,75,83,0,0,0,0,0,0,0,51,42,60,48,87,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363017,GARIDEPALLE,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,36,42,52,71,86,0,0,0,0,0,0,0,47,54,50,65,88,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,79,76,67,86,80,0,0,0,0,0,0,0,58,58,68,66,59,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363019,PALAKEEDU,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,12,13,16,14,13,0,0,0,0,0,0,0,15,24,18,21,18,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,12,18,21,37,51,0,0,0,0,0,0,0,10,17,15,32,44,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,23,17,16,19,25,0,0,0,0,0,0,0,22,21,32,39,37,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,16,31,25,44,45,0,0,0,0,0,0,0,31,21,32,29,45,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363023,CHINTHALA PALEM,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,19,21,34,26,34,0,0,0,0,0,0,0,49,23,43,47,53,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,7,SS (VI-X),3,Local body,Urban,4,0,0,0,0,0,0,0,39,38,61,54,34,0,0,0,0,0,0,0,37,43,39,51,54,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,7,SS (VI-X),3,Local body,Urban,4,0,0,0,0,0,0,0,17,23,29,30,24,0,0,0,0,0,0,0,14,21,20,20,17,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,7,SS (VI-X),3,Local body,Urban,4,0,0,0,0,0,0,0,56,70,77,65,52,0,0,0,0,0,0,0,66,72,52,75,76,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,7,SS (VI-X),3,Local body,Urban,4,0,0,0,0,0,0,0,14,14,14,13,12,0,0,0,0,0,0,0,54,61,72,70,84,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,24,17,25,24,16,0,0,0,0,0,0,0,20,10,15,21,20,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,1,1,0,0,2,0,0,0,0,0,0,0,1,3,3,0,4,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,7,SS (VI-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,27,22,38,31,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,7,SS (VI-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,20,31,20,14,22,0,0,0,0,0,0,0,14,28,18,20,25,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,7,SS (VI-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,5,9,6,15,15,0,0,0,0,0,0,0,15,20,17,30,46,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,4,2,2,5,7,0,0,0,0,0,0,0,2,3,1,0,1,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,16,47,59,59,66,0,0,0,0,0,0,0,6,13,22,24,34,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,12,15,6,11,10,0,0,0,0,0,0,0,3,2,7,10,6,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,9,12,8,9,14,0,0,0,0,0,0,0,3,1,6,0,4,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,17,22,29,48,41,0,0,0,0,0,0,0,11,10,12,20,21,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,1,6,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,4,4,4,3,2,0,2,1,0,0,0,0,8,3,10,5,2,4,1,1,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,4,0,0,0,0,1,4,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363001,NAGARAM,2,UPS (I-VIII),3,Local body,Rural,4,0,0,6,6,2,4,0,0,5,4,0,0,0,0,4,5,8,5,0,7,5,3,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,2,UPS (I-VIII),3,Local body,Rural,4,0,0,6,1,3,0,5,5,4,3,0,0,0,0,4,6,1,2,2,4,4,5,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,2,UPS (I-VIII),3,Local body,Rural,4,0,0,1,2,2,1,2,2,1,0,0,0,0,0,1,3,3,6,2,4,3,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363004,MADDIRALA,2,UPS (I-VIII),3,Local body,Rural,4,0,0,1,7,6,4,5,6,6,4,0,0,0,0,6,2,5,3,9,4,6,3,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363005,NOOTHANKAL,2,UPS (I-VIII),3,Local body,Rural,4,0,0,11,21,13,6,5,7,8,1,0,0,0,0,10,17,7,7,10,8,10,7,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363006,JAJIREDDIGUDEM,2,UPS (I-VIII),3,Local body,Rural,4,0,0,1,3,4,1,3,6,0,5,0,0,0,0,6,0,7,2,8,4,1,4,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,2,UPS (I-VIII),3,Local body,Rural,4,0,0,13,14,14,14,20,14,12,3,0,0,0,0,9,20,12,16,18,18,16,8,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363008,ATMAKUR (S),2,UPS (I-VIII),3,Local body,Rural,4,0,0,15,23,12,6,8,5,6,0,0,0,0,0,12,15,15,13,8,11,14,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,2,UPS (I-VIII),3,Local body,Rural,4,0,0,9,7,5,8,11,8,3,0,0,0,0,0,9,13,25,8,19,9,2,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,2,UPS (I-VIII),3,Local body,Rural,4,0,0,10,9,7,5,7,3,4,4,0,0,0,0,7,6,6,9,6,5,7,8,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363011,PENPAHAD,2,UPS (I-VIII),3,Local body,Rural,4,0,0,5,10,8,3,11,5,5,2,0,0,0,0,9,9,12,10,9,5,4,2,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,2,UPS (I-VIII),3,Local body,Rural,4,0,0,7,1,8,3,4,2,7,0,0,0,0,0,14,6,5,7,3,9,3,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,2,UPS (I-VIII),3,Local body,Rural,4,0,0,8,6,8,8,12,5,6,0,0,0,0,0,7,4,4,6,3,7,12,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,2,UPS (I-VIII),3,Local body,Rural,4,0,0,8,6,8,5,12,7,7,0,0,0,0,0,6,5,13,9,5,6,7,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363016,CHILKUR,2,UPS (I-VIII),3,Local body,Rural,4,0,0,0,1,1,3,3,3,5,0,0,0,0,0,0,2,3,4,1,4,4,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363017,GARIDEPALLE,2,UPS (I-VIII),3,Local body,Rural,4,0,0,9,3,7,9,2,5,4,5,0,0,0,0,14,6,9,6,10,2,6,6,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363019,PALAKEEDU,2,UPS (I-VIII),3,Local body,Rural,4,0,0,2,3,3,1,1,0,0,0,0,0,0,0,4,2,5,3,3,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,2,UPS (I-VIII),3,Local body,Rural,4,0,0,4,7,9,6,8,8,2,0,0,0,0,0,3,7,7,14,11,7,8,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,2,UPS (I-VIII),3,Local body,Rural,4,0,0,7,1,3,2,5,2,4,0,0,0,0,0,7,6,2,5,4,1,3,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,2,UPS (I-VIII),3,Local body,Rural,4,0,0,4,5,9,2,3,4,3,3,0,0,0,0,7,9,4,2,7,2,6,1,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363023,CHINTHALA PALEM,2,UPS (I-VIII),3,Local body,Rural,4,0,0,27,20,20,15,15,19,18,3,0,0,0,0,28,25,24,31,34,26,16,8,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,2,UPS (I-VIII),3,Local body,Urban,4,0,0,4,7,4,8,8,8,7,0,0,0,0,0,7,9,5,5,6,6,3,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,2,UPS (I-VIII),3,Local body,Urban,4,0,0,2,4,6,3,4,1,4,0,0,0,0,0,2,10,2,5,2,4,2,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,2,UPS (I-VIII),3,Local body,Urban,4,0,0,3,0,2,1,2,0,0,0,0,0,0,0,3,0,2,2,2,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,2,UPS (I-VIII),4,Government Aided,Urban,4,0,0,5,1,6,1,6,0,0,0,0,0,0,0,5,6,4,6,5,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363002,THIRUMALAGIRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,1,2,8,6,5,4,4,0,0,0,0,0,0,0,7,4,2,7,7,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363003,THUNGATHURTHI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,27,13,49,42,50,45,32,23,14,0,0,0,0,0,24,39,26,25,28,14,11,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363004,MADDIRALA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,25,31,36,29,24,13,0,0,0,0,0,0,24,22,22,12,21,7,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363005,NOOTHANKAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,21,12,21,24,13,1,1,0,0,0,0,0,16,22,14,10,9,1,2,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363006,JAJIREDDIGUDEM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,14,14,20,6,17,9,6,0,0,0,0,0,0,0,15,11,8,10,6,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,16,6,35,16,18,28,17,6,10,1,0,0,0,0,16,15,9,18,5,8,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363009,MOTHEY,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,38,39,32,31,9,0,5,0,0,0,0,0,29,13,16,29,5,0,5,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,3,1,2,0,0,0,0,0,0,0,0,0,2,3,2,1,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363011,PENPAHAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,37,23,26,22,9,1,1,0,0,0,0,0,22,23,16,24,5,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363012,MUNAGALA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,3,4,5,3,0,5,3,0,0,0,0,0,0,0,14,4,2,5,1,0,1,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363013,NADIGUDEM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,21,23,19,8,7,3,0,0,0,0,0,0,24,12,12,10,8,2,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363014,ANANTHAGIRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,1,1,0,1,3,0,0,0,0,0,0,0,2,2,3,1,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,6,4,5,9,3,0,1,0,0,0,0,0,3,2,2,8,1,0,2,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363016,CHILKUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,25,27,21,22,28,19,8,0,0,0,0,0,0,0,24,30,26,16,6,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363017,GARIDEPALLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,46,53,29,27,18,0,0,0,0,0,0,0,50,37,18,20,23,3,4,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363018,NEREDCHERLA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,55,59,45,40,32,15,19,6,0,0,0,0,33,46,30,28,25,18,6,3,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363020,MATTAMPALLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,8,11,41,47,36,34,22,11,11,1,0,0,0,0,29,30,31,20,14,15,8,2,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,5,10,66,59,38,34,29,28,11,0,0,0,0,0,45,38,47,31,26,11,21,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363023,CHINTHALA PALEM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,47,36,41,26,22,20,17,3,0,0,0,0,51,25,29,16,15,7,9,1,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363007,SURYAPET,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,19,13,116,116,83,85,79,26,22,3,0,0,0,0,137,125,87,64,72,24,17,3,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363010,CHIVVEMLA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,2,3,5,3,0,11,8,4,6,2,0,0,0,0,2,1,1,6,9,6,7,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,38,23,114,78,76,77,53,27,24,1,0,0,0,0,89,92,64,56,36,25,13,3,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363021,HUZUR NAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,0,41,32,28,26,12,9,5,0,0,0,0,0,43,28,32,25,19,7,4,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363022,MELLACHERVU,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,2,12,10,15,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3630,SURYAPET,363015,KODAD,2,UPS (I-VIII),98,Madarsa unrecognized,Urban,4,0,0,13,6,11,19,7,12,13,0,0,0,0,0,14,15,28,17,13,20,22,0,0,0,0,0,OBC

@@ -1,0 +1,405 @@
+ac_year,state_code,state_name,district_code,district_name,block_code,block_name,sch_category_id,category_name,sch_mgmt_id,sch_mgmt_name,loc_name,caste_id,pre_primary_boys,pre_primary_girls,class_1_boys,class_2_boys,class_3_boys,class_4_boys,class_5_boys,class_6_boys,class_7_boys,class_8_boys,class_9_boys,class_10_boys,class_11_boys,class_12_boys,class_1_girls,class_2_girls,class_3_girls,class_4_girls,class_5_girls,class_6_girls,class_7_girls,class_8_girls,class_9_girls,class_10_girls,class_11_girls,class_12_girls,caste_name
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,3,HSS (I-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,2,9,3,2,0,0,0,0,0,0,0,0,3,8,2,1,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,85,71,81,97,92,104,115,99,89,81,80,79,55,81,57,65,69,87,65,75,76,73,61,47,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,72,85,77,95,104,120,124,131,111,123,100,83,57,56,56,62,61,84,57,78,75,54,50,41,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,24,42,36,33,34,41,44,35,61,75,71,42,12,26,27,28,38,18,21,28,52,59,52,55,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,0,0,11,5,10,11,8,14,10,15,40,33,19,19,11,7,9,11,9,15,7,19,21,22,20,15,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,0,20,46,45,45,59,66,66,65,70,118,109,71,100,46,36,41,45,49,42,73,64,72,81,72,63,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,102,48,80,90,140,116,120,157,153,172,210,226,237,247,60,87,87,89,103,113,84,86,146,166,185,190,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,Urban,1,0,0,22,30,38,37,35,33,27,39,45,38,48,26,28,29,24,29,36,29,28,30,25,20,20,23,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,212,202,150,175,0,0,0,0,0,0,0,0,178,167,179,163,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,269,244,348,331,0,0,0,0,0,0,0,0,257,200,281,271,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,282,189,224,179,0,0,0,0,0,0,0,0,286,222,237,204,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,236,218,228,245,0,0,0,0,0,0,0,0,285,233,230,232,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,66,47,43,42,0,0,0,0,0,0,0,0,47,67,51,43,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,49,48,62,58,0,0,0,0,0,0,0,0,38,42,90,103,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,142,131,303,295,0,0,0,0,0,0,0,0,49,52,176,163,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,7,12,18,33,0,0,0,0,0,0,0,0,14,11,19,36,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,10,HSS (IX-XII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,56,65,57,72,0,0,0,0,0,0,0,0,57,49,55,80,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,10,HSS (IX-XII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,10,HSS (IX-XII),3,Local body,Rural,1,0,0,0,0,0,0,0,0,0,0,2,2,2,2,0,0,0,0,0,0,0,0,0,0,5,2,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,10,HSS (IX-XII),3,Local body,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7,11,8,6,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,10,HSS (IX-XII),3,Local body,Rural,1,0,0,0,0,0,0,0,0,0,0,12,21,17,37,0,0,0,0,0,0,0,0,14,26,15,20,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,3,5,3,12,0,0,0,0,0,0,0,0,0,3,2,8,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,15,34,21,60,0,0,0,0,0,0,0,0,11,26,7,27,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,17,12,13,0,0,0,0,0,0,0,0,0,8,13,5,2,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,2,2,1,2,0,0,0,0,0,0,0,0,1,3,1,2,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,4,3,2,5,10,5,10,0,0,0,0,0,3,5,3,5,5,4,5,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya,Rural,1,0,0,0,0,0,0,0,13,13,14,18,11,4,11,0,0,0,0,0,7,7,9,10,16,12,13,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,1,PS (I-V),1,Department of Education,Rural,1,0,0,98,89,104,110,103,0,0,0,0,0,0,0,107,120,141,124,148,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,1,PS (I-V),1,Department of Education,Rural,1,0,0,61,73,95,88,109,0,0,0,0,0,0,0,97,118,139,115,151,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),1,Department of Education,Rural,1,0,0,82,77,105,103,115,0,0,0,0,0,0,0,107,137,123,148,167,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,1,PS (I-V),1,Department of Education,Rural,1,0,0,87,91,99,107,114,0,0,0,0,0,0,0,124,139,110,131,153,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,1,PS (I-V),1,Department of Education,Urban,1,0,0,7,5,2,3,3,0,0,0,0,0,0,0,4,5,3,1,8,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,1,1,3,3,0,0,0,0,0,0,0,3,2,3,4,1,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),1,Department of Education,Urban,1,0,0,9,5,5,2,9,0,0,0,0,0,0,0,4,2,5,7,4,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,29,36,26,21,17,0,0,0,0,0,0,0,31,30,40,34,29,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),2,Tribal Welfare Department,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,1,PS (I-V),3,Local body,Rural,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),3,Local body,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,1,PS (I-V),3,Local body,Rural,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,3,4,1,1,3,0,3,0,0,0,0,0,0,0,1,0,2,1,1,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,3,2,2,3,7,0,0,0,0,0,0,0,3,4,2,4,4,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,5,4,2,1,3,0,0,0,0,0,0,0,0,0,2,4,0,3,2,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,10,4,8,6,8,0,0,0,0,0,0,0,2,9,10,7,5,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,6,3,6,4,1,0,0,0,0,0,0,0,5,5,1,4,2,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,1,2,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,2,4,4,2,3,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,21,13,9,13,11,13,13,16,11,8,10,0,0,0,9,7,8,6,11,6,4,4,5,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,29,24,39,33,30,37,23,35,37,22,35,34,0,0,34,34,22,26,23,28,25,25,33,29,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,32,32,22,21,29,27,26,25,32,18,0,0,23,21,29,18,16,23,15,16,28,11,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,78,63,103,123,124,126,103,112,78,75,76,74,0,0,89,105,116,85,100,92,86,94,104,105,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,73,88,47,61,47,34,40,48,63,48,0,0,45,58,41,35,26,28,34,25,53,45,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,12,0,12,11,10,12,12,8,14,16,4,4,0,0,7,13,9,7,14,4,8,11,10,8,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,5,5,37,35,62,52,54,71,87,78,57,49,0,0,30,23,53,58,60,58,56,45,36,35,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,184,153,183,200,199,171,192,180,189,173,188,183,0,0,146,124,117,128,130,122,139,150,186,143,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,40,26,0,0,0,0,0,0,0,0,0,0,41,37,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,74,83,0,0,0,0,0,0,0,0,0,0,133,108,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,93,83,0,0,0,0,0,0,0,0,0,0,95,104,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,62,79,0,0,0,0,0,0,0,0,0,0,119,119,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,11,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,23,16,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,8,SS (IX-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,15,14,0,0,0,0,0,0,0,0,0,0,19,14,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,8,SS (IX-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,4,5,0,0,0,0,0,0,0,0,0,0,2,3,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,8,SS (IX-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,2,5,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,8,SS (IX-X),6,Other Govt. managed schools,Rural,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,9,9,7,8,17,10,8,14,10,6,0,0,0,0,10,4,9,8,10,6,7,10,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,5,3,92,88,89,76,89,88,80,61,0,0,0,0,67,82,73,55,66,62,69,42,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,20,118,136,127,115,96,96,85,82,0,0,0,0,114,96,80,90,94,86,75,82,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,179,137,222,221,235,233,180,177,180,158,0,0,0,0,174,179,165,185,163,180,156,133,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,316,294,260,250,271,228,223,223,0,0,0,0,234,213,223,207,244,216,189,168,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,0,0,48,57,34,38,41,34,23,29,0,0,0,0,31,36,55,25,31,27,20,21,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,0,6,51,38,49,32,37,32,23,31,0,0,0,0,37,33,42,24,29,25,15,14,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,103,70,122,112,90,82,83,79,79,62,0,0,0,0,111,86,94,66,77,71,61,68,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,0,0,35,32,12,12,8,6,4,3,0,0,0,0,16,15,3,14,6,6,2,1,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,116,137,121,0,0,0,0,0,0,0,0,0,145,165,105,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,91,121,116,0,0,0,0,0,0,0,0,0,175,193,207,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,140,174,194,0,0,0,0,0,0,0,0,0,226,272,244,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,114,145,144,0,0,0,0,0,0,0,0,0,157,216,202,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,3,8,11,0,0,0,0,0,0,0,0,0,9,16,10,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,6,6,2,0,0,0,0,0,0,0,0,0,9,11,12,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,8,14,4,0,0,0,0,0,0,0,0,0,15,10,23,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,36,44,44,0,0,0,0,0,0,0,0,0,28,36,45,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,4,UPS (VI-VIII),2,Tribal Welfare Department,Urban,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,4,UPS (VI-VIII),2,Tribal Welfare Department,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,4,UPS (VI-VIII),3,Local body,Rural,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,4,UPS (VI-VIII),3,Local body,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,4,UPS (VI-VIII),3,Local body,Rural,1,0,0,0,0,0,0,0,0,6,1,0,0,0,0,0,0,0,0,0,1,4,1,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,4,UPS (VI-VIII),92,Kendriya Vidyalaya / Central School,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,3,HSS (I-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,1,5,2,2,0,0,0,0,0,0,0,0,1,3,2,1,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,25,13,19,21,18,14,16,8,4,12,6,8,7,10,15,7,14,4,3,10,3,6,10,3,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,5,11,10,9,16,10,9,9,12,17,9,6,11,6,13,4,11,5,7,9,14,11,3,3,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,4,12,6,8,10,7,10,11,11,9,10,10,1,4,4,5,6,2,3,4,4,7,41,3,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,0,0,4,1,1,1,0,0,0,1,0,0,1,0,1,0,2,0,1,2,1,0,1,1,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,0,2,13,9,12,8,12,5,10,5,11,16,9,8,5,8,10,4,6,5,4,4,4,4,13,5,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,10,3,13,16,8,14,11,16,27,19,18,33,12,22,16,11,8,6,6,8,7,14,22,15,12,19,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,Urban,2,0,0,7,6,4,8,6,7,10,2,4,3,0,1,6,4,8,4,1,1,3,5,0,1,1,1,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,2,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,118,79,48,28,0,0,0,0,0,0,0,0,120,84,43,33,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,265,167,82,78,0,0,0,0,0,0,0,0,218,168,80,54,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,268,164,91,96,0,0,0,0,0,0,0,0,267,158,102,81,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,387,191,98,100,0,0,0,0,0,0,0,0,394,205,83,65,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,21,22,10,10,0,0,0,0,0,0,0,0,26,28,9,18,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,90,66,41,43,0,0,0,0,0,0,0,0,64,40,43,42,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,114,69,78,86,0,0,0,0,0,0,0,0,58,17,48,52,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,15,7,8,11,0,0,0,0,0,0,0,0,16,10,9,6,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,10,HSS (IX-XII),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,105,82,43,55,0,0,0,0,0,0,0,0,114,112,80,93,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,10,HSS (IX-XII),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,4,8,3,4,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,10,HSS (IX-XII),3,Local body,Rural,2,0,0,0,0,0,0,0,0,0,0,6,5,2,3,0,0,0,0,0,0,0,0,3,4,0,2,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,10,HSS (IX-XII),3,Local body,Rural,2,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,10,6,9,1,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,10,HSS (IX-XII),3,Local body,Rural,2,0,0,0,0,0,0,0,0,0,0,14,17,9,12,0,0,0,0,0,0,0,0,7,20,5,2,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,1,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,1,10,5,13,0,0,0,0,0,0,0,0,4,15,2,13,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,1,5,4,2,0,0,0,0,0,0,0,0,5,7,5,1,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya,Rural,2,0,0,0,0,0,0,0,11,13,13,9,7,10,7,0,0,0,0,0,3,5,1,3,4,3,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,1,PS (I-V),1,Department of Education,Rural,2,0,0,118,143,147,121,157,0,0,0,0,0,0,0,136,142,172,135,138,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,1,PS (I-V),1,Department of Education,Rural,2,0,0,280,340,317,294,367,0,0,0,0,0,0,0,293,371,335,319,401,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),1,Department of Education,Rural,2,0,0,386,406,417,396,447,0,0,0,0,0,0,0,428,462,452,417,450,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,1,PS (I-V),1,Department of Education,Rural,2,0,0,313,344,335,286,339,0,0,0,0,0,0,0,333,321,344,282,402,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,1,PS (I-V),1,Department of Education,Urban,2,0,0,4,3,2,9,2,0,0,0,0,0,0,0,6,6,4,3,7,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,1,PS (I-V),1,Department of Education,Urban,2,0,0,15,21,24,18,17,0,0,0,0,0,0,0,28,29,21,27,39,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),1,Department of Education,Urban,2,0,0,22,21,33,18,35,0,0,0,0,0,0,0,33,18,23,30,44,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,52,73,60,60,54,0,0,0,0,0,0,0,53,68,60,45,58,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,3,2,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0,3,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),2,Tribal Welfare Department,Urban,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,1,PS (I-V),3,Local body,Rural,2,0,0,3,2,0,1,2,0,0,0,0,0,0,0,5,3,1,1,1,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),3,Local body,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,1,PS (I-V),3,Local body,Rural,2,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,1,1,7,2,0,7,3,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,4,4,10,3,4,0,0,0,0,0,0,0,0,2,1,2,5,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,4,2,9,9,13,4,4,0,0,0,0,0,0,0,4,6,6,1,2,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,2,3,8,13,16,10,10,0,0,0,0,0,0,0,10,10,5,10,4,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,7,2,4,4,2,0,0,0,0,0,0,0,4,3,3,1,1,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,1,2,2,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,4,4,1,1,2,0,0,0,0,0,0,0,4,2,1,1,0,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,6,3,3,1,2,3,0,2,2,3,1,0,0,0,1,2,3,1,0,0,0,1,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,14,7,4,3,3,2,4,2,1,6,5,3,0,0,3,4,6,4,4,1,0,2,1,3,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,26,32,15,12,11,13,7,7,9,2,0,0,17,20,10,4,5,4,3,1,6,10,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,23,14,30,34,30,28,29,21,18,20,9,10,0,0,17,22,28,9,20,10,10,11,6,9,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,27,19,15,5,7,7,8,13,14,11,0,0,10,12,13,3,4,4,1,2,4,9,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,0,0,2,2,1,0,1,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,0,0,41,15,22,23,18,18,18,14,12,21,0,0,24,11,20,9,14,9,10,14,12,9,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,33,23,48,37,37,34,37,41,20,31,44,27,0,0,42,30,27,23,40,29,16,57,26,21,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,35,23,0,0,0,0,0,0,0,0,0,0,38,37,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,130,107,0,0,0,0,0,0,0,0,0,0,145,115,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,214,165,0,0,0,0,0,0,0,0,0,0,229,148,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,116,64,0,0,0,0,0,0,0,0,0,0,107,83,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,28,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,63,7,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,8,SS (IX-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,36,19,0,0,0,0,0,0,0,0,0,0,23,29,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,8,SS (IX-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,2,3,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,8,SS (IX-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,2,2,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,8,SS (IX-X),6,Other Govt. managed schools,Rural,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,10,7,18,7,14,10,3,2,5,2,0,0,0,0,14,9,8,7,3,1,2,1,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,4,6,53,33,34,25,32,21,14,20,0,0,0,0,17,27,22,25,14,10,11,8,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,5,80,68,52,64,63,43,32,23,0,0,0,0,66,61,46,33,31,22,21,9,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,88,71,193,154,120,116,109,100,94,84,0,0,0,0,137,105,96,78,70,51,48,31,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,181,152,131,116,97,81,79,74,0,0,0,0,135,104,95,86,53,62,59,37,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,0,4,7,2,8,4,10,6,6,0,0,0,0,6,1,6,3,6,2,4,5,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,2,38,31,35,29,25,22,14,12,0,0,0,0,38,27,20,14,11,9,14,12,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,38,39,61,52,34,54,29,34,19,23,0,0,0,0,58,31,31,38,28,20,18,19,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,0,11,10,9,5,3,1,3,2,0,0,0,0,10,11,3,2,3,0,4,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,124,125,100,0,0,0,0,0,0,0,0,0,114,143,79,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,362,416,368,0,0,0,0,0,0,0,0,0,371,336,367,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,391,483,432,0,0,0,0,0,0,0,0,0,472,479,454,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,338,454,379,0,0,0,0,0,0,0,0,0,341,388,354,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,9,15,15,0,0,0,0,0,0,0,0,0,5,15,6,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,30,43,30,0,0,0,0,0,0,0,0,0,48,41,31,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,36,36,40,0,0,0,0,0,0,0,0,0,58,77,58,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,67,70,73,0,0,0,0,0,0,0,0,0,70,76,57,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,4,UPS (VI-VIII),2,Tribal Welfare Department,Urban,2,0,0,0,0,0,0,0,3,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,4,UPS (VI-VIII),2,Tribal Welfare Department,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,4,UPS (VI-VIII),3,Local body,Rural,2,0,0,0,0,0,0,0,4,8,4,0,0,0,0,0,0,0,0,0,9,7,4,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,4,UPS (VI-VIII),3,Local body,Rural,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,4,UPS (VI-VIII),3,Local body,Rural,2,0,0,0,0,0,0,0,4,3,3,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,4,UPS (VI-VIII),92,Kendriya Vidyalaya / Central School,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,3,HSS (I-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,3,9,3,2,0,0,0,0,0,0,0,0,2,5,1,2,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,16,18,11,18,7,14,6,4,4,9,7,10,10,9,7,11,5,10,3,3,7,4,4,6,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,7,12,15,14,10,14,14,4,7,9,8,14,10,9,18,10,9,5,9,6,12,14,9,9,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,1,9,5,5,8,2,5,3,8,4,1,3,2,3,5,4,3,4,3,2,7,5,3,3,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,3,3,2,1,2,0,2,1,4,5,1,3,5,2,3,0,0,1,1,1,1,3,2,5,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,3,22,16,12,9,4,10,6,8,14,25,8,9,9,8,1,3,1,0,1,3,24,2,14,30,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,19,14,20,19,24,25,19,23,19,15,37,52,35,57,5,17,15,14,9,16,9,7,19,39,32,36,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,Urban,3,0,0,8,7,4,5,3,8,8,7,6,2,2,0,3,2,4,4,11,3,4,6,6,1,1,1,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,15,13,8,9,0,0,0,0,0,0,0,0,2,5,6,1,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,385,230,113,86,0,0,0,0,0,0,0,0,429,333,168,114,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,309,166,89,61,0,0,0,0,0,0,0,0,327,144,65,49,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,461,215,99,98,0,0,0,0,0,0,0,0,555,399,148,144,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,309,128,68,62,0,0,0,0,0,0,0,0,311,150,70,43,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,41,39,28,14,0,0,0,0,0,0,0,0,41,30,29,31,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,64,24,9,13,0,0,0,0,0,0,0,0,86,44,11,15,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,123,83,93,45,0,0,0,0,0,0,0,0,89,40,58,54,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,7,3,5,1,0,0,0,0,0,0,0,0,19,30,13,17,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,10,HSS (IX-XII),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,335,214,150,156,0,0,0,0,0,0,0,0,289,276,190,196,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,10,HSS (IX-XII),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,68,49,8,20,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,10,HSS (IX-XII),3,Local body,Rural,3,0,0,0,0,0,0,0,0,0,0,3,9,1,0,0,0,0,0,0,0,0,0,12,3,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,10,HSS (IX-XII),3,Local body,Rural,3,0,0,0,0,0,0,0,0,0,0,15,6,7,10,0,0,0,0,0,0,0,0,23,13,8,6,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,10,HSS (IX-XII),3,Local body,Rural,3,0,0,0,0,0,0,0,0,0,0,12,10,2,6,0,0,0,0,0,0,0,0,9,5,1,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,1,9,4,16,0,0,0,0,0,0,0,0,3,10,0,17,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,5,3,3,0,0,0,0,0,0,0,0,0,6,0,2,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,2,5,5,2,0,0,0,0,0,0,0,0,2,5,1,4,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya,Rural,3,0,0,0,0,0,0,0,18,24,18,19,22,27,12,0,0,0,0,0,9,5,10,8,6,5,8,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,1,PS (I-V),1,Department of Education,Rural,3,0,0,464,576,529,522,636,0,0,0,0,0,0,0,499,612,535,495,563,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,1,PS (I-V),1,Department of Education,Rural,3,0,0,587,712,650,575,659,0,0,0,0,0,0,0,586,741,630,553,591,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),1,Department of Education,Rural,3,0,0,1051,1137,1142,983,1117,0,0,0,0,0,0,0,1081,1064,1092,934,1125,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,1,PS (I-V),1,Department of Education,Rural,3,0,0,614,686,607,579,697,0,0,0,0,0,0,0,644,627,640,576,669,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,1,PS (I-V),1,Department of Education,Urban,3,0,0,22,8,16,13,13,0,0,0,0,0,0,0,22,25,13,15,14,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,1,PS (I-V),1,Department of Education,Urban,3,0,0,28,18,18,22,23,0,0,0,0,0,0,0,13,21,22,17,13,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),1,Department of Education,Urban,3,0,0,29,33,23,29,34,0,0,0,0,0,0,0,35,38,27,35,32,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,467,560,559,453,529,0,0,0,0,0,0,0,545,592,544,520,576,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,11,11,8,12,18,0,0,0,0,0,0,0,16,20,23,24,37,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,16,22,33,22,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,11,7,8,4,10,0,0,0,0,0,0,0,28,59,31,44,31,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),2,Tribal Welfare Department,Urban,3,0,0,13,8,11,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,1,PS (I-V),3,Local body,Rural,3,0,0,2,0,0,0,9,0,0,0,0,0,0,0,1,0,11,5,6,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),3,Local body,Rural,3,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,1,PS (I-V),3,Local body,Rural,3,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,65,28,33,34,25,14,15,0,0,0,0,0,0,0,11,20,15,9,7,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,14,6,7,7,15,0,0,0,0,0,0,0,10,7,5,7,5,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,4,2,9,5,3,1,2,0,0,0,0,0,0,0,5,7,4,5,0,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,31,24,16,18,24,18,10,0,0,0,0,0,0,0,16,17,24,11,4,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,15,12,13,8,5,0,0,0,0,0,0,0,18,4,11,6,6,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,11,3,6,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,1,2,1,1,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,3,0,0,2,3,2,2,0,0,0,0,0,0,0,0,1,1,2,1,2,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,12,3,0,3,3,0,2,1,1,1,1,0,0,0,2,2,1,0,1,0,1,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,33,21,20,12,10,20,12,7,9,3,12,3,0,0,13,3,12,6,4,2,5,2,5,4,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,23,10,12,10,6,6,1,7,3,4,0,0,13,16,5,6,2,7,5,2,5,6,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,10,12,7,17,13,13,6,14,12,5,9,3,0,0,11,7,13,10,7,10,4,7,4,6,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,11,11,15,11,4,1,6,9,11,4,0,0,8,7,8,4,4,4,3,3,6,2,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,2,0,0,0,4,0,3,1,0,1,0,0,0,0,0,1,4,3,1,1,3,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,5,5,31,17,15,21,2,10,2,12,13,17,0,0,11,8,6,13,0,3,2,2,14,2,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,15,9,32,32,21,26,40,37,24,19,39,24,0,0,14,13,29,21,21,19,15,19,22,13,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,149,74,0,0,0,0,0,0,0,0,0,0,138,98,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,176,74,0,0,0,0,0,0,0,0,0,0,179,98,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,378,189,0,0,0,0,0,0,0,0,0,0,410,232,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,162,83,0,0,0,0,0,0,0,0,0,0,238,96,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,4,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,6,5,0,0,0,0,0,0,0,0,0,0,49,11,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,8,SS (IX-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,256,164,0,0,0,0,0,0,0,0,0,0,231,200,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,8,SS (IX-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,12,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,2,3,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,2,2,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,8,SS (IX-X),6,Other Govt. managed schools,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,0,1,0,1,1,2,2,4,0,0,0,0,1,1,0,0,0,8,6,8,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,37,26,87,61,61,66,56,37,44,35,0,0,0,0,37,34,29,25,37,23,18,17,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,6,7,93,75,82,82,71,58,49,34,0,0,0,0,53,49,50,48,42,45,33,19,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,5,86,93,100,82,50,56,34,30,0,0,0,0,52,58,60,50,34,29,24,12,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,126,94,209,214,156,153,124,101,82,79,0,0,0,0,162,151,99,87,75,60,43,44,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,157,176,154,118,114,80,83,60,0,0,0,0,140,110,117,58,35,53,26,38,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,6,0,2,1,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,13,12,9,4,4,6,3,6,0,0,0,0,11,4,5,6,7,1,2,4,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,21,12,12,8,15,9,6,5,0,0,0,0,9,9,7,8,9,8,8,2,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,50,31,74,51,43,37,31,35,31,41,0,0,0,0,57,37,37,36,35,29,22,15,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,6,6,1,2,3,3,4,2,0,0,0,0,2,4,5,0,0,0,1,3,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,582,555,393,0,0,0,0,0,0,0,0,0,565,454,391,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,660,662,569,0,0,0,0,0,0,0,0,0,621,609,551,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,1089,1162,1048,0,0,0,0,0,0,0,0,0,1007,1035,1042,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,627,747,625,0,0,0,0,0,0,0,0,0,648,620,580,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,25,29,34,0,0,0,0,0,0,0,0,0,40,36,29,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,41,39,33,0,0,0,0,0,0,0,0,0,27,23,19,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,70,98,72,0,0,0,0,0,0,0,0,0,87,82,102,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,553,564,528,0,0,0,0,0,0,0,0,0,568,581,499,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,5,5,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,23,17,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,20,7,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,4,UPS (VI-VIII),2,Tribal Welfare Department,Urban,3,0,0,0,0,0,0,0,37,49,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,4,UPS (VI-VIII),2,Tribal Welfare Department,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,23,21,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,4,UPS (VI-VIII),3,Local body,Rural,3,0,0,0,0,0,0,0,5,7,2,0,0,0,0,0,0,0,0,0,6,4,2,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,4,UPS (VI-VIII),3,Local body,Rural,3,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,4,UPS (VI-VIII),3,Local body,Rural,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,4,UPS (VI-VIII),92,Kendriya Vidyalaya / Central School,Rural,3,0,0,0,0,0,0,0,19,29,25,0,0,0,0,0,0,0,0,0,20,26,30,0,0,0,0,ST
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,3,HSS (I-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,3,15,6,6,0,0,0,0,0,0,0,0,5,16,5,3,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,56,51,63,96,59,56,47,60,59,64,62,49,41,60,49,48,43,40,26,32,53,16,34,42,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,28,41,39,40,45,42,52,48,68,58,36,36,25,15,21,27,32,24,28,23,38,39,24,23,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,54,65,74,62,75,67,78,77,107,139,88,55,31,65,36,43,34,43,41,45,81,75,57,54,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,0,0,14,9,7,4,5,3,11,10,10,14,5,11,10,6,3,10,2,5,6,3,6,12,3,4,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,0,14,41,33,27,43,35,37,49,49,58,84,99,91,30,31,16,16,17,9,24,20,28,67,54,32,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,48,38,67,72,93,66,88,100,73,101,162,163,134,155,49,54,71,61,46,51,71,49,76,84,114,92,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,Urban,4,0,0,9,4,9,5,3,9,7,2,4,0,3,1,8,4,8,3,5,6,4,2,2,0,1,3,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,520,307,173,156,0,0,0,0,0,0,0,0,498,330,208,158,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,460,325,233,202,0,0,0,0,0,0,0,0,448,310,182,174,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,594,373,280,228,0,0,0,0,0,0,0,0,671,418,268,252,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,866,515,297,340,0,0,0,0,0,0,0,0,830,551,285,279,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,98,51,37,47,0,0,0,0,0,0,0,0,98,48,51,51,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,107,95,70,84,0,0,0,0,0,0,0,0,169,103,121,128,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,255,149,225,221,0,0,0,0,0,0,0,0,122,63,149,114,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,74,46,51,60,0,0,0,0,0,0,0,0,93,58,43,64,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,10,HSS (IX-XII),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,157,156,97,120,0,0,0,0,0,0,0,0,157,159,86,95,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,10,HSS (IX-XII),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,3,2,3,1,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,10,HSS (IX-XII),3,Local body,Rural,4,0,0,0,0,0,0,0,0,0,0,8,7,9,3,0,0,0,0,0,0,0,0,14,15,9,2,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,10,HSS (IX-XII),3,Local body,Rural,4,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,32,31,10,5,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,10,HSS (IX-XII),3,Local body,Rural,4,0,0,0,0,0,0,0,0,0,0,24,36,21,18,0,0,0,0,0,0,0,0,15,27,17,17,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,7,3,4,8,0,0,0,0,0,0,0,0,5,0,0,9,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,18,45,22,48,0,0,0,0,0,0,0,0,19,21,14,28,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,7,8,14,1,0,0,0,0,0,0,0,0,7,6,3,3,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,1,3,1,3,0,0,0,0,0,0,0,0,2,3,2,2,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya,Rural,4,0,0,0,0,0,0,0,9,12,6,9,12,12,9,0,0,0,0,0,4,9,4,6,1,8,4,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,1,PS (I-V),1,Department of Education,Rural,4,0,0,406,480,434,408,498,0,0,0,0,0,0,0,469,500,557,468,577,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,1,PS (I-V),1,Department of Education,Rural,4,0,0,426,474,519,452,585,0,0,0,0,0,0,0,476,596,596,537,669,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),1,Department of Education,Rural,4,0,0,639,622,657,611,718,0,0,0,0,0,0,0,646,719,759,693,780,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,1,PS (I-V),1,Department of Education,Rural,4,0,0,780,779,792,755,830,0,0,0,0,0,0,0,878,898,848,850,978,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,1,PS (I-V),1,Department of Education,Urban,4,0,0,8,13,13,9,8,0,0,0,0,0,0,0,11,15,14,18,19,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,1,PS (I-V),1,Department of Education,Urban,4,0,0,32,35,38,24,34,0,0,0,0,0,0,0,20,42,41,40,50,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),1,Department of Education,Urban,4,0,0,40,25,32,33,53,0,0,0,0,0,0,0,42,40,54,55,54,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,146,155,165,153,177,0,0,0,0,0,0,0,155,173,184,176,165,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),2,Tribal Welfare Department,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,1,PS (I-V),3,Local body,Rural,4,0,0,1,0,1,0,10,0,0,0,0,0,0,0,3,2,2,0,7,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),3,Local body,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,1,PS (I-V),3,Local body,Rural,4,0,0,4,1,2,6,1,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,1,2,4,2,5,2,4,0,0,0,0,0,0,0,3,0,0,2,1,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,24,10,16,13,20,0,0,0,0,0,0,0,20,10,13,16,7,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,15,21,25,28,17,15,4,0,0,0,0,0,0,0,25,30,14,18,8,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,8,1,13,16,15,11,9,0,0,0,0,0,0,0,13,13,9,12,7,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,46,21,27,15,26,0,0,0,0,0,0,0,40,25,21,13,16,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,19,3,5,4,1,6,1,0,0,0,0,0,0,0,1,4,3,2,0,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,12,5,9,3,9,0,0,0,0,0,0,0,9,4,5,11,4,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,6,12,5,1,2,0,0,0,0,0,0,0,6,7,4,0,3,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,4,0,0,0,0,1,2,1,0,0,0,0,0,0,0,1,1,1,2,1,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,4,0,0,9,11,11,19,15,0,0,0,0,0,0,0,13,10,12,19,7,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,27,16,11,8,11,11,5,7,8,13,12,0,0,0,7,5,1,5,7,4,1,1,4,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,57,30,54,43,42,24,28,35,21,27,49,32,0,0,34,22,33,23,21,21,11,16,19,22,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,41,25,20,27,19,26,14,19,34,13,0,0,31,20,22,22,14,14,8,9,31,5,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,54,40,69,78,77,75,69,39,44,39,43,40,0,0,47,49,56,42,42,36,26,26,27,22,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,90,88,68,56,42,53,57,60,96,76,0,0,59,46,43,43,33,27,28,26,70,78,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,0,0,21,13,10,8,8,8,13,12,7,10,0,0,8,8,9,5,8,8,7,9,4,5,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,0,0,68,54,59,63,69,70,66,64,76,69,0,0,39,46,37,44,54,56,45,43,41,69,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,85,71,169,158,144,140,143,146,121,123,190,104,0,0,120,133,118,93,95,92,70,91,108,66,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,148,92,0,0,0,0,0,0,0,0,0,0,157,104,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,300,217,0,0,0,0,0,0,0,0,0,0,350,238,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,400,278,0,0,0,0,0,0,0,0,0,0,377,323,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,377,265,0,0,0,0,0,0,0,0,0,0,550,272,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,33,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,30,6,0,0,0,0,0,0,0,0,0,0,104,27,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,8,SS (IX-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,125,95,0,0,0,0,0,0,0,0,0,0,117,118,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,8,SS (IX-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,2,3,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,8,SS (IX-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,0,5,5,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,8,SS (IX-X),6,Other Govt. managed schools,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,0,1,0,2,3,1,2,1,0,0,0,0,1,3,4,1,1,0,1,4,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,41,16,37,32,33,37,18,19,13,16,0,0,0,0,26,22,33,18,22,15,12,9,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,21,8,170,186,141,176,160,157,121,95,0,0,0,0,106,122,111,107,92,73,77,64,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,19,197,229,214,199,206,176,161,109,0,0,0,0,163,173,140,147,149,104,68,79,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,237,162,456,410,408,358,365,346,286,260,0,0,0,0,330,289,263,244,275,221,199,171,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,840,706,665,622,542,541,471,443,0,0,0,0,606,553,551,521,439,394,320,284,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,0,5,3,8,3,2,2,5,0,0,0,0,0,7,2,3,0,1,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,0,29,38,23,36,30,27,27,21,0,0,0,0,22,20,16,13,19,14,16,12,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,10,105,83,100,96,85,80,69,63,0,0,0,0,92,73,86,63,43,62,55,48,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,138,84,148,167,142,119,106,106,95,108,0,0,0,0,118,117,95,93,122,75,68,69,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,0,43,22,15,12,15,20,11,7,0,0,0,0,15,18,17,15,13,9,8,7,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,4,0,0,6,14,9,12,11,19,15,17,0,0,0,0,13,8,13,11,20,13,18,13,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,495,556,380,0,0,0,0,0,0,0,0,0,546,573,448,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,547,669,677,0,0,0,0,0,0,0,0,0,711,732,729,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,729,858,783,0,0,0,0,0,0,0,0,0,810,932,839,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,939,1021,899,0,0,0,0,0,0,0,0,0,942,1023,998,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,24,35,19,0,0,0,0,0,0,0,0,0,21,42,27,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,35,58,54,0,0,0,0,0,0,0,0,0,57,72,58,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,62,74,56,0,0,0,0,0,0,0,0,0,77,78,73,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,201,203,209,0,0,0,0,0,0,0,0,0,197,208,171,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231704,MAJHAULI,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,4,UPS (VI-VIII),2,Tribal Welfare Department,Urban,4,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,4,UPS (VI-VIII),2,Tribal Welfare Department,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231705,RAMPUR NAIKIN,4,UPS (VI-VIII),3,Local body,Rural,4,0,0,0,0,0,0,0,10,7,1,0,0,0,0,0,0,0,0,0,7,9,2,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231706,SIDHI,4,UPS (VI-VIII),3,Local body,Rural,4,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,2,2,12,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231707,SIHAWAL,4,UPS (VI-VIII),3,Local body,Rural,4,0,0,0,0,0,0,0,7,9,5,0,0,0,0,0,0,0,0,0,5,7,1,0,0,0,0,OBC
+2018-19,23,Madhya Pradesh,2317,SIDHI,231703,KUSAMI,4,UPS (VI-VIII),92,Kendriya Vidyalaya / Central School,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC

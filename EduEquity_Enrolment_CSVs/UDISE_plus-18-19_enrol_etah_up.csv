@@ -1,0 +1,873 @@
+ac_year,state_code,state_name,district_code,district_name,block_code,block_name,sch_category_id,category_name,sch_mgmt_id,sch_mgmt_name,loc_name,caste_id,pre_primary_boys,pre_primary_girls,class_1_boys,class_2_boys,class_3_boys,class_4_boys,class_5_boys,class_6_boys,class_7_boys,class_8_boys,class_9_boys,class_10_boys,class_11_boys,class_12_boys,class_1_girls,class_2_girls,class_3_girls,class_4_girls,class_5_girls,class_6_girls,class_7_girls,class_8_girls,class_9_girls,class_10_girls,class_11_girls,class_12_girls,caste_name
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,3,HSS (I-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,2,5,0,2,3,3,10,3,3,1,General
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),3,HSS (I-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,12,10,17,19,32,34,28,47,52,115,69,General
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),3,HSS (I-XII),4,Government Aided,Urban,1,0,0,7,8,7,12,3,0,0,0,0,0,0,0,8,13,15,29,21,31,33,34,76,60,41,37,General
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,15,10,15,20,15,21,20,23,46,43,44,35,10,7,8,10,8,10,11,8,11,14,18,9,General
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,10,13,16,18,21,21,21,31,76,72,42,60,9,7,10,7,10,10,9,11,32,30,21,26,General
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,1,1,2,14,22,6,4,0,0,0,0,0,0,0,1,12,9,6,3,General
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,2,3,1,1,2,0,0,0,0,0,0,0,3,2,2,3,4,2,2,1,0,2,0,4,General
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,3,5,9,10,7,3,5,0,0,0,0,0,7,7,16,5,7,5,8,General
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,12,8,18,22,25,15,13,58,66,66,95,70,68,61,11,16,14,6,14,40,41,48,51,47,27,39,General
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,0,0,138,145,145,102,129,140,139,127,138,131,94,101,85,75,118,117,126,76,82,91,103,103,71,86,General
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,80,91,94,99,0,0,0,0,0,0,0,0,53,53,55,55,General
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,17,28,27,20,0,0,0,0,0,0,0,0,10,7,10,7,General
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,95,91,161,149,0,0,0,0,0,0,0,0,58,61,81,89,General
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,15,22,16,8,0,0,0,0,0,0,0,0,7,9,11,9,General
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,11,25,29,36,0,0,0,0,0,0,0,0,16,27,12,16,General
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,47,75,66,93,0,0,0,0,0,0,0,0,28,57,49,38,General
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,51,49,56,81,0,0,0,0,0,0,0,0,16,24,33,43,General
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,55,54,40,46,0,0,0,0,0,0,0,0,41,43,25,31,General
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,2,2,1,General
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,1,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,21,18,7,16,0,0,0,0,0,0,0,0,6,8,5,3,General
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,4,7,5,4,0,0,0,0,0,0,0,0,3,5,2,2,General
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,23,62,39,40,0,0,0,0,0,0,0,0,6,29,16,25,General
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,5,0,0,1,0,0,0,0,0,0,0,0,5,7,5,20,32,18,35,General
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,5,0,0,16,0,0,0,0,0,0,0,0,4,0,0,11,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,6,2,4,4,4,2,3,General
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,3,5,2,2,11,17,17,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,8,12,19,11,12,General
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,25,22,64,78,73,135,80,0,0,0,0,0,5,4,14,39,21,42,35,General
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,21,29,22,62,72,82,61,0,0,0,0,0,24,23,20,88,66,59,56,General
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,38,61,74,79,69,55,74,0,0,0,0,0,35,41,58,80,79,62,73,General
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,8,18,18,29,35,27,17,0,0,0,0,0,10,15,15,37,42,35,21,General
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,19,7,11,21,21,22,10,0,0,0,0,0,8,10,4,14,22,9,10,General
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,15,23,27,51,35,37,26,0,0,0,0,0,11,23,12,35,27,42,28,General
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,21,11,23,17,23,31,31,0,0,0,0,0,24,7,17,12,29,24,27,General
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,30,42,58,27,32,61,53,0,0,0,0,0,7,9,5,7,5,24,26,General
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,5,HSS (VI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,7,12,11,7,9,7,8,0,0,0,0,0,3,6,8,8,7,8,10,General
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,5,HSS (VI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,21,25,37,55,0,79,0,0,0,0,0,0,13,25,24,28,0,47,General
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),5,HSS (VI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,18,33,52,86,67,120,81,0,0,0,0,0,14,10,13,24,26,23,25,General
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),5,HSS (VI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,26,9,64,39,53,78,73,0,0,0,0,0,8,7,24,42,26,35,38,General
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),5,HSS (VI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,4,1,7,16,11,13,19,0,0,0,0,0,6,10,2,3,11,11,12,General
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,81,86,84,137,117,149,126,0,0,0,0,0,56,66,79,75,135,91,96,General
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,16,13,13,30,53,56,54,0,0,0,0,0,15,16,20,40,38,51,38,General
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,40,45,45,45,51,77,73,0,0,0,0,0,24,21,21,37,25,31,35,General
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,38,39,39,74,102,104,107,0,0,0,0,0,27,21,18,58,42,69,62,General
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,24,17,17,24,24,18,25,0,0,0,0,0,20,20,26,33,32,39,25,General
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,51,59,66,85,99,92,116,0,0,0,0,0,29,50,38,55,52,57,58,General
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,50,45,52,52,72,71,83,0,0,0,0,0,19,24,36,31,41,43,67,General
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,89,108,99,103,108,141,132,0,0,0,0,0,70,81,78,76,85,98,77,General
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,3,5,8,36,28,36,50,0,0,0,0,0,2,4,6,11,9,15,29,General
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,8,1,4,14,17,15,23,0,0,0,0,0,3,2,10,6,2,17,11,General
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,15,13,20,14,9,15,10,0,0,0,0,0,3,3,3,7,6,10,6,General
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,2,2,2,2,0,4,4,0,0,0,0,0,1,2,3,4,1,12,3,General
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,8,11,7,5,7,6,6,0,0,0,0,0,5,4,3,1,2,2,2,General
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,153,188,170,162,138,128,138,0,0,0,0,0,87,94,92,126,142,130,119,General
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,17,14,7,22,40,12,25,0,0,0,0,0,7,9,5,7,18,9,14,General
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya,Rural,1,0,0,0,0,0,0,0,3,2,5,5,8,7,5,0,0,0,0,0,4,5,3,8,6,3,7,General
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,1,PS (I-V),1,Department of Education,Rural,1,0,0,131,145,210,140,142,0,0,0,0,0,0,0,166,202,201,147,154,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,1,PS (I-V),1,Department of Education,Rural,1,0,0,100,96,97,72,99,0,0,0,0,0,0,0,76,112,104,100,67,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,1,PS (I-V),1,Department of Education,Rural,1,0,0,193,187,169,148,141,0,0,0,0,0,0,0,176,188,190,184,172,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,1,PS (I-V),1,Department of Education,Rural,1,0,0,110,118,119,103,103,0,0,0,0,0,0,0,101,110,111,109,120,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,1,PS (I-V),1,Department of Education,Rural,1,0,0,67,69,57,61,51,0,0,0,0,0,0,0,87,80,71,68,44,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,1,PS (I-V),1,Department of Education,Rural,1,0,0,47,60,57,41,43,0,0,0,0,0,0,0,51,49,45,56,49,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,1,PS (I-V),1,Department of Education,Rural,1,0,0,46,51,40,38,24,0,0,0,0,0,0,0,39,55,59,47,48,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,1,PS (I-V),1,Department of Education,Rural,1,0,0,71,99,72,68,53,0,0,0,0,0,0,0,77,110,88,103,84,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,1,PS (I-V),1,Department of Education,Urban,1,0,0,1,3,0,0,3,0,0,0,0,0,0,0,1,3,1,0,0,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,1,PS (I-V),1,Department of Education,Urban,1,0,0,4,0,0,0,2,0,0,0,0,0,0,0,3,3,3,2,1,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),1,PS (I-V),1,Department of Education,Urban,1,0,0,10,16,11,12,2,0,0,0,0,0,0,0,13,5,13,15,10,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),1,PS (I-V),1,Department of Education,Urban,1,0,0,17,16,5,4,4,0,0,0,0,0,0,0,14,5,7,7,12,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),1,PS (I-V),1,Department of Education,Urban,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),1,PS (I-V),2,Tribal Welfare Department,Urban,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,1,PS (I-V),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,250,211,208,213,182,0,0,0,0,0,0,0,198,177,158,171,132,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,18,8,174,150,170,152,163,0,0,0,0,0,0,0,151,114,125,91,96,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,386,298,296,292,291,0,0,0,0,0,0,0,255,227,205,222,218,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,63,56,58,62,72,0,0,0,0,0,0,0,63,52,52,54,53,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,77,46,40,21,22,0,0,0,0,0,0,0,52,36,37,15,12,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,86,59,57,51,54,0,0,0,0,0,0,0,74,61,41,38,37,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,153,109,131,103,116,0,0,0,0,0,0,0,118,102,108,96,91,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,104,86,98,86,106,0,0,0,0,0,0,0,84,59,65,64,66,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,40,0,1,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,1,4,4,3,1,0,0,0,0,0,0,0,1,2,3,2,5,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,28,29,27,24,19,0,0,0,0,0,0,0,22,14,20,14,17,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,3,0,0,2,2,0,0,0,0,0,0,0,3,2,0,3,0,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,5,4,6,0,11,0,0,0,0,0,0,0,11,8,5,3,4,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),1,PS (I-V),5,Private Unaided (Recognized),Urban,1,5,3,192,199,150,196,191,0,0,0,0,0,0,0,189,154,160,168,135,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,105,94,84,73,80,0,0,0,0,0,0,0,74,95,69,65,76,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,47,12,17,39,19,0,0,0,0,0,0,0,31,5,10,26,12,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,1,0,0,33,36,49,54,43,0,0,0,0,0,0,0,31,31,37,57,37,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,1,0,0,70,53,33,35,25,0,0,0,0,0,0,0,55,27,30,16,24,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,1,0,0,17,23,20,19,22,0,0,0,0,0,0,0,13,15,21,16,13,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,1,0,0,15,2,3,3,3,0,0,0,0,0,0,0,10,1,2,2,2,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,1,0,0,7,8,8,10,9,0,0,0,0,0,0,0,4,5,7,8,7,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,4,4,5,4,6,6,4,8,4,10,0,0,3,3,5,5,3,3,6,4,5,3,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,3,1,5,1,3,1,2,3,21,23,0,0,2,3,2,0,6,2,1,1,13,26,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,30,30,25,25,25,25,21,27,26,29,0,0,26,23,18,19,18,21,16,14,22,15,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,9,2,0,0,0,0,0,0,0,0,0,0,1,2,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,2,4,5,1,3,8,3,4,0,0,0,0,0,0,0,7,2,7,4,2,0,2,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,8,9,10,10,6,10,8,9,15,9,0,0,4,6,6,6,4,2,5,4,9,4,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,11,18,18,13,9,7,7,12,11,1,0,0,9,9,10,4,7,3,4,9,11,12,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),6,SS (I-X),5,Private Unaided (Recognized),Urban,1,0,0,0,3,1,2,0,8,5,6,5,4,0,0,0,4,0,5,3,3,3,2,1,1,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),6,SS (I-X),5,Private Unaided (Recognized),Urban,1,0,0,3,5,7,5,6,18,14,18,14,4,0,0,3,2,4,5,5,5,6,8,2,5,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),6,SS (I-X),92,Kendriya Vidyalaya / Central School,Urban,1,0,0,2,3,4,8,3,10,19,10,18,5,0,0,7,5,10,1,4,4,2,11,3,4,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,1,0,0,2,4,4,7,3,4,4,3,4,5,0,0,1,3,3,6,2,3,3,1,0,11,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,1,0,0,6,1,3,2,2,3,2,1,2,2,0,0,3,3,1,1,1,2,1,2,1,7,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,1,0,0,2,5,2,2,0,2,1,0,10,5,0,0,3,3,3,2,0,0,0,0,2,10,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,6,4,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,2,3,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,7,11,0,0,0,0,0,0,0,0,0,0,11,10,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,12,22,0,0,0,0,0,0,0,0,0,0,16,18,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,106,151,0,0,0,0,0,0,0,0,0,0,53,86,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,67,68,0,0,0,0,0,0,0,0,0,0,59,68,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,7,10,0,0,0,0,0,0,0,0,0,0,2,2,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,21,38,0,0,0,0,0,0,0,0,0,0,23,23,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,34,34,0,0,0,0,0,0,0,0,0,0,21,30,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,41,29,0,0,0,0,0,0,0,0,0,0,19,19,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,8,SS (IX-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,8,SS (IX-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,13,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),8,SS (IX-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,7,6,0,0,0,0,0,0,0,0,0,0,6,4,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),8,SS (IX-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,3,12,0,0,0,0,0,0,0,0,0,0,2,9,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),8,SS (IX-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,3,4,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,4,3,6,10,13,0,0,0,0,0,0,0,2,3,2,10,6,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,1,2,4,4,9,0,0,0,0,0,0,0,2,3,4,6,3,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,3,1,4,4,6,0,0,0,0,0,0,0,3,4,2,1,4,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,1,1,2,1,0,0,0,0,0,0,0,2,0,3,0,2,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,2,1,0,2,4,0,0,0,0,0,0,0,1,2,3,3,6,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,73,56,77,64,113,0,0,0,0,0,0,0,52,51,37,59,74,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,38,33,41,66,102,0,0,0,0,0,0,0,40,28,34,71,76,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,142,146,156,202,233,0,0,0,0,0,0,0,106,97,111,150,132,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,2,6,5,2,0,0,0,0,0,0,0,0,1,3,2,1,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,4,3,5,16,8,0,0,0,0,0,0,0,2,2,3,10,5,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,22,20,28,23,35,0,0,0,0,0,0,0,14,9,16,19,29,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,30,21,27,35,30,0,0,0,0,0,0,0,18,21,14,22,11,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,37,35,36,67,79,0,0,0,0,0,0,0,40,27,43,45,35,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,4,17,12,9,5,0,0,0,0,0,0,0,10,15,18,8,13,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,1,1,2,6,2,0,0,0,0,0,0,0,2,2,0,1,1,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,4,3,2,4,1,0,0,0,0,0,0,0,0,1,3,1,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,14,9,6,8,7,0,0,0,0,0,0,0,2,5,5,6,7,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,2,5,0,0,0,0,0,0,0,0,0,0,10,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,4,3,5,6,11,0,0,0,0,0,0,0,3,5,3,7,5,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,1,1,3,13,6,0,0,0,0,0,0,0,0,1,2,3,1,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,2,3,2,1,3,1,1,1,0,0,0,0,2,2,3,2,2,1,1,1,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),2,UPS (I-VIII),4,Government Aided,Urban,1,0,0,39,14,7,10,10,9,11,9,0,0,0,0,32,13,20,17,17,15,13,8,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,70,80,60,55,48,54,45,43,0,0,0,0,27,48,34,36,31,25,15,39,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,95,87,84,72,53,60,56,46,0,0,0,0,60,45,46,35,30,43,39,35,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,46,58,30,47,35,53,51,51,0,0,0,0,41,35,33,39,38,29,33,34,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,57,39,44,56,42,40,38,37,0,0,0,0,52,50,36,32,26,40,36,29,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,10,6,9,8,5,11,10,9,0,0,0,0,8,8,4,2,2,4,3,4,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,52,27,34,24,27,26,19,29,0,0,0,0,46,21,16,21,16,18,9,13,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,6,6,19,12,17,17,21,22,23,13,0,0,0,0,14,19,14,13,16,10,12,11,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,21,31,31,25,24,25,31,19,0,0,0,0,19,17,16,15,20,22,20,10,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,4,2,4,3,2,1,0,0,0,0,0,0,3,5,2,1,1,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,3,1,1,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,0,0,3,1,2,3,1,0,0,0,0,0,0,0,1,0,0,1,1,8,4,2,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,38,29,140,132,121,112,110,82,89,104,0,0,0,0,115,107,84,76,80,75,70,79,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,0,0,40,22,37,31,19,27,21,40,0,0,0,0,23,30,25,32,27,22,23,28,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,0,0,1,0,0,0,1,1,2,0,0,0,0,0,1,0,1,0,2,1,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,1,0,0,10,15,8,4,17,13,14,7,0,0,0,0,12,2,10,6,10,12,12,1,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,1,0,0,6,0,1,1,3,2,2,0,0,0,0,0,5,1,1,4,2,2,3,1,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,60,76,63,0,0,0,0,0,0,0,0,0,68,109,107,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,59,88,55,0,0,0,0,0,0,0,0,0,63,86,60,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,68,48,57,0,0,0,0,0,0,0,0,0,76,86,66,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,83,84,67,0,0,0,0,0,0,0,0,0,90,88,99,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,25,35,26,0,0,0,0,0,0,0,0,0,32,55,50,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,27,24,20,0,0,0,0,0,0,0,0,0,43,35,27,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,29,20,13,0,0,0,0,0,0,0,0,0,16,31,23,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,43,32,26,0,0,0,0,0,0,0,0,0,49,45,49,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,25,33,34,0,0,0,0,0,0,0,0,0,37,25,41,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,7,9,14,0,0,0,0,0,0,0,0,0,1,8,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,16,22,23,0,0,0,0,0,0,0,0,0,9,17,33,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,28,37,40,0,0,0,0,0,0,0,0,0,20,32,18,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,2,4,1,0,0,0,0,0,0,0,0,0,10,3,4,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,7,1,3,0,0,0,0,0,0,0,0,0,9,0,2,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,11,4,8,0,0,0,0,0,0,0,0,0,5,3,4,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,12,10,18,0,0,0,0,0,0,0,0,0,12,20,12,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),4,UPS (VI-VIII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,24,19,11,0,0,0,0,0,0,0,0,0,28,27,32,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,69,51,48,0,0,0,0,0,0,0,0,0,59,39,46,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,32,42,41,0,0,0,0,0,0,0,0,0,43,38,45,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,92,96,96,0,0,0,0,0,0,0,0,0,53,62,55,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,18,22,24,0,0,0,0,0,0,0,0,0,18,22,18,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,20,27,18,0,0,0,0,0,0,0,0,0,30,28,35,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,23,23,18,0,0,0,0,0,0,0,0,0,18,17,15,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,37,31,40,0,0,0,0,0,0,0,0,0,34,22,24,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,22,34,24,0,0,0,0,0,0,0,0,0,53,45,57,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,3,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,64,53,45,0,0,0,0,0,0,0,0,0,49,48,42,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,19,24,18,0,0,0,0,0,0,0,0,0,20,16,15,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,12,9,12,0,0,0,0,0,0,0,0,0,6,4,6,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,General
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,3,HSS (I-XII),1,Department of Education,Rural,2,0,0,2,0,1,0,0,0,0,0,0,0,0,0,5,1,3,0,0,1,3,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),3,HSS (I-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,4,5,6,4,15,8,34,31,47,30,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),3,HSS (I-XII),4,Government Aided,Urban,2,0,0,3,3,4,5,1,0,0,0,0,0,0,0,8,9,9,13,16,21,18,14,35,33,27,11,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,10,2,2,0,1,6,5,7,7,4,7,3,8,1,4,0,1,1,1,1,3,0,4,7,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,1,0,1,2,1,2,0,1,7,8,4,3,0,1,0,0,0,1,1,0,2,3,1,2,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,1,0,1,1,5,0,0,0,0,0,0,0,0,0,1,1,3,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,2,4,2,2,1,0,0,0,0,0,0,0,2,6,5,2,4,3,3,2,2,1,2,5,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,5,4,6,2,10,4,3,0,0,0,0,0,3,5,11,4,5,5,4,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,2,4,4,1,2,3,2,18,13,10,26,18,15,21,4,3,1,1,3,11,14,6,20,18,7,11,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,0,0,42,28,13,19,17,22,23,23,18,10,20,13,17,14,8,12,13,13,13,8,20,5,8,9,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,26,43,30,32,0,0,0,0,0,0,0,0,13,10,20,19,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,18,29,28,28,0,0,0,0,0,0,0,0,12,14,9,6,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,48,47,48,52,0,0,0,0,0,0,0,0,25,24,35,30,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,21,23,13,15,0,0,0,0,0,0,0,0,14,8,15,3,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,34,27,19,31,0,0,0,0,0,0,0,0,25,31,17,15,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,51,67,51,94,0,0,0,0,0,0,0,0,29,48,44,57,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,67,63,65,82,0,0,0,0,0,0,0,0,36,33,54,56,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,65,62,52,55,0,0,0,0,0,0,0,0,48,39,48,36,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,13,9,8,1,0,0,0,0,0,0,0,0,5,2,2,4,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,18,22,8,14,0,0,0,0,0,0,0,0,5,6,5,2,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,6,2,0,0,0,0,0,0,0,0,0,0,7,8,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,26,64,26,39,0,0,0,0,0,0,0,0,11,38,12,23,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,5,0,0,1,0,0,0,0,0,0,0,0,13,14,8,25,21,16,16,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,10,0,0,15,0,0,0,0,0,0,0,0,7,0,0,10,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,19,0,0,6,0,0,0,0,0,0,0,0,20,19,6,24,12,7,10,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,2,0,0,8,0,0,0,0,0,0,0,0,6,0,0,11,0,1,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,8,9,8,20,18,35,24,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,16,25,25,66,26,29,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,37,56,53,61,77,67,34,0,0,0,0,0,15,28,25,21,39,21,19,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,50,67,36,126,94,64,38,0,0,0,0,0,30,51,31,62,69,67,31,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,55,60,65,78,61,53,31,0,0,0,0,0,35,50,71,58,68,42,49,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,12,12,15,31,39,57,18,0,0,0,0,0,26,13,22,21,31,17,18,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,27,38,43,59,41,19,20,0,0,0,0,0,18,18,22,41,28,21,18,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,52,76,94,92,83,62,52,0,0,0,0,0,41,56,61,74,62,64,42,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,47,78,74,60,63,30,37,0,0,0,0,0,43,71,85,41,49,33,38,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,34,37,48,56,59,66,37,0,0,0,0,0,12,7,20,11,13,28,32,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,5,HSS (VI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,25,23,33,34,23,28,9,0,0,0,0,0,7,13,12,14,15,11,6,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,5,HSS (VI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,8,11,13,18,0,32,0,0,0,0,0,0,5,11,9,17,0,13,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),5,HSS (VI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,34,40,63,121,103,114,95,0,0,0,0,0,2,13,18,44,38,25,24,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),5,HSS (VI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,43,37,28,132,146,97,74,0,0,0,0,0,22,17,10,33,31,36,14,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),5,HSS (VI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,45,54,75,83,102,55,60,0,0,0,0,0,42,48,43,42,56,27,27,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,30,37,36,33,31,58,35,0,0,0,0,0,16,26,23,18,35,56,20,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,10,11,17,46,47,85,54,0,0,0,0,0,10,9,13,40,47,31,35,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,29,29,34,45,40,71,68,0,0,0,0,0,20,27,28,34,41,32,26,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,30,36,33,109,132,120,194,0,0,0,0,0,24,43,21,63,56,113,64,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,19,17,19,21,22,33,24,0,0,0,0,0,20,21,24,33,22,34,27,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,67,69,76,72,108,108,152,0,0,0,0,0,47,43,53,50,74,54,68,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,49,38,46,36,58,59,53,0,0,0,0,0,31,23,28,27,36,42,48,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,87,96,78,129,134,175,124,0,0,0,0,0,62,76,76,102,101,95,95,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,10,8,15,34,18,22,40,0,0,0,0,0,8,5,12,17,15,34,28,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,3,0,1,6,7,10,11,0,0,0,0,0,0,1,1,6,5,4,1,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,8,6,9,2,6,6,5,0,0,0,0,0,1,2,3,2,4,9,3,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,5,6,2,4,2,2,0,0,0,0,0,0,1,3,3,3,4,3,5,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,1,5,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,3,7,2,6,2,3,4,0,0,0,0,0,4,5,5,0,1,2,3,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,8,11,9,14,12,23,4,0,0,0,0,0,3,5,12,17,24,21,29,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,3,10,11,20,6,12,10,0,0,0,0,0,1,2,5,5,2,6,2,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya,Rural,2,0,0,0,0,0,0,0,16,14,22,13,21,19,16,0,0,0,0,0,5,4,4,6,2,6,2,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,1,PS (I-V),1,Department of Education,Rural,2,0,0,372,387,422,273,284,0,0,0,0,0,0,0,380,394,402,282,285,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,1,PS (I-V),1,Department of Education,Rural,2,0,0,483,472,485,439,415,0,0,0,0,0,0,0,446,477,421,449,405,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,1,PS (I-V),1,Department of Education,Rural,2,0,0,286,311,328,285,220,0,0,0,0,0,0,0,288,296,374,314,253,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,1,PS (I-V),1,Department of Education,Rural,2,0,0,376,333,399,342,377,0,0,0,0,0,0,0,348,376,367,328,348,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,1,PS (I-V),1,Department of Education,Rural,2,0,0,307,272,267,249,209,0,0,0,0,0,0,0,322,318,271,266,223,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,1,PS (I-V),1,Department of Education,Rural,2,0,0,348,332,322,295,226,0,0,0,0,0,0,0,317,347,332,291,282,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,1,PS (I-V),1,Department of Education,Rural,2,0,0,346,388,356,275,260,0,0,0,0,0,0,0,339,350,364,320,267,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,1,PS (I-V),1,Department of Education,Rural,2,0,0,352,340,376,309,242,0,0,0,0,0,0,0,339,363,388,304,237,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,1,PS (I-V),1,Department of Education,Urban,2,0,0,8,6,5,1,3,0,0,0,0,0,0,0,3,5,4,4,3,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,1,PS (I-V),1,Department of Education,Urban,2,0,0,13,6,7,3,0,0,0,0,0,0,0,0,20,7,2,2,4,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,1,PS (I-V),1,Department of Education,Urban,2,0,0,5,4,6,1,1,0,0,0,0,0,0,0,1,3,3,2,5,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),1,PS (I-V),1,Department of Education,Urban,2,0,0,42,57,43,29,29,0,0,0,0,0,0,0,43,63,74,46,41,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),1,PS (I-V),1,Department of Education,Urban,2,0,0,38,37,39,34,32,0,0,0,0,0,0,0,45,38,66,34,44,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),1,PS (I-V),1,Department of Education,Urban,2,0,0,15,14,12,3,2,0,0,0,0,0,0,0,25,15,10,13,4,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),1,PS (I-V),2,Tribal Welfare Department,Urban,2,0,0,2,0,2,1,0,0,0,0,0,0,0,0,2,2,0,3,1,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,1,PS (I-V),4,Government Aided,Rural,2,0,0,4,8,6,5,8,0,0,0,0,0,0,0,5,6,3,5,4,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,276,215,208,207,197,0,0,0,0,0,0,0,201,171,151,128,119,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,3,1,185,125,120,116,108,0,0,0,0,0,0,0,121,82,87,84,68,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,250,222,224,246,227,0,0,0,0,0,0,0,187,171,170,137,155,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,95,80,88,86,83,0,0,0,0,0,0,0,67,51,56,56,59,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,88,67,63,25,44,0,0,0,0,0,0,0,74,54,42,26,27,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,159,121,94,84,95,0,0,0,0,0,0,0,123,89,83,50,62,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,9,6,278,211,225,187,163,0,0,0,0,0,0,0,230,179,170,147,117,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,231,185,169,161,192,0,0,0,0,0,0,0,186,145,115,135,149,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,3,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,5,4,2,1,1,0,0,0,0,0,0,0,8,6,1,1,2,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,4,6,6,4,6,0,0,0,0,0,0,0,1,5,3,3,4,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,5,2,3,3,2,0,0,0,0,0,0,0,4,5,6,4,2,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),1,PS (I-V),5,Private Unaided (Recognized),Urban,2,10,15,191,146,164,128,148,0,0,0,0,0,0,0,133,116,120,112,105,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,88,75,81,75,58,0,0,0,0,0,0,0,64,53,60,61,37,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,57,31,28,29,21,0,0,0,0,0,0,0,52,16,25,7,9,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,2,0,0,7,9,7,5,8,0,0,0,0,0,0,0,5,4,4,4,7,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,2,0,0,6,5,4,8,7,0,0,0,0,0,0,0,5,1,6,4,5,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,6,9,2,5,3,5,6,6,7,10,0,0,2,1,5,7,1,2,4,6,7,10,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,1,1,2,1,2,2,1,2,0,6,0,0,1,0,2,0,1,2,1,1,0,1,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,13,21,12,18,11,13,8,9,11,10,0,0,16,12,17,13,15,16,11,11,8,9,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,12,10,0,0,0,0,0,0,0,0,0,0,5,5,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,5,3,1,5,5,5,2,4,1,2,0,0,3,3,6,2,4,6,0,1,3,1,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,0,1,1,0,0,0,0,2,9,11,0,0,2,0,0,0,0,1,0,1,5,2,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,4,3,4,6,1,5,2,1,2,0,0,0,4,2,3,3,3,5,5,8,25,20,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),6,SS (I-X),5,Private Unaided (Recognized),Urban,2,0,0,1,1,0,2,3,4,5,1,5,4,0,0,3,1,1,0,2,1,0,1,4,1,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),6,SS (I-X),5,Private Unaided (Recognized),Urban,2,0,0,2,3,3,3,6,6,3,2,5,4,0,0,3,2,1,2,2,1,1,1,2,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),6,SS (I-X),92,Kendriya Vidyalaya / Central School,Urban,2,0,0,7,8,7,4,13,8,7,20,13,7,0,0,3,6,5,5,4,5,2,3,5,1,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,3,10,0,0,0,0,0,0,0,0,0,0,2,1,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,2,5,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,2,6,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,8,2,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,3,2,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,24,51,0,0,0,0,0,0,0,0,0,0,20,25,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,75,83,0,0,0,0,0,0,0,0,0,0,28,35,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,53,56,0,0,0,0,0,0,0,0,0,0,34,55,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,22,15,0,0,0,0,0,0,0,0,0,0,10,16,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,25,28,0,0,0,0,0,0,0,0,0,0,15,15,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,44,88,0,0,0,0,0,0,0,0,0,0,36,41,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,41,42,0,0,0,0,0,0,0,0,0,0,22,25,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,8,SS (IX-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,8,SS (IX-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,12,3,0,0,0,0,0,0,0,0,0,0,2,4,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),8,SS (IX-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,6,4,0,0,0,0,0,0,0,0,0,0,4,3,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),8,SS (IX-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,1,8,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),8,SS (IX-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,2,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,16,31,23,8,23,0,0,0,0,0,0,0,11,16,12,14,10,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,6,0,5,6,4,0,0,0,0,0,0,0,3,2,10,4,4,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,7,5,11,7,5,0,0,0,0,0,0,0,4,3,2,14,7,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,7,6,5,7,4,0,0,0,0,0,0,0,2,2,8,7,7,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,1,1,3,3,2,0,0,0,0,0,0,0,2,1,3,2,2,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,49,37,48,64,62,0,0,0,0,0,0,0,32,31,31,57,50,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,81,44,48,131,169,0,0,0,0,0,0,0,65,48,37,110,105,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,60,65,67,60,65,0,0,0,0,0,0,0,52,43,48,42,48,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,10,17,10,1,2,0,0,0,0,0,0,0,6,11,4,2,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,9,9,11,21,25,0,0,0,0,0,0,0,9,5,7,11,12,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,40,31,46,44,53,0,0,0,0,0,0,0,22,21,28,36,25,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,29,22,24,30,30,0,0,0,0,0,0,0,28,20,17,34,24,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,63,74,85,68,77,0,0,0,0,0,0,0,46,67,70,45,48,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,20,17,21,3,3,0,0,0,0,0,0,0,15,19,18,4,2,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,1,0,0,1,4,0,0,0,0,0,0,0,1,0,0,1,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,2,2,3,1,1,0,0,0,0,0,0,0,0,0,2,1,2,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,2,2,1,3,1,0,0,0,0,0,0,0,1,0,2,0,1,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,6,4,4,8,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,6,7,8,10,7,0,0,0,0,0,0,0,5,8,7,10,12,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,4,1,1,4,4,0,0,0,0,0,0,0,3,3,1,2,4,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,2,3,4,2,1,4,14,16,0,0,0,0,1,4,7,3,5,7,10,12,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),2,UPS (I-VIII),4,Government Aided,Urban,2,0,0,32,15,16,17,29,19,9,11,0,0,0,0,40,10,12,5,29,6,10,6,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,37,23,18,17,8,21,17,3,0,0,0,0,21,29,24,17,10,13,13,6,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,47,47,34,35,28,37,38,23,0,0,0,0,40,27,22,20,17,23,18,16,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,43,36,39,29,29,26,24,23,0,0,0,0,30,25,21,21,21,13,16,19,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,36,19,21,23,20,17,16,13,0,0,0,0,31,27,18,17,26,19,15,12,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,32,30,36,23,21,18,23,17,0,0,0,0,31,20,24,21,16,10,8,14,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,56,30,44,53,29,37,21,19,0,0,0,0,40,20,20,24,16,24,12,12,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,3,4,47,35,27,36,28,46,38,34,0,0,0,0,25,23,25,33,27,16,27,25,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,34,38,18,18,23,28,26,15,0,0,0,0,26,26,15,13,14,15,15,8,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,3,5,2,2,1,1,0,0,0,0,0,0,2,5,4,2,1,1,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,0,2,2,1,4,2,0,0,0,0,0,0,0,0,0,2,0,0,10,3,3,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,31,14,92,85,89,75,75,56,76,53,0,0,0,0,76,78,54,83,65,52,56,54,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,0,20,19,22,15,10,15,11,17,0,0,0,0,6,22,12,11,5,7,11,7,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,2,0,0,7,4,2,7,3,5,1,0,0,0,0,0,8,5,3,3,2,4,2,1,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,2,0,0,2,2,1,0,0,1,2,2,0,0,0,0,3,4,5,1,2,2,3,3,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,210,175,131,0,0,0,0,0,0,0,0,0,198,176,141,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,243,247,212,0,0,0,0,0,0,0,0,0,248,206,235,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,107,117,109,0,0,0,0,0,0,0,0,0,144,112,86,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,225,177,178,0,0,0,0,0,0,0,0,0,242,226,215,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,130,109,109,0,0,0,0,0,0,0,0,0,145,125,142,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,147,161,95,0,0,0,0,0,0,0,0,0,182,152,122,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,134,139,129,0,0,0,0,0,0,0,0,0,156,139,107,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,165,131,120,0,0,0,0,0,0,0,0,0,213,172,146,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,5,2,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,18,26,39,0,0,0,0,0,0,0,0,0,34,49,47,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,27,30,18,0,0,0,0,0,0,0,0,0,32,26,23,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,24,26,19,0,0,0,0,0,0,0,0,0,16,13,15,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,40,54,66,0,0,0,0,0,0,0,0,0,32,34,32,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,3,10,8,0,0,0,0,0,0,0,0,0,3,9,10,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,19,11,5,0,0,0,0,0,0,0,0,0,16,18,7,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,34,13,15,0,0,0,0,0,0,0,0,0,21,18,20,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,28,32,36,0,0,0,0,0,0,0,0,0,39,34,37,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),4,UPS (VI-VIII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,17,45,28,0,0,0,0,0,0,0,0,0,22,40,20,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,31,35,23,0,0,0,0,0,0,0,0,0,23,21,22,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,35,31,47,0,0,0,0,0,0,0,0,0,29,24,37,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,68,77,62,0,0,0,0,0,0,0,0,0,46,55,53,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,29,34,33,0,0,0,0,0,0,0,0,0,27,19,25,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,22,29,19,0,0,0,0,0,0,0,0,0,27,22,24,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,32,40,41,0,0,0,0,0,0,0,0,0,36,25,16,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,58,74,76,0,0,0,0,0,0,0,0,0,65,55,53,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,59,79,79,0,0,0,0,0,0,0,0,0,56,62,64,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,2,1,6,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,50,53,52,0,0,0,0,0,0,0,0,0,47,47,40,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,23,16,25,0,0,0,0,0,0,0,0,0,11,18,11,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,29,35,24,0,0,0,0,0,0,0,0,0,23,17,25,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,2,0,0,0,0,0,0,0,3,4,5,0,0,0,0,0,0,0,0,0,5,3,5,0,0,0,0,SC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,3,HSS (I-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),3,HSS (I-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),3,HSS (I-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,6,0,4,0,0,0,0,1,1,0,0,0,0,0,5,0,0,0,0,0,1,0,0,1,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,5,HSS (VI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,5,HSS (VI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),5,HSS (VI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),5,HSS (VI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),5,HSS (VI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,5,2,1,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya,Rural,3,0,0,0,0,0,0,0,1,3,0,1,0,1,1,0,0,0,0,0,0,1,0,1,1,0,2,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,1,PS (I-V),1,Department of Education,Rural,3,0,0,14,9,9,4,10,0,0,0,0,0,0,0,14,5,6,11,7,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,1,PS (I-V),1,Department of Education,Rural,3,0,0,19,11,6,7,4,0,0,0,0,0,0,0,29,12,13,10,10,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,1,PS (I-V),1,Department of Education,Rural,3,0,0,1,1,2,0,1,0,0,0,0,0,0,0,4,2,2,1,2,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,1,PS (I-V),1,Department of Education,Rural,3,0,0,23,15,16,11,9,0,0,0,0,0,0,0,14,11,13,6,5,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),1,PS (I-V),2,Tribal Welfare Department,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,1,PS (I-V),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,8,14,19,9,14,0,0,0,0,0,0,0,11,9,17,17,8,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,4,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,6,11,7,19,7,0,0,0,0,0,0,0,3,4,10,8,6,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,1,0,0,0,1,0,1,7,0,0,0,0,0,0,0,0,3,2,2,3,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),6,SS (I-X),92,Kendriya Vidyalaya / Central School,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,1,2,5,2,0,0,0,0,0,0,0,0,0,4,2,2,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),2,UPS (I-VIII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,6,6,2,3,7,8,1,3,0,0,0,0,3,3,2,4,5,3,5,3,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,4,2,8,0,0,0,0,0,0,0,0,0,5,9,5,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,1,4,5,0,0,0,0,0,0,0,0,0,3,11,1,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,11,15,10,0,0,0,0,0,0,0,0,0,13,18,12,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,9,12,11,0,0,0,0,0,0,0,0,0,7,11,9,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),4,UPS (VI-VIII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,3,HSS (I-XII),1,Department of Education,Rural,4,0,0,4,1,2,0,0,0,0,0,0,0,0,0,19,12,10,11,10,9,9,13,18,6,15,6,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),3,HSS (I-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,7,8,12,16,23,31,34,77,84,111,64,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),3,HSS (I-XII),4,Government Aided,Urban,4,0,0,1,2,5,0,3,0,0,0,0,0,0,0,4,2,13,6,18,19,20,21,39,42,31,34,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,24,16,8,8,5,47,48,53,39,57,36,23,5,5,4,6,3,18,18,19,10,15,17,10,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,2,9,6,4,8,6,12,8,28,25,25,18,2,2,4,1,2,2,4,5,25,15,5,12,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,12,19,22,17,19,0,0,0,0,0,0,0,13,9,20,16,11,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,7,8,10,11,9,0,0,0,0,0,0,0,11,12,13,17,15,10,21,20,17,17,9,18,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,5,7,7,7,20,6,5,0,0,0,0,0,7,4,8,8,8,7,10,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,18,10,97,55,64,62,82,127,133,163,238,220,126,170,80,37,36,41,50,76,86,97,137,92,72,101,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,0,0,123,185,237,234,212,236,202,216,228,208,172,173,115,126,113,184,136,153,110,110,137,120,121,98,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,312,339,406,478,0,0,0,0,0,0,0,0,147,160,222,218,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,51,66,58,46,0,0,0,0,0,0,0,0,38,29,17,11,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,197,296,258,437,0,0,0,0,0,0,0,0,104,94,140,151,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,154,177,89,53,0,0,0,0,0,0,0,0,113,109,99,78,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,118,104,65,100,0,0,0,0,0,0,0,0,78,82,55,80,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,441,483,452,547,0,0,0,0,0,0,0,0,264,266,285,283,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,467,463,490,523,0,0,0,0,0,0,0,0,264,288,354,291,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,309,266,404,338,0,0,0,0,0,0,0,0,225,163,277,252,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,2,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,7,18,12,11,0,0,0,0,0,0,0,0,12,16,13,16,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,51,62,18,26,0,0,0,0,0,0,0,0,29,22,9,8,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,12,13,15,18,0,0,0,0,0,0,0,0,8,5,14,19,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,173,240,116,192,0,0,0,0,0,0,0,0,98,75,85,104,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,118,0,0,28,0,2,0,0,0,0,0,0,106,54,68,148,124,62,77,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,21,0,0,20,0,0,0,0,0,0,0,0,13,0,0,15,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,26,0,0,10,0,0,0,0,0,0,0,0,28,0,0,16,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,166,0,0,50,0,7,0,0,0,0,0,0,110,37,28,83,45,41,37,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,9,0,0,23,0,1,0,0,0,0,0,0,4,0,0,14,0,1,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,84,0,0,0,0,0,0,0,0,0,0,0,58,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,21,21,23,51,55,134,88,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65,79,73,132,116,124,88,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,283,370,422,638,644,679,505,0,0,0,0,0,214,280,391,466,404,437,367,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,75,95,88,197,207,132,118,0,0,0,0,0,66,75,71,132,148,107,78,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,161,152,169,183,193,197,89,0,0,0,0,0,125,167,147,181,178,179,148,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,7,26,31,32,33,34,25,0,0,0,0,0,13,19,31,28,43,33,29,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,57,73,95,135,148,85,84,0,0,0,0,0,54,54,67,91,89,73,40,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,136,166,211,233,246,186,151,0,0,0,0,0,104,139,140,216,241,232,176,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,163,195,161,200,320,247,198,0,0,0,0,0,171,156,189,262,234,230,153,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,147,212,289,341,358,373,199,0,0,0,0,0,50,53,94,93,70,286,299,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,5,HSS (VI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,32,59,72,119,128,93,50,0,0,0,0,0,36,64,57,57,81,63,56,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,5,HSS (VI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,32,45,48,75,0,114,0,0,0,0,0,0,17,33,38,45,0,49,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),5,HSS (VI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,88,111,130,345,319,446,309,0,0,0,0,0,43,55,60,82,81,65,61,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),5,HSS (VI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,94,129,99,311,290,353,213,0,0,0,0,0,34,55,15,98,64,81,66,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),5,HSS (VI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,129,175,246,311,324,326,241,0,0,0,0,0,121,168,157,193,199,173,147,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,189,181,150,318,345,367,328,0,0,0,0,0,110,138,119,257,255,313,248,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,39,40,47,89,115,210,172,0,0,0,0,0,49,63,55,122,110,111,97,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,176,130,164,148,199,214,182,0,0,0,0,0,71,69,88,84,106,92,107,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,65,64,68,198,180,253,248,0,0,0,0,0,55,59,55,119,107,176,121,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,95,90,98,113,148,127,103,0,0,0,0,0,101,111,115,199,196,223,72,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,237,228,275,494,595,487,643,0,0,0,0,0,183,163,169,255,351,318,398,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,274,271,278,385,475,589,522,0,0,0,0,0,158,188,215,325,304,410,391,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,391,354,369,484,484,771,635,0,0,0,0,0,293,272,307,345,408,495,425,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,16,17,22,138,199,69,122,0,0,0,0,0,10,4,12,152,127,157,179,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,34,55,33,112,118,112,106,0,0,0,0,0,28,24,19,62,44,66,24,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,17,21,21,38,29,84,73,0,0,0,0,0,6,10,14,17,10,26,33,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,24,77,61,80,64,40,40,0,0,0,0,0,11,26,27,25,37,62,47,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,15,10,8,42,53,18,11,0,0,0,0,0,10,5,5,18,15,11,8,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,9,12,8,3,8,2,3,0,0,0,0,0,7,7,5,0,5,0,2,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,141,61,98,212,200,188,105,0,0,0,0,0,95,85,90,145,126,110,106,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,36,63,71,75,98,66,48,0,0,0,0,0,22,15,16,35,34,37,32,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya,Rural,4,0,0,0,0,0,0,0,34,33,25,29,23,26,26,0,0,0,0,0,16,17,19,10,16,18,15,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,1,PS (I-V),1,Department of Education,Rural,4,0,0,1307,1457,1402,1207,987,0,0,0,0,0,0,0,1432,1643,1511,1257,1205,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,1,PS (I-V),1,Department of Education,Rural,4,0,0,834,801,904,808,723,0,0,0,0,0,0,0,821,854,859,787,728,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,1,PS (I-V),1,Department of Education,Rural,4,0,0,923,1045,991,885,801,0,0,0,0,0,0,0,985,1151,1234,1032,918,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,1,PS (I-V),1,Department of Education,Rural,4,0,0,698,672,693,658,621,0,0,0,0,0,0,0,689,682,722,735,652,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,1,PS (I-V),1,Department of Education,Rural,4,0,0,802,741,730,619,560,0,0,0,0,0,0,0,918,863,829,700,604,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,1,PS (I-V),1,Department of Education,Rural,4,0,0,881,971,866,782,652,0,0,0,0,0,0,0,1048,1096,1076,912,919,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,1,PS (I-V),1,Department of Education,Rural,4,0,0,1052,1033,1028,817,729,0,0,0,0,0,0,0,1291,1251,1259,1089,982,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,1,PS (I-V),1,Department of Education,Rural,4,48,49,1086,1131,978,840,779,0,0,0,0,0,0,0,1191,1237,1209,1105,977,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,1,PS (I-V),1,Department of Education,Urban,4,0,0,16,40,36,23,10,0,0,0,0,0,0,0,19,41,36,20,11,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,1,PS (I-V),1,Department of Education,Urban,4,0,0,10,9,11,7,3,0,0,0,0,0,0,0,12,7,10,15,9,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,1,PS (I-V),1,Department of Education,Urban,4,0,0,4,0,3,10,3,0,0,0,0,0,0,0,10,7,6,7,10,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),1,PS (I-V),1,Department of Education,Urban,4,0,0,118,150,145,111,94,0,0,0,0,0,0,0,124,114,121,113,87,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),1,PS (I-V),1,Department of Education,Urban,4,0,0,76,96,80,49,52,0,0,0,0,0,0,0,70,97,114,66,57,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),1,PS (I-V),1,Department of Education,Urban,4,0,0,44,79,63,41,12,0,0,0,0,0,0,0,55,78,61,34,29,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),1,PS (I-V),2,Tribal Welfare Department,Urban,4,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,2,3,1,1,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,1,PS (I-V),4,Government Aided,Rural,4,0,0,25,43,48,34,33,0,0,0,0,0,0,0,26,66,34,35,45,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,1224,1021,1023,904,885,0,0,0,0,0,0,0,844,763,717,712,622,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,5,2,573,461,407,410,346,0,0,0,0,0,0,0,362,325,274,289,265,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,941,727,721,623,610,0,0,0,0,0,0,0,658,499,477,429,428,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,318,282,243,250,291,0,0,0,0,0,0,0,238,221,210,205,277,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,668,499,483,409,431,0,0,0,0,0,0,0,535,361,362,320,347,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,1081,724,702,662,597,0,0,0,0,0,0,0,797,561,564,435,494,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,30,30,1170,908,932,914,898,0,0,0,0,0,0,0,901,672,724,674,704,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,1258,959,949,942,896,0,0,0,0,0,0,0,999,745,730,736,673,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,59,45,49,34,34,0,0,0,0,0,0,0,64,41,40,49,39,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,41,36,47,37,36,0,0,0,0,0,0,0,34,30,31,29,24,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,2,6,2,1,6,0,0,0,0,0,0,0,1,4,1,1,3,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,36,32,32,32,35,0,0,0,0,0,0,0,16,23,22,16,21,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,31,32,13,12,11,0,0,0,0,0,0,0,21,13,18,13,4,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,21,20,12,27,22,0,0,0,0,0,0,0,23,8,15,14,20,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),1,PS (I-V),5,Private Unaided (Recognized),Urban,4,5,10,584,470,470,425,470,0,0,0,0,0,0,0,464,360,411,387,324,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,208,192,196,163,156,0,0,0,0,0,0,0,170,128,116,133,119,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,194,166,149,168,156,0,0,0,0,0,0,0,114,102,95,103,102,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,4,0,0,50,57,41,48,49,0,0,0,0,0,0,0,42,50,57,77,36,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,4,0,0,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,4,0,0,49,29,30,28,37,0,0,0,0,0,0,0,21,33,22,31,20,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,4,0,0,10,11,9,10,12,0,0,0,0,0,0,0,7,8,8,8,10,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,4,0,0,12,6,5,6,2,0,0,0,0,0,0,0,4,9,5,5,5,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,4,0,0,11,3,2,2,0,0,0,0,0,0,0,0,10,2,1,2,0,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,4,0,0,11,11,6,5,6,0,0,0,0,0,0,0,13,9,6,9,2,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,4,0,0,14,6,2,9,0,0,0,0,0,0,0,0,22,6,6,9,0,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,4,0,0,8,8,5,5,1,0,0,0,0,0,0,0,12,7,8,7,9,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,4,0,0,8,7,9,10,8,0,0,0,0,0,0,0,4,3,4,3,2,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,4,0,0,7,5,8,4,7,0,0,0,0,0,0,0,10,5,5,5,4,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,4,0,0,12,18,15,17,19,0,0,0,0,0,0,0,15,13,13,12,17,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,12,22,13,18,17,12,11,10,16,14,0,0,13,22,8,6,17,12,11,12,8,13,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,4,6,2,2,5,9,7,6,14,6,0,0,3,6,2,5,2,6,3,4,12,15,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,26,18,18,23,19,20,18,21,24,17,0,0,18,14,13,21,16,14,17,15,20,14,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,13,8,12,6,7,8,7,8,143,99,0,0,12,8,15,8,3,8,11,2,96,85,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,5,11,10,11,9,8,6,5,9,13,0,0,12,10,10,21,4,3,3,4,12,6,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,0,1,4,0,5,4,5,3,55,44,0,0,4,4,0,3,0,1,4,4,15,26,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,46,52,46,27,27,18,24,14,22,8,0,0,16,25,25,42,21,58,54,74,171,163,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),6,SS (I-X),5,Private Unaided (Recognized),Urban,4,0,0,38,21,22,30,23,41,43,45,57,64,0,0,7,22,12,16,11,19,19,18,31,29,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),6,SS (I-X),5,Private Unaided (Recognized),Urban,4,0,0,31,31,32,29,25,43,38,34,44,44,0,0,22,13,17,15,14,9,18,19,11,14,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),6,SS (I-X),92,Kendriya Vidyalaya / Central School,Urban,4,0,0,25,25,18,17,22,33,24,22,17,14,0,0,8,11,17,15,6,4,4,12,12,9,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,4,0,0,6,9,11,5,16,15,9,8,7,5,0,0,3,8,9,7,17,15,9,9,6,11,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,4,0,0,10,8,8,7,3,7,6,5,15,6,0,0,4,4,3,3,1,2,5,1,7,12,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,4,0,0,10,9,8,6,5,10,8,11,35,45,0,0,4,5,8,6,6,10,13,16,20,55,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,4,0,0,8,14,18,28,12,0,0,0,0,0,0,0,12,7,11,6,18,0,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,4,0,0,28,13,9,10,8,5,9,5,18,17,0,0,12,22,16,12,12,7,6,7,3,5,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,4,0,0,18,7,13,6,8,5,5,6,12,13,0,0,4,8,3,5,5,7,9,9,14,9,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,1,3,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,10,11,0,0,0,0,0,0,0,0,0,0,13,13,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,7,9,0,0,0,0,0,0,0,0,0,0,16,12,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,6,2,0,0,0,0,0,0,0,0,0,0,9,8,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,24,19,0,0,0,0,0,0,0,0,0,0,20,21,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,2,9,0,0,0,0,0,0,0,0,0,0,8,5,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,9,5,0,0,0,0,0,0,0,0,0,0,13,12,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,16,15,0,0,0,0,0,0,0,0,0,0,7,12,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,45,39,0,0,0,0,0,0,0,0,0,0,31,44,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,112,190,0,0,0,0,0,0,0,0,0,0,72,135,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,350,475,0,0,0,0,0,0,0,0,0,0,212,214,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,123,132,0,0,0,0,0,0,0,0,0,0,138,136,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,126,116,0,0,0,0,0,0,0,0,0,0,91,73,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,238,216,0,0,0,0,0,0,0,0,0,0,172,167,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,313,363,0,0,0,0,0,0,0,0,0,0,211,187,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,233,276,0,0,0,0,0,0,0,0,0,0,183,177,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,8,SS (IX-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,6,8,0,0,0,0,0,0,0,0,0,0,14,7,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,8,SS (IX-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,10,18,0,0,0,0,0,0,0,0,0,0,4,8,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),8,SS (IX-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,43,30,0,0,0,0,0,0,0,0,0,0,24,23,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),8,SS (IX-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,5,2,0,0,0,0,0,0,0,0,0,0,6,3,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),8,SS (IX-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,9,20,0,0,0,0,0,0,0,0,0,0,20,11,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,24,29,15,24,24,0,0,0,0,0,0,0,23,16,18,8,18,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,2,3,6,8,12,0,0,0,0,0,0,0,13,5,16,9,7,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,21,29,30,36,34,0,0,0,0,0,0,0,19,24,30,27,17,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,26,19,24,15,7,0,0,0,0,0,0,0,11,39,45,23,30,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,11,13,16,22,11,0,0,0,0,0,0,0,15,19,40,22,18,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,296,287,296,504,563,0,0,0,0,0,0,0,213,216,252,327,324,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,222,180,225,295,373,0,0,0,0,0,0,0,205,141,132,209,226,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,299,280,289,410,376,0,0,0,0,0,0,0,171,169,183,249,214,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,50,35,35,39,54,0,0,0,0,0,0,0,33,27,40,16,10,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,48,63,64,103,119,0,0,0,0,0,0,0,38,42,48,46,61,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,136,161,141,222,272,0,0,0,0,0,0,0,95,86,98,181,158,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,196,150,162,235,314,0,0,0,0,0,0,0,129,109,99,160,170,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,353,343,323,529,640,0,0,0,0,0,0,0,283,267,262,319,324,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,63,70,67,33,30,0,0,0,0,0,0,0,45,54,36,16,16,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,4,3,3,3,0,0,0,0,0,0,0,3,2,0,1,2,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,33,32,32,37,60,0,0,0,0,0,0,0,6,5,4,12,5,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,14,13,16,10,11,0,0,0,0,0,0,0,3,4,6,1,1,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,13,4,6,9,5,0,0,0,0,0,0,0,5,2,2,4,1,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,24,24,28,6,30,0,0,0,0,0,0,0,16,12,18,18,25,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,9,8,9,29,29,0,0,0,0,0,0,0,8,7,8,30,26,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,30,19,21,41,59,0,0,0,0,0,0,0,19,8,19,25,44,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,11,32,37,26,23,4,10,8,0,0,0,0,9,27,28,16,15,5,8,6,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),2,UPS (I-VIII),4,Government Aided,Urban,4,0,0,99,48,51,37,24,32,32,15,0,0,0,0,83,44,30,27,43,32,31,13,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,191,185,179,149,153,107,99,102,0,0,0,0,122,90,95,142,85,75,52,49,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,244,176,129,131,153,145,123,113,0,0,0,0,122,89,83,72,97,91,80,84,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,265,182,201,199,181,179,166,202,0,0,0,0,145,149,144,118,100,154,102,138,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,114,152,127,109,126,80,96,59,0,0,0,0,120,143,109,106,96,72,75,77,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,141,126,137,123,135,110,91,76,0,0,0,0,93,96,82,68,90,53,44,63,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,486,333,319,291,313,301,268,261,0,0,0,0,325,220,233,187,191,187,167,164,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,48,23,302,259,227,200,234,231,226,235,0,0,0,0,202,147,163,169,154,167,130,148,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,288,244,251,221,171,183,164,157,0,0,0,0,143,184,136,163,121,154,114,125,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,16,17,19,10,12,6,6,8,0,0,0,0,21,10,13,13,9,3,5,6,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,47,38,40,45,28,0,4,0,0,0,0,0,21,21,12,11,7,0,5,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,0,6,5,6,8,5,0,0,0,0,0,0,0,2,3,2,4,2,17,21,20,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,42,42,322,239,220,219,228,182,169,166,0,0,0,0,256,161,180,173,190,129,152,129,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,0,108,74,78,87,72,52,69,68,0,0,0,0,80,61,57,56,55,39,44,39,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,0,26,28,22,24,15,9,8,0,0,0,0,0,17,11,19,16,10,3,3,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,4,0,0,6,10,3,6,8,3,8,2,0,0,0,0,2,7,8,7,9,4,10,3,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,4,0,0,27,18,9,18,15,7,8,2,0,0,0,0,19,22,7,18,15,11,7,2,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Rural,4,0,0,9,9,10,6,8,10,11,13,0,0,0,0,12,10,14,7,10,11,10,14,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,4,0,0,10,20,10,10,8,12,12,7,0,0,0,0,16,14,10,5,5,12,11,4,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,4,0,0,5,12,11,5,7,6,0,0,0,0,0,0,7,9,7,3,3,4,0,0,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,641,623,511,0,0,0,0,0,0,0,0,0,683,690,660,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,351,394,338,0,0,0,0,0,0,0,0,0,387,386,394,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,288,330,321,0,0,0,0,0,0,0,0,0,406,404,367,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,312,316,283,0,0,0,0,0,0,0,0,0,387,361,385,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,283,342,298,0,0,0,0,0,0,0,0,0,442,435,377,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,252,252,244,0,0,0,0,0,0,0,0,0,354,375,357,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,362,384,346,0,0,0,0,0,0,0,0,0,536,552,418,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,444,383,399,0,0,0,0,0,0,0,0,0,557,505,513,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,16,19,10,0,0,0,0,0,0,0,0,0,23,16,12,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,27,15,12,0,0,0,0,0,0,0,0,0,28,13,21,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,98,135,94,0,0,0,0,0,0,0,0,0,104,112,139,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,50,74,44,0,0,0,0,0,0,0,0,0,51,49,31,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,29,53,52,0,0,0,0,0,0,0,0,0,33,32,34,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,137,153,133,0,0,0,0,0,0,0,0,0,115,161,120,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,10,3,12,0,0,0,0,0,0,0,0,0,17,13,16,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,83,15,19,0,0,0,0,0,0,0,0,0,53,19,29,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,78,46,19,0,0,0,0,0,0,0,0,0,63,29,21,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,118,130,123,0,0,0,0,0,0,0,0,0,118,103,104,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),4,UPS (VI-VIII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,66,59,70,0,0,0,0,0,0,0,0,0,66,81,69,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91701,ALIGANJ,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,209,190,164,0,0,0,0,0,0,0,0,0,126,133,118,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91703,AWAGARH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,96,87,113,0,0,0,0,0,0,0,0,0,68,68,62,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91705,JAITHARA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,160,165,155,0,0,0,0,0,0,0,0,0,132,106,117,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91706,JALESAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,79,85,86,0,0,0,0,0,0,0,0,0,54,56,82,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91708,MARHARA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,178,170,188,0,0,0,0,0,0,0,0,0,125,145,161,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,211,196,203,0,0,0,0,0,0,0,0,0,230,208,202,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91712,SAKEET,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,296,299,297,0,0,0,0,0,0,0,0,0,239,237,243,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91713,SHEETAL PUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,398,399,392,0,0,0,0,0,0,0,0,0,415,418,438,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,21,10,11,0,0,0,0,0,0,0,0,0,14,15,11,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91709,NIDHAULI KALAN,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,42,55,89,0,0,0,0,0,0,0,0,0,41,39,33,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91716,ETAH (URBAN),4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,162,176,142,0,0,0,0,0,0,0,0,0,127,114,116,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,47,38,40,0,0,0,0,0,0,0,0,0,28,20,16,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91720,MARHARA (URBAN),4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,131,146,150,0,0,0,0,0,0,0,0,0,81,80,83,0,0,0,0,OBC
+2018-19,9,Uttar Pradesh,917,ETAH,91718,JALESAR (URBAN),4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC

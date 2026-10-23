@@ -1,0 +1,481 @@
+ac_year,state_code,state_name,district_code,district_name,block_code,block_name,sch_category_id,category_name,sch_mgmt_id,sch_mgmt_name,loc_name,caste_id,pre_primary_boys,pre_primary_girls,class_1_boys,class_2_boys,class_3_boys,class_4_boys,class_5_boys,class_6_boys,class_7_boys,class_8_boys,class_9_boys,class_10_boys,class_11_boys,class_12_boys,class_1_girls,class_2_girls,class_3_girls,class_4_girls,class_5_girls,class_6_girls,class_7_girls,class_8_girls,class_9_girls,class_10_girls,class_11_girls,class_12_girls,caste_name
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,9,5,3,4,6,5,1,0,0,0,0,0,0,0,7,5,2,1,1,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,21,16,4,6,9,3,5,0,0,0,0,0,0,0,3,8,2,3,3,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,10,11,4,1,0,2,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,14,12,0,2,2,2,2,2,0,0,0,0,0,0,2,0,3,3,1,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,1,PS (I-V),8,Unrecognized,Rural,2,2,5,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,1,PS (I-V),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,1,PS (I-V),8,Unrecognized,Rural,2,5,4,7,5,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,1,PS (I-V),8,Unrecognized,Rural,2,29,18,12,8,7,4,0,0,0,0,0,0,0,0,3,5,4,3,1,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,1,PS (I-V),8,Unrecognized,Rural,2,28,21,62,27,18,13,19,0,0,0,0,0,0,0,29,15,11,5,3,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,1,PS (I-V),8,Unrecognized,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,1,PS (I-V),8,Unrecognized,Urban,2,48,19,19,24,27,19,16,0,0,0,0,0,0,0,9,15,18,12,7,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,1,PS (I-V),8,Unrecognized,Urban,2,31,19,1,6,8,3,0,0,0,0,0,0,0,0,7,5,3,3,0,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,1,PS (I-V),8,Unrecognized,Urban,2,8,8,2,7,2,6,0,0,0,0,0,0,0,0,6,3,6,1,0,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,6,SS (I-X),4,Government Aided,Urban,2,0,0,0,0,1,1,1,4,2,7,12,6,0,0,0,0,3,1,0,0,0,1,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,1,1,0,0,2,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,13,14,16,12,11,9,11,11,13,16,0,0,11,11,7,6,5,8,6,5,11,5,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,18,4,14,7,7,10,8,8,3,4,14,10,0,0,5,3,2,3,4,5,6,4,7,2,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,1,0,4,0,3,3,4,6,5,3,4,6,0,0,7,1,0,1,1,0,2,1,4,4,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,5,6,5,11,6,5,5,5,6,4,10,10,1,0,4,7,3,2,1,2,3,3,10,4,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,1,0,1,4,1,7,5,3,1,0,9,13,0,0,2,2,1,1,0,2,1,1,6,1,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,14,16,11,5,10,5,6,5,16,11,0,0,3,8,4,6,2,2,2,0,7,1,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,64,8,44,38,39,42,29,50,38,31,20,23,0,0,32,41,27,31,38,19,23,26,10,15,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,0,4,6,7,6,8,5,5,3,7,10,5,0,0,3,4,1,4,2,2,0,1,5,5,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,55,38,18,17,18,13,14,13,10,7,9,7,0,0,11,12,7,8,10,7,7,4,5,8,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,32,21,18,26,14,10,16,20,5,4,13,21,0,0,11,15,4,6,9,8,3,4,5,5,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,92,62,98,64,77,80,85,86,74,78,85,100,0,0,73,63,62,53,44,49,51,45,58,52,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,7,5,9,6,0,0,0,0,0,0,0,0,3,5,9,2,SC
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,193,187,197,258,137,0,0,0,0,0,0,0,172,165,185,242,157,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,272,298,280,460,217,49,28,0,0,0,0,0,290,319,311,394,274,72,45,SC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,102,115,96,113,76,6,8,0,0,0,0,0,95,93,87,129,80,4,8,SC
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,122,111,113,156,75,17,5,0,0,0,0,0,139,151,163,243,161,15,12,SC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,189,209,176,269,140,0,0,0,0,0,0,0,247,254,250,302,194,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,170,201,202,217,135,11,6,0,0,0,0,0,174,197,227,186,150,9,9,SC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,186,205,192,295,115,15,9,0,0,0,0,0,234,220,253,238,130,18,7,SC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,7,SS (VI-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,81,58,56,52,29,0,0,0,0,0,0,0,45,59,50,42,42,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,44,27,47,21,25,20,24,14,5,12,3,9,6,2,24,35,10,9,8,9,2,6,3,2,3,4,SC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,23,16,45,45,43,21,30,18,14,10,0,0,0,0,24,31,16,18,17,11,8,8,1,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,21,7,25,24,22,22,26,26,18,15,3,6,3,0,17,20,11,9,13,9,3,8,0,2,3,3,SC
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,2,1,13,4,9,11,7,2,9,5,0,0,0,0,9,4,5,2,2,3,1,2,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,3,2,35,12,7,15,18,11,3,8,0,0,0,0,8,7,3,4,7,8,0,5,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,12,16,15,7,9,2,8,0,1,1,0,0,0,0,4,4,4,2,3,1,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,98,78,76,56,75,45,44,40,31,32,0,0,0,0,44,47,31,27,30,17,7,16,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,0,14,15,11,14,12,10,3,4,0,0,0,0,12,7,15,8,13,8,9,4,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,15,6,11,11,7,6,7,10,7,8,0,0,0,0,7,4,5,4,7,5,5,4,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,4,3,2,4,6,3,4,5,3,5,0,0,0,0,3,5,1,1,2,0,2,1,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,22,12,41,28,28,31,7,12,42,10,0,0,0,0,15,17,12,9,7,13,12,3,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,125,79,52,58,34,39,37,41,23,19,0,0,0,0,39,38,24,35,22,22,21,8,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,2,UPS (I-VIII),8,Unrecognized,Rural,2,0,0,0,2,1,3,2,1,0,1,0,0,0,0,0,1,3,1,1,0,1,1,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,2,UPS (I-VIII),8,Unrecognized,Rural,2,2,3,0,2,2,3,1,0,0,0,0,0,0,0,3,1,0,0,1,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,2,UPS (I-VIII),8,Unrecognized,Rural,2,0,0,5,0,1,0,5,0,0,0,0,0,0,0,1,2,1,0,0,0,1,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,2,UPS (I-VIII),8,Unrecognized,Rural,2,6,0,8,11,4,2,1,5,2,1,0,0,0,0,5,4,2,1,2,0,0,1,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,2,UPS (I-VIII),8,Unrecognized,Rural,2,0,0,1,1,3,1,2,1,1,0,0,0,0,0,2,0,3,1,1,0,0,1,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,2,UPS (I-VIII),8,Unrecognized,Rural,2,4,3,5,4,5,2,2,1,1,0,0,0,0,0,0,0,4,1,2,4,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,2,UPS (I-VIII),8,Unrecognized,Urban,2,8,12,1,0,0,1,0,0,0,2,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,2,UPS (I-VIII),8,Unrecognized,Urban,2,9,7,4,2,3,1,0,2,1,3,0,0,0,0,3,1,1,1,1,1,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,146,150,138,0,0,0,0,0,0,0,0,0,228,236,246,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,146,158,154,0,0,0,0,0,0,0,0,0,211,216,219,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,120,102,121,18,3,0,0,0,0,0,0,0,133,155,145,19,4,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,131,143,167,6,1,0,0,0,0,0,0,0,142,170,182,7,2,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,57,52,77,0,0,0,0,0,0,0,0,0,95,99,117,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,124,125,155,12,7,0,0,0,0,0,0,0,123,129,126,11,8,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,82,110,126,0,0,0,0,0,0,0,0,0,128,120,121,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,30,15,21,0,0,0,0,0,0,0,0,0,26,18,26,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,29,33,19,0,0,0,0,0,0,0,0,0,14,27,19,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,3,HSS (I-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,3,HSS (I-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,3,HSS (I-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,3,HSS (I-XII),7,Central Govt,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,5,HSS (VI-XII),7,Central Govt,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,1,PS (I-V),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,1,PS (I-V),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,1,PS (I-V),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,1,PS (I-V),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,1,PS (I-V),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,1,PS (I-V),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,1,PS (I-V),8,Unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,1,PS (I-V),8,Unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,1,PS (I-V),8,Unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,1,PS (I-V),8,Unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,6,SS (I-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,2,UPS (I-VIII),8,Unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,2,UPS (I-VIII),8,Unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,3,HSS (I-XII),4,Government Aided,Rural,4,15,14,11,9,7,8,7,0,0,0,0,6,0,0,9,6,18,10,11,8,6,9,11,8,5,10,OBC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,3,HSS (I-XII),4,Government Aided,Urban,4,0,0,7,21,13,12,12,8,15,5,19,11,5,5,5,16,19,9,8,12,11,8,10,10,2,4,OBC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,3,HSS (I-XII),4,Government Aided,Urban,4,87,90,65,47,50,52,41,20,26,26,25,17,27,28,65,56,69,46,52,47,50,57,44,35,29,45,OBC
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,37,31,24,31,29,41,21,30,28,22,34,36,40,39,16,21,18,18,18,25,16,7,17,44,28,38,OBC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,24,12,31,26,34,31,23,34,26,24,41,54,30,17,16,18,23,25,17,16,18,19,33,37,41,29,OBC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,99,71,85,76,93,83,86,87,100,119,112,151,106,149,50,65,64,63,47,72,64,46,70,82,86,79,OBC
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,17,7,40,38,50,47,45,52,55,45,33,54,44,36,25,27,34,24,25,21,22,17,21,27,38,39,OBC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,7,5,1,2,5,0,1,1,4,3,5,1,6,3,1,3,4,1,1,0,2,5,2,3,1,1,OBC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,47,39,23,52,37,56,55,37,59,52,36,33,31,24,15,18,27,29,25,17,36,25,19,35,OBC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,59,38,72,80,77,72,86,100,94,101,114,136,105,102,52,72,53,86,57,58,66,51,62,73,83,78,OBC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,25,14,42,39,35,27,33,40,31,32,37,40,24,40,27,43,36,28,24,28,20,30,27,24,28,21,OBC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,48,34,28,26,46,32,24,33,43,29,54,72,74,88,26,27,24,22,12,14,27,22,32,34,31,26,OBC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,2,2,0,0,1,1,0,2,2,1,1,0,1,1,0,3,1,1,0,1,0,0,2,1,4,2,OBC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,8,0,42,37,48,43,49,46,57,50,47,64,68,75,33,30,19,22,18,30,20,36,28,27,55,26,OBC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,311,197,177,187,204,203,194,223,226,277,313,270,203,223,126,111,121,116,115,110,116,148,130,116,139,127,OBC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,3,HSS (I-XII),7,Central Govt,Urban,4,0,0,19,23,22,16,8,11,16,7,10,10,5,8,17,17,10,14,13,10,6,6,7,4,7,7,OBC
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,8,5,10,6,0,0,0,0,0,0,0,0,8,1,6,5,OBC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,17,14,19,7,0,0,0,0,0,0,0,0,13,10,14,12,OBC
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,21,2,13,4,0,0,0,0,0,0,0,0,10,4,5,4,OBC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,6,3,6,1,0,0,0,0,0,0,0,0,5,4,6,1,OBC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,18,6,10,6,0,0,0,0,0,0,0,0,5,4,10,0,OBC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,65,57,58,91,60,53,28,0,0,0,0,0,26,24,37,51,53,64,45,OBC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,96,120,142,144,142,133,113,0,0,0,0,0,54,74,78,112,116,133,91,OBC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,93,114,124,114,98,80,50,0,0,0,0,0,90,90,95,128,123,69,44,OBC
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,89,99,90,149,102,126,71,0,0,0,0,0,90,76,85,102,102,108,87,OBC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,44,37,37,47,41,43,49,0,0,0,0,0,11,12,9,25,9,55,34,OBC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,91,101,142,196,120,127,77,0,0,0,0,0,96,72,64,138,110,144,79,OBC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,104,115,130,182,101,141,115,0,0,0,0,0,105,105,114,125,88,135,92,OBC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,16,16,10,28,10,46,25,0,0,0,0,0,24,28,31,36,29,49,30,OBC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,41,39,42,35,27,44,38,0,0,0,0,0,63,54,71,90,67,72,69,OBC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,28,20,20,43,20,65,39,0,0,0,0,0,21,24,18,30,18,57,39,OBC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,16,29,30,38,30,49,36,0,0,0,0,0,84,109,88,99,84,65,59,OBC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,53,39,71,82,56,291,204,0,0,0,0,0,63,70,71,136,100,214,195,OBC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,5,5,0,4,5,12,2,0,0,0,0,0,0,3,4,5,5,8,6,OBC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,5,4,8,5,13,17,19,0,0,0,0,0,4,2,1,3,4,2,3,OBC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,5,HSS (VI-XII),7,Central Govt,Rural,4,0,0,0,0,0,0,0,10,13,4,16,11,15,15,0,0,0,0,0,2,8,6,6,12,6,5,OBC
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,1,PS (I-V),1,Department of Education,Rural,4,15,31,97,100,101,113,131,0,0,0,0,0,0,0,89,98,107,126,120,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,1,PS (I-V),1,Department of Education,Rural,4,14,4,199,180,207,244,271,0,0,0,0,0,0,0,189,190,208,218,285,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,1,PS (I-V),1,Department of Education,Rural,4,44,44,166,133,181,187,207,0,0,0,0,0,0,0,162,149,166,191,214,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,1,PS (I-V),1,Department of Education,Rural,4,23,17,202,228,217,259,302,0,0,0,0,0,0,0,238,260,290,262,298,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,1,PS (I-V),1,Department of Education,Rural,4,5,2,73,71,90,94,99,0,0,0,0,0,0,0,77,83,90,114,107,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,1,PS (I-V),1,Department of Education,Rural,4,45,66,146,162,200,214,212,0,0,0,0,0,0,0,190,188,189,212,219,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,1,PS (I-V),1,Department of Education,Rural,4,41,52,214,207,204,257,281,0,0,0,0,0,0,0,185,231,249,285,255,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,1,PS (I-V),1,Department of Education,Urban,4,2,0,17,15,22,16,29,0,0,0,0,0,0,0,17,17,30,25,36,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,1,PS (I-V),1,Department of Education,Urban,4,1,4,28,33,28,38,33,0,0,0,0,0,0,0,33,38,41,47,59,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,1,PS (I-V),1,Department of Education,Urban,4,0,0,8,8,11,11,13,0,0,0,0,0,0,0,19,9,17,17,22,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,1,PS (I-V),1,Department of Education,Urban,4,0,0,8,10,8,17,17,0,0,0,0,0,0,0,43,46,57,76,29,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,1,PS (I-V),1,Department of Education,Urban,4,9,15,76,104,126,155,129,0,0,0,0,0,0,0,90,109,112,154,136,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,1,PS (I-V),4,Government Aided,Urban,4,0,0,4,2,1,0,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,11,6,15,10,8,7,8,1,1,0,0,0,0,0,4,5,6,3,5,1,0,1,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,23,18,29,17,11,5,7,0,0,0,0,0,0,0,21,12,15,7,0,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,54,32,28,16,14,11,6,0,0,0,0,0,0,0,23,6,13,5,8,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,7,4,1,4,2,7,6,9,3,5,5,20,4,14,4,5,3,1,5,1,4,1,3,4,5,3,OBC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,9,9,13,11,15,11,8,0,0,0,0,0,0,0,7,8,7,7,5,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,2,2,3,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,6,13,12,4,1,6,3,0,0,0,0,0,0,0,6,3,3,5,2,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,36,26,6,7,11,5,3,0,0,0,0,0,0,0,9,3,6,1,3,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,1,2,0,0,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,31,20,8,3,3,7,5,2,0,0,0,0,0,0,9,7,2,3,3,1,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,1,PS (I-V),8,Unrecognized,Rural,4,10,3,5,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,1,PS (I-V),8,Unrecognized,Rural,4,0,0,4,3,4,7,4,0,0,0,0,0,0,0,2,1,1,3,2,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,1,PS (I-V),8,Unrecognized,Rural,4,1,4,8,10,7,2,0,0,0,0,0,0,0,0,2,2,4,1,0,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,1,PS (I-V),8,Unrecognized,Rural,4,25,10,8,4,5,7,5,0,0,0,0,0,0,0,4,2,2,4,1,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,1,PS (I-V),8,Unrecognized,Rural,4,33,15,13,19,8,9,7,0,0,0,0,0,0,0,14,9,11,12,7,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,1,PS (I-V),8,Unrecognized,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,1,PS (I-V),8,Unrecognized,Urban,4,33,22,15,21,12,17,19,0,0,0,0,0,0,0,19,9,10,7,6,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,1,PS (I-V),8,Unrecognized,Urban,4,4,1,1,2,4,2,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,1,PS (I-V),8,Unrecognized,Urban,4,22,17,16,4,11,10,2,0,0,0,0,0,0,0,12,5,3,2,2,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,6,SS (I-X),4,Government Aided,Urban,4,0,0,1,1,0,1,2,3,4,4,5,15,0,0,1,0,3,1,1,1,2,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,2,0,1,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,14,17,21,18,22,26,18,11,19,14,0,0,7,17,15,8,13,12,8,12,11,12,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,88,50,28,27,30,26,33,34,30,31,40,19,0,0,30,25,17,18,13,18,19,14,30,17,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,1,2,15,12,22,16,17,21,16,14,11,26,0,0,16,9,13,12,13,9,8,12,13,10,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,7,12,24,20,17,9,13,19,11,10,24,25,0,1,9,6,7,14,15,12,5,10,17,9,0,1,OBC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,5,0,27,20,30,14,18,16,24,18,28,28,0,0,16,23,20,19,22,7,14,15,9,15,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,15,17,23,10,21,19,15,20,42,29,0,0,21,10,18,13,11,11,9,11,21,37,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,21,18,35,34,31,22,33,25,21,27,17,29,0,0,13,28,28,19,21,27,20,15,21,12,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,9,7,19,15,32,20,20,22,27,30,33,35,0,0,13,16,7,18,15,20,16,12,15,18,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,35,29,25,17,12,18,14,16,17,16,14,9,0,0,12,12,14,8,6,9,7,10,8,13,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,23,12,21,24,25,25,29,22,30,22,21,29,0,0,15,19,14,16,13,14,8,10,11,12,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,120,86,122,91,89,99,109,111,116,82,110,123,0,0,63,70,88,83,65,64,74,66,68,77,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,19,8,5,4,0,0,0,0,0,0,0,0,8,4,3,1,OBC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,53,42,65,78,38,0,0,0,0,0,0,0,61,89,78,92,75,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,58,48,63,69,48,0,0,0,0,0,0,0,55,50,65,46,49,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,72,72,103,128,91,28,22,0,0,0,0,0,97,113,96,130,114,30,22,OBC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,51,65,63,70,41,5,3,0,0,0,0,0,56,54,46,64,47,6,3,OBC
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,108,99,103,102,79,10,11,0,0,0,0,0,142,147,146,163,125,12,7,OBC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,54,60,49,79,58,4,3,0,0,0,0,0,78,64,79,79,71,7,5,OBC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,114,134,139,198,113,13,8,0,0,0,0,0,139,111,144,172,140,7,4,OBC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,7,SS (VI-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,55,53,54,58,45,0,0,0,0,0,0,0,69,61,73,70,49,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,39,20,46,36,32,19,36,17,8,13,6,15,5,21,30,23,20,12,26,15,15,12,2,6,5,5,OBC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,20,19,72,63,67,50,40,39,30,33,1,1,0,0,50,51,38,38,26,21,23,18,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,19,10,50,42,41,42,44,33,52,25,9,14,4,2,37,18,24,30,15,27,23,18,6,4,2,2,OBC
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,3,0,25,12,15,16,21,17,18,16,0,0,0,0,10,6,8,16,2,11,8,8,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,4,3,24,19,15,20,18,25,14,16,0,0,0,0,13,15,9,12,15,15,8,9,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,13,7,30,29,25,34,21,24,12,20,0,0,0,0,29,23,24,14,16,7,9,13,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,139,113,115,113,110,106,134,119,83,88,0,0,0,0,92,91,110,61,75,65,65,70,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,0,4,7,4,4,14,5,9,6,0,0,0,0,7,3,5,7,8,9,7,1,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,18,15,18,15,18,17,12,16,13,9,0,0,0,0,14,12,13,12,11,10,8,6,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,3,2,12,6,10,8,6,7,6,2,0,0,0,0,9,5,4,5,2,4,7,2,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,55,42,61,67,54,53,51,52,17,28,0,0,0,0,34,30,41,33,24,27,8,22,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,125,105,60,62,52,53,61,35,41,32,0,0,0,0,55,46,37,36,40,24,24,21,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,2,UPS (I-VIII),8,Unrecognized,Rural,4,0,0,2,4,5,3,4,5,1,1,0,0,0,0,2,3,3,0,2,1,0,2,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,2,UPS (I-VIII),8,Unrecognized,Rural,4,7,4,1,2,0,1,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,2,UPS (I-VIII),8,Unrecognized,Rural,4,0,0,2,1,1,3,1,1,3,1,0,0,0,0,2,1,3,2,1,0,0,2,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,2,UPS (I-VIII),8,Unrecognized,Rural,4,0,0,1,2,4,1,1,3,2,0,0,0,0,0,0,1,0,2,2,0,0,1,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,2,UPS (I-VIII),8,Unrecognized,Rural,4,0,0,8,7,6,8,6,6,3,5,0,0,0,0,8,6,1,2,4,2,1,7,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,2,UPS (I-VIII),8,Unrecognized,Rural,4,17,13,8,6,3,7,2,6,2,0,0,0,0,0,7,4,4,3,3,3,2,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,2,UPS (I-VIII),8,Unrecognized,Urban,4,24,25,6,3,3,0,1,0,0,0,0,0,0,0,4,3,5,0,0,1,0,0,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,2,UPS (I-VIII),8,Unrecognized,Urban,4,49,27,13,15,10,7,10,17,13,12,0,0,0,0,7,8,8,9,5,8,5,4,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,26,22,20,0,0,0,0,0,0,0,0,0,40,40,62,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,73,79,67,0,0,0,0,0,0,0,0,0,88,101,104,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,47,45,44,8,5,0,0,0,0,0,0,0,74,64,58,7,6,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,62,71,81,0,0,0,0,0,0,0,0,0,85,96,79,1,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,21,19,20,0,0,0,0,0,0,0,0,0,20,18,21,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,64,50,60,4,1,0,0,0,0,0,0,0,51,69,64,3,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,66,64,73,0,0,0,0,0,0,0,0,0,94,66,67,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,8,5,0,0,0,0,0,0,0,0,0,0,9,5,5,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,14,11,10,0,0,0,0,0,0,0,0,0,15,5,7,0,0,0,0,OBC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,3,HSS (I-XII),4,Government Aided,Rural,1,3,1,1,4,5,3,2,0,0,0,0,3,0,0,5,1,2,3,1,2,7,1,3,9,10,9,General
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,3,HSS (I-XII),4,Government Aided,Urban,1,0,0,25,11,8,23,17,33,19,19,36,33,10,14,24,8,21,20,16,8,14,17,19,14,13,13,General
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,3,HSS (I-XII),4,Government Aided,Urban,1,48,41,33,39,43,22,21,14,10,7,14,20,13,14,27,27,37,36,38,46,41,37,54,31,42,53,General
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,68,53,69,79,73,75,86,78,104,94,122,132,95,109,48,48,61,49,52,50,48,71,56,77,63,78,General
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,22,19,67,64,94,52,79,98,107,83,164,178,114,85,44,53,61,58,51,50,55,49,85,113,99,104,General
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,161,105,108,137,137,135,125,148,165,144,265,265,230,258,99,94,117,83,77,110,100,93,151,139,172,156,General
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,102,62,257,240,226,253,299,222,253,284,300,392,301,313,152,141,188,162,154,152,130,176,155,186,226,215,General
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,172,106,70,61,59,65,73,57,51,50,59,46,43,28,47,58,50,47,39,30,37,33,28,31,37,22,General
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,90,88,105,113,105,93,85,116,90,123,89,80,74,81,88,80,63,73,65,64,51,81,70,73,General
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,97,73,94,101,96,86,128,112,108,114,180,207,155,200,59,71,65,69,64,67,73,62,101,120,142,144,General
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,57,47,71,55,67,70,76,83,70,79,95,111,144,170,66,58,53,73,66,69,70,42,68,67,74,96,General
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,163,104,126,115,96,105,124,149,141,165,166,195,220,184,69,67,86,83,71,82,59,113,88,88,118,103,General
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,38,21,13,9,14,7,14,18,13,9,9,21,20,23,9,8,5,8,5,7,3,13,10,9,26,19,General
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,27,8,52,75,60,52,69,55,62,66,82,60,78,69,39,34,43,30,43,37,47,50,52,30,57,59,General
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,975,818,653,738,712,771,801,783,808,809,992,963,884,765,521,599,601,577,526,600,583,526,591,613,670,625,General
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,3,HSS (I-XII),7,Central Govt,Urban,1,0,0,19,27,28,36,42,44,56,51,52,33,49,30,23,29,33,23,39,30,36,29,29,30,32,24,General
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,24,18,37,15,0,0,0,0,0,0,0,0,19,23,21,14,General
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,9,12,15,5,0,0,0,0,0,0,0,0,24,16,15,12,General
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,27,18,24,22,0,0,0,0,0,0,0,0,24,3,18,10,General
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,30,23,21,10,0,0,0,0,0,0,0,0,18,18,27,20,General
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,14,3,13,13,0,0,0,0,0,0,0,0,8,2,12,4,General
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,29,11,27,13,0,0,0,0,0,0,0,0,8,11,13,8,General
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,40,41,52,90,65,112,70,0,0,0,0,0,32,25,22,51,40,53,64,General
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,40,47,44,68,70,112,91,0,0,0,0,0,15,18,23,67,56,59,72,General
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,32,32,25,54,38,39,30,0,0,0,0,0,25,21,32,39,46,53,22,General
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,51,60,74,105,102,166,100,0,0,0,0,0,50,62,57,97,133,180,130,General
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,19,30,38,43,32,73,66,0,0,0,0,0,14,14,13,15,17,49,53,General
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,30,44,28,52,47,60,53,0,0,0,0,0,20,31,39,40,46,56,56,General
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,17,23,33,44,28,60,38,0,0,0,0,0,24,24,33,30,36,38,32,General
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,54,36,55,54,63,58,47,0,0,0,0,0,32,20,16,26,15,37,26,General
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,8,15,13,5,9,19,23,0,0,0,0,0,17,21,20,31,30,49,64,General
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,5,5,11,19,12,126,75,0,0,0,0,0,3,10,14,26,20,72,66,General
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,2,2,11,3,5,30,15,0,0,0,0,0,3,3,5,3,3,8,17,General
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,14,14,16,18,16,155,169,0,0,0,0,0,21,27,28,54,29,122,103,General
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,23,37,25,32,40,45,37,0,0,0,0,0,20,19,13,16,15,33,36,General
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,2,3,2,7,23,37,22,0,0,0,0,0,2,2,3,2,2,2,6,General
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,5,HSS (VI-XII),7,Central Govt,Rural,1,0,0,0,0,0,0,0,16,11,11,19,11,11,14,0,0,0,0,0,12,8,6,9,12,17,14,General
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,1,PS (I-V),1,Department of Education,Rural,1,32,40,62,45,69,85,95,0,0,0,0,0,0,0,53,53,80,77,98,0,0,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,1,PS (I-V),1,Department of Education,Rural,1,12,9,53,65,88,96,91,0,0,0,0,0,0,0,42,58,96,104,110,0,0,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,1,PS (I-V),1,Department of Education,Rural,1,10,9,49,46,54,75,67,0,0,0,0,0,0,0,49,46,70,72,83,0,0,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,1,PS (I-V),1,Department of Education,Rural,1,26,31,115,140,152,127,182,0,0,0,0,0,0,0,168,161,211,226,225,0,0,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,1,PS (I-V),1,Department of Education,Rural,1,2,5,41,46,71,57,89,0,0,0,0,0,0,0,55,76,80,80,104,0,0,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,1,PS (I-V),1,Department of Education,Rural,1,8,14,38,52,48,60,59,0,0,0,0,0,0,0,42,51,62,69,56,0,0,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,1,PS (I-V),1,Department of Education,Rural,1,10,8,68,69,72,74,73,0,0,0,0,0,0,0,52,58,66,62,60,0,0,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,1,PS (I-V),1,Department of Education,Urban,1,0,0,21,28,42,40,40,0,0,0,0,0,0,0,11,33,30,44,34,0,0,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,1,PS (I-V),1,Department of Education,Urban,1,3,2,7,12,14,18,18,0,0,0,0,0,0,0,12,12,9,14,19,0,0,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,3,1,1,2,5,0,0,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,1,PS (I-V),1,Department of Education,Urban,1,0,0,2,3,3,1,4,0,0,0,0,0,0,0,0,4,0,1,4,0,0,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,1,PS (I-V),1,Department of Education,Urban,1,1,3,37,35,26,37,32,0,0,0,0,0,0,0,30,26,37,30,30,0,0,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,1,PS (I-V),4,Government Aided,Urban,1,0,0,11,0,0,0,0,0,0,0,0,0,0,0,9,2,3,0,3,0,0,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,131,76,54,51,55,63,57,51,18,22,0,0,0,0,30,34,33,37,32,17,9,12,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,33,21,23,19,27,16,10,0,0,0,0,0,0,0,30,21,22,8,13,0,0,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,45,46,26,18,14,12,8,0,0,0,0,0,0,0,24,8,10,6,9,0,0,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,48,40,78,64,66,56,51,32,27,14,52,65,32,42,54,50,40,32,25,10,4,7,28,32,44,28,General
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,105,67,45,56,32,41,23,0,0,0,0,0,0,0,28,34,38,32,22,0,0,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,4,7,2,1,2,0,0,0,0,0,0,0,0,0,1,2,1,2,1,0,0,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,16,3,10,2,6,5,1,0,0,0,0,0,0,0,6,5,2,5,3,0,0,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,1,1,28,25,22,19,0,0,0,0,0,0,0,0,12,14,16,14,0,0,0,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,24,14,4,3,13,7,2,0,0,0,0,0,0,0,3,7,8,7,2,1,0,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,1,PS (I-V),8,Unrecognized,Rural,1,10,13,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,1,PS (I-V),8,Unrecognized,Rural,1,0,0,23,27,23,18,14,0,0,0,0,0,0,0,17,13,18,11,10,0,0,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,1,PS (I-V),8,Unrecognized,Rural,1,4,0,24,25,17,9,18,0,0,0,0,0,0,0,11,17,14,10,5,0,0,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,1,PS (I-V),8,Unrecognized,Rural,1,12,13,11,4,4,3,5,0,0,0,0,0,0,0,6,6,4,2,5,0,0,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,1,PS (I-V),8,Unrecognized,Rural,1,6,6,4,2,1,1,2,0,0,0,0,0,0,0,3,0,0,1,1,0,0,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,1,PS (I-V),8,Unrecognized,Urban,1,0,0,7,4,2,0,0,0,0,0,0,0,0,0,1,3,2,0,0,0,0,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,1,PS (I-V),8,Unrecognized,Urban,1,27,26,6,12,7,7,6,0,0,0,0,0,0,0,10,13,6,9,4,0,0,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,1,PS (I-V),8,Unrecognized,Urban,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,1,PS (I-V),8,Unrecognized,Urban,1,14,13,3,3,3,5,2,0,0,0,0,0,0,0,2,2,5,2,3,0,0,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,6,SS (I-X),4,Government Aided,Urban,1,0,0,0,0,1,0,0,6,2,2,0,1,0,0,0,0,0,0,0,1,4,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,47,34,26,23,20,15,15,14,13,11,19,16,0,0,11,11,12,15,11,17,11,9,16,12,0,0,General
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,27,10,25,22,24,25,28,39,49,37,0,0,23,26,18,26,20,17,25,22,45,39,0,0,General
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,193,136,86,87,74,90,100,91,88,96,109,115,0,0,43,54,62,55,59,51,45,45,74,54,0,0,General
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,31,27,53,47,62,57,69,73,84,74,72,67,0,0,35,44,53,44,64,43,43,46,50,45,0,0,General
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,28,27,63,63,65,70,82,57,63,57,97,71,4,2,51,34,49,54,43,31,55,44,59,55,1,7,General
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,41,28,49,38,36,39,43,30,25,43,20,33,0,0,27,21,28,24,27,18,29,11,13,21,0,0,General
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,10,17,9,10,6,11,9,16,40,30,0,0,10,13,13,15,6,6,11,12,26,32,0,0,General
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,216,151,147,173,172,166,177,187,159,141,160,103,0,0,115,103,111,129,111,103,102,90,92,89,0,0,General
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,4,6,16,14,18,16,19,21,23,17,31,29,0,0,17,9,8,19,13,8,20,20,16,19,0,0,General
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,174,125,74,73,49,79,80,75,68,67,97,79,0,0,63,49,38,45,54,42,45,32,75,69,0,0,General
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,11,15,22,19,21,24,25,31,19,30,26,19,0,0,12,16,13,17,14,10,10,12,14,11,0,0,General
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,177,117,168,169,170,179,167,197,189,155,218,186,0,0,141,126,134,139,128,122,136,120,145,167,0,0,General
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,19,13,14,6,0,0,0,0,0,0,0,0,21,11,9,9,General
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,44,56,52,77,77,0,0,0,0,0,0,0,39,55,55,62,57,0,0,General
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,38,43,56,72,65,21,23,0,0,0,0,0,48,52,53,67,73,14,15,General
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,22,26,14,26,25,1,2,0,0,0,0,0,21,21,26,35,16,0,0,General
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,58,56,68,95,74,24,21,0,0,0,0,0,113,101,113,149,167,29,32,General
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,51,61,58,87,82,0,0,0,0,0,0,0,60,65,73,86,87,0,0,General
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,13,19,28,42,20,2,0,0,0,0,0,0,37,33,51,33,49,2,2,General
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,18,25,29,32,45,14,3,0,0,0,0,0,25,31,35,30,34,5,2,General
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,7,SS (VI-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,15,9,9,16,2,0,0,0,0,0,0,0,12,4,13,11,18,0,0,General
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,121,97,155,119,128,114,118,105,90,101,40,89,48,40,130,99,106,85,71,68,74,60,24,36,33,59,General
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,156,114,173,155,159,140,129,160,142,117,21,5,0,0,118,135,113,87,91,100,106,86,13,12,0,0,General
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,22,20,63,57,60,57,63,53,56,65,39,37,9,6,37,57,55,48,48,49,56,40,22,12,13,8,General
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,38,22,86,73,74,77,77,71,80,85,0,0,0,0,49,52,67,52,62,45,42,46,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,7,4,44,36,44,34,40,41,39,41,0,0,0,0,42,35,25,30,22,30,33,28,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,50,48,18,27,16,12,17,15,17,10,0,0,0,0,13,6,10,16,13,10,13,8,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,121,91,86,71,67,83,96,85,90,93,0,0,0,0,60,60,55,48,50,53,56,57,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,2,UPS (I-VIII),8,Unrecognized,Rural,1,0,0,0,1,0,0,1,0,1,2,0,0,0,0,0,1,0,1,1,3,0,2,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,0,0,15,10,8,20,10,6,8,9,0,0,0,0,8,7,19,12,9,8,12,3,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,68,73,34,25,34,34,25,30,26,23,0,0,0,0,33,21,31,28,16,23,17,11,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,54,32,31,26,33,33,29,33,23,30,0,0,0,0,26,15,27,24,25,17,28,19,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,37,23,27,21,24,22,26,21,12,14,0,0,0,0,26,17,14,13,20,13,4,7,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,223,196,101,104,109,92,100,106,95,91,9,12,3,4,77,86,82,72,73,90,82,68,1,3,2,0,General
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,2,UPS (I-VIII),8,Unrecognized,Rural,1,33,29,14,30,29,18,25,21,15,23,0,0,0,0,31,20,15,15,14,10,8,9,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,2,UPS (I-VIII),8,Unrecognized,Rural,1,0,0,28,21,15,15,24,8,11,10,0,0,0,0,19,6,6,5,9,6,5,5,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,2,UPS (I-VIII),8,Unrecognized,Rural,1,48,22,27,30,33,13,27,30,15,22,0,0,0,0,15,14,18,16,13,13,5,19,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,2,UPS (I-VIII),8,Unrecognized,Rural,1,0,0,13,8,9,11,7,11,4,8,0,0,0,0,5,5,6,6,4,3,10,2,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,2,UPS (I-VIII),8,Unrecognized,Rural,1,29,27,21,14,14,20,7,11,7,2,0,0,0,0,10,9,11,9,8,10,3,2,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,2,UPS (I-VIII),8,Unrecognized,Urban,1,66,35,17,10,5,5,2,3,2,0,0,0,0,0,7,5,5,3,1,0,1,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,2,UPS (I-VIII),8,Unrecognized,Urban,1,99,75,34,30,28,33,25,18,11,0,0,0,0,0,18,26,19,25,20,14,6,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,22,18,37,0,0,0,0,0,0,0,0,0,47,42,33,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,31,31,29,0,0,0,0,0,0,0,0,0,48,57,61,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,31,24,20,4,3,0,0,0,0,0,0,0,35,27,36,2,2,0,0,General
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,65,61,76,0,1,0,0,0,0,0,0,0,98,118,136,1,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,36,32,31,0,0,0,0,0,0,0,0,0,27,35,34,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,13,9,22,0,0,0,0,0,0,0,0,0,19,27,23,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,10,6,5,0,0,0,0,0,0,0,0,0,11,5,10,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,1,3,1,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,3,3,1,0,0,0,0,0,0,0,0,0,3,5,0,0,0,0,0,General
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,3,HSS (I-XII),4,Government Aided,Rural,2,35,32,18,12,12,15,5,0,0,0,0,1,0,0,9,8,3,3,10,8,10,7,8,4,17,8,SC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,3,HSS (I-XII),4,Government Aided,Urban,2,0,0,17,17,20,14,26,15,15,15,10,12,4,7,17,12,18,6,13,12,10,4,6,3,2,7,SC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,3,HSS (I-XII),4,Government Aided,Urban,2,77,40,25,20,23,18,16,6,8,5,12,8,6,9,28,17,20,7,10,10,11,13,15,11,8,9,SC
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,25,18,8,16,17,6,11,4,7,5,21,15,9,5,8,4,7,3,5,8,0,4,5,15,4,10,SC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,5,2,15,9,11,19,14,17,15,8,27,27,13,10,17,8,12,8,9,4,8,5,12,13,15,18,SC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,64,38,27,31,27,19,20,8,21,14,36,53,37,40,22,17,17,14,11,10,11,7,18,23,27,23,SC
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,3,1,21,14,14,13,9,7,11,8,14,17,15,15,8,9,3,5,5,8,4,13,8,15,17,10,SC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,1,2,2,0,1,1,0,1,3,3,0,2,1,0,1,1,0,2,2,0,0,0,2,1,0,SC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,5,6,9,4,12,3,4,5,4,7,8,2,2,3,1,2,4,1,2,2,2,4,3,0,SC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,31,24,27,32,23,24,23,21,20,28,40,45,12,22,14,18,19,13,13,10,7,13,28,35,22,17,SC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,28,22,40,36,30,26,36,24,37,29,34,23,29,21,32,25,21,26,25,16,19,22,22,15,16,14,SC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,24,14,16,11,21,10,19,14,24,18,10,42,31,25,11,9,9,2,8,9,8,6,2,12,5,7,SC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,3,3,1,0,0,1,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,1,1,3,0,SC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,1,1,6,11,6,11,9,7,5,9,6,10,1,9,5,6,2,8,4,3,8,9,8,3,2,1,SC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,125,82,98,99,105,90,90,106,108,83,115,83,78,84,59,63,54,45,50,56,46,61,60,57,63,39,SC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,3,HSS (I-XII),7,Central Govt,Urban,2,0,0,23,10,15,12,18,13,8,11,14,7,16,6,14,9,14,17,10,14,8,10,6,5,5,7,SC
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,11,4,9,7,0,0,0,0,0,0,0,0,12,10,6,4,SC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,8,6,6,11,0,0,0,0,0,0,0,0,8,5,8,4,SC
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,10,3,8,14,0,0,0,0,0,0,0,0,7,0,3,5,SC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,8,4,5,4,0,0,0,0,0,0,0,0,6,4,7,7,SC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,8,5,7,2,0,0,0,0,0,0,0,0,12,7,5,1,SC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,167,177,180,300,112,97,70,0,0,0,0,0,66,91,80,226,106,92,44,SC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,165,191,217,268,165,179,100,0,0,0,0,0,112,106,116,248,178,151,109,SC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,118,135,158,278,149,93,52,0,0,0,0,0,110,113,121,208,136,61,56,SC
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,176,208,203,309,135,148,79,0,0,0,0,0,106,104,99,197,119,174,70,SC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,102,116,106,137,100,123,49,0,0,0,0,0,42,21,36,55,32,91,58,SC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,154,188,196,249,169,143,84,0,0,0,0,0,134,175,138,212,158,114,77,SC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,365,319,374,360,183,175,84,0,0,0,0,0,243,247,261,301,133,107,77,SC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,43,34,48,108,41,114,80,0,0,0,0,0,70,78,91,149,96,122,78,SC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,72,75,42,51,39,36,41,0,0,0,0,0,123,95,79,100,82,70,58,SC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,83,100,80,96,44,75,50,0,0,0,0,0,73,64,56,118,59,100,55,SC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,109,136,110,143,80,93,67,0,0,0,0,0,79,68,64,83,57,42,40,SC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,118,142,142,102,81,158,127,0,0,0,0,0,160,190,168,203,115,140,107,SC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,2,0,3,3,1,1,0,0,0,0,0,0,0,1,2,1,3,2,2,SC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,1,1,2,7,30,12,16,0,0,0,0,0,0,3,2,2,4,3,4,SC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,5,HSS (VI-XII),7,Central Govt,Rural,2,0,0,0,0,0,0,0,25,25,27,19,14,22,18,0,0,0,0,0,11,15,8,8,15,9,7,SC
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,1,PS (I-V),1,Department of Education,Rural,2,127,126,487,430,480,527,568,0,0,0,0,0,0,0,453,423,487,558,539,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,1,PS (I-V),1,Department of Education,Rural,2,35,24,565,511,601,637,683,0,0,0,0,0,0,0,558,519,569,679,698,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,1,PS (I-V),1,Department of Education,Rural,2,133,101,398,357,396,438,464,0,0,0,0,0,0,0,407,370,403,375,417,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,1,PS (I-V),1,Department of Education,Rural,2,66,54,364,362,370,395,475,0,0,0,0,0,0,0,365,356,376,419,419,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,1,PS (I-V),1,Department of Education,Rural,2,22,10,386,342,337,387,380,0,0,0,0,0,0,0,365,308,362,382,389,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,1,PS (I-V),1,Department of Education,Rural,2,131,140,411,437,445,510,506,0,0,0,0,0,0,0,486,441,489,511,500,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,1,PS (I-V),1,Department of Education,Rural,2,105,123,568,605,554,691,678,0,0,0,0,0,0,0,610,600,608,695,673,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,1,PS (I-V),1,Department of Education,Urban,2,6,0,43,58,81,84,94,0,0,0,0,0,0,0,58,78,88,84,96,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,1,PS (I-V),1,Department of Education,Urban,2,9,12,53,54,56,71,55,0,0,0,0,0,0,0,69,55,65,92,84,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,1,PS (I-V),1,Department of Education,Urban,2,0,0,38,26,39,40,45,0,0,0,0,0,0,0,64,46,46,58,70,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61106,RANIA,1,PS (I-V),1,Department of Education,Urban,2,2,6,91,90,83,120,100,0,0,0,0,0,0,0,59,65,74,87,64,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,1,PS (I-V),1,Department of Education,Urban,2,38,39,211,269,230,282,254,0,0,0,0,0,0,0,209,282,259,293,296,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,1,PS (I-V),4,Government Aided,Urban,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61101,BARAGUDHA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,11,6,10,3,1,4,10,0,0,0,0,0,0,0,4,9,4,1,5,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61102,DABWALI,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,45,20,20,25,27,6,9,0,0,0,0,0,0,0,22,15,8,3,4,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61103,ELLENABAD,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,48,15,19,14,2,3,7,0,0,0,0,0,0,0,11,8,3,5,3,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61104,NATHUSARI CHOPTA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,2,5,6,3,5,2,3,1,0,1,2,9,1,0,0,1,0,0,1,1,0,0,1,1,2,1,SC
+2016-17,6,Haryana,611,SIRSA,61105,ODHAN,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,20,15,3,12,7,8,3,0,0,0,0,0,0,0,6,5,3,3,1,0,0,0,0,0,0,0,SC
+2016-17,6,Haryana,611,SIRSA,61107,SIRSA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,16,17,13,3,3,9,0,0,0,0,0,0,0,0,10,6,3,1,0,0,0,0,0,0,0,0,SC

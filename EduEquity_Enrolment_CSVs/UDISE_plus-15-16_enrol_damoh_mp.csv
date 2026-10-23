@@ -1,0 +1,433 @@
+ac_year,state_code,state_name,district_code,district_name,block_code,block_name,sch_category_id,category_name,sch_mgmt_id,sch_mgmt_name,loc_name,caste_id,pre_primary_boys,pre_primary_girls,class_1_boys,class_2_boys,class_3_boys,class_4_boys,class_5_boys,class_6_boys,class_7_boys,class_8_boys,class_9_boys,class_10_boys,class_11_boys,class_12_boys,class_1_girls,class_2_girls,class_3_girls,class_4_girls,class_5_girls,class_6_girls,class_7_girls,class_8_girls,class_9_girls,class_10_girls,class_11_girls,class_12_girls,caste_name
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,4,2,3,1,2,1,2,3,2,2,0,0,0,0,3,1,0,0,3,1,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,13,5,6,3,8,10,12,7,6,9,26,11,0,4,5,7,6,8,8,6,6,9,31,12,0,4,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,1,0,0,0,0,0,1,2,5,6,3,6,0,0,0,0,0,0,0,2,5,4,5,2,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,206,174,89,91,93,91,125,104,121,118,163,138,141,143,86,91,97,66,87,108,92,102,163,120,140,123,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,3,HSS (I-XII),7,Central Govt,Urban,1,0,0,17,13,35,20,34,39,36,39,61,36,14,21,16,13,20,14,27,38,26,29,27,31,23,13,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,24,35,25,22,0,0,0,0,0,0,0,0,23,28,30,28,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,13,7,18,6,0,0,0,0,0,0,0,0,9,12,14,14,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,38,65,48,29,0,0,0,0,0,0,0,0,45,57,57,45,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,75,57,57,55,0,0,0,0,0,0,0,0,61,70,42,50,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,30,38,30,36,0,0,0,0,0,0,0,0,26,25,35,32,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,39,53,56,65,0,0,0,0,0,0,0,0,43,55,64,45,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,45,41,59,42,0,0,0,0,0,0,0,0,43,40,64,45,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,13,14,33,30,0,0,0,0,0,0,0,0,34,25,41,41,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,40,41,83,52,0,0,0,0,0,0,0,0,84,110,115,101,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,16,12,30,49,0,0,0,0,0,0,0,0,60,65,80,52,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,10,10,13,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,10,HSS (IX-XII),3,Local body,Urban,1,0,0,0,0,0,0,0,0,0,0,2,3,0,2,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,10,HSS (IX-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,27,22,26,29,0,0,0,0,0,0,0,0,5,31,3,7,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,48,55,51,53,52,47,50,38,68,55,25,15,23,46,35,26,38,28,35,35,49,28,27,20,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,4,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,12,8,3,1,0,0,0,0,0,0,0,0,14,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,5,HSS (VI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,6,10,7,21,52,7,24,0,0,0,0,0,0,0,4,7,2,9,7,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,6,7,2,5,5,3,11,3,3,12,15,21,21,19,4,1,3,6,4,7,7,4,16,14,5,10,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,5,HSS (VI-XII),7,Central Govt,Urban,1,0,0,0,0,0,0,0,0,0,0,4,12,14,7,0,0,0,0,0,0,0,0,6,10,9,10,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,1,PS (I-V),1,Department of Education,Rural,1,0,0,70,59,81,77,76,0,0,0,0,0,0,0,78,62,74,74,83,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,1,PS (I-V),1,Department of Education,Rural,1,3,3,40,29,38,39,32,0,0,0,0,0,0,0,40,39,53,53,58,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,1,PS (I-V),1,Department of Education,Rural,1,2,1,55,79,59,78,78,0,0,0,0,0,0,0,60,75,66,78,72,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,1,PS (I-V),1,Department of Education,Rural,1,0,0,80,61,93,86,108,0,0,0,0,0,0,0,68,78,98,98,106,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,1,PS (I-V),1,Department of Education,Rural,1,0,0,23,20,26,37,18,0,0,0,0,0,0,0,23,9,25,25,24,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,1,PS (I-V),1,Department of Education,Rural,1,0,0,25,24,31,35,22,0,0,0,0,0,0,0,28,29,29,29,35,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,1,PS (I-V),1,Department of Education,Rural,1,0,0,53,51,51,65,88,0,0,0,0,0,0,0,62,74,86,79,71,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,1,3,1,1,0,0,0,0,0,0,0,0,3,3,1,5,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,1,PS (I-V),1,Department of Education,Urban,1,0,0,1,1,1,5,4,0,0,0,0,0,0,0,1,1,0,3,3,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,1,PS (I-V),1,Department of Education,Urban,1,0,0,6,9,11,10,8,0,0,0,0,0,0,0,14,10,12,6,29,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,1,PS (I-V),1,Department of Education,Urban,1,0,0,5,5,8,4,9,0,0,0,0,0,0,0,8,5,9,7,10,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,2,2,3,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,1,PS (I-V),1,Department of Education,Urban,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,1,PS (I-V),4,Government Aided,Urban,1,0,0,3,1,1,2,3,0,0,0,0,0,0,0,2,0,1,3,2,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,8,2,5,5,4,4,1,0,0,0,0,0,0,0,5,2,3,2,2,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,30,26,20,15,18,21,15,9,6,6,12,2,3,1,14,17,14,14,10,8,4,2,11,1,1,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,66,44,31,33,32,15,24,0,1,0,0,0,0,0,26,29,13,14,9,1,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,28,17,13,6,6,2,1,1,0,0,0,0,18,11,11,6,7,2,1,1,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,10,11,8,11,11,6,6,0,0,0,0,0,0,0,6,7,8,4,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,1,10,8,6,3,1,0,0,0,0,0,0,0,8,5,3,5,1,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,44,31,17,23,10,10,4,0,0,0,0,0,0,0,19,17,5,6,4,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,17,17,18,12,26,19,17,9,2,5,0,0,0,0,18,12,13,9,18,2,3,2,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,109,131,45,43,33,14,19,8,8,11,6,0,0,0,41,28,32,17,7,8,10,5,6,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,15,2,21,18,17,13,10,12,12,10,4,0,0,0,14,5,9,6,11,15,8,4,3,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,16,20,7,2,5,2,6,4,1,2,0,0,0,0,3,6,1,1,2,1,2,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,6,8,9,7,7,0,0,0,0,0,0,0,11,12,11,13,9,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,1,2,0,0,2,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,2,4,3,4,8,0,0,0,0,0,0,0,9,3,3,9,7,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,3,0,1,4,6,5,7,2,24,6,0,0,2,3,3,6,4,5,2,6,36,2,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,39,22,18,22,28,25,20,33,33,23,46,24,14,11,13,8,12,15,19,15,16,18,39,10,10,8,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,3,3,0,0,2,1,2,5,3,7,20,9,0,0,4,2,0,2,2,5,4,5,16,3,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,13,7,3,2,5,7,4,6,7,32,17,6,1,1,3,9,5,4,4,2,3,10,14,7,1,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,6,2,1,6,6,2,9,10,12,24,23,23,0,0,3,7,3,10,11,13,9,12,24,13,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,13,17,7,18,12,21,18,11,21,24,51,17,0,0,9,12,7,14,16,24,23,17,45,13,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,17,18,15,9,3,7,8,11,12,16,19,8,0,0,9,6,7,6,7,13,8,10,29,7,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,55,46,22,15,21,27,28,30,23,26,41,22,18,14,17,25,21,18,20,19,14,17,34,24,11,10,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,67,59,26,48,0,0,0,0,0,0,0,0,68,74,41,44,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,32,19,7,5,0,0,0,0,0,0,0,0,42,46,15,13,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,53,47,15,14,0,0,0,0,0,0,0,0,56,55,23,10,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,34,27,1,2,0,0,0,0,0,0,0,0,46,33,7,5,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,12,9,0,0,0,0,0,0,0,0,0,0,10,7,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,14,10,9,6,0,0,0,0,0,0,0,0,8,15,10,6,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,50,41,4,9,0,0,0,0,0,0,0,0,61,38,2,10,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,2,8,1,4,0,0,0,0,0,0,0,0,0,1,1,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,11,15,12,14,0,0,0,0,0,0,0,0,3,6,4,9,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,42,53,29,23,0,0,0,0,0,0,0,0,6,8,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,9,10,7,5,0,0,0,0,0,0,0,0,6,7,7,3,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,12,6,5,0,1,3,5,1,1,1,26,12,6,13,4,5,3,2,3,3,2,0,36,14,14,12,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,74,20,32,33,35,20,28,35,28,24,38,23,12,9,19,29,22,29,22,19,20,27,40,29,9,4,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,8,SS (IX-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,5,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,8,SS (IX-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,3,30,8,11,0,0,0,0,0,0,0,0,2,8,8,15,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,8,SS (IX-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,62,48,25,17,13,21,17,29,16,20,0,0,0,0,11,11,17,11,16,25,7,9,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,29,22,20,8,18,16,19,15,22,10,0,0,0,0,16,24,14,21,15,22,25,13,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,40,34,23,31,24,42,27,29,38,36,6,1,0,0,28,25,29,35,28,24,16,23,15,3,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,1,2,28,15,7,10,5,14,6,8,0,0,0,0,25,11,11,7,11,8,6,10,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,8,4,6,2,8,8,5,6,4,7,0,0,0,0,5,2,9,1,4,2,3,4,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,23,26,29,21,32,19,24,19,0,0,0,0,21,21,21,18,22,22,18,23,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,6,14,6,13,12,12,18,14,11,15,1,0,0,0,9,11,8,11,13,4,18,9,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,16,14,5,5,8,8,2,2,10,7,0,0,0,0,3,5,4,2,3,3,4,1,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,1,2,17,15,17,17,12,14,7,7,0,0,0,0,15,13,13,18,15,6,5,7,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,45,40,69,70,74,59,70,51,35,51,0,0,0,0,52,52,46,70,53,60,50,39,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,104,57,102,64,60,48,45,47,50,34,23,9,12,10,91,50,39,40,34,29,42,20,23,3,6,7,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,25,18,29,24,26,14,16,20,22,19,6,5,0,0,20,17,21,26,12,14,18,26,4,9,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,75,86,70,0,0,0,0,0,0,0,0,0,71,82,104,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,55,43,67,0,0,0,0,0,0,0,0,0,56,48,68,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,80,81,95,0,0,0,0,0,0,0,0,0,94,91,89,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,94,110,79,0,0,0,0,0,0,0,0,0,94,73,103,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,31,39,40,0,0,0,0,0,0,0,0,0,24,33,32,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,25,32,24,0,0,0,0,0,0,0,0,0,33,31,48,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,66,78,81,0,0,0,0,0,0,0,0,0,75,64,82,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,4,5,1,0,0,0,0,0,0,0,0,0,6,14,10,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,22,32,30,0,0,0,0,0,0,0,0,0,29,38,47,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,11,10,10,0,0,0,0,0,0,0,0,0,12,19,26,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,4,UPS (VI-VIII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,3,12,12,0,0,0,0,0,0,0,0,0,5,1,7,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,11,5,1,5,6,2,6,6,7,14,0,0,0,0,3,6,3,9,10,11,5,7,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,7,5,4,3,3,2,1,4,4,6,12,8,0,0,1,4,1,1,2,1,1,1,12,4,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,4,2,5,3,1,9,8,11,19,19,20,15,0,4,2,1,1,2,2,2,24,6,3,3,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,38,25,32,19,22,18,27,23,22,28,49,24,20,42,21,16,18,15,11,13,15,18,54,26,40,25,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,3,HSS (I-XII),7,Central Govt,Urban,2,0,0,16,14,17,16,13,14,14,7,15,8,9,5,14,10,10,19,5,4,11,9,7,5,3,2,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,66,44,24,15,0,0,0,0,0,0,0,0,23,29,16,12,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,61,38,24,33,0,0,0,0,0,0,0,0,47,32,11,13,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,182,126,88,51,0,0,0,0,0,0,0,0,117,85,60,32,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,220,120,63,60,0,0,0,0,0,0,0,0,181,109,49,28,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,138,82,41,42,0,0,0,0,0,0,0,0,64,41,23,13,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,195,135,108,154,0,0,0,0,0,0,0,0,168,102,107,83,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,165,114,113,90,0,0,0,0,0,0,0,0,152,94,93,64,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,40,20,63,62,0,0,0,0,0,0,0,0,64,77,72,48,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,119,88,57,67,0,0,0,0,0,0,0,0,299,220,136,122,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,80,67,79,60,0,0,0,0,0,0,0,0,124,87,83,58,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,9,3,2,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,10,HSS (IX-XII),3,Local body,Urban,2,0,0,0,0,0,0,0,0,0,0,19,29,10,8,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,10,HSS (IX-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,79,31,34,23,0,0,0,0,0,0,0,0,9,8,12,7,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,4,2,3,2,3,5,2,4,8,1,1,1,7,3,0,3,7,4,1,6,13,3,2,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,2,5,0,4,0,0,0,0,0,0,0,0,2,1,0,1,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,7,36,13,7,0,0,0,0,0,0,0,0,1,0,0,2,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,5,HSS (VI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,16,16,23,129,103,57,69,0,0,0,0,0,5,5,4,19,31,10,4,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,6,1,7,5,7,2,3,8,9,8,18,13,7,12,4,7,5,7,6,8,3,5,14,3,4,1,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,5,HSS (VI-XII),7,Central Govt,Urban,2,0,0,0,0,0,0,0,0,0,0,17,18,19,19,0,0,0,0,0,0,0,0,6,4,2,8,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,1,PS (I-V),1,Department of Education,Rural,2,0,0,337,319,339,313,376,0,0,0,0,0,0,0,273,315,280,340,278,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,1,PS (I-V),1,Department of Education,Rural,2,17,10,303,295,294,341,314,0,0,0,0,0,0,0,277,285,265,332,315,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,1,PS (I-V),1,Department of Education,Rural,2,6,8,497,534,498,565,501,0,0,0,0,0,0,0,442,479,490,518,451,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,1,PS (I-V),1,Department of Education,Rural,2,0,0,370,384,442,445,433,0,0,0,0,0,0,0,352,383,363,368,360,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,1,PS (I-V),1,Department of Education,Rural,2,0,0,189,197,178,224,202,0,0,0,0,0,0,0,210,206,209,219,192,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,1,PS (I-V),1,Department of Education,Rural,2,0,0,274,277,270,321,322,0,0,0,0,0,0,0,261,286,262,299,262,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,1,PS (I-V),1,Department of Education,Rural,2,0,0,289,293,373,318,326,0,0,0,0,0,0,0,283,327,328,287,319,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,1,PS (I-V),1,Department of Education,Urban,2,0,0,23,25,23,22,24,0,0,0,0,0,0,0,17,21,24,21,23,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,1,PS (I-V),1,Department of Education,Urban,2,0,0,17,20,35,21,17,0,0,0,0,0,0,0,24,25,41,19,34,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,1,PS (I-V),1,Department of Education,Urban,2,0,0,108,148,118,148,135,0,0,0,0,0,0,0,132,138,124,155,159,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,1,PS (I-V),1,Department of Education,Urban,2,0,0,38,35,44,60,54,0,0,0,0,0,0,0,36,38,38,55,52,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,1,PS (I-V),1,Department of Education,Urban,2,0,0,2,8,8,1,11,0,0,0,0,0,0,0,7,8,5,8,12,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,1,PS (I-V),1,Department of Education,Urban,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,1,PS (I-V),4,Government Aided,Urban,2,0,0,0,1,1,6,10,0,0,0,0,0,0,0,12,16,9,11,9,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,5,3,4,3,3,4,1,0,0,0,0,0,0,0,4,2,3,1,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,48,29,34,33,34,32,11,5,2,1,4,11,5,1,31,14,25,20,10,0,1,2,5,5,2,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,37,22,55,33,38,19,19,0,0,0,0,0,0,0,19,7,18,9,6,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,17,7,8,5,7,2,1,1,0,0,0,0,7,6,2,1,2,1,1,1,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,12,5,15,9,13,5,5,0,0,0,0,0,0,0,3,4,5,3,2,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,2,1,21,15,18,12,9,0,0,0,0,0,0,0,16,7,6,5,4,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,22,13,19,16,14,14,3,0,0,0,0,0,0,0,7,11,3,7,1,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,10,8,13,10,16,10,10,7,3,6,0,0,0,0,12,6,7,3,1,4,2,1,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,70,44,28,18,20,6,4,0,3,3,0,0,0,0,21,14,11,6,6,2,2,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,4,2,10,13,7,5,12,15,6,7,1,0,0,0,7,2,9,10,7,4,6,3,1,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,5,8,4,4,7,2,4,1,0,1,0,0,0,0,3,0,1,1,0,1,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,6,4,0,0,0,0,0,0,0,0,0,0,5,3,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,3,2,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,4,1,4,1,2,5,4,5,1,6,0,0,3,3,2,0,0,0,2,1,1,6,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,11,6,2,2,2,1,0,1,3,2,13,0,1,0,1,0,3,0,1,0,1,0,11,1,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,1,3,1,5,6,1,0,3,1,8,0,0,3,2,1,1,1,0,0,0,3,1,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,7,1,2,0,1,2,0,4,1,3,5,0,0,0,2,1,1,0,0,3,1,1,0,1,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,11,8,2,4,5,10,7,10,7,9,13,15,12,8,5,6,4,5,3,9,2,3,9,5,1,7,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,5,3,6,7,20,1,9,5,11,9,24,18,0,0,5,9,6,5,3,6,3,4,19,5,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,39,25,18,13,6,8,11,17,11,8,15,4,0,0,15,12,6,11,11,9,6,6,14,4,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,27,14,33,31,27,23,36,15,6,18,18,5,0,0,22,23,18,21,19,10,5,10,16,4,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,56,36,25,15,6,11,11,11,7,10,16,2,2,2,11,12,8,4,7,1,4,7,12,7,1,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,232,141,56,42,0,0,0,0,0,0,0,0,191,119,23,32,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,191,116,23,12,0,0,0,0,0,0,0,0,163,104,24,14,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,246,139,44,26,0,0,0,0,0,0,0,0,204,133,52,23,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,68,40,1,3,0,0,0,0,0,0,0,0,59,37,3,4,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,69,24,0,0,0,0,0,0,0,0,0,0,36,8,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,111,65,8,16,0,0,0,0,0,0,0,0,78,53,8,9,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,151,91,8,17,0,0,0,0,0,0,0,0,118,74,6,5,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,49,28,10,6,0,0,0,0,0,0,0,0,2,0,1,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,39,24,2,0,0,0,0,0,0,0,0,0,36,18,3,9,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,8,SS (IX-X),1,Department of Education,Urban,2,6,0,0,0,0,0,0,0,0,0,71,51,22,14,0,0,0,0,0,0,0,0,8,9,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,2,2,5,6,0,0,0,0,0,0,0,0,4,2,2,1,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,9,8,5,2,6,1,4,3,1,2,9,5,17,15,2,4,2,2,0,1,1,0,14,3,6,4,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,15,12,4,0,2,1,3,2,1,2,12,0,0,1,0,1,0,1,3,1,0,1,9,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,8,SS (IX-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,8,SS (IX-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,29,30,18,24,0,0,0,0,0,0,0,0,23,10,7,5,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,8,SS (IX-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,51,31,22,25,22,14,16,10,8,6,0,0,0,0,22,14,9,7,6,5,2,3,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,46,40,37,34,42,37,26,28,17,13,0,0,0,0,28,38,29,22,9,19,10,6,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,61,46,65,65,55,63,55,26,27,28,3,0,0,0,50,51,44,48,33,24,17,7,2,1,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,17,20,8,8,12,7,5,7,0,0,0,0,9,11,8,11,5,5,3,2,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,21,11,12,14,12,14,10,4,5,3,0,0,0,0,5,5,5,9,8,2,0,1,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,55,44,42,29,27,41,17,33,0,0,0,0,44,29,37,18,22,13,12,9,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,31,17,31,26,32,28,29,17,19,14,0,0,0,0,28,20,12,13,7,7,7,8,1,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,14,8,20,10,11,17,17,16,13,14,0,0,0,0,25,11,14,7,10,7,5,5,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,137,120,100,92,105,78,99,88,74,61,0,0,0,0,92,67,80,76,68,65,41,31,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,60,54,65,34,30,30,27,20,25,11,9,1,1,1,35,26,17,14,19,11,11,14,7,1,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,20,21,17,21,14,8,12,12,15,6,2,1,0,0,10,13,11,5,12,3,3,4,0,2,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,350,297,319,0,0,0,0,0,0,0,0,0,321,312,272,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,334,343,341,0,0,0,0,0,0,0,0,0,360,334,361,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,495,458,472,0,0,0,0,0,0,0,0,0,440,465,459,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,388,332,291,0,0,0,0,0,0,0,0,0,358,313,286,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,235,244,221,0,0,0,0,0,0,0,0,0,212,211,247,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,303,365,333,0,0,0,0,0,0,0,0,0,284,339,286,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,333,324,320,0,0,0,0,0,0,0,0,0,351,327,330,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,44,33,30,0,0,0,0,0,0,0,0,0,60,51,55,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,160,142,146,0,0,0,0,0,0,0,0,0,203,192,221,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,70,52,65,0,0,0,0,0,0,0,0,0,64,51,69,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,16,15,20,0,0,0,0,0,0,0,0,0,17,15,11,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,4,UPS (VI-VIII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,13,13,17,0,0,0,0,0,0,0,0,0,7,5,2,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,3,2,3,6,13,0,7,4,9,5,0,0,0,0,4,5,3,4,3,4,3,3,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,2,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,2,2,1,3,1,5,2,1,4,2,1,5,0,3,0,2,3,2,2,2,0,0,1,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,1,1,0,5,11,4,9,0,0,0,0,0,0,0,0,3,3,2,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,13,8,7,13,6,7,7,7,7,7,10,17,12,5,6,2,2,6,9,7,4,5,9,12,7,15,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,3,HSS (I-XII),7,Central Govt,Urban,3,0,0,2,6,3,9,8,3,1,2,1,0,0,0,6,7,3,5,4,1,1,0,1,1,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,29,36,21,10,0,0,0,0,0,0,0,0,52,32,31,9,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,7,2,4,2,0,0,0,0,0,0,0,0,2,0,0,8,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,85,47,20,19,0,0,0,0,0,0,0,0,41,23,21,14,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,41,13,6,6,0,0,0,0,0,0,0,0,21,11,5,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,344,128,83,73,0,0,0,0,0,0,0,0,203,109,48,48,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,311,169,132,154,0,0,0,0,0,0,0,0,296,231,163,153,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,43,21,21,8,0,0,0,0,0,0,0,0,44,31,15,5,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,2,3,3,5,0,0,0,0,0,0,0,0,9,19,8,7,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,22,16,10,8,0,0,0,0,0,0,0,0,50,27,17,12,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,7,5,6,7,0,0,0,0,0,0,0,0,23,10,2,4,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,11,12,8,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,10,HSS (IX-XII),3,Local body,Urban,3,0,0,0,0,0,0,0,0,0,0,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,10,HSS (IX-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,11,10,4,1,0,0,0,0,0,0,0,0,2,2,1,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,1,6,2,0,0,0,0,0,0,0,0,0,0,3,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,5,HSS (VI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,1,2,1,14,14,6,11,0,0,0,0,0,0,0,1,1,4,1,1,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,1,0,1,0,1,1,0,1,1,0,10,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,5,HSS (VI-XII),7,Central Govt,Urban,3,0,0,0,0,0,0,0,0,0,0,13,9,10,13,0,0,0,0,0,0,0,0,3,7,6,9,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,1,PS (I-V),1,Department of Education,Rural,3,0,0,129,167,179,187,182,0,0,0,0,0,0,0,143,167,154,166,169,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,1,PS (I-V),1,Department of Education,Rural,3,0,0,66,89,87,91,72,0,0,0,0,0,0,0,64,87,94,93,85,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,1,PS (I-V),1,Department of Education,Rural,3,1,0,275,327,336,397,337,0,0,0,0,0,0,0,267,328,334,342,286,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,1,PS (I-V),1,Department of Education,Rural,3,0,0,227,215,263,289,255,0,0,0,0,0,0,0,205,184,245,265,265,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,1,PS (I-V),1,Department of Education,Rural,3,0,0,419,483,505,573,535,0,0,0,0,0,0,0,442,483,494,521,532,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,1,PS (I-V),1,Department of Education,Rural,3,0,0,326,392,403,386,407,0,0,0,0,0,0,0,363,377,398,376,400,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,1,PS (I-V),1,Department of Education,Rural,3,0,0,289,272,293,300,283,0,0,0,0,0,0,0,255,254,276,271,245,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,1,PS (I-V),1,Department of Education,Urban,3,0,0,2,16,3,20,11,0,0,0,0,0,0,0,6,10,15,16,6,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,1,PS (I-V),1,Department of Education,Urban,3,0,0,7,2,2,3,2,0,0,0,0,0,0,0,1,3,0,1,3,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,1,PS (I-V),1,Department of Education,Urban,3,0,0,9,9,19,15,15,0,0,0,0,0,0,0,6,11,17,15,19,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,1,PS (I-V),1,Department of Education,Urban,3,0,0,2,2,3,2,1,0,0,0,0,0,0,0,1,1,0,0,3,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,1,PS (I-V),1,Department of Education,Urban,3,0,0,4,0,0,1,3,0,0,0,0,0,0,0,0,1,0,5,4,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,1,PS (I-V),4,Government Aided,Urban,3,0,0,0,2,4,0,0,0,0,0,0,0,0,0,1,3,2,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,4,0,2,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,9,8,2,9,6,6,4,3,0,1,0,1,0,1,9,7,5,6,0,1,0,0,0,5,1,1,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,4,2,7,1,4,7,1,0,0,0,0,0,0,0,6,3,1,2,3,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,1,1,1,0,1,1,1,1,0,0,0,0,2,1,0,1,1,1,1,1,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,18,7,12,10,11,14,4,0,0,0,0,0,0,0,12,8,4,4,5,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,4,8,15,9,4,12,5,0,0,0,0,0,0,0,11,7,4,6,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,3,1,10,2,5,4,3,0,0,0,0,0,0,0,5,1,4,2,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,3,1,2,2,3,1,0,0,1,1,0,0,0,0,3,0,0,2,1,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,1,0,3,1,0,1,1,3,0,0,1,0,0,0,1,1,0,0,2,0,0,0,1,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,10,11,7,6,3,6,2,0,0,0,0,0,0,0,2,4,2,1,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,2,0,1,0,0,0,0,0,0,0,0,0,3,0,1,1,2,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,1,3,5,4,0,0,0,0,0,0,0,0,0,2,2,1,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,2,1,0,0,0,0,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,1,2,1,2,2,0,1,6,2,1,0,1,0,0,2,3,0,2,0,1,1,1,3,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,7,5,0,3,1,3,2,2,7,1,18,10,2,2,0,1,1,1,1,0,2,4,7,4,1,3,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,1,4,2,1,1,5,1,2,1,3,8,1,0,0,0,1,1,0,3,0,0,1,7,2,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,1,0,0,1,0,0,0,1,2,0,0,0,0,0,0,1,0,0,0,1,0,0,2,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,3,1,1,1,0,1,1,15,12,1,2,0,0,0,3,0,0,1,0,2,4,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,5,2,1,1,1,2,3,1,3,2,0,2,0,0,1,1,0,0,1,0,0,1,2,1,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,59,23,10,15,0,0,0,0,0,0,0,0,61,20,0,5,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,24,32,2,0,0,0,0,0,0,0,0,0,19,21,0,1,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,86,42,5,3,0,0,0,0,0,0,0,0,76,29,3,4,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,25,16,4,2,0,0,0,0,0,0,0,0,31,19,4,3,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,123,43,0,0,0,0,0,0,0,0,0,0,99,31,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,64,47,4,5,0,0,0,0,0,0,0,0,77,59,4,4,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,41,16,1,1,0,0,0,0,0,0,0,0,37,18,2,1,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,3,6,2,1,0,0,0,0,0,0,0,0,1,0,1,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,6,2,0,0,0,0,0,0,0,0,0,0,3,7,1,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,10,6,5,2,0,0,0,0,0,0,0,0,3,2,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,5,4,2,2,0,0,0,0,0,0,0,0,2,2,3,3,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,3,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,3,3,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,3,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,58,71,44,46,0,0,0,0,0,0,0,0,42,41,33,18,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,8,SS (IX-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,12,9,6,1,3,2,2,4,1,1,0,0,0,0,3,0,2,0,2,0,0,1,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,3,6,4,3,1,3,1,2,4,1,0,0,0,0,0,1,0,4,3,2,0,1,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,20,38,9,9,12,10,13,3,9,5,0,0,0,0,9,5,9,5,3,6,1,5,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,5,2,3,1,2,0,1,1,0,0,0,0,5,2,4,3,1,1,4,1,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,8,4,6,8,3,7,4,6,6,1,0,0,0,0,6,3,4,2,1,2,3,1,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,7,0,54,35,29,22,18,31,40,22,0,0,0,0,28,27,22,26,21,22,19,6,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,14,4,6,8,5,1,5,6,0,6,0,0,0,0,1,2,6,2,3,2,2,1,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,2,1,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,2,0,1,2,3,0,1,0,2,1,0,0,0,0,0,1,0,2,1,2,1,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,1,2,8,9,10,8,15,3,6,8,0,0,0,0,3,10,3,7,5,9,3,2,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,2,1,7,2,5,5,3,5,11,1,0,0,0,0,0,5,3,2,1,3,2,2,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,13,12,14,6,16,19,17,19,20,14,4,2,0,0,9,17,6,10,7,6,8,9,4,1,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,169,163,135,0,0,0,0,0,0,0,0,0,159,152,168,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,85,92,71,0,0,0,0,0,0,0,0,0,105,94,85,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,319,306,244,0,0,0,0,0,0,0,0,0,317,321,270,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,257,207,147,0,0,0,0,0,0,0,0,0,254,207,153,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,593,598,555,0,0,0,0,0,0,0,0,0,567,570,563,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,439,498,461,0,0,0,0,0,0,0,0,0,433,515,476,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,4,UPS (VI-VIII),1,Department of Education,Rural,3,14,24,0,0,0,0,0,284,261,199,0,0,0,0,0,0,0,0,0,273,272,245,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,4,6,12,0,0,0,0,0,0,0,0,0,7,8,3,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,15,24,32,0,0,0,0,0,0,0,0,0,34,31,23,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,6,4,3,0,0,0,0,0,0,0,0,0,3,5,3,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,14,16,16,0,0,0,0,0,0,0,0,0,2,10,4,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,4,UPS (VI-VIII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,4,4,6,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,2,4,1,1,1,5,0,2,1,1,0,0,0,0,0,1,1,0,3,0,0,1,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,40,25,41,35,35,28,38,46,49,57,79,91,11,10,23,26,27,25,15,22,30,17,80,40,4,12,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,7,5,4,3,8,28,26,21,55,45,38,38,6,3,9,0,0,12,7,10,51,39,30,18,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,198,151,112,127,130,116,140,130,131,123,202,208,168,218,99,88,78,82,93,100,104,101,216,133,88,114,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,3,HSS (I-XII),7,Central Govt,Urban,4,0,0,25,29,18,17,10,18,15,19,20,10,17,12,19,27,16,19,18,9,16,18,6,11,12,9,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,148,192,148,77,0,0,0,0,0,0,0,0,142,130,112,67,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,150,93,94,94,0,0,0,0,0,0,0,0,116,67,68,75,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,555,399,323,244,0,0,0,0,0,0,0,0,327,276,318,151,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,456,286,163,139,0,0,0,0,0,0,0,0,433,290,149,112,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,529,303,285,252,0,0,0,0,0,0,0,0,328,210,222,189,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,608,449,395,420,0,0,0,0,0,0,0,0,603,466,402,376,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,474,334,377,247,0,0,0,0,0,0,0,0,439,362,382,232,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,157,97,222,220,0,0,0,0,0,0,0,0,214,213,279,241,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,251,275,231,314,0,0,0,0,0,0,0,0,721,527,461,456,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,130,83,205,156,0,0,0,0,0,0,0,0,285,238,273,200,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,167,70,68,33,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,10,HSS (IX-XII),3,Local body,Urban,4,0,0,0,0,0,0,0,0,0,0,34,36,9,12,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,10,HSS (IX-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,226,135,165,106,0,0,0,0,0,0,0,0,37,32,36,26,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,50,47,59,37,45,33,20,33,25,22,7,2,29,35,21,28,27,30,20,14,28,15,8,7,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,14,4,1,1,0,0,0,0,0,0,0,0,22,1,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,37,68,37,40,0,0,0,0,0,0,0,0,35,6,0,7,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,5,HSS (VI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,27,37,40,220,272,139,135,0,0,0,0,0,2,3,8,46,72,43,47,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,58,59,39,35,42,29,36,37,43,40,74,66,84,82,30,44,38,29,27,29,18,31,71,37,21,36,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,5,HSS (VI-XII),7,Central Govt,Urban,4,0,0,0,0,0,0,0,0,0,0,14,11,12,11,0,0,0,0,0,0,0,0,11,6,5,7,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,1,PS (I-V),1,Department of Education,Rural,4,0,0,563,601,622,743,682,0,0,0,0,0,0,0,556,626,646,652,649,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,1,PS (I-V),1,Department of Education,Rural,4,22,39,437,504,520,580,623,0,0,0,0,0,0,0,551,559,603,712,591,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,1,PS (I-V),1,Department of Education,Rural,4,25,23,937,990,990,1125,1092,0,0,0,0,0,0,0,932,1021,1065,1112,1075,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,1,PS (I-V),1,Department of Education,Rural,4,0,0,565,542,605,664,609,0,0,0,0,0,0,0,570,547,567,640,635,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,1,PS (I-V),1,Department of Education,Rural,4,0,0,485,517,547,638,644,0,0,0,0,0,0,0,502,534,532,646,640,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,1,PS (I-V),1,Department of Education,Rural,4,0,0,538,574,557,675,678,0,0,0,0,0,0,0,571,604,662,634,642,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,1,PS (I-V),1,Department of Education,Rural,4,0,0,574,662,719,765,701,0,0,0,0,0,0,0,636,696,754,774,716,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,1,PS (I-V),1,Department of Education,Urban,4,0,0,10,12,15,15,15,0,0,0,0,0,0,0,14,18,18,25,28,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,1,PS (I-V),1,Department of Education,Urban,4,0,0,21,33,38,38,39,0,0,0,0,0,0,0,38,28,50,32,54,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,1,PS (I-V),1,Department of Education,Urban,4,0,0,134,140,189,193,192,0,0,0,0,0,0,0,136,179,179,228,213,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,1,PS (I-V),1,Department of Education,Urban,4,0,0,68,72,53,60,91,0,0,0,0,0,0,0,71,49,67,99,92,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,1,PS (I-V),1,Department of Education,Urban,4,0,0,30,28,21,26,29,0,0,0,0,0,0,0,24,25,31,33,33,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,1,PS (I-V),1,Department of Education,Urban,4,0,0,2,4,2,1,3,0,0,0,0,0,0,0,0,1,4,3,2,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,1,PS (I-V),4,Government Aided,Urban,4,0,0,10,13,15,27,26,0,0,0,0,0,0,0,19,20,31,16,30,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,16,4,35,27,37,19,30,0,0,0,0,0,0,0,29,18,17,19,16,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,253,200,216,199,171,152,107,33,17,13,28,32,13,10,172,161,113,119,74,12,7,3,26,10,10,8,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,247,141,209,188,146,133,114,1,1,0,0,0,0,0,180,105,97,75,61,0,1,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,69,67,43,22,22,3,1,2,0,0,0,0,35,30,16,14,18,3,1,2,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,66,45,63,53,52,53,30,0,0,0,0,0,0,0,29,27,29,18,13,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,6,8,65,46,64,51,41,0,0,0,0,0,0,0,46,35,24,26,21,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,139,85,119,97,94,74,77,15,7,0,0,0,0,0,81,77,59,49,51,10,1,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,29,34,56,44,38,42,34,42,37,26,0,0,0,0,38,39,24,24,24,19,18,18,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,326,276,121,120,75,73,28,16,12,10,2,0,0,0,111,83,58,35,16,10,6,7,2,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,27,12,40,39,35,30,28,35,33,42,14,0,0,0,45,27,25,31,17,20,16,19,12,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,46,47,39,27,15,8,13,10,5,8,0,0,0,0,23,6,7,5,5,5,3,4,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,6,4,2,4,4,0,0,0,0,0,0,0,4,3,3,3,3,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,8,6,5,10,11,0,0,0,0,0,0,0,8,2,7,5,7,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,12,21,27,38,15,0,0,0,0,0,0,0,21,17,23,20,16,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,11,27,21,18,16,0,0,0,0,0,0,0,16,27,15,17,18,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,20,22,32,29,24,28,28,27,43,27,0,0,19,19,15,9,12,17,19,15,69,19,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,55,25,27,29,33,31,24,39,17,24,46,20,12,8,18,14,7,7,12,9,8,9,45,14,6,4,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,3,7,5,2,4,4,3,8,11,16,0,0,0,2,6,3,0,3,3,4,13,9,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,33,20,19,18,25,18,25,38,40,30,48,26,0,0,12,17,15,19,9,11,17,17,46,9,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,51,43,21,29,25,21,32,35,38,43,94,77,35,58,27,27,32,28,16,22,22,14,85,33,32,43,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,35,27,48,45,42,36,39,53,50,65,121,120,0,0,27,25,25,23,25,26,36,29,94,62,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,127,100,71,85,51,76,66,88,73,73,131,69,0,0,45,49,41,45,43,49,30,35,122,39,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,104,86,62,56,65,57,68,97,94,86,77,60,0,0,20,34,34,30,30,30,29,31,71,12,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,71,45,45,27,33,32,37,55,44,44,78,42,10,11,31,20,26,24,16,19,23,24,74,26,7,7,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,613,499,169,189,0,0,0,0,0,0,0,0,564,446,174,131,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,571,349,78,54,0,0,0,0,0,0,0,0,528,424,83,64,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,593,413,151,100,0,0,0,0,0,0,0,0,717,528,142,94,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,160,109,5,14,0,0,0,0,0,0,0,0,131,109,7,12,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,326,130,0,0,0,0,0,0,0,0,0,0,241,145,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,289,176,48,59,0,0,0,0,0,0,0,0,258,167,62,50,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,406,280,61,64,0,0,0,0,0,0,0,0,362,247,53,62,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,80,76,29,20,0,0,0,0,0,0,0,0,5,10,3,7,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,42,43,41,19,0,0,0,0,0,0,0,0,40,43,11,11,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,235,156,64,67,0,0,0,0,0,0,0,0,44,27,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,34,32,33,16,0,0,0,0,0,0,0,0,18,11,7,5,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,39,28,18,13,19,13,7,5,9,12,55,43,48,48,12,7,6,4,9,8,7,9,60,35,55,48,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,50,28,24,19,27,28,32,20,18,19,40,16,5,7,16,10,8,14,8,19,12,19,38,9,3,1,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,8,SS (IX-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,19,15,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,8,SS (IX-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,100,206,160,144,0,0,0,0,0,0,0,0,84,62,58,56,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,8,SS (IX-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,0,0,0,0,0,0,0,0,5,3,0,0,0,0,0,0,0,0,0,0,6,2,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,133,108,89,69,101,48,88,73,70,45,0,0,0,0,81,52,53,38,42,37,36,27,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,163,119,153,164,181,138,150,186,129,140,0,0,0,0,94,134,137,141,122,112,95,99,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,210,129,217,187,224,216,171,175,156,158,18,3,0,0,171,146,194,142,142,94,74,63,16,4,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,8,12,91,36,52,39,35,31,38,29,0,0,0,0,89,35,40,37,27,21,17,11,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,112,57,67,51,46,56,53,44,31,30,0,0,0,0,31,24,31,31,15,16,15,22,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,187,195,162,177,172,190,177,156,0,0,0,0,158,141,110,97,87,94,104,95,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,125,88,137,120,113,122,101,120,110,113,5,0,0,0,92,87,84,91,72,80,74,85,2,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,31,13,12,20,15,18,12,22,14,20,0,0,0,0,14,15,14,12,9,14,10,12,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,23,20,86,86,76,83,62,72,65,48,0,0,0,0,66,62,54,52,40,42,34,32,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,271,262,346,361,367,341,341,259,251,216,0,0,0,0,291,321,270,244,264,241,204,176,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,181,124,272,173,140,123,128,119,91,106,42,9,16,19,189,112,90,110,93,73,162,58,38,15,12,5,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,119,106,160,143,130,118,113,111,94,107,57,14,0,0,93,110,75,74,71,75,56,84,15,9,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,10,9,4,3,8,8,5,3,0,0,0,0,14,11,7,7,10,3,8,14,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,5,4,14,15,5,20,16,8,0,0,0,0,2,10,8,11,3,14,5,4,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231201,PATERA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,774,768,724,0,0,0,0,0,0,0,0,0,700,748,805,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,655,705,662,0,0,0,0,0,0,0,0,0,762,742,800,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,4,UPS (VI-VIII),1,Department of Education,Rural,4,5,0,0,0,0,0,0,1129,1143,1100,0,0,0,0,0,0,0,0,0,1104,1195,1245,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,612,633,620,0,0,0,0,0,0,0,0,0,629,695,693,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,643,691,696,0,0,0,0,0,0,0,0,0,681,754,800,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231206,JABERA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,710,727,700,0,0,0,0,0,0,0,0,0,733,793,858,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,4,UPS (VI-VIII),1,Department of Education,Rural,4,7,1,0,0,0,0,0,811,800,805,0,0,0,0,0,0,0,0,0,804,810,847,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,84,70,58,0,0,0,0,0,0,0,0,0,126,142,128,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,219,295,248,0,0,0,0,0,0,0,0,0,330,423,452,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231204,HATTA,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,110,116,106,0,0,0,0,0,0,0,0,0,162,153,174,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231205,TENDUKHEDA,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,36,35,40,0,0,0,0,0,0,0,0,0,33,52,64,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,4,UPS (VI-VIII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,52,63,67,0,0,0,0,0,0,0,0,0,29,23,21,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231202,PATHARIA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,13,15,0,0,0,0,0,9,7,3,0,0,0,0,0,0,0,0,0,3,3,2,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231207,BATIYAGARH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,56,46,37,34,30,27,24,33,30,32,0,0,0,0,19,17,17,14,14,20,21,15,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2312,DAMOH,231203,DAMOH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,3,0,0,0,0,OBC

@@ -1,0 +1,541 @@
+ac_year,state_code,state_name,district_code,district_name,block_code,block_name,sch_category_id,category_name,sch_mgmt_id,sch_mgmt_name,loc_name,caste_id,pre_primary_boys,pre_primary_girls,class_1_boys,class_2_boys,class_3_boys,class_4_boys,class_5_boys,class_6_boys,class_7_boys,class_8_boys,class_9_boys,class_10_boys,class_11_boys,class_12_boys,class_1_girls,class_2_girls,class_3_girls,class_4_girls,class_5_girls,class_6_girls,class_7_girls,class_8_girls,class_9_girls,class_10_girls,class_11_girls,class_12_girls,caste_name
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,1,0,1,0,General
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,2,1,2,4,9,0,0,0,0,0,0,0,0,0,0,6,9,SC
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,1,PS (I-V),4,Government Aided,Rural,4,0,0,11,7,8,13,12,0,0,0,0,0,0,0,5,2,8,9,12,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,7,10,7,6,8,0,0,0,0,0,0,0,4,9,7,5,5,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,3,7,4,5,9,0,0,0,0,0,0,0,4,10,8,7,15,General
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,1,0,0,25,8,0,0,0,0,0,0,0,0,0,0,34,15,General
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,11,10,20,2,9,0,0,0,0,0,0,0,8,16,11,8,2,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,2,3,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,2,2,0,14,21,0,0,0,0,0,0,0,15,20,14,23,27,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,1,1,0,5,4,0,0,0,0,0,0,0,2,4,1,12,9,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,3,4,3,15,15,0,0,0,0,0,0,2,7,14,4,13,14,General
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,11,9,16,68,67,0,0,0,0,0,0,0,1,1,2,65,63,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,5,HSS (VI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,6,7,14,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,2,1,1,1,1,0,0,0,0,0,0,0,2,2,0,0,3,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,5,3,0,0,0,0,0,0,0,0,0,0,2,10,General
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,15,10,15,0,0,0,0,0,0,0,0,0,15,17,10,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,3,3,0,1,0,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,4,1,2,1,1,0,0,0,0,0,0,0,2,7,3,5,4,General
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,7,21,10,8,7,0,0,0,0,0,0,0,20,15,18,9,8,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,5,HSS (VI-XII),7,Central Govt,Rural,1,0,0,0,0,0,0,0,13,2,5,10,10,7,4,0,0,0,0,0,4,2,4,11,10,4,7,General
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,General
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,11,HSS (XI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,4,8,0,0,0,0,0,0,0,0,0,0,8,4,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,11,HSS (XI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,62,48,0,0,0,0,0,0,0,0,0,0,50,43,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,11,HSS (XI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,94,75,0,0,0,0,0,0,0,0,0,0,106,82,General
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,11,HSS (XI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,31,35,0,0,0,0,0,0,0,0,0,0,43,54,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,71,91,0,0,0,0,0,0,0,0,0,0,33,50,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,13,9,0,0,0,0,0,0,0,0,0,0,4,10,General
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,83,15,0,0,0,0,0,0,0,0,0,0,73,17,General
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,6,3,0,0,0,0,0,0,0,0,0,0,11,6,General
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,61,58,0,0,0,0,0,0,0,0,0,0,28,40,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,139,129,0,0,0,0,0,0,0,0,0,0,131,101,General
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,26,13,0,0,0,0,0,0,0,0,0,0,30,13,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,1,PS (I-V),1,Department of Education,Rural,1,0,0,2,2,1,2,0,0,0,0,0,0,0,0,0,2,3,1,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,1,PS (I-V),1,Department of Education,Rural,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,1,PS (I-V),1,Department of Education,Rural,1,0,0,1,1,5,1,2,0,0,0,0,0,0,0,0,1,2,1,2,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,1,PS (I-V),1,Department of Education,Rural,1,0,0,2,0,6,1,3,0,0,0,0,0,0,0,5,4,3,1,5,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,1,PS (I-V),1,Department of Education,Rural,1,0,0,0,1,2,0,1,0,0,0,0,0,0,0,1,3,0,1,1,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,1,PS (I-V),4,Government Aided,Rural,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,1,PS (I-V),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,1,PS (I-V),4,Government Aided,Rural,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,1,PS (I-V),4,Government Aided,Rural,1,0,0,2,1,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,1,PS (I-V),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,1,PS (I-V),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,1,PS (I-V),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,7,9,5,2,2,1,2,7,3,1,5,1,0,0,3,2,3,2,4,3,1,0,6,1,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,1,6,4,4,2,0,0,0,0,0,0,0,7,5,6,6,2,0,2,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,6,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,2,2,4,1,4,0,0,1,1,0,0,0,0,0,3,1,3,0,0,1,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,2,1,0,3,0,0,1,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,1,PS (I-V),7,Central Govt,Urban,1,0,0,8,6,3,2,5,0,0,0,0,0,0,0,8,2,1,5,3,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,42,38,25,29,19,21,31,17,19,18,18,23,6,6,28,16,19,17,26,20,17,22,13,18,2,6,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,2,6,2,0,3,3,2,3,2,2,4,2,0,0,1,4,3,4,3,4,0,3,4,6,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,6,6,8,11,7,11,13,10,5,7,5,8,0,0,8,9,12,10,8,4,8,7,8,4,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,6,4,2,2,2,4,3,2,5,1,1,3,0,0,3,3,1,4,8,2,4,5,10,4,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,0,0,5,5,3,4,0,1,4,3,15,15,0,0,3,6,1,3,0,0,3,2,6,9,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,0,0,25,16,18,18,13,16,7,15,20,25,42,45,14,14,12,18,14,18,12,14,15,17,34,47,General
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,26,21,28,27,34,77,71,45,60,40,43,35,6,7,21,26,29,54,55,46,42,51,56,45,7,4,General
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,8,10,4,6,1,0,0,0,0,0,0,0,9,12,13,5,6,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,21,10,0,0,0,0,0,0,0,0,0,0,8,7,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,2,0,5,0,0,0,0,0,0,0,0,0,1,2,2,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,25,31,25,12,10,0,0,0,0,0,0,0,19,24,23,5,11,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,5,6,4,0,0,0,0,0,0,0,0,0,6,3,4,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,2,2,0,General
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,10,14,18,8,10,0,0,0,0,0,0,0,10,20,12,6,14,General
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,21,66,58,71,46,0,0,0,0,0,0,0,26,58,84,65,53,General
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,2,2,2,0,3,0,0,0,0,0,0,0,2,4,1,1,2,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,7,SS (VI-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,5,2,7,0,0,0,0,0,0,0,0,0,9,3,6,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,7,SS (VI-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,11,21,19,0,0,0,0,0,0,0,0,0,12,21,22,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,7,SS (VI-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,6,9,5,9,6,0,0,0,0,0,0,0,3,4,9,14,9,General
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,7,SS (VI-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,7,SS (VI-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,7,SS (VI-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,7,SS (VI-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,7,SS (VI-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,7,SS (VI-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,5,1,4,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,4,9,7,4,1,0,0,0,0,0,0,0,7,6,12,2,1,General
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,16,14,19,28,24,0,0,0,0,0,0,0,8,10,10,16,12,General
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,19,19,21,0,0,0,0,0,0,0,0,0,14,26,26,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,12,14,11,17,14,0,0,0,0,0,0,0,19,24,21,8,6,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,7,SS (VI-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,5,12,15,0,0,0,0,0,0,0,0,0,8,6,16,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,7,SS (VI-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,22,18,27,0,0,0,0,0,0,0,0,1,22,25,43,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,7,SS (VI-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,3,1,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,7,SS (VI-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,2,4,8,10,11,2,3,0,0,0,0,0,3,2,7,6,8,0,5,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,1,1,3,2,0,0,0,0,0,0,0,0,1,3,1,5,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,1,1,3,7,6,6,8,50,43,49,0,0,1,1,7,6,6,10,7,39,38,40,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,10,3,13,10,9,9,14,7,7,28,29,21,0,0,9,6,5,15,3,4,8,28,22,40,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,16,8,13,2,1,0,0,0,0,0,0,0,11,6,13,2,1,General
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,48,56,50,1,0,0,0,0,0,0,0,0,38,36,47,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,22,17,32,0,0,0,0,0,0,0,0,0,19,16,19,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,4,3,50,72,58,7,3,0,0,0,0,0,2,1,31,42,58,1,0,General
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,7,11,11,0,0,0,0,0,0,0,0,0,10,11,12,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,3,7,9,0,0,0,0,0,0,0,0,0,9,8,9,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,4,7,5,12,9,11,12,0,0,0,0,0,1,3,10,12,8,14,14,1,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,0,2,2,4,5,5,8,0,0,0,0,0,3,2,5,2,3,5,7,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,15,9,14,16,16,19,19,1,0,0,0,0,8,8,13,10,17,16,13,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,14,6,10,18,12,47,23,1,0,0,0,0,10,8,9,12,17,36,10,6,0,1,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,3,8,7,6,12,13,9,1,0,0,0,0,3,7,12,4,7,13,16,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,4,1,1,5,6,1,7,0,0,0,0,0,2,1,1,1,4,8,2,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,1,3,1,5,3,10,7,0,0,0,0,0,1,3,1,2,7,5,4,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,1,0,1,2,1,2,3,0,0,0,0,0,1,0,0,3,4,3,6,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,3,2,10,8,10,6,8,0,0,0,0,0,2,7,6,4,9,9,5,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,1,5,9,5,8,11,9,0,0,0,0,0,3,9,4,9,8,13,13,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,1,5,1,3,4,9,8,0,0,0,0,0,1,5,6,2,5,1,4,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,0,0,1,2,2,1,2,0,0,0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,10,3,9,9,11,12,20,0,0,0,0,0,8,10,6,18,11,15,17,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,2,UPS (I-VIII),4,Government Aided,Urban,1,0,0,0,0,1,2,3,0,3,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,2,UPS (I-VIII),4,Government Aided,Urban,1,0,0,3,4,4,3,2,7,5,0,0,0,0,0,5,7,4,5,3,4,5,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,2,UPS (I-VIII),4,Government Aided,Urban,1,0,0,1,2,0,0,4,2,0,0,0,0,0,0,2,0,2,1,1,1,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,2,UPS (I-VIII),4,Government Aided,Urban,1,0,0,3,4,2,0,3,2,4,0,0,0,0,0,1,1,2,2,3,4,7,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,11,8,3,4,2,9,8,8,10,14,13,10,0,0,7,6,8,5,9,10,7,6,11,14,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,10,8,31,41,37,33,48,35,38,6,5,1,0,0,28,33,24,28,47,30,46,4,1,1,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,39,48,50,52,53,49,37,6,8,3,0,0,45,44,31,40,45,40,48,8,10,7,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,36,30,33,36,23,28,35,39,48,22,22,21,0,0,27,16,32,26,21,28,24,22,14,10,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,88,117,60,78,52,61,97,80,71,2,0,0,0,0,65,69,50,71,63,51,66,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,23,31,18,18,32,30,25,25,26,1,2,1,0,0,18,18,16,17,22,26,23,1,0,2,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,38,39,43,42,40,46,52,56,52,1,0,0,0,0,19,55,39,42,56,40,66,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,7,4,13,16,26,18,27,26,28,0,0,0,0,0,18,20,21,23,15,13,19,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,29,28,10,5,10,12,7,11,5,1,1,1,0,0,14,6,7,8,8,10,13,2,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,3,3,2,1,1,0,0,0,0,0,0,0,5,1,4,2,1,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,4,2,5,3,0,0,0,0,0,0,0,3,4,2,1,3,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,41,77,74,51,27,0,0,0,0,0,0,0,33,52,56,75,43,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,15,23,21,28,27,0,0,0,0,0,0,0,17,15,19,28,31,SC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,1,2,1,1,1,0,0,0,0,0,0,0,1,6,3,2,1,SC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,9,11,13,19,8,0,0,0,0,0,0,0,10,15,14,18,14,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,4,7,4,30,11,0,0,0,0,0,0,0,2,6,1,30,30,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,8,5,6,42,45,0,0,0,0,0,0,0,13,13,16,73,53,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,11,13,9,13,6,0,0,0,0,0,0,0,7,10,4,13,11,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,12,9,12,23,10,0,0,0,0,0,0,0,15,23,13,23,11,SC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,14,16,13,16,10,0,0,0,0,0,0,0,6,6,2,19,20,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,5,HSS (VI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,4,1,14,13,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,8,4,0,0,0,0,0,0,0,1,0,0,6,4,SC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,1,3,3,0,0,0,0,0,0,0,0,0,1,1,1,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,4,1,1,3,2,0,0,0,0,0,0,0,0,1,4,8,6,SC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,3,0,2,1,1,0,0,0,0,0,0,0,5,1,2,1,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,5,HSS (VI-XII),7,Central Govt,Rural,2,0,0,0,0,0,0,0,4,5,2,2,8,1,13,0,0,0,0,0,5,6,3,4,7,1,5,SC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,SC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,11,HSS (XI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,5,2,0,0,0,0,0,0,0,0,0,0,3,3,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,11,HSS (XI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,24,23,0,0,0,0,0,0,0,0,0,0,13,8,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,11,HSS (XI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,16,14,0,0,0,0,0,0,0,0,0,0,10,7,SC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,11,HSS (XI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,11,6,0,0,0,0,0,0,0,0,0,0,17,7,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,16,21,0,0,0,0,0,0,0,0,0,0,9,6,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,1,3,SC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,12,17,0,0,0,0,0,0,0,0,0,0,11,11,SC
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,7,6,0,0,0,0,0,0,0,0,0,0,11,5,SC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,10,9,0,0,0,0,0,0,0,0,0,0,12,17,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,23,13,0,0,0,0,0,0,0,0,0,0,15,20,SC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,0,10,5,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,1,PS (I-V),1,Department of Education,Rural,2,0,0,19,17,16,14,18,0,0,0,0,0,0,0,18,14,18,13,7,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,1,PS (I-V),1,Department of Education,Rural,2,0,0,0,2,2,1,1,0,0,0,0,0,0,0,0,2,0,1,3,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,1,PS (I-V),1,Department of Education,Rural,2,0,0,12,5,9,13,12,0,0,0,0,0,0,0,7,12,6,8,8,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,1,PS (I-V),1,Department of Education,Rural,2,0,0,14,19,17,23,16,0,0,0,0,0,0,0,20,15,16,18,12,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,1,PS (I-V),1,Department of Education,Rural,2,0,0,5,10,6,8,3,0,0,0,0,0,0,0,12,6,7,8,7,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,1,PS (I-V),1,Department of Education,Urban,2,0,0,2,0,3,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,1,PS (I-V),1,Department of Education,Urban,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,3,2,2,2,2,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,1,PS (I-V),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,1,PS (I-V),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,1,PS (I-V),4,Government Aided,Rural,2,0,0,0,2,2,1,1,0,0,0,0,0,0,0,2,0,1,4,4,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,1,PS (I-V),4,Government Aided,Rural,2,0,0,0,0,0,3,2,0,0,0,0,0,0,0,1,1,1,0,2,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,1,PS (I-V),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,1,PS (I-V),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,1,PS (I-V),4,Government Aided,Urban,2,0,0,1,3,0,0,2,0,0,0,0,0,0,0,0,1,1,1,2,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,1,PS (I-V),4,Government Aided,Urban,2,0,0,1,0,1,2,2,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,0,1,0,1,0,1,0,1,0,1,0,0,2,0,1,0,1,0,0,2,0,0,2,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,4,2,2,0,1,0,0,0,0,0,0,0,2,2,0,1,1,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,2,1,2,4,0,1,1,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,1,4,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,1,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,1,PS (I-V),7,Central Govt,Urban,2,0,0,2,1,0,1,0,0,0,0,0,0,0,0,4,2,0,3,1,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,6,3,3,3,1,6,3,1,4,2,1,0,2,2,2,1,1,4,4,0,3,1,1,2,5,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,5,3,4,4,3,2,1,1,0,0,0,1,0,0,7,2,0,2,3,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,10,4,1,2,2,0,0,0,1,0,0,2,0,0,0,0,1,3,1,1,0,1,0,1,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,1,1,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,0,0,3,2,0,1,0,1,0,0,0,0,0,1,1,1,5,1,0,0,0,0,0,0,3,4,SC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,1,1,1,0,0,1,1,0,0,0,1,1,0,0,1,0,0,0,1,1,0,0,1,2,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,6,4,0,4,1,0,1,1,1,1,2,2,0,0,3,0,1,2,0,2,0,1,0,1,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,11,8,5,20,5,0,0,0,0,0,0,0,10,21,11,15,14,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,3,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,33,52,39,0,0,0,0,0,0,0,0,0,42,57,46,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,13,13,14,1,0,0,0,0,0,0,0,0,8,3,8,0,4,SC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,28,51,41,7,5,0,0,0,0,0,0,0,37,41,48,10,12,SC
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,22,64,46,28,29,0,0,0,0,0,0,0,27,35,32,32,24,SC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,15,27,27,6,2,0,0,0,0,0,0,0,16,17,23,3,6,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,7,SS (VI-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,15,11,10,0,0,0,0,0,0,0,0,0,13,17,19,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,7,SS (VI-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,21,22,18,0,0,0,0,0,0,0,0,0,20,12,10,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,7,SS (VI-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,19,12,17,29,15,0,0,0,0,0,0,0,9,16,14,40,24,SC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,7,SS (VI-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,8,9,8,0,0,0,0,0,0,0,0,0,9,16,6,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,3,2,2,5,2,11,1,0,0,0,0,0,2,1,2,1,1,4,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,2,1,0,1,2,0,0,0,0,0,0,0,1,0,1,1,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,11,7,14,5,7,0,0,0,0,0,0,0,8,5,6,6,2,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,32,16,23,0,0,0,0,0,0,0,0,0,16,16,19,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,28,40,33,3,4,0,0,0,0,0,0,0,25,30,33,5,4,SC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,11,17,12,9,9,0,0,0,0,0,0,0,3,14,11,14,6,SC
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,13,12,9,0,0,0,0,0,0,0,0,0,10,13,12,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,35,37,34,13,7,0,0,0,0,0,0,0,60,59,75,12,7,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,7,SS (VI-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,7,6,7,0,0,0,0,0,0,0,0,0,6,8,4,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,7,SS (VI-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,1,28,35,33,0,0,0,0,0,0,0,0,0,29,15,21,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,7,SS (VI-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,3,3,2,0,0,0,0,0,0,0,0,0,3,12,16,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,7,SS (VI-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,4,4,6,6,3,3,1,0,0,0,0,0,0,1,4,2,3,5,7,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,1,0,9,0,2,0,0,0,0,0,0,0,0,1,1,0,1,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,1,0,0,1,0,0,1,13,4,15,0,0,1,1,1,0,1,1,0,8,7,5,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,3,1,0,2,2,1,2,0,2,2,2,1,0,0,0,0,1,0,1,0,2,3,0,3,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,19,12,13,0,0,0,0,0,0,0,0,0,15,19,16,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,9,6,6,1,0,0,0,0,0,0,0,0,10,9,16,1,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,1,1,3,8,6,4,1,0,0,0,0,0,1,2,6,6,4,1,2,SC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,0,0,0,0,6,3,3,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,1,2,2,0,0,0,0,0,0,0,0,0,1,2,3,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,67,76,67,66,68,105,93,18,0,0,0,0,64,80,76,54,64,81,95,13,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,36,27,36,36,28,38,32,0,0,0,0,0,30,18,26,32,22,22,40,1,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,41,39,42,54,49,59,67,18,0,0,0,0,42,41,37,48,34,50,45,12,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,2,UPS (I-VIII),1,Department of Education,Rural,2,1,0,28,33,32,39,35,63,62,22,1,2,0,0,38,27,31,39,39,62,58,29,4,1,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,28,25,29,20,35,45,43,12,1,1,0,0,32,33,27,30,29,37,30,9,1,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,5,3,4,8,5,4,9,0,0,0,0,0,3,8,6,4,6,5,5,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,17,10,16,17,13,19,16,0,0,0,0,0,7,12,21,16,14,12,6,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,6,5,9,6,8,11,9,0,0,0,0,0,3,10,8,6,1,10,13,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,12,4,13,14,13,11,9,0,0,0,0,0,8,10,13,10,14,11,6,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,33,34,33,35,51,35,40,0,0,0,0,0,31,36,40,36,30,35,50,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,48,35,56,44,33,54,44,0,0,0,0,0,51,44,49,52,36,47,58,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,11,15,12,18,12,15,15,0,0,0,0,0,10,15,10,14,14,13,16,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,3,4,1,3,5,5,10,0,0,0,0,0,4,3,5,2,4,3,12,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,30,21,31,29,41,43,42,0,0,0,0,0,33,30,27,34,28,38,33,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,2,UPS (I-VIII),4,Government Aided,Urban,2,0,0,2,4,5,5,4,5,4,0,0,0,0,0,4,3,1,0,3,4,6,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,2,UPS (I-VIII),4,Government Aided,Urban,2,0,0,20,29,19,18,22,24,23,0,0,0,0,0,12,27,24,23,26,24,21,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,2,UPS (I-VIII),4,Government Aided,Urban,2,0,0,2,2,5,0,4,9,2,0,0,0,0,0,7,5,7,3,7,5,10,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,2,UPS (I-VIII),4,Government Aided,Urban,2,0,0,9,11,4,5,9,15,10,0,0,0,0,0,5,8,4,6,8,11,10,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,2,0,4,2,1,1,0,4,1,0,4,3,0,0,0,2,1,2,3,0,0,1,5,2,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,10,7,13,10,12,11,11,5,13,1,0,0,0,0,26,12,7,10,8,16,8,1,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,7,9,6,5,3,13,4,0,0,0,0,0,8,3,6,6,6,7,2,1,1,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,15,8,8,8,4,7,2,11,4,3,5,2,0,0,2,6,2,6,0,1,3,2,5,1,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,32,22,20,6,15,16,6,12,12,0,0,0,0,0,17,10,11,12,11,6,11,1,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,6,2,2,3,6,0,2,3,0,1,0,0,0,0,2,1,0,3,1,2,1,1,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,8,16,10,7,4,3,3,4,4,0,0,0,0,0,9,5,8,5,6,7,3,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,4,1,7,3,3,4,7,5,3,0,0,0,0,0,5,5,3,3,2,3,2,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,11,6,9,7,7,6,7,7,6,1,0,0,0,0,4,4,1,2,4,5,6,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,5,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,3,4,0,0,0,0,0,SC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,10,10,7,16,5,0,0,0,0,0,0,0,10,7,2,13,7,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,36,47,41,49,34,0,0,0,0,0,0,0,38,30,42,53,39,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,18,13,20,37,55,0,0,0,0,0,0,0,12,7,17,36,60,ST
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,2,4,9,11,7,0,0,0,0,0,0,0,3,5,5,7,6,ST
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,1,3,1,12,1,0,0,0,0,0,0,0,0,0,3,7,1,ST
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,8,8,12,11,12,0,0,0,0,0,0,0,6,11,18,27,13,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,1,1,18,20,0,0,0,0,0,0,0,0,0,1,15,15,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,1,2,2,8,10,0,0,0,0,0,0,0,3,11,9,30,33,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,3,2,4,5,7,0,0,0,0,0,0,0,4,5,4,6,2,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,3,7,5,4,4,0,0,0,0,0,0,0,3,2,1,6,7,ST
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,6,2,2,10,8,0,0,0,0,0,0,0,2,1,1,11,7,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,5,HSS (VI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,1,1,6,8,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,6,2,0,0,0,0,0,0,0,0,0,0,10,11,ST
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0,0,2,2,1,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,5,HSS (VI-XII),7,Central Govt,Rural,3,0,0,0,0,0,0,0,7,2,3,7,2,2,1,0,0,0,0,0,0,9,7,4,2,3,2,ST
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,3,ST
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,11,HSS (XI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,3,7,0,0,0,0,0,0,0,0,0,0,2,4,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,11,HSS (XI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,11,9,0,0,0,0,0,0,0,0,0,0,8,6,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,11,HSS (XI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,14,7,0,0,0,0,0,0,0,0,0,0,14,16,ST
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,11,HSS (XI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,8,1,0,0,0,0,0,0,0,0,0,0,4,3,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,22,12,0,0,0,0,0,0,0,0,0,0,10,24,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,2,6,0,0,0,0,0,0,0,0,0,0,2,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,4,5,0,0,0,0,0,0,0,0,0,0,4,2,ST
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,14,9,0,0,0,0,0,0,0,0,0,0,25,12,ST
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,18,6,0,0,0,0,0,0,0,0,0,0,18,10,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,11,11,0,0,0,0,0,0,0,0,0,0,6,6,ST
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,2,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,1,PS (I-V),1,Department of Education,Rural,3,0,0,22,21,16,12,16,0,0,0,0,0,0,0,13,19,17,16,18,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,1,PS (I-V),1,Department of Education,Rural,3,0,0,1,3,1,1,3,0,0,0,0,0,0,0,1,2,1,3,1,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,1,PS (I-V),1,Department of Education,Rural,3,0,0,9,5,7,11,9,0,0,0,0,0,0,0,12,13,12,6,11,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,1,PS (I-V),1,Department of Education,Rural,3,0,0,47,35,27,36,32,5,3,0,0,0,0,0,38,37,37,42,38,8,4,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,1,PS (I-V),1,Department of Education,Rural,3,0,0,13,9,7,9,4,0,0,0,0,0,0,0,6,14,10,7,10,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,1,PS (I-V),1,Department of Education,Urban,3,0,0,3,1,4,2,1,0,0,0,0,0,0,0,1,0,1,0,2,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,21,14,10,14,11,0,0,0,0,0,0,0,10,6,12,8,5,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,1,PS (I-V),4,Government Aided,Rural,3,0,0,2,2,2,0,0,0,0,0,0,0,0,0,1,0,1,3,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,1,PS (I-V),4,Government Aided,Rural,3,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,1,PS (I-V),4,Government Aided,Rural,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,1,PS (I-V),4,Government Aided,Rural,3,0,0,2,2,1,1,1,0,0,0,0,0,0,0,0,2,2,3,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,1,PS (I-V),4,Government Aided,Urban,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,1,PS (I-V),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,1,PS (I-V),4,Government Aided,Urban,3,0,0,0,2,0,1,1,0,0,0,0,0,0,0,1,1,3,2,2,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,3,1,1,1,1,1,0,0,0,0,0,0,0,0,3,0,0,1,1,0,0,0,2,0,1,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,1,0,0,2,1,1,4,0,0,0,0,0,2,2,0,3,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,14,6,2,4,6,1,0,0,0,0,0,0,0,0,3,3,2,5,1,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,1,PS (I-V),7,Central Govt,Urban,3,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,1,1,8,10,8,4,8,2,10,1,3,1,4,2,7,5,9,5,1,5,11,6,2,1,8,5,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,5,4,3,0,3,1,3,0,0,0,2,1,0,0,0,0,0,2,0,2,0,2,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,2,4,0,1,1,0,0,0,0,1,0,0,0,0,2,2,1,2,0,0,0,1,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,2,2,ST
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,9,13,4,6,1,0,0,0,1,0,1,2,0,2,2,0,2,0,1,1,0,1,1,0,0,1,ST
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,5,8,0,2,1,0,0,0,0,0,0,0,13,12,7,2,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,2,3,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,17,17,20,0,0,0,0,0,0,0,0,0,10,23,22,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,13,6,3,0,2,0,0,0,0,0,0,0,5,5,12,1,2,ST
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,20,29,25,10,13,0,0,0,0,0,0,0,18,14,17,17,11,ST
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,10,25,16,20,21,0,0,0,0,0,0,0,6,8,6,21,9,ST
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,15,19,24,7,9,0,0,0,0,0,0,0,14,21,17,6,5,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,7,8,3,0,0,0,0,0,0,0,0,0,4,4,9,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,7,8,15,0,0,0,0,0,0,0,0,0,10,6,2,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,6,7,6,24,10,0,0,0,0,0,0,0,8,15,15,19,22,ST
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,7,5,8,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,4,0,0,0,3,2,0,0,0,0,0,0,3,5,2,9,3,6,1,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,2,2,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,2,1,3,0,2,0,0,0,0,0,0,0,0,0,2,4,2,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,2,3,4,0,2,0,0,0,0,0,0,0,4,3,4,2,3,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,3,1,2,3,3,0,0,0,0,0,0,0,1,3,4,2,3,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,18,15,11,0,0,0,0,0,0,0,0,0,4,12,8,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,2,0,34,31,34,5,2,0,0,0,0,0,0,0,31,20,20,7,4,ST
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,11,1,5,0,0,0,0,0,0,0,0,0,0,1,2,1,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,7,25,26,0,0,0,0,0,0,0,0,0,6,20,13,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,63,71,66,11,9,0,0,0,0,0,0,0,42,47,65,7,6,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,7,SS (VI-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,7,SS (VI-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,1,0,6,14,10,0,0,0,0,0,0,0,1,0,10,16,11,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,7,SS (VI-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,7,1,1,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,7,SS (VI-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,4,4,8,18,15,16,14,0,0,0,0,0,6,3,6,9,9,15,14,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,10,0,6,3,0,0,0,0,0,0,0,0,19,0,4,0,3,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,6,10,11,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,18,33,24,0,0,0,0,0,0,0,0,0,13,21,23,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,6,9,5,0,0,0,0,0,0,0,0,0,5,8,7,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,1,0,2,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,2,6,7,6,1,0,0,0,0,0,0,0,1,4,3,6,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,1,3,3,0,0,0,0,0,0,0,0,0,5,6,4,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,59,36,39,34,53,60,51,8,0,0,0,0,38,41,45,41,35,50,47,9,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,16,18,16,31,13,22,37,0,0,0,0,0,19,20,13,24,20,20,25,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,21,26,20,25,27,37,36,14,0,0,0,0,25,17,30,26,28,47,39,9,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,47,41,42,37,35,62,66,28,1,3,0,0,39,35,32,40,24,53,50,16,2,4,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,13,25,26,22,22,39,36,5,0,1,0,0,17,19,18,20,31,19,38,4,1,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,1,0,3,3,3,2,7,0,0,0,0,0,4,4,2,2,6,5,5,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,2,4,5,8,6,5,3,0,0,0,0,0,2,1,7,4,7,4,3,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,1,3,3,4,5,4,10,0,0,0,0,0,1,7,4,2,5,10,8,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,13,4,13,11,13,14,15,0,0,0,0,0,10,6,12,13,11,12,13,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,15,14,11,9,19,16,18,0,0,0,0,0,11,10,15,8,12,10,13,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,21,18,19,18,13,32,13,0,0,0,0,0,12,18,23,13,18,15,18,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,1,2,2,0,1,4,0,0,0,0,0,0,2,0,1,2,3,0,2,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,2,UPS (I-VIII),4,Government Aided,Rural,3,2,0,2,5,3,9,4,6,1,0,0,0,0,0,2,8,3,5,1,2,4,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,31,28,29,39,38,40,46,0,0,0,0,0,45,30,35,26,38,40,45,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,2,UPS (I-VIII),4,Government Aided,Urban,3,0,0,0,2,0,2,0,0,1,0,0,0,0,0,1,2,0,0,0,1,1,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,2,UPS (I-VIII),4,Government Aided,Urban,3,0,0,7,7,4,4,6,13,10,0,0,0,0,0,8,10,11,7,11,7,15,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,2,UPS (I-VIII),4,Government Aided,Urban,3,0,0,2,0,2,2,0,1,1,0,0,0,0,0,3,2,1,1,1,1,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,2,UPS (I-VIII),4,Government Aided,Urban,3,0,0,5,6,4,9,6,5,7,0,0,0,0,0,4,5,5,8,6,4,12,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,1,5,1,4,3,2,2,2,5,2,3,0,0,2,1,0,4,4,1,2,1,4,4,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,7,7,6,5,0,2,4,2,1,0,0,0,0,0,5,4,4,4,5,2,2,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,12,6,1,7,6,1,2,2,2,3,0,0,2,4,2,6,6,0,4,0,4,3,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,1,4,4,0,0,3,1,1,6,14,13,0,0,0,5,0,1,0,3,1,0,1,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,29,17,21,11,16,6,8,11,7,0,0,0,0,0,12,9,13,12,7,5,9,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,1,0,0,2,2,0,1,2,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,2,6,1,11,8,3,5,3,2,0,0,0,0,0,8,4,9,4,7,1,4,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,2,1,0,2,1,2,1,1,0,0,0,0,0,3,1,2,1,2,0,1,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,29,24,6,8,12,11,6,6,5,2,0,0,0,0,12,14,7,11,6,4,1,1,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,ST
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,3,6,13,61,38,0,0,0,0,0,0,0,12,18,14,52,43,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,218,270,326,468,342,0,0,0,0,0,0,0,205,267,261,452,394,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,102,146,121,252,172,0,0,0,0,0,0,0,113,152,141,249,147,OBC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,27,39,38,47,51,0,0,0,0,0,0,0,28,35,27,69,44,OBC
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,32,54,54,74,40,0,0,0,0,0,0,0,34,49,48,60,57,OBC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,178,206,205,202,145,0,0,0,0,0,0,0,168,255,214,209,185,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,7,5,16,102,76,0,0,0,0,0,0,0,3,7,6,59,28,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,22,38,16,116,143,0,0,0,0,0,0,0,108,119,93,254,264,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,61,80,57,184,131,0,0,0,0,0,0,0,58,69,80,190,151,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,14,12,107,129,142,337,281,0,0,0,0,0,2,6,85,122,122,297,278,OBC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,108,156,168,200,176,0,0,0,0,0,0,0,35,30,35,244,258,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,5,HSS (VI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,13,12,13,0,0,0,0,0,0,0,0,0,28,26,26,98,95,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,28,20,17,47,27,0,0,0,0,0,0,0,30,35,26,40,31,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,22,28,27,98,73,0,0,0,0,0,0,0,18,17,16,71,39,OBC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,79,66,72,0,13,0,0,0,0,0,0,0,75,53,61,39,35,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,66,44,38,50,38,0,0,0,0,0,0,0,62,37,29,48,28,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,63,63,59,66,71,0,0,0,0,0,0,0,48,66,40,51,65,OBC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,86,66,73,31,18,0,0,0,0,0,0,0,71,76,62,37,42,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,5,HSS (VI-XII),7,Central Govt,Rural,4,0,0,0,0,0,0,0,19,28,15,18,22,14,5,0,0,0,0,0,12,15,20,17,18,10,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,24,9,0,0,0,0,0,0,0,0,0,0,29,15,OBC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,11,HSS (XI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,143,122,0,0,0,0,0,0,0,0,0,0,116,97,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,11,HSS (XI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,195,175,0,0,0,0,0,0,0,0,0,0,166,137,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,11,HSS (XI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,197,166,0,0,0,0,0,0,0,0,0,0,196,173,OBC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,11,HSS (XI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,44,34,0,0,0,0,0,0,0,0,0,0,51,25,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,388,244,0,0,0,0,0,0,0,0,0,0,325,199,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,62,43,0,0,0,0,0,0,0,0,0,0,97,63,OBC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,132,173,0,0,0,0,0,0,0,0,0,0,175,194,OBC
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,186,140,0,0,0,0,0,0,0,0,0,0,250,162,OBC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,220,143,0,0,0,0,0,0,0,0,0,0,185,174,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,21,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,369,247,0,0,0,0,0,0,0,0,0,0,485,382,OBC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,294,164,0,0,0,0,0,0,0,0,0,0,268,199,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,1,PS (I-V),1,Department of Education,Rural,4,0,0,107,108,107,103,101,0,0,0,0,0,0,0,120,117,108,96,89,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,1,PS (I-V),1,Department of Education,Rural,4,0,0,9,14,9,8,6,0,0,0,0,0,0,0,4,5,7,14,11,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,1,PS (I-V),1,Department of Education,Rural,4,0,0,103,100,105,79,100,0,0,0,0,0,0,0,84,83,90,113,93,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,1,PS (I-V),1,Department of Education,Rural,4,0,0,173,184,171,192,174,2,0,0,0,0,0,0,182,202,179,190,172,2,1,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,1,PS (I-V),1,Department of Education,Rural,4,0,0,57,53,57,55,40,0,0,0,0,0,0,0,58,45,60,38,46,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,1,PS (I-V),1,Department of Education,Urban,4,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,1,PS (I-V),1,Department of Education,Urban,4,0,0,6,6,6,2,9,0,0,0,0,0,0,0,5,10,7,2,11,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,1,PS (I-V),1,Department of Education,Urban,4,0,0,4,2,2,0,3,0,0,0,0,0,0,0,5,4,2,0,3,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,1,PS (I-V),4,Government Aided,Rural,4,0,0,5,5,4,4,1,0,0,0,0,0,0,0,3,3,4,4,2,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,1,PS (I-V),4,Government Aided,Rural,4,0,0,12,11,7,11,11,0,0,0,0,0,0,0,12,6,13,8,12,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,1,PS (I-V),4,Government Aided,Rural,4,0,0,2,9,7,10,5,0,0,0,0,0,0,0,7,13,13,4,9,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,1,PS (I-V),4,Government Aided,Urban,4,0,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,1,PS (I-V),4,Government Aided,Urban,4,0,0,4,6,0,9,2,0,0,0,0,0,0,0,5,5,4,6,3,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,1,PS (I-V),4,Government Aided,Urban,4,0,0,3,3,5,7,7,0,0,0,0,0,0,0,5,7,8,3,8,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,143,122,67,69,55,54,52,50,50,34,29,26,8,4,65,45,43,55,36,44,38,23,28,32,14,5,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,99,91,67,49,24,24,20,9,0,0,0,0,85,74,73,56,26,19,17,2,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,34,21,15,13,7,2,0,0,0,0,0,0,0,0,8,2,8,6,0,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,132,98,78,51,52,35,34,17,11,0,0,0,0,0,45,42,33,32,17,14,8,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,45,17,24,17,17,8,7,0,0,0,0,0,0,0,14,16,10,7,4,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,5,6,7,4,5,0,0,0,0,0,0,0,4,1,3,7,3,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,3,10,12,7,5,6,3,4,0,0,0,0,2,5,6,3,0,2,4,3,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,0,0,1,2,0,3,0,15,0,0,0,0,0,0,0,3,1,1,1,11,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,15,5,8,4,6,10,5,0,0,0,0,0,0,0,2,4,4,3,2,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,1,PS (I-V),7,Central Govt,Urban,4,0,0,8,15,11,15,8,0,0,0,0,0,0,0,10,4,14,6,14,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,167,171,188,215,191,150,155,132,120,118,93,111,61,61,182,149,159,138,125,138,126,114,117,104,62,50,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,70,69,36,32,43,24,28,23,26,16,24,17,0,0,34,27,29,30,25,38,24,26,16,24,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,64,59,106,91,73,66,86,68,63,47,45,41,0,0,76,58,62,69,57,49,42,42,31,26,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,147,140,77,73,98,76,53,47,45,41,29,38,0,0,96,62,72,64,68,50,37,47,31,36,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,0,0,10,15,6,4,0,12,27,35,27,15,0,0,10,8,6,10,0,6,9,14,13,13,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,0,0,39,44,25,29,38,25,29,36,25,23,77,65,28,44,25,21,24,28,33,22,22,14,107,94,OBC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,38,30,30,11,28,7,7,2,2,5,3,7,0,0,22,16,4,10,11,9,6,4,5,3,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,123,116,56,61,42,12,9,22,8,11,10,7,15,13,58,44,46,11,5,21,7,8,7,10,18,10,OBC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,121,106,136,125,108,0,0,0,0,0,0,0,123,139,157,133,116,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,45,19,0,0,0,0,0,0,0,0,0,0,31,20,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,17,21,21,0,0,0,0,0,0,0,0,0,22,22,35,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,113,116,113,47,33,0,0,0,0,0,0,0,106,114,116,35,38,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,210,242,228,0,0,0,0,0,0,0,0,0,199,234,242,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,76,103,87,13,17,0,0,0,0,0,0,0,77,85,72,8,15,OBC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,293,356,380,146,96,0,0,0,0,0,0,0,261,349,380,166,120,OBC
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,397,525,509,529,372,0,0,0,0,0,0,0,345,466,484,542,436,OBC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,175,232,211,34,16,0,0,0,0,0,0,0,160,188,210,23,13,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,7,SS (VI-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,51,60,62,0,0,0,0,0,0,0,0,0,61,61,53,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,7,SS (VI-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,130,165,147,0,0,0,0,0,0,0,0,0,93,106,107,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,7,SS (VI-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,75,91,69,272,186,0,0,0,0,0,0,0,77,95,92,375,283,OBC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,7,SS (VI-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,27,26,16,0,0,0,0,0,0,0,0,0,33,25,36,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,7,SS (VI-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,14,19,19,18,17,26,17,0,0,0,0,0,18,20,20,14,21,29,29,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,7,SS (VI-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,20,15,13,22,22,0,0,0,0,0,0,0,11,2,7,7,10,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,7,SS (VI-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,16,24,25,17,17,0,0,0,0,0,0,0,22,24,17,22,21,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,7,SS (VI-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,17,22,25,12,19,0,0,0,0,0,0,0,20,18,14,24,15,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,7,SS (VI-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,8,16,7,13,17,0,0,0,0,0,0,0,9,7,12,14,14,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,163,149,162,0,0,0,0,0,0,0,0,0,102,125,150,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,4,9,236,248,289,60,35,0,0,0,0,0,4,5,182,202,224,41,38,OBC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,49,92,75,76,59,0,0,0,0,0,0,0,38,75,74,78,73,OBC
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,130,161,135,0,0,0,0,0,0,0,0,0,114,146,159,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,288,366,360,264,189,0,0,0,0,0,0,0,335,388,430,189,173,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,7,SS (VI-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,91,99,83,0,0,0,0,0,0,0,0,0,63,80,80,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,7,SS (VI-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,2,6,143,186,168,0,0,0,0,0,0,0,6,2,180,194,211,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,7,SS (VI-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,47,56,69,0,0,0,0,0,0,0,0,0,49,65,57,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,7,SS (VI-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,13,9,57,66,64,58,45,0,0,0,0,0,9,14,28,37,53,35,17,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,12,19,37,41,0,0,0,0,0,0,0,0,13,13,32,24,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,36,32,29,32,24,37,27,419,391,368,0,0,23,30,16,17,22,28,20,369,350,337,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,26,34,19,31,27,35,27,22,13,69,65,69,0,0,20,12,24,28,31,14,11,76,79,57,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,204,227,232,63,52,0,0,0,0,0,0,0,155,224,243,18,25,OBC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,275,293,251,13,6,0,0,0,0,0,0,0,310,272,266,7,3,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,32,23,33,0,0,0,0,0,0,0,0,0,35,31,34,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,34,59,245,231,211,14,19,0,0,0,0,0,16,25,174,149,149,6,13,OBC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,124,119,116,0,0,0,0,0,0,0,0,0,112,110,87,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,54,58,45,0,0,0,0,0,0,0,0,0,35,54,58,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,329,292,314,329,352,463,477,64,0,0,0,0,277,323,299,331,338,389,452,57,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,142,156,173,153,180,207,218,6,0,0,0,0,155,168,173,183,186,193,193,6,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,2,UPS (I-VIII),1,Department of Education,Rural,4,6,8,318,314,363,343,383,482,522,107,0,0,0,0,336,302,339,339,399,453,460,114,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,2,UPS (I-VIII),1,Department of Education,Rural,4,13,4,424,388,423,474,512,646,716,238,10,16,0,0,410,435,431,547,464,636,650,215,13,17,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,279,262,261,259,282,359,373,39,8,7,0,0,241,239,278,258,274,343,345,44,7,9,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,32,26,39,37,30,50,55,0,0,0,0,0,32,32,25,47,31,54,43,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,58,73,64,51,51,80,71,0,0,0,0,0,49,51,46,61,50,60,63,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,19,19,22,30,28,37,36,0,0,0,0,0,15,21,26,20,22,36,33,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,67,69,56,55,49,57,60,0,0,0,0,0,48,53,60,75,52,53,64,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,158,181,154,175,179,207,193,0,0,0,0,0,162,158,179,190,191,200,201,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,153,198,208,224,234,261,275,0,0,0,0,0,174,206,202,239,237,251,286,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,72,107,114,108,128,149,144,5,0,0,0,0,114,116,101,140,103,139,117,8,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,2,UPS (I-VIII),4,Government Aided,Rural,4,6,8,55,46,42,67,52,68,61,0,0,0,0,0,55,65,56,63,76,63,85,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,236,252,273,304,283,345,359,0,0,0,0,0,259,242,249,264,294,331,369,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,2,UPS (I-VIII),4,Government Aided,Urban,4,0,0,26,22,23,27,31,41,29,0,0,0,0,0,24,31,18,26,22,23,29,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,2,UPS (I-VIII),4,Government Aided,Urban,4,0,0,94,111,111,122,105,126,135,0,0,0,0,0,99,100,104,121,110,115,127,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,2,UPS (I-VIII),4,Government Aided,Urban,4,0,0,29,27,38,45,43,39,52,0,0,0,0,0,35,28,38,42,42,56,56,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,2,UPS (I-VIII),4,Government Aided,Urban,4,0,0,59,49,51,53,48,62,54,0,0,0,0,0,48,63,55,57,55,55,64,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,118,103,107,90,88,101,102,92,93,81,48,76,0,0,79,92,68,71,77,95,89,49,58,43,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,184,152,563,551,586,596,555,507,506,39,12,10,0,0,448,468,501,493,480,453,410,37,11,5,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,240,219,195,189,166,139,136,26,5,18,0,0,224,214,138,158,174,166,116,29,21,16,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,608,469,367,320,280,269,271,275,277,149,131,108,0,0,304,266,218,220,210,179,179,82,62,68,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,1305,1204,567,663,599,540,576,499,503,24,10,18,0,0,560,516,504,522,473,466,432,27,9,8,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,120,132,148,138,134,132,126,116,129,3,6,4,0,0,141,121,127,110,137,111,117,5,4,1,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,218,184,224,236,227,208,204,196,165,3,0,0,0,0,224,219,213,220,234,209,221,4,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,108,73,221,215,180,168,212,199,159,0,0,0,0,0,178,201,179,196,192,188,160,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291605,BRAHMAVARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,328,282,120,120,124,99,100,85,92,30,14,10,0,0,116,111,106,105,93,75,68,22,10,5,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,6,2,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,6,9,0,0,0,0,0,0,0,0,0,0,9,18,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291604,BYNDOOR,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,12,17,0,0,0,0,0,0,0,0,0,0,19,16,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291601,KARKALA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,6,9,0,0,0,0,0,0,0,0,0,0,8,20,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291602,UDUPI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,27,20,11,4,20,0,0,0,0,0,0,0,14,8,7,7,3,0,0,OBC
+2015-16,29,Karnataka,2916,UDUPI,291603,KUNDAPURA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,2,9,0,0,0,0,0,0,0,0,0,0,6,6,0,0,0,0,0,OBC

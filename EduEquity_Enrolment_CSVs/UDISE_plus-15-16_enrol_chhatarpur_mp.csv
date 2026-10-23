@@ -1,0 +1,669 @@
+ac_year,state_code,state_name,district_code,district_name,block_code,block_name,sch_category_id,category_name,sch_mgmt_id,sch_mgmt_name,loc_name,caste_id,pre_primary_boys,pre_primary_girls,class_1_boys,class_2_boys,class_3_boys,class_4_boys,class_5_boys,class_6_boys,class_7_boys,class_8_boys,class_9_boys,class_10_boys,class_11_boys,class_12_boys,class_1_girls,class_2_girls,class_3_girls,class_4_girls,class_5_girls,class_6_girls,class_7_girls,class_8_girls,class_9_girls,class_10_girls,class_11_girls,class_12_girls,caste_name
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,70,71,60,0,0,0,0,0,0,0,0,0,95,85,74,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,0,1,0,0,0,0,0,0,1,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,1,1,0,2,1,0,1,0,9,6,9,8,0,1,0,0,0,1,0,0,3,4,8,10,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,7,0,0,0,2,3,2,3,0,0,8,0,2,0,2,2,1,1,2,2,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,4,6,9,11,13,13,16,9,19,20,28,15,2,8,8,12,6,8,4,11,12,15,4,10,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,135,97,153,148,163,197,199,231,208,254,549,551,259,261,92,105,132,138,142,141,169,163,417,432,242,232,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,0,0,19,24,25,18,16,36,34,38,126,158,74,105,17,18,15,16,15,14,25,24,91,110,47,69,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,30,24,23,26,39,39,32,47,40,66,115,103,106,103,27,18,20,24,35,31,38,41,49,62,43,51,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,41,23,22,31,21,30,30,34,38,29,46,65,49,49,17,17,24,35,25,17,18,20,34,45,40,41,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,3,HSS (I-XII),7,Central Govt,Rural,1,0,0,5,3,1,0,3,7,3,2,24,10,12,8,2,3,0,2,3,0,4,4,5,10,4,3,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,75,48,23,36,0,0,0,0,0,0,0,0,125,87,78,136,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,36,36,15,32,0,0,0,0,0,0,0,0,43,36,16,29,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,107,93,57,85,0,0,0,0,0,0,0,0,142,109,76,65,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,76,47,52,56,0,0,0,0,0,0,0,0,78,50,54,67,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,63,59,46,91,0,0,0,0,0,0,0,0,46,41,52,102,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,20,30,23,14,0,0,0,0,0,0,0,0,34,25,26,19,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,27,18,9,12,0,0,0,0,0,0,0,0,0,0,17,19,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,97,115,79,92,0,0,0,0,0,0,0,0,123,94,69,107,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,63,52,63,108,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,28,32,23,36,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,74,45,48,50,0,0,0,0,0,0,0,0,19,18,32,27,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,20,22,13,12,0,0,0,0,0,0,0,0,0,0,17,7,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,117,108,218,203,0,0,0,0,0,0,0,0,77,68,151,145,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,58,29,36,63,0,0,0,0,0,0,0,0,83,104,84,83,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,75,68,103,158,0,0,0,0,0,0,0,0,139,132,157,194,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,45,33,39,57,0,0,0,0,0,0,0,0,60,33,59,53,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,10,HSS (IX-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,5,11,1,9,0,0,0,0,0,0,0,0,5,9,4,15,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,10,HSS (IX-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,8,11,2,2,0,0,0,0,0,0,0,0,7,10,6,13,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,10,HSS (IX-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,26,35,16,25,0,0,0,0,0,0,0,0,14,15,12,19,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,3,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,4,3,3,2,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,2,0,4,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,4,2,1,1,2,7,0,2,41,38,25,39,2,0,0,0,0,4,1,1,18,23,25,38,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,20,29,53,141,0,0,0,0,0,0,0,0,14,12,19,30,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,1,1,3,7,2,4,3,3,6,5,10,26,25,19,29,5,0,4,4,0,8,7,5,6,12,9,8,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,3,6,6,19,0,0,0,0,0,0,0,0,9,18,16,29,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,1,3,1,28,18,5,16,0,0,0,0,0,0,0,0,2,0,0,2,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,1,6,2,8,0,0,0,0,0,0,0,0,2,2,2,5,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,2,3,5,27,28,107,132,0,0,0,0,0,0,3,2,15,19,62,66,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,2,5,10,17,7,21,14,0,0,0,0,0,0,1,2,11,13,11,14,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,1,3,1,55,66,7,5,0,0,0,0,0,0,0,0,50,50,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,5,HSS (VI-XII),7,Central Govt,Urban,1,0,0,0,0,0,0,0,7,12,12,10,13,14,17,0,0,0,0,0,11,16,10,12,13,14,11,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,1,PS (I-V),1,Department of Education,Rural,1,17,14,136,157,167,190,200,0,0,0,0,0,0,0,144,136,176,160,179,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,1,PS (I-V),1,Department of Education,Rural,1,3,8,42,45,33,57,47,0,0,0,0,0,0,0,45,44,54,73,46,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,1,PS (I-V),1,Department of Education,Rural,1,8,10,86,103,120,150,132,0,0,0,0,0,0,0,105,133,119,141,144,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,1,PS (I-V),1,Department of Education,Rural,1,46,48,183,203,266,289,263,0,0,0,0,0,0,0,190,184,233,292,237,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,1,PS (I-V),1,Department of Education,Rural,1,0,0,134,130,154,183,175,0,0,0,0,0,0,0,131,157,170,199,184,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,1,PS (I-V),1,Department of Education,Rural,1,7,6,124,120,190,218,186,0,0,0,0,0,0,0,137,158,191,196,153,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,1,PS (I-V),1,Department of Education,Rural,1,0,0,113,133,113,160,156,0,0,0,0,0,0,0,138,130,136,179,171,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,1,PS (I-V),1,Department of Education,Rural,1,0,0,129,145,165,217,174,0,0,0,0,0,0,0,151,173,180,200,160,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,1,PS (I-V),1,Department of Education,Urban,1,0,0,3,4,9,6,8,0,0,0,0,0,0,0,3,8,6,11,16,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,1,PS (I-V),1,Department of Education,Urban,1,0,0,2,0,3,1,2,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,1,PS (I-V),1,Department of Education,Urban,1,0,0,9,13,16,13,9,0,0,0,0,0,0,0,5,9,12,17,20,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,1,PS (I-V),1,Department of Education,Urban,1,0,0,2,3,1,3,5,0,0,0,0,0,0,0,7,3,4,9,5,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,1,PS (I-V),1,Department of Education,Urban,1,0,0,27,29,33,52,42,0,0,0,0,0,0,0,31,28,31,28,43,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,1,PS (I-V),1,Department of Education,Urban,1,0,0,13,11,16,13,27,0,0,0,0,0,0,0,15,19,13,14,9,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,1,PS (I-V),1,Department of Education,Urban,1,0,0,10,3,13,21,21,0,0,0,0,0,0,0,4,16,12,18,19,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,1,PS (I-V),1,Department of Education,Urban,1,0,0,5,8,13,10,8,0,0,0,0,0,0,0,7,2,4,3,12,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,1,PS (I-V),2,Tribal Welfare Department,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,1,PS (I-V),2,Tribal Welfare Department,Urban,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,1,PS (I-V),2,Tribal Welfare Department,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,9,13,9,7,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,1,PS (I-V),2,Tribal Welfare Department,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,5,7,5,1,8,4,5,0,0,0,0,0,0,0,0,1,1,5,1,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,1,1,7,4,4,3,1,0,0,0,0,0,0,0,5,2,4,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,4,6,13,1,3,1,1,0,0,0,0,0,0,0,7,5,1,1,2,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,5,0,21,11,15,9,10,12,9,10,0,0,0,0,10,7,7,3,0,3,0,2,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,18,12,15,17,18,13,8,6,2,2,0,0,0,0,12,4,9,9,7,5,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,5,3,11,6,11,4,0,0,0,0,0,0,0,0,7,9,4,2,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,6,2,8,7,4,3,4,1,2,3,0,0,0,0,4,4,0,10,5,2,2,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,10,9,2,8,6,0,0,0,0,0,0,0,10,3,4,8,5,0,0,1,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,31,26,27,16,83,5,2,3,1,0,0,0,0,0,15,6,10,5,2,4,1,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,16,16,29,15,14,11,7,4,0,0,0,0,0,0,14,17,8,9,8,5,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,1,1,5,5,10,1,2,1,1,0,0,0,0,0,4,2,1,0,3,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,30,17,6,10,2,0,0,0,0,0,0,0,0,0,1,3,1,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,135,93,90,83,59,23,17,3,5,1,6,5,2,11,63,54,39,25,20,4,2,1,8,7,9,6,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,44,17,44,37,42,29,34,30,0,0,0,0,30,25,27,33,18,13,21,5,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,17,9,43,38,36,26,23,11,16,18,0,0,0,0,43,35,26,19,24,11,15,9,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,18,8,13,7,4,5,6,0,0,0,0,0,0,0,9,6,4,1,1,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,8,4,5,5,3,0,0,0,0,0,0,0,5,9,6,7,4,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,12,15,22,20,25,0,0,0,0,0,0,0,26,25,24,18,18,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,0,0,3,1,4,0,0,0,0,0,0,0,1,2,2,1,1,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,1,3,4,7,3,0,0,0,0,0,0,0,0,1,1,7,3,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,2,0,4,0,0,1,0,0,0,1,5,0,0,0,0,0,1,1,2,0,1,1,4,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,11,13,6,10,13,15,21,9,20,31,0,0,10,15,8,10,14,11,11,17,24,24,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,7,11,9,10,14,7,8,10,19,31,0,0,4,3,5,5,10,2,5,6,13,27,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,1,1,2,2,3,1,2,4,13,10,0,0,0,0,1,2,1,2,1,3,6,9,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,2,2,1,1,2,2,4,4,1,4,4,15,0,0,0,2,1,1,0,4,3,2,7,5,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,5,0,4,0,2,2,0,4,8,6,3,5,3,1,0,0,0,0,0,0,2,2,1,1,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,0,0,9,8,14,9,10,13,12,15,25,24,0,0,6,9,10,10,16,13,16,12,19,22,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,2,1,2,4,3,9,5,11,12,16,10,4,0,0,7,4,7,4,2,6,11,12,8,3,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,6,3,3,11,10,9,6,10,9,6,25,27,9,23,5,4,4,4,5,5,4,4,13,16,5,7,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,7,6,100,50,69,73,74,67,70,75,187,170,60,52,79,49,51,68,57,65,56,49,150,133,43,49,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,0,0,5,5,14,10,10,11,10,7,17,33,0,0,6,3,4,5,7,6,4,7,23,29,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,18,21,28,22,28,23,31,35,27,34,64,51,25,31,23,22,19,22,19,30,29,28,40,43,22,26,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,12,0,54,44,71,50,64,61,63,46,56,56,2,1,58,30,24,41,31,42,36,36,35,30,3,3,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,89,61,0,0,0,0,0,0,0,0,0,0,78,68,2,1,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,27,22,0,0,0,0,0,0,0,0,0,0,17,12,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,29,22,2,0,0,0,0,0,0,0,0,0,63,86,22,27,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,148,102,22,28,0,0,0,0,0,0,0,0,147,114,40,27,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,136,89,16,34,0,0,0,0,0,0,0,0,155,118,36,40,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,90,40,4,5,0,0,0,0,0,0,0,0,98,65,14,12,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,101,76,10,12,0,0,0,0,0,0,0,0,142,122,20,10,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,62,39,0,0,0,0,0,0,0,0,0,0,72,31,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,12,8,5,11,0,0,0,0,0,0,0,0,38,29,24,30,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,11,12,10,12,0,0,0,0,0,0,0,0,35,72,34,39,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,13,16,23,15,0,0,0,0,0,0,0,0,4,6,6,4,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,25,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,4,2,6,4,0,0,0,0,0,0,0,0,6,5,0,2,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,1,13,3,2,0,0,0,0,0,0,0,0,2,1,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,51,34,25,20,0,0,0,0,0,0,0,0,32,18,4,3,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,12,15,12,3,0,0,0,0,0,0,0,0,6,2,1,4,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,8,SS (IX-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,2,2,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,16,21,0,0,0,0,0,0,0,0,0,0,14,16,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,1,0,0,0,0,0,0,0,0,0,23,12,0,0,0,0,0,0,0,0,0,0,17,9,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,8,SS (IX-X),5,Private Unaided (Recognized),Urban,1,0,0,2,1,2,2,1,0,1,0,25,24,0,0,1,1,1,2,1,0,0,0,22,29,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,8,SS (IX-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,5,7,5,0,0,0,0,0,0,0,0,0,3,3,6,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,6,5,0,0,0,0,0,0,0,0,0,0,5,6,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,18,10,14,27,35,6,0,0,0,0,0,0,4,6,12,19,20,4,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,10,18,0,0,0,0,0,0,0,0,0,0,10,9,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,12,13,20,22,25,15,28,12,12,11,44,37,0,0,34,31,21,26,15,12,10,10,37,18,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,4,6,7,13,9,16,16,7,0,0,0,0,4,5,5,11,9,9,3,9,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,41,44,48,45,38,46,42,45,40,46,0,0,0,0,40,42,33,40,29,34,28,26,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,28,23,46,31,32,30,29,50,31,29,0,0,0,0,27,15,19,15,22,24,16,20,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,47,31,76,108,82,83,108,71,78,69,17,20,0,0,69,65,49,63,57,57,38,27,16,18,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,2,0,15,14,14,5,9,11,17,17,0,0,0,0,5,8,12,3,3,5,4,11,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,8,6,80,47,47,41,56,45,53,38,8,4,5,11,45,27,51,36,45,37,34,33,5,5,7,14,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,105,78,88,77,76,60,55,64,14,0,0,0,73,58,72,59,50,49,55,44,16,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,82,59,66,78,60,70,72,69,57,64,27,31,0,0,67,59,63,68,59,48,57,59,35,23,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,5,1,4,5,4,1,2,4,5,5,0,0,0,0,4,4,2,4,2,2,2,5,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,108,79,95,78,90,73,62,56,60,47,13,12,4,0,57,74,62,51,45,47,33,33,14,11,4,4,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,0,0,4,4,1,3,5,6,3,4,0,0,0,0,2,1,5,1,8,4,1,3,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,209,184,487,443,427,418,426,421,378,379,211,233,86,111,350,354,327,325,310,312,275,257,159,164,51,71,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,59,28,67,58,52,44,37,30,35,34,0,4,0,0,54,45,41,37,31,34,29,29,0,2,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,201,130,219,242,231,232,232,240,227,185,88,123,38,36,172,183,151,172,151,165,127,135,41,67,16,13,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,18,15,46,46,45,46,41,32,34,27,8,14,0,0,35,37,39,38,24,24,25,19,11,14,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,5,2,4,4,3,3,3,2,0,0,0,0,1,5,4,2,4,3,7,3,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,3,12,10,11,20,19,31,0,0,0,0,0,1,2,5,7,6,16,5,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,8,18,8,9,5,6,4,3,0,0,0,0,12,7,9,8,9,6,2,4,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,2,5,2,4,4,4,3,2,0,0,0,0,1,1,0,2,5,2,3,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,190,181,156,0,0,0,0,0,0,0,0,0,188,163,187,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,53,46,56,0,0,0,0,0,0,0,0,0,54,46,59,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,117,123,111,0,0,0,0,0,0,0,0,0,119,127,119,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,202,292,216,0,0,0,0,0,0,0,0,0,212,265,291,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,164,187,195,0,0,0,0,0,0,0,0,0,188,166,223,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,186,154,174,0,0,0,0,0,0,0,0,0,167,213,187,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,119,124,135,0,0,0,0,0,0,0,0,0,167,168,173,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,169,169,192,0,0,0,0,0,0,0,0,0,152,212,228,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,5,14,6,0,0,0,0,0,0,0,0,0,6,11,13,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,5,4,5,0,0,0,0,0,0,0,0,0,6,14,10,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,19,16,25,0,0,0,0,0,0,0,0,0,37,34,39,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,3,6,3,0,0,0,0,0,0,0,0,0,9,10,8,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,64,50,56,0,0,0,0,0,0,0,0,0,35,44,50,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,8,7,11,0,0,0,0,0,0,0,0,0,11,11,16,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,17,25,35,0,0,0,0,0,0,0,0,0,34,44,46,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,12,14,10,0,0,0,0,0,0,0,0,0,9,17,25,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,4,UPS (VI-VIII),2,Tribal Welfare Department,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,4,UPS (VI-VIII),2,Tribal Welfare Department,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,16,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,1,1,1,1,0,0,0,0,3,12,4,10,2,0,0,0,0,0,0,0,2,8,4,1,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,4,2,1,9,17,0,0,0,0,0,0,0,1,0,0,5,5,0,0,General
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,2,4,5,2,1,6,3,6,11,14,16,20,5,3,4,0,1,1,1,1,14,6,5,6,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,2,2,2,1,0,2,2,2,0,0,2,0,2,0,0,0,3,2,1,2,0,0,1,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,2,1,3,2,3,5,3,6,3,6,7,3,1,1,2,2,4,4,2,5,2,5,2,4,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,18,10,43,35,51,63,42,43,50,47,309,307,99,144,38,22,31,32,34,30,29,25,249,244,56,62,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,0,0,9,19,13,21,24,35,32,27,197,188,71,95,8,15,12,13,6,11,15,15,102,118,30,39,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,11,6,16,17,16,23,8,32,36,24,42,45,24,45,15,19,9,12,13,10,4,11,21,26,15,27,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,12,6,8,7,8,5,9,6,10,11,22,20,20,19,2,4,4,7,4,3,6,4,9,8,10,12,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,3,HSS (I-XII),7,Central Govt,Rural,2,0,0,0,1,0,0,2,2,1,4,66,17,19,18,0,0,1,0,1,0,1,1,20,17,4,3,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,191,94,26,50,0,0,0,0,0,0,0,0,314,148,61,89,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,58,58,14,61,0,0,0,0,0,0,0,0,55,48,11,35,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,189,148,61,91,0,0,0,0,0,0,0,0,193,127,48,47,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,165,71,53,74,0,0,0,0,0,0,0,0,152,56,36,33,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,252,172,84,142,0,0,0,0,0,0,0,0,143,84,58,98,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,52,32,20,10,0,0,0,0,0,0,0,0,39,21,4,4,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,43,21,23,13,0,0,0,0,0,0,0,0,0,0,25,5,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,304,152,75,126,0,0,0,0,0,0,0,0,182,87,43,62,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,234,105,72,119,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,81,68,24,32,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,198,129,50,76,0,0,0,0,0,0,0,0,42,35,17,30,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,57,72,23,33,0,0,0,0,0,0,0,0,0,0,21,22,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,237,138,235,147,0,0,0,0,0,0,0,0,232,79,102,68,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,187,106,110,170,0,0,0,0,0,0,0,0,205,128,74,61,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,312,211,167,190,0,0,0,0,0,0,0,0,338,167,148,153,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,124,51,38,37,0,0,0,0,0,0,0,0,108,42,40,35,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,10,HSS (IX-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,10,8,5,6,0,0,0,0,0,0,0,0,17,4,4,5,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,10,HSS (IX-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,18,19,9,12,0,0,0,0,0,0,0,0,10,9,4,6,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,10,HSS (IX-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,17,25,4,24,0,0,0,0,0,0,0,0,7,9,1,21,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,3,6,2,2,0,0,0,0,0,0,0,0,2,2,2,1,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,1,1,3,0,4,4,2,36,48,25,28,0,3,1,2,3,1,1,1,23,20,16,8,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,2,3,7,14,0,0,0,0,0,0,0,0,0,4,4,7,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,3,4,2,1,1,2,2,2,1,6,6,8,12,9,0,2,2,1,2,2,3,1,2,7,3,1,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,13,23,18,17,0,0,0,0,0,0,0,0,16,20,13,15,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,1,0,1,9,10,2,3,0,0,0,0,0,0,0,0,6,5,4,8,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,1,2,1,6,10,16,18,0,0,0,0,0,1,1,0,0,2,6,12,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,11,4,3,11,20,11,14,0,0,0,0,0,4,0,1,5,3,8,5,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,1,4,3,54,53,4,6,0,0,0,0,0,0,0,0,50,51,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,5,HSS (VI-XII),7,Central Govt,Urban,2,0,0,0,0,0,0,0,2,19,17,17,20,18,22,0,0,0,0,0,4,3,6,4,3,4,3,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,1,PS (I-V),1,Department of Education,Rural,2,63,49,605,652,722,811,777,0,0,0,0,0,0,0,610,603,711,714,702,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,1,PS (I-V),1,Department of Education,Rural,2,10,19,198,176,190,209,176,0,0,0,0,0,0,0,191,165,167,161,149,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,1,PS (I-V),1,Department of Education,Rural,2,51,51,388,427,470,483,521,0,0,0,0,0,0,0,374,410,483,465,442,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,1,PS (I-V),1,Department of Education,Rural,2,118,96,541,596,705,731,729,0,0,0,0,0,0,0,522,599,580,600,592,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,1,PS (I-V),1,Department of Education,Rural,2,0,0,639,784,860,849,896,0,0,0,0,0,0,0,623,708,774,832,798,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,1,PS (I-V),1,Department of Education,Rural,2,24,25,534,607,668,714,656,0,0,0,0,0,0,0,524,554,606,612,539,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,1,PS (I-V),1,Department of Education,Rural,2,0,0,469,515,571,644,509,0,0,0,0,0,0,0,479,473,562,638,545,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,1,PS (I-V),1,Department of Education,Rural,2,0,0,619,687,752,743,712,0,0,0,0,0,0,0,582,682,684,772,633,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,1,PS (I-V),1,Department of Education,Urban,2,0,0,33,50,63,42,53,0,0,0,0,0,0,0,40,50,53,63,64,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,1,PS (I-V),1,Department of Education,Urban,2,0,0,11,8,12,8,17,0,0,0,0,0,0,0,16,8,22,17,27,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,1,PS (I-V),1,Department of Education,Urban,2,10,10,32,26,21,22,39,0,0,0,0,0,0,0,46,20,38,36,45,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,1,PS (I-V),1,Department of Education,Urban,2,0,0,17,15,28,23,27,0,0,0,0,0,0,0,22,29,30,30,30,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,1,PS (I-V),1,Department of Education,Urban,2,0,0,75,114,87,94,105,0,0,0,0,0,0,0,76,90,96,121,100,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,1,PS (I-V),1,Department of Education,Urban,2,0,0,58,42,62,92,56,0,0,0,0,0,0,0,57,58,81,83,70,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,1,PS (I-V),1,Department of Education,Urban,2,0,0,79,69,95,130,117,0,0,0,0,0,0,0,94,105,122,129,122,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,1,PS (I-V),1,Department of Education,Urban,2,0,0,31,34,40,46,48,0,0,0,0,0,0,0,23,44,42,39,48,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,1,PS (I-V),2,Tribal Welfare Department,Rural,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,15,7,12,11,4,0,0,0,0,0,0,0,0,3,1,6,2,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,7,4,12,18,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,1,PS (I-V),2,Tribal Welfare Department,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,10,8,13,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,1,PS (I-V),2,Tribal Welfare Department,Urban,2,0,0,0,4,10,14,17,0,0,0,0,0,0,0,8,13,4,16,15,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,1,PS (I-V),2,Tribal Welfare Department,Urban,2,0,0,0,2,0,3,0,0,0,0,0,0,0,0,5,6,2,1,5,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,1,PS (I-V),2,Tribal Welfare Department,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,9,8,8,12,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,10,5,3,7,6,2,5,0,0,0,0,0,0,0,3,3,1,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,1,7,4,5,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,8,2,11,1,1,1,1,0,0,0,0,0,0,0,6,1,2,2,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,1,11,3,1,1,6,0,0,1,0,0,0,0,1,6,1,1,1,1,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,1,2,4,6,4,6,3,0,0,1,0,0,0,0,3,6,6,1,9,2,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,4,2,14,13,17,20,5,0,0,0,0,0,0,0,9,0,3,2,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,2,1,26,21,16,17,14,4,1,2,0,0,0,0,18,4,6,5,7,0,0,3,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,10,9,12,6,6,0,2,0,0,0,0,0,14,5,4,1,1,0,1,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,12,11,3,6,1,2,0,1,0,0,0,0,0,0,2,3,3,0,1,0,1,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,11,6,11,3,4,2,0,0,0,0,0,0,0,0,3,1,2,1,2,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,3,2,8,9,7,2,2,1,0,0,0,0,0,0,6,4,3,1,1,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,6,1,9,9,5,8,0,0,0,0,0,0,0,0,7,3,2,3,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,35,19,41,29,38,31,24,12,7,8,14,10,7,5,26,25,25,40,21,7,6,7,1,5,5,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,21,30,20,12,16,5,4,6,0,0,0,0,17,12,14,5,7,1,0,1,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,14,5,19,16,15,8,7,13,5,10,0,0,0,0,8,11,6,13,4,2,3,5,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,2,1,3,1,0,2,0,0,0,1,0,0,0,0,1,3,1,0,2,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,1,2,4,1,0,0,0,0,0,0,0,2,2,2,5,3,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,8,10,12,10,6,9,3,5,3,5,6,13,0,0,4,3,3,1,4,2,2,1,3,2,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,3,4,8,5,4,6,1,5,27,24,0,0,8,9,4,2,5,3,4,4,16,16,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,12,12,15,10,25,11,12,11,12,32,0,0,4,9,9,8,12,5,8,3,18,19,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,3,3,7,8,8,14,11,9,25,30,0,0,2,2,4,2,2,4,2,3,15,9,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,5,6,12,5,4,10,8,8,7,7,16,13,0,0,7,10,4,8,8,5,5,9,9,8,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,5,6,1,8,4,4,1,4,14,13,3,4,4,3,5,5,1,2,0,1,5,3,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,0,0,10,16,10,9,7,11,8,13,15,15,0,0,9,5,2,2,9,4,4,3,1,4,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,1,2,2,1,4,4,1,4,6,6,2,3,0,0,4,3,4,2,4,2,4,3,2,2,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,13,8,21,19,9,14,16,20,12,15,28,35,7,28,9,8,17,13,6,9,7,8,9,19,4,9,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,9,7,37,30,33,47,46,40,21,27,132,144,13,6,20,25,23,21,23,20,11,29,87,101,8,7,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,0,0,8,7,5,9,4,8,6,11,25,25,0,0,11,6,1,4,4,2,3,3,14,10,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,23,21,37,28,24,27,11,24,22,24,69,97,10,29,16,14,15,17,7,15,20,9,40,43,5,9,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,2,0,4,13,15,17,16,29,21,15,52,39,3,1,18,8,15,16,7,5,10,8,35,21,2,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,275,154,5,3,0,0,0,0,0,0,0,0,201,107,1,1,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,86,62,4,0,0,0,0,0,0,0,0,0,59,31,3,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,61,37,5,0,0,0,0,0,0,0,0,0,107,87,13,21,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,248,140,25,20,0,0,0,0,0,0,0,0,236,121,17,14,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,243,160,42,49,0,0,0,0,0,0,0,0,290,159,14,22,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,187,59,10,4,0,0,0,0,0,0,0,0,175,72,5,1,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,243,133,12,11,0,0,0,0,0,0,0,0,239,140,7,1,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,104,51,0,0,0,0,0,0,0,0,0,0,99,34,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,30,25,26,20,0,0,0,0,0,0,0,0,93,2,22,15,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,7,5,11,6,0,0,0,0,0,0,0,0,69,88,23,37,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,23,15,8,9,0,0,0,0,0,0,0,0,3,11,1,3,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,54,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,13,16,11,4,0,0,0,0,0,0,0,0,12,6,1,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,40,24,16,5,0,0,0,0,0,0,0,0,5,6,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,196,96,35,44,0,0,0,0,0,0,0,0,89,55,4,3,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,14,18,13,15,0,0,0,0,0,0,0,0,0,1,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,8,SS (IX-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,1,7,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,9,14,0,0,0,0,0,0,0,0,0,0,14,6,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,24,41,0,0,0,0,0,0,0,0,0,0,8,25,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,8,3,0,0,0,0,0,0,0,0,0,0,3,1,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,8,SS (IX-X),5,Private Unaided (Recognized),Urban,2,0,0,2,1,4,4,3,5,4,2,14,3,0,0,3,2,4,1,4,1,6,4,8,2,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,8,SS (IX-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,20,18,16,0,0,0,0,0,0,0,0,0,13,17,13,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,2,1,1,9,10,0,0,0,0,0,0,0,0,0,0,10,12,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,19,23,16,14,25,8,0,0,0,0,0,0,10,12,8,28,12,3,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,5,8,0,0,0,0,0,0,0,0,0,0,4,9,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,26,13,27,33,27,18,23,17,8,7,15,41,0,0,21,16,15,9,11,13,4,8,10,12,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,2,4,7,2,3,7,0,4,0,0,0,0,2,3,1,5,2,1,0,1,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,46,39,45,48,46,52,43,49,46,37,0,0,0,0,33,32,37,37,28,22,25,16,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,11,15,37,41,29,20,31,30,22,11,0,0,0,0,17,24,12,13,10,8,11,5,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,13,14,88,81,75,86,72,84,79,69,16,24,0,0,58,54,42,45,41,44,36,30,4,7,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,1,7,43,37,27,21,17,21,20,22,0,0,0,0,27,21,8,11,13,8,3,6,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,6,2,143,138,118,105,109,113,97,55,14,11,19,15,82,78,69,59,66,57,43,23,7,7,8,8,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,99,73,84,90,79,73,37,48,14,0,0,0,63,57,38,44,41,19,30,20,11,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,52,36,35,44,40,36,39,35,43,39,6,4,0,0,27,24,28,25,19,12,14,13,2,4,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,14,5,14,9,9,7,11,5,4,13,0,0,0,0,8,7,3,7,7,3,5,3,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,70,62,64,52,36,25,43,21,31,31,6,0,0,0,48,51,29,25,20,11,13,19,5,1,1,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,0,4,3,5,0,4,7,2,2,0,0,0,0,1,3,1,5,0,1,3,4,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,82,74,208,222,181,178,201,201,153,145,111,150,55,59,178,159,129,144,148,142,113,103,81,73,17,27,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,58,28,43,54,43,59,34,62,44,45,0,6,0,0,36,36,39,29,16,32,20,20,0,3,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,114,73,253,258,232,222,190,198,216,163,77,91,18,19,152,148,174,106,128,107,95,70,32,39,4,4,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,13,4,47,48,60,44,31,27,32,24,14,11,0,0,39,42,32,25,16,26,28,31,5,5,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,4,2,1,3,3,2,6,8,0,0,0,0,5,0,5,5,1,4,3,3,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,1,1,1,0,2,1,0,0,0,0,0,0,0,0,1,0,3,0,1,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,3,0,4,0,2,4,1,1,0,0,0,0,0,6,1,1,0,0,1,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,755,795,715,0,0,0,0,0,0,0,0,0,661,702,682,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,213,229,209,0,0,0,0,0,0,0,0,0,175,184,202,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,481,404,398,0,0,0,0,0,0,0,0,0,441,443,433,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,639,662,652,0,0,0,0,0,0,0,0,0,587,598,633,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,853,809,684,0,0,0,0,0,0,0,0,0,787,777,677,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,676,564,542,0,0,0,0,0,0,0,0,0,594,542,557,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,540,477,456,0,0,0,0,0,0,0,0,0,568,485,470,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,693,661,573,0,0,0,0,0,0,0,0,0,664,632,536,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,63,70,88,0,0,0,0,0,0,0,0,0,84,81,80,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,29,18,31,0,0,0,0,0,0,0,0,0,30,29,23,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,44,52,62,0,0,0,0,0,0,0,0,0,110,77,64,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,16,28,29,0,0,0,0,0,0,0,0,0,20,32,27,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,154,143,132,0,0,0,0,0,0,0,0,0,111,128,146,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,186,180,187,0,0,0,0,0,0,0,0,0,181,181,201,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,56,83,85,0,0,0,0,0,0,0,0,0,65,55,72,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,39,31,22,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,4,UPS (VI-VIII),2,Tribal Welfare Department,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,26,15,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,4,UPS (VI-VIII),2,Tribal Welfare Department,Urban,2,0,0,0,0,0,0,0,15,12,11,0,0,0,0,0,0,0,0,0,3,7,11,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,2,1,2,2,0,0,0,0,2,9,2,1,0,1,1,0,0,0,0,0,1,4,2,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,2,3,4,21,23,0,0,0,0,0,0,0,0,0,0,5,8,0,0,SC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2,0,0,0,0,1,2,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,3,3,3,7,4,4,2,7,0,1,11,15,2,9,1,3,4,3,1,6,3,5,7,4,2,9,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,1,0,0,0,1,0,0,2,0,1,0,1,0,0,2,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,1,0,2,2,1,1,3,1,1,0,0,1,0,0,0,1,1,1,1,1,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,3,HSS (I-XII),7,Central Govt,Rural,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,21,4,0,3,0,0,0,0,0,0,0,0,30,9,3,9,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,7,6,7,7,0,0,0,0,0,0,0,0,10,2,5,11,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,54,22,9,5,0,0,0,0,0,0,0,0,65,22,17,8,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,11,9,5,2,0,0,0,0,0,0,0,0,7,1,3,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,6,3,2,0,0,0,0,0,0,0,0,0,2,3,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,1,0,2,3,0,0,0,0,0,0,0,0,0,0,1,1,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,46,14,11,21,0,0,0,0,0,0,0,0,35,7,8,9,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,40,14,8,7,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,23,7,6,11,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,20,4,5,6,0,0,0,0,0,0,0,0,2,1,1,1,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,4,5,6,11,0,0,0,0,0,0,0,0,10,4,5,5,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,2,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,3,2,1,1,0,0,0,0,0,0,0,0,2,4,4,1,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,16,9,3,4,0,0,0,0,0,0,0,0,16,4,2,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,10,HSS (IX-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,10,HSS (IX-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,10,HSS (IX-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,3,4,3,2,0,0,0,0,0,0,0,0,3,2,1,2,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,1,0,1,11,6,4,2,0,0,0,0,0,0,0,0,13,14,3,3,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,2,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,5,HSS (VI-XII),7,Central Govt,Urban,3,0,0,0,0,0,0,0,19,5,6,4,3,5,4,0,0,0,0,0,2,2,0,2,4,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,1,PS (I-V),1,Department of Education,Rural,3,14,12,190,229,261,261,273,0,0,0,0,0,0,0,189,210,198,225,224,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,1,PS (I-V),1,Department of Education,Rural,3,6,3,140,172,203,185,186,0,0,0,0,0,0,0,156,135,155,155,155,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,1,PS (I-V),1,Department of Education,Rural,3,21,18,296,336,344,352,404,0,0,0,0,0,0,0,305,308,332,368,342,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,2,1,0,1,0,0,0,0,0,0,0,1,0,2,1,1,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,1,PS (I-V),1,Department of Education,Rural,3,0,0,123,136,135,130,138,0,0,0,0,0,0,0,89,165,132,133,134,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,1,PS (I-V),1,Department of Education,Rural,3,0,0,19,31,38,20,44,0,0,0,0,0,0,0,14,22,29,16,25,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,1,PS (I-V),1,Department of Education,Rural,3,0,0,6,23,13,11,23,0,0,0,0,0,0,0,13,16,12,15,16,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,1,PS (I-V),1,Department of Education,Rural,3,0,0,203,300,329,285,249,0,0,0,0,0,0,0,195,239,254,215,227,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,1,PS (I-V),1,Department of Education,Urban,3,0,0,2,1,8,3,5,0,0,0,0,0,0,0,8,0,10,13,3,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,3,1,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,1,PS (I-V),1,Department of Education,Urban,3,0,0,8,7,7,19,10,0,0,0,0,0,0,0,12,8,6,19,10,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,1,PS (I-V),1,Department of Education,Urban,3,0,0,6,9,3,6,7,0,0,0,0,0,0,0,0,4,4,6,2,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,1,PS (I-V),1,Department of Education,Urban,3,0,0,6,4,0,4,3,0,0,0,0,0,0,0,25,2,0,1,1,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,1,PS (I-V),1,Department of Education,Urban,3,0,0,10,1,5,11,11,0,0,0,0,0,0,0,7,6,6,8,11,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,1,PS (I-V),1,Department of Education,Urban,3,0,0,12,6,8,7,7,0,0,0,0,0,0,0,10,15,7,3,1,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,11,6,10,6,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,1,PS (I-V),2,Tribal Welfare Department,Rural,3,93,32,50,47,65,83,38,0,0,0,0,0,0,0,35,43,39,26,27,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,1,PS (I-V),2,Tribal Welfare Department,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4,2,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,1,PS (I-V),2,Tribal Welfare Department,Urban,3,0,0,8,17,10,4,10,0,0,0,0,0,0,0,1,1,3,0,1,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,1,PS (I-V),2,Tribal Welfare Department,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,1,PS (I-V),2,Tribal Welfare Department,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,5,3,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,1,1,2,2,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,3,1,1,0,0,1,6,1,0,0,0,0,0,2,1,0,0,0,2,0,0,0,0,0,0,1,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,1,3,3,0,2,2,0,1,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,1,1,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,2,1,0,5,5,0,1,0,2,1,0,0,2,0,1,1,3,0,0,0,4,1,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,3,5,0,0,0,0,0,0,0,0,0,0,1,3,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,2,1,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,1,1,0,1,2,0,1,0,4,0,2,1,0,0,0,1,0,1,6,2,1,1,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,1,0,1,0,0,0,2,0,1,6,2,0,5,0,0,0,1,0,1,1,0,2,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,1,0,1,1,2,1,2,0,15,8,0,0,1,0,1,1,0,0,0,1,10,5,3,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,3,0,2,3,0,3,2,3,8,9,0,0,0,1,1,0,11,0,2,2,4,1,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,8,SS (IX-X),1,Department of Education,Rural,3,4,6,0,0,0,0,0,0,0,0,30,13,0,1,0,0,0,0,0,0,0,0,25,13,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,26,6,0,0,0,0,0,0,0,0,0,0,26,3,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,15,6,1,3,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,33,11,2,4,0,0,0,0,0,0,0,0,21,10,1,1,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,5,2,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,17,6,0,0,0,0,0,0,0,0,0,0,7,4,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,0,0,0,0,19,55,0,1,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,16,11,2,7,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,5,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,8,SS (IX-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,2,1,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,2,3,1,1,1,7,0,1,1,4,2,0,0,0,0,0,0,0,1,1,0,6,2,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,6,3,6,4,8,8,11,8,7,7,0,0,0,0,4,5,5,2,6,7,3,2,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,2,1,0,1,0,0,0,0,0,0,4,0,0,1,0,0,0,1,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,6,2,6,6,9,11,11,14,13,16,4,7,0,0,1,4,4,8,4,1,2,4,1,1,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,2,0,0,1,2,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,16,15,8,9,4,5,5,12,1,0,0,0,13,2,1,5,3,1,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,15,8,7,10,6,9,13,11,9,7,2,2,0,0,9,6,2,11,3,6,4,3,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,2,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,9,12,10,8,8,3,3,4,2,4,1,0,0,0,13,2,7,2,3,2,1,0,1,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,2,3,7,12,11,18,8,11,10,7,4,4,2,6,13,8,12,14,13,8,6,5,0,5,0,3,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,2,3,6,5,2,8,11,3,19,9,0,1,0,0,3,1,3,1,2,1,3,2,1,1,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,1,0,1,2,1,1,1,0,1,0,0,1,0,0,3,2,3,0,0,0,0,0,0,1,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,1,1,1,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,249,216,177,0,0,0,0,0,0,0,0,0,207,210,172,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,197,202,150,0,0,0,0,0,0,0,0,0,189,156,167,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,319,262,254,0,0,0,0,0,0,0,0,0,322,297,244,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,113,90,72,0,0,0,0,0,0,0,0,0,102,80,73,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,14,11,18,0,0,0,0,0,0,0,0,0,19,13,19,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,5,11,5,0,0,0,0,0,0,0,0,0,9,7,3,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,214,211,185,0,0,0,0,0,0,0,0,0,191,184,165,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,4,11,9,0,0,0,0,0,0,0,0,0,14,12,9,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,17,18,31,0,0,0,0,0,0,0,0,0,19,8,3,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,23,18,9,0,0,0,0,0,0,0,0,0,13,16,9,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,6,3,8,0,0,0,0,0,0,0,0,0,3,4,3,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,8,3,3,0,0,0,0,0,0,0,0,0,6,4,4,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,3,6,1,0,0,0,0,0,0,0,0,0,4,7,6,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,4,UPS (VI-VIII),2,Tribal Welfare Department,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,3,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,4,UPS (VI-VIII),2,Tribal Welfare Department,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,2,3,1,5,5,3,9,11,28,34,48,50,1,1,3,3,3,3,3,5,25,24,34,48,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,6,2,2,2,2,4,5,1,0,0,1,0,4,2,0,0,2,2,1,1,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,3,2,3,4,4,3,3,7,2,2,4,3,5,1,2,6,5,2,5,3,1,3,2,1,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,141,92,134,163,150,156,199,194,193,228,708,688,342,421,99,94,104,103,100,111,135,120,538,455,231,227,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,0,0,36,46,41,33,37,72,78,88,347,375,164,173,14,29,21,24,14,25,31,41,185,158,99,80,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,56,52,59,57,69,82,78,122,79,87,181,200,163,175,48,40,39,35,55,44,32,34,96,93,54,46,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,32,28,30,42,28,39,30,41,38,38,79,96,45,54,24,19,21,21,29,20,20,27,41,39,37,38,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,3,HSS (I-XII),7,Central Govt,Rural,4,0,0,9,14,8,6,14,13,9,10,94,41,28,32,7,5,7,9,10,8,11,7,20,10,9,10,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,397,163,47,95,0,0,0,0,0,0,0,0,577,266,132,139,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,241,179,40,141,0,0,0,0,0,0,0,0,180,116,27,103,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,448,295,131,164,0,0,0,0,0,0,0,0,336,195,145,114,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,221,82,116,120,0,0,0,0,0,0,0,0,214,121,111,97,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,517,288,140,209,0,0,0,0,0,0,0,0,334,162,114,143,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,112,81,48,23,0,0,0,0,0,0,0,0,85,63,17,12,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,87,39,32,28,0,0,0,0,0,0,0,0,0,0,15,24,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,740,302,192,278,0,0,0,0,0,0,0,0,682,333,179,167,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,426,170,175,219,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,233,127,80,117,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,423,220,108,143,0,0,0,0,0,0,0,0,150,93,70,49,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,87,81,36,42,0,0,0,0,0,0,0,0,0,0,38,44,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,352,251,359,343,0,0,0,0,0,0,0,0,280,113,190,160,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,233,133,146,166,0,0,0,0,0,0,0,0,316,236,143,123,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,456,284,361,430,0,0,0,0,0,0,0,0,453,302,343,356,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,257,103,142,123,0,0,0,0,0,0,0,0,257,89,133,100,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,10,HSS (IX-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,29,24,7,16,0,0,0,0,0,0,0,0,17,23,3,9,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,10,HSS (IX-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,78,99,13,46,0,0,0,0,0,0,0,0,53,60,28,38,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,10,HSS (IX-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,45,44,25,45,0,0,0,0,0,0,0,0,25,44,24,35,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,36,26,6,22,0,0,0,0,0,0,0,0,10,11,1,2,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,10,1,1,1,0,0,0,0,0,0,0,0,7,1,0,4,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,1,0,2,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,2,2,7,9,6,11,6,14,169,147,94,70,2,1,4,0,2,7,0,1,77,91,32,39,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,18,29,39,48,0,0,0,0,0,0,0,0,7,16,8,23,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,4,3,7,10,4,4,7,10,15,8,13,46,57,34,32,3,3,4,3,5,5,7,5,13,11,16,17,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,22,45,13,21,0,0,0,0,0,0,0,0,52,70,34,43,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,2,6,2,1,0,0,0,0,0,0,0,0,0,1,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,3,2,5,6,3,11,0,0,0,0,0,0,0,0,2,7,2,6,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,7,12,12,30,38,69,71,0,0,0,0,0,2,3,2,14,11,22,26,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,9,17,10,56,79,29,25,0,0,0,0,0,1,4,5,47,35,27,28,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,8,14,16,83,100,24,25,0,0,0,0,0,0,0,2,50,52,0,3,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,5,HSS (VI-XII),7,Central Govt,Urban,4,0,0,0,0,0,0,0,19,14,18,22,17,21,16,0,0,0,0,0,10,7,11,9,5,8,6,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,1,PS (I-V),1,Department of Education,Rural,4,100,113,987,1068,1161,1293,1231,0,0,0,0,0,0,0,1015,1033,1107,1251,1123,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,1,PS (I-V),1,Department of Education,Rural,4,13,24,505,521,530,658,505,0,0,0,0,0,0,0,497,510,515,538,488,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,1,PS (I-V),1,Department of Education,Rural,4,136,115,662,716,855,919,904,0,0,0,0,0,0,0,649,725,826,844,834,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,1,PS (I-V),1,Department of Education,Rural,4,63,56,889,997,1084,1133,1050,0,0,0,0,0,0,0,803,944,1021,970,967,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,1,PS (I-V),1,Department of Education,Rural,4,0,0,1240,1420,1464,1596,1583,0,0,0,0,0,0,0,1150,1351,1371,1525,1411,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,1,PS (I-V),1,Department of Education,Rural,4,12,17,767,848,980,1026,967,0,0,0,0,0,0,0,697,835,914,1008,926,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,1,PS (I-V),1,Department of Education,Rural,4,0,0,926,1127,1218,1341,1180,0,0,0,0,0,0,0,920,1045,1263,1388,1265,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,1,PS (I-V),1,Department of Education,Rural,4,0,0,1321,1427,1550,1746,1519,0,0,0,0,0,0,0,1340,1515,1577,1615,1410,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,1,PS (I-V),1,Department of Education,Urban,4,0,0,61,58,53,105,82,0,0,0,0,0,0,0,69,79,100,124,145,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,1,PS (I-V),1,Department of Education,Urban,4,0,0,13,11,10,27,27,0,0,0,0,0,0,0,21,17,18,21,25,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,1,PS (I-V),1,Department of Education,Urban,4,8,7,60,52,53,76,104,0,0,0,0,0,0,0,70,68,77,100,126,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,1,PS (I-V),1,Department of Education,Urban,4,0,0,15,22,17,33,30,0,0,0,0,0,0,0,10,20,25,39,34,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,1,PS (I-V),1,Department of Education,Urban,4,0,0,117,158,167,170,181,0,0,0,0,0,0,0,130,145,151,187,189,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,1,PS (I-V),1,Department of Education,Urban,4,0,0,50,77,82,77,87,0,0,0,0,0,0,0,48,55,84,85,86,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,1,PS (I-V),1,Department of Education,Urban,4,0,0,76,109,113,184,144,0,0,0,0,0,0,0,119,113,144,181,146,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,1,PS (I-V),1,Department of Education,Urban,4,0,0,65,67,89,106,86,0,0,0,0,0,0,0,64,73,73,112,83,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,3,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,1,PS (I-V),2,Tribal Welfare Department,Rural,4,2,0,1,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,1,PS (I-V),2,Tribal Welfare Department,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,1,PS (I-V),2,Tribal Welfare Department,Urban,4,0,0,3,1,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,1,PS (I-V),2,Tribal Welfare Department,Urban,4,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,1,PS (I-V),2,Tribal Welfare Department,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,14,12,20,18,21,21,11,0,0,0,0,0,0,0,16,12,12,12,8,1,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,3,0,13,18,8,9,2,0,0,0,0,0,0,0,5,2,1,2,1,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,16,10,38,31,11,8,2,0,0,0,0,0,0,0,22,8,14,0,2,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,2,0,30,10,14,9,9,4,10,6,0,0,0,0,10,6,4,5,6,4,2,2,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,3,1,28,23,15,25,19,3,5,4,0,0,0,0,12,10,26,12,6,0,1,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,1,0,40,8,12,13,7,0,0,0,0,0,0,0,14,14,3,4,3,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,6,7,64,75,57,69,37,9,20,8,0,0,0,0,33,34,25,31,27,5,8,4,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,50,49,50,34,20,8,5,9,0,0,0,0,21,24,24,15,14,3,1,1,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,51,40,19,17,12,9,7,6,2,0,0,0,0,0,18,7,5,7,7,3,2,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,64,36,12,15,10,7,5,1,0,0,0,0,0,0,10,9,6,5,1,3,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,6,5,13,7,4,4,5,1,0,2,0,0,0,0,7,7,4,4,3,1,7,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,10,7,6,5,5,2,0,0,0,0,0,0,0,0,4,3,1,4,0,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,113,91,96,72,78,43,25,11,12,5,38,37,11,18,86,64,44,45,34,11,6,4,22,17,16,11,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,57,48,51,40,29,16,15,9,0,0,0,0,40,33,28,20,23,8,2,3,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,40,28,70,65,53,61,46,30,42,29,0,0,0,0,40,29,48,37,37,19,14,28,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,7,4,15,15,9,12,7,2,0,0,0,0,0,0,18,9,7,4,7,0,1,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,11,6,9,10,9,0,0,0,0,0,0,0,10,8,10,9,7,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,6,2,3,2,2,0,0,0,0,0,0,0,3,5,1,3,1,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,18,10,26,10,10,0,0,0,0,0,0,0,17,13,16,21,16,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,2,0,0,1,1,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,8,4,4,4,6,0,0,0,0,0,0,0,3,6,5,6,11,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,2,2,9,10,15,17,9,11,10,8,13,17,0,0,5,0,8,8,9,3,2,6,7,5,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,19,25,19,26,20,39,34,41,65,70,0,0,14,20,13,13,9,23,14,24,39,62,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,7,16,17,15,27,20,12,21,51,56,0,0,11,5,11,11,7,5,6,8,32,42,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,8,14,9,16,8,16,11,18,36,38,0,0,8,4,4,5,4,7,6,6,31,12,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,34,13,21,13,15,23,20,28,22,22,44,50,0,0,14,15,16,14,10,17,8,13,40,31,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,5,18,11,8,14,2,12,11,28,42,13,13,2,3,7,3,8,7,7,5,9,10,3,5,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,0,0,24,35,47,28,24,45,46,48,60,61,0,0,18,19,22,12,14,10,18,15,23,17,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,9,4,16,20,18,19,20,27,29,38,42,29,0,0,20,23,17,9,17,18,11,15,8,14,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,21,12,22,28,25,25,31,31,25,34,83,96,32,41,9,14,17,10,23,12,20,14,12,44,16,10,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,12,13,107,99,116,96,86,106,111,126,355,342,30,26,62,69,77,64,60,58,69,70,214,196,26,14,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,0,0,15,19,15,13,15,28,17,18,71,84,0,0,10,13,8,13,9,14,7,10,57,53,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,30,36,35,47,71,53,56,60,63,70,223,232,46,82,25,36,31,36,31,32,38,37,123,112,19,32,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,15,14,70,83,62,82,53,83,82,73,162,164,11,8,54,45,50,45,58,50,53,40,116,95,12,7,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,566,264,6,2,0,0,0,0,0,0,0,0,443,194,3,3,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,292,160,9,0,0,0,0,0,0,0,0,0,186,136,11,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,188,91,7,0,0,0,0,0,0,0,0,0,273,192,14,35,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,497,266,82,40,0,0,0,0,0,0,0,0,487,277,54,37,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,550,231,39,66,0,0,0,0,0,0,0,0,507,234,37,52,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,319,166,18,13,0,0,0,0,0,0,0,0,320,174,23,19,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,651,300,59,45,0,0,0,0,0,0,0,0,659,363,39,27,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,403,153,0,0,0,0,0,0,0,0,0,0,329,145,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,21,26,10,14,0,0,0,0,0,0,0,0,186,34,61,49,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,27,26,23,20,0,0,0,0,0,0,0,0,194,177,105,114,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,34,20,21,11,0,0,0,0,0,0,0,0,3,6,3,5,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85,93,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,24,23,21,22,0,0,0,0,0,0,0,0,9,4,6,5,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,26,23,10,1,0,0,0,0,0,0,0,0,5,5,2,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,266,154,59,59,0,0,0,0,0,0,0,0,156,68,10,11,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,39,36,26,14,0,0,0,0,0,0,0,0,8,2,1,1,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,8,SS (IX-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,58,13,28,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,53,44,0,0,0,0,0,0,0,0,0,0,30,26,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,80,80,0,0,0,0,0,0,0,0,0,0,36,31,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,18,21,0,0,0,0,0,0,0,0,0,0,20,5,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,8,SS (IX-X),5,Private Unaided (Recognized),Urban,4,0,0,2,2,2,3,2,3,1,1,52,30,0,0,1,3,1,1,1,1,2,4,31,29,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,8,SS (IX-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,31,24,23,0,0,0,0,0,0,0,0,0,29,13,23,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,6,3,4,46,52,0,0,0,0,0,0,0,4,1,2,58,53,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,31,36,30,44,38,11,0,0,0,0,0,0,19,18,26,51,24,10,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,32,27,0,0,0,0,0,0,0,0,0,0,7,15,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,7,12,63,64,53,45,53,61,60,50,64,77,0,0,38,35,25,32,37,31,24,29,37,38,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,15,18,23,20,19,33,25,12,0,0,0,0,8,16,17,10,11,10,12,5,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,92,55,130,118,129,121,124,130,137,105,0,0,0,0,101,81,77,75,60,52,48,31,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,38,22,69,37,42,56,51,78,54,27,0,0,0,0,46,30,27,20,25,25,25,29,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,66,50,204,206,235,209,216,234,212,175,42,61,0,0,142,135,138,115,108,107,91,93,21,27,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,7,1,51,53,57,64,79,70,53,46,0,0,0,0,32,45,32,34,24,28,28,25,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,21,12,312,271,273,263,232,229,256,195,28,25,42,47,185,211,183,159,138,143,109,102,13,6,23,17,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,356,333,316,270,301,366,259,193,45,0,0,0,210,176,171,157,155,144,91,108,23,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,61,40,149,135,139,118,143,137,154,124,22,27,0,0,127,88,92,81,63,69,70,59,14,11,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,32,26,24,30,18,29,32,29,25,26,0,0,0,0,20,18,22,11,10,13,11,18,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,145,115,148,122,110,125,133,126,105,80,16,5,0,0,95,73,90,63,71,80,61,50,6,6,1,2,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,0,14,16,15,16,7,16,18,24,0,0,0,0,11,8,11,10,14,9,9,9,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,356,253,775,730,745,676,703,731,609,612,415,415,104,104,563,556,513,495,490,493,434,462,223,192,62,74,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,51,29,105,104,91,106,73,137,136,87,0,15,0,0,64,59,62,44,57,65,51,63,0,11,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,324,219,717,670,660,669,672,640,517,568,276,283,66,53,440,405,400,335,364,324,271,267,107,108,24,22,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,48,35,148,172,170,143,158,147,113,108,57,55,0,0,120,133,112,91,80,94,76,77,47,33,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,2,6,2,2,7,6,7,6,0,0,0,0,2,3,9,4,4,3,3,2,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,5,5,5,4,7,10,2,0,0,0,0,0,2,3,2,3,2,7,3,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,0,1,2,0,1,2,0,0,0,0,0,0,0,1,1,0,1,0,3,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,4,4,11,17,9,8,9,4,0,0,0,0,5,19,10,13,9,4,8,5,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,12,14,15,12,11,12,18,11,0,0,0,0,11,8,17,17,11,9,12,7,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,1359,1355,1279,0,0,0,0,0,0,0,0,0,1253,1352,1297,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,644,622,674,0,0,0,0,0,0,0,0,0,554,569,633,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,847,804,735,0,0,0,0,0,0,0,0,0,871,837,848,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,1015,1034,958,0,0,0,0,0,0,0,0,0,1012,1069,1068,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,1575,1379,1334,0,0,0,0,0,0,0,0,0,1653,1632,1475,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,956,908,820,0,0,0,0,0,0,0,0,0,894,948,921,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,1222,1222,1094,0,0,0,0,0,0,0,0,0,1342,1333,1141,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,1508,1503,1442,0,0,0,0,0,0,0,0,0,1675,1649,1607,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,78,99,108,0,0,0,0,0,0,0,0,0,142,159,181,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230902,BUXWAHA,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,29,41,55,0,0,0,0,0,0,0,0,0,84,76,102,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,120,123,157,0,0,0,0,0,0,0,0,0,183,190,191,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,20,29,20,0,0,0,0,0,0,0,0,0,31,37,40,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230905,ISHANAGAAR,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,181,217,256,0,0,0,0,0,0,0,0,0,194,211,246,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,48,64,68,0,0,0,0,0,0,0,0,0,100,118,126,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,183,184,253,0,0,0,0,0,0,0,0,0,216,270,319,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230908,RAJNAGAR,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,116,126,113,0,0,0,0,0,0,0,0,0,147,126,128,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230903,BIJAWAR,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,4,UPS (VI-VIII),2,Tribal Welfare Department,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230906,LAUNDI,4,UPS (VI-VIII),2,Tribal Welfare Department,Urban,4,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230901,BADA MALEHRA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230904,BARIGARH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,1,0,2,1,5,0,0,0,5,9,6,8,1,1,4,0,0,0,0,0,2,8,2,0,OBC
+2015-16,23,Madhya Pradesh,2309,CHHATARPUR,230907,NOWGONG,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,8,8,8,58,44,0,0,0,0,0,0,0,1,0,1,7,17,0,0,OBC

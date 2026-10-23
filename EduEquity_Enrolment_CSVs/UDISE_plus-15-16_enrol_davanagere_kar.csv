@@ -1,0 +1,829 @@
+ac_year,state_code,state_name,district_code,district_name,block_code,block_name,sch_category_id,category_name,sch_mgmt_id,sch_mgmt_name,loc_name,caste_id,pre_primary_boys,pre_primary_girls,class_1_boys,class_2_boys,class_3_boys,class_4_boys,class_5_boys,class_6_boys,class_7_boys,class_8_boys,class_9_boys,class_10_boys,class_11_boys,class_12_boys,class_1_girls,class_2_girls,class_3_girls,class_4_girls,class_5_girls,class_6_girls,class_7_girls,class_8_girls,class_9_girls,class_10_girls,class_11_girls,class_12_girls,caste_name
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,2,UPS (I-VIII),4,Government Aided,Rural,2,18,14,60,48,54,59,39,30,45,0,0,0,0,0,39,57,24,25,37,30,27,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,7,SS (VI-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,74,96,80,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,34,42,33,37,20,0,0,0,0,0,0,0,26,28,48,98,52,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,1,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,18,54,47,1,0,0,0,0,0,0,0,0,24,46,39,2,5,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,6,7,13,3,1,0,0,0,0,0,0,0,7,9,9,8,2,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,13,13,18,0,0,0,0,0,0,0,0,0,17,12,8,1,1,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,34,36,13,0,0,0,0,0,0,0,0,0,33,38,6,0,1,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,4,0,1,2,2,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,3,9,5,29,38,0,0,0,0,0,0,0,0,0,0,13,1,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,1,0,0,25,4,0,0,0,0,0,0,0,1,2,4,3,5,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,8,9,6,2,2,0,0,0,0,0,0,0,0,0,1,0,3,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,10,11,0,1,0,0,0,0,0,0,0,3,13,10,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),5,HSS (VI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),5,HSS (VI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,3,6,10,0,0,0,0,0,0,0,0,0,0,1,2,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,5,HSS (VI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,5,HSS (VI-XII),7,Central Govt,Rural,1,0,0,0,0,0,0,0,4,8,7,6,8,2,4,0,0,0,0,0,3,4,7,8,9,4,1,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,1,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),11,HSS (XI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),11,HSS (XI-XII),2,Tribal Welfare Department,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,11,HSS (XI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,20,16,0,0,0,0,0,0,0,0,0,0,51,32,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),11,HSS (XI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),11,HSS (XI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,3,4,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,11,HSS (XI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,21,5,0,0,0,0,0,0,0,0,0,0,26,12,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,11,HSS (XI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,11,HSS (XI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,1,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),11,HSS (XI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),11,HSS (XI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,273,195,0,0,0,0,0,0,0,0,0,0,400,356,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,11,HSS (XI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,2,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,11,HSS (XI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,30,7,0,0,0,0,0,0,0,0,0,0,46,6,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,11,HSS (XI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,3,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,12,10,0,0,0,0,0,0,0,0,0,0,0,1,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,10,12,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,392,316,0,0,0,0,0,0,0,0,0,0,503,335,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,3,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,1,PS (I-V),1,Department of Education,Rural,1,0,0,3,7,6,5,8,0,0,0,0,0,0,0,6,3,7,7,7,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),1,PS (I-V),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),1,PS (I-V),1,Department of Education,Rural,1,0,2,6,5,4,5,5,0,0,0,0,0,0,0,6,5,6,5,5,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,1,PS (I-V),1,Department of Education,Rural,1,0,0,3,2,1,7,2,0,0,0,0,0,0,0,5,4,4,8,5,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,1,PS (I-V),1,Department of Education,Rural,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,1,PS (I-V),1,Department of Education,Rural,1,0,0,6,2,0,3,1,0,0,0,0,0,0,0,2,3,2,2,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,1,PS (I-V),1,Department of Education,Rural,1,0,0,4,4,5,3,1,0,0,0,0,0,0,0,4,1,2,5,5,1,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,1,0,0,2,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),1,PS (I-V),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),1,PS (I-V),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,1,PS (I-V),2,Tribal Welfare Department,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,1,PS (I-V),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),1,PS (I-V),4,Government Aided,Rural,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,1,PS (I-V),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),1,PS (I-V),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),1,PS (I-V),4,Government Aided,Urban,1,0,0,2,4,5,2,0,0,0,0,0,0,0,0,2,4,4,5,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,33,32,11,7,9,0,0,1,0,0,0,0,0,0,8,8,2,0,2,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),1,PS (I-V),5,Private Unaided (Recognized),Rural,1,35,19,6,10,11,20,9,0,1,0,0,0,0,0,5,14,7,7,3,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),1,PS (I-V),5,Private Unaided (Recognized),Rural,1,34,25,14,16,11,11,8,0,0,0,0,0,0,0,11,10,3,7,8,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,9,8,7,10,2,0,7,0,0,0,0,0,8,5,4,2,6,0,2,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,9,4,0,3,2,0,0,0,0,0,0,0,6,2,2,2,2,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),1,PS (I-V),5,Private Unaided (Recognized),Urban,1,20,8,10,9,3,3,6,0,0,0,0,0,0,0,8,5,2,1,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),1,PS (I-V),5,Private Unaided (Recognized),Urban,1,178,151,87,51,44,37,31,11,3,1,0,0,0,0,67,53,31,32,22,5,3,4,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,11,16,21,8,4,1,4,2,0,0,0,0,10,10,9,8,4,4,2,2,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),6,SS (I-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,1,4,3,0,0,0,0,0,0,0,0,0,1,2,4,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,6,SS (I-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),6,SS (I-X),2,Tribal Welfare Department,Urban,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,1,1,0,2,4,1,2,2,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,1,0,0,1,3,3,1,2,0,3,1,0,0,0,0,0,4,1,3,0,2,1,1,1,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,1,1,3,10,5,6,5,5,0,0,0,0,0,0,0,0,0,1,3,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,56,65,72,77,73,69,64,69,48,34,0,0,70,48,57,48,54,50,67,38,42,41,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),6,SS (I-X),5,Private Unaided (Recognized),Urban,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,1,2,1,1,3,1,0,0,1,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),6,SS (I-X),5,Private Unaided (Recognized),Urban,1,97,74,245,306,300,333,325,301,353,345,335,306,0,0,198,258,243,273,304,244,257,295,237,231,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,0,0,1,2,2,2,4,3,3,1,3,2,0,0,1,0,1,3,1,3,2,3,1,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,0,0,39,48,43,44,52,45,44,30,31,31,0,0,17,29,30,46,40,33,41,25,30,21,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,2,4,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,5,8,0,0,0,0,0,0,0,0,0,0,8,11,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,8,SS (IX-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,4,1,5,0,0,0,0,0,0,0,0,0,3,7,4,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),8,SS (IX-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,8,8,0,0,0,0,0,0,0,0,0,0,0,1,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,8,SS (IX-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,13,21,15,0,0,0,0,0,0,0,0,0,18,23,26,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,37,71,64,0,0,0,0,0,0,0,0,0,44,84,50,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,8,18,9,0,0,0,0,0,0,0,0,0,10,16,17,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,17,14,13,29,10,0,0,0,0,0,0,0,13,18,16,36,11,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,8,14,11,0,0,0,0,0,0,0,0,0,7,9,14,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,44,58,42,0,0,0,0,0,0,0,0,0,58,49,47,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),7,SS (VI-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,9,12,7,0,0,0,0,0,0,0,0,0,3,1,9,2,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,13,5,6,0,0,0,0,0,0,0,0,0,53,64,77,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,7,SS (VI-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,7,SS (VI-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,30,13,0,0,0,0,0,0,0,0,0,0,29,26,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,7,SS (VI-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,78,92,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,7,SS (VI-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,7,SS (VI-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,7,SS (VI-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,7,SS (VI-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),2,Tribal Welfare Department,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),7,SS (VI-X),2,Tribal Welfare Department,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),2,Tribal Welfare Department,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,96,97,100,0,0,0,0,0,0,0,0,0,80,84,111,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,20,11,18,0,0,0,0,0,0,0,0,0,20,28,14,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,54,79,72,0,0,0,0,0,0,0,0,0,54,65,58,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,50,61,72,0,0,0,0,0,0,0,0,0,51,50,65,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,26,25,38,0,0,0,0,0,0,0,0,0,15,13,15,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,16,9,17,0,0,0,0,0,0,0,0,0,15,10,23,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,43,71,52,0,0,0,0,0,0,0,0,0,56,53,51,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,6,8,10,0,0,0,0,0,0,0,0,0,1,3,1,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),7,SS (VI-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,8,14,30,0,0,0,0,0,0,0,0,0,4,0,6,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,71,71,63,0,0,0,0,0,0,0,0,0,235,251,264,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,7,SS (VI-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,31,41,39,0,0,0,0,0,0,0,0,0,23,20,33,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,7,SS (VI-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,7,SS (VI-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,12,6,11,0,0,0,0,0,0,0,0,0,8,11,9,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,7,SS (VI-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,27,30,26,0,0,0,0,0,0,0,0,0,18,11,15,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,25,126,135,0,0,0,0,0,0,0,0,0,12,56,51,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,1,0,3,3,2,1,0,1,0,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,1,7,0,0,0,0,0,0,0,0,0,0,2,0,3,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,17,21,365,359,370,0,0,0,0,0,0,0,20,18,288,328,264,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,10,9,18,0,0,0,0,0,0,0,0,0,9,4,13,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,0,0,0,2,4,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,11,16,15,11,20,19,18,0,0,0,0,0,22,24,26,26,23,32,43,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,8,9,11,8,8,14,10,1,0,0,0,0,3,7,8,12,11,16,18,5,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,36,33,43,39,29,45,48,1,0,0,0,0,54,44,46,37,47,47,57,1,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,0,0,1,2,4,1,1,0,0,0,0,0,2,0,0,1,0,4,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,7,9,10,9,11,10,17,0,0,0,0,0,11,9,13,16,14,13,13,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,22,23,16,24,20,22,26,4,0,0,0,0,30,33,35,42,36,45,31,6,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,3,3,0,0,0,2,0,0,0,0,0,0,3,1,1,0,0,0,1,1,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,0,0,0,1,1,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,2,0,1,1,2,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,1,3,2,3,4,2,0,0,0,0,0,0,0,0,1,1,2,1,1,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,55,22,43,34,33,33,35,0,0,0,0,0,28,31,28,28,31,26,32,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,0,0,1,4,3,2,3,0,0,0,0,0,0,0,0,1,1,4,2,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,2,UPS (I-VIII),4,Government Aided,Rural,1,1,0,14,16,15,13,14,11,8,0,0,0,0,0,15,14,12,9,10,7,11,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,2,UPS (I-VIII),4,Government Aided,Urban,1,0,0,8,9,5,9,4,9,9,0,0,0,0,0,5,10,5,7,3,14,8,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),2,UPS (I-VIII),4,Government Aided,Urban,1,0,0,3,3,1,1,5,3,2,0,0,0,0,0,0,1,1,4,6,4,7,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),2,UPS (I-VIII),4,Government Aided,Urban,1,1,0,25,21,22,38,41,49,23,0,0,0,0,0,22,27,28,34,29,36,29,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,2,UPS (I-VIII),4,Government Aided,Urban,1,0,1,1,3,2,1,3,3,2,0,0,0,0,0,2,1,3,6,2,3,2,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,2,UPS (I-VIII),4,Government Aided,Urban,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,1,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,2,UPS (I-VIII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,2,UPS (I-VIII),4,Government Aided,Urban,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,1,4,4,1,1,1,0,1,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,40,20,58,57,58,52,61,84,77,94,0,0,0,0,34,36,42,33,45,75,41,12,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,11,24,2,4,4,4,1,2,2,0,0,0,0,0,1,0,0,2,3,1,2,1,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,2,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,15,13,4,1,2,0,1,2,1,3,0,0,0,0,2,5,1,2,3,0,2,1,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,36,39,77,84,74,60,56,79,79,3,0,0,0,0,59,55,63,52,73,74,49,7,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,6,7,2,2,9,3,4,1,3,0,0,0,0,0,2,1,3,3,5,3,4,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,295,290,347,322,339,343,373,387,330,23,10,13,0,0,272,213,228,229,225,230,218,24,4,4,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,4,9,13,10,13,14,10,17,14,0,0,0,0,0,15,11,18,9,9,8,7,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,1,1,2,1,0,0,0,0,0,0,1,1,2,1,0,0,1,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,0,0,16,20,11,6,14,5,2,0,0,0,0,0,10,10,14,11,6,4,3,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,1,0,17,9,11,13,11,12,17,0,0,0,0,0,11,3,9,16,9,6,10,3,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),2,UPS (I-VIII),7,Central Govt,Urban,1,0,0,16,8,8,12,8,10,11,13,10,13,0,0,9,6,11,8,9,14,15,10,10,13,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,1,2,2,0,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,10,3,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),4,UPS (VI-VIII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,13,27,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,12,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,55,83,0,0,0,0,0,0,0,0,0,0,31,60,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,127,114,113,57,55,0,0,0,0,0,0,0,66,72,81,114,65,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,38,66,51,23,16,0,0,0,0,0,0,0,24,40,36,47,32,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,37,65,52,26,20,0,0,0,0,0,0,0,28,44,37,31,30,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,32,39,24,5,9,0,0,0,0,0,0,0,36,47,25,16,18,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,18,8,16,9,4,0,0,0,0,0,0,0,17,16,17,15,1,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,27,49,32,11,6,0,0,0,0,0,0,0,45,41,43,16,9,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,45,52,30,81,67,0,0,0,0,0,0,0,6,8,4,72,57,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,15,14,23,301,230,0,0,0,0,0,0,0,4,3,3,46,48,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,15,11,15,38,27,0,0,0,0,0,0,0,12,14,10,58,38,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,24,24,27,0,0,0,0,0,0,0,0,0,25,27,25,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,36,28,43,44,14,0,0,0,0,0,0,0,0,1,1,45,12,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,7,13,6,5,6,0,0,0,0,0,0,0,12,8,2,15,8,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,1,3,4,3,2,0,0,0,0,0,0,0,4,2,1,0,2,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),5,HSS (VI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),5,HSS (VI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,17,19,17,0,0,0,0,0,0,0,0,0,3,2,2,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,5,HSS (VI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,5,HSS (VI-XII),7,Central Govt,Rural,2,0,0,0,0,0,0,0,15,13,10,16,13,6,8,0,0,0,0,0,8,9,9,4,6,2,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,1,1,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,14,9,0,0,0,0,0,0,0,0,0,0,17,14,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,12,2,0,0,0,0,0,0,0,0,0,0,9,3,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),11,HSS (XI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,5,7,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),11,HSS (XI-XII),2,Tribal Welfare Department,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,11,HSS (XI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,17,14,0,0,0,0,0,0,0,0,0,0,49,23,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),11,HSS (XI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,29,30,0,0,0,0,0,0,0,0,0,0,23,30,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),11,HSS (XI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,9,13,0,0,0,0,0,0,0,0,0,0,8,2,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,11,HSS (XI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,18,13,0,0,0,0,0,0,0,0,0,0,41,28,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,11,HSS (XI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,9,7,0,0,0,0,0,0,0,0,0,0,9,2,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,11,HSS (XI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,206,149,0,0,0,0,0,0,0,0,0,0,107,93,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),11,HSS (XI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,16,23,0,0,0,0,0,0,0,0,0,0,14,26,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),11,HSS (XI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,103,98,0,0,0,0,0,0,0,0,0,0,206,168,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,11,HSS (XI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,49,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,11,HSS (XI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,102,76,0,0,0,0,0,0,0,0,0,0,73,52,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,11,HSS (XI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,121,110,0,0,0,0,0,0,0,0,0,0,45,42,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,91,71,0,0,0,0,0,0,0,0,0,0,68,55,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,10,4,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,21,29,0,0,0,0,0,0,0,0,0,0,10,5,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,17,20,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,7,10,0,0,0,0,0,0,0,0,0,0,8,8,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,15,11,0,0,0,0,0,0,0,0,0,0,15,5,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,6,2,0,0,0,0,0,0,0,0,0,0,4,4,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,139,100,0,0,0,0,0,0,0,0,0,0,152,99,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,11,9,0,0,0,0,0,0,0,0,0,0,2,2,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,21,15,0,0,0,0,0,0,0,0,0,0,10,7,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,1,PS (I-V),1,Department of Education,Rural,2,0,0,204,196,165,197,158,0,0,0,0,0,0,0,208,213,198,173,162,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),1,PS (I-V),1,Department of Education,Rural,2,10,5,62,56,73,65,65,1,1,0,0,0,0,0,65,55,65,60,54,1,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),1,PS (I-V),1,Department of Education,Rural,2,8,4,54,58,86,49,65,4,6,0,0,0,0,0,57,65,69,62,57,3,3,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,1,PS (I-V),1,Department of Education,Rural,2,0,0,62,60,59,59,50,0,0,0,0,0,0,0,46,57,44,59,59,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,1,PS (I-V),1,Department of Education,Rural,2,0,0,137,145,113,136,129,0,0,0,0,0,0,0,134,164,150,138,129,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,1,PS (I-V),1,Department of Education,Rural,2,0,0,135,116,98,118,93,0,0,0,0,0,0,0,134,135,120,136,112,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,1,PS (I-V),1,Department of Education,Rural,2,0,0,232,215,198,197,198,5,3,0,0,0,0,0,280,247,206,213,191,6,7,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,1,PS (I-V),1,Department of Education,Urban,2,0,0,10,6,8,6,6,0,0,0,0,0,0,0,6,6,6,4,10,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),1,PS (I-V),1,Department of Education,Urban,2,0,0,22,23,18,22,24,0,0,0,0,0,0,0,39,33,26,32,26,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),1,PS (I-V),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,3,1,1,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,1,PS (I-V),1,Department of Education,Urban,2,0,0,18,16,12,19,20,0,0,0,0,0,0,0,11,16,9,10,15,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,1,PS (I-V),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,1,PS (I-V),1,Department of Education,Urban,2,0,0,3,2,2,4,5,0,0,0,0,0,0,0,4,2,1,1,2,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,1,PS (I-V),1,Department of Education,Urban,2,0,0,8,6,10,7,9,0,0,0,0,0,0,0,6,10,7,8,4,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,3,2,3,7,2,0,0,0,0,0,0,0,3,4,6,2,6,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,1,PS (I-V),2,Tribal Welfare Department,Urban,2,0,0,7,6,10,8,16,0,0,0,0,0,0,0,2,3,14,12,9,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,1,PS (I-V),4,Government Aided,Rural,2,0,0,11,5,5,5,4,0,0,0,0,0,0,0,4,1,3,5,2,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),1,PS (I-V),4,Government Aided,Rural,2,0,0,8,4,7,8,1,1,0,0,0,0,0,0,6,3,1,4,7,1,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,1,PS (I-V),4,Government Aided,Rural,2,0,0,13,18,9,14,8,0,0,0,0,0,0,0,7,15,5,11,7,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),1,PS (I-V),4,Government Aided,Urban,2,6,10,7,6,6,5,10,0,0,0,0,0,0,0,9,5,5,5,6,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),1,PS (I-V),4,Government Aided,Urban,2,0,0,16,16,20,25,8,0,0,0,0,0,0,0,19,17,28,21,4,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,29,10,34,34,38,27,24,6,6,0,0,0,0,0,26,20,10,17,5,1,3,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),1,PS (I-V),5,Private Unaided (Recognized),Rural,2,94,57,52,35,37,25,19,8,7,3,0,0,0,0,25,18,15,25,15,2,3,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),1,PS (I-V),5,Private Unaided (Recognized),Rural,2,34,28,7,7,1,8,3,1,0,0,0,0,0,0,9,2,1,4,2,0,1,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,13,8,8,3,3,2,1,0,0,0,0,0,0,0,2,2,2,1,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,20,8,8,13,7,8,2,1,0,0,0,0,0,0,6,9,5,3,0,1,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,50,32,12,16,6,1,2,0,0,0,0,0,25,12,6,6,4,1,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,37,17,45,33,30,26,11,1,0,0,0,0,0,0,13,17,11,14,2,1,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,4,0,4,1,5,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),1,PS (I-V),5,Private Unaided (Recognized),Urban,2,24,11,12,6,9,10,3,0,0,0,0,0,0,0,11,10,7,5,7,2,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),1,PS (I-V),5,Private Unaided (Recognized),Urban,2,112,95,67,46,28,38,11,6,0,1,0,0,0,0,41,26,30,35,12,4,2,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,2,4,1,0,1,1,0,0,0,0,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,6,3,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,18,14,10,8,4,0,4,3,0,0,0,0,11,6,4,11,4,4,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,27,13,10,7,4,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),6,SS (I-X),1,Department of Education,Urban,2,0,0,2,4,6,8,6,2,4,6,6,3,0,0,4,1,8,6,9,6,7,12,4,10,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,6,SS (I-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),6,SS (I-X),2,Tribal Welfare Department,Urban,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,13,5,7,5,10,7,7,6,3,4,4,5,0,0,5,4,7,5,7,5,1,3,4,2,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,2,9,4,4,2,1,3,4,9,9,0,0,0,0,0,0,2,3,2,2,0,1,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,14,16,3,4,5,4,3,4,2,5,0,0,4,6,5,5,7,8,2,6,4,2,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),6,SS (I-X),5,Private Unaided (Recognized),Urban,2,13,9,4,6,5,3,1,2,1,2,6,1,0,0,2,2,2,4,0,2,1,0,1,1,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),6,SS (I-X),5,Private Unaided (Recognized),Urban,2,42,31,61,65,64,58,63,59,48,49,48,55,0,0,55,53,54,42,44,55,37,40,44,38,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,3,1,5,4,7,8,7,7,3,6,5,2,0,0,2,3,1,6,4,4,2,4,2,4,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,0,0,23,12,11,14,7,16,13,7,13,5,0,0,13,12,8,8,14,11,10,5,4,4,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,17,26,21,0,0,0,0,0,0,0,0,0,4,20,23,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,23,14,15,0,0,0,0,0,0,0,0,0,18,18,9,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,19,12,0,0,0,0,0,0,0,0,0,0,11,6,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,4,2,3,0,0,0,0,0,0,0,0,0,2,0,1,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,3,5,0,0,0,0,0,0,0,0,0,0,9,6,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,11,5,0,0,0,0,0,0,0,0,0,0,8,9,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,8,SS (IX-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,1,0,1,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),8,SS (IX-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,8,SS (IX-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,107,129,122,0,0,0,0,0,0,0,0,0,137,195,147,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,23,33,25,0,0,0,0,0,0,0,0,0,20,27,22,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,67,84,65,0,0,0,0,0,0,0,0,0,68,72,57,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,25,50,17,0,0,0,0,0,0,0,0,0,34,39,35,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,154,189,126,87,61,0,0,0,0,0,0,0,128,189,158,67,57,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,91,96,86,0,0,0,0,0,0,0,0,0,96,100,91,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,153,167,141,0,0,0,0,0,0,0,0,0,114,156,114,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,19,39,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),7,SS (VI-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,17,32,33,33,26,0,0,0,0,0,0,0,14,15,33,16,9,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,36,44,38,154,128,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,7,SS (VI-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,15,16,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,7,SS (VI-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,25,21,19,45,40,0,0,0,0,0,0,0,11,15,10,35,48,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,7,SS (VI-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,52,53,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,25,24,20,24,17,0,0,0,0,0,0,0,14,21,18,17,17,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,27,26,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,24,32,20,18,26,0,0,0,0,0,0,0,22,22,20,19,14,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,5,6,8,7,6,0,0,0,0,0,0,0,31,32,27,35,29,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,6,5,4,7,0,0,0,0,0,0,0,0,12,15,14,12,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,36,27,29,34,26,0,0,0,0,0,0,0,37,36,34,30,28,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),2,Tribal Welfare Department,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,51,45,45,49,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),7,SS (VI-X),2,Tribal Welfare Department,Urban,2,0,0,0,0,0,0,0,2,9,9,3,1,0,0,0,0,0,0,0,4,1,1,0,1,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),2,Tribal Welfare Department,Urban,2,0,0,0,0,0,0,0,16,12,12,17,6,0,0,0,0,0,0,0,25,22,22,21,13,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,281,304,272,0,0,0,0,0,0,0,0,0,240,229,179,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,98,152,108,0,0,0,0,0,0,0,0,0,106,113,124,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,96,122,110,0,0,0,0,0,0,0,0,0,96,124,99,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,39,68,46,0,0,0,0,0,0,0,0,0,28,54,31,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,119,123,114,0,0,0,0,0,0,0,0,0,133,122,103,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,148,138,149,0,0,0,0,0,0,0,0,0,130,147,107,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,182,196,177,0,0,0,0,0,0,0,0,0,138,174,93,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,26,28,28,0,0,0,0,0,0,0,0,0,15,18,12,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),7,SS (VI-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,93,97,83,0,0,0,0,0,0,0,0,0,87,112,123,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,132,145,135,0,0,0,0,0,0,0,0,0,140,148,144,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,7,SS (VI-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,47,67,58,0,0,0,0,0,0,0,0,0,44,58,34,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,7,SS (VI-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,12,5,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,7,SS (VI-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,41,53,44,0,0,0,0,0,0,0,0,0,42,43,51,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,7,SS (VI-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,8,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,5,5,2,0,0,0,0,0,0,0,0,0,3,1,1,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,21,15,10,0,0,0,0,0,0,0,0,0,4,14,3,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,8,10,12,0,0,0,0,0,0,0,0,0,2,7,8,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,8,13,6,0,0,0,0,0,0,0,0,0,5,4,4,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,1,0,1,0,3,0,1,19,20,19,0,0,2,1,1,1,0,0,2,15,16,10,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,10,9,10,0,0,0,0,0,0,0,0,0,12,8,7,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,14,9,8,0,0,0,0,0,0,0,0,0,14,3,8,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,3,3,3,0,0,0,0,0,0,0,0,0,6,2,2,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,14,10,12,0,0,0,0,0,0,0,0,0,13,21,15,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,1,2,123,137,134,0,0,0,0,0,0,0,4,2,112,126,113,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,31,23,43,0,0,0,0,0,0,0,0,0,20,10,6,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,11,13,17,0,0,0,0,0,0,0,0,0,9,18,11,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,29,44,11,0,0,0,0,0,0,0,0,0,19,18,15,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,267,323,292,337,364,438,467,33,0,0,0,0,331,327,363,315,339,470,501,29,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,166,156,188,160,155,230,245,69,0,0,0,0,153,180,174,178,154,190,204,56,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),2,UPS (I-VIII),1,Department of Education,Rural,2,13,8,139,142,181,158,173,197,227,69,0,0,0,0,139,147,161,180,162,217,227,51,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,169,159,138,159,167,209,206,73,0,0,0,0,163,141,148,139,134,203,194,70,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,2,UPS (I-VIII),1,Department of Education,Rural,2,8,6,216,200,234,239,238,326,383,60,0,0,0,0,213,226,204,242,213,309,359,43,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,199,207,213,245,207,276,276,41,1,2,0,0,213,227,217,240,191,283,254,29,1,1,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,423,425,390,391,382,464,428,61,2,2,0,0,436,404,429,455,421,481,436,65,1,3,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,6,3,1,5,13,16,22,0,0,0,0,0,4,6,7,7,7,24,27,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,58,67,51,63,87,84,101,54,0,0,0,0,60,69,72,91,74,87,91,57,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,61,47,46,63,76,54,71,21,0,0,0,0,53,56,74,65,62,56,57,19,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,23,18,28,10,20,28,34,2,0,0,0,0,24,18,20,26,16,28,36,4,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,3,6,5,8,5,6,2,0,0,0,0,0,8,3,2,9,6,6,4,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,10,12,6,9,16,20,27,0,0,0,0,0,15,14,15,18,3,28,20,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,21,19,20,20,19,52,39,0,0,0,0,0,19,23,27,38,24,71,52,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,56,53,50,56,53,88,77,6,0,0,0,0,55,53,46,29,36,57,66,2,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,12,9,10,9,14,30,18,0,0,0,0,0,9,5,2,6,4,10,11,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),2,UPS (I-VIII),4,Government Aided,Rural,2,5,6,21,19,26,23,31,26,23,0,0,0,0,0,17,12,13,17,10,23,12,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,2,UPS (I-VIII),4,Government Aided,Rural,2,4,6,6,6,4,7,8,12,9,0,0,0,0,0,2,3,7,5,8,5,4,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,22,23,28,31,40,41,39,0,0,0,0,0,14,13,13,24,30,33,20,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,25,20,27,32,18,25,24,0,0,0,0,0,14,19,15,20,25,20,22,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,2,UPS (I-VIII),4,Government Aided,Urban,2,0,0,6,10,7,8,6,32,20,0,0,0,0,0,6,4,1,3,7,9,8,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),2,UPS (I-VIII),4,Government Aided,Urban,2,17,18,76,68,67,72,79,71,79,0,0,0,0,0,74,70,75,58,70,87,77,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),2,UPS (I-VIII),4,Government Aided,Urban,2,11,11,55,68,70,75,70,122,123,0,0,0,0,0,63,65,92,82,82,110,105,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,2,UPS (I-VIII),4,Government Aided,Urban,2,22,20,37,39,27,36,47,39,52,0,0,0,0,0,35,44,42,35,38,35,45,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,2,UPS (I-VIII),4,Government Aided,Urban,2,1,0,0,3,3,7,5,2,5,0,0,0,0,0,2,4,3,3,1,2,1,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,2,UPS (I-VIII),4,Government Aided,Urban,2,0,0,3,8,4,11,6,8,14,0,0,0,0,0,7,7,6,6,7,11,13,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,2,UPS (I-VIII),4,Government Aided,Urban,2,6,3,5,9,6,10,7,20,13,0,0,0,0,0,7,0,8,5,5,11,12,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,48,43,59,45,33,33,31,23,14,8,3,0,0,0,23,38,26,21,13,18,16,1,1,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,59,33,32,18,29,31,23,16,16,1,0,0,0,0,17,13,7,15,10,4,11,1,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,24,22,16,17,20,17,9,18,13,0,0,0,0,0,12,11,10,8,11,5,2,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,36,21,26,18,13,10,7,2,13,0,0,0,0,0,21,13,7,10,16,7,9,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,13,12,15,12,11,5,8,11,9,0,0,0,0,0,3,11,8,7,7,4,8,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,21,11,21,19,12,6,4,0,0,0,0,0,4,7,8,9,2,2,4,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,7,5,7,10,7,2,8,1,2,2,0,0,0,0,2,2,2,4,2,1,4,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,11,8,14,8,10,9,11,16,8,2,0,0,0,0,7,9,12,5,7,13,9,4,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,116,70,85,51,56,50,42,34,39,10,0,0,0,0,43,33,36,25,26,38,13,6,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,153,138,182,196,183,218,174,221,191,27,3,4,0,0,160,121,113,155,141,161,156,15,0,1,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,12,9,25,11,18,20,8,25,13,0,0,0,0,0,9,15,12,12,13,13,13,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,14,14,12,10,15,19,15,7,13,0,0,0,0,0,10,14,8,11,13,7,5,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,0,6,9,6,15,3,2,5,0,0,0,0,0,4,4,6,6,10,1,3,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,30,24,27,23,24,24,18,22,9,3,0,0,0,0,11,20,15,13,17,18,9,1,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),2,UPS (I-VIII),7,Central Govt,Urban,2,0,0,4,5,6,4,10,4,2,7,3,5,0,0,3,0,5,4,4,7,6,5,5,2,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,10,6,0,0,0,0,0,0,0,0,0,0,6,4,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,28,20,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,7,10,5,2,3,0,0,0,0,0,0,0,7,4,6,5,1,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,5,3,0,0,0,0,0,0,0,0,0,0,7,8,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,15,20,0,0,0,0,0,0,0,0,0,0,19,21,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),4,UPS (VI-VIII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,3,5,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,12,16,11,0,0,0,0,0,0,0,0,0,7,5,14,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,1,4,4,7,2,0,0,0,0,0,0,0,0,0,2,3,1,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,4,3,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,3,8,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,4,5,1,1,0,0,0,0,0,0,0,0,3,5,1,2,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,17,19,3,0,0,0,0,0,0,0,0,0,19,13,2,1,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,3,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,SC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,47,66,61,40,26,0,0,0,0,0,0,0,27,37,33,65,62,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,7,16,13,8,5,0,0,0,0,0,0,0,4,13,9,21,16,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,19,42,35,19,10,0,0,0,0,0,0,0,20,33,26,38,18,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,14,18,9,12,11,0,0,0,0,0,0,0,23,31,29,16,10,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,18,34,24,5,8,0,0,0,0,0,0,0,23,33,19,10,11,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,27,35,35,9,5,0,0,0,0,0,0,0,18,34,31,24,13,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,15,12,7,25,35,0,0,0,0,0,0,0,2,3,0,39,31,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,7,12,17,90,99,0,0,0,0,0,0,0,0,0,0,15,18,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,10,5,5,25,20,0,0,0,0,0,0,0,2,6,6,45,35,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,28,30,35,0,0,0,0,0,0,0,0,0,31,39,29,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,28,20,15,36,8,0,0,0,0,0,0,0,0,0,1,17,11,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,8,3,14,9,11,0,0,0,0,0,0,0,14,12,5,11,11,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,6,5,8,1,7,0,0,0,0,0,0,0,5,7,11,5,8,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),5,HSS (VI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),5,HSS (VI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,6,4,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,5,HSS (VI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,5,HSS (VI-XII),7,Central Govt,Rural,3,0,0,0,0,0,0,0,5,5,7,4,6,0,2,0,0,0,0,0,4,1,2,4,3,0,3,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,2,6,0,0,0,0,0,0,0,0,0,0,7,5,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,7,10,0,0,0,0,0,0,0,0,0,0,14,7,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,9,4,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),11,HSS (XI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,3,10,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),11,HSS (XI-XII),2,Tribal Welfare Department,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,11,HSS (XI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,10,5,0,0,0,0,0,0,0,0,0,0,34,21,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),11,HSS (XI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,19,19,0,0,0,0,0,0,0,0,0,0,10,15,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),11,HSS (XI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,5,3,0,0,0,0,0,0,0,0,0,0,6,4,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,11,HSS (XI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,14,7,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,11,HSS (XI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,9,9,0,0,0,0,0,0,0,0,0,0,11,5,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,11,HSS (XI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,121,95,0,0,0,0,0,0,0,0,0,0,69,75,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),11,HSS (XI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,9,6,0,0,0,0,0,0,0,0,0,0,0,6,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),11,HSS (XI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,44,22,0,0,0,0,0,0,0,0,0,0,113,94,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,11,HSS (XI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,42,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,11,HSS (XI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,117,118,0,0,0,0,0,0,0,0,0,0,80,64,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,11,HSS (XI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,11,24,0,0,0,0,0,0,0,0,0,0,7,10,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,39,34,0,0,0,0,0,0,0,0,0,0,34,35,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,4,1,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,16,12,0,0,0,0,0,0,0,0,0,0,3,7,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,5,4,0,0,0,0,0,0,0,0,0,0,17,15,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,7,9,0,0,0,0,0,0,0,0,0,0,3,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,12,11,0,0,0,0,0,0,0,0,0,0,12,7,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,3,6,0,0,0,0,0,0,0,0,0,0,9,7,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,101,58,0,0,0,0,0,0,0,0,0,0,113,97,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,4,2,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,5,9,0,0,0,0,0,0,0,0,0,0,8,1,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,1,PS (I-V),1,Department of Education,Rural,3,0,0,66,51,57,64,39,0,0,0,0,0,0,0,55,41,62,63,46,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),1,PS (I-V),1,Department of Education,Rural,3,1,0,23,18,25,21,23,1,0,0,0,0,0,0,24,26,37,18,27,1,2,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),1,PS (I-V),1,Department of Education,Rural,3,0,0,31,40,20,29,28,2,2,0,0,0,0,0,25,36,31,28,25,4,2,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,1,PS (I-V),1,Department of Education,Rural,3,0,0,24,23,27,38,28,0,0,0,0,0,0,0,22,30,30,21,21,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,1,PS (I-V),1,Department of Education,Rural,3,0,0,17,17,16,22,18,0,0,0,0,0,0,0,33,21,24,25,18,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,1,PS (I-V),1,Department of Education,Rural,3,0,0,118,116,99,128,125,5,9,0,0,0,0,0,109,134,110,126,110,10,8,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,1,PS (I-V),1,Department of Education,Rural,3,0,0,161,158,162,158,139,26,8,0,0,0,0,0,154,152,145,122,128,27,11,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),1,PS (I-V),1,Department of Education,Urban,3,0,0,4,1,3,2,5,0,0,0,0,0,0,0,3,1,4,6,5,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),1,PS (I-V),1,Department of Education,Urban,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,1,PS (I-V),1,Department of Education,Urban,3,0,0,1,3,4,2,1,0,0,0,0,0,0,0,4,4,3,3,3,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,1,PS (I-V),1,Department of Education,Urban,3,0,0,2,2,7,0,2,0,0,0,0,0,0,0,3,0,5,3,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,5,0,0,0,0,0,0,0,0,0,1,2,0,1,1,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,10,6,15,11,10,0,0,0,0,0,0,0,9,26,11,17,15,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,1,PS (I-V),2,Tribal Welfare Department,Urban,3,0,0,0,0,4,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,1,PS (I-V),4,Government Aided,Rural,3,0,0,6,2,0,0,2,0,0,0,0,0,0,0,4,3,1,0,1,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),1,PS (I-V),4,Government Aided,Rural,3,0,0,2,2,1,3,1,0,0,0,0,0,0,0,2,2,1,3,1,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,1,PS (I-V),4,Government Aided,Rural,3,0,0,4,6,5,8,4,0,0,0,0,0,0,0,4,3,4,3,4,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),1,PS (I-V),4,Government Aided,Urban,3,3,2,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),1,PS (I-V),4,Government Aided,Urban,3,0,0,3,5,3,1,0,0,0,0,0,0,0,0,4,1,4,4,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,9,9,35,18,17,14,3,3,4,0,0,0,0,0,8,12,8,5,7,3,4,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),1,PS (I-V),5,Private Unaided (Recognized),Rural,3,32,18,16,17,15,12,12,3,3,2,0,0,0,0,11,10,4,6,6,1,2,1,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),1,PS (I-V),5,Private Unaided (Recognized),Rural,3,31,18,12,5,2,8,3,3,1,0,0,0,0,0,5,1,2,3,2,1,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,10,6,7,9,8,4,4,0,1,0,0,0,0,0,4,2,2,2,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,17,19,5,3,5,3,2,0,0,0,0,0,0,0,5,5,1,1,4,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,38,21,15,8,6,1,0,0,0,0,0,0,16,13,4,5,3,1,3,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,71,31,39,29,29,22,11,1,0,0,0,0,0,0,10,12,6,7,8,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),1,PS (I-V),5,Private Unaided (Recognized),Urban,3,35,22,8,9,11,6,3,0,0,0,0,0,0,0,9,8,6,3,2,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),1,PS (I-V),5,Private Unaided (Recognized),Urban,3,59,57,68,43,38,22,23,4,5,1,0,0,0,0,40,23,28,31,22,5,1,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,8,5,6,2,6,3,1,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,16,13,14,8,4,0,3,2,0,0,0,0,12,6,4,4,4,0,0,1,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,10,14,2,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),6,SS (I-X),1,Department of Education,Urban,3,0,0,3,2,2,2,3,3,2,4,5,3,0,0,2,2,3,1,2,4,2,5,2,5,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,6,SS (I-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),6,SS (I-X),2,Tribal Welfare Department,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,4,1,1,3,4,1,0,3,1,2,0,3,0,0,1,1,3,2,1,2,1,1,1,1,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,1,0,2,0,4,6,2,3,4,0,0,0,0,4,0,1,1,1,2,0,1,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,7,4,1,1,2,8,4,2,4,1,0,0,1,3,4,1,0,1,0,2,1,2,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),6,SS (I-X),5,Private Unaided (Recognized),Urban,3,3,1,1,2,0,0,0,1,1,0,2,0,0,0,0,1,1,0,1,0,0,2,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),6,SS (I-X),5,Private Unaided (Recognized),Urban,3,31,27,31,36,31,25,47,43,41,33,41,36,0,0,33,26,25,33,54,35,36,33,34,25,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,4,4,1,3,5,2,5,1,2,4,0,0,1,3,1,3,1,5,0,1,1,1,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,15,15,25,31,10,17,13,8,18,7,0,0,12,17,5,16,15,14,6,10,5,8,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,7,2,2,0,0,0,0,0,0,0,0,0,4,7,5,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,6,3,2,0,0,0,0,0,0,0,0,0,0,0,3,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,5,2,2,0,0,0,0,0,0,0,0,0,5,5,2,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,4,1,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,10,4,0,0,0,0,0,0,0,0,0,0,9,10,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,8,SS (IX-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,5,6,5,0,0,0,0,0,0,0,0,0,12,8,5,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,1,2,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,53,56,52,0,0,0,0,0,0,0,0,0,72,76,68,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,15,17,19,0,0,0,0,0,0,0,0,0,8,15,18,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,40,48,52,0,0,0,0,0,0,0,0,0,42,56,39,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,37,44,29,0,0,0,0,0,0,0,0,0,38,36,33,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,60,57,32,27,34,0,0,0,0,0,0,0,48,50,49,28,20,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,67,92,78,0,0,0,0,0,0,0,0,0,66,74,64,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,105,96,66,0,0,0,0,0,0,0,0,0,94,83,65,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,7,12,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,11,7,4,14,9,0,0,0,0,0,0,0,4,10,5,7,12,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,2,4,3,0,0,0,0,0,0,0,0,0,8,15,16,69,79,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,3,4,6,15,15,0,0,0,0,0,0,0,4,1,6,17,7,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,35,22,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,1,5,4,7,0,0,0,0,0,0,0,1,2,2,4,1,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,18,20,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,3,6,5,6,6,0,0,0,0,0,0,0,6,7,6,3,1,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,6,6,10,9,8,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,4,2,2,5,0,0,0,0,0,0,0,0,33,28,26,25,24,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,16,19,19,21,8,0,0,0,0,0,0,0,33,38,28,30,27,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),2,Tribal Welfare Department,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),7,SS (VI-X),2,Tribal Welfare Department,Urban,3,0,0,0,0,0,0,0,13,13,10,15,13,0,0,0,0,0,0,0,15,9,15,12,9,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),2,Tribal Welfare Department,Urban,3,0,0,0,0,0,0,0,2,3,1,0,0,0,0,0,0,0,0,0,2,2,6,5,1,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,122,123,124,0,0,0,0,0,0,0,0,0,125,106,108,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,78,98,73,0,0,0,0,0,0,0,0,0,67,84,76,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,54,64,68,0,0,0,0,0,0,0,0,0,59,66,69,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,37,46,40,0,0,0,0,0,0,0,0,0,18,33,26,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,32,43,42,0,0,0,0,0,0,0,0,0,44,36,41,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,73,107,72,0,0,0,0,0,0,0,0,0,71,100,66,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,142,176,127,0,0,0,0,0,0,0,0,0,116,145,109,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,9,9,20,0,0,0,0,0,0,0,0,0,5,8,7,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),7,SS (VI-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,28,33,26,0,0,0,0,0,0,0,0,0,25,30,34,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,71,66,59,0,0,0,0,0,0,0,0,0,97,83,72,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,7,SS (VI-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,27,20,29,0,0,0,0,0,0,0,0,0,24,31,25,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,7,SS (VI-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,7,SS (VI-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,62,64,53,0,0,0,0,0,0,0,0,0,49,42,35,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,7,SS (VI-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,18,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,1,6,3,0,0,0,0,0,0,0,0,0,2,5,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,4,11,16,0,0,0,0,0,0,0,0,0,3,8,4,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,9,8,18,0,0,0,0,0,0,0,0,0,5,3,7,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,31,21,10,0,0,0,0,0,0,0,0,0,4,7,5,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,1,0,0,1,1,3,17,25,15,0,0,0,0,0,1,1,0,0,11,23,20,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,3,7,10,0,0,0,0,0,0,0,0,0,1,3,3,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,3,1,1,0,0,0,0,0,0,0,0,0,1,0,2,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,7,1,6,0,0,0,0,0,0,0,0,0,6,9,4,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,9,16,15,0,0,0,0,0,0,0,0,0,10,8,5,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,2,2,84,71,96,0,0,0,0,0,0,0,5,2,50,69,81,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,17,8,16,0,0,0,0,0,0,0,0,0,9,6,12,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,6,8,6,0,0,0,0,0,0,0,0,0,4,6,5,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,26,10,9,0,0,0,0,0,0,0,0,0,5,5,13,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,131,141,131,143,152,228,221,24,0,0,0,0,148,157,147,177,164,219,211,27,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,74,65,56,83,89,115,105,25,0,0,0,0,78,63,87,87,77,80,101,23,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),2,UPS (I-VIII),1,Department of Education,Rural,3,7,0,83,64,66,73,84,92,111,26,0,0,0,0,61,89,79,86,78,92,94,46,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,76,105,82,81,93,103,113,33,0,0,0,0,75,76,79,82,79,99,111,41,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,2,UPS (I-VIII),1,Department of Education,Rural,3,2,2,67,64,58,70,73,112,90,15,0,0,0,0,72,70,89,68,70,103,98,20,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,183,177,182,171,179,253,218,42,6,5,0,0,195,193,202,200,187,250,234,56,5,5,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,262,272,249,287,287,326,341,49,9,4,0,0,301,254,313,311,261,318,320,53,4,3,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,4,0,1,4,2,2,3,0,0,0,0,0,1,3,2,2,2,5,7,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,22,17,20,24,27,22,30,13,0,0,0,0,35,23,25,30,19,31,44,17,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,17,18,31,26,28,29,35,11,0,0,0,0,40,23,21,28,22,28,39,17,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,3,3,3,2,3,10,5,1,0,0,0,0,5,1,7,6,4,9,6,2,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,1,2,2,0,0,0,1,0,0,0,0,0,0,1,0,2,2,1,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,6,6,13,7,5,14,13,0,0,0,0,0,6,5,6,17,8,24,12,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,43,64,56,72,59,83,63,0,0,0,0,0,55,70,61,46,43,68,75,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,39,33,33,36,27,38,34,2,0,0,0,0,37,37,32,28,25,44,40,1,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,3,9,9,11,12,23,17,0,0,0,0,0,10,15,9,14,7,16,9,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),2,UPS (I-VIII),4,Government Aided,Rural,3,14,10,30,9,23,28,16,27,19,0,0,0,0,0,16,27,21,23,23,28,19,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,2,UPS (I-VIII),4,Government Aided,Rural,3,3,2,7,7,8,10,11,22,23,0,0,0,0,0,7,8,3,3,6,3,7,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,2,UPS (I-VIII),4,Government Aided,Rural,3,8,7,14,21,15,23,14,24,9,0,0,0,0,0,13,13,16,13,8,17,12,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,10,9,8,14,11,19,19,0,0,0,0,0,8,7,2,6,16,11,20,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,8,19,18,22,13,12,12,0,0,0,0,0,11,11,5,9,6,10,13,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,2,UPS (I-VIII),4,Government Aided,Urban,3,0,0,4,3,5,1,5,6,5,0,0,0,0,0,1,1,2,2,0,4,7,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),2,UPS (I-VIII),4,Government Aided,Urban,3,13,5,22,24,29,28,26,30,29,0,0,0,0,0,26,29,26,31,27,32,25,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),2,UPS (I-VIII),4,Government Aided,Urban,3,8,7,21,25,54,37,32,41,45,0,0,0,0,0,32,29,45,46,44,53,61,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,2,UPS (I-VIII),4,Government Aided,Urban,3,5,6,20,18,11,22,20,29,16,0,0,0,0,0,12,24,18,17,22,12,14,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,2,UPS (I-VIII),4,Government Aided,Urban,3,1,0,2,1,2,3,2,2,2,0,0,0,0,0,1,3,0,3,0,1,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,2,UPS (I-VIII),4,Government Aided,Urban,3,0,0,3,2,9,4,5,6,8,0,0,0,0,0,3,2,6,5,7,9,13,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,2,UPS (I-VIII),4,Government Aided,Urban,3,3,1,3,2,2,5,0,6,1,0,0,0,0,0,1,4,3,2,3,1,3,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,25,18,22,32,29,21,23,15,18,1,0,0,0,0,16,14,12,14,14,13,9,0,1,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,59,41,27,18,28,38,20,11,5,0,0,0,0,0,15,8,10,19,9,10,12,2,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,15,16,22,24,20,9,17,16,8,0,0,0,0,0,14,11,15,11,10,10,6,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,42,25,19,23,10,13,11,12,9,3,0,0,0,0,12,18,16,11,11,16,14,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,8,2,8,9,6,4,2,3,5,0,0,0,0,0,7,3,3,4,2,3,5,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,16,12,11,15,11,5,4,0,0,0,0,0,3,6,6,9,6,2,3,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,19,19,14,7,6,9,4,2,4,0,0,0,0,0,5,4,5,6,6,2,5,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,8,5,6,7,7,11,13,7,15,1,0,0,0,0,4,4,7,8,8,9,6,1,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,37,49,29,29,23,27,21,16,21,3,0,0,0,0,19,23,22,25,16,13,15,4,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,84,62,100,87,106,111,111,119,98,15,2,1,0,0,81,74,85,89,68,93,105,15,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,7,8,20,14,15,8,11,9,13,0,0,0,0,0,11,6,12,5,9,13,5,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,9,2,2,7,5,5,6,6,3,0,0,0,0,0,3,3,1,2,2,3,2,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,3,7,13,9,0,5,6,0,0,0,0,0,3,3,2,2,4,0,1,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,19,14,18,15,13,10,10,11,5,1,0,0,0,0,14,7,6,17,9,9,5,1,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),2,UPS (I-VIII),7,Central Govt,Urban,3,0,0,3,3,1,6,2,0,0,0,0,2,0,0,0,1,2,1,2,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,4,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,2,2,2,0,2,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,10,15,0,0,0,0,0,0,0,0,0,0,4,10,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,21,17,0,0,0,0,0,0,0,0,0,0,12,26,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),4,UPS (VI-VIII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,5,5,6,0,0,0,0,0,0,0,0,0,3,0,1,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,4,0,0,2,0,0,0,0,0,0,0,0,0,1,0,1,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,2,5,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,2,3,5,1,2,0,0,0,0,0,0,0,2,3,0,0,2,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,6,1,3,0,2,0,0,0,0,0,0,0,5,9,0,2,1,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,ST
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,224,233,251,136,96,0,0,0,0,0,0,0,179,291,252,182,221,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,46,104,85,72,34,0,0,0,0,0,0,0,23,93,84,148,107,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,50,72,66,49,47,0,0,0,0,0,0,0,51,63,60,95,80,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,78,130,130,76,42,0,0,0,0,0,0,0,108,186,170,112,97,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,21,22,19,8,17,0,0,0,0,0,0,0,11,24,26,18,17,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,67,81,57,36,30,0,0,0,0,0,0,0,53,58,76,44,35,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,100,118,106,119,103,0,0,0,0,0,0,0,78,85,84,161,162,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,101,118,139,297,303,0,0,0,0,0,0,0,1,3,0,25,44,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,127,126,110,152,160,0,0,0,0,0,0,0,102,109,121,249,116,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,78,60,72,0,0,0,0,0,0,0,0,0,76,64,75,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,94,125,87,137,76,0,0,0,0,0,0,0,9,11,6,126,100,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,5,11,8,11,10,0,0,0,0,0,0,0,13,8,1,10,12,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,3,3,7,10,8,0,0,0,0,0,0,0,3,9,9,3,13,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),5,HSS (VI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,140,139,150,68,38,0,0,0,0,0,0,0,224,187,201,213,147,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),5,HSS (VI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,5,HSS (VI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,20,22,23,23,22,0,0,0,0,0,0,0,65,76,64,57,35,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,5,HSS (VI-XII),7,Central Govt,Rural,4,0,0,0,0,0,0,0,23,21,10,16,27,10,12,0,0,0,0,0,17,18,23,21,7,4,3,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,11,6,0,0,0,0,0,0,0,0,0,0,9,4,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,24,18,0,0,0,0,0,0,0,0,0,0,45,43,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,17,13,0,0,0,0,0,0,0,0,0,0,21,8,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),11,HSS (XI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,22,20,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),11,HSS (XI-XII),2,Tribal Welfare Department,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,11,HSS (XI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,7,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),11,HSS (XI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,69,59,0,0,0,0,0,0,0,0,0,0,47,58,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),11,HSS (XI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,4,7,0,0,0,0,0,0,0,0,0,0,5,3,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,11,HSS (XI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,63,83,0,0,0,0,0,0,0,0,0,0,101,134,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,11,HSS (XI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,9,14,0,0,0,0,0,0,0,0,0,0,8,7,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,11,HSS (XI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,347,276,0,0,0,0,0,0,0,0,0,0,271,234,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),11,HSS (XI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,45,42,0,0,0,0,0,0,0,0,0,0,16,22,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),11,HSS (XI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,316,208,0,0,0,0,0,0,0,0,0,0,303,213,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,11,HSS (XI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,207,179,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,11,HSS (XI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,131,164,0,0,0,0,0,0,0,0,0,0,101,121,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,11,HSS (XI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,91,84,0,0,0,0,0,0,0,0,0,0,36,25,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,154,132,0,0,0,0,0,0,0,0,0,0,202,214,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,71,45,0,0,0,0,0,0,0,0,0,0,6,10,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,146,122,0,0,0,0,0,0,0,0,0,0,70,38,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,74,53,0,0,0,0,0,0,0,0,0,0,243,185,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,32,19,0,0,0,0,0,0,0,0,0,0,14,12,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,10,8,0,0,0,0,0,0,0,0,0,0,11,17,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,22,6,0,0,0,0,0,0,0,0,0,0,25,15,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,972,801,0,0,0,0,0,0,0,0,0,0,1032,905,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,72,39,0,0,0,0,0,0,0,0,0,0,65,39,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,32,28,0,0,0,0,0,0,0,0,0,0,28,34,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,1,PS (I-V),1,Department of Education,Rural,4,0,0,72,91,79,94,94,0,0,0,0,0,0,0,103,97,103,109,71,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),1,PS (I-V),1,Department of Education,Rural,4,1,2,66,64,75,67,64,2,1,0,0,0,0,0,77,71,93,83,65,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),1,PS (I-V),1,Department of Education,Rural,4,0,0,36,43,43,41,36,7,3,0,0,0,0,0,55,62,47,50,48,6,5,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,1,PS (I-V),1,Department of Education,Rural,4,0,0,74,67,64,69,56,0,0,0,0,0,0,0,73,100,71,92,54,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,1,PS (I-V),1,Department of Education,Rural,4,0,0,145,141,173,155,138,0,0,0,0,0,0,0,164,157,154,179,142,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,1,PS (I-V),1,Department of Education,Rural,4,0,0,111,121,115,90,101,0,0,0,0,0,0,0,97,91,111,112,100,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,1,PS (I-V),1,Department of Education,Rural,4,0,0,194,211,195,200,193,4,2,0,0,0,0,0,221,218,194,176,185,2,13,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,1,PS (I-V),1,Department of Education,Urban,4,0,0,6,5,6,7,3,0,0,0,0,0,0,0,9,14,11,12,9,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),1,PS (I-V),1,Department of Education,Urban,4,0,0,80,86,63,68,71,13,9,0,0,0,0,0,107,142,128,130,144,41,22,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),1,PS (I-V),1,Department of Education,Urban,4,0,0,13,13,12,13,10,0,0,0,0,0,0,0,18,21,34,23,17,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,1,PS (I-V),1,Department of Education,Urban,4,0,0,46,61,66,63,56,0,0,0,0,0,0,0,91,111,109,85,66,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,1,PS (I-V),1,Department of Education,Urban,4,0,0,3,6,6,10,9,0,0,0,0,0,0,0,10,5,7,8,9,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,1,PS (I-V),1,Department of Education,Urban,4,0,0,5,4,4,4,6,0,0,0,0,0,0,0,6,12,6,8,4,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,1,PS (I-V),1,Department of Education,Urban,4,0,0,21,25,15,22,13,12,0,0,0,0,0,0,25,19,30,20,26,11,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,1,0,5,1,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,1,PS (I-V),2,Tribal Welfare Department,Urban,4,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,1,PS (I-V),4,Government Aided,Rural,4,0,0,3,5,7,7,5,0,0,0,0,0,0,0,2,3,6,9,4,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),1,PS (I-V),4,Government Aided,Rural,4,0,0,15,14,18,14,15,11,0,0,0,0,0,0,11,18,10,12,12,16,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,1,PS (I-V),4,Government Aided,Rural,4,0,0,5,4,5,5,9,0,0,0,0,0,0,0,6,4,6,7,5,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),1,PS (I-V),4,Government Aided,Urban,4,13,10,18,19,13,21,23,0,0,0,0,0,0,0,14,13,19,16,10,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),1,PS (I-V),4,Government Aided,Urban,4,10,10,8,8,6,9,0,0,0,0,0,0,0,0,7,8,12,9,0,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,16,13,143,136,90,63,66,26,27,0,0,0,0,0,105,71,50,38,37,16,10,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),1,PS (I-V),5,Private Unaided (Recognized),Rural,4,224,190,239,168,133,126,83,35,43,14,0,0,0,0,143,98,94,96,67,42,28,11,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),1,PS (I-V),5,Private Unaided (Recognized),Rural,4,103,71,46,48,37,25,17,15,13,0,0,0,0,0,37,28,32,27,14,12,9,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,65,41,70,60,44,33,28,4,3,0,0,0,0,0,39,28,23,23,20,3,1,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,156,136,126,88,77,77,43,0,0,0,0,0,0,0,71,54,43,42,43,2,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,141,111,72,37,43,24,0,0,0,0,0,0,70,53,41,41,25,21,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,202,138,256,218,220,129,104,27,27,0,0,0,0,0,146,133,116,89,76,10,9,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,14,25,16,33,21,10,7,0,0,0,0,0,0,0,15,19,25,9,7,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),1,PS (I-V),5,Private Unaided (Recognized),Urban,4,408,390,237,181,151,121,79,4,9,0,0,0,0,0,209,127,111,80,90,4,9,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),1,PS (I-V),5,Private Unaided (Recognized),Urban,4,532,479,260,178,154,146,91,45,21,16,0,0,0,0,183,158,122,100,60,18,15,10,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,200,132,99,120,97,52,38,1,7,0,0,0,0,0,118,82,62,34,52,1,2,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,26,24,18,19,13,8,10,0,0,0,0,0,0,0,15,17,7,4,4,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,83,23,21,19,8,0,0,0,0,0,0,0,85,23,12,5,11,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,194,128,57,40,22,9,4,0,0,0,0,0,0,0,32,25,10,5,4,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),6,SS (I-X),1,Department of Education,Urban,4,0,0,5,8,12,6,17,14,24,14,20,15,0,0,13,15,10,25,16,21,16,16,19,13,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,6,SS (I-X),1,Department of Education,Urban,4,0,0,11,9,6,7,7,15,5,17,14,7,0,0,10,4,8,10,15,18,18,20,25,20,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),6,SS (I-X),2,Tribal Welfare Department,Urban,4,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,3,0,2,2,2,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,40,34,114,105,96,94,73,91,101,110,94,79,0,0,94,52,71,58,63,48,85,82,79,69,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,11,16,28,41,33,46,63,65,79,84,0,0,2,7,7,9,9,15,11,23,22,19,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,9,9,8,7,8,6,7,13,26,10,0,0,6,7,2,9,5,7,4,7,7,6,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),6,SS (I-X),5,Private Unaided (Recognized),Urban,4,61,56,20,21,21,16,26,19,15,21,11,11,0,0,19,17,15,22,22,19,21,21,10,12,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),6,SS (I-X),5,Private Unaided (Recognized),Urban,4,457,293,266,209,238,224,220,229,184,238,226,205,0,0,171,143,187,170,147,149,151,142,136,101,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,7,4,50,70,57,77,83,103,91,62,64,71,0,0,44,30,36,61,50,58,60,41,41,36,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,0,0,47,46,42,38,43,49,42,29,22,35,0,0,31,34,32,27,38,31,34,30,27,16,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,35,70,50,0,0,0,0,0,0,0,0,0,18,66,50,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,53,68,39,0,0,0,0,0,0,0,0,0,78,65,47,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,15,14,14,0,0,0,0,0,0,0,0,0,19,8,16,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,28,27,0,0,0,0,0,0,0,0,0,0,29,21,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,20,23,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,8,SS (IX-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,13,12,8,0,0,0,0,0,0,0,0,0,8,9,6,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,14,7,0,0,0,0,0,0,0,0,0,0,7,3,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,57,25,0,0,0,0,0,0,0,0,0,0,40,40,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),8,SS (IX-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,8,SS (IX-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,10,6,0,0,0,0,0,0,0,0,0,0,21,20,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,146,176,166,0,0,0,0,0,0,0,0,0,232,209,200,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,64,70,61,0,0,0,0,0,0,0,0,0,46,61,58,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,96,99,93,0,0,0,0,0,0,0,0,0,82,118,106,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,104,137,95,0,0,0,0,0,0,0,0,0,119,141,137,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,404,504,416,221,177,0,0,0,0,0,0,0,432,449,458,224,201,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,121,130,107,0,0,0,0,0,0,0,0,0,98,114,107,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,215,276,239,0,0,0,0,0,0,0,0,0,181,248,241,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,97,86,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),7,SS (VI-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,139,229,146,96,45,0,0,0,0,0,0,0,210,240,184,40,25,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,72,72,83,365,343,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,7,SS (VI-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,23,9,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,7,SS (VI-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,59,94,58,190,30,0,0,0,0,0,0,0,63,117,84,180,90,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,29,30,34,30,20,0,0,0,0,0,0,0,31,24,21,18,18,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,7,SS (VI-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,60,49,55,59,51,0,0,0,0,0,0,0,35,33,43,45,41,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,7,SS (VI-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,20,17,21,20,18,0,0,0,0,0,0,0,36,39,32,27,26,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,7,SS (VI-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,20,17,19,14,0,0,0,0,0,0,0,0,25,33,34,30,17,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,7,SS (VI-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,41,42,39,39,37,0,0,0,0,0,0,0,37,38,51,37,50,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),2,Tribal Welfare Department,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),7,SS (VI-X),2,Tribal Welfare Department,Urban,4,0,0,0,0,0,0,0,11,10,7,11,8,0,0,0,0,0,0,0,5,8,8,3,3,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),2,Tribal Welfare Department,Urban,4,0,0,0,0,0,0,0,7,10,12,3,5,0,0,0,0,0,0,0,48,51,45,46,35,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,292,318,353,0,0,0,0,0,0,0,0,0,259,291,322,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,126,158,153,0,0,0,0,0,0,0,0,0,100,108,141,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,108,128,117,0,0,0,0,0,0,0,0,0,117,130,137,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,131,157,121,14,7,0,0,0,0,0,0,0,133,139,138,30,18,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,231,265,200,0,0,0,0,0,0,0,0,0,191,196,198,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,172,199,189,0,0,0,0,0,0,0,0,0,171,209,164,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,290,375,308,0,0,0,0,0,0,0,0,0,269,319,291,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,26,19,18,0,0,0,0,0,0,0,0,0,23,29,20,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),7,SS (VI-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,154,154,117,0,0,0,0,0,0,0,0,0,186,203,239,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,266,286,304,0,0,0,0,0,0,0,0,0,306,360,325,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,7,SS (VI-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,266,311,238,0,0,0,0,0,0,0,0,0,233,186,216,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,7,SS (VI-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,16,29,17,0,0,0,0,0,0,0,0,0,38,66,59,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,7,SS (VI-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,34,38,46,0,0,0,0,0,0,0,0,0,40,36,27,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,7,SS (VI-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,24,34,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,14,13,12,0,0,0,0,0,0,0,0,0,21,8,7,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,78,90,95,0,0,0,0,0,0,0,0,0,24,32,19,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,74,68,86,0,0,0,0,0,0,0,0,0,23,33,33,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,63,70,70,0,0,0,0,0,0,0,0,0,52,44,53,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,21,19,24,18,26,30,29,68,66,68,0,0,22,18,10,20,15,13,22,56,59,41,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,21,12,16,0,0,0,0,0,0,0,0,0,21,21,21,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,19,32,20,0,0,0,0,0,0,0,0,0,13,17,21,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,46,53,47,0,0,0,0,0,0,0,0,0,62,53,54,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,208,221,174,0,0,0,0,0,0,0,0,0,190,180,144,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,739,798,750,0,0,0,0,0,0,0,1,1,489,548,492,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,142,204,183,0,0,0,0,0,0,0,0,0,201,161,111,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,111,114,107,0,0,0,0,0,0,0,0,0,110,92,78,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,155,111,129,0,0,0,0,0,0,0,0,0,184,161,149,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,379,362,378,418,441,589,597,53,0,0,0,0,452,434,515,512,480,623,601,70,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,105,124,139,142,139,243,234,79,0,0,0,0,119,148,145,187,159,191,226,77,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),2,UPS (I-VIII),1,Department of Education,Rural,4,11,23,122,189,194,164,215,265,289,72,0,0,0,0,217,198,238,239,228,265,257,78,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,339,353,342,380,379,475,443,142,0,0,0,0,366,382,413,459,389,465,451,147,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,2,UPS (I-VIII),1,Department of Education,Rural,4,37,34,331,380,414,442,499,562,650,93,34,26,0,0,475,442,438,562,475,681,728,143,59,51,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,221,218,227,249,254,313,340,43,8,6,0,0,252,237,259,276,273,332,329,50,6,5,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,613,575,607,710,638,831,744,125,16,16,0,0,681,664,670,698,618,747,727,128,19,21,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,21,23,25,23,34,51,59,5,0,0,0,0,32,35,41,46,48,51,51,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,197,178,225,193,246,278,246,134,0,0,0,0,248,234,234,266,252,290,295,105,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,69,59,71,78,90,134,111,34,0,0,0,0,82,71,99,111,90,100,114,36,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,77,76,100,98,72,204,189,65,0,0,0,0,134,146,147,167,123,258,283,100,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,10,21,11,21,23,28,33,0,0,0,0,0,22,18,20,17,25,28,34,15,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,25,24,25,19,23,39,41,0,0,0,0,0,30,17,35,30,34,35,42,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,78,76,99,101,111,117,132,0,0,0,0,0,114,138,122,125,120,141,164,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,143,134,111,117,112,146,136,13,0,0,0,0,93,100,111,109,96,114,126,2,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,22,24,25,27,41,37,50,0,0,0,0,0,24,20,26,19,26,32,36,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),2,UPS (I-VIII),4,Government Aided,Rural,4,23,21,45,44,34,47,47,54,60,0,0,0,0,0,46,51,53,45,52,53,72,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,2,UPS (I-VIII),4,Government Aided,Rural,4,8,6,75,70,75,84,65,73,92,0,0,0,0,0,58,66,32,71,49,67,72,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,2,UPS (I-VIII),4,Government Aided,Rural,4,119,125,178,182,165,192,169,166,197,0,0,0,0,0,174,151,166,133,154,149,136,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,28,41,33,31,49,47,53,0,0,0,0,0,19,31,29,40,26,48,36,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,48,50,39,39,44,34,40,0,0,0,0,0,26,18,19,28,25,29,25,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,2,UPS (I-VIII),4,Government Aided,Urban,4,0,0,26,30,25,23,36,19,30,0,0,0,0,0,25,32,23,32,24,28,25,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),2,UPS (I-VIII),4,Government Aided,Urban,4,117,116,367,366,425,389,379,424,407,0,0,0,0,0,364,364,371,365,361,348,394,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),2,UPS (I-VIII),4,Government Aided,Urban,4,206,224,152,183,189,180,243,260,204,0,0,0,0,0,220,235,243,273,299,237,256,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,2,UPS (I-VIII),4,Government Aided,Urban,4,155,139,268,231,254,237,275,264,271,0,0,0,0,0,230,209,201,193,191,211,215,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,2,UPS (I-VIII),4,Government Aided,Urban,4,11,11,30,26,25,32,38,48,44,0,0,0,0,0,46,39,44,46,28,27,33,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,2,UPS (I-VIII),4,Government Aided,Urban,4,0,0,3,11,14,11,9,11,17,0,0,0,0,0,5,5,12,7,9,12,13,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,2,UPS (I-VIII),4,Government Aided,Urban,4,50,44,45,54,51,65,40,44,60,0,0,0,0,0,30,31,32,32,32,27,24,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,239,165,282,277,261,241,230,232,188,46,19,0,0,0,229,206,176,197,183,184,191,39,15,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,289,190,135,135,126,134,105,107,99,18,0,0,0,0,134,111,104,79,94,91,71,9,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,207,165,180,170,154,107,97,108,69,0,0,0,0,0,123,112,98,91,103,91,65,8,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,210,146,259,207,175,172,153,178,151,75,0,0,0,0,170,132,124,120,125,132,140,26,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,158,127,131,123,124,96,88,110,89,3,0,0,0,0,91,89,67,75,70,64,80,4,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,52,53,36,43,31,24,23,0,0,0,0,0,28,25,32,27,35,25,29,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,18,26,35,27,28,20,4,15,8,3,0,0,0,0,15,14,11,12,15,7,2,1,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,21,5,46,28,25,35,34,28,32,1,0,0,0,0,30,25,32,26,28,28,22,4,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,467,372,589,522,519,468,468,390,370,46,0,0,0,0,414,397,334,368,379,283,299,52,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,945,622,681,669,619,640,674,684,683,152,1,1,0,0,612,627,574,619,621,679,603,116,3,1,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,188,143,204,176,168,138,173,138,149,0,0,0,0,0,153,133,117,161,132,129,129,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,156,148,112,163,134,150,130,110,82,0,0,0,0,0,94,110,86,97,110,99,92,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,0,8,9,4,6,1,3,4,0,0,0,0,0,4,3,3,1,2,0,2,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,214,126,140,128,138,128,113,97,104,18,0,0,0,0,106,119,125,111,127,119,113,10,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),2,UPS (I-VIII),7,Central Govt,Urban,4,0,0,8,11,4,3,5,1,6,5,3,2,0,0,4,8,9,4,2,2,5,2,5,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,13,13,0,0,0,0,0,0,0,0,0,0,10,13,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,9,11,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,24,25,0,0,0,0,0,0,0,0,0,0,61,95,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,38,35,30,18,21,0,0,0,0,0,0,0,21,25,20,16,11,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,3,4,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291406,JAGALUR,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,15,17,0,0,0,0,0,0,0,0,0,0,16,19,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),4,UPS (VI-VIII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,4,9,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291401,CHANNAGIRI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,16,11,13,0,0,0,0,0,0,0,0,0,3,10,7,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,3,1,10,14,14,0,0,0,0,0,0,0,0,0,19,16,11,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,42,43,0,0,0,0,0,0,0,0,0,0,29,43,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291405,HONNALI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,9,15,9,0,0,0,0,0,0,0,0,0,12,14,8,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291402,DAVANAGERE(N),4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,89,90,18,21,18,0,0,0,0,0,0,0,99,85,15,11,10,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291403,DAVANAGERE(S),4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,57,73,15,15,16,0,0,0,0,0,0,0,62,68,12,8,6,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291404,HARIHARA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,34,31,0,0,0,0,0,0,0,0,0,0,28,29,0,0,0,0,0,OBC
+2015-16,29,Karnataka,2914,DAVANAGERE,291407,HARAPANAHALLI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,1,6,0,0,0,0,0,0,0,0,0,0,5,4,0,0,0,0,0,OBC

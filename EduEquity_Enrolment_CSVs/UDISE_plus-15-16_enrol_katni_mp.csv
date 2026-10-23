@@ -1,0 +1,485 @@
+ac_year,state_code,state_name,district_code,district_name,block_code,block_name,sch_category_id,category_name,sch_mgmt_id,sch_mgmt_name,loc_name,caste_id,pre_primary_boys,pre_primary_girls,class_1_boys,class_2_boys,class_3_boys,class_4_boys,class_5_boys,class_6_boys,class_7_boys,class_8_boys,class_9_boys,class_10_boys,class_11_boys,class_12_boys,class_1_girls,class_2_girls,class_3_girls,class_4_girls,class_5_girls,class_6_girls,class_7_girls,class_8_girls,class_9_girls,class_10_girls,class_11_girls,class_12_girls,caste_name
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,2,0,6,6,0,4,0,0,2,0,0,0,0,0,6,2,2,0,2,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,0,83,71,74,74,69,80,61,60,0,0,0,0,43,49,44,43,59,39,39,37,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,3,HSS (I-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,27,32,2,6,0,0,0,0,0,0,0,0,25,24,4,6,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,3,HSS (I-XII),4,Government Aided,Urban,1,3,5,3,2,2,3,5,4,10,5,19,25,23,26,13,8,18,25,19,30,39,41,72,97,70,97,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,5,3,2,3,2,1,3,0,0,1,13,16,14,19,3,2,1,3,0,1,0,0,6,14,16,10,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,5,1,4,2,2,4,6,3,7,9,5,4,6,2,2,2,0,1,5,4,1,2,1,1,2,3,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,39,31,23,19,25,26,19,39,47,42,61,67,37,35,14,13,24,27,21,28,36,32,35,35,33,25,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,11,13,0,0,0,0,0,0,0,0,0,0,10,10,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,3,2,0,2,3,1,0,0,0,0,0,0,2,2,3,5,2,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,13,5,6,2,6,7,9,10,11,15,16,16,11,10,4,7,6,12,7,11,10,9,15,18,7,13,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,246,168,280,295,269,311,294,347,321,374,452,442,392,401,190,206,210,233,229,273,272,251,361,352,307,287,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,3,HSS (I-XII),7,Central Govt,Urban,1,0,0,23,33,38,30,33,45,53,42,41,39,47,34,28,22,27,36,33,22,41,29,46,43,40,32,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,51,51,66,78,0,0,0,0,0,0,0,0,46,57,80,84,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,19,17,19,47,0,0,0,0,0,0,0,0,49,44,47,59,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,72,96,72,80,0,0,0,0,0,0,0,0,68,63,81,100,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,30,19,22,29,0,0,0,0,0,0,0,0,30,28,26,33,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,53,26,34,42,0,0,0,0,0,0,0,0,55,32,28,26,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,22,27,18,34,0,0,0,0,0,0,0,0,22,8,13,34,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,67,72,92,48,0,0,0,0,0,0,0,0,49,39,55,56,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,18,15,33,61,0,0,0,0,0,0,0,0,0,0,35,66,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,55,55,54,71,0,0,0,0,0,0,0,0,53,61,92,79,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,10,HSS (IX-XII),3,Local body,Urban,1,0,0,0,0,0,0,0,0,0,0,10,14,10,9,0,0,0,0,0,0,0,0,20,13,13,21,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,10,HSS (IX-XII),4,Government Aided,Urban,1,0,0,1,3,5,5,9,10,7,14,24,30,0,5,0,3,4,3,8,15,6,17,28,37,23,39,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,10,HSS (IX-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,5,7,10,9,0,0,0,0,0,0,0,0,6,4,4,4,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,2,8,4,7,0,0,0,0,0,0,0,0,4,6,1,11,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,4,16,7,13,0,0,0,0,0,0,0,0,5,9,10,13,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,1,0,0,0,0,1,2,4,1,1,1,1,0,0,0,0,0,1,2,1,2,1,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,2,1,2,1,1,1,1,3,0,0,0,0,0,0,1,1,1,1,0,1,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,18,20,26,17,0,0,0,0,0,0,0,0,13,15,19,16,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,8,1,1,10,14,2,3,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,1,21,29,14,16,18,10,19,14,17,13,116,116,143,77,12,8,13,17,13,18,11,17,103,94,129,80,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,10,HSS (IX-XII),6,Other Govt. managed schools,Rural,1,0,0,0,0,0,0,0,0,0,0,9,10,3,6,0,0,0,0,0,0,0,0,11,13,2,12,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,5,HSS (VI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,24,18,21,25,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,3,1,2,0,3,2,3,0,0,0,0,0,1,0,5,3,4,1,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,5,HSS (VI-XII),7,Central Govt,Rural,1,0,0,0,0,0,0,0,16,9,11,15,9,11,13,0,0,0,0,0,8,4,1,8,10,9,9,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,1,PS (I-V),1,Department of Education,Rural,1,0,0,64,73,71,76,99,0,0,0,0,0,0,0,60,65,79,74,81,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,1,PS (I-V),1,Department of Education,Rural,1,0,0,64,45,52,56,70,0,0,0,0,0,0,0,69,90,72,108,117,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,1,PS (I-V),1,Department of Education,Rural,1,0,0,71,64,60,59,70,0,0,0,0,0,0,0,74,59,82,85,81,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,1,PS (I-V),1,Department of Education,Rural,1,0,0,61,60,87,46,60,0,0,0,0,0,0,0,54,66,80,71,76,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),1,Department of Education,Rural,1,0,0,131,127,142,183,159,0,0,0,0,0,0,0,157,160,144,184,192,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,1,PS (I-V),1,Department of Education,Rural,1,1,3,35,37,42,65,51,0,0,0,0,0,0,0,38,53,46,42,59,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,1,PS (I-V),1,Department of Education,Urban,1,0,0,8,15,13,34,22,0,0,0,0,0,0,0,6,24,18,36,40,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),1,Department of Education,Urban,1,0,0,1,5,8,10,7,0,0,0,0,0,0,0,3,6,6,9,9,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,1,PS (I-V),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,1,PS (I-V),4,Government Aided,Rural,1,0,0,2,3,2,1,3,0,0,0,0,0,0,0,3,1,1,3,2,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),4,Government Aided,Rural,1,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,1,PS (I-V),4,Government Aided,Urban,1,0,0,9,6,10,7,11,0,0,0,0,0,0,0,12,8,5,11,11,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),4,Government Aided,Urban,1,0,0,11,13,12,24,30,0,0,0,0,0,0,0,12,9,12,15,22,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,28,22,21,10,15,8,9,9,4,17,4,6,21,22,13,12,15,6,9,4,11,8,1,4,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,24,20,15,11,18,2,1,0,0,0,0,0,25,24,14,19,18,2,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,27,26,22,19,20,2,4,7,0,0,0,0,25,25,24,17,13,2,2,2,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,2,0,5,6,1,2,4,0,0,0,0,0,0,0,3,3,1,2,1,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,30,16,31,24,15,2,3,4,0,0,0,0,26,19,18,12,14,3,4,3,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,21,10,21,9,9,4,7,0,0,0,1,2,3,10,14,10,7,8,10,0,0,0,0,2,5,5,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,59,53,180,208,188,152,147,109,103,94,109,91,106,70,149,171,168,140,141,72,103,92,95,85,81,91,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,8,7,6,10,2,0,0,0,0,0,0,0,1,6,5,3,1,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,6,6,7,8,9,0,0,0,0,0,0,0,6,5,3,6,2,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,1,PS (I-V),7,Central Govt,Urban,1,0,0,5,2,1,5,3,0,0,0,0,0,0,0,3,5,2,2,5,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,1,PS (I-V),98,Madarsa unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,33,29,26,39,37,46,34,28,26,28,21,34,21,23,26,36,23,33,33,28,32,26,15,23,22,12,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,21,4,6,19,12,3,6,9,8,12,12,13,0,0,5,8,3,3,7,10,4,7,8,9,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,8,6,7,9,7,7,6,7,3,8,20,17,0,0,4,5,3,8,5,6,5,7,20,18,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,42,24,13,10,9,9,3,5,4,3,6,0,0,0,17,6,7,5,3,3,5,2,1,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,123,115,95,91,91,82,89,96,87,84,109,133,70,93,76,54,79,94,71,79,58,70,77,92,50,73,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,6,SS (I-X),7,Central Govt,Urban,1,0,0,8,6,3,5,7,6,13,8,13,7,0,0,10,5,10,6,7,9,8,10,15,12,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,39,42,13,11,0,0,0,0,0,0,0,0,52,35,3,6,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,62,55,20,29,0,0,0,0,0,0,0,0,82,64,29,24,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,76,54,17,12,0,0,0,0,0,0,0,0,87,73,13,13,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,63,53,30,30,0,0,0,0,0,0,0,0,64,55,31,26,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,89,67,0,0,0,0,0,0,0,0,0,0,82,80,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,63,53,28,35,0,0,0,0,0,0,0,0,70,69,20,31,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,3,6,0,0,0,0,0,0,0,0,0,0,5,6,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,6,5,1,7,0,0,0,0,0,0,0,0,7,4,6,1,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,14,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,10,15,8,6,0,0,0,0,0,0,0,0,42,24,14,9,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,1,1,3,3,1,3,5,7,4,0,0,0,0,3,2,0,1,2,1,7,7,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,8,SS (IX-X),5,Private Unaided (Recognized),Urban,1,0,0,0,1,3,1,0,0,0,0,0,3,0,0,0,1,0,1,0,2,1,1,1,1,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,2,4,2,0,0,0,0,0,0,0,0,0,9,4,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,2,UPS (I-VIII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,34,24,65,59,69,51,57,49,55,47,26,18,0,0,57,44,59,42,48,52,55,43,23,18,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,19,20,55,70,76,86,73,75,73,77,31,34,27,19,45,56,76,65,76,60,51,59,12,15,11,4,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,26,28,29,26,24,20,40,29,0,0,0,0,31,21,28,16,29,16,28,28,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,49,43,15,28,21,18,28,25,20,28,0,0,0,0,15,19,14,23,23,20,30,10,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,67,36,65,75,70,75,66,77,66,67,18,18,16,7,35,50,30,39,51,57,37,50,13,3,7,6,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,30,43,30,36,37,41,32,43,36,39,4,3,0,0,35,37,29,25,39,43,35,35,7,5,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,96,81,231,209,212,228,218,211,216,164,21,32,0,0,210,223,236,209,213,220,170,165,28,24,3,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,0,0,39,25,47,51,40,58,60,56,0,0,0,0,27,29,42,43,22,31,47,44,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,9,12,75,63,76,84,62,73,70,64,0,0,0,0,40,52,45,55,51,35,49,57,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,2,UPS (I-VIII),7,Central Govt,Urban,1,0,0,22,18,34,28,38,31,31,38,37,34,20,18,23,16,23,31,28,20,18,30,23,26,20,9,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,51,62,61,0,0,0,0,0,0,0,0,0,145,118,128,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,64,93,99,0,0,0,0,0,0,0,0,0,72,69,91,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,89,113,140,0,0,0,0,0,1,1,0,0,94,157,161,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,103,113,107,0,0,0,0,0,0,0,0,0,90,91,101,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,200,181,191,0,0,0,0,0,0,0,0,0,195,216,238,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,67,63,61,0,0,0,0,0,0,0,0,0,81,74,81,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,20,37,34,0,0,0,0,0,0,0,0,0,34,36,54,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,39,23,15,0,0,0,0,0,0,0,0,0,42,59,34,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,3,2,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,4,UPS (VI-VIII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,32,30,42,0,0,0,0,0,0,0,0,0,15,10,19,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,6,4,4,0,0,0,0,0,0,0,0,0,6,5,8,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,1,3,1,0,0,4,2,1,0,0,0,0,0,1,1,1,1,0,2,3,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,4,10,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,1,175,123,85,83,82,96,90,85,77,84,88,94,95,57,72,70,63,62,72,70,80,60,72,72,91,72,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,36,39,46,0,0,0,0,0,0,0,0,0,35,22,32,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,4,UPS (VI-VIII),7,Central Govt,Urban,1,0,0,0,0,0,0,0,23,25,25,0,0,0,0,0,0,0,0,0,23,20,26,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,General
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,3,HSS (I-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,13,19,3,8,0,0,0,0,0,0,0,0,11,12,0,6,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,3,HSS (I-XII),4,Government Aided,Urban,2,0,2,0,0,0,1,1,0,1,1,2,2,0,1,1,1,5,2,3,3,4,18,21,16,19,19,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,1,0,0,0,0,1,0,0,0,0,6,9,3,8,1,0,0,0,0,0,0,0,9,5,4,11,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,1,2,1,1,0,0,0,0,0,0,0,0,1,2,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,9,6,1,4,2,1,4,2,3,3,11,21,6,7,3,3,0,1,1,1,3,2,3,10,6,7,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,8,8,1,4,1,0,0,0,0,0,0,0,2,2,0,2,1,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,4,4,1,3,2,4,3,0,2,2,3,2,2,1,2,2,1,0,1,0,1,0,1,2,1,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,67,63,75,75,60,55,57,64,76,58,159,175,82,123,52,63,55,31,44,53,53,53,108,152,59,80,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,3,HSS (I-XII),7,Central Govt,Urban,2,0,0,17,11,13,16,25,16,10,9,14,12,7,5,14,11,10,14,12,16,16,19,17,12,14,4,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,133,71,72,86,0,0,0,0,0,0,0,0,168,94,111,94,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,53,38,21,44,0,0,0,0,0,0,0,0,127,51,49,58,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,121,72,55,86,0,0,0,0,0,0,0,0,100,71,49,62,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,129,44,47,45,0,0,0,0,0,0,0,0,95,30,27,50,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,45,18,20,17,0,0,0,0,0,0,0,0,50,23,13,22,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,59,36,25,35,0,0,0,0,0,0,0,0,43,15,19,25,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,74,63,67,36,0,0,0,0,0,0,0,0,49,42,49,31,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,51,26,23,25,0,0,0,0,0,0,0,0,0,2,21,63,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,131,57,38,59,0,0,0,0,0,0,0,0,79,56,40,49,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,10,HSS (IX-XII),3,Local body,Urban,2,0,0,0,0,0,0,0,0,0,0,42,32,9,12,0,0,0,0,0,0,0,0,33,31,22,10,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,10,HSS (IX-XII),4,Government Aided,Urban,2,0,0,1,1,2,1,1,6,2,4,10,12,0,6,3,1,2,1,2,9,4,4,12,11,6,3,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,10,HSS (IX-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,3,5,7,4,0,0,0,0,0,0,0,0,6,5,4,4,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,1,3,4,4,0,0,0,0,0,0,0,0,2,2,0,2,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,17,16,12,11,0,0,0,0,0,0,0,0,15,10,6,10,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,2,1,0,0,1,2,0,2,3,5,0,1,1,0,0,0,1,1,0,1,2,6,3,4,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,5,2,0,0,5,1,0,1,1,2,0,0,0,1,3,3,0,0,0,2,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,12,11,6,12,0,0,0,0,0,0,0,0,5,5,1,2,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,17,15,5,8,5,10,7,7,9,9,64,58,24,20,8,12,8,3,5,9,5,14,47,51,19,34,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,10,HSS (IX-XII),6,Other Govt. managed schools,Rural,2,0,0,0,0,0,0,0,0,0,0,27,13,3,3,0,0,0,0,0,0,0,0,11,16,2,8,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,5,HSS (VI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,2,1,3,20,28,18,22,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,5,HSS (VI-XII),7,Central Govt,Rural,2,0,0,0,0,0,0,0,6,15,10,10,12,7,6,0,0,0,0,0,4,3,5,6,4,5,2,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,1,PS (I-V),1,Department of Education,Rural,2,0,0,227,264,256,270,322,0,0,0,0,0,0,0,255,306,299,293,281,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,1,PS (I-V),1,Department of Education,Rural,2,0,0,187,180,241,247,232,0,0,0,0,0,0,0,213,233,235,248,270,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,1,PS (I-V),1,Department of Education,Rural,2,0,0,181,176,173,182,164,0,0,0,0,0,0,0,186,177,182,167,143,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,1,PS (I-V),1,Department of Education,Rural,2,0,0,176,180,204,199,230,0,0,0,0,0,0,0,168,210,220,245,201,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),1,Department of Education,Rural,2,0,0,143,149,171,185,185,0,0,0,0,0,0,0,147,152,182,182,158,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,1,PS (I-V),1,Department of Education,Rural,2,1,4,136,136,144,163,160,0,0,0,0,0,0,0,143,162,148,166,179,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,1,PS (I-V),1,Department of Education,Urban,2,0,0,79,102,119,120,114,0,0,0,0,0,0,0,87,131,114,128,129,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,1,PS (I-V),1,Department of Education,Urban,2,0,0,5,15,5,14,16,0,0,0,0,0,0,0,10,11,11,13,8,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,1,PS (I-V),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),1,Department of Education,Urban,2,0,0,19,30,28,31,34,0,0,0,0,0,0,0,24,24,30,20,33,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,1,PS (I-V),4,Government Aided,Rural,2,0,0,1,3,1,2,9,1,4,1,0,0,0,0,1,0,1,2,7,3,10,2,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,1,PS (I-V),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),4,Government Aided,Rural,2,0,0,1,3,2,0,0,0,0,0,0,0,0,0,1,0,3,0,3,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,1,PS (I-V),4,Government Aided,Urban,2,0,0,8,7,9,8,3,0,0,0,0,0,0,0,8,7,4,3,3,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),4,Government Aided,Urban,2,0,0,6,8,6,7,11,0,0,0,0,0,0,0,8,3,3,10,4,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,18,10,19,13,6,13,4,1,5,6,1,0,4,7,6,6,0,0,4,3,1,0,1,1,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,29,7,15,9,14,1,3,0,0,0,0,0,22,15,14,14,10,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,20,19,21,9,14,0,0,0,0,0,0,0,13,11,10,7,7,1,1,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,1,6,3,2,2,2,0,0,0,0,0,0,0,0,3,1,1,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,6,14,9,7,6,3,1,1,0,0,0,0,14,7,9,5,2,2,3,3,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,9,11,14,10,13,6,7,0,0,0,3,8,5,1,11,4,9,4,5,0,0,0,6,4,2,3,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,7,9,64,57,59,57,65,4,3,5,0,0,0,0,62,65,55,56,55,4,3,3,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,6,1,3,1,2,0,0,0,0,0,0,0,5,0,5,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,3,1,0,3,2,0,0,0,0,0,0,0,1,0,2,1,1,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,1,PS (I-V),7,Central Govt,Urban,2,0,0,6,4,2,5,8,0,0,0,0,0,0,0,5,5,3,6,5,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,1,PS (I-V),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,16,6,10,11,4,7,6,0,6,7,12,9,3,1,4,0,3,3,1,3,3,6,11,5,0,4,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,1,2,1,2,3,1,1,1,0,0,0,0,0,0,0,0,0,0,2,1,2,1,1,1,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,7,5,7,7,9,2,5,11,6,6,17,14,0,0,5,12,8,4,5,8,6,2,15,13,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,4,0,0,2,0,0,1,1,4,1,0,0,0,0,1,1,0,0,2,0,0,1,1,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,18,62,12,18,14,18,10,20,14,9,34,31,16,19,14,11,10,8,6,9,10,7,35,45,17,14,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,6,SS (I-X),7,Central Govt,Urban,2,0,0,5,5,6,3,7,4,12,6,10,6,0,0,2,5,7,3,3,6,7,14,11,8,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,136,69,7,10,0,0,0,0,0,0,0,0,89,59,7,7,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,195,113,29,34,0,0,0,0,0,0,0,0,187,101,37,35,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,103,43,3,11,0,0,0,0,0,0,0,0,99,56,6,7,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,170,89,25,44,0,0,0,0,0,0,0,0,172,64,24,29,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,113,49,0,0,0,0,0,0,0,0,0,0,97,62,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,125,66,11,33,0,0,0,0,0,0,0,0,168,103,29,17,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,22,18,0,0,0,0,0,0,0,0,0,0,20,11,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,30,12,4,9,0,0,0,0,0,0,0,0,38,37,5,5,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,24,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,22,11,7,6,0,0,0,0,0,0,0,0,99,38,8,2,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,1,2,0,0,2,1,0,0,10,5,0,0,1,1,0,0,0,1,0,0,5,4,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,8,SS (IX-X),5,Private Unaided (Recognized),Urban,2,0,0,2,2,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,7,1,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,1,6,4,13,4,0,0,0,0,0,0,0,2,3,3,4,5,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,15,18,19,0,0,0,0,0,0,0,0,0,14,14,15,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,2,UPS (I-VIII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6,8,5,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,8,8,50,43,45,34,37,37,26,28,32,29,0,0,29,34,28,14,21,16,12,13,16,17,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,1,1,39,37,35,36,31,24,35,26,1,1,0,0,30,40,27,28,29,27,27,27,0,0,1,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,31,28,48,25,23,33,23,23,0,0,0,0,18,23,22,16,18,13,14,14,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,24,29,19,8,11,8,15,6,27,31,0,0,0,0,13,11,10,9,4,14,11,11,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,12,10,28,36,21,25,18,23,14,21,2,0,2,1,18,24,17,15,7,8,12,10,2,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,24,19,22,18,17,23,24,28,17,26,4,2,0,0,14,26,26,8,17,15,15,7,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,39,36,159,184,192,223,168,149,176,143,6,10,0,0,149,177,217,181,157,150,144,118,8,7,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,0,10,10,12,4,11,6,8,6,0,0,0,0,4,7,12,2,8,1,7,2,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,5,3,17,20,14,19,10,16,16,14,0,0,0,0,16,10,13,7,17,8,7,4,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,2,UPS (I-VIII),7,Central Govt,Urban,2,0,0,9,6,13,13,10,8,8,9,7,6,6,4,9,14,26,11,2,10,7,7,12,7,1,3,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,360,359,305,0,0,0,0,0,0,0,0,0,360,343,331,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,293,307,288,0,0,0,0,0,0,0,0,0,264,236,278,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,2,1,2,1,1,261,271,262,0,0,0,0,2,2,1,1,2,259,247,270,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,275,260,244,0,0,0,0,0,0,0,0,0,268,262,281,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,252,247,236,0,0,0,0,0,0,0,0,0,218,216,244,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,202,207,181,0,0,0,0,0,0,0,0,0,179,208,200,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,120,118,116,0,0,0,0,0,0,0,0,0,158,163,183,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,2,2,4,0,0,0,0,0,0,0,0,0,24,17,9,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,35,38,42,0,0,0,0,0,0,0,0,0,42,44,41,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,14,10,8,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,3,4,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,1,1,3,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,1,6,4,0,0,0,0,0,0,0,0,0,2,3,3,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,4,UPS (VI-VIII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,34,28,27,0,0,0,0,0,0,0,0,0,11,7,6,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,0,0,0,0,2,2,3,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,3,3,2,8,7,3,3,4,0,0,0,0,2,2,4,0,1,0,3,2,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,1,0,2,0,0,0,0,2,0,0,1,1,1,0,0,0,0,0,5,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,2,8,2,8,4,9,1,3,6,4,5,17,13,19,10,4,2,6,4,0,3,7,4,15,15,14,12,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,9,11,7,0,0,0,0,0,0,0,0,0,10,7,9,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,4,UPS (VI-VIII),7,Central Govt,Urban,2,0,0,0,0,0,0,0,15,20,8,0,0,0,0,0,0,0,0,0,11,11,9,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,3,HSS (I-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,17,17,1,10,0,0,0,0,0,0,0,0,19,12,2,2,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,3,HSS (I-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,0,4,0,2,2,1,10,11,22,1,1,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,2,0,0,0,2,0,0,0,1,5,10,5,9,0,0,0,0,0,0,0,0,2,4,2,3,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,11,8,4,8,2,6,1,5,3,3,8,28,7,9,4,2,3,3,1,2,1,6,6,18,9,7,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,4,4,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,3,3,2,1,1,0,0,0,0,0,0,0,1,2,2,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,7,4,3,0,0,0,0,1,2,1,3,3,0,2,1,2,1,0,1,2,0,2,0,0,2,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,13,14,31,35,58,55,57,26,33,33,61,93,45,67,20,22,48,34,45,25,29,33,71,79,40,52,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,3,HSS (I-XII),7,Central Govt,Urban,3,0,0,5,8,7,10,5,12,4,8,7,5,8,2,9,4,9,10,6,9,7,6,6,3,4,6,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,126,81,60,56,0,0,0,0,0,0,0,0,131,70,52,66,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,55,26,14,31,0,0,0,0,0,0,0,0,71,31,20,32,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,264,76,72,63,0,0,0,0,0,0,0,0,198,89,80,70,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,166,74,32,36,0,0,0,0,0,0,0,0,118,89,48,50,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,74,18,14,16,0,0,0,0,0,0,0,0,59,12,21,23,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,87,34,34,54,0,0,0,0,0,0,0,0,46,12,42,34,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,56,15,20,13,0,0,0,0,0,0,0,0,40,11,21,17,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,90,40,22,26,0,0,0,0,0,0,0,0,0,2,27,36,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,170,53,22,16,0,0,0,0,0,0,0,0,115,50,29,24,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,10,HSS (IX-XII),3,Local body,Urban,3,0,0,0,0,0,0,0,0,0,0,29,19,7,5,0,0,0,0,0,0,0,0,22,12,4,3,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,10,HSS (IX-XII),4,Government Aided,Urban,3,0,0,1,2,1,1,1,6,18,1,6,2,15,2,1,2,3,2,0,0,21,3,11,5,10,11,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,10,HSS (IX-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,9,6,5,13,0,0,0,0,0,0,0,0,5,7,2,6,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,1,4,3,4,0,0,0,0,0,0,0,0,2,3,3,4,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,30,41,17,18,0,0,0,0,0,0,0,0,33,26,15,15,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,1,2,2,1,2,1,1,1,8,16,2,5,2,1,1,2,1,1,1,1,7,8,1,2,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,2,0,0,1,0,0,0,0,1,0,0,0,2,0,0,0,1,1,0,0,1,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,7,8,1,5,0,0,0,0,0,0,0,0,10,6,2,4,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,8,1,7,3,4,1,7,6,4,4,46,31,8,6,5,3,1,1,3,0,1,3,37,32,10,13,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,10,HSS (IX-XII),6,Other Govt. managed schools,Rural,3,0,0,0,0,0,0,0,0,0,0,60,64,13,24,0,0,0,0,0,0,0,0,40,51,13,25,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,5,HSS (VI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,1,15,11,11,13,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,1,0,1,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,5,HSS (VI-XII),7,Central Govt,Rural,3,0,0,0,0,0,0,0,13,14,13,17,18,2,1,0,0,0,0,0,8,11,11,10,6,1,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,1,PS (I-V),1,Department of Education,Rural,3,0,0,561,575,612,678,636,0,0,0,0,0,0,0,518,573,581,598,562,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,1,PS (I-V),1,Department of Education,Rural,3,0,0,481,536,557,562,630,0,0,0,0,0,0,0,512,530,555,553,576,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,1,PS (I-V),1,Department of Education,Rural,3,0,0,785,828,773,857,807,0,0,0,0,0,0,0,721,794,772,782,743,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,1,PS (I-V),1,Department of Education,Rural,3,0,0,408,439,449,545,491,0,0,0,0,0,0,0,390,389,439,508,475,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),1,Department of Education,Rural,3,0,0,601,639,720,755,714,0,0,0,0,0,0,0,559,637,678,675,672,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,1,PS (I-V),1,Department of Education,Rural,3,13,5,619,678,666,757,822,0,0,0,0,0,0,0,681,699,633,769,774,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,1,PS (I-V),1,Department of Education,Urban,3,0,0,82,114,108,111,140,0,0,0,0,0,0,0,95,117,101,112,124,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,1,PS (I-V),1,Department of Education,Urban,3,0,0,6,9,35,21,25,0,0,0,0,0,0,0,10,17,17,24,18,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),1,Department of Education,Urban,3,0,0,33,45,46,62,43,0,0,0,0,0,0,0,42,48,61,58,50,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,2,6,7,9,10,0,0,0,0,0,0,0,3,4,3,2,4,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,6,10,12,8,15,0,0,0,0,0,0,0,3,0,5,2,1,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,8,4,2,15,19,0,0,0,0,0,0,0,10,5,1,1,5,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,1,PS (I-V),4,Government Aided,Rural,3,0,0,2,5,5,10,6,1,0,0,0,0,0,0,6,10,2,3,12,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,1,PS (I-V),4,Government Aided,Rural,3,0,0,0,5,3,5,3,0,0,0,0,0,0,0,4,2,3,1,4,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),4,Government Aided,Rural,3,0,0,11,12,6,13,10,0,0,0,0,0,0,0,11,13,11,12,10,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,1,PS (I-V),4,Government Aided,Urban,3,0,0,4,3,1,3,0,0,0,0,0,0,0,0,3,8,2,5,6,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),4,Government Aided,Urban,3,0,0,11,14,16,9,10,0,0,0,0,0,0,0,7,14,7,16,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,11,3,5,4,13,1,2,12,6,2,2,0,11,4,2,4,4,1,1,5,3,1,2,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,11,11,9,12,10,0,2,0,0,0,0,0,15,7,8,8,4,1,1,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,32,24,42,25,14,5,1,1,0,0,0,0,13,20,11,12,9,4,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,11,8,5,2,4,1,1,1,0,0,0,0,4,4,3,2,0,0,0,1,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,27,21,23,11,16,8,3,0,0,0,17,20,21,33,13,11,3,4,3,0,0,0,8,9,12,21,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,5,9,68,66,48,49,46,3,3,4,0,0,0,0,46,53,42,45,39,6,2,2,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,3,0,1,0,1,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,2,0,1,3,0,0,0,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,1,PS (I-V),7,Central Govt,Urban,3,0,0,4,6,4,5,3,0,0,0,0,0,0,0,5,5,2,6,5,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,2,0,3,0,2,0,0,0,0,0,0,0,1,3,1,1,4,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,6,8,2,2,1,0,0,0,0,0,0,0,5,4,1,5,5,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,1,PS (I-V),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,3,1,2,6,1,1,7,4,1,1,4,7,1,0,0,3,1,0,5,1,0,1,0,2,4,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,3,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,1,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,15,12,12,10,7,6,10,8,15,13,10,17,0,0,4,4,6,6,4,6,6,4,18,12,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,2,1,0,1,0,0,1,0,1,1,0,0,0,0,2,0,0,0,2,0,0,1,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,8,2,6,7,7,4,5,4,3,2,29,26,6,7,2,3,7,4,4,2,6,1,28,25,8,6,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,6,SS (I-X),7,Central Govt,Urban,3,0,0,2,0,0,0,3,1,1,4,3,2,0,0,4,1,3,2,1,1,4,8,3,2,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,159,58,7,12,0,0,0,0,0,0,0,0,145,75,16,9,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,174,80,18,22,0,0,0,0,0,0,0,0,197,80,14,30,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,197,94,2,3,0,0,0,0,0,0,0,0,262,122,4,5,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,144,82,28,33,0,0,0,0,0,0,0,0,180,78,32,30,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,130,46,0,0,0,0,0,0,0,0,0,0,145,64,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,328,143,47,51,0,0,0,0,0,0,0,0,368,196,36,45,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,39,20,0,0,0,0,0,0,0,0,0,0,39,29,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,11,7,6,3,0,0,0,0,0,0,0,0,31,26,7,4,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,108,52,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,20,7,5,2,0,0,0,0,0,0,0,0,64,17,2,2,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,3,3,0,2,1,1,1,1,3,7,0,0,3,1,2,0,0,1,1,1,6,7,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,0,0,8,8,2,2,1,2,4,4,2,3,0,0,3,4,1,6,5,2,8,4,9,5,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,7,13,4,17,5,0,0,0,0,0,0,0,10,10,6,13,9,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,16,12,13,0,0,0,0,0,0,0,0,0,20,14,12,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,2,UPS (I-VIII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,5,3,23,21,17,20,28,29,15,20,15,14,0,0,15,21,9,16,15,10,8,15,13,15,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,41,35,29,25,27,19,19,30,2,1,2,0,32,32,30,26,28,18,23,23,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,43,43,37,31,27,36,47,26,0,0,0,0,19,26,20,17,13,16,17,12,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,61,41,19,15,14,24,21,28,27,43,0,0,0,0,15,15,25,19,18,20,11,9,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,6,3,14,13,17,4,2,7,7,4,1,2,1,1,15,1,10,3,3,2,6,2,3,1,0,2,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,19,26,33,14,29,34,23,29,25,16,2,4,0,0,26,18,20,13,17,14,11,13,5,2,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,8,11,105,113,110,89,125,109,87,83,9,6,0,0,108,117,99,107,102,109,101,112,5,4,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,16,11,7,9,5,7,4,4,0,0,0,0,8,5,4,7,2,1,5,7,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,7,2,19,19,14,15,9,13,12,12,0,0,0,0,15,6,7,4,8,6,7,3,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,2,UPS (I-VIII),7,Central Govt,Urban,3,0,0,7,6,3,1,2,6,6,3,2,3,2,0,7,9,3,3,1,4,3,1,4,2,0,2,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,641,639,484,0,0,0,0,0,0,0,0,0,580,627,522,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,699,524,415,0,0,0,0,0,0,0,0,0,604,545,507,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,8,6,7,10,10,1024,1034,828,0,0,0,0,10,5,5,5,9,943,1063,990,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,680,568,455,0,0,0,0,0,0,0,0,0,571,565,574,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,784,698,516,0,0,0,0,0,0,0,0,0,703,716,627,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,1007,889,704,0,0,0,0,0,0,0,0,0,770,786,772,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,85,77,59,0,0,0,0,0,0,0,0,0,97,94,83,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,13,7,2,0,0,0,0,0,0,0,0,0,44,32,12,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,79,96,78,0,0,0,0,0,0,0,0,0,82,100,71,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,21,21,11,0,0,0,0,0,0,0,0,0,7,8,6,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,24,33,33,0,0,0,0,0,0,0,0,0,9,7,8,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,42,52,48,0,0,0,0,0,0,0,0,0,20,12,16,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,9,9,9,0,0,0,0,0,0,0,0,0,12,11,9,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,7,13,4,0,0,0,0,0,0,0,0,0,10,10,6,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,4,UPS (VI-VIII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,25,22,29,0,0,0,0,0,0,0,0,0,7,7,9,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,1,1,3,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,1,0,3,2,0,1,0,2,0,0,0,0,2,0,0,0,2,0,1,3,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,2,6,0,5,1,3,0,7,5,5,14,15,12,14,5,9,2,4,3,35,32,5,11,17,11,13,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,20,12,11,0,0,0,0,0,0,0,0,0,8,10,8,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,4,UPS (VI-VIII),7,Central Govt,Urban,3,0,0,0,0,0,0,0,6,5,5,0,0,0,0,0,0,0,0,0,2,6,10,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,3,4,4,0,0,0,0,0,0,0,0,0,2,8,4,0,0,0,0,ST
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,3,HSS (I-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,24,29,10,19,0,0,0,0,0,0,0,0,13,18,5,7,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,3,HSS (I-XII),4,Government Aided,Urban,4,3,30,11,6,7,8,9,12,9,5,23,10,6,7,28,22,23,24,34,37,35,48,54,60,55,49,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,31,27,11,12,9,8,8,3,5,0,86,103,67,96,5,12,3,3,6,3,3,0,48,73,49,62,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,1,0,0,0,0,0,0,0,8,15,6,16,0,0,0,0,0,0,0,0,1,4,2,1,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,84,45,51,41,38,26,31,40,39,36,93,112,37,48,15,28,20,23,29,16,17,21,38,51,21,26,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,28,29,0,0,0,0,0,0,0,0,0,0,19,14,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,9,5,8,10,10,0,0,0,0,0,0,0,5,6,13,7,7,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,41,29,20,30,14,15,22,21,21,21,11,27,26,14,12,13,15,14,11,13,5,12,10,18,11,9,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,285,222,212,214,306,234,238,288,244,224,383,512,317,341,200,202,194,178,164,196,172,180,308,360,244,254,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,3,HSS (I-XII),7,Central Govt,Urban,4,0,0,32,45,32,25,27,26,26,38,26,22,20,23,27,28,21,29,23,20,20,31,26,28,35,28,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,506,393,309,435,0,0,0,0,0,0,0,0,521,427,341,494,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,182,191,93,203,0,0,0,0,0,0,0,0,261,244,137,252,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,607,332,322,298,0,0,0,0,0,0,0,0,470,385,326,342,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,399,225,190,231,0,0,0,0,0,0,0,0,363,218,207,193,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,220,89,77,104,0,0,0,0,0,0,0,0,236,109,83,100,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,352,235,172,171,0,0,0,0,0,0,0,0,225,143,165,160,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,184,152,147,124,0,0,0,0,0,0,0,0,123,99,119,126,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,177,162,114,154,0,0,0,0,0,0,0,0,0,3,134,65,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,475,228,195,182,0,0,0,0,0,0,0,0,323,236,205,218,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,10,HSS (IX-XII),3,Local body,Urban,4,0,0,0,0,0,0,0,0,0,0,32,43,15,18,0,0,0,0,0,0,0,0,56,57,46,35,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,10,HSS (IX-XII),4,Government Aided,Urban,4,0,0,3,9,6,5,9,11,11,11,20,25,0,25,3,5,5,12,10,10,12,14,18,27,25,31,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,10,HSS (IX-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,13,19,3,16,0,0,0,0,0,0,0,0,9,8,6,12,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,12,30,16,25,0,0,0,0,0,0,0,0,9,25,17,16,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,40,45,20,32,0,0,0,0,0,0,0,0,27,61,24,37,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,5,2,1,3,2,3,3,3,35,40,12,10,3,1,1,1,0,1,1,2,29,34,4,11,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,6,5,8,11,4,5,9,8,14,18,0,0,7,4,6,4,6,2,1,2,9,7,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,87,95,76,52,0,0,0,0,0,0,0,0,59,49,28,26,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,4,50,38,13,20,12,26,19,23,21,15,153,115,98,57,19,16,19,20,13,15,18,7,111,102,64,63,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,10,HSS (IX-XII),6,Other Govt. managed schools,Rural,4,0,0,0,0,0,0,0,0,0,0,31,41,8,20,0,0,0,0,0,0,0,0,43,44,3,18,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,5,HSS (VI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,2,2,8,48,70,35,75,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,15,15,21,20,27,12,8,0,0,0,0,0,17,24,16,26,28,12,25,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,5,HSS (VI-XII),7,Central Govt,Rural,4,0,0,0,0,0,0,0,15,14,13,12,13,10,7,0,0,0,0,0,4,9,7,7,5,4,8,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,1,PS (I-V),1,Department of Education,Rural,4,0,0,579,658,729,782,813,0,0,0,0,0,0,0,636,803,746,841,838,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,1,PS (I-V),1,Department of Education,Rural,4,0,0,482,535,580,622,666,0,0,0,0,0,0,0,514,582,626,624,627,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,1,PS (I-V),1,Department of Education,Rural,4,0,0,522,631,649,659,613,0,0,0,0,0,0,0,632,666,702,727,593,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,1,PS (I-V),1,Department of Education,Rural,4,0,0,444,478,522,605,543,0,0,0,0,0,0,0,438,513,513,590,564,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),1,Department of Education,Rural,4,0,0,532,630,642,661,618,0,0,0,0,0,0,0,554,614,660,665,630,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,1,PS (I-V),1,Department of Education,Rural,4,9,16,492,557,579,609,667,0,0,0,0,0,0,0,522,551,552,629,691,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,1,PS (I-V),1,Department of Education,Urban,4,0,0,84,106,140,115,144,0,0,0,0,0,0,0,99,134,143,201,166,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,1,PS (I-V),1,Department of Education,Urban,4,0,0,19,23,26,26,32,0,0,0,0,0,0,0,15,22,21,32,27,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,1,PS (I-V),1,Department of Education,Urban,4,0,0,4,2,1,0,2,0,0,0,0,0,0,0,1,0,2,5,3,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),1,Department of Education,Urban,4,0,0,26,29,32,45,36,0,0,0,0,0,0,0,12,23,23,33,31,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,3,2,0,1,3,0,0,0,0,0,0,0,0,4,4,1,1,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,1,PS (I-V),4,Government Aided,Rural,4,0,0,3,7,10,15,11,10,10,6,0,0,0,0,6,7,10,13,16,7,11,3,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,1,PS (I-V),4,Government Aided,Rural,4,0,0,1,2,2,4,1,0,0,0,0,0,0,0,3,0,2,2,0,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),4,Government Aided,Rural,4,0,0,1,1,1,0,2,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,1,PS (I-V),4,Government Aided,Urban,4,0,0,14,17,10,23,18,0,0,0,0,0,0,0,8,22,13,23,17,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),4,Government Aided,Urban,4,0,0,20,17,12,26,23,0,0,0,0,0,0,0,12,26,31,25,0,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,103,104,75,63,54,56,37,24,30,31,9,8,66,68,44,32,31,22,23,19,12,16,3,6,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,34,31,26,18,20,5,7,0,0,0,0,0,30,20,21,9,11,6,3,2,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,83,91,90,69,71,26,16,15,0,0,0,0,58,59,44,39,36,13,7,4,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,30,25,54,50,48,34,39,0,3,0,0,0,0,0,46,38,41,27,37,0,0,1,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,88,70,59,34,61,7,7,12,0,0,0,0,52,46,38,28,29,8,14,12,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,73,40,83,53,59,36,39,0,0,0,29,28,35,32,75,46,36,35,27,0,0,0,20,14,18,15,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,15,15,107,97,87,80,73,27,15,14,0,0,0,2,87,76,73,74,56,12,14,10,0,0,0,1,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,16,11,7,3,5,0,0,0,0,0,0,0,13,5,7,5,0,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,18,15,10,11,4,0,0,0,0,0,0,0,13,16,9,14,11,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,1,PS (I-V),7,Central Govt,Urban,4,0,0,20,25,32,25,26,0,0,0,0,0,0,0,21,26,30,25,32,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,3,3,2,0,0,0,0,0,0,0,0,0,6,7,4,0,0,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,5,13,8,5,3,0,0,0,0,0,0,0,11,3,0,7,9,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,1,1,1,2,2,0,0,0,0,0,0,0,1,2,3,2,3,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,1,PS (I-V),98,Madarsa unrecognized,Rural,4,0,0,4,8,5,7,9,0,0,0,0,0,0,0,8,7,7,5,5,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,37,20,38,59,48,38,43,44,41,44,52,57,33,25,29,27,23,31,32,22,30,24,33,18,10,11,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,9,3,1,3,4,2,2,3,2,2,4,4,0,0,5,3,0,3,0,3,3,4,0,5,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,34,22,13,24,22,23,22,26,25,30,55,37,0,0,10,13,14,14,13,21,18,17,26,25,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,55,24,23,27,9,10,12,6,4,3,9,0,0,0,13,19,7,6,2,4,1,2,13,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,71,70,57,35,36,34,62,81,44,51,81,114,44,63,38,31,30,38,40,52,44,29,49,64,29,20,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,6,SS (I-X),7,Central Govt,Urban,4,0,0,6,15,7,7,16,10,22,22,18,15,0,0,10,8,9,17,9,14,19,18,18,19,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,514,331,67,44,0,0,0,0,0,0,0,0,507,329,65,35,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,650,426,141,143,0,0,0,0,0,0,0,0,603,421,165,154,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,367,251,29,28,0,0,0,0,0,0,0,0,406,348,27,23,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,538,335,133,163,0,0,0,0,0,0,0,0,660,370,111,120,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,463,300,0,0,0,0,0,0,0,0,0,0,427,281,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,495,356,63,144,0,0,0,0,0,0,0,0,590,512,145,119,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,97,78,0,0,0,0,0,0,0,0,0,0,111,76,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,69,47,14,20,0,0,0,0,0,0,0,0,98,74,42,13,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,208,112,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,42,34,22,5,0,0,0,0,0,0,0,0,193,97,15,10,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,14,9,14,7,9,20,14,20,49,49,0,0,14,14,6,12,9,6,7,7,43,49,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,8,SS (IX-X),5,Private Unaided (Recognized),Urban,4,0,0,1,1,1,2,2,3,1,5,7,1,0,0,1,2,3,2,3,1,1,1,0,4,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,3,1,1,12,5,0,0,0,0,0,0,0,5,2,4,11,3,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,32,36,28,0,0,0,0,0,0,0,0,0,41,35,23,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,2,UPS (I-VIII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,59,48,248,288,305,261,269,289,279,256,65,79,0,0,198,189,190,177,147,150,150,133,54,40,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,10,6,103,87,91,97,90,85,89,63,2,6,6,4,71,84,83,67,80,65,53,65,7,7,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,106,107,135,114,114,123,128,124,0,0,0,0,99,84,88,67,68,79,67,66,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,226,117,103,122,96,98,121,137,124,159,0,0,0,0,78,81,67,60,73,61,79,51,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,16,17,95,100,69,77,79,102,88,75,3,2,1,1,67,52,62,55,45,55,42,37,3,1,0,2,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,146,96,175,193,152,165,139,165,155,146,19,24,0,0,126,123,126,106,101,111,77,70,6,8,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,84,79,255,279,277,265,299,245,233,180,44,33,5,0,218,266,222,221,237,200,201,193,46,32,6,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,18,8,69,55,47,58,54,53,54,41,0,0,0,0,39,45,37,43,33,41,41,33,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,2,UPS (I-VIII),7,Central Govt,Urban,4,0,0,19,21,17,12,17,16,19,11,17,5,12,1,21,22,14,13,8,17,17,8,9,2,8,2,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,930,909,895,0,0,0,0,0,0,0,0,0,973,929,1054,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,727,769,749,0,0,0,0,0,0,0,0,0,754,752,792,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,2,10,5,7,4,834,899,857,0,0,0,0,10,10,10,10,6,803,997,1019,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,593,689,619,0,0,0,0,0,0,0,0,0,656,673,673,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,779,825,839,0,0,0,0,0,0,0,0,0,784,851,898,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,738,765,727,0,0,0,0,0,0,0,0,0,736,797,704,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,163,198,159,0,0,0,0,0,0,0,0,0,190,258,250,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,7,4,7,0,0,0,0,0,0,0,0,0,36,24,24,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,66,73,74,0,0,0,0,0,0,0,0,0,89,74,90,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233803,BADWARA,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,9,2,8,0,0,0,0,0,0,0,0,0,12,22,24,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233804,RITHI,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233806,DHEEMAR KHEDA ,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,6,8,11,0,0,0,0,0,0,0,0,0,7,7,13,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,3,1,1,0,0,0,0,0,0,0,0,0,5,2,4,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,4,UPS (VI-VIII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,31,38,28,0,0,0,0,0,0,0,0,0,10,7,7,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,15,19,12,0,0,0,0,0,0,0,0,0,12,16,6,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233801,BAHORIBAND,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,18,19,22,21,23,15,8,16,0,0,0,0,21,15,11,13,13,8,2,16,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,3,8,7,5,2,2,3,2,16,14,0,0,1,2,4,3,5,4,0,4,3,4,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,4,25,13,24,28,34,23,25,25,32,27,37,24,35,17,25,17,26,16,20,17,8,15,14,13,13,12,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,61,70,65,0,0,0,0,0,0,0,0,0,40,33,40,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233802,KATNI,4,UPS (VI-VIII),7,Central Govt,Urban,4,0,0,0,0,0,0,0,9,8,6,0,0,0,0,0,0,0,0,0,7,5,5,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,0,0,0,0,0,4,9,6,0,0,0,0,0,0,0,0,0,5,7,10,0,0,0,0,OBC
+2015-16,23,Madhya Pradesh,2338,KATNI,233805,VIJAY RAGHAVGARH,4,UPS (VI-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,OBC

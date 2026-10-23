@@ -1,0 +1,485 @@
+ac_year,state_code,state_name,district_code,district_name,block_code,block_name,sch_category_id,category_name,sch_mgmt_id,sch_mgmt_name,loc_name,caste_id,pre_primary_boys,pre_primary_girls,class_1_boys,class_2_boys,class_3_boys,class_4_boys,class_5_boys,class_6_boys,class_7_boys,class_8_boys,class_9_boys,class_10_boys,class_11_boys,class_12_boys,class_1_girls,class_2_girls,class_3_girls,class_4_girls,class_5_girls,class_6_girls,class_7_girls,class_8_girls,class_9_girls,class_10_girls,class_11_girls,class_12_girls,caste_name
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,46,33,18,7,7,11,4,0,0,0,0,0,0,0,14,4,4,5,2,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,2,0,3,7,2,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,16,13,6,1,1,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,30,10,2,2,1,1,1,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,3,1,2,1,2,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,1,PS (I-V),8,Unrecognized,Rural,2,7,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,1,PS (I-V),8,Unrecognized,Rural,2,36,22,2,0,1,8,1,0,0,0,0,0,0,0,2,1,0,7,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,1,PS (I-V),8,Unrecognized,Rural,2,20,12,1,2,2,2,0,0,0,0,0,0,0,0,0,3,2,2,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100609,SARAIGARH BHAPTIAHI,1,PS (I-V),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,1,PS (I-V),8,Unrecognized,Rural,2,23,2,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,1,PS (I-V),8,Unrecognized,Urban,2,0,0,1,1,2,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,1,PS (I-V),8,Unrecognized,Urban,2,1,1,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,6,SS (I-X),1,Department of Education,Rural,2,0,0,1,0,3,2,0,18,20,15,13,10,0,0,1,0,4,0,0,12,9,4,8,15,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,6,SS (I-X),1,Department of Education,Rural,2,0,0,0,2,5,7,4,7,7,7,7,7,0,0,0,3,0,3,7,5,2,3,8,4,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,6,SS (I-X),1,Department of Education,Rural,2,0,0,20,21,20,38,30,29,22,26,15,29,0,0,11,25,22,34,35,23,22,16,14,15,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,6,SS (I-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,6,3,8,10,18,0,0,0,0,0,0,0,3,3,1,9,7,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,6,SS (I-X),1,Department of Education,Rural,2,0,0,0,0,2,4,0,30,27,33,28,23,0,0,0,0,2,1,0,14,18,4,29,12,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,9,12,9,14,5,14,16,6,1,0,0,0,8,7,5,3,4,10,14,5,5,4,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,90,99,0,0,0,0,0,0,0,0,0,0,83,68,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,236,271,23,9,0,0,0,0,0,0,0,0,234,194,3,12,SC
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,86,84,4,5,0,0,0,0,0,0,0,0,54,55,4,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,45,58,15,4,0,0,0,0,0,0,0,0,47,54,8,3,SC
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,60,58,6,5,0,0,0,0,0,0,0,0,40,31,5,6,SC
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,174,175,27,17,0,0,0,0,0,0,0,0,156,135,18,24,SC
+2016-17,10,Bihar,1006,SUPAUL,100607,PRATAPGANJ,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,94,149,17,12,0,0,0,0,0,0,0,0,179,167,13,7,SC
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,273,343,1,5,0,0,0,0,0,0,0,0,234,238,6,5,SC
+2016-17,10,Bihar,1006,SUPAUL,100609,SARAIGARH BHAPTIAHI,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,64,137,25,16,0,0,0,0,0,0,0,0,53,119,6,7,SC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,160,182,26,19,0,0,0,0,0,0,0,0,83,98,9,12,SC
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,376,333,16,14,0,0,0,0,0,0,0,0,412,375,7,3,SC
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,12,41,0,0,0,0,0,0,0,0,0,0,12,15,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,60,102,0,0,0,0,0,0,0,0,0,0,37,70,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,92,100,9,6,0,0,0,0,0,0,0,0,97,134,0,4,SC
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,30,23,0,0,0,0,0,0,0,0,0,0,21,14,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,2,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,4,5,4,3,4,0,0,0,0,0,0,0,3,3,2,2,2,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,244,500,322,359,358,451,444,452,146,186,0,0,204,466,334,331,343,359,387,408,151,150,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,363,705,576,506,435,635,739,709,109,52,0,0,366,657,453,389,416,476,643,638,106,52,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,2,UPS (I-VIII),1,Department of Education,Rural,2,1,0,250,266,245,253,248,264,309,226,41,47,0,0,211,264,268,241,202,261,253,218,39,27,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,185,149,130,198,147,265,289,219,44,16,0,0,172,143,153,173,158,222,233,202,33,10,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,65,101,79,76,115,109,125,85,6,0,0,0,61,77,75,85,97,89,127,84,16,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,222,311,301,250,281,395,444,395,3,7,0,0,252,303,233,245,242,414,341,316,0,3,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100607,PRATAPGANJ,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,142,290,251,192,160,264,240,218,4,13,0,0,147,234,201,180,121,216,259,190,2,8,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,233,372,341,342,417,514,464,468,49,52,0,0,178,342,300,283,323,444,415,377,45,29,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100609,SARAIGARH BHAPTIAHI,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,246,220,186,230,162,264,246,222,80,19,0,0,229,236,193,181,168,213,211,180,55,12,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,357,499,390,337,424,511,581,479,117,97,0,0,311,438,357,266,327,427,416,382,128,91,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,401,669,513,505,418,712,708,789,63,70,0,0,386,627,436,386,386,590,680,768,105,63,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,16,17,19,10,21,21,25,14,0,0,0,0,16,13,24,20,24,12,15,16,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,12,27,12,9,5,29,33,22,0,0,0,0,21,22,9,10,7,40,25,9,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,41,91,54,62,52,68,66,62,0,0,0,0,46,80,42,46,49,81,68,72,8,9,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,12,13,4,6,3,0,2,2,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,4,0,7,5,3,2,1,3,2,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,22,8,11,9,6,1,7,12,2,4,0,0,0,0,1,6,1,2,2,1,1,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,18,13,10,5,6,3,2,4,1,0,0,0,0,0,2,2,0,0,1,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,26,8,22,12,7,10,3,2,5,1,0,0,0,0,15,6,6,6,2,0,3,1,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,34,19,18,11,12,6,3,2,5,2,0,0,0,0,10,15,8,9,5,5,5,2,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,21,3,13,4,8,8,5,3,5,7,0,0,0,0,2,3,2,2,2,2,2,2,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,16,11,9,7,7,6,8,6,6,3,0,0,0,0,6,7,4,3,7,4,5,6,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,2,UPS (I-VIII),8,Unrecognized,Rural,2,10,2,2,1,1,2,0,2,0,0,0,0,0,0,4,3,3,3,0,0,0,2,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,2,UPS (I-VIII),8,Unrecognized,Rural,2,66,27,14,15,6,6,3,1,3,0,0,0,0,0,8,2,2,3,1,0,2,4,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,2,UPS (I-VIII),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,2,UPS (I-VIII),8,Unrecognized,Rural,2,1,0,3,4,3,4,4,8,2,3,0,0,0,0,1,1,0,1,1,2,1,2,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,2,UPS (I-VIII),8,Unrecognized,Rural,2,42,16,13,12,8,8,6,5,3,5,0,0,0,0,5,6,4,4,2,4,1,2,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,2,UPS (I-VIII),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,2,UPS (I-VIII),8,Unrecognized,Urban,2,13,4,3,2,2,3,0,2,0,1,0,0,0,0,1,1,2,1,1,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,2,UPS (I-VIII),8,Unrecognized,Urban,2,8,7,3,2,2,2,2,2,0,0,0,0,0,0,3,2,0,0,1,1,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,21,18,14,19,14,19,7,15,0,0,0,0,13,19,26,21,14,19,21,5,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100607,PRATAPGANJ,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100609,SARAIGARH BHAPTIAHI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100607,PRATAPGANJ,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,2,0,0,10,1,6,11,12,8,6,20,0,0,0,0,18,11,14,12,13,9,7,23,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,34,42,27,12,17,0,0,0,0,0,0,0,22,29,28,17,11,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,4,3,8,0,0,0,0,0,0,0,0,0,1,6,5,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,10,8,2,0,0,0,0,0,0,0,0,0,1,7,5,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,38,32,33,0,0,0,0,0,0,0,0,0,14,19,59,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,3,1,1,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100607,PRATAPGANJ,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,27,24,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,24,18,21,0,0,0,0,0,0,0,0,0,23,16,32,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,14,16,9,0,0,0,0,0,0,0,0,0,15,6,6,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,4,UPS (VI-VIII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,10,6,16,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,3,4,2,3,1,4,0,11,2,4,2,2,1,0,4,7,0,2,7,7,2,1,1,2,7,2,ST
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,10,HSS (IX-XII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,5,HSS (VI-XII),7,Central Govt,Urban,3,0,0,0,0,0,0,0,4,4,5,4,3,1,2,0,0,0,0,0,1,3,1,1,2,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,1,3,ST
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,11,HSS (XI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,11,HSS (XI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,1,PS (I-V),1,Department of Education,Rural,3,0,0,34,40,37,34,25,0,0,0,0,0,0,0,24,29,42,26,40,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,1,PS (I-V),1,Department of Education,Rural,3,0,0,3,2,1,2,1,0,0,0,0,0,0,0,0,1,2,1,2,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,1,PS (I-V),1,Department of Education,Rural,3,0,0,2,3,2,1,1,0,0,0,0,0,0,0,4,3,2,0,1,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100607,PRATAPGANJ,1,PS (I-V),1,Department of Education,Rural,3,0,0,17,11,18,6,11,0,0,0,0,0,0,0,10,8,17,5,11,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,1,PS (I-V),1,Department of Education,Rural,3,0,0,11,7,30,19,6,0,0,0,0,0,0,0,8,4,15,17,13,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100609,SARAIGARH BHAPTIAHI,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,1,PS (I-V),1,Department of Education,Rural,3,0,0,6,6,12,8,15,1,2,4,0,0,0,0,6,9,7,9,8,3,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,1,PS (I-V),1,Department of Education,Rural,3,0,0,12,22,22,5,7,0,0,0,0,0,0,0,27,22,17,12,6,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,5,0,2,3,0,0,0,0,0,0,0,1,3,3,4,3,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,4,0,9,2,3,5,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,10,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,2,2,10,5,1,1,1,0,0,0,0,0,0,0,6,5,0,1,1,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,3,0,5,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,1,PS (I-V),8,Unrecognized,Rural,3,0,0,2,0,2,2,3,0,0,0,0,0,0,0,2,1,0,7,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,1,PS (I-V),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,1,PS (I-V),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100609,SARAIGARH BHAPTIAHI,1,PS (I-V),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,1,PS (I-V),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,1,PS (I-V),8,Unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,1,PS (I-V),8,Unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,5,2,3,1,1,0,0,0,0,0,0,0,2,1,1,0,7,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,1,0,2,2,2,0,1,0,5,3,0,0,0,2,3,2,6,31,2,1,4,2,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,2,8,1,0,0,0,0,0,0,0,0,0,7,15,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100607,PRATAPGANJ,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,3,11,0,0,0,0,0,0,0,0,0,0,1,5,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100609,SARAIGARH BHAPTIAHI,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,15,3,1,1,ST
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,1,5,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,0,1,1,0,2,0,2,1,0,0,3,1,2,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,14,28,38,17,33,37,45,26,12,7,0,0,19,29,42,20,20,32,59,40,11,26,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,2,UPS (I-VIII),1,Department of Education,Rural,3,4,3,12,11,9,8,10,5,3,3,0,0,0,0,8,9,8,6,6,3,8,8,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,2,4,0,13,9,7,0,0,0,0,0,1,0,8,2,3,4,6,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100607,PRATAPGANJ,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,1,0,1,0,0,4,0,0,3,0,0,0,1,0,0,0,3,2,14,15,1,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,2,5,1,6,5,3,11,0,0,0,0,0,4,3,0,1,10,2,8,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100609,SARAIGARH BHAPTIAHI,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,4,1,7,7,11,8,2,8,7,0,0,0,2,3,3,4,3,7,10,7,10,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,14,19,8,14,23,20,19,17,3,0,0,0,9,17,13,14,25,18,65,22,6,13,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,12,4,1,0,10,2,0,0,0,0,0,0,0,0,4,0,0,1,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,3,4,3,4,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,6,6,4,3,6,2,6,4,5,3,0,0,0,0,2,1,3,2,4,2,3,1,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,2,UPS (I-VIII),8,Unrecognized,Rural,3,7,10,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,0,0,1,2,2,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,2,UPS (I-VIII),8,Unrecognized,Rural,3,18,13,10,9,9,8,6,5,2,2,0,0,0,0,1,5,4,5,2,4,2,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,2,UPS (I-VIII),8,Unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,2,UPS (I-VIII),8,Unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100607,PRATAPGANJ,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100609,SARAIGARH BHAPTIAHI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100607,PRATAPGANJ,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100607,PRATAPGANJ,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,1,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,1,5,7,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,4,UPS (VI-VIII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,12,12,8,8,4,0,4,9,7,2,1,0,8,6,1,11,7,10,1,0,1,0,0,1,2,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,0,0,27,55,82,108,110,105,106,102,160,148,47,29,13,25,38,2,50,55,54,58,91,63,14,20,OBC
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,15,12,25,7,6,5,4,7,6,7,1,7,16,0,6,0,0,0,0,0,3,5,0,1,OBC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,562,582,174,136,0,0,0,0,0,0,0,0,0,0,40,42,OBC
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,10,HSS (IX-XII),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,122,171,6,5,0,0,0,0,0,0,0,0,112,144,6,14,OBC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,5,HSS (VI-XII),7,Central Govt,Urban,4,0,0,0,0,0,0,0,10,11,9,12,10,2,5,0,0,0,0,0,3,3,2,7,6,4,2,OBC
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,90,92,0,0,0,0,0,0,0,0,0,0,62,60,OBC
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,11,HSS (XI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,308,298,103,111,0,0,0,0,0,0,0,0,235,214,27,32,OBC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,11,HSS (XI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,261,376,OBC
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,1,PS (I-V),1,Department of Education,Rural,4,83,92,547,692,722,703,672,0,0,0,0,0,0,0,568,765,654,733,704,0,0,0,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,1,PS (I-V),1,Department of Education,Rural,4,0,0,1093,1417,1215,1249,1147,0,0,0,0,0,0,0,1073,1303,1172,1237,1143,0,0,0,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,1,PS (I-V),1,Department of Education,Rural,4,34,36,848,874,825,867,820,20,19,13,0,0,0,0,847,867,885,798,825,18,4,13,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,1,PS (I-V),1,Department of Education,Rural,4,0,0,770,900,879,1006,1002,0,0,0,0,0,0,0,777,949,896,1041,924,0,0,0,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,1,PS (I-V),1,Department of Education,Rural,4,0,0,696,705,746,737,743,0,0,0,0,0,0,0,706,710,757,773,772,0,0,0,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,1,PS (I-V),1,Department of Education,Rural,4,0,0,907,1134,1129,1078,1175,142,127,96,0,0,0,0,901,1127,1045,1176,1027,142,106,89,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100607,PRATAPGANJ,1,PS (I-V),1,Department of Education,Rural,4,0,0,426,458,473,447,392,0,0,0,0,0,0,0,448,540,497,480,445,0,0,0,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,1,PS (I-V),1,Department of Education,Rural,4,0,1,1042,1433,1329,1185,1260,0,0,0,0,0,0,0,1046,1289,1212,1153,1158,0,0,0,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100609,SARAIGARH BHAPTIAHI,1,PS (I-V),1,Department of Education,Rural,4,0,0,771,866,799,896,831,39,26,16,0,0,0,0,779,822,834,853,863,45,33,20,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,1,PS (I-V),1,Department of Education,Rural,4,167,172,1283,1356,1252,1320,1266,41,32,32,0,0,0,0,1249,1320,1204,1379,1082,31,27,38,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,1,PS (I-V),1,Department of Education,Rural,4,29,17,1507,1868,1701,1796,1682,55,88,102,0,0,0,0,1446,1902,1683,1842,1614,88,69,123,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,1,PS (I-V),1,Department of Education,Urban,4,0,0,28,46,29,28,47,0,0,0,0,0,0,0,21,45,39,29,44,0,0,0,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,1,PS (I-V),1,Department of Education,Urban,4,0,0,59,82,79,71,73,0,0,0,0,0,0,0,67,81,80,71,65,0,0,0,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,1,PS (I-V),1,Department of Education,Urban,4,0,0,212,303,287,278,207,0,0,0,0,0,0,0,182,230,257,256,184,0,0,0,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,119,65,34,38,23,21,17,0,0,0,0,0,0,0,15,15,20,9,9,0,0,0,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,10,0,15,8,8,3,3,0,0,0,0,0,0,0,3,1,3,2,1,0,0,0,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,17,9,16,3,2,4,4,0,0,0,0,0,0,0,1,2,3,1,4,0,0,0,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,100,50,40,30,10,15,2,0,0,0,0,0,0,0,17,15,5,8,1,0,0,0,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,40,24,0,7,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,10,1,6,15,15,11,11,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,1,PS (I-V),8,Unrecognized,Rural,4,41,21,22,17,20,14,17,0,0,0,0,0,0,0,22,8,24,18,19,0,0,0,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,1,PS (I-V),8,Unrecognized,Rural,4,16,6,20,9,11,2,2,0,0,0,0,0,0,0,4,9,8,3,5,0,0,0,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,1,PS (I-V),8,Unrecognized,Rural,4,22,32,7,4,2,10,2,0,0,0,0,0,0,0,5,4,4,5,1,0,0,0,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100609,SARAIGARH BHAPTIAHI,1,PS (I-V),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,1,PS (I-V),8,Unrecognized,Rural,4,68,32,23,20,14,4,2,0,0,0,0,0,0,0,18,8,5,5,1,0,0,0,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,1,PS (I-V),8,Unrecognized,Urban,4,0,0,3,5,2,0,0,0,0,0,0,0,0,0,6,3,0,2,1,0,0,0,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,1,PS (I-V),8,Unrecognized,Urban,4,64,28,9,8,0,0,0,0,0,0,0,0,0,0,8,4,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,8,10,12,11,9,0,0,0,0,0,0,0,12,10,8,7,10,0,0,0,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,6,SS (I-X),1,Department of Education,Rural,4,0,0,7,8,4,1,4,50,59,57,55,43,0,0,6,4,3,3,5,39,46,49,57,63,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,6,SS (I-X),1,Department of Education,Rural,4,0,0,11,32,31,58,75,53,51,36,83,52,0,0,15,37,28,77,41,45,44,36,58,48,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,6,SS (I-X),1,Department of Education,Rural,4,0,0,36,53,85,72,52,90,73,47,113,105,0,0,36,66,81,82,50,77,70,94,127,130,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,6,SS (I-X),1,Department of Education,Rural,4,0,0,18,16,15,18,18,34,47,42,73,92,0,0,21,13,25,15,15,35,49,33,71,75,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,6,SS (I-X),1,Department of Education,Rural,4,0,0,30,25,30,26,22,60,28,43,149,105,0,0,41,25,23,23,27,44,56,60,166,141,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,59,45,36,49,50,33,24,24,28,31,0,0,35,27,29,28,20,44,16,23,13,7,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,30,41,22,31,14,11,13,11,16,57,0,0,48,26,36,26,31,22,35,16,37,73,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,120,138,0,0,0,0,0,0,0,0,0,0,84,141,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,941,850,170,27,0,0,0,0,0,0,0,0,920,820,80,59,OBC
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,296,371,26,32,0,0,0,0,0,0,0,0,286,364,20,25,OBC
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,396,567,112,61,0,0,0,0,0,0,0,0,545,474,60,46,OBC
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,285,263,19,48,0,0,0,0,0,0,0,0,307,272,16,45,OBC
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,805,740,118,88,0,0,0,0,0,0,0,0,789,817,150,133,OBC
+2016-17,10,Bihar,1006,SUPAUL,100607,PRATAPGANJ,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,686,663,53,58,0,0,0,0,0,0,0,0,558,605,76,100,OBC
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,1223,1668,12,23,0,0,0,0,0,0,0,0,1451,1717,63,53,OBC
+2016-17,10,Bihar,1006,SUPAUL,100609,SARAIGARH BHAPTIAHI,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,258,533,119,62,0,0,0,0,0,0,0,0,225,418,59,34,OBC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,675,930,144,144,0,0,0,0,0,0,0,0,557,726,92,134,OBC
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,1447,1630,56,49,0,0,0,0,0,0,0,0,1610,1635,92,161,OBC
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,49,61,0,0,0,0,0,0,0,0,0,0,27,28,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,367,545,0,0,0,0,0,0,0,0,0,0,226,414,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,411,564,61,42,0,0,0,0,0,0,0,0,550,658,19,39,OBC
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,14,96,0,0,0,0,0,0,0,0,0,0,80,82,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,79,85,0,0,0,0,0,0,0,0,0,0,31,54,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,6,9,12,8,5,0,0,0,0,0,0,0,6,7,4,5,7,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,2,UPS (I-VIII),1,Department of Education,Rural,4,59,68,484,751,681,690,648,1028,886,1018,231,322,0,0,494,754,750,661,634,970,974,1055,322,340,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,874,1457,1181,1231,1044,1680,1731,1960,323,123,0,0,906,1512,1177,1154,945,1537,1682,1917,385,101,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,2,UPS (I-VIII),1,Department of Education,Rural,4,5,5,701,923,966,950,879,1336,1228,1119,290,231,0,0,708,855,944,832,790,1204,1105,983,236,278,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,777,889,987,1154,1042,1587,1505,1426,335,181,0,0,757,963,982,1244,1019,1437,1504,1401,339,132,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,314,428,334,407,459,608,655,631,102,0,0,0,256,423,328,465,410,660,687,509,76,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,718,980,993,1091,1019,1541,1631,1365,21,37,0,0,701,1013,977,1002,982,1422,1543,1337,46,53,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100607,PRATAPGANJ,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,470,749,610,652,517,668,690,874,58,17,0,0,481,638,607,610,514,709,746,912,34,22,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,726,1065,1094,1095,1119,1716,1491,1431,190,108,0,0,749,1069,1015,982,1030,1621,1579,1372,160,82,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100609,SARAIGARH BHAPTIAHI,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,677,833,763,865,755,1059,1125,1071,314,93,0,0,685,754,764,853,764,1079,1110,1036,308,86,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,2,UPS (I-VIII),1,Department of Education,Rural,4,160,118,1174,1574,1558,1504,1340,2034,1792,1775,459,264,0,0,1163,1605,1572,1424,1277,1817,1681,1627,490,281,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,1103,1575,1461,1648,1341,2313,2385,2520,309,301,0,0,1097,1610,1498,1600,1326,2082,2414,2664,407,312,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,35,69,85,80,79,108,108,140,0,0,0,0,37,76,76,94,87,99,73,136,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,38,50,70,81,91,126,164,128,0,0,0,0,45,77,76,93,60,137,171,162,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,169,292,273,302,301,312,336,310,0,0,0,0,191,326,286,293,310,362,317,356,7,33,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,116,79,49,56,40,33,38,29,13,13,0,0,0,0,23,16,22,20,14,13,5,1,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,156,49,98,74,63,84,47,23,19,19,0,0,0,0,29,31,20,18,16,12,5,8,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,177,65,96,84,64,64,64,38,39,27,0,0,0,0,22,39,28,11,15,13,5,14,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,116,76,61,61,73,43,63,48,40,40,0,0,0,0,33,17,14,16,11,13,16,19,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,144,57,57,38,36,24,21,21,15,9,0,0,0,0,29,25,29,18,18,9,7,6,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,241,142,95,115,125,111,99,71,75,57,0,0,0,0,67,87,104,64,68,38,48,30,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,20,25,69,18,20,16,19,5,5,10,0,0,0,0,35,9,20,16,8,3,12,10,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,17,7,10,13,11,12,8,12,3,4,0,0,0,0,3,7,3,2,5,4,1,1,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,123,67,53,54,40,55,38,36,42,26,0,0,0,0,16,28,26,20,24,28,21,29,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,2,UPS (I-VIII),8,Unrecognized,Rural,4,66,56,10,15,12,3,8,6,6,4,0,0,0,0,14,13,4,8,3,3,6,3,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,2,UPS (I-VIII),8,Unrecognized,Rural,4,171,85,53,39,33,24,22,18,17,16,0,0,0,0,24,9,5,7,6,7,4,1,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,2,UPS (I-VIII),8,Unrecognized,Rural,4,49,48,39,20,32,26,15,15,21,11,0,0,0,0,17,13,11,6,8,15,3,6,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,2,UPS (I-VIII),8,Unrecognized,Rural,4,12,8,19,20,38,30,25,30,4,5,0,0,0,0,9,12,9,16,10,13,3,4,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,2,UPS (I-VIII),8,Unrecognized,Rural,4,31,14,21,17,13,22,16,19,3,2,0,0,0,0,2,7,5,10,5,3,2,4,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,2,UPS (I-VIII),8,Unrecognized,Rural,4,0,0,13,34,35,18,14,14,14,6,0,0,0,0,14,15,10,16,23,10,17,5,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,2,UPS (I-VIII),8,Unrecognized,Urban,4,197,73,57,39,49,51,33,18,10,14,0,0,0,0,14,19,20,15,16,13,12,14,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,2,UPS (I-VIII),8,Unrecognized,Urban,4,58,24,25,20,24,18,7,8,5,0,0,0,0,0,10,10,6,2,3,1,0,0,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,12,14,238,144,123,94,79,77,60,61,0,0,0,0,278,163,165,140,123,125,70,68,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,10,11,11,8,8,5,13,5,0,0,0,0,11,9,7,4,5,10,3,10,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,104,91,88,59,64,75,66,63,0,0,0,0,101,97,79,94,85,79,71,68,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,79,69,82,62,52,43,47,40,0,0,0,0,85,92,69,79,72,67,68,62,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,50,35,34,30,25,20,24,15,0,0,0,0,62,61,43,32,32,29,25,34,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,23,31,30,17,25,21,22,28,0,0,0,0,35,34,31,35,22,24,25,29,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100607,PRATAPGANJ,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,7,14,13,13,11,6,7,5,0,0,0,0,6,7,4,5,2,1,1,0,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,63,68,42,87,41,58,52,45,0,0,0,0,96,98,100,108,91,89,102,73,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100609,SARAIGARH BHAPTIAHI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,204,95,80,75,64,71,49,61,0,0,0,0,188,151,126,82,87,55,53,49,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,22,15,16,6,8,3,6,37,0,0,0,0,30,22,24,13,12,7,4,30,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,20,15,15,8,25,5,20,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,21,17,12,19,14,8,7,12,0,0,0,0,15,5,7,6,8,10,3,11,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,16,14,16,27,35,26,18,21,0,0,0,0,19,13,33,32,36,36,25,22,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,4,0,0,22,19,16,3,3,12,10,1,0,0,0,0,17,6,2,14,22,15,15,28,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,4,0,0,19,19,15,15,13,18,19,27,0,0,0,0,22,17,19,13,14,8,18,24,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,4,0,0,4,3,8,3,6,6,14,4,0,0,0,0,6,5,16,8,6,11,7,8,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100607,PRATAPGANJ,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,76,115,140,15,25,0,0,0,0,0,0,0,74,102,124,12,33,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,52,51,46,0,0,0,0,0,0,0,0,0,38,43,47,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,35,25,37,0,0,0,0,0,0,0,0,0,46,27,45,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,127,160,158,0,0,0,0,0,0,0,0,0,93,144,150,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,26,28,40,0,0,0,0,0,0,0,0,0,19,38,23,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100607,PRATAPGANJ,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,47,48,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,75,83,72,0,0,0,0,0,0,0,0,0,120,102,120,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,121,114,101,0,0,0,0,0,0,0,0,0,87,95,103,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,4,UPS (VI-VIII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,100,88,144,0,0,0,0,0,0,0,0,0,27,20,26,0,0,0,0,OBC
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,10,13,15,7,10,18,7,4,4,11,10,1,4,8,6,12,2,0,4,0,3,2,4,4,1,0,General
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,26,28,40,21,10,13,8,17,9,5,4,7,16,18,37,20,5,1,3,0,5,5,0,9,General
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,125,203,39,41,0,0,0,0,0,0,0,0,0,0,15,19,General
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,10,HSS (IX-XII),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,7,12,0,1,0,0,0,0,0,0,0,0,7,5,0,1,General
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,5,HSS (VI-XII),7,Central Govt,Urban,1,0,0,0,0,0,0,0,3,4,5,5,4,1,5,0,0,0,0,0,7,6,5,11,2,3,7,General
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,70,75,0,0,0,0,0,0,0,0,0,0,90,85,General
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,11,HSS (XI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,38,22,26,9,0,0,0,0,0,0,0,0,39,31,13,8,General
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,11,HSS (XI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,145,44,General
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,1,PS (I-V),1,Department of Education,Rural,1,0,0,67,102,87,75,89,0,0,0,0,0,0,0,71,107,72,82,76,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,1,PS (I-V),1,Department of Education,Rural,1,0,0,183,309,200,237,180,0,0,0,0,0,0,0,188,284,226,217,194,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,1,PS (I-V),1,Department of Education,Rural,1,0,0,128,120,108,115,107,0,0,0,0,0,0,0,112,130,132,110,103,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,1,PS (I-V),1,Department of Education,Rural,1,0,0,54,61,73,58,57,0,0,0,0,0,0,0,53,76,80,64,60,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,1,PS (I-V),1,Department of Education,Rural,1,0,0,19,19,17,17,25,0,0,0,0,0,0,0,17,18,22,22,24,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,1,PS (I-V),1,Department of Education,Rural,1,0,0,58,76,69,80,84,0,0,0,0,0,0,0,81,107,111,97,123,1,0,3,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100607,PRATAPGANJ,1,PS (I-V),1,Department of Education,Rural,1,0,0,48,68,41,50,60,0,0,0,0,0,0,0,55,76,67,57,66,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,1,PS (I-V),1,Department of Education,Rural,1,0,2,188,215,201,165,166,0,0,0,0,0,0,0,166,182,163,174,167,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100609,SARAIGARH BHAPTIAHI,1,PS (I-V),1,Department of Education,Rural,1,0,0,27,44,52,68,45,0,0,0,0,0,0,0,38,41,54,58,54,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,1,PS (I-V),1,Department of Education,Rural,1,89,85,364,382,339,333,270,0,0,0,0,0,0,0,376,454,424,412,318,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,1,PS (I-V),1,Department of Education,Rural,1,7,13,152,175,141,133,158,1,3,1,0,0,0,0,168,181,157,158,136,2,2,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,1,PS (I-V),1,Department of Education,Urban,1,0,0,4,15,6,10,9,0,0,0,0,0,0,0,1,8,12,8,8,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,1,PS (I-V),1,Department of Education,Urban,1,0,0,59,72,55,50,67,0,0,0,0,0,0,0,86,79,74,62,56,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,45,43,10,12,11,4,4,0,0,0,0,0,0,0,10,7,4,1,8,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1,2,0,2,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,12,16,15,5,0,1,1,0,0,0,0,0,0,0,9,1,0,0,0,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,8,2,3,1,2,2,2,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,6,8,3,4,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,14,5,4,2,2,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,1,PS (I-V),8,Unrecognized,Rural,1,9,3,2,0,2,2,0,0,0,0,0,0,0,0,0,4,0,2,1,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,1,PS (I-V),8,Unrecognized,Rural,1,16,9,6,6,3,2,3,0,0,0,0,0,0,0,2,4,3,2,1,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,1,PS (I-V),8,Unrecognized,Rural,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100609,SARAIGARH BHAPTIAHI,1,PS (I-V),8,Unrecognized,Rural,1,0,0,18,24,16,11,10,0,0,0,0,0,0,0,12,6,5,1,2,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,1,PS (I-V),8,Unrecognized,Rural,1,35,33,18,11,5,7,0,0,0,0,0,0,0,0,5,4,6,4,0,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,1,PS (I-V),8,Unrecognized,Urban,1,0,0,2,0,1,2,2,0,0,0,0,0,0,0,0,1,2,2,0,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,1,PS (I-V),8,Unrecognized,Urban,1,24,26,1,0,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,6,SS (I-X),1,Department of Education,Rural,1,0,0,10,14,12,13,5,10,14,8,15,15,0,0,5,11,6,7,12,10,15,10,13,15,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,6,SS (I-X),1,Department of Education,Rural,1,0,0,1,1,3,1,0,0,4,1,4,0,0,0,1,1,2,7,0,2,7,7,1,2,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,6,SS (I-X),1,Department of Education,Rural,1,0,0,0,0,2,3,2,3,2,2,5,3,0,0,0,0,5,5,2,3,2,2,3,2,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,6,SS (I-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,1,2,2,5,8,0,0,0,0,2,0,1,0,3,5,0,7,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,6,SS (I-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,6,0,6,6,8,2,3,2,0,2,0,0,7,2,3,2,4,2,2,0,0,1,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,31,15,16,22,21,16,11,26,0,0,0,0,31,25,19,18,12,14,18,12,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,18,20,0,0,0,0,0,0,0,0,0,0,20,8,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,120,114,31,7,0,0,0,0,0,0,0,0,121,148,17,8,General
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,21,27,4,2,0,0,0,0,0,0,0,0,22,31,7,3,General
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,32,61,4,4,0,0,0,0,0,0,0,0,44,51,19,12,General
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,28,18,5,3,0,0,0,0,0,0,0,0,18,25,4,8,General
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,59,57,9,5,0,0,0,0,0,0,0,0,74,62,11,10,General
+2016-17,10,Bihar,1006,SUPAUL,100607,PRATAPGANJ,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,60,138,5,11,0,0,0,0,0,0,0,0,80,96,19,23,General
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,133,96,2,4,0,0,0,0,0,0,0,0,95,130,10,19,General
+2016-17,10,Bihar,1006,SUPAUL,100609,SARAIGARH BHAPTIAHI,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,11,14,7,4,0,0,0,0,0,0,0,0,7,10,1,2,General
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,111,117,21,11,0,0,0,0,0,0,0,0,88,136,21,13,General
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,94,71,1,2,0,0,0,0,0,0,0,0,81,81,4,9,General
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,1,2,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,19,18,0,0,0,0,0,0,0,0,0,0,13,24,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,63,51,3,3,0,0,0,0,0,0,0,0,176,185,0,1,General
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,6,7,0,0,0,0,0,0,0,0,0,0,5,4,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,10,10,10,5,5,0,0,0,0,0,0,0,7,6,4,3,3,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,2,UPS (I-VIII),1,Department of Education,Rural,1,182,164,123,175,177,146,171,196,160,177,49,54,0,0,79,157,147,141,170,196,192,220,64,60,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,210,285,312,254,281,318,312,302,65,55,0,0,225,288,252,292,253,284,337,375,112,72,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,2,UPS (I-VIII),1,Department of Education,Rural,1,1,1,46,74,104,83,103,162,107,107,11,11,0,0,50,79,71,86,91,124,117,139,7,15,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,106,125,94,110,89,100,88,78,14,1,0,0,75,91,109,110,103,95,112,79,7,7,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,6,9,8,11,9,7,12,14,67,0,0,0,3,7,7,8,9,13,14,16,58,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,48,76,65,79,68,125,140,126,0,2,0,0,46,87,64,69,66,149,164,164,1,2,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100607,PRATAPGANJ,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,73,114,112,119,111,85,138,103,1,1,0,0,62,100,107,98,111,113,111,122,7,3,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,104,138,113,156,160,177,183,164,31,16,0,0,99,151,152,137,132,180,188,167,37,20,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100609,SARAIGARH BHAPTIAHI,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,75,86,125,108,108,95,86,110,39,11,0,0,97,86,110,101,89,107,106,124,34,14,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,2,UPS (I-VIII),1,Department of Education,Rural,1,48,65,203,285,273,228,240,385,341,257,56,35,0,0,212,264,256,251,238,400,381,415,88,67,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,99,140,125,114,87,137,142,121,16,7,0,0,99,133,126,127,108,182,204,177,15,12,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,5,10,12,10,10,8,12,15,0,0,0,0,6,8,14,9,11,12,11,13,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,1,4,3,1,1,3,2,5,0,0,0,0,2,3,3,3,2,8,11,14,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,30,46,42,37,40,47,45,46,0,0,0,0,38,51,46,45,38,68,71,78,8,3,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,1,1,0,2,1,1,0,2,0,0,0,0,0,0,3,0,1,0,0,0,1,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,24,20,17,15,18,7,21,2,8,5,0,0,0,0,9,10,14,6,3,4,6,2,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,21,27,19,23,10,21,13,7,8,9,0,0,0,0,11,7,5,8,4,5,5,2,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,13,9,8,5,2,11,8,5,1,3,0,0,0,0,1,1,2,3,0,1,0,3,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,25,10,30,26,28,25,16,15,10,9,0,0,0,0,13,9,8,9,11,8,3,4,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,57,41,29,23,31,32,20,27,27,23,0,0,0,0,26,18,24,21,24,20,18,15,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,13,12,15,8,6,8,9,5,2,1,0,0,0,0,20,7,4,3,6,7,4,4,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,54,34,29,38,31,35,35,33,38,28,0,0,0,0,24,24,24,12,21,20,21,13,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,2,UPS (I-VIII),8,Unrecognized,Rural,1,40,20,20,9,11,2,4,5,0,3,0,0,0,0,4,4,5,5,1,3,2,2,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,2,UPS (I-VIII),8,Unrecognized,Rural,1,84,28,6,5,4,4,6,0,0,2,0,0,0,0,3,2,1,2,2,1,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,2,UPS (I-VIII),8,Unrecognized,Rural,1,8,5,2,3,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,2,UPS (I-VIII),8,Unrecognized,Rural,1,0,0,0,3,3,4,8,5,0,0,0,0,0,0,0,2,0,0,2,3,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,2,UPS (I-VIII),8,Unrecognized,Rural,1,74,47,20,28,15,17,10,10,5,7,0,0,0,0,10,9,10,6,5,9,5,2,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,2,UPS (I-VIII),8,Unrecognized,Rural,1,0,0,2,7,2,1,1,2,3,12,0,0,0,0,2,3,2,3,2,2,2,2,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,2,UPS (I-VIII),8,Unrecognized,Urban,1,10,6,0,2,3,3,3,1,1,1,0,0,0,0,2,3,2,0,4,0,2,2,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,2,UPS (I-VIII),8,Unrecognized,Urban,1,12,10,5,5,4,5,2,2,1,0,0,0,0,0,2,3,0,0,1,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,49,59,4,23,6,12,11,22,0,0,0,0,40,28,21,12,7,8,8,18,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,18,32,14,23,26,29,31,24,0,0,0,0,34,31,33,27,34,39,21,38,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,36,38,32,20,22,30,13,7,0,0,0,0,58,44,28,30,22,18,18,27,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,20,43,26,26,27,15,17,14,0,0,0,0,21,29,14,14,25,14,13,13,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100607,PRATAPGANJ,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,1,6,0,2,2,3,0,3,0,0,0,0,0,3,0,2,1,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,12,8,10,8,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100609,SARAIGARH BHAPTIAHI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,28,3,3,11,21,18,23,19,0,0,0,0,20,38,32,35,25,17,16,9,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,35,39,33,52,37,36,44,53,0,0,0,0,31,36,47,28,27,35,43,48,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,8,18,17,12,15,0,0,0,0,0,0,0,16,13,14,10,7,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,11,13,13,7,7,4,6,5,0,0,0,0,13,18,14,4,5,8,2,2,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,4,2,8,6,5,4,5,4,0,0,0,0,3,5,7,6,3,3,4,3,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,1,0,0,3,4,7,4,3,5,1,1,0,0,0,0,2,17,3,4,5,4,2,3,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100607,PRATAPGANJ,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,1,0,0,15,10,12,16,8,11,8,25,0,0,0,0,10,8,10,13,12,12,10,22,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,30,55,35,0,0,0,0,0,0,0,0,0,24,33,23,3,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,14,12,19,0,0,0,0,0,0,0,0,0,8,12,14,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100607,PRATAPGANJ,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,2,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,7,0,2,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,39,30,23,0,0,0,0,0,0,0,0,0,37,30,30,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,4,UPS (VI-VIII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,8,5,14,0,0,0,0,0,0,0,0,0,3,3,6,0,0,0,0,General
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,4,2,7,4,0,2,2,10,1,3,0,0,2,10,1,2,1,3,1,12,0,0,1,0,0,4,SC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,79,32,11,7,0,0,0,0,0,0,0,0,0,0,0,1,SC
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,10,HSS (IX-XII),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,27,10,1,1,0,0,0,0,0,0,0,0,14,3,0,1,SC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,5,HSS (VI-XII),7,Central Govt,Urban,2,0,0,0,0,0,0,0,33,33,32,30,33,15,9,0,0,0,0,0,19,20,19,10,20,9,9,SC
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,31,38,0,0,0,0,0,0,0,0,0,0,38,30,SC
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,11,HSS (XI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,56,61,19,8,0,0,0,0,0,0,0,0,26,29,1,3,SC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,11,HSS (XI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,23,SC
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,1,PS (I-V),1,Department of Education,Rural,2,0,0,298,320,295,282,289,0,0,0,0,0,0,0,228,331,341,266,263,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100602,CHHATAPUR,1,PS (I-V),1,Department of Education,Rural,2,0,0,520,640,618,527,543,0,0,0,0,0,0,0,503,604,519,531,495,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100603,KISHANPUR,1,PS (I-V),1,Department of Education,Rural,2,29,41,259,270,227,243,264,2,5,2,0,0,0,0,252,274,228,235,246,4,7,2,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100604,MARAUNA,1,PS (I-V),1,Department of Education,Rural,2,0,0,216,219,239,239,224,0,0,0,0,0,0,0,202,206,221,210,225,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,1,PS (I-V),1,Department of Education,Rural,2,0,0,176,198,212,173,216,0,0,0,0,0,0,0,143,189,176,193,194,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100606,PIPRA,1,PS (I-V),1,Department of Education,Rural,2,0,0,350,462,415,369,381,14,22,22,0,0,0,0,310,390,391,366,413,16,17,20,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100607,PRATAPGANJ,1,PS (I-V),1,Department of Education,Rural,2,0,0,144,234,174,138,166,0,0,0,0,0,0,0,156,222,195,181,206,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100608,RAGHOPUR,1,PS (I-V),1,Department of Education,Rural,2,0,12,498,624,541,522,546,0,0,0,0,0,0,0,454,585,529,444,471,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100609,SARAIGARH BHAPTIAHI,1,PS (I-V),1,Department of Education,Rural,2,0,0,191,210,189,221,179,1,2,0,0,0,0,0,209,218,231,222,177,1,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,1,PS (I-V),1,Department of Education,Rural,2,1,15,433,588,579,485,477,9,8,14,0,0,0,0,452,566,490,478,412,5,4,11,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100611,TRIBENIGANJ,1,PS (I-V),1,Department of Education,Rural,2,0,0,571,796,606,546,527,11,13,9,0,0,0,0,521,688,535,532,493,17,12,20,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100601,BASANTPUR,1,PS (I-V),1,Department of Education,Urban,2,0,0,9,13,4,11,6,0,0,0,0,0,0,0,11,9,14,9,4,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100605,NIRMALI,1,PS (I-V),1,Department of Education,Urban,2,0,0,14,18,15,12,19,0,0,0,0,0,0,0,14,19,13,15,24,0,0,0,0,0,0,0,SC
+2016-17,10,Bihar,1006,SUPAUL,100610,SUPAUL,1,PS (I-V),1,Department of Education,Urban,2,0,0,56,91,55,53,40,0,0,0,0,0,0,0,34,69,52,51,40,0,0,0,0,0,0,0,SC

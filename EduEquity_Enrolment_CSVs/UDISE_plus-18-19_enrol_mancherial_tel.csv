@@ -1,0 +1,777 @@
+ac_year,state_code,state_name,district_code,district_name,block_code,block_name,sch_category_id,category_name,sch_mgmt_id,sch_mgmt_name,loc_name,caste_id,pre_primary_boys,pre_primary_girls,class_1_boys,class_2_boys,class_3_boys,class_4_boys,class_5_boys,class_6_boys,class_7_boys,class_8_boys,class_9_boys,class_10_boys,class_11_boys,class_12_boys,class_1_girls,class_2_girls,class_3_girls,class_4_girls,class_5_girls,class_6_girls,class_7_girls,class_8_girls,class_9_girls,class_10_girls,class_11_girls,class_12_girls,caste_name
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,3,HSS (I-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,4,2,4,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,3,HSS (I-XII),90,Social welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,1,2,1,General
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,3,HSS (I-XII),90,Social welfare Department,Rural,1,0,0,0,0,0,0,4,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,3,HSS (I-XII),90,Social welfare Department,Rural,1,0,0,0,0,0,0,2,1,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,3,HSS (I-XII),90,Social welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,2,0,1,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,3,HSS (I-XII),90,Social welfare Department,Rural,1,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,3,HSS (I-XII),90,Social welfare Department,Urban,1,0,0,0,0,0,0,1,0,2,2,0,2,1,0,0,0,0,0,1,1,0,2,1,0,1,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,3,HSS (I-XII),90,Social welfare Department,Urban,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,1,2,3,0,1,0,0,0,0,0,0,0,1,0,1,2,1,1,2,General
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,4,3,7,5,3,1,1,0,0,0,0,0,3,0,2,6,4,4,2,General
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,1,1,2,1,1,1,1,General
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,7,3,5,3,0,1,0,0,0,0,0,0,1,1,0,0,0,2,1,General
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,2,General
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,5,4,0,0,0,0,0,0,0,0,0,0,1,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,2,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,5,2,0,0,0,0,0,0,0,0,0,0,4,4,General
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,11,HSS (XI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,1,2,General
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,11,HSS (XI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,5,2,0,0,0,0,0,0,0,0,0,0,2,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,11,HSS (XI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,5,2,0,0,0,0,0,0,0,0,0,0,1,3,General
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,2,4,General
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,12,4,0,0,0,0,0,0,0,0,0,0,10,15,General
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,General
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,12,General
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,13,6,0,0,0,0,0,0,0,0,0,0,3,5,General
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,16,7,0,0,0,0,0,0,0,0,0,0,12,5,General
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,11,13,0,0,0,0,0,0,0,0,0,0,3,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,85,74,0,0,0,0,0,0,0,0,0,0,83,83,General
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,1,PS (I-V),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,1,PS (I-V),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,1,PS (I-V),1,Department of Education,Urban,1,0,0,14,26,23,20,16,0,0,0,0,0,0,0,22,22,21,20,23,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,1,PS (I-V),3,Local body,Rural,1,0,0,5,2,0,4,1,0,0,0,0,0,0,0,6,1,0,2,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,1,PS (I-V),3,Local body,Rural,1,0,0,3,1,1,4,8,0,0,0,0,0,0,0,2,3,2,5,2,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,1,PS (I-V),3,Local body,Rural,1,2,1,7,6,0,2,0,0,0,0,0,0,0,0,12,14,16,8,4,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,1,PS (I-V),3,Local body,Rural,1,0,0,4,1,0,1,3,0,0,0,0,0,0,0,10,2,1,1,2,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,1,PS (I-V),3,Local body,Rural,1,0,0,3,1,4,1,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,1,PS (I-V),3,Local body,Rural,1,0,0,2,16,8,9,5,0,0,0,0,0,0,0,12,10,14,6,14,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360307,BHEEMINI,1,PS (I-V),3,Local body,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360308,KANNEPALLI,1,PS (I-V),3,Local body,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,2,1,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360309,VEMANPALLE,1,PS (I-V),3,Local body,Rural,1,0,0,0,1,2,2,2,0,0,0,0,0,0,0,0,1,4,3,2,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360310,NENNAL,1,PS (I-V),3,Local body,Rural,1,0,0,0,1,2,2,3,0,0,0,0,0,0,0,3,2,1,0,1,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,1,PS (I-V),3,Local body,Rural,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,1,PS (I-V),3,Local body,Rural,1,0,0,14,3,1,1,1,0,0,0,0,0,0,0,5,2,2,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,1,PS (I-V),3,Local body,Rural,1,0,0,3,3,11,4,7,0,0,0,0,0,0,0,7,5,8,8,7,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,1,PS (I-V),3,Local body,Rural,1,0,0,0,0,2,2,2,0,0,0,0,0,0,0,1,2,0,0,2,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360316,BHIMARAM,1,PS (I-V),3,Local body,Rural,1,0,0,1,2,1,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,1,PS (I-V),3,Local body,Rural,1,0,0,7,4,8,7,8,0,0,0,0,0,0,0,16,4,6,6,10,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,1,PS (I-V),3,Local body,Rural,1,0,0,5,3,2,0,0,0,0,0,0,0,0,0,4,5,8,3,1,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,1,PS (I-V),3,Local body,Urban,1,0,0,1,6,7,10,6,0,0,0,0,0,0,0,0,5,8,2,9,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,1,PS (I-V),3,Local body,Urban,1,0,0,5,2,8,1,3,0,0,0,0,0,0,0,6,0,5,4,4,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,1,PS (I-V),4,Government Aided,Rural,1,0,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,1,PS (I-V),4,Government Aided,Urban,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,5,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,1,PS (I-V),4,Government Aided,Urban,1,5,3,3,1,1,0,2,0,0,0,0,0,0,0,2,4,0,3,5,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,2,0,0,2,1,0,0,0,0,0,0,0,1,0,3,0,1,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,7,6,9,12,15,9,11,0,0,0,0,0,0,0,14,9,5,11,19,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,1,1,7,12,10,9,6,0,0,0,0,0,0,0,10,5,10,3,4,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360309,VEMANPALLE,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,1,1,1,2,1,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360310,NENNAL,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,3,0,1,2,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,7,1,3,4,1,0,0,0,0,0,0,0,2,4,0,1,2,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360316,BHIMARAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,13,5,11,11,1,0,0,0,0,0,0,0,7,4,10,8,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,1,PS (I-V),98,Madarsa unrecognized,Rural,1,0,0,6,16,2,7,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,1,PS (I-V),98,Madarsa unrecognized,Urban,1,0,0,0,2,6,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,6,SS (I-X),1,Department of Education,Rural,1,0,0,0,0,0,0,5,2,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,6,SS (I-X),1,Department of Education,Rural,1,0,0,0,0,0,0,16,8,15,5,0,0,0,0,0,0,0,0,3,2,4,1,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,6,SS (I-X),1,Department of Education,Urban,1,0,0,0,0,0,0,2,5,2,2,2,0,0,0,0,0,0,0,11,5,5,5,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,6,SS (I-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,27,18,14,20,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,6,SS (I-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,6,SS (I-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,6,SS (I-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,6,SS (I-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360309,VEMANPALLE,6,SS (I-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360310,NENNAL,6,SS (I-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360316,BHIMARAM,6,SS (I-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,6,SS (I-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,6,SS (I-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,6,SS (I-X),2,Tribal Welfare Department,Urban,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,6,SS (I-X),2,Tribal Welfare Department,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,6,SS (I-X),4,Government Aided,Rural,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,6,SS (I-X),4,Government Aided,Urban,1,0,0,3,3,0,0,0,0,0,0,0,4,0,0,2,3,0,0,0,0,0,0,0,1,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,30,23,27,23,16,19,10,11,9,16,0,0,29,23,19,15,12,11,16,13,5,16,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,5,5,4,6,8,11,10,10,9,5,9,11,0,0,6,5,2,3,8,6,4,9,6,8,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,49,39,37,20,30,38,29,14,11,21,14,7,0,0,25,16,15,19,22,13,22,17,11,19,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,5,6,3,8,5,7,8,5,7,8,0,0,5,4,7,4,1,4,2,0,1,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,1,2,6,3,5,2,3,6,6,3,9,8,0,0,1,6,5,4,3,1,4,8,5,9,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,69,61,13,12,11,10,15,7,13,6,22,7,0,0,9,13,9,7,7,8,7,4,6,3,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,20,22,25,25,19,21,16,17,12,15,0,0,14,23,11,16,21,14,24,11,16,12,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,1,1,0,0,1,0,1,1,0,1,0,0,0,2,0,0,2,2,2,6,2,1,1,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,24,22,38,31,26,28,21,22,17,19,0,0,18,20,27,34,29,31,23,29,19,29,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,4,6,24,37,21,32,13,30,19,22,25,21,0,0,14,24,25,25,19,23,17,14,21,34,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,27,28,19,6,9,16,8,5,6,11,10,8,0,0,15,13,15,7,13,13,9,5,8,13,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,0,2,99,99,117,140,128,116,156,121,106,140,0,0,72,80,116,131,126,102,127,120,117,100,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,6,SS (I-X),92,Kendriya Vidyalaya / Central School,Urban,1,0,0,0,0,2,0,2,0,0,0,0,0,0,0,1,2,4,4,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,1,1,4,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360307,BHEEMINI,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360308,KANNEPALLI,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360309,VEMANPALLE,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360310,NENNAL,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,1,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360316,BHIMARAM,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,2,2,7,3,1,0,0,0,0,0,0,0,2,0,2,1,1,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,7,SS (VI-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,7,SS (VI-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,13,17,31,3,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,7,SS (VI-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,10,1,10,11,4,0,0,0,0,0,0,0,2,4,1,1,6,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,8,5,11,11,10,0,0,0,0,0,0,0,3,9,6,4,4,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,0,7,3,8,5,0,0,0,0,0,0,0,2,1,3,3,4,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,1,4,2,0,0,0,0,0,0,0,0,0,9,10,13,12,11,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,2,2,2,0,1,0,0,0,0,0,0,0,2,1,1,2,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,1,2,1,2,4,0,0,0,0,0,0,0,1,1,2,5,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,11,11,10,9,5,0,0,0,0,0,0,0,9,6,4,11,14,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360307,BHEEMINI,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360308,KANNEPALLI,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,2,2,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360309,VEMANPALLE,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,4,0,3,2,1,0,0,0,0,0,0,0,2,5,1,1,4,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360310,NENNAL,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,1,4,3,8,8,0,0,0,0,0,0,0,3,3,2,2,5,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,2,0,4,1,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,10,9,11,5,2,0,0,0,0,0,0,0,6,9,2,5,4,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,1,0,2,2,2,0,0,0,0,0,0,0,0,1,0,0,1,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360316,BHIMARAM,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,2,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,5,4,8,7,3,0,0,0,0,0,0,0,9,18,10,16,21,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,7,SS (VI-X),3,Local body,Rural,1,0,0,0,0,0,0,0,2,4,2,5,0,0,0,0,0,0,0,0,1,7,5,2,3,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,7,SS (VI-X),3,Local body,Urban,1,0,0,0,0,0,0,0,5,6,9,6,4,0,0,0,0,0,0,0,5,2,6,8,5,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,7,SS (VI-X),3,Local body,Urban,1,0,0,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,7,SS (VI-X),3,Local body,Urban,1,0,0,0,0,0,0,0,9,12,14,26,20,0,0,0,0,0,0,0,8,15,14,15,13,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,10,13,8,11,8,0,0,0,0,0,0,0,10,14,10,10,2,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,7,SS (VI-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,0,6,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,7,SS (VI-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,3,4,7,5,5,0,0,0,0,0,0,0,5,9,2,1,3,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,7,SS (VI-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,7,SS (VI-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,1,1,4,0,1,0,0,0,0,0,0,0,3,0,2,0,1,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,2,3,3,4,3,0,0,0,0,0,0,0,3,5,1,7,5,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360308,KANNEPALLI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,5,1,4,0,0,0,0,0,0,0,0,0,1,0,4,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,1,1,1,2,2,0,0,0,0,0,0,0,3,5,1,3,2,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,14,16,13,19,32,0,0,0,0,0,0,0,6,10,39,52,44,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,0,2,2,4,1,12,6,5,0,0,0,0,5,2,8,4,6,2,8,9,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,2,UPS (I-VIII),3,Local body,Rural,1,0,0,0,5,0,0,0,3,0,0,0,0,0,0,1,5,3,4,2,3,5,3,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,2,UPS (I-VIII),3,Local body,Rural,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,2,UPS (I-VIII),3,Local body,Rural,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,2,UPS (I-VIII),3,Local body,Rural,1,0,0,1,0,0,1,1,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,2,UPS (I-VIII),3,Local body,Rural,1,0,0,0,0,0,2,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,2,UPS (I-VIII),3,Local body,Rural,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360307,BHEEMINI,2,UPS (I-VIII),3,Local body,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360308,KANNEPALLI,2,UPS (I-VIII),3,Local body,Rural,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360309,VEMANPALLE,2,UPS (I-VIII),3,Local body,Rural,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360310,NENNAL,2,UPS (I-VIII),3,Local body,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,2,UPS (I-VIII),3,Local body,Rural,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,2,UPS (I-VIII),3,Local body,Rural,1,0,0,3,0,0,2,2,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,2,UPS (I-VIII),3,Local body,Rural,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,2,UPS (I-VIII),3,Local body,Rural,1,0,0,2,0,2,0,1,3,0,0,0,0,0,0,3,3,5,2,3,2,3,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360316,BHIMARAM,2,UPS (I-VIII),3,Local body,Rural,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,2,UPS (I-VIII),3,Local body,Rural,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6,0,0,0,0,1,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,2,UPS (I-VIII),3,Local body,Rural,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,2,UPS (I-VIII),3,Local body,Urban,1,0,0,0,0,4,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,2,UPS (I-VIII),3,Local body,Urban,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,2,UPS (I-VIII),4,Government Aided,Urban,1,0,0,3,2,2,2,3,2,1,0,0,0,0,0,8,8,19,15,17,27,19,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,1,0,4,1,4,1,2,0,0,0,0,0,0,1,1,1,3,2,1,1,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,7,7,4,2,1,2,1,1,0,0,0,0,0,0,2,0,1,3,0,0,1,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,1,0,1,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360307,BHEEMINI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360308,KANNEPALLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,1,0,2,2,3,1,0,0,0,0,0,0,0,0,2,3,6,0,1,2,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360309,VEMANPALLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,2,3,2,2,0,1,0,0,0,0,0,0,0,0,1,2,2,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360310,NENNAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,1,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,6,9,3,4,3,5,2,0,0,0,0,0,6,3,6,4,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,2,1,1,0,1,0,0,0,0,0,0,2,1,2,4,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,4,9,6,15,9,10,5,1,0,0,0,0,0,0,15,17,17,8,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,1,2,1,0,0,0,0,0,0,0,0,0,0,1,0,3,1,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,2,1,7,7,7,14,0,0,0,0,0,0,0,0,5,9,9,2,2,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,12,9,2,1,3,4,2,1,4,0,0,0,0,0,5,3,3,4,3,1,2,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,7,0,53,50,28,29,18,12,13,0,0,0,0,0,38,42,22,25,17,9,11,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,2,UPS (I-VIII),8,Unrecognized,Rural,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360316,BHIMARAM,2,UPS (I-VIII),8,Unrecognized,Rural,1,0,0,1,2,1,1,0,0,0,0,0,0,0,0,3,2,1,1,0,0,0,0,0,0,0,0,General
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,3,HSS (I-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,8,14,7,5,5,2,18,8,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,3,HSS (I-XII),90,Social welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64,68,74,72,73,70,59,65,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,3,HSS (I-XII),90,Social welfare Department,Rural,2,0,0,0,0,0,0,62,62,65,32,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,3,HSS (I-XII),90,Social welfare Department,Rural,2,0,0,0,0,0,0,55,61,70,70,67,56,50,52,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,3,HSS (I-XII),90,Social welfare Department,Rural,2,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,124,133,130,103,107,63,66,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,3,HSS (I-XII),90,Social welfare Department,Rural,2,0,0,0,0,0,0,57,63,64,33,30,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,3,HSS (I-XII),90,Social welfare Department,Urban,2,0,0,0,0,0,0,51,49,68,68,73,59,50,0,0,0,0,0,41,59,66,70,70,70,59,65,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,3,HSS (I-XII),90,Social welfare Department,Urban,2,0,0,0,0,0,0,63,63,65,32,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,13,15,7,8,5,14,16,0,0,0,0,0,14,10,15,9,8,12,12,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,14,14,11,11,4,0,0,0,0,0,0,0,7,14,7,7,11,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,9,19,19,21,46,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,13,22,9,8,5,6,2,0,0,0,0,0,1,4,3,5,7,15,15,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,12,13,7,16,11,3,11,0,0,0,0,0,16,16,19,16,21,30,39,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,6,6,7,14,6,5,2,0,0,0,0,0,21,22,33,43,19,44,39,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,29,40,0,0,0,0,0,0,0,0,0,0,29,29,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,45,16,0,0,0,0,0,0,0,0,0,0,25,18,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,62,69,0,0,0,0,0,0,0,0,0,0,42,48,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,22,31,0,0,0,0,0,0,0,0,0,0,25,42,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,26,15,0,0,0,0,0,0,0,0,0,0,17,13,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,42,38,0,0,0,0,0,0,0,0,0,0,31,26,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,11,HSS (XI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,83,71,0,0,0,0,0,0,0,0,0,0,174,157,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,11,HSS (XI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,68,62,0,0,0,0,0,0,0,0,0,0,28,32,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,11,HSS (XI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,141,73,0,0,0,0,0,0,0,0,0,0,49,31,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,24,29,0,0,0,0,0,0,0,0,0,0,24,32,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,1,8,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,33,36,0,0,0,0,0,0,0,0,0,0,87,70,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,25,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,58,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,19,55,0,0,0,0,0,0,0,0,0,0,10,15,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,74,62,0,0,0,0,0,0,0,0,0,0,56,61,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,27,28,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,314,376,0,0,0,0,0,0,0,0,0,0,340,372,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,1,PS (I-V),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,1,PS (I-V),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,1,PS (I-V),1,Department of Education,Urban,2,0,0,33,34,41,32,36,0,0,0,0,0,0,0,26,31,41,34,22,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,4,0,0,1,1,0,0,0,0,0,0,0,0,1,2,2,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,1,PS (I-V),3,Local body,Rural,2,0,0,46,51,61,47,64,0,0,0,0,0,0,0,44,45,45,45,37,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,1,PS (I-V),3,Local body,Rural,2,0,0,34,34,20,38,21,0,0,0,0,0,0,0,32,34,28,41,24,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,1,PS (I-V),3,Local body,Rural,2,5,2,37,17,17,27,20,0,0,0,0,0,0,0,41,31,20,21,25,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,1,PS (I-V),3,Local body,Rural,2,0,0,19,40,18,18,30,0,0,0,0,0,0,0,23,25,20,25,18,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,1,PS (I-V),3,Local body,Rural,2,0,0,23,11,17,20,14,0,0,0,0,0,0,0,15,7,12,19,19,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,1,PS (I-V),3,Local body,Rural,2,0,0,16,17,16,20,18,0,0,0,0,0,0,0,21,15,19,17,25,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360307,BHEEMINI,1,PS (I-V),3,Local body,Rural,2,0,0,16,15,19,18,18,0,0,0,0,0,0,0,21,15,28,14,18,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360308,KANNEPALLI,1,PS (I-V),3,Local body,Rural,2,0,0,41,28,30,14,25,0,0,0,0,0,0,0,25,32,23,22,15,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360309,VEMANPALLE,1,PS (I-V),3,Local body,Rural,2,0,0,16,16,21,16,10,0,0,0,0,0,0,0,21,7,14,14,9,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360310,NENNAL,1,PS (I-V),3,Local body,Rural,2,0,0,20,16,36,34,18,0,0,0,0,0,0,0,22,26,29,27,15,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,1,PS (I-V),3,Local body,Rural,2,0,0,22,19,15,22,6,0,0,0,0,0,0,0,15,17,14,16,9,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,1,PS (I-V),3,Local body,Rural,2,0,0,20,14,13,16,21,0,0,0,0,0,0,0,21,13,27,19,14,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,1,PS (I-V),3,Local body,Rural,2,0,0,17,25,24,27,20,0,0,0,0,0,0,0,24,22,27,13,18,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,1,PS (I-V),3,Local body,Rural,2,0,0,27,29,24,34,26,0,0,0,0,0,0,0,26,29,32,31,22,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360316,BHIMARAM,1,PS (I-V),3,Local body,Rural,2,0,0,8,19,15,19,19,0,0,0,0,0,0,0,20,7,21,17,15,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,1,PS (I-V),3,Local body,Rural,2,0,0,75,98,79,79,78,0,0,0,0,0,0,0,68,72,88,78,62,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,1,PS (I-V),3,Local body,Rural,2,0,0,59,56,63,56,42,0,0,0,0,0,0,0,71,60,66,63,37,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,1,PS (I-V),3,Local body,Urban,2,0,0,13,15,22,17,16,0,0,0,0,0,0,0,14,18,14,12,14,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,1,PS (I-V),3,Local body,Urban,2,0,0,15,14,18,6,17,0,0,0,0,0,0,0,16,15,16,17,6,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,1,PS (I-V),4,Government Aided,Rural,2,0,0,4,7,5,7,9,0,0,0,0,0,0,0,9,4,12,10,10,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,1,PS (I-V),4,Government Aided,Urban,2,0,0,2,1,1,3,2,0,0,0,0,0,0,0,3,2,1,8,4,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,1,PS (I-V),4,Government Aided,Urban,2,9,11,21,21,19,27,29,0,0,0,0,0,0,0,15,23,21,23,26,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,5,2,5,1,1,0,0,0,0,0,0,0,4,2,4,3,1,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,4,2,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,4,4,12,9,7,12,12,0,0,0,0,0,0,0,8,7,17,9,15,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,2,7,13,18,18,18,8,0,0,0,0,0,0,0,13,16,12,15,11,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360309,VEMANPALLE,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,3,4,3,2,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360310,NENNAL,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,2,4,4,4,1,0,0,0,0,0,0,0,0,0,5,4,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,6,7,5,6,6,0,0,0,0,0,0,0,6,7,5,5,3,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360316,BHIMARAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,4,1,4,7,4,3,0,0,0,0,0,0,0,0,11,6,0,2,2,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,2,3,4,2,1,0,0,0,0,0,0,0,6,3,3,3,1,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,1,PS (I-V),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,1,PS (I-V),98,Madarsa unrecognized,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,6,SS (I-X),1,Department of Education,Rural,2,0,0,0,0,0,0,15,6,10,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,6,SS (I-X),1,Department of Education,Rural,2,0,0,0,0,0,0,2,5,11,2,0,0,0,0,0,0,0,0,7,10,6,6,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,6,SS (I-X),1,Department of Education,Urban,2,0,0,0,0,0,0,15,17,8,12,14,19,0,0,0,0,0,0,11,8,5,11,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,6,SS (I-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,7,5,4,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,6,SS (I-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,2,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,6,SS (I-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,0,3,2,2,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,6,SS (I-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,1,0,4,2,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,6,SS (I-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,2,6,7,4,13,14,0,0,0,0,0,0,0,0,1,1,1,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360309,VEMANPALLE,6,SS (I-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,4,9,4,9,10,2,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360310,NENNAL,6,SS (I-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,1,1,2,1,1,4,1,0,0,0,0,0,2,1,5,2,2,3,6,1,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360316,BHIMARAM,6,SS (I-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,2,3,2,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,6,SS (I-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,1,1,0,1,6,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,6,SS (I-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,6,3,9,5,2,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,6,SS (I-X),2,Tribal Welfare Department,Urban,2,0,0,0,0,0,1,1,1,1,3,7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,6,SS (I-X),2,Tribal Welfare Department,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,3,3,5,5,6,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,6,SS (I-X),4,Government Aided,Rural,2,0,0,0,0,1,5,3,5,2,1,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,6,SS (I-X),4,Government Aided,Urban,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,0,0,0,0,2,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,1,2,50,38,29,36,40,17,13,9,14,15,0,0,27,27,21,29,17,11,10,13,9,6,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,9,2,21,15,17,10,12,3,5,6,2,8,0,0,16,13,10,13,9,4,4,8,3,4,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,12,16,28,22,27,28,18,16,11,15,17,21,0,0,29,12,10,14,6,9,9,5,7,4,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,8,10,21,19,12,17,5,8,7,8,0,0,12,12,12,14,5,1,5,5,1,1,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,6,1,5,7,3,3,12,12,8,6,5,18,0,0,3,4,3,8,2,3,3,2,4,5,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,41,46,50,60,56,55,58,48,45,45,38,43,0,0,59,50,47,34,40,44,30,34,35,37,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,62,90,81,56,59,46,58,39,55,50,0,0,67,71,65,67,59,33,38,36,40,38,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,3,6,1,3,2,3,3,3,0,3,7,0,0,0,1,0,4,1,1,3,0,2,2,2,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,41,39,42,36,20,16,11,13,19,32,0,0,18,36,26,24,7,6,3,10,5,13,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,3,5,56,92,83,64,51,42,49,54,54,59,0,0,66,58,65,60,47,61,43,46,44,46,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,30,29,52,31,43,31,32,36,26,42,36,38,0,0,45,35,26,32,38,26,23,24,21,31,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,0,0,102,81,101,83,80,85,69,84,76,104,0,0,84,73,68,83,62,67,78,54,59,56,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,6,SS (I-X),92,Kendriya Vidyalaya / Central School,Urban,2,0,0,1,2,7,3,6,0,0,0,0,0,0,0,3,4,1,3,4,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,11,20,20,17,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,7,8,11,9,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,10,7,20,9,16,0,0,0,0,0,0,0,16,26,25,31,29,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,10,7,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,16,19,19,16,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360307,BHEEMINI,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,17,14,28,17,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360308,KANNEPALLI,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,15,9,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360309,VEMANPALLE,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,17,16,16,16,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360310,NENNAL,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,10,38,33,32,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,17,12,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,15,13,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360316,BHIMARAM,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,17,28,29,26,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,15,15,19,24,2,0,0,0,0,0,0,0,18,32,42,44,37,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,30,29,37,26,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,7,SS (VI-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,1,1,4,1,0,0,0,0,0,0,0,14,27,36,33,43,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,7,SS (VI-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,7,SS (VI-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,30,37,33,42,36,0,0,0,0,0,0,0,13,9,11,7,26,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,55,64,81,83,95,0,0,0,0,0,0,0,37,44,55,71,71,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,46,50,61,96,87,0,0,0,0,0,0,0,13,29,30,67,52,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,14,18,26,17,18,0,0,0,0,0,0,0,28,32,60,62,70,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,32,38,43,44,35,0,0,0,0,0,0,0,28,34,27,31,35,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,7,20,19,22,19,0,0,0,0,0,0,0,11,16,22,21,22,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,16,34,43,51,59,0,0,0,0,0,0,0,15,20,30,25,28,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360307,BHEEMINI,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,8,10,17,27,20,0,0,0,0,0,0,0,6,8,16,21,20,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360308,KANNEPALLI,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,8,9,17,20,14,0,0,0,0,0,0,0,3,5,14,11,10,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360309,VEMANPALLE,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,6,9,10,10,11,0,0,0,0,0,0,0,7,5,8,6,2,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360310,NENNAL,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,33,48,50,72,64,0,0,0,0,0,0,0,12,17,18,30,34,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,8,5,20,12,8,0,0,0,0,0,0,0,7,9,11,7,18,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,8,10,15,17,30,0,0,0,0,0,0,0,8,10,12,17,18,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,24,29,30,32,23,0,0,0,0,0,0,0,14,14,33,31,24,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,28,43,65,112,86,0,0,0,0,0,0,0,27,32,43,38,66,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360316,BHIMARAM,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,22,38,43,49,47,0,0,0,0,0,0,0,8,5,10,18,8,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,40,63,57,60,43,0,0,0,0,0,0,0,32,31,35,49,53,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,7,SS (VI-X),3,Local body,Rural,2,0,0,0,0,0,0,0,25,41,56,49,50,0,0,0,0,0,0,0,21,26,32,23,30,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,7,SS (VI-X),3,Local body,Urban,2,0,0,0,0,0,0,0,40,48,44,42,51,0,0,0,0,0,0,0,16,35,33,36,46,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,7,SS (VI-X),3,Local body,Urban,2,0,0,0,0,0,0,0,10,10,13,8,8,0,0,0,0,0,0,0,8,13,7,14,9,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,7,SS (VI-X),3,Local body,Urban,2,0,0,0,0,0,0,0,20,12,18,26,37,0,0,0,0,0,0,0,36,19,37,38,37,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,4,10,15,17,10,0,0,0,0,0,0,0,10,12,8,11,5,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,7,SS (VI-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,4,6,5,11,6,0,0,0,0,0,0,0,0,0,0,2,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,7,SS (VI-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,20,24,38,40,22,0,0,0,0,0,0,0,22,24,35,31,39,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,7,SS (VI-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,7,SS (VI-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,7,6,17,6,5,0,0,0,0,0,0,0,9,8,12,12,7,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,9,7,9,5,6,0,0,0,0,0,0,0,6,5,4,4,4,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360308,KANNEPALLI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,1,2,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,2,4,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,4,4,6,3,4,0,0,0,0,0,0,0,2,0,2,3,4,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,0,3,0,3,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,3,13,15,15,20,0,0,0,0,0,0,0,5,7,5,10,8,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,0,0,3,3,1,7,5,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,2,UPS (I-VIII),3,Local body,Rural,2,0,0,10,8,7,7,16,11,6,1,0,0,0,0,15,17,14,13,6,7,9,4,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,2,UPS (I-VIII),3,Local body,Rural,2,0,0,10,14,10,11,12,15,4,5,0,0,0,0,5,11,9,4,11,7,8,4,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,2,UPS (I-VIII),3,Local body,Rural,2,0,0,2,4,6,12,8,6,12,7,0,0,0,0,11,10,8,8,8,5,9,3,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,2,UPS (I-VIII),3,Local body,Rural,2,0,0,2,4,12,6,2,10,4,0,0,0,0,0,10,10,3,8,5,6,4,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,2,UPS (I-VIII),3,Local body,Rural,2,0,0,4,9,4,3,2,0,0,0,0,0,0,0,4,6,5,0,3,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,2,UPS (I-VIII),3,Local body,Rural,2,0,0,1,9,2,1,3,3,5,0,0,0,0,0,3,7,3,4,4,7,2,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360307,BHEEMINI,2,UPS (I-VIII),3,Local body,Rural,2,0,0,10,6,4,6,5,1,2,0,0,0,0,0,7,5,5,5,2,0,2,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360308,KANNEPALLI,2,UPS (I-VIII),3,Local body,Rural,2,0,0,0,1,2,1,1,4,4,2,0,0,0,0,1,3,1,0,0,0,5,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360309,VEMANPALLE,2,UPS (I-VIII),3,Local body,Rural,2,0,0,8,13,9,16,8,2,5,0,0,0,0,0,3,14,7,11,6,2,3,2,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360310,NENNAL,2,UPS (I-VIII),3,Local body,Rural,2,0,0,7,4,6,8,4,4,8,3,0,0,0,0,7,8,5,8,7,2,5,3,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,2,UPS (I-VIII),3,Local body,Rural,2,0,0,10,4,9,10,8,3,8,0,0,0,0,0,9,10,12,8,5,6,5,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,2,UPS (I-VIII),3,Local body,Rural,2,0,0,8,11,8,12,6,9,13,2,0,0,0,0,9,11,7,9,6,11,7,3,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,2,UPS (I-VIII),3,Local body,Rural,2,0,0,2,2,3,3,2,6,5,0,0,0,0,0,1,3,3,4,2,3,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,2,UPS (I-VIII),3,Local body,Rural,2,0,0,16,17,19,17,17,27,18,7,0,0,0,0,23,25,21,18,17,15,14,7,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360316,BHIMARAM,2,UPS (I-VIII),3,Local body,Rural,2,0,0,6,4,6,10,9,6,14,1,0,0,0,0,3,10,7,8,5,4,9,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,2,UPS (I-VIII),3,Local body,Rural,2,0,0,12,11,16,15,13,16,8,0,0,0,0,0,13,14,14,9,9,8,5,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,2,UPS (I-VIII),3,Local body,Rural,2,0,0,14,10,25,17,10,12,14,0,0,0,0,0,11,17,21,8,16,8,10,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,2,UPS (I-VIII),3,Local body,Urban,2,0,0,3,0,1,1,1,1,3,0,0,0,0,0,1,1,1,3,6,6,2,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,2,UPS (I-VIII),3,Local body,Urban,2,0,0,3,2,2,0,1,0,1,0,0,0,0,0,3,2,2,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,2,UPS (I-VIII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,6,5,6,3,1,0,0,0,0,0,0,0,3,4,4,5,1,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,2,0,12,12,9,5,3,0,0,0,0,0,0,0,15,10,11,4,2,0,2,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,3,8,1,5,5,5,4,3,1,0,0,0,0,0,7,7,3,2,0,1,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,2,3,1,6,1,1,0,0,0,0,0,0,6,6,1,7,2,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,14,13,8,5,7,0,0,0,0,0,0,0,8,10,2,5,4,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,1,1,4,0,2,1,0,0,0,0,0,0,0,1,4,1,1,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360307,BHEEMINI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,4,2,2,5,3,3,1,0,1,0,0,0,0,0,2,5,5,0,1,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360308,KANNEPALLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,8,1,11,6,7,12,3,3,0,0,0,0,0,0,4,7,4,5,2,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360309,VEMANPALLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,1,3,3,3,1,2,0,0,0,0,0,0,0,4,1,3,1,1,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360310,NENNAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,1,1,0,5,1,0,0,0,0,0,0,0,3,3,2,2,2,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,2,3,3,1,4,0,0,0,0,0,0,0,3,4,1,1,1,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,2,1,5,6,4,6,0,1,2,0,0,0,0,0,14,7,1,2,3,3,2,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,19,31,23,22,10,5,4,0,0,0,0,0,25,20,29,20,11,7,1,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,3,3,3,5,1,1,0,0,0,0,0,0,6,2,4,2,1,1,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,1,4,23,16,14,5,0,2,1,0,0,0,0,0,15,7,15,4,1,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,4,0,1,0,2,2,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,0,34,29,25,12,10,6,7,0,0,0,0,0,36,30,25,13,7,16,1,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,16,9,6,17,10,12,10,2,9,0,0,0,0,0,15,17,12,6,6,6,7,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,0,30,29,21,18,16,17,7,0,0,0,0,0,27,26,16,20,16,14,3,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,2,UPS (I-VIII),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360316,BHIMARAM,2,UPS (I-VIII),8,Unrecognized,Rural,2,0,0,2,7,8,2,1,0,0,0,0,0,0,0,2,3,1,1,3,0,0,0,0,0,0,0,SC
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,3,HSS (I-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,4,2,5,5,3,0,5,3,0,0,0,0,0,0,1,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,3,HSS (I-XII),90,Social welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,3,4,4,2,3,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,3,HSS (I-XII),90,Social welfare Department,Rural,3,0,0,0,0,0,0,5,5,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,3,HSS (I-XII),90,Social welfare Department,Rural,3,0,0,0,0,0,0,6,4,2,5,5,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,3,HSS (I-XII),90,Social welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,8,8,6,3,2,4,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,3,HSS (I-XII),90,Social welfare Department,Rural,3,0,0,0,0,0,0,5,5,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,3,HSS (I-XII),90,Social welfare Department,Urban,3,0,0,0,0,0,0,4,2,4,3,2,1,4,0,0,0,0,0,1,4,4,6,4,3,3,2,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,3,HSS (I-XII),90,Social welfare Department,Urban,3,0,0,0,0,0,0,5,5,5,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,2,7,3,2,6,4,5,0,0,0,0,0,3,2,5,5,6,2,4,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,5,8,21,4,11,0,0,0,0,0,0,0,7,6,8,5,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,6,11,12,2,13,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,4,5,2,8,3,0,0,0,0,0,0,0,8,4,3,1,2,4,1,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,3,1,4,3,2,0,0,0,0,0,0,0,3,5,2,3,3,9,11,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,1,3,1,2,1,0,1,0,0,0,0,0,1,3,6,13,15,12,2,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,4,10,0,0,0,0,0,0,0,0,0,0,9,10,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,11,6,0,0,0,0,0,0,0,0,0,0,6,9,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,2,5,0,0,0,0,0,0,0,0,0,0,21,12,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,24,29,0,0,0,0,0,0,0,0,0,0,19,14,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,9,11,0,0,0,0,0,0,0,0,0,0,9,12,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,10,2,0,0,0,0,0,0,0,0,0,0,10,3,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,11,HSS (XI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,40,26,0,0,0,0,0,0,0,0,0,0,49,45,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,11,HSS (XI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,29,12,0,0,0,0,0,0,0,0,0,0,11,4,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,11,HSS (XI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,78,83,0,0,0,0,0,0,0,0,0,0,51,35,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,11,10,0,0,0,0,0,0,0,0,0,0,4,18,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,1,4,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,0,6,3,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,16,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,9,13,0,0,0,0,0,0,0,0,0,0,2,9,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,18,17,0,0,0,0,0,0,0,0,0,0,6,16,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,5,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,73,80,0,0,0,0,0,0,0,0,0,0,75,82,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,1,PS (I-V),1,Department of Education,Rural,3,0,0,1,0,2,1,1,0,0,0,0,0,0,0,8,8,1,2,3,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,1,PS (I-V),1,Department of Education,Rural,3,0,0,2,1,1,0,1,0,0,0,0,0,0,0,0,4,4,1,2,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,1,PS (I-V),1,Department of Education,Urban,3,0,0,6,13,11,4,8,0,0,0,0,0,0,0,14,10,7,11,9,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,28,19,19,9,7,0,0,0,0,0,0,0,29,27,18,12,1,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,10,20,19,26,5,0,0,0,0,0,0,0,7,17,7,16,10,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,55,47,25,17,6,0,0,0,0,0,0,0,42,47,22,30,7,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,1,PS (I-V),3,Local body,Rural,3,0,0,30,35,30,34,26,0,0,0,0,0,0,0,42,30,38,35,25,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,1,PS (I-V),3,Local body,Rural,3,0,0,13,29,23,15,28,0,0,0,0,0,0,0,3,19,18,12,14,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,1,PS (I-V),3,Local body,Rural,3,0,4,14,9,7,13,7,0,0,0,0,0,0,0,10,5,7,7,9,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,1,PS (I-V),3,Local body,Rural,3,0,0,15,19,27,21,19,0,0,0,0,0,0,0,16,16,21,24,17,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,1,PS (I-V),3,Local body,Rural,3,1,0,26,25,33,26,22,0,0,0,0,0,0,0,29,22,27,24,19,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,1,PS (I-V),3,Local body,Rural,3,0,0,16,12,31,26,20,0,0,0,0,0,0,0,20,24,21,25,15,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360307,BHEEMINI,1,PS (I-V),3,Local body,Rural,3,0,0,12,4,7,7,7,0,0,0,0,0,0,0,14,10,2,13,6,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360308,KANNEPALLI,1,PS (I-V),3,Local body,Rural,3,0,0,36,23,30,24,19,0,0,0,0,0,0,0,31,20,23,34,18,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360309,VEMANPALLE,1,PS (I-V),3,Local body,Rural,3,0,0,29,20,21,8,15,0,0,0,0,0,0,0,13,17,27,27,11,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360310,NENNAL,1,PS (I-V),3,Local body,Rural,3,0,0,22,22,32,21,14,0,0,0,0,0,0,0,21,26,29,30,20,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,1,PS (I-V),3,Local body,Rural,3,0,0,20,26,14,15,18,0,0,0,0,0,0,0,20,19,16,16,16,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,1,PS (I-V),3,Local body,Rural,3,0,0,8,7,2,8,3,0,0,0,0,0,0,0,11,3,2,7,1,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,1,PS (I-V),3,Local body,Rural,3,0,0,4,7,7,5,4,0,0,0,0,0,0,0,6,4,5,8,5,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,1,PS (I-V),3,Local body,Rural,3,0,0,2,5,8,11,7,0,0,0,0,0,0,0,2,5,4,7,5,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360316,BHIMARAM,1,PS (I-V),3,Local body,Rural,3,0,0,1,6,8,5,9,0,0,0,0,0,0,0,12,11,6,5,5,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,1,PS (I-V),3,Local body,Rural,3,0,0,15,6,7,25,15,0,0,0,0,0,0,0,9,12,7,11,21,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,1,PS (I-V),3,Local body,Rural,3,0,0,29,28,44,33,27,0,0,0,0,0,0,0,29,33,45,34,26,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,1,PS (I-V),3,Local body,Urban,3,0,0,1,1,1,1,2,0,0,0,0,0,0,0,3,0,2,8,3,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,1,PS (I-V),3,Local body,Urban,3,0,0,11,5,2,5,1,0,0,0,0,0,0,0,12,4,13,3,8,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,1,PS (I-V),4,Government Aided,Rural,3,0,0,2,2,1,0,2,0,0,0,0,0,0,0,2,2,1,0,1,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,1,PS (I-V),4,Government Aided,Urban,3,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,1,PS (I-V),4,Government Aided,Urban,3,0,0,5,6,3,1,2,0,0,0,0,0,0,0,2,0,2,1,2,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,2,6,2,0,2,0,0,0,0,0,0,0,4,5,3,0,1,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,6,14,7,12,8,13,0,0,0,0,0,0,0,17,12,14,9,12,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,2,1,3,1,1,3,0,0,0,0,0,0,0,0,3,1,2,1,1,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360309,VEMANPALLE,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,5,0,0,3,2,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360310,NENNAL,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,1,2,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360316,BHIMARAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,4,5,6,3,1,0,0,0,0,0,0,0,0,2,2,1,3,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,1,PS (I-V),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,1,PS (I-V),98,Madarsa unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,6,3,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,2,3,6,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,6,SS (I-X),1,Department of Education,Urban,3,0,0,0,0,0,0,9,9,5,6,10,10,0,0,0,0,0,0,5,6,4,6,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,6,SS (I-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,3,4,1,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,6,SS (I-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,20,20,36,48,48,48,45,45,0,0,0,0,37,26,36,55,49,92,75,70,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,6,SS (I-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,3,13,29,22,26,0,0,0,0,0,0,5,19,21,31,50,52,42,35,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,6,SS (I-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,2,2,9,10,10,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,6,SS (I-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,2,11,18,27,34,29,38,52,0,0,0,0,0,0,7,25,33,37,45,27,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360309,VEMANPALLE,6,SS (I-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,1,27,13,20,22,24,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360310,NENNAL,6,SS (I-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,4,15,23,11,18,19,10,0,0,0,0,0,8,8,13,12,16,17,20,16,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360316,BHIMARAM,6,SS (I-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,3,1,26,20,18,17,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,6,SS (I-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,6,17,16,10,10,11,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,6,SS (I-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,50,49,69,79,86,21,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,6,SS (I-X),2,Tribal Welfare Department,Urban,3,0,0,0,0,0,32,20,41,24,31,36,24,0,0,0,0,0,0,0,0,1,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,6,SS (I-X),2,Tribal Welfare Department,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,15,34,35,51,61,51,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,6,SS (I-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,4,2,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,6,SS (I-X),4,Government Aided,Urban,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,24,23,21,20,23,8,5,7,3,8,0,0,21,17,14,17,5,8,9,5,2,3,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,1,0,3,6,1,3,2,5,4,0,2,2,0,0,5,2,3,8,4,2,2,4,1,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,1,3,3,5,4,7,2,3,1,3,2,1,0,0,7,3,2,1,2,0,2,1,1,1,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,1,0,15,15,14,13,19,13,16,14,0,0,0,1,2,3,1,1,1,3,4,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,6,1,5,3,3,2,1,2,5,2,4,2,0,0,2,1,0,2,0,2,2,3,0,5,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,16,9,12,21,11,17,15,10,8,4,10,2,0,0,10,10,11,13,7,6,5,1,3,2,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,8,9,2,9,11,6,5,2,7,4,0,0,9,2,4,4,9,2,2,2,4,10,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,1,1,0,3,2,0,2,0,1,1,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,9,9,12,11,9,1,5,2,4,10,0,0,7,5,8,4,4,1,1,5,1,8,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,1,1,5,7,13,4,8,5,3,2,2,3,0,0,7,9,3,10,6,2,8,1,2,4,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,13,9,16,9,11,4,6,5,4,1,5,8,0,0,13,12,11,6,5,1,2,4,4,3,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,19,23,21,22,16,26,16,24,26,13,0,0,13,24,12,10,12,22,15,11,15,9,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,6,SS (I-X),92,Kendriya Vidyalaya / Central School,Urban,3,0,0,2,1,1,0,2,0,0,0,0,0,0,0,1,1,0,2,3,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,20,15,21,5,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,14,17,21,20,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,3,4,2,5,4,0,0,0,0,0,0,0,2,2,2,2,3,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,14,18,12,10,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360307,BHEEMINI,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,5,5,4,4,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360308,KANNEPALLI,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11,3,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360309,VEMANPALLE,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,3,8,6,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360310,NENNAL,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,4,7,5,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,6,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360316,BHIMARAM,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,3,6,5,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,3,1,0,1,1,0,0,0,0,0,0,0,1,7,13,1,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,3,7,0,0,0,0,0,0,0,9,11,16,10,8,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,19,29,18,9,12,0,0,0,0,0,0,0,7,7,6,4,8,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,26,28,47,48,46,0,0,0,0,0,0,0,18,24,25,24,14,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,17,11,11,30,14,0,0,0,0,0,0,0,7,7,7,13,13,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,4,2,3,22,16,0,0,0,0,0,0,0,3,7,4,8,3,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,10,11,9,8,7,0,0,0,0,0,0,0,4,7,7,10,3,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,14,16,37,19,21,0,0,0,0,0,0,0,4,6,7,16,19,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,18,12,18,18,16,0,0,0,0,0,0,0,20,12,16,8,10,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360307,BHEEMINI,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,3,6,3,4,1,0,0,0,0,0,0,0,1,5,0,9,1,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360308,KANNEPALLI,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,8,10,15,7,4,0,0,0,0,0,0,0,4,5,6,5,7,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360309,VEMANPALLE,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,0,2,2,7,5,0,0,0,0,0,0,0,4,4,1,6,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360310,NENNAL,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,5,13,20,14,22,0,0,0,0,0,0,0,12,10,17,23,6,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,3,4,8,9,1,0,0,0,0,0,0,0,8,7,8,6,6,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,3,3,1,1,8,0,0,0,0,0,0,0,2,1,2,5,4,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,4,3,1,4,2,0,0,0,0,0,0,0,2,5,3,0,4,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,7,8,11,10,8,0,0,0,0,0,0,0,4,9,7,8,9,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360316,BHIMARAM,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,18,13,15,10,16,0,0,0,0,0,0,0,2,6,6,9,10,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,4,4,8,9,12,0,0,0,0,0,0,0,6,2,8,6,9,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,7,SS (VI-X),3,Local body,Rural,3,0,0,0,0,0,0,0,18,20,18,32,19,0,0,0,0,0,0,0,16,10,27,21,15,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,7,SS (VI-X),3,Local body,Urban,3,0,0,0,0,0,0,0,5,2,9,8,4,0,0,0,0,0,0,0,3,3,4,3,7,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,7,SS (VI-X),3,Local body,Urban,3,0,0,0,0,0,0,0,3,1,7,2,0,0,0,0,0,0,0,0,2,3,3,12,4,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,7,SS (VI-X),3,Local body,Urban,3,0,0,0,0,0,0,0,0,1,2,11,3,0,0,0,0,0,0,0,2,5,7,10,9,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,11,12,8,9,12,0,0,0,0,0,0,0,8,13,14,11,9,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,7,SS (VI-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,7,SS (VI-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,2,6,7,3,3,0,0,0,0,0,0,0,1,3,1,3,5,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,7,SS (VI-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,7,SS (VI-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,2,2,3,2,1,0,0,0,0,0,0,0,1,2,0,1,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,2,1,3,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360308,KANNEPALLI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,8,8,1,2,0,0,0,0,0,0,0,0,1,1,0,5,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,7,0,2,0,7,0,0,0,0,0,0,0,1,2,4,1,2,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,2,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,2,UPS (I-VIII),3,Local body,Rural,3,0,0,8,4,6,9,9,6,4,1,0,0,0,0,8,10,4,8,2,7,7,1,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,2,UPS (I-VIII),3,Local body,Rural,3,0,0,5,1,5,5,6,1,8,3,0,0,0,0,0,0,1,2,1,5,5,5,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,2,UPS (I-VIII),3,Local body,Rural,3,0,0,0,1,0,2,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,2,UPS (I-VIII),3,Local body,Rural,3,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,2,UPS (I-VIII),3,Local body,Rural,3,0,0,5,0,4,7,3,0,0,0,0,0,0,0,2,5,4,6,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,2,UPS (I-VIII),3,Local body,Rural,3,0,0,4,6,2,6,5,20,7,0,0,0,0,0,4,3,6,1,8,6,10,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360307,BHEEMINI,2,UPS (I-VIII),3,Local body,Rural,3,0,0,2,6,4,4,0,0,0,0,0,0,0,0,3,3,4,2,3,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360308,KANNEPALLI,2,UPS (I-VIII),3,Local body,Rural,3,0,0,7,2,2,1,2,3,2,0,0,0,0,0,6,5,5,5,1,3,1,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360309,VEMANPALLE,2,UPS (I-VIII),3,Local body,Rural,3,0,0,2,2,6,0,0,0,3,1,0,0,0,0,3,1,3,3,1,3,1,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360310,NENNAL,2,UPS (I-VIII),3,Local body,Rural,3,0,0,10,24,24,14,21,17,28,7,0,0,0,0,20,11,10,17,5,11,27,4,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,2,UPS (I-VIII),3,Local body,Rural,3,0,0,2,6,3,4,2,11,20,0,0,0,0,0,5,6,6,6,2,12,8,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,2,UPS (I-VIII),3,Local body,Rural,3,0,0,6,4,6,11,3,9,9,3,0,0,0,0,8,5,5,13,4,8,10,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,2,UPS (I-VIII),3,Local body,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,2,UPS (I-VIII),3,Local body,Rural,3,0,0,5,1,2,1,1,1,1,0,0,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360316,BHIMARAM,2,UPS (I-VIII),3,Local body,Rural,3,0,0,7,11,12,5,7,10,9,7,0,0,0,0,8,9,13,9,5,6,5,3,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,2,UPS (I-VIII),3,Local body,Rural,3,0,0,3,1,9,3,4,5,5,4,0,0,0,0,3,4,5,4,5,1,6,3,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,2,UPS (I-VIII),3,Local body,Rural,3,0,0,2,8,7,2,2,6,4,0,0,0,0,0,2,4,3,3,3,3,3,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,2,UPS (I-VIII),3,Local body,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,2,UPS (I-VIII),3,Local body,Urban,3,0,0,2,2,6,5,5,0,6,0,0,0,0,0,6,5,6,10,3,3,4,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,2,UPS (I-VIII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,3,0,4,3,1,1,0,0,0,0,0,0,2,1,1,2,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,4,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,6,2,3,5,2,0,0,0,0,0,0,0,2,2,0,2,2,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360307,BHEEMINI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360308,KANNEPALLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,2,2,3,1,4,0,4,7,0,0,0,0,0,0,1,1,2,0,5,4,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360309,VEMANPALLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360310,NENNAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,1,0,7,1,1,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,2,0,1,0,1,0,1,0,1,0,0,0,0,0,2,1,0,0,2,1,1,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,4,5,5,4,3,2,0,0,0,0,0,0,4,2,1,2,1,0,1,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,2,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,1,0,4,6,1,4,1,0,0,0,0,0,0,0,1,3,0,1,1,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,10,5,3,9,1,0,0,0,0,0,0,0,3,2,4,2,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,2,0,3,2,0,2,0,1,0,0,0,0,0,3,0,0,1,1,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,11,3,3,1,2,3,1,0,0,0,0,0,5,4,1,3,0,2,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360316,BHIMARAM,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,0,0,0,2,0,2,0,0,0,0,0,0,0,2,0,2,0,1,0,0,0,0,0,0,0,ST
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,3,HSS (I-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,52,60,57,65,31,37,71,55,0,0,0,0,1,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,3,HSS (I-XII),90,Social welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,6,3,3,4,4,6,10,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,3,HSS (I-XII),90,Social welfare Department,Rural,4,0,0,0,0,0,0,8,10,11,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,3,HSS (I-XII),90,Social welfare Department,Rural,4,0,0,0,0,0,0,12,10,3,2,5,6,6,6,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,3,HSS (I-XII),90,Social welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,17,12,11,6,8,6,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,3,HSS (I-XII),90,Social welfare Department,Rural,4,0,0,0,0,0,0,12,11,12,4,6,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,3,HSS (I-XII),90,Social welfare Department,Urban,4,0,0,0,0,0,0,11,7,3,3,2,6,9,0,0,0,0,0,3,8,5,2,3,4,9,8,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,3,HSS (I-XII),90,Social welfare Department,Urban,4,0,0,0,0,0,0,10,11,9,5,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,35,37,32,31,32,35,28,0,0,0,0,0,25,30,34,41,39,42,49,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,27,26,22,38,21,0,0,0,0,0,0,0,23,24,29,18,26,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,12,20,18,29,25,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,40,44,42,43,20,9,3,0,0,0,0,0,35,24,31,12,18,32,14,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,26,32,35,24,21,11,13,0,0,0,0,0,36,31,29,37,41,61,46,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,29,31,45,24,41,14,6,0,0,0,0,0,51,55,48,55,56,61,40,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,52,89,0,0,0,0,0,0,0,0,0,0,63,60,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,50,35,0,0,0,0,0,0,0,0,0,0,31,25,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,135,109,0,0,0,0,0,0,0,0,0,0,17,22,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,35,32,0,0,0,0,0,0,0,0,0,0,36,37,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,20,23,0,0,0,0,0,0,0,0,0,0,18,23,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,48,48,0,0,0,0,0,0,0,0,0,0,48,76,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,11,HSS (XI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,111,88,0,0,0,0,0,0,0,0,0,0,164,102,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,11,HSS (XI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,52,54,0,0,0,0,0,0,0,0,0,0,34,45,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,11,HSS (XI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,127,76,0,0,0,0,0,0,0,0,0,0,47,24,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,73,71,0,0,0,0,0,0,0,0,0,0,89,98,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,21,17,0,0,0,0,0,0,0,0,0,0,18,18,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,103,131,0,0,0,0,0,0,0,0,0,0,197,284,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,76,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,86,121,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,49,82,0,0,0,0,0,0,0,0,0,0,26,30,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,134,156,0,0,0,0,0,0,0,0,0,0,125,120,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,29,41,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,767,825,0,0,0,0,0,0,0,0,0,0,982,932,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,1,PS (I-V),1,Department of Education,Rural,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,1,PS (I-V),1,Department of Education,Rural,4,0,0,0,0,0,2,2,0,0,0,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,1,PS (I-V),1,Department of Education,Urban,4,0,0,45,62,51,66,52,0,0,0,0,0,0,0,43,55,57,60,54,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2,2,3,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,1,PS (I-V),3,Local body,Rural,4,0,0,63,42,52,38,44,0,0,0,0,0,0,0,69,61,73,60,63,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,1,PS (I-V),3,Local body,Rural,4,0,0,48,55,89,52,44,0,0,0,0,0,0,0,38,65,74,62,48,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,1,PS (I-V),3,Local body,Rural,4,5,10,40,38,38,37,37,0,0,0,0,0,0,0,56,35,48,39,36,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,1,PS (I-V),3,Local body,Rural,4,0,0,20,32,18,18,15,0,0,0,0,0,0,0,14,29,20,32,32,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,1,PS (I-V),3,Local body,Rural,4,0,0,23,12,23,18,14,0,0,0,0,0,0,0,13,16,29,11,13,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,1,PS (I-V),3,Local body,Rural,4,0,0,56,46,61,45,47,0,0,0,0,0,0,0,47,31,60,48,55,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360307,BHEEMINI,1,PS (I-V),3,Local body,Rural,4,0,0,50,41,32,16,17,0,0,0,0,0,0,0,38,47,31,29,28,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360308,KANNEPALLI,1,PS (I-V),3,Local body,Rural,4,0,0,35,23,43,41,28,0,0,0,0,0,0,0,36,52,51,46,31,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360309,VEMANPALLE,1,PS (I-V),3,Local body,Rural,4,0,0,38,32,34,31,25,0,0,0,0,0,0,0,32,23,46,31,35,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360310,NENNAL,1,PS (I-V),3,Local body,Rural,4,0,0,22,26,16,19,26,0,0,0,0,0,0,0,29,25,34,26,35,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,1,PS (I-V),3,Local body,Rural,4,0,0,14,17,16,11,15,0,0,0,0,0,0,0,22,17,24,14,22,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,1,PS (I-V),3,Local body,Rural,4,0,0,16,21,10,11,16,0,0,0,0,0,0,0,13,15,17,12,13,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,1,PS (I-V),3,Local body,Rural,4,0,0,12,22,16,22,18,0,0,0,0,0,0,0,19,21,13,24,16,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,1,PS (I-V),3,Local body,Rural,4,0,0,13,11,16,13,17,0,0,0,0,0,0,0,14,19,15,18,28,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360316,BHIMARAM,1,PS (I-V),3,Local body,Rural,4,0,0,3,4,5,11,9,0,0,0,0,0,0,0,4,6,12,12,12,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,1,PS (I-V),3,Local body,Rural,4,0,0,58,50,50,74,76,0,0,0,0,0,0,0,60,64,73,82,86,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,1,PS (I-V),3,Local body,Rural,4,0,0,49,54,52,56,48,0,0,0,0,0,0,0,59,56,48,60,63,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,1,PS (I-V),3,Local body,Urban,4,0,0,13,13,11,11,12,0,0,0,0,0,0,0,15,15,22,12,19,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,1,PS (I-V),3,Local body,Urban,4,0,0,14,13,24,12,9,0,0,0,0,0,0,0,16,7,9,9,11,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,1,PS (I-V),4,Government Aided,Rural,4,0,0,8,15,12,18,16,0,0,0,0,0,0,0,14,16,23,14,21,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,1,PS (I-V),4,Government Aided,Urban,4,0,0,1,1,3,1,1,0,0,0,0,0,0,0,0,1,1,4,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,1,PS (I-V),4,Government Aided,Urban,4,22,18,24,23,28,31,41,0,0,0,0,0,0,0,20,22,23,32,18,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,8,8,7,4,4,0,0,0,0,0,0,0,8,5,5,5,3,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,3,2,0,0,0,0,0,0,0,0,0,0,3,5,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,13,6,37,38,39,46,27,0,0,0,0,0,0,0,34,31,38,31,23,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,17,20,50,83,63,70,64,0,0,0,0,0,0,0,49,55,50,49,47,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360309,VEMANPALLE,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,12,9,10,11,4,8,6,0,0,0,0,0,0,0,8,11,8,6,1,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360310,NENNAL,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,16,14,14,14,6,0,0,0,0,0,0,0,17,11,11,13,6,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,5,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,4,2,1,7,4,0,0,0,0,0,0,0,2,7,5,6,3,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360316,BHIMARAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,2,0,3,2,1,1,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,13,9,9,17,8,0,0,0,0,0,0,0,9,15,11,7,8,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,1,PS (I-V),98,Madarsa unrecognized,Rural,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,1,PS (I-V),98,Madarsa unrecognized,Urban,4,0,0,0,0,1,23,10,0,0,0,0,0,0,0,1,0,0,14,12,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,6,SS (I-X),1,Department of Education,Rural,4,0,0,0,0,0,0,55,46,45,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,6,SS (I-X),1,Department of Education,Rural,4,0,0,0,0,0,0,24,27,52,20,0,0,0,0,0,0,0,0,30,46,46,44,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,6,SS (I-X),1,Department of Education,Urban,4,0,0,0,0,0,0,54,46,64,55,45,36,0,0,0,0,0,0,72,78,84,79,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,6,SS (I-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,40,43,51,54,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,6,SS (I-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,1,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,6,SS (I-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,5,3,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,6,SS (I-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,1,0,0,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,6,SS (I-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,1,1,12,20,12,18,19,10,0,0,0,0,0,0,0,0,0,0,1,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360309,VEMANPALLE,6,SS (I-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,9,12,6,10,15,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360310,NENNAL,6,SS (I-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,3,2,4,2,3,3,0,0,0,0,0,8,4,2,3,8,6,1,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360316,BHIMARAM,6,SS (I-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,1,3,0,3,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,6,SS (I-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,2,1,1,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,6,SS (I-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,2,3,4,3,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,6,SS (I-X),2,Tribal Welfare Department,Urban,4,0,0,0,0,0,2,0,3,2,6,6,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,6,SS (I-X),2,Tribal Welfare Department,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,4,2,2,3,3,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,6,SS (I-X),4,Government Aided,Rural,4,0,0,2,0,1,5,1,8,11,16,16,9,0,0,0,0,0,0,0,0,0,0,0,3,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,6,SS (I-X),4,Government Aided,Urban,4,0,0,9,2,3,0,0,0,0,0,0,0,0,0,4,3,2,0,0,0,0,0,0,2,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,122,147,139,116,95,60,54,57,41,51,0,0,105,113,109,64,68,57,27,36,30,44,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,19,5,55,52,57,67,65,26,33,32,24,33,0,0,55,51,45,49,36,21,20,22,21,30,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,99,76,155,173,158,126,137,95,125,116,138,111,0,0,140,108,99,105,88,97,49,74,90,74,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,58,56,66,70,69,50,79,75,98,80,0,0,39,36,37,35,42,15,26,23,16,27,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,19,14,13,26,19,24,17,11,13,20,10,32,0,0,11,18,16,9,13,13,15,10,15,27,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,115,94,118,129,99,101,111,80,87,96,83,93,0,0,117,102,103,99,84,66,58,51,71,47,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,168,190,161,167,145,136,109,95,108,137,0,0,173,170,135,150,121,108,106,110,98,154,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,5,9,4,4,3,2,5,12,12,5,10,9,0,0,4,3,2,7,8,4,3,8,10,7,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,75,139,108,128,94,77,60,64,85,71,0,0,83,64,70,72,55,60,47,57,39,68,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,10,6,161,157,162,150,160,151,141,132,112,118,0,0,119,129,139,126,139,79,112,95,100,120,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,105,88,111,122,99,123,104,111,105,101,81,135,0,0,79,99,94,75,83,67,64,79,77,85,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,0,2,420,433,417,458,460,429,417,413,434,443,0,0,319,318,367,349,385,294,284,343,356,359,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,6,SS (I-X),92,Kendriya Vidyalaya / Central School,Urban,4,0,0,9,6,8,4,3,0,0,0,0,0,0,0,13,7,6,0,4,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,4,5,6,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,7,10,3,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,7,10,14,22,19,0,0,0,0,0,0,0,8,4,3,9,6,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,31,27,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,11,8,5,7,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360307,BHEEMINI,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,20,21,17,16,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360308,KANNEPALLI,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,20,22,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360309,VEMANPALLE,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,17,30,25,9,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360310,NENNAL,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,9,5,16,10,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,46,28,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,21,14,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360316,BHIMARAM,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,6,15,19,14,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,14,23,33,26,31,0,0,0,0,0,0,0,21,16,25,12,22,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,11,15,11,12,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,7,SS (VI-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,2,1,0,1,3,0,0,0,0,0,0,0,28,27,28,25,24,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,7,SS (VI-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,15,6,8,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,7,SS (VI-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,63,50,75,70,63,0,0,0,0,0,0,0,25,36,29,27,25,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,71,110,129,130,167,0,0,0,0,0,0,0,82,115,147,175,174,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,83,96,135,173,176,0,0,0,0,0,0,0,74,71,99,123,141,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,33,44,32,34,43,0,0,0,0,0,0,0,68,55,78,134,131,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,41,51,50,53,45,0,0,0,0,0,0,0,32,48,48,37,50,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,19,24,25,31,32,0,0,0,0,0,0,0,17,19,32,45,30,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,112,86,85,93,73,0,0,0,0,0,0,0,75,81,104,98,99,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360307,BHEEMINI,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,29,34,46,39,61,0,0,0,0,0,0,0,28,38,39,40,47,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360308,KANNEPALLI,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,41,43,62,59,38,0,0,0,0,0,0,0,27,24,37,66,54,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360309,VEMANPALLE,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,39,41,44,33,42,0,0,0,0,0,0,0,37,38,44,44,44,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360310,NENNAL,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,47,58,83,57,80,0,0,0,0,0,0,0,36,34,60,66,70,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,11,21,23,26,24,0,0,0,0,0,0,0,19,18,18,31,33,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,23,18,15,23,18,0,0,0,0,0,0,0,17,14,19,26,32,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,28,48,42,25,34,0,0,0,0,0,0,0,27,27,22,30,25,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,21,26,55,66,61,0,0,0,0,0,0,0,31,25,39,49,64,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360316,BHIMARAM,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,29,36,53,41,44,0,0,0,0,0,0,0,6,19,33,31,29,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,71,67,74,70,77,0,0,0,0,0,0,0,76,74,101,101,110,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,7,SS (VI-X),3,Local body,Rural,4,0,0,0,0,0,0,0,45,45,36,50,52,0,0,0,0,0,0,0,42,32,49,69,60,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,7,SS (VI-X),3,Local body,Urban,4,0,0,0,0,0,0,0,48,59,69,74,56,0,0,0,0,0,0,0,41,53,48,73,78,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,7,SS (VI-X),3,Local body,Urban,4,0,0,0,0,0,0,0,7,3,10,11,7,0,0,0,0,0,0,0,13,9,18,14,27,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,7,SS (VI-X),3,Local body,Urban,4,0,0,0,0,0,0,0,34,41,71,95,61,0,0,0,0,0,0,0,87,88,121,118,153,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,40,30,34,24,20,0,0,0,0,0,0,0,29,32,37,22,28,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,7,SS (VI-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,2,0,4,3,5,0,0,0,0,0,0,0,2,1,2,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,7,SS (VI-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,37,31,44,42,42,0,0,0,0,0,0,0,39,23,55,48,56,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,7,SS (VI-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,7,SS (VI-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,21,6,13,10,5,0,0,0,0,0,0,0,13,10,17,29,15,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,56,34,42,38,28,0,0,0,0,0,0,0,31,22,39,30,40,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360308,KANNEPALLI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,1,2,7,0,0,0,0,0,0,0,0,0,1,1,3,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,11,10,0,0,0,0,0,0,0,0,0,5,5,17,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,8,2,1,3,2,0,0,0,0,0,0,0,0,1,2,1,2,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,9,12,0,0,0,0,0,0,0,0,0,9,6,6,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,22,52,51,78,93,0,0,0,0,0,0,0,20,31,49,69,83,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,1,2,2,2,3,1,4,7,0,0,0,0,0,1,1,0,0,0,0,2,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,2,UPS (I-VIII),3,Local body,Rural,4,0,0,14,12,15,5,14,10,8,2,0,0,0,0,27,13,14,18,14,11,15,2,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,2,UPS (I-VIII),3,Local body,Rural,4,0,0,5,13,29,6,9,9,9,3,0,0,0,0,5,9,14,10,22,9,13,5,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,2,UPS (I-VIII),3,Local body,Rural,4,0,0,6,9,4,6,3,10,5,8,0,0,0,0,5,9,10,7,7,6,12,10,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,2,UPS (I-VIII),3,Local body,Rural,4,0,0,7,4,12,8,7,7,5,0,0,0,0,0,13,7,15,11,4,4,9,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,2,UPS (I-VIII),3,Local body,Rural,4,0,0,4,1,1,1,2,4,0,0,0,0,0,0,0,1,3,4,1,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,2,UPS (I-VIII),3,Local body,Rural,4,0,0,9,8,8,10,8,16,9,0,0,0,0,0,6,5,6,12,9,6,7,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360307,BHEEMINI,2,UPS (I-VIII),3,Local body,Rural,4,0,0,14,13,10,5,3,7,5,0,0,0,0,0,10,18,10,5,11,4,7,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360308,KANNEPALLI,2,UPS (I-VIII),3,Local body,Rural,4,0,0,4,4,7,7,8,16,20,11,0,0,0,0,18,14,16,12,11,18,19,13,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360309,VEMANPALLE,2,UPS (I-VIII),3,Local body,Rural,4,0,0,12,15,10,5,12,11,15,7,0,0,0,0,12,17,6,10,12,11,8,1,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360310,NENNAL,2,UPS (I-VIII),3,Local body,Rural,4,0,0,7,10,7,14,9,11,16,0,0,0,0,0,12,7,11,6,9,18,17,1,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,2,UPS (I-VIII),3,Local body,Rural,4,0,0,9,3,10,6,7,3,2,0,0,0,0,0,4,3,4,5,8,4,3,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,2,UPS (I-VIII),3,Local body,Rural,4,0,0,9,16,9,6,6,4,6,1,0,0,0,0,8,7,9,9,7,7,5,3,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,2,UPS (I-VIII),3,Local body,Rural,4,0,0,0,2,1,0,2,0,0,0,0,0,0,0,0,6,1,1,1,3,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,2,UPS (I-VIII),3,Local body,Rural,4,0,0,18,11,11,14,6,11,7,2,0,0,0,0,22,12,11,14,16,22,14,1,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360316,BHIMARAM,2,UPS (I-VIII),3,Local body,Rural,4,0,0,0,2,3,2,6,3,0,0,0,0,0,0,1,4,2,3,4,0,5,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,2,UPS (I-VIII),3,Local body,Rural,4,0,0,10,13,9,3,7,6,8,1,0,0,0,0,6,6,19,7,8,16,13,2,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,2,UPS (I-VIII),3,Local body,Rural,4,0,0,7,8,5,4,11,11,7,0,0,0,0,0,8,6,8,9,8,8,9,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,2,UPS (I-VIII),3,Local body,Urban,4,0,0,3,2,1,0,0,0,0,0,0,0,0,0,1,3,2,1,0,2,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,2,UPS (I-VIII),3,Local body,Urban,4,0,0,2,2,8,4,7,2,1,0,0,0,0,0,3,7,4,0,7,4,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,2,UPS (I-VIII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360301,JANNARAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,11,18,5,10,5,0,0,0,0,0,0,0,11,7,7,3,4,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360302,DANDEPALLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,5,8,40,53,32,32,23,15,2,0,0,0,0,0,38,44,28,25,32,7,2,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360303,LUXETTIPET,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,24,32,36,28,19,20,14,6,5,0,0,0,0,0,25,17,15,22,14,5,3,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360304,HAJIPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,11,11,10,11,8,2,0,0,0,0,0,0,16,11,10,13,12,3,2,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360305,KASIPET,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,24,15,15,20,12,1,1,0,0,0,0,0,24,17,19,12,9,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360306,TANDUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,7,8,6,8,5,1,0,0,0,0,0,0,7,11,10,6,5,1,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360307,BHEEMINI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,15,13,6,18,13,15,10,4,7,0,0,0,0,0,18,12,9,9,5,3,3,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360308,KANNEPALLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,17,13,43,37,29,21,27,11,0,0,0,0,0,0,40,21,14,13,14,2,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360309,VEMANPALLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,4,6,15,13,8,8,2,0,0,0,0,0,0,0,10,5,3,3,4,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360310,NENNAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,3,2,2,5,0,0,0,0,0,0,0,0,4,3,1,4,4,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,2,15,3,4,2,3,1,0,0,0,0,0,2,8,5,2,6,0,3,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,8,7,7,11,13,5,11,5,5,0,0,0,0,0,14,9,16,9,4,5,4,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360314,NASPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,50,47,45,24,21,7,10,0,0,0,0,0,51,31,30,14,17,6,10,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,11,10,8,8,4,10,1,0,0,0,0,0,8,4,4,9,4,1,1,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360317,CHENNUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,8,10,60,54,34,35,11,4,0,0,0,0,0,0,40,37,24,17,8,2,1,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360318,KOTAPALLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,5,7,2,4,6,3,0,0,0,0,0,0,0,0,4,1,2,1,2,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360311,BELLAMPALLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,0,64,50,50,30,34,21,4,0,0,0,0,0,64,62,29,33,23,16,5,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360312,MANDAMARRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,25,27,31,38,20,22,23,15,14,0,0,0,0,0,31,22,19,24,11,12,8,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360313,MANCHERIAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,0,145,157,121,106,88,63,32,0,0,0,0,0,152,157,120,96,100,45,24,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360315,JAIPUR,2,UPS (I-VIII),8,Unrecognized,Rural,4,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,OBC
+2018-19,36,Telangana,3603,MANCHERIAL,360316,BHIMARAM,2,UPS (I-VIII),8,Unrecognized,Rural,4,0,0,17,9,8,6,4,0,0,0,0,0,0,0,8,14,10,12,8,1,0,0,0,0,0,0,OBC

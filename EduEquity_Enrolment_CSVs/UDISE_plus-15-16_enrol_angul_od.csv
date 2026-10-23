@@ -1,0 +1,657 @@
+ac_year,state_code,state_name,district_code,district_name,block_code,block_name,sch_category_id,category_name,sch_mgmt_id,sch_mgmt_name,loc_name,caste_id,pre_primary_boys,pre_primary_girls,class_1_boys,class_2_boys,class_3_boys,class_4_boys,class_5_boys,class_6_boys,class_7_boys,class_8_boys,class_9_boys,class_10_boys,class_11_boys,class_12_boys,class_1_girls,class_2_girls,class_3_girls,class_4_girls,class_5_girls,class_6_girls,class_7_girls,class_8_girls,class_9_girls,class_10_girls,class_11_girls,class_12_girls,caste_name
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,1,PS (I-V),8,Unrecognized,Rural,1,26,16,6,7,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,0,1,1,1,2,3,0,0,0,0,0,0,0,2,4,0,0,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,2,1,0,2,2,3,0,0,0,0,0,0,1,0,2,3,0,4,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,177,133,139,166,152,168,136,169,158,151,169,193,115,93,127,126,123,134,103,118,130,113,166,135,142,131,General
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,23,23,27,24,26,19,26,18,19,16,20,21,4,4,20,28,18,18,24,21,10,10,14,16,5,6,General
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,383,216,260,274,252,225,205,194,222,231,224,128,100,50,222,207,177,209,234,218,220,225,211,115,61,43,General
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,3,HSS (I-XII),7,Central Govt,Rural,1,0,0,9,13,17,13,21,24,10,26,16,11,10,4,11,12,10,14,10,8,14,13,13,10,8,2,General
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,3,HSS (I-XII),7,Central Govt,Urban,1,0,0,24,23,26,35,44,43,33,32,37,28,14,16,22,26,33,27,24,26,28,23,28,30,12,16,General
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,5,HSS (VI-XII),7,Central Govt,Rural,1,0,0,0,0,0,0,0,12,10,7,17,14,10,8,0,0,0,0,0,4,8,3,10,11,7,6,General
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,5,4,0,0,0,0,0,0,0,0,0,0,8,3,General
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,397,407,0,0,0,0,0,0,0,0,0,0,255,260,General
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,17,17,0,0,0,0,0,0,0,0,0,0,49,16,General
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,11,HSS (XI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,10,6,0,0,0,0,0,0,0,0,0,0,257,289,General
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,11,HSS (XI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,249,207,0,0,0,0,0,0,0,0,0,0,196,235,General
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,11,HSS (XI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,143,112,0,0,0,0,0,0,0,0,0,0,112,161,General
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,11,HSS (XI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,218,225,0,0,0,0,0,0,0,0,0,0,136,232,General
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,11,HSS (XI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,19,6,0,0,0,0,0,0,0,0,0,0,15,9,General
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,134,172,0,0,0,0,0,0,0,0,0,0,88,116,General
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,206,220,0,0,0,0,0,0,0,0,0,0,212,149,General
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,37,11,0,0,0,0,0,0,0,0,0,0,35,39,General
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,211,297,0,0,0,0,0,0,0,0,0,0,224,247,General
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,13,13,0,0,0,0,0,0,0,0,0,0,8,7,General
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,11,HSS (XI-XII),8,Unrecognized,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,118,129,General
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,1,PS (I-V),1,Department of Education,Rural,1,0,0,27,32,26,24,40,0,0,0,0,0,0,0,26,27,33,32,35,1,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,1,PS (I-V),1,Department of Education,Rural,1,1,1,7,9,11,9,11,0,0,0,0,0,0,0,8,13,6,11,8,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,1,PS (I-V),1,Department of Education,Rural,1,0,0,40,47,47,54,57,1,0,0,0,0,0,0,49,37,54,37,62,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,1,PS (I-V),1,Department of Education,Rural,1,0,0,37,47,16,27,29,0,0,0,0,0,0,0,27,22,27,31,32,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,1,PS (I-V),1,Department of Education,Rural,1,4,6,57,58,50,69,69,0,0,0,0,0,0,0,43,68,38,64,60,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,1,PS (I-V),1,Department of Education,Rural,1,0,0,11,5,7,6,6,0,0,0,0,0,0,0,3,8,6,2,8,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,1,PS (I-V),1,Department of Education,Rural,1,5,5,9,17,13,19,16,0,0,0,0,0,0,0,11,16,14,13,9,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,1,PS (I-V),1,Department of Education,Rural,1,0,0,41,36,41,51,43,0,0,0,0,0,0,0,32,39,32,38,37,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,1,PS (I-V),1,Department of Education,Rural,1,0,0,4,11,7,10,6,0,0,0,0,0,0,0,4,1,7,7,7,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,1,PS (I-V),1,Department of Education,Urban,1,0,0,9,6,7,4,9,0,0,0,0,0,0,0,7,13,4,8,10,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211510,ATHAMALLIK NAC,1,PS (I-V),1,Department of Education,Urban,1,0,0,2,5,1,4,4,2,3,0,0,0,0,0,2,8,6,4,1,1,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,1,PS (I-V),1,Department of Education,Urban,1,0,0,12,12,13,16,11,0,0,0,0,0,0,0,24,21,18,12,17,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,3,0,1,1,2,0,0,0,0,0,0,0,2,1,0,1,3,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,3,3,5,2,4,1,2,0,0,0,0,0,0,0,2,0,1,1,1,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,1,0,1,2,1,0,2,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,15,8,7,7,7,2,3,5,2,2,0,0,0,0,6,7,5,1,4,3,3,1,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,3,2,4,7,6,3,5,0,4,0,0,0,0,0,6,3,6,3,3,1,1,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,3,1,2,3,2,3,1,0,0,0,0,0,0,0,2,1,2,1,3,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,98,86,11,10,7,18,5,0,0,0,0,0,0,0,11,9,7,10,13,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,8,3,5,5,4,2,1,0,0,0,0,0,0,0,2,3,5,1,2,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,21,15,5,6,10,5,9,0,0,0,0,0,0,0,4,5,3,7,4,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,20,20,3,5,2,6,7,0,0,0,0,0,0,0,3,5,2,7,3,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,1,PS (I-V),8,Unrecognized,Rural,1,4,5,5,1,1,1,3,2,2,0,0,0,0,0,5,2,3,5,2,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,1,PS (I-V),8,Unrecognized,Rural,1,0,0,5,1,0,0,0,0,0,0,0,0,0,0,6,1,0,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,1,PS (I-V),8,Unrecognized,Rural,1,16,9,2,8,5,5,4,0,0,0,0,0,0,0,5,9,3,1,5,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,1,PS (I-V),8,Unrecognized,Rural,1,8,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,1,PS (I-V),8,Unrecognized,Rural,1,11,9,4,1,6,5,6,1,1,0,0,0,0,0,6,5,2,1,1,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,1,PS (I-V),8,Unrecognized,Rural,1,2,4,3,2,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,1,PS (I-V),8,Unrecognized,Rural,1,6,9,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,1,PS (I-V),8,Unrecognized,Urban,1,14,24,3,0,3,0,0,0,0,0,0,0,0,0,2,4,1,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211510,ATHAMALLIK NAC,1,PS (I-V),8,Unrecognized,Urban,1,3,1,0,0,1,1,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,6,SS (I-X),1,Department of Education,Rural,1,0,0,1,2,3,3,2,2,5,8,2,4,0,0,2,2,3,2,5,2,2,4,0,2,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,6,SS (I-X),1,Department of Education,Rural,1,0,0,0,3,3,2,4,12,11,12,21,31,0,0,5,3,0,3,4,5,13,12,18,31,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,6,SS (I-X),1,Department of Education,Rural,1,0,0,0,4,0,1,2,0,2,0,0,1,0,0,0,0,1,1,1,0,0,2,3,3,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,6,SS (I-X),1,Department of Education,Rural,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,6,SS (I-X),1,Department of Education,Rural,1,0,0,1,2,0,0,2,1,4,1,0,3,0,0,0,1,3,2,2,2,1,1,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,6,SS (I-X),1,Department of Education,Rural,1,0,0,0,0,0,3,3,0,0,4,9,11,0,0,2,0,0,2,1,0,0,10,6,4,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,6,SS (I-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,100,117,103,84,92,100,78,64,56,54,0,0,77,62,59,55,52,39,51,40,45,48,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,60,51,27,42,37,34,52,58,37,39,25,25,0,0,30,32,25,35,41,37,34,28,19,5,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,12,11,14,16,12,1,8,9,14,14,0,0,0,0,15,17,11,9,14,12,15,16,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,10,13,9,6,11,9,5,4,5,8,0,0,0,0,7,3,7,6,3,3,15,2,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,17,11,31,41,38,58,52,68,68,71,76,80,0,0,41,29,35,40,42,39,39,44,46,48,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,68,60,105,105,121,108,95,103,107,89,89,74,27,23,86,75,85,82,99,77,68,68,60,56,25,23,General
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,80,59,53,35,39,36,32,28,29,26,29,41,0,0,38,26,24,32,30,24,20,20,29,30,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,71,56,61,0,0,0,0,0,0,0,0,0,38,53,57,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,4,9,9,0,0,0,0,0,0,0,0,0,7,12,14,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,13,9,74,98,95,0,0,0,0,0,0,0,15,6,69,64,83,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,1,0,42,56,26,0,0,0,0,0,0,0,0,0,12,18,24,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,26,18,93,118,107,0,0,0,0,0,0,0,26,25,87,97,109,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,8,10,5,0,0,0,0,0,0,0,0,0,5,2,6,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,7,5,32,31,18,0,0,0,0,0,0,0,3,1,20,20,15,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,16,7,97,99,102,0,0,0,0,0,0,0,14,12,88,104,105,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,7,SS (VI-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,16,29,103,88,70,0,0,0,0,0,0,0,13,13,56,88,60,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211510,ATHAMALLIK NAC,7,SS (VI-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,1,4,10,14,14,0,0,0,0,0,0,0,8,10,3,12,12,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,7,SS (VI-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,1,2,24,32,24,0,0,0,0,0,0,0,9,7,14,28,22,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,7,SS (VI-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,5,5,6,2,9,0,0,0,0,0,0,0,4,5,8,1,5,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,7,SS (VI-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,7,SS (VI-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,20,19,21,0,0,0,0,0,0,0,0,0,11,14,19,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,3,5,1,0,0,0,0,0,0,0,0,0,1,7,69,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,61,85,85,0,0,0,0,0,0,0,0,0,56,104,65,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,38,52,41,0,0,0,0,0,0,0,0,0,40,33,49,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,32,22,17,0,0,0,0,0,0,0,0,0,14,13,24,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,2,9,8,0,0,0,0,0,0,0,0,0,7,3,11,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,9,13,12,0,0,0,0,0,0,0,1,1,15,17,12,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,36,44,51,0,0,0,0,0,0,0,0,0,41,58,52,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,7,SS (VI-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,21,14,20,0,0,0,0,0,0,0,0,0,12,14,12,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,7,SS (VI-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,14,9,14,0,0,0,0,0,0,0,0,0,8,19,7,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,2,1,4,0,0,0,0,0,0,0,0,0,1,9,6,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,7,7,0,0,0,0,0,0,0,0,0,6,6,6,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,12,11,8,0,0,0,0,0,0,0,0,0,12,10,9,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,32,0,35,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,10,5,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,15,1,6,0,0,0,0,0,0,0,33,43,46,68,63,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,3,4,0,0,0,0,0,0,0,0,0,2,1,1,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,17,14,20,6,13,34,29,6,0,0,0,0,20,13,13,12,21,24,30,9,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,7,9,3,6,5,6,9,1,0,0,0,0,10,4,4,1,5,8,8,2,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,67,55,54,85,61,95,111,49,0,0,0,0,60,51,68,63,57,75,97,39,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,11,6,7,7,5,13,9,1,0,0,0,0,5,6,5,1,6,5,6,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,33,34,48,34,33,51,77,27,0,0,0,0,32,31,30,45,36,36,47,17,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,1,2,3,3,2,2,5,2,0,0,0,0,2,0,2,2,2,7,3,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,2,UPS (I-VIII),1,Department of Education,Rural,1,1,1,15,16,18,23,15,36,22,3,0,0,0,0,21,12,14,12,13,26,23,4,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,25,25,34,34,40,57,61,7,0,0,0,0,24,26,25,28,35,51,59,6,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,2,0,1,1,0,2,2,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,12,19,21,20,25,36,42,20,0,0,0,0,12,19,13,23,31,28,39,10,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211510,ATHAMALLIK NAC,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,9,12,15,17,18,32,28,9,0,0,0,0,14,18,10,22,11,35,23,8,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,1,0,0,1,5,4,3,5,2,4,0,0,0,0,0,2,2,5,2,5,1,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,2,3,8,12,10,13,12,8,6,4,0,0,0,0,9,12,6,10,6,4,5,1,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,8,2,2,1,1,2,2,0,1,0,0,0,0,0,2,1,4,1,1,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,84,45,81,104,91,95,82,89,55,13,14,15,0,0,69,67,65,62,62,52,35,20,14,8,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,2,55,36,58,51,35,30,9,10,0,0,0,0,0,29,31,19,24,17,5,10,1,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,81,44,64,79,73,67,52,48,31,13,5,4,0,0,57,70,54,38,38,41,32,10,5,2,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,2,5,2,1,1,4,1,1,6,0,0,0,0,0,1,2,4,0,3,1,1,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,16,13,103,7,7,7,4,4,8,0,0,0,0,0,4,11,5,5,5,8,2,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,48,44,84,81,104,91,90,84,75,14,7,0,0,0,81,55,69,72,62,62,47,10,6,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,11,18,5,6,8,7,11,8,4,0,0,0,0,0,5,11,4,3,5,10,7,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211510,ATHAMALLIK NAC,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,10,9,5,9,11,7,7,9,13,1,0,0,0,0,9,5,11,11,8,10,3,2,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,55,59,72,63,69,55,53,53,48,13,0,0,0,0,29,47,62,38,34,42,30,12,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,2,UPS (I-VIII),6,Other Govt. managed schools,Rural,1,8,5,4,5,6,5,3,5,3,1,0,0,0,0,4,6,4,3,3,3,2,4,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,2,UPS (I-VIII),8,Unrecognized,Rural,1,23,34,17,15,3,5,1,9,9,3,0,0,0,0,12,8,2,1,3,4,5,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,2,UPS (I-VIII),8,Unrecognized,Rural,1,82,42,144,121,96,78,63,56,45,8,0,0,0,0,87,69,73,43,47,37,32,11,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,2,UPS (I-VIII),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,2,UPS (I-VIII),8,Unrecognized,Rural,1,13,6,14,6,8,7,5,3,7,3,0,0,0,0,8,2,7,5,0,3,2,3,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,2,UPS (I-VIII),8,Unrecognized,Rural,1,95,78,103,94,99,90,82,71,77,27,0,0,0,0,68,66,75,60,59,36,39,25,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,2,UPS (I-VIII),8,Unrecognized,Urban,1,92,36,57,28,28,17,25,10,9,3,0,0,0,0,31,27,20,21,7,10,5,9,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,2,UPS (I-VIII),8,Unrecognized,Urban,1,5,7,8,3,1,0,0,1,0,0,0,0,0,0,0,2,3,0,2,0,2,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,6,6,0,0,1,0,0,0,0,0,0,0,12,7,0,4,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,19,21,0,0,0,0,0,0,0,0,0,0,13,14,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,23,30,6,0,0,0,0,0,0,0,0,0,19,23,3,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,22,30,0,0,0,0,0,0,0,0,0,0,21,17,1,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,1,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,10,3,4,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,6,13,0,0,0,0,0,0,0,0,0,0,5,11,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,16,25,0,0,0,0,0,0,0,0,0,0,10,14,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,4,UPS (VI-VIII),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,26,0,0,0,0,0,General
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,12,19,23,27,32,28,12,13,22,13,12,15,12,15,19,26,19,13,15,13,14,5,9,5,14,20,SC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,3,4,3,7,6,3,3,7,3,5,0,3,1,1,1,5,2,4,4,5,2,1,0,2,2,5,SC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,35,22,14,7,9,9,11,9,8,3,4,5,15,1,5,1,4,10,5,8,5,2,7,1,22,3,SC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,3,HSS (I-XII),7,Central Govt,Rural,2,0,0,5,2,7,2,3,4,2,3,1,6,1,0,5,3,0,1,1,2,1,2,1,4,1,2,SC
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,3,HSS (I-XII),7,Central Govt,Urban,2,0,0,7,9,10,13,8,7,7,7,5,4,4,1,6,4,8,3,7,6,10,9,4,9,3,0,SC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,5,HSS (VI-XII),7,Central Govt,Rural,2,0,0,0,0,0,0,0,10,12,8,14,9,3,3,0,0,0,0,0,4,2,5,7,11,3,4,SC
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,65,66,0,0,0,0,0,0,0,0,0,0,63,45,SC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,106,93,0,0,0,0,0,0,0,0,0,0,72,49,SC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,16,46,0,0,0,0,0,0,0,0,0,0,16,33,SC
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,11,HSS (XI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,62,32,SC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,11,HSS (XI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,44,43,0,0,0,0,0,0,0,0,0,0,51,48,SC
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,11,HSS (XI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,55,45,0,0,0,0,0,0,0,0,0,0,46,44,SC
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,11,HSS (XI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,71,52,0,0,0,0,0,0,0,0,0,0,49,58,SC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,11,HSS (XI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,29,35,0,0,0,0,0,0,0,0,0,0,19,26,SC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,67,53,0,0,0,0,0,0,0,0,0,0,50,39,SC
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,125,118,0,0,0,0,0,0,0,0,0,0,101,101,SC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,8,16,0,0,0,0,0,0,0,0,0,0,2,1,SC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,57,53,0,0,0,0,0,0,0,0,0,0,42,71,SC
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,12,10,0,0,0,0,0,0,0,0,0,0,4,3,SC
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,11,HSS (XI-XII),8,Unrecognized,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,23,SC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,1,PS (I-V),1,Department of Education,Rural,2,0,0,208,199,206,219,173,20,12,4,0,0,0,0,206,200,171,165,192,16,18,5,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,1,PS (I-V),1,Department of Education,Rural,2,2,3,93,100,93,89,86,1,0,0,0,0,0,0,109,85,86,106,112,2,1,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,1,PS (I-V),1,Department of Education,Rural,2,0,0,135,136,145,161,159,5,9,0,0,0,0,0,117,150,129,139,155,3,2,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,1,PS (I-V),1,Department of Education,Rural,2,6,5,195,267,197,199,209,26,24,2,0,0,0,0,206,200,172,195,211,26,14,1,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,1,PS (I-V),1,Department of Education,Rural,2,15,11,110,101,127,116,132,6,11,4,0,0,0,0,103,101,110,100,127,10,10,3,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,1,PS (I-V),1,Department of Education,Rural,2,0,0,103,99,80,97,94,0,0,0,0,0,0,0,107,91,71,87,92,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,1,PS (I-V),1,Department of Education,Rural,2,4,2,93,90,98,92,81,1,2,0,0,0,0,0,77,79,92,79,65,4,1,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,1,PS (I-V),1,Department of Education,Rural,2,0,0,72,121,90,99,97,0,0,0,0,0,0,0,85,106,93,110,114,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,1,PS (I-V),1,Department of Education,Rural,2,0,0,1,0,1,1,4,0,0,0,0,0,0,0,2,2,0,1,3,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,1,PS (I-V),1,Department of Education,Urban,2,0,0,0,0,2,4,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,1,PS (I-V),1,Department of Education,Urban,2,0,0,22,18,29,29,18,0,0,0,0,0,0,0,19,21,27,28,21,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211510,ATHAMALLIK NAC,1,PS (I-V),1,Department of Education,Urban,2,0,0,29,32,23,32,28,8,4,0,0,0,0,0,26,29,23,25,34,6,10,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,1,PS (I-V),1,Department of Education,Urban,2,0,0,18,25,18,25,22,0,0,0,0,0,0,0,25,23,22,21,17,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,12,29,16,19,19,0,0,0,0,0,0,0,8,20,14,18,15,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,2,1,0,0,1,0,0,0,0,0,0,0,1,0,1,3,1,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,16,12,16,16,22,0,0,0,0,0,0,0,16,20,15,18,26,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,3,4,1,1,2,0,0,0,0,0,0,0,2,6,3,2,2,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,5,1,6,5,3,0,0,0,0,0,0,0,6,4,4,7,7,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,1,1,4,3,1,0,0,0,0,0,0,0,5,3,2,2,9,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,5,4,3,0,5,0,0,0,0,0,0,0,6,1,11,6,6,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,8,4,3,4,3,2,2,0,0,0,0,0,0,0,2,3,2,1,1,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,3,3,2,1,4,0,1,1,0,0,0,0,0,0,2,2,2,0,0,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,10,7,3,3,1,1,0,1,1,0,0,0,0,0,1,2,1,0,0,0,1,1,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,23,8,11,6,6,3,6,2,2,0,0,0,0,0,7,5,5,2,3,1,1,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,16,5,5,11,8,4,4,0,0,0,0,0,0,0,3,1,4,2,2,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,28,11,13,12,9,17,10,0,0,0,0,0,0,0,15,21,10,13,13,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,4,3,4,3,5,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,4,2,2,5,2,0,1,0,0,0,0,0,0,0,4,1,0,2,2,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,10,10,9,7,1,1,1,0,0,0,0,0,0,0,5,2,1,2,4,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,1,PS (I-V),8,Unrecognized,Rural,2,15,3,1,3,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,1,PS (I-V),8,Unrecognized,Rural,2,2,1,3,2,1,1,0,1,0,0,0,0,0,0,6,1,5,1,0,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,1,PS (I-V),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,1,PS (I-V),8,Unrecognized,Rural,2,4,3,4,5,6,3,2,0,0,0,0,0,0,0,5,3,2,3,2,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,1,PS (I-V),8,Unrecognized,Rural,2,11,7,1,6,2,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,1,PS (I-V),8,Unrecognized,Rural,2,12,3,8,4,5,2,1,1,0,0,0,0,0,0,6,1,2,0,0,2,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,1,PS (I-V),8,Unrecognized,Rural,2,2,3,3,3,1,3,2,0,0,0,0,0,0,0,3,2,1,1,1,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,1,PS (I-V),8,Unrecognized,Rural,2,7,8,2,4,2,0,2,0,0,0,0,0,0,0,4,1,0,3,1,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,1,PS (I-V),8,Unrecognized,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211510,ATHAMALLIK NAC,1,PS (I-V),8,Unrecognized,Urban,2,14,9,2,2,0,2,2,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,6,SS (I-X),1,Department of Education,Rural,2,0,0,29,23,25,24,32,27,29,24,28,23,0,0,21,35,29,29,23,25,32,22,31,33,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,6,SS (I-X),1,Department of Education,Rural,2,0,0,9,15,3,10,8,21,13,17,21,13,0,0,16,3,10,6,8,20,8,5,19,17,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,6,SS (I-X),1,Department of Education,Rural,2,0,0,13,10,17,26,13,26,19,35,16,16,0,0,9,18,10,12,15,22,19,24,17,28,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,6,SS (I-X),1,Department of Education,Rural,2,0,0,6,4,9,9,5,10,19,5,6,8,0,0,6,3,11,8,6,7,3,11,10,17,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,6,SS (I-X),1,Department of Education,Rural,2,0,0,2,0,7,2,3,4,10,4,2,10,0,0,3,0,1,0,3,7,6,7,5,8,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,6,SS (I-X),1,Department of Education,Rural,2,0,0,2,5,8,5,4,0,0,2,6,5,0,0,5,3,2,9,5,0,0,6,3,4,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,6,SS (I-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,4,7,11,5,10,7,12,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,20,14,15,3,9,7,2,8,5,1,0,0,8,9,7,4,5,5,3,3,2,2,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,8,4,6,1,2,5,5,3,0,4,4,8,0,0,10,7,1,3,3,0,2,0,3,1,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,5,4,6,4,4,5,3,3,5,3,0,0,0,0,2,3,2,3,2,3,2,2,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,1,1,6,5,11,2,12,9,8,6,8,9,0,0,3,4,6,1,6,5,6,3,2,4,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,7,4,5,7,13,12,9,4,11,3,2,3,1,52,8,4,3,6,4,6,7,5,5,4,1,0,SC
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,8,6,1,3,5,2,7,1,2,1,5,4,0,0,0,7,1,1,2,0,3,0,0,3,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,15,8,0,0,0,0,0,0,0,0,0,0,9,12,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,118,113,128,0,0,0,0,0,0,0,0,0,94,128,133,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,75,84,74,0,0,0,0,0,0,0,0,0,52,79,62,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,31,32,134,150,127,0,0,0,0,0,0,0,23,22,95,118,153,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,23,35,98,130,135,0,0,0,0,0,0,0,32,30,106,107,112,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,20,20,104,141,182,0,0,0,0,0,0,0,19,22,92,147,139,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,3,2,62,76,86,0,0,0,0,0,0,0,2,3,71,73,85,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,7,14,102,110,90,0,0,0,0,0,0,0,6,9,63,67,79,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,19,16,105,137,106,0,0,0,0,0,0,0,14,10,87,112,105,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,7,SS (VI-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,6,5,25,51,47,0,0,0,0,0,0,0,13,10,35,65,79,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211510,ATHAMALLIK NAC,7,SS (VI-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,28,20,26,20,31,0,0,0,0,0,0,0,25,27,36,34,32,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,7,SS (VI-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,16,17,41,68,59,0,0,0,0,0,0,0,18,35,33,35,42,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,10,8,13,7,5,0,0,0,0,0,0,0,6,2,1,1,4,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,9,10,9,8,11,0,0,0,0,0,0,0,2,6,5,4,5,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,6,6,7,6,9,0,0,0,0,0,0,0,5,4,3,6,7,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,85,90,69,0,0,0,0,0,0,0,0,0,69,92,82,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,37,69,66,0,0,0,0,0,0,0,0,0,50,59,58,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,75,149,100,0,0,0,0,0,0,0,0,0,82,174,139,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,131,93,72,0,0,0,0,0,0,0,0,0,83,114,97,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,58,65,75,0,0,0,0,0,0,0,0,0,54,51,81,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,47,66,49,0,0,0,0,0,0,0,0,0,45,43,41,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,1,1,42,89,70,0,0,0,0,0,0,0,1,2,75,64,82,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,51,70,64,0,0,0,0,0,0,0,0,0,58,49,58,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,7,SS (VI-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,4,3,8,0,0,0,0,0,0,0,0,0,3,8,2,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,7,SS (VI-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,22,18,24,0,0,0,0,0,0,0,0,0,13,12,24,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,7,5,8,0,0,0,0,0,0,0,0,0,16,9,26,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,6,6,4,0,0,0,0,0,0,0,0,0,6,5,3,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,6,8,4,0,0,0,0,0,0,0,0,0,7,9,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,6,5,11,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,12,1,8,8,11,0,0,0,0,0,0,0,11,9,12,19,17,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,1,5,6,0,0,0,0,0,0,0,4,4,17,17,23,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,2,5,7,0,0,0,0,0,0,0,0,0,2,9,4,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,103,103,120,116,127,174,171,76,0,0,0,0,84,118,111,104,125,202,200,82,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,2,UPS (I-VIII),1,Department of Education,Rural,2,1,0,94,108,99,110,125,153,144,43,0,0,0,0,92,112,97,107,123,136,165,40,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,2,UPS (I-VIII),1,Department of Education,Rural,2,1,1,193,202,184,221,219,301,247,99,0,0,0,0,154,189,181,197,212,238,241,108,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,2,UPS (I-VIII),1,Department of Education,Rural,2,1,3,141,160,159,156,153,226,179,29,0,0,0,0,161,129,167,136,160,234,147,33,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,123,151,133,144,162,183,200,69,3,1,0,0,160,153,121,124,152,179,166,78,1,3,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,64,93,98,100,101,130,107,20,0,0,0,0,70,71,80,86,75,121,117,36,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,2,UPS (I-VIII),1,Department of Education,Rural,2,1,2,74,82,88,101,102,114,93,16,0,0,0,0,85,79,81,86,75,139,99,27,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,78,103,84,104,94,136,136,15,0,0,0,0,83,83,76,100,102,139,123,22,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,3,2,3,7,6,3,7,0,0,0,0,0,5,4,7,4,6,2,4,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,35,46,36,48,42,57,66,30,0,0,0,0,40,29,46,46,44,47,62,22,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211510,ATHAMALLIK NAC,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,2,3,2,2,6,7,8,8,0,0,0,0,2,3,0,1,2,6,2,3,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,30,34,45,34,53,45,44,31,0,0,0,0,40,36,34,45,33,40,38,28,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,3,6,3,2,2,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,0,0,1,3,2,2,2,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,2,0,0,9,12,3,14,6,13,9,7,0,0,0,0,8,13,9,6,11,15,12,7,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,2,0,0,1,1,5,4,8,16,14,0,0,0,0,0,0,3,5,3,9,6,1,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,2,0,0,3,1,2,1,5,1,3,1,0,0,0,0,2,4,6,4,1,8,7,4,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,2,0,0,2,4,1,5,4,5,5,1,0,0,0,0,2,4,5,3,6,4,2,1,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,2,0,0,2,1,0,0,0,2,2,0,0,0,0,0,2,1,3,4,2,2,0,2,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,2,3,6,4,6,5,0,0,1,0,0,0,0,0,7,14,3,1,0,2,1,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,12,11,7,3,2,3,3,2,0,0,0,0,0,0,2,3,0,0,1,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,16,14,18,21,10,4,5,1,6,3,0,0,0,0,13,12,6,4,7,4,1,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,9,11,9,5,6,5,5,0,1,2,0,0,0,0,12,12,10,6,10,9,7,2,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,45,34,28,15,14,21,20,13,19,5,2,0,0,0,20,14,14,11,8,11,9,6,1,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,3,3,2,3,1,2,2,0,0,0,0,0,0,0,2,0,1,0,1,0,0,1,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,12,8,7,5,5,3,10,5,6,0,0,0,0,0,2,3,6,2,3,2,3,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,18,16,10,10,9,15,14,6,7,2,2,0,0,0,10,7,8,12,8,3,7,1,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,10,4,3,5,0,5,2,4,2,0,0,0,0,0,5,4,2,5,3,4,4,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211510,ATHAMALLIK NAC,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,6,2,3,5,8,5,8,4,2,0,0,0,0,0,6,4,2,3,3,3,1,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,17,18,27,16,21,11,11,19,14,4,0,0,0,0,18,10,18,9,15,5,10,8,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,2,UPS (I-VIII),6,Other Govt. managed schools,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,2,UPS (I-VIII),8,Unrecognized,Rural,2,3,2,1,3,0,1,11,1,1,0,0,0,0,0,0,1,0,2,9,0,1,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,2,UPS (I-VIII),8,Unrecognized,Rural,2,16,14,13,10,13,13,7,4,5,2,0,0,0,0,12,8,10,8,4,6,3,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,2,UPS (I-VIII),8,Unrecognized,Rural,2,4,2,1,2,2,0,0,1,0,0,0,0,0,0,1,2,3,0,0,0,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,2,UPS (I-VIII),8,Unrecognized,Rural,2,7,8,10,1,9,4,2,5,3,1,0,0,0,0,4,3,2,1,2,2,2,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,2,UPS (I-VIII),8,Unrecognized,Rural,2,33,21,31,33,17,17,12,16,12,7,0,0,0,0,16,15,7,10,8,13,7,3,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,2,UPS (I-VIII),8,Unrecognized,Urban,2,40,20,9,3,6,0,0,0,0,0,0,0,0,0,2,3,2,2,2,1,0,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,2,UPS (I-VIII),8,Unrecognized,Urban,2,6,15,6,2,1,0,1,0,1,0,0,0,0,0,1,1,2,0,0,4,2,1,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,88,58,11,4,7,0,0,0,0,0,0,0,83,73,8,10,8,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,69,50,0,0,0,0,0,0,0,0,0,0,47,46,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,54,45,13,0,0,0,0,0,0,0,0,0,52,40,7,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,31,36,10,6,7,0,0,0,0,0,0,0,38,22,9,6,10,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,19,24,4,0,0,0,0,0,0,0,0,0,34,19,3,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,69,66,7,0,0,0,0,0,0,0,0,0,44,51,8,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,36,51,0,0,0,0,0,0,0,0,0,0,36,31,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,21,12,12,0,0,0,0,0,0,0,0,0,16,15,1,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,12,3,2,0,0,0,0,0,0,0,0,0,9,6,4,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,24,22,0,0,0,0,0,0,0,0,0,0,38,19,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,2,7,12,8,9,0,0,0,0,0,0,0,1,2,9,10,6,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,43,30,0,0,0,0,0,0,0,0,0,0,28,23,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,10,5,0,0,0,0,0,0,0,0,0,0,6,10,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,2,6,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,1,4,1,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,31,27,0,0,0,0,0,0,0,0,0,0,27,17,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,4,UPS (VI-VIII),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,18,0,0,0,0,0,SC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,15,13,33,22,31,16,15,22,14,19,18,17,11,12,23,22,15,16,14,12,8,11,8,12,15,13,ST
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,1,1,1,2,2,3,4,1,1,4,0,0,0,2,2,3,2,1,0,6,4,0,2,1,0,1,ST
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,13,14,4,2,4,4,3,1,1,1,1,1,19,1,0,3,0,3,1,1,1,1,2,1,21,2,ST
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,3,HSS (I-XII),7,Central Govt,Rural,3,0,0,0,0,1,0,1,1,0,0,1,3,0,0,0,0,0,0,1,1,2,0,0,1,1,1,ST
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,3,HSS (I-XII),7,Central Govt,Urban,3,0,0,4,4,4,3,4,4,3,3,5,3,1,0,4,1,6,0,3,2,2,1,7,0,0,1,ST
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,5,HSS (VI-XII),7,Central Govt,Rural,3,0,0,0,0,0,0,0,15,6,9,4,6,2,3,0,0,0,0,0,3,5,5,6,5,1,2,ST
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,42,25,0,0,0,0,0,0,0,0,0,0,38,41,ST
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,30,44,0,0,0,0,0,0,0,0,0,0,16,22,ST
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,11,HSS (XI-XII),1,Department of Education,Rural,3,0,11,0,0,0,0,0,0,0,0,0,0,44,11,0,0,0,0,0,0,0,0,0,0,44,34,ST
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,11,HSS (XI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,22,39,ST
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,11,HSS (XI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,9,6,0,0,0,0,0,0,0,0,0,0,0,7,ST
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,11,HSS (XI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,115,47,0,0,0,0,0,0,0,0,0,0,70,60,ST
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,11,HSS (XI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,63,22,0,0,0,0,0,0,0,0,0,0,39,18,ST
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,11,HSS (XI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,9,2,0,0,0,0,0,0,0,0,0,0,29,15,ST
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,16,19,0,0,0,0,0,0,0,0,0,0,13,13,ST
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,72,63,0,0,0,0,0,0,0,0,0,0,58,54,ST
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,7,10,0,0,0,0,0,0,0,0,0,0,5,13,ST
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,13,8,0,0,0,0,0,0,0,0,0,0,33,12,ST
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,2,ST
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,11,HSS (XI-XII),8,Unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,ST
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,1,PS (I-V),1,Department of Education,Rural,3,0,0,155,141,154,170,178,3,3,0,0,0,0,0,161,112,117,144,131,3,5,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,1,PS (I-V),1,Department of Education,Rural,3,5,6,187,201,187,221,180,0,0,0,0,0,0,0,169,184,179,148,184,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,1,PS (I-V),1,Department of Education,Rural,3,0,0,75,80,77,53,58,0,0,0,0,0,0,0,80,53,62,53,62,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,1,PS (I-V),1,Department of Education,Rural,3,0,0,134,134,137,129,162,21,17,4,0,0,0,0,169,154,175,138,140,22,13,4,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,1,PS (I-V),1,Department of Education,Rural,3,3,3,104,81,84,77,80,1,1,0,0,0,0,0,108,82,97,72,94,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,1,PS (I-V),1,Department of Education,Rural,3,0,0,131,145,155,131,146,0,0,0,0,0,0,0,120,124,139,131,118,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,1,PS (I-V),1,Department of Education,Rural,3,17,3,424,435,487,395,424,25,22,0,0,0,0,0,400,364,414,364,413,19,16,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,1,PS (I-V),1,Department of Education,Rural,3,0,0,72,66,66,69,51,0,0,0,0,0,0,0,62,60,64,50,52,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,1,PS (I-V),1,Department of Education,Rural,3,0,0,1,1,1,2,1,0,0,0,0,0,0,0,1,2,1,2,1,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,1,PS (I-V),1,Department of Education,Urban,3,0,0,5,9,2,3,8,0,0,0,0,0,0,0,5,3,5,3,6,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,1,PS (I-V),1,Department of Education,Urban,3,0,0,10,8,5,6,7,0,0,0,0,0,0,0,10,4,5,7,7,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211510,ATHAMALLIK NAC,1,PS (I-V),1,Department of Education,Urban,3,0,0,12,11,9,14,11,0,0,0,0,0,0,0,7,4,7,5,8,0,2,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,1,PS (I-V),1,Department of Education,Urban,3,0,0,18,23,10,19,6,0,0,0,0,0,0,0,16,23,18,23,10,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,9,5,8,6,14,2,2,0,0,0,0,0,9,13,12,21,21,1,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,15,12,7,8,12,0,0,0,0,0,0,0,13,19,21,16,28,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,6,7,4,6,5,0,0,0,0,0,0,0,18,18,15,21,15,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,6,5,5,5,3,0,0,0,0,0,0,0,3,0,3,2,1,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,2,8,4,4,3,0,0,0,0,0,0,0,13,12,20,22,14,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,15,18,25,27,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,15,8,5,8,11,0,0,0,0,0,0,0,111,105,114,112,105,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,4,5,0,4,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,2,2,0,2,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,8,7,10,3,5,3,13,0,0,0,0,0,0,0,14,5,3,2,3,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,1,1,1,0,3,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,47,26,53,52,43,41,34,0,0,0,0,0,0,0,32,23,21,30,28,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,3,0,19,11,12,10,9,0,0,0,0,0,0,0,15,6,13,8,6,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,1,3,4,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,10,0,2,3,1,1,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,1,PS (I-V),8,Unrecognized,Rural,3,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,1,PS (I-V),8,Unrecognized,Rural,3,8,9,9,3,3,0,1,1,3,0,0,0,0,0,5,4,6,6,1,1,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,1,PS (I-V),8,Unrecognized,Rural,3,0,0,4,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,1,PS (I-V),8,Unrecognized,Rural,3,2,2,22,12,5,6,1,0,0,0,0,0,0,0,18,8,5,3,2,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,1,PS (I-V),8,Unrecognized,Rural,3,4,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,1,PS (I-V),8,Unrecognized,Rural,3,8,9,3,2,2,2,1,0,0,0,0,0,0,0,2,3,3,2,0,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,1,PS (I-V),8,Unrecognized,Rural,3,17,18,4,6,3,2,2,0,0,0,0,0,0,0,3,7,1,4,1,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,1,PS (I-V),8,Unrecognized,Rural,3,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,1,PS (I-V),8,Unrecognized,Urban,3,6,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211510,ATHAMALLIK NAC,1,PS (I-V),8,Unrecognized,Urban,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,6,SS (I-X),1,Department of Education,Rural,3,0,0,7,7,12,9,15,27,21,24,28,18,0,0,8,7,14,13,11,27,22,18,28,23,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,1,3,2,3,5,0,0,0,1,0,2,1,0,0,1,9,7,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,6,SS (I-X),1,Department of Education,Rural,3,0,0,13,7,9,3,13,19,18,30,22,28,0,0,6,7,7,10,12,20,15,17,31,24,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,6,SS (I-X),1,Department of Education,Rural,3,0,0,1,1,2,1,4,3,6,5,6,9,0,0,2,3,4,5,4,8,6,6,4,7,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,6,SS (I-X),1,Department of Education,Rural,3,0,0,7,4,8,6,10,31,20,18,25,23,0,0,9,10,6,8,6,9,14,21,31,18,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,1,1,4,0,0,0,0,0,0,0,0,0,0,1,1,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,6,SS (I-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,6,47,47,46,66,50,80,58,60,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,41,21,15,7,6,7,8,7,4,2,0,0,23,7,8,5,8,8,6,4,2,2,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,1,0,4,5,4,3,6,13,6,5,8,7,0,0,4,5,6,8,8,3,8,8,6,5,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,18,16,10,12,14,8,6,8,9,4,5,5,0,0,9,17,7,12,14,7,5,3,4,2,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,1,1,0,1,2,0,0,2,3,3,5,5,0,0,3,2,0,2,1,2,3,0,1,6,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,1,1,3,1,4,1,8,2,0,4,2,2,1,0,3,0,4,1,8,3,4,3,1,0,0,1,ST
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,5,3,8,3,1,0,1,1,1,0,0,0,0,0,6,0,0,1,0,2,2,0,1,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,1,2,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,45,38,44,0,0,0,0,0,0,0,0,0,36,38,39,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,60,92,107,0,0,0,0,0,0,0,0,0,41,101,107,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,3,2,19,27,16,0,0,0,0,0,0,0,0,7,26,16,17,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,10,6,43,51,44,0,0,0,0,0,0,0,10,14,54,74,64,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,5,14,27,53,57,0,0,0,0,0,0,0,14,16,22,48,36,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,1,1,88,82,96,0,0,0,0,0,0,0,0,1,70,118,104,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,9,13,119,131,88,0,0,0,0,0,0,0,6,6,84,122,66,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,7,5,38,43,42,0,0,0,0,0,0,0,9,3,30,30,23,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,9,1,11,21,10,0,0,0,0,0,0,0,4,3,8,20,13,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211510,ATHAMALLIK NAC,7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,2,5,2,8,14,0,0,0,0,0,0,0,19,23,15,14,15,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,2,4,5,11,7,0,0,0,0,0,0,0,2,6,6,7,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,52,29,38,33,43,0,0,0,0,0,0,0,11,18,14,10,10,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,21,21,27,42,26,0,0,0,0,0,0,0,11,15,9,25,26,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,41,42,34,59,53,0,0,0,0,0,0,0,19,10,21,26,11,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,28,39,42,0,0,0,0,0,0,0,0,0,28,37,30,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,72,113,105,0,0,0,0,0,0,0,0,0,81,116,102,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,28,77,50,0,0,0,0,0,0,0,0,0,33,63,56,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,32,52,27,0,0,0,0,0,0,0,0,0,33,42,59,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,10,8,7,0,0,0,0,0,0,0,0,0,9,18,18,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,51,83,85,0,0,0,0,0,0,0,0,0,73,80,86,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,36,38,170,147,149,0,0,0,0,0,0,0,13,14,153,173,126,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,11,14,12,0,0,0,0,0,0,0,0,0,15,20,11,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,7,SS (VI-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,7,SS (VI-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,6,5,2,0,0,0,0,0,0,0,0,0,4,3,3,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,3,5,6,0,0,0,0,0,0,0,0,0,0,0,3,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,5,7,5,0,0,0,0,0,0,0,0,0,6,6,7,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,7,5,7,0,0,0,0,0,0,0,0,0,6,4,8,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,8,9,3,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,8,5,7,5,7,0,0,0,0,0,0,0,12,4,18,19,12,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,6,4,6,0,0,0,0,0,0,0,0,1,22,21,15,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,7,5,4,0,0,0,0,0,0,0,0,0,2,3,1,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,56,46,64,58,66,122,108,46,0,0,0,0,51,54,52,67,58,97,91,56,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,2,UPS (I-VIII),1,Department of Education,Rural,3,3,3,87,103,106,115,112,193,168,94,0,0,0,0,102,112,100,112,84,162,161,71,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,54,65,68,73,60,97,57,54,0,0,0,0,46,67,56,57,52,71,58,41,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,61,54,61,58,68,113,80,51,0,0,0,0,68,53,71,62,55,86,90,50,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,54,45,48,48,51,72,85,31,1,0,0,0,41,29,51,37,51,64,63,29,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,106,114,128,138,117,217,166,50,0,0,0,0,108,103,105,95,100,166,137,44,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,2,UPS (I-VIII),1,Department of Education,Rural,3,0,1,265,251,263,224,253,323,309,97,0,0,0,0,252,230,244,203,240,312,249,97,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,52,43,71,64,78,77,62,24,0,0,0,0,54,55,60,56,47,85,51,20,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,1,1,1,0,2,1,0,0,0,0,0,3,2,0,1,0,1,2,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,1,0,0,0,0,2,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,15,9,14,12,13,16,12,7,0,0,0,0,11,7,9,4,6,5,20,5,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211510,ATHAMALLIK NAC,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,16,5,7,9,6,9,9,4,0,0,0,0,11,6,8,14,4,17,5,2,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,0,0,2,2,4,6,5,9,3,0,0,0,0,0,3,11,8,10,22,26,21,10,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,0,0,4,2,4,7,2,2,2,0,0,0,0,0,11,14,13,9,9,22,17,25,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,3,1,0,0,0,0,0,0,0,11,9,22,17,18,15,7,17,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,0,0,69,90,50,54,68,71,63,0,0,0,0,0,31,39,22,29,24,30,27,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,0,0,5,3,1,3,6,0,2,2,0,0,0,0,8,3,9,15,9,26,22,11,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,0,0,97,74,56,53,56,62,41,1,0,0,0,0,86,76,49,67,58,69,74,14,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,0,0,1,4,1,2,2,3,4,4,0,0,0,0,6,18,25,15,11,20,18,21,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,1,6,4,0,0,0,1,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,5,5,7,2,3,6,2,0,1,0,0,0,0,0,5,0,4,2,3,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,7,2,3,4,0,2,2,3,1,0,0,0,0,0,8,12,8,9,9,4,9,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,19,10,12,12,10,8,8,5,7,8,0,0,0,0,7,9,14,7,5,4,7,7,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,3,4,3,1,1,2,2,2,0,0,0,0,0,0,45,37,33,36,30,36,35,31,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,9,3,13,10,10,11,8,8,16,3,0,0,0,0,2,7,10,8,3,4,4,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,3,9,7,7,4,5,1,8,0,0,0,0,0,0,3,9,3,3,4,4,2,1,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,3,2,3,3,1,3,1,4,1,0,0,0,0,0,3,1,0,0,2,2,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211510,ATHAMALLIK NAC,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,2,2,2,0,1,1,1,1,2,0,0,0,0,0,1,0,1,1,0,1,2,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,3,3,0,2,0,0,0,1,2,2,0,0,0,0,2,0,1,0,0,2,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,2,UPS (I-VIII),6,Other Govt. managed schools,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,2,0,1,0,0,0,0,1,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,2,UPS (I-VIII),8,Unrecognized,Rural,3,67,38,8,6,9,10,4,3,3,2,0,0,0,0,2,4,6,10,4,2,2,1,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,2,UPS (I-VIII),8,Unrecognized,Rural,3,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,2,UPS (I-VIII),8,Unrecognized,Rural,3,8,10,0,1,1,1,2,1,5,2,0,0,0,0,2,2,2,0,1,2,1,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,2,UPS (I-VIII),8,Unrecognized,Rural,3,8,10,7,7,7,6,1,4,5,0,0,0,0,0,7,8,4,3,0,3,2,1,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,2,UPS (I-VIII),8,Unrecognized,Urban,3,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,2,UPS (I-VIII),8,Unrecognized,Urban,3,8,10,1,1,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,24,17,5,4,1,0,0,0,0,0,0,0,29,17,1,4,6,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,95,77,0,0,0,0,0,0,0,0,0,0,74,88,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,17,9,1,0,0,0,0,0,0,0,0,0,19,22,1,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,12,23,10,0,6,0,0,0,0,0,0,0,15,15,9,4,8,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,7,4,2,0,0,0,0,0,0,0,0,0,6,4,2,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,58,56,13,0,0,0,0,0,0,0,0,0,57,58,6,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,59,63,2,0,0,0,0,0,0,0,0,0,79,63,5,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,5,6,2,0,0,0,0,0,0,0,0,0,4,4,2,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,11,11,0,0,0,0,0,0,0,0,0,0,11,9,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,15,19,12,8,9,0,0,0,0,0,0,0,16,9,9,10,6,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,9,17,0,0,0,0,0,0,0,0,0,0,20,19,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,8,4,0,0,0,0,0,0,0,0,0,0,17,14,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,5,2,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,17,13,0,0,0,0,0,0,0,0,0,0,15,11,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,3,4,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,4,UPS (VI-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,15,0,0,0,0,0,ST
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,30,20,31,54,30,36,19,13,25,31,6,13,2,2,25,28,29,30,18,4,10,3,3,3,1,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,10,8,16,12,11,16,20,13,9,9,2,2,0,2,9,4,14,8,7,13,14,4,0,1,1,1,OBC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,16,44,30,23,26,47,19,22,29,22,5,6,12,9,11,21,21,29,15,16,28,18,11,4,21,4,OBC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,3,HSS (I-XII),7,Central Govt,Rural,4,0,0,6,6,3,4,3,1,3,1,4,3,3,0,5,2,2,3,1,0,2,0,1,0,0,1,OBC
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,3,HSS (I-XII),7,Central Govt,Urban,4,0,0,13,9,5,4,4,2,3,6,4,5,0,1,6,10,6,6,6,1,5,4,3,2,4,14,OBC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,5,HSS (VI-XII),7,Central Govt,Rural,4,0,0,0,0,0,0,0,12,20,14,14,18,11,8,0,0,0,0,0,10,13,16,13,10,6,11,OBC
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,143,160,0,0,0,0,0,0,0,0,0,0,149,150,OBC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,199,225,0,0,0,0,0,0,0,0,0,0,153,155,OBC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,23,21,0,0,0,0,0,0,0,0,0,0,26,22,OBC
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,11,HSS (XI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,10,15,0,0,0,0,0,0,0,0,0,0,47,14,OBC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,11,HSS (XI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,11,HSS (XI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,36,30,0,0,0,0,0,0,0,0,0,0,69,49,OBC
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,11,HSS (XI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,130,79,0,0,0,0,0,0,0,0,0,0,168,84,OBC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,11,HSS (XI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,70,70,0,0,0,0,0,0,0,0,0,0,60,62,OBC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,220,266,0,0,0,0,0,0,0,0,0,0,170,202,OBC
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,216,246,0,0,0,0,0,0,0,0,0,0,210,245,OBC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,6,OBC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,56,20,0,0,0,0,0,0,0,0,0,0,114,10,OBC
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,76,67,0,0,0,0,0,0,0,0,0,0,48,50,OBC
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,11,HSS (XI-XII),8,Unrecognized,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,1,PS (I-V),1,Department of Education,Rural,4,0,0,311,332,390,427,409,37,35,3,0,0,0,0,348,332,331,368,377,38,25,5,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,1,PS (I-V),1,Department of Education,Rural,4,64,62,206,234,265,292,275,9,6,0,0,0,0,0,238,294,238,280,289,0,4,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,1,PS (I-V),1,Department of Education,Rural,4,0,0,163,179,190,217,196,3,2,0,0,0,0,0,247,166,178,180,200,1,3,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,1,PS (I-V),1,Department of Education,Rural,4,2,2,383,399,385,427,428,68,53,2,0,0,0,0,359,313,378,350,379,46,45,4,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,1,PS (I-V),1,Department of Education,Rural,4,37,32,164,158,160,172,166,5,10,0,0,0,0,0,154,141,142,159,139,18,15,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,1,PS (I-V),1,Department of Education,Rural,4,0,0,202,216,247,274,249,0,0,0,0,0,0,0,191,240,225,240,233,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,1,PS (I-V),1,Department of Education,Rural,4,0,0,157,174,181,165,173,11,10,0,0,0,0,0,143,148,158,144,151,6,10,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,1,PS (I-V),1,Department of Education,Rural,4,0,0,58,54,66,81,68,0,0,0,0,0,0,0,68,65,59,62,64,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,1,PS (I-V),1,Department of Education,Rural,4,0,0,1,1,2,1,5,0,0,0,0,0,0,0,0,1,5,2,3,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,1,PS (I-V),1,Department of Education,Urban,4,0,0,10,12,7,7,0,0,0,0,0,0,0,0,8,7,14,0,0,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,1,PS (I-V),1,Department of Education,Urban,4,0,0,25,29,37,28,32,0,0,0,0,0,0,0,24,22,24,27,28,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211510,ATHAMALLIK NAC,1,PS (I-V),1,Department of Education,Urban,4,0,0,15,21,14,21,21,11,9,0,0,0,0,0,16,22,15,19,19,6,2,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,1,PS (I-V),1,Department of Education,Urban,4,0,0,21,19,27,38,24,0,0,0,0,0,0,0,27,30,31,27,33,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,4,8,13,13,15,0,1,0,0,0,0,0,5,12,5,7,6,2,2,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,0,3,0,1,2,0,0,0,0,0,0,0,0,1,3,0,4,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,14,16,12,8,9,0,0,0,0,0,0,0,7,6,6,10,4,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,5,17,13,28,12,0,0,0,0,0,0,0,13,13,12,11,20,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,3,1,6,3,3,0,0,0,0,0,0,0,2,1,4,4,4,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,2,2,0,3,2,0,0,0,0,0,0,0,2,1,3,3,4,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,1,1,3,4,3,0,0,0,0,0,0,0,3,3,0,2,3,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,57,37,18,27,19,19,10,0,0,0,0,0,0,0,14,18,15,8,6,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,14,10,11,20,16,17,2,2,5,0,0,0,0,0,7,5,5,7,3,4,3,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,87,86,46,51,43,29,32,16,16,11,0,0,0,0,51,35,26,28,19,19,17,9,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,61,68,47,21,27,31,18,12,20,0,0,0,0,0,38,20,22,19,8,8,4,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,33,18,17,10,12,16,8,0,0,0,0,0,0,0,17,14,19,10,8,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,61,35,37,27,29,22,11,0,0,0,0,0,0,0,21,22,17,12,8,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,7,6,5,10,4,9,1,0,0,0,0,0,0,0,4,4,5,5,3,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,33,25,10,15,3,4,9,0,0,0,0,0,0,0,3,8,5,2,5,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,2,2,2,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,2,4,2,0,2,0,0,0,0,0,0,0,5,6,2,0,0,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,10,10,17,11,10,3,6,0,0,0,0,0,0,0,13,2,5,4,5,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,1,PS (I-V),8,Unrecognized,Rural,4,128,12,12,56,11,5,20,0,0,0,0,0,0,0,20,19,48,6,6,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,1,PS (I-V),8,Unrecognized,Rural,4,18,18,26,22,10,12,14,12,14,0,0,0,0,0,14,15,15,14,8,6,4,7,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,1,PS (I-V),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,1,PS (I-V),8,Unrecognized,Rural,4,43,33,49,42,29,19,18,0,0,0,0,0,0,0,21,19,19,21,20,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,1,PS (I-V),8,Unrecognized,Rural,4,43,19,6,7,6,4,0,0,0,0,0,0,0,0,8,6,3,1,0,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,1,PS (I-V),8,Unrecognized,Rural,4,104,81,45,32,44,19,21,5,4,0,0,0,0,0,29,31,23,16,5,8,2,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,1,PS (I-V),8,Unrecognized,Rural,4,16,12,13,17,13,4,2,0,0,0,0,0,0,0,6,7,3,5,1,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,1,PS (I-V),8,Unrecognized,Rural,4,4,1,30,14,15,10,3,0,0,0,0,0,0,0,21,13,10,12,12,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,1,PS (I-V),8,Unrecognized,Urban,4,17,7,2,6,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211510,ATHAMALLIK NAC,1,PS (I-V),8,Unrecognized,Urban,4,35,10,7,4,8,3,4,0,0,0,0,0,0,0,2,4,6,2,1,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,6,SS (I-X),1,Department of Education,Rural,4,0,0,33,37,30,39,40,51,47,59,70,57,0,0,34,33,46,32,52,50,53,53,46,68,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,6,SS (I-X),1,Department of Education,Rural,4,0,0,15,15,19,32,23,14,34,42,32,15,0,0,9,16,18,14,10,10,33,46,24,23,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,6,SS (I-X),1,Department of Education,Rural,4,0,0,41,43,37,40,40,62,54,66,78,61,0,0,46,33,33,38,45,47,56,58,65,77,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,6,SS (I-X),1,Department of Education,Rural,4,0,0,12,9,10,10,15,17,12,14,15,10,0,0,6,7,15,10,10,8,16,11,26,14,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,6,SS (I-X),1,Department of Education,Rural,4,0,0,5,5,5,8,7,13,16,10,14,12,0,0,5,10,1,6,8,12,16,10,18,14,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,6,SS (I-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,16,14,15,0,0,0,0,0,0,0,0,0,10,11,13,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,6,SS (I-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1,2,1,3,3,4,1,3,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,20,29,30,49,27,17,20,16,10,10,0,0,11,22,21,33,12,11,16,14,10,11,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,15,6,9,8,8,6,8,5,5,9,2,3,0,0,6,3,6,5,5,4,9,8,7,3,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,24,25,44,41,38,27,18,24,27,25,0,0,0,0,35,37,38,17,18,27,27,27,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,58,26,30,29,27,34,19,15,14,13,2,4,0,0,21,17,17,22,18,10,13,9,2,1,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,6,5,6,6,6,4,3,17,20,18,11,15,0,0,3,8,8,1,1,15,18,5,2,13,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,44,35,62,53,48,67,67,65,30,27,36,38,4,4,32,44,41,44,58,54,42,38,35,5,5,3,OBC
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,28,23,12,17,5,9,13,16,17,19,10,8,0,0,9,7,5,5,7,11,11,11,7,8,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,4,6,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,301,405,387,0,0,0,0,0,0,0,0,0,253,338,370,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,199,257,284,0,0,0,0,0,0,0,0,0,200,260,255,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,26,26,288,320,356,0,0,0,0,0,0,0,11,34,255,323,333,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,145,164,309,404,361,0,0,0,0,0,0,0,158,138,295,369,359,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,18,19,214,267,261,0,0,0,0,0,0,0,18,21,165,231,240,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,7,7,264,308,303,0,0,0,0,0,0,0,7,10,211,337,301,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,8,14,224,260,262,0,0,0,0,0,0,0,11,6,146,178,204,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,29,36,103,121,92,0,0,0,0,0,0,0,21,32,94,100,98,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,7,SS (VI-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,26,11,64,146,179,0,0,0,0,0,0,0,19,13,64,135,166,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211510,ATHAMALLIK NAC,7,SS (VI-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,19,12,17,49,55,0,0,0,0,0,0,0,24,27,35,58,75,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,7,SS (VI-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,18,28,55,81,72,0,0,0,0,0,0,0,44,38,70,89,114,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,7,SS (VI-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,7,SS (VI-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,9,6,12,11,12,0,0,0,0,0,0,0,4,4,9,10,5,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,7,SS (VI-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,215,263,268,0,0,0,0,0,0,0,0,0,199,248,268,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,189,243,207,0,0,0,0,0,0,0,0,0,140,234,227,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,128,269,266,0,0,0,0,0,0,0,0,0,171,290,265,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,301,306,335,0,0,0,0,0,0,0,0,0,301,291,325,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,134,167,172,0,0,0,0,0,0,0,0,0,121,136,144,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,198,257,239,0,0,0,0,0,0,0,0,0,141,217,209,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,13,5,175,159,172,0,0,0,0,0,0,0,2,5,256,274,275,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,64,80,105,0,0,0,0,0,0,0,0,0,79,113,127,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,7,SS (VI-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,11,8,10,0,0,0,0,0,0,0,0,0,2,5,5,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,7,SS (VI-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,38,34,26,0,0,0,0,0,0,0,0,0,27,40,14,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,5,27,35,0,0,0,0,0,0,0,0,0,36,47,45,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,4,3,4,0,0,0,0,0,0,0,0,0,3,4,5,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,7,5,4,0,0,0,0,0,0,0,0,0,6,4,3,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,4,13,3,0,0,0,0,0,0,0,0,0,37,24,23,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,4,4,5,7,4,0,0,0,0,0,0,0,5,7,18,11,17,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,2,6,1,0,0,0,0,0,0,0,0,1,6,5,6,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,2,4,8,0,0,0,0,0,0,0,0,0,1,0,1,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,183,212,235,237,273,378,445,140,0,0,0,0,180,211,198,251,272,373,384,132,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,2,UPS (I-VIII),1,Department of Education,Rural,4,8,5,203,214,256,252,249,373,395,131,0,0,0,0,180,239,248,247,226,337,432,126,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,2,UPS (I-VIII),1,Department of Education,Rural,4,15,12,315,296,305,356,392,515,535,208,0,0,0,0,277,321,296,421,340,482,544,203,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,2,UPS (I-VIII),1,Department of Education,Rural,4,4,3,280,320,357,362,349,478,494,83,0,0,0,0,271,269,293,314,315,450,423,95,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,195,184,188,235,228,408,362,158,2,6,0,0,167,188,180,181,178,303,302,128,5,3,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,197,217,266,248,213,318,352,65,0,0,0,0,204,217,212,263,241,335,369,82,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,2,UPS (I-VIII),1,Department of Education,Rural,4,9,3,169,159,166,185,175,227,204,45,0,0,0,0,144,171,143,150,193,223,224,45,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,71,66,100,90,92,146,147,19,0,0,0,0,71,83,64,104,113,125,142,10,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,34,34,44,55,61,92,88,43,0,0,0,0,29,34,45,45,74,69,89,34,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211510,ATHAMALLIK NAC,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,14,12,17,19,17,21,16,13,0,0,0,0,13,14,15,12,18,17,9,9,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,24,10,12,18,32,44,27,26,0,0,0,0,21,16,17,27,19,20,33,15,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,4,0,0,5,3,2,5,4,1,3,0,0,0,0,0,4,0,1,4,1,2,3,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,4,0,0,1,1,0,0,1,0,0,0,0,0,0,0,2,1,3,0,0,3,1,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,4,0,0,1,5,0,2,1,2,6,0,0,0,0,0,3,2,1,4,2,4,1,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,4,0,0,1,0,2,2,1,3,1,3,0,0,0,0,1,3,2,1,0,3,0,3,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,4,0,0,1,5,4,7,6,6,5,0,0,0,0,0,1,5,5,6,5,1,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,4,0,0,5,4,5,4,8,2,2,1,0,0,0,0,5,3,5,4,2,5,2,7,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,5,6,10,8,5,5,6,4,0,0,0,0,0,9,2,6,4,1,8,5,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,29,35,17,20,15,8,13,7,3,0,0,0,0,0,12,13,12,7,4,0,7,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,117,73,111,84,74,53,35,28,10,0,3,0,0,0,54,46,39,27,13,17,15,1,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,78,46,59,27,23,26,19,24,20,2,0,0,0,0,37,19,14,23,15,14,11,4,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,163,123,95,100,70,71,88,60,55,32,2,3,0,0,76,75,76,70,51,41,50,21,4,4,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,63,66,27,47,32,34,34,19,24,0,0,0,0,0,31,33,32,20,25,14,14,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,63,30,36,36,30,32,30,52,41,15,0,0,0,0,23,23,15,20,18,21,19,3,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,33,24,15,27,29,30,36,23,20,3,2,0,0,0,9,17,18,18,22,15,22,2,2,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,31,33,17,20,17,22,24,15,8,0,0,0,0,0,9,24,28,9,17,7,12,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211510,ATHAMALLIK NAC,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,23,10,18,24,18,12,24,12,19,3,0,0,0,0,13,15,18,8,10,9,7,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,120,94,67,46,68,67,63,71,63,29,0,0,0,0,39,42,36,47,68,45,40,28,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,2,UPS (I-VIII),6,Other Govt. managed schools,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,2,UPS (I-VIII),8,Unrecognized,Rural,4,29,18,26,39,31,30,39,21,15,7,0,0,0,0,20,23,19,19,13,9,8,2,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,2,UPS (I-VIII),8,Unrecognized,Rural,4,100,63,94,56,47,49,34,29,28,2,0,0,0,0,49,48,40,48,27,20,18,7,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,2,UPS (I-VIII),8,Unrecognized,Rural,4,8,0,7,3,4,8,4,0,1,1,0,0,0,0,2,4,2,3,3,1,1,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,2,UPS (I-VIII),8,Unrecognized,Rural,4,34,26,16,23,16,21,16,6,14,4,0,0,0,0,9,10,7,12,12,4,4,1,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,2,UPS (I-VIII),8,Unrecognized,Rural,4,46,49,35,31,37,37,30,24,16,3,0,0,0,0,27,37,24,32,33,20,13,4,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211509,ANGUL MPL,2,UPS (I-VIII),8,Unrecognized,Urban,4,40,40,22,22,17,1,3,4,0,0,0,0,0,0,9,19,5,0,0,3,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211511,TALCHER MPL,2,UPS (I-VIII),8,Unrecognized,Urban,4,1,3,3,2,2,3,3,5,2,0,0,0,0,0,1,1,0,0,2,1,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,177,218,25,23,25,0,0,0,0,0,0,0,167,176,21,25,32,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,136,165,0,0,0,0,0,0,0,0,0,0,141,139,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,68,63,11,0,0,0,0,0,0,0,0,0,70,54,2,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,121,105,23,33,35,0,0,0,0,0,0,0,93,108,22,35,23,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,19,30,6,0,0,0,0,0,0,0,0,0,27,28,5,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,159,160,14,0,0,0,0,0,0,0,0,0,131,161,15,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,78,84,7,0,0,0,0,0,0,0,0,0,56,72,9,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,11,18,4,0,0,0,0,0,0,0,0,0,7,12,3,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,10,11,2,0,0,0,0,0,0,0,0,0,8,9,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211501,ANGUL,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,106,112,0,0,0,0,0,0,0,0,0,0,100,124,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211502,ATHAMALLIK,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,12,15,16,23,21,0,0,0,0,0,0,0,7,8,16,27,21,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211504,CHHENDIPADA,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,69,105,0,0,0,0,0,0,0,0,0,0,75,63,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211505,KANIHA,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,8,11,0,0,0,0,0,0,0,0,0,0,5,10,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211506,KISHORENAGAR,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,13,19,0,0,0,0,0,0,0,0,0,0,22,15,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211507,PALLAHARA,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,21,22,3,0,0,0,0,0,0,0,0,0,13,11,1,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,22,24,0,0,0,0,0,0,0,0,0,0,21,24,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211508,TALCHER,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,21,Odisha,2115,ANGUL,211503,BANARPAL,4,UPS (VI-VIII),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,35,0,0,0,0,0,OBC

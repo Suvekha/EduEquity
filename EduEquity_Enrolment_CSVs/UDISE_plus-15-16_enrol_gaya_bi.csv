@@ -1,0 +1,993 @@
+ac_year,state_code,state_name,district_code,district_name,block_code,block_name,sch_category_id,category_name,sch_mgmt_id,sch_mgmt_name,loc_name,caste_id,pre_primary_boys,pre_primary_girls,class_1_boys,class_2_boys,class_3_boys,class_4_boys,class_5_boys,class_6_boys,class_7_boys,class_8_boys,class_9_boys,class_10_boys,class_11_boys,class_12_boys,class_1_girls,class_2_girls,class_3_girls,class_4_girls,class_5_girls,class_6_girls,class_7_girls,class_8_girls,class_9_girls,class_10_girls,class_11_girls,class_12_girls,caste_name
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,1,PS (I-V),1,Department of Education,Rural,2,0,0,789,582,578,573,503,0,0,0,0,0,0,0,846,654,605,566,524,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,3,HSS (I-XII),1,Department of Education,Rural,1,0,0,9,7,8,5,12,9,11,12,10,11,0,0,9,7,6,9,10,10,11,11,25,25,0,0,General
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,3,HSS (I-XII),1,Department of Education,Rural,1,0,0,1,0,2,1,1,0,0,0,2,3,0,0,0,1,1,2,5,1,2,2,2,1,0,0,General
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,12,20,12,16,16,10,24,31,57,76,43,73,11,10,10,9,10,11,19,17,30,53,22,10,General
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,48,25,28,15,20,24,15,20,20,17,11,13,1,0,10,4,10,7,12,2,10,6,2,7,1,0,General
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,0,0,73,70,82,72,79,81,91,88,78,88,37,39,108,104,97,108,102,100,89,96,95,99,52,64,General
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,3,HSS (I-XII),7,Central Govt,Urban,1,0,0,19,13,22,29,31,41,46,52,18,38,29,30,19,20,19,20,26,46,40,38,37,18,29,28,General
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,3,HSS (I-XII),8,Unrecognized,Urban,1,29,15,142,133,175,141,178,186,178,216,223,197,58,72,104,121,118,121,114,143,136,159,250,185,59,62,General
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,2,4,3,2,3,2,4,3,10,8,0,0,3,2,4,2,4,2,5,3,10,12,0,0,General
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,92,105,17,54,0,0,0,0,0,0,0,0,0,0,15,31,General
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,68,36,50,General
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,20,47,39,34,0,0,0,0,0,0,0,0,80,65,73,85,General
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,63,100,22,11,0,0,0,0,0,0,0,0,117,130,29,53,General
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,59,81,15,23,0,0,0,0,0,0,0,0,125,143,90,83,General
+2015-16,10,Bihar,1035,GAYA,103505,NEEM CHAK BATHANI,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,29,27,3,13,0,0,0,0,0,0,0,0,18,33,0,0,General
+2015-16,10,Bihar,1035,GAYA,103506,MOHARA,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,44,48,41,30,0,0,0,0,0,0,0,0,53,48,33,31,General
+2015-16,10,Bihar,1035,GAYA,103507,ATRI,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,60,46,24,28,0,0,0,0,0,0,0,0,95,93,107,77,General
+2015-16,10,Bihar,1035,GAYA,103508,MANPUR,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,8,15,12,0,0,0,0,0,0,0,0,0,11,24,8,0,General
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,52,46,2,3,0,0,0,0,0,0,0,0,63,81,15,1,General
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,75,65,26,28,0,0,0,0,0,0,0,0,37,36,42,46,General
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,34,29,16,55,0,0,0,0,0,0,0,0,64,64,51,61,General
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,137,69,50,41,0,0,0,0,0,0,0,0,108,72,55,55,General
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,20,24,0,0,0,0,0,0,0,0,0,0,45,25,0,0,General
+2015-16,10,Bihar,1035,GAYA,103515,IMAMGANJ,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,31,6,0,0,0,0,0,0,0,0,0,0,28,41,0,0,General
+2015-16,10,Bihar,1035,GAYA,103516,DUMARIA,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,53,53,30,20,0,0,0,0,0,0,0,0,50,50,15,15,General
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,8,8,7,6,0,0,0,0,0,0,0,0,17,18,15,8,General
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,32,47,13,18,0,0,0,0,0,0,0,0,0,0,1,2,General
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,85,102,16,15,0,0,0,0,0,0,0,0,82,102,9,35,General
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,67,96,14,15,0,0,0,0,0,0,0,0,103,106,57,42,General
+2015-16,10,Bihar,1035,GAYA,103523,MOHANPUR,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,34,29,22,34,0,0,0,0,0,0,0,0,26,62,16,32,General
+2015-16,10,Bihar,1035,GAYA,103524,BARACHATTI,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,11,14,General
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,108,112,84,105,0,0,0,0,0,0,0,0,131,143,111,96,General
+2015-16,10,Bihar,1035,GAYA,103508,MANPUR,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,149,122,66,84,0,0,0,0,0,0,0,0,84,109,20,35,General
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,10,HSS (IX-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,202,102,61,39,0,0,0,0,0,0,0,0,159,177,52,52,General
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,16,86,22,General
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,5,HSS (VI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,40,30,85,104,0,0,0,0,0,0,0,0,0,0,60,82,General
+2015-16,10,Bihar,1035,GAYA,103506,MOHARA,5,HSS (VI-XII),7,Central Govt,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,17,34,0,0,0,0,0,0,0,0,0,0,22,26,General
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,61,0,0,0,0,0,0,0,0,0,0,0,28,0,General
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103515,IMAMGANJ,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,11,HSS (XI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,37,68,490,487,0,0,0,0,0,0,0,0,38,48,308,201,General
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,11,HSS (XI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,1,PS (I-V),1,Department of Education,Rural,1,0,0,87,87,78,90,93,1,1,4,0,0,0,0,91,105,93,106,111,2,4,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,1,PS (I-V),1,Department of Education,Rural,1,0,0,119,77,129,103,95,7,4,4,0,0,0,0,136,93,118,112,124,3,4,4,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,1,PS (I-V),1,Department of Education,Rural,1,0,0,205,160,224,188,253,0,0,0,0,0,0,0,229,187,206,203,223,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,1,PS (I-V),1,Department of Education,Rural,1,0,0,29,20,40,35,51,0,0,0,0,0,0,0,27,30,20,38,54,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103505,NEEM CHAK BATHANI,1,PS (I-V),1,Department of Education,Rural,1,1,4,29,43,37,30,34,10,5,3,0,0,0,0,33,36,35,47,35,4,2,4,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103506,MOHARA,1,PS (I-V),1,Department of Education,Rural,1,0,0,81,78,84,83,93,0,0,0,0,0,0,0,105,75,80,78,80,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103507,ATRI,1,PS (I-V),1,Department of Education,Rural,1,0,0,55,37,53,51,40,11,8,6,0,0,0,0,58,36,49,55,63,9,8,10,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103508,MANPUR,1,PS (I-V),1,Department of Education,Rural,1,0,0,60,62,75,53,68,0,0,0,0,0,0,0,61,83,71,80,86,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,1,PS (I-V),1,Department of Education,Rural,1,0,0,213,188,177,199,181,0,0,0,0,0,0,0,221,201,214,189,207,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,1,PS (I-V),1,Department of Education,Rural,1,0,0,39,29,34,21,28,0,0,0,0,0,0,0,46,23,28,49,31,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,1,PS (I-V),1,Department of Education,Rural,1,0,0,54,71,64,58,85,26,10,10,0,0,0,0,72,65,68,72,94,14,14,8,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,1,PS (I-V),1,Department of Education,Rural,1,0,0,65,47,62,44,45,0,0,0,0,0,0,0,77,40,55,48,43,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,1,PS (I-V),1,Department of Education,Rural,1,0,0,29,56,39,37,33,0,0,0,0,0,0,0,47,56,62,52,57,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,1,PS (I-V),1,Department of Education,Rural,1,0,0,46,37,43,32,54,2,3,2,3,1,0,0,54,40,54,45,68,1,1,1,2,1,0,0,General
+2015-16,10,Bihar,1035,GAYA,103515,IMAMGANJ,1,PS (I-V),1,Department of Education,Rural,1,0,0,119,100,101,96,99,0,0,0,0,0,0,0,121,101,116,120,107,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103516,DUMARIA,1,PS (I-V),1,Department of Education,Rural,1,1,0,35,29,30,33,25,0,0,0,0,0,0,0,30,28,29,25,22,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,1,PS (I-V),1,Department of Education,Rural,1,0,0,47,59,64,47,43,0,0,0,0,0,0,0,47,48,50,51,36,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,1,PS (I-V),1,Department of Education,Rural,1,0,0,23,46,25,34,35,2,2,1,0,0,0,0,28,38,36,29,41,0,0,2,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,1,PS (I-V),1,Department of Education,Rural,1,9,7,46,47,50,55,52,12,11,7,0,0,0,0,52,48,53,56,56,15,6,7,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103520,TANKUPPA,1,PS (I-V),1,Department of Education,Rural,1,0,0,46,60,47,39,41,0,0,0,0,0,0,0,65,54,62,49,40,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,1,PS (I-V),1,Department of Education,Rural,1,0,0,188,150,170,161,134,2,1,4,0,0,0,0,190,164,190,177,185,4,5,2,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,1,PS (I-V),1,Department of Education,Rural,1,0,0,71,86,74,67,87,4,0,0,0,0,0,0,97,108,84,97,95,3,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103523,MOHANPUR,1,PS (I-V),1,Department of Education,Rural,1,0,0,43,55,54,55,65,1,4,1,0,0,0,0,60,40,34,67,58,2,7,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103524,BARACHATTI,1,PS (I-V),1,Department of Education,Rural,1,0,0,23,14,20,16,25,0,0,0,0,0,0,0,19,11,18,19,29,0,2,1,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,1,PS (I-V),1,Department of Education,Urban,1,0,0,52,56,50,35,58,14,16,12,0,0,0,0,72,63,57,59,67,20,14,15,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,1,PS (I-V),1,Department of Education,Urban,1,0,0,24,25,33,35,36,0,0,0,0,0,0,0,28,48,43,55,43,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,1,PS (I-V),1,Department of Education,Urban,1,0,0,2,5,1,1,1,0,0,0,0,0,0,0,0,1,4,3,2,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,6,3,4,3,3,6,4,0,0,0,0,0,0,0,3,4,2,2,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,1,0,2,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,10,6,3,8,3,3,2,0,0,0,0,0,0,0,1,4,4,4,3,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,1,PS (I-V),8,Unrecognized,Rural,1,8,5,3,3,2,0,0,0,0,0,0,0,0,0,3,5,2,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,1,PS (I-V),8,Unrecognized,Rural,1,3,3,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103505,NEEM CHAK BATHANI,1,PS (I-V),8,Unrecognized,Rural,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,1,PS (I-V),8,Unrecognized,Rural,1,115,52,40,14,45,17,22,0,0,0,0,0,0,0,8,5,18,13,12,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,1,PS (I-V),8,Unrecognized,Rural,1,0,0,15,13,16,15,12,0,0,0,0,0,0,0,10,5,4,8,4,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,1,PS (I-V),8,Unrecognized,Rural,1,8,7,4,3,3,4,1,0,0,0,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,1,PS (I-V),8,Unrecognized,Rural,1,3,2,1,0,2,4,2,0,0,0,0,0,0,0,2,1,2,2,1,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,1,PS (I-V),8,Unrecognized,Rural,1,13,6,5,2,2,4,0,0,0,0,0,0,0,0,1,0,4,1,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,1,PS (I-V),8,Unrecognized,Rural,1,0,1,22,11,14,6,2,0,0,0,0,0,0,0,31,15,13,4,1,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,1,PS (I-V),8,Unrecognized,Rural,1,2,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,1,PS (I-V),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,1,PS (I-V),8,Unrecognized,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,1,PS (I-V),8,Unrecognized,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,6,SS (I-X),1,Department of Education,Rural,1,0,0,1,3,7,8,7,12,14,10,22,12,0,0,3,7,12,9,12,16,20,17,17,26,0,0,General
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,6,SS (I-X),1,Department of Education,Rural,1,0,0,0,0,0,0,1,0,0,1,2,0,0,0,2,2,0,0,0,0,1,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,6,SS (I-X),1,Department of Education,Rural,1,0,0,1,1,1,0,1,7,5,5,5,4,0,0,1,2,0,0,1,8,1,0,6,4,0,0,General
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,6,SS (I-X),1,Department of Education,Rural,1,0,0,6,5,5,5,9,6,5,8,5,8,0,0,2,1,4,3,8,2,8,9,9,6,0,0,General
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,6,SS (I-X),1,Department of Education,Rural,1,0,0,2,1,0,1,0,1,1,1,0,2,0,0,0,0,3,0,3,3,1,3,3,2,0,0,General
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,6,SS (I-X),1,Department of Education,Rural,1,0,0,1,0,0,0,0,2,1,2,1,5,0,0,1,0,0,0,0,0,2,4,0,1,0,0,General
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,6,SS (I-X),1,Department of Education,Rural,1,0,0,2,2,2,1,2,1,4,8,2,2,0,0,0,0,2,3,3,3,3,4,4,5,0,0,General
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,6,SS (I-X),1,Department of Education,Rural,1,0,0,3,5,1,4,4,2,5,9,8,16,0,0,1,6,2,1,3,0,1,3,2,5,0,0,General
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,6,SS (I-X),1,Department of Education,Rural,1,0,0,1,0,0,0,0,1,0,1,1,1,0,0,0,0,2,0,0,2,0,2,2,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103515,IMAMGANJ,6,SS (I-X),1,Department of Education,Rural,1,0,0,13,22,27,20,25,17,24,14,42,49,0,0,23,22,32,13,27,44,41,26,42,48,0,0,General
+2015-16,10,Bihar,1035,GAYA,103516,DUMARIA,6,SS (I-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,6,SS (I-X),1,Department of Education,Rural,1,0,0,0,1,1,0,0,0,2,3,6,4,0,0,1,2,1,2,0,6,3,8,12,6,0,0,General
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,6,SS (I-X),1,Department of Education,Rural,1,0,0,3,0,2,4,2,4,0,2,7,1,0,0,2,0,2,2,1,5,2,8,3,8,0,0,General
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,6,SS (I-X),1,Department of Education,Rural,1,0,0,0,0,0,0,1,0,2,1,3,1,0,0,0,1,2,0,1,1,7,5,5,3,0,0,General
+2015-16,10,Bihar,1035,GAYA,103520,TANKUPPA,6,SS (I-X),1,Department of Education,Rural,1,0,0,11,2,2,1,2,1,4,2,9,3,0,0,6,1,1,3,2,1,6,0,15,13,0,0,General
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,6,SS (I-X),1,Department of Education,Rural,1,0,0,1,0,6,6,1,1,2,3,6,4,0,0,1,0,3,5,3,2,4,4,5,15,0,0,General
+2015-16,10,Bihar,1035,GAYA,103524,BARACHATTI,6,SS (I-X),1,Department of Education,Rural,1,0,0,1,0,2,0,1,6,0,1,6,5,0,0,0,0,1,0,1,3,0,1,6,4,0,0,General
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,7,5,31,26,32,28,18,17,18,12,29,70,0,0,24,22,12,15,11,16,8,8,4,43,0,0,General
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,6,SS (I-X),8,Unrecognized,Rural,1,16,15,86,88,86,74,84,65,75,65,122,106,0,0,57,29,41,36,30,38,30,31,79,81,0,0,General
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,6,SS (I-X),8,Unrecognized,Rural,1,3,0,0,0,2,0,0,1,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,6,SS (I-X),8,Unrecognized,Rural,1,0,0,48,9,4,9,2,1,2,1,1,0,0,0,31,5,4,4,1,1,1,2,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,6,SS (I-X),8,Unrecognized,Rural,1,0,2,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,6,SS (I-X),8,Unrecognized,Rural,1,2,1,8,12,4,8,4,4,3,4,10,10,0,0,7,14,4,12,3,4,2,4,15,25,0,0,General
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,6,SS (I-X),8,Unrecognized,Rural,1,7,4,1,2,6,2,3,3,8,7,5,1,0,0,2,3,6,4,1,2,3,2,2,2,0,0,General
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,6,SS (I-X),8,Unrecognized,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,67,69,23,20,0,0,0,0,0,0,0,0,88,88,17,11,General
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,134,128,15,8,0,0,0,0,0,0,0,0,159,191,20,28,General
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,43,45,12,20,0,0,0,0,0,0,0,0,21,33,7,21,General
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,48,54,1,11,0,0,0,0,0,0,0,0,34,62,10,8,General
+2015-16,10,Bihar,1035,GAYA,103506,MOHARA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,76,80,8,3,0,0,0,0,0,0,0,0,80,55,10,3,General
+2015-16,10,Bihar,1035,GAYA,103507,ATRI,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,37,37,7,17,0,0,0,0,0,0,0,0,19,18,31,34,General
+2015-16,10,Bihar,1035,GAYA,103508,MANPUR,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,43,73,12,0,0,0,0,0,0,0,0,0,71,91,24,0,General
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,8,21,0,0,0,0,0,0,0,0,0,0,11,15,0,0,General
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,67,61,2,4,0,0,0,0,0,0,0,0,69,44,2,8,General
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,8,SS (IX-X),1,Department of Education,Rural,1,0,0,1,0,0,0,0,2,1,2,23,17,0,0,0,1,1,0,0,2,0,3,29,29,0,0,General
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,29,40,3,9,0,0,0,0,0,0,0,0,21,17,3,2,General
+2015-16,10,Bihar,1035,GAYA,103515,IMAMGANJ,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,8,17,0,0,0,0,0,0,0,0,0,0,38,37,9,10,General
+2015-16,10,Bihar,1035,GAYA,103516,DUMARIA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,18,13,0,0,0,0,0,0,0,0,0,0,18,21,0,0,General
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,75,82,9,8,0,0,0,0,0,0,0,0,95,88,4,17,General
+2015-16,10,Bihar,1035,GAYA,103520,TANKUPPA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,8,7,10,44,26,3,7,0,0,0,0,0,4,6,8,55,35,7,3,General
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,141,123,27,39,0,0,0,0,0,0,0,0,218,195,42,32,General
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,42,31,11,11,0,0,0,0,0,0,0,0,44,24,12,1,General
+2015-16,10,Bihar,1035,GAYA,103523,MOHANPUR,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,17,23,2,1,0,0,0,0,0,0,0,0,17,29,4,8,General
+2015-16,10,Bihar,1035,GAYA,103524,BARACHATTI,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,38,43,0,4,0,0,0,0,0,0,0,0,22,42,5,3,General
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,12,17,1,0,0,0,0,0,0,0,0,0,23,17,5,1,General
+2015-16,10,Bihar,1035,GAYA,103508,MANPUR,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,20,22,46,50,2,2,0,0,0,0,0,0,12,16,52,60,5,3,General
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,100,65,50,69,0,0,0,0,0,0,0,0,257,255,122,54,General
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,181,159,58,86,General
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,8,SS (IX-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,78,60,0,0,0,0,0,0,0,0,0,0,84,91,0,0,General
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,8,SS (IX-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,134,47,28,60,0,0,0,0,0,0,0,0,78,65,10,44,General
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,66,43,0,0,0,0,0,0,0,0,0,0,50,50,0,0,General
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,30,77,0,0,0,0,0,0,0,0,0,0,12,19,0,0,General
+2015-16,10,Bihar,1035,GAYA,103505,NEEM CHAK BATHANI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,30,41,0,0,0,0,0,0,0,0,0,0,45,18,0,0,General
+2015-16,10,Bihar,1035,GAYA,103507,ATRI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,12,0,0,General
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,4,11,0,0,0,0,0,0,0,0,0,0,11,12,0,0,General
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103515,IMAMGANJ,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103516,DUMARIA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,2,11,0,0,0,0,0,0,0,0,0,0,11,14,0,0,General
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,31,56,0,0,0,0,0,0,0,0,0,0,25,33,0,0,General
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,22,54,0,0,0,0,0,0,0,0,0,0,34,36,0,0,General
+2015-16,10,Bihar,1035,GAYA,103523,MOHANPUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103524,BARACHATTI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,8,SS (IX-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,5,4,0,0,0,0,0,0,0,0,0,0,2,1,0,0,General
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,7,SS (VI-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,43,0,0,General
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,171,170,174,184,202,242,214,217,0,0,0,0,177,169,189,197,216,269,295,235,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,2,UPS (I-VIII),1,Department of Education,Rural,1,0,1,126,164,166,183,190,266,267,285,2,4,0,0,157,139,187,192,238,281,329,300,17,4,0,0,General
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,2,UPS (I-VIII),1,Department of Education,Rural,1,81,85,137,132,145,203,245,350,312,294,0,0,0,0,120,137,149,168,209,364,361,331,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,113,145,114,140,150,205,165,135,2,2,0,0,132,134,161,148,153,182,201,214,2,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103505,NEEM CHAK BATHANI,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,57,56,44,53,73,61,47,31,2,2,0,0,73,54,53,51,52,67,82,39,2,7,0,0,General
+2015-16,10,Bihar,1035,GAYA,103506,MOHARA,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,131,144,156,149,185,212,201,178,0,0,0,0,141,154,171,167,187,239,255,211,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103507,ATRI,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,49,41,28,28,41,81,62,65,0,0,0,0,46,32,35,30,40,82,60,70,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103508,MANPUR,2,UPS (I-VIII),1,Department of Education,Rural,1,25,14,80,59,100,92,93,143,110,106,12,16,0,0,83,81,109,94,123,167,138,148,9,15,0,0,General
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,71,81,111,78,136,193,212,181,5,16,0,0,101,89,98,106,115,213,214,202,6,8,0,0,General
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,2,UPS (I-VIII),1,Department of Education,Rural,1,37,51,66,56,51,58,55,72,65,87,0,0,0,0,78,61,71,52,71,116,75,108,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,100,95,103,98,108,142,107,93,7,2,0,0,82,126,100,97,122,160,139,134,4,2,0,0,General
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,151,155,118,118,131,177,152,148,5,7,0,0,117,147,150,137,151,183,194,141,8,5,0,0,General
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,81,71,73,76,62,78,74,61,0,0,0,0,63,58,84,79,92,115,116,98,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,16,11,15,21,14,25,18,15,0,0,0,0,20,28,14,18,24,23,24,26,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103515,IMAMGANJ,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,122,126,117,108,139,137,151,143,13,16,0,0,111,117,116,134,144,167,152,175,15,7,0,0,General
+2015-16,10,Bihar,1035,GAYA,103516,DUMARIA,2,UPS (I-VIII),1,Department of Education,Rural,1,5,3,40,47,59,41,44,69,74,49,0,0,0,0,66,64,63,44,48,66,73,91,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,80,94,110,106,120,149,106,132,0,0,0,0,91,109,133,103,133,175,143,157,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,39,30,40,42,28,38,25,35,0,0,0,0,39,40,36,25,40,45,32,40,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,62,56,72,70,64,61,49,60,5,4,0,0,73,62,98,85,81,86,67,96,5,6,0,0,General
+2015-16,10,Bihar,1035,GAYA,103520,TANKUPPA,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,94,96,70,70,95,108,70,96,3,1,0,0,90,115,85,92,83,127,108,83,5,1,0,0,General
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,200,256,253,258,286,369,366,377,24,17,0,0,225,266,246,266,348,456,412,508,21,16,0,0,General
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,124,108,113,118,124,190,194,183,0,4,0,0,141,131,133,143,133,179,182,176,0,4,0,0,General
+2015-16,10,Bihar,1035,GAYA,103523,MOHANPUR,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,46,58,85,83,95,107,86,92,0,0,0,0,49,70,69,97,77,132,94,115,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103524,BARACHATTI,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,32,43,35,39,59,61,48,45,0,0,0,0,28,32,29,29,41,61,45,48,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,4,3,7,5,7,5,13,11,0,0,0,0,6,6,5,2,11,15,16,5,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,84,82,100,107,127,138,172,167,0,0,0,0,73,120,157,143,201,231,237,261,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,7,8,9,12,15,21,20,20,0,0,0,0,11,14,12,14,19,22,24,19,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,3,2,6,6,7,5,10,11,0,0,0,0,1,9,9,9,11,22,10,13,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,11,8,7,2,4,2,4,1,0,0,21,28,0,0,8,2,2,2,2,1,0,0,26,8,0,0,General
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,10,12,11,11,15,18,8,16,11,13,0,0,0,0,8,7,11,14,11,10,7,8,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,41,20,20,13,15,17,14,11,12,10,0,0,0,0,9,7,7,9,6,6,6,5,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103507,ATRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,21,14,16,13,14,15,4,9,8,9,0,0,0,0,5,6,5,1,1,1,0,2,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,4,2,2,1,1,3,1,2,1,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,13,15,19,19,15,12,14,11,0,0,0,0,13,11,9,7,11,11,8,5,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,2,0,1,1,1,2,1,1,0,0,0,0,0,0,1,1,1,2,2,1,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,7,5,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103520,TANKUPPA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,35,22,26,30,25,37,35,24,0,0,0,0,15,20,20,20,18,12,14,12,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103523,MOHANPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,6,4,0,1,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,0,0,2,1,0,1,2,0,0,1,0,0,0,0,7,1,0,0,2,1,0,1,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,39,38,6,7,9,5,3,4,3,3,0,0,0,0,7,9,3,4,3,3,5,4,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,7,5,10,6,8,6,4,3,5,6,0,0,0,0,5,4,3,4,3,0,0,1,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,57,42,97,110,130,122,122,91,14,12,0,0,0,0,44,57,78,75,98,53,8,6,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,32,23,41,40,41,40,38,31,32,0,0,0,0,0,32,32,33,33,31,29,24,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,2,UPS (I-VIII),8,Unrecognized,Rural,1,236,154,47,61,41,37,49,33,41,31,0,0,0,0,38,33,26,18,21,28,19,24,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,2,UPS (I-VIII),8,Unrecognized,Rural,1,127,58,25,42,42,25,32,28,10,8,0,0,0,0,15,14,21,16,16,14,8,4,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,2,UPS (I-VIII),8,Unrecognized,Rural,1,41,20,73,56,70,29,25,21,26,20,0,0,0,0,23,21,27,20,21,13,15,6,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,2,UPS (I-VIII),8,Unrecognized,Rural,1,4,3,18,18,16,15,17,12,12,5,0,0,0,0,9,11,9,8,8,10,5,2,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,2,UPS (I-VIII),8,Unrecognized,Rural,1,20,17,6,6,8,5,5,6,2,1,0,0,0,0,0,3,3,5,3,4,2,1,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,2,UPS (I-VIII),8,Unrecognized,Rural,1,25,15,16,9,9,13,13,12,14,6,0,0,0,0,5,9,11,5,7,6,5,6,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,2,UPS (I-VIII),8,Unrecognized,Rural,1,6,4,0,0,2,3,0,2,0,0,0,0,0,0,2,1,1,3,4,2,1,1,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,2,UPS (I-VIII),8,Unrecognized,Rural,1,35,18,32,28,26,21,29,34,25,19,0,0,0,0,24,25,17,13,17,17,17,21,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103516,DUMARIA,2,UPS (I-VIII),8,Unrecognized,Rural,1,0,0,0,6,8,6,4,6,2,6,0,0,0,0,0,2,2,1,3,2,2,5,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,2,UPS (I-VIII),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,2,UPS (I-VIII),8,Unrecognized,Rural,1,10,6,5,4,5,6,7,2,7,4,0,0,0,0,3,6,4,6,3,3,2,9,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,2,UPS (I-VIII),8,Unrecognized,Rural,1,0,0,3,0,0,1,3,2,1,0,0,0,0,0,3,2,1,0,2,3,2,1,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,2,UPS (I-VIII),8,Unrecognized,Rural,1,22,33,19,18,16,20,15,15,11,6,0,0,0,0,14,7,7,9,10,7,5,5,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,2,UPS (I-VIII),8,Unrecognized,Rural,1,2,5,5,6,5,2,4,1,1,4,0,0,0,0,4,3,2,1,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103523,MOHANPUR,2,UPS (I-VIII),8,Unrecognized,Rural,1,2,5,1,1,1,4,1,3,2,0,0,0,0,0,3,2,0,0,4,1,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103524,BARACHATTI,2,UPS (I-VIII),8,Unrecognized,Rural,1,20,12,4,3,2,5,4,4,3,2,0,0,0,0,2,3,1,3,3,2,1,3,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,2,UPS (I-VIII),8,Unrecognized,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,2,UPS (I-VIII),8,Unrecognized,Urban,1,3,0,0,0,0,5,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,2,UPS (I-VIII),8,Unrecognized,Urban,1,99,59,95,67,94,84,75,58,50,40,0,0,0,0,65,66,52,47,45,43,30,35,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,2,UPS (I-VIII),8,Unrecognized,Urban,1,8,4,15,10,12,10,4,10,4,0,0,0,0,0,10,5,8,3,2,3,3,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,2,UPS (I-VIII),8,Unrecognized,Urban,1,21,23,9,3,10,14,17,11,6,7,0,0,0,0,9,7,11,12,14,9,6,4,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,3,5,7,8,7,7,4,10,0,0,0,0,4,4,6,6,7,4,6,5,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,7,5,6,0,0,0,0,0,0,0,0,0,8,7,7,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103507,ATRI,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,3,3,3,0,0,0,0,0,0,0,0,0,6,3,8,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,4,7,10,0,0,0,0,0,0,0,0,0,6,7,10,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,5,10,3,0,0,0,0,0,0,0,0,0,4,2,7,0,0,0,0,General
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,3,HSS (I-XII),1,Department of Education,Rural,2,0,0,63,30,19,36,28,31,22,21,30,30,0,0,58,30,27,36,32,23,25,25,39,30,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,3,HSS (I-XII),1,Department of Education,Rural,2,0,0,9,9,4,5,3,14,18,13,7,12,0,0,8,6,3,3,1,21,16,10,16,18,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,2,1,1,2,1,0,1,1,17,12,7,14,1,1,2,1,0,0,1,1,10,6,0,2,SC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,117,47,12,4,7,1,1,17,0,20,0,0,0,0,6,3,2,2,0,9,0,17,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,3,HSS (I-XII),7,Central Govt,Urban,2,0,0,10,13,13,18,20,18,13,13,14,10,10,7,16,15,10,13,11,13,16,12,9,10,6,9,SC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,3,HSS (I-XII),8,Unrecognized,Urban,2,0,0,7,11,7,4,4,5,3,4,49,5,3,3,6,6,10,5,7,6,3,3,3,7,2,3,SC
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,123,90,38,37,0,0,0,0,0,0,0,0,122,103,46,72,SC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,162,156,11,9,0,0,0,0,0,0,0,0,204,157,20,32,SC
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,200,187,24,26,0,0,0,0,0,0,0,0,253,242,115,75,SC
+2015-16,10,Bihar,1035,GAYA,103505,NEEM CHAK BATHANI,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,26,22,8,12,0,0,0,0,0,0,0,0,59,33,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103506,MOHARA,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,52,28,15,21,0,0,0,0,0,0,0,0,42,31,22,19,SC
+2015-16,10,Bihar,1035,GAYA,103507,ATRI,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,93,94,32,41,0,0,0,0,0,0,0,0,163,127,98,99,SC
+2015-16,10,Bihar,1035,GAYA,103508,MANPUR,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,38,32,8,0,0,0,0,0,0,0,0,0,50,32,15,0,SC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,120,119,1,0,0,0,0,0,0,0,0,0,117,119,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,247,260,39,61,0,0,0,0,0,0,0,0,158,155,32,55,SC
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,159,152,61,36,0,0,0,0,0,0,0,0,271,186,52,67,SC
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,202,197,154,134,0,0,0,0,0,0,0,0,157,165,113,196,SC
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,153,149,0,0,0,0,0,0,0,0,0,0,173,132,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103515,IMAMGANJ,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,112,129,0,0,0,0,0,0,0,0,0,0,65,125,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103516,DUMARIA,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,150,145,15,15,0,0,0,0,0,0,0,0,110,110,10,10,SC
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,85,91,15,27,0,0,0,0,0,0,0,0,111,93,20,19,SC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,191,167,21,23,0,0,0,0,0,0,0,0,0,0,3,1,SC
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,107,150,6,24,0,0,0,0,0,0,0,0,91,73,6,16,SC
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,231,208,37,46,0,0,0,0,0,0,0,0,230,159,48,43,SC
+2015-16,10,Bihar,1035,GAYA,103523,MOHANPUR,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,66,76,34,29,0,0,0,0,0,0,0,0,65,43,42,36,SC
+2015-16,10,Bihar,1035,GAYA,103524,BARACHATTI,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,111,86,27,37,SC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,227,246,76,96,0,0,0,0,0,0,0,0,201,213,39,46,SC
+2015-16,10,Bihar,1035,GAYA,103508,MANPUR,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,22,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,205,176,91,113,0,0,0,0,0,0,0,0,108,100,23,27,SC
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,208,168,53,73,0,0,0,0,0,0,0,0,0,0,14,18,SC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,155,203,60,70,SC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,10,HSS (IX-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,69,54,16,9,0,0,0,0,0,0,0,0,82,76,11,7,SC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,2,5,3,SC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,5,HSS (VI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,1,5,7,4,0,0,0,0,0,0,0,0,0,0,1,4,SC
+2015-16,10,Bihar,1035,GAYA,103506,MOHARA,5,HSS (VI-XII),7,Central Govt,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,9,79,0,0,0,0,0,0,0,0,0,0,17,31,SC
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,6,0,SC
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103515,IMAMGANJ,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,11,HSS (XI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,7,22,269,252,0,0,0,0,0,0,0,0,10,6,101,115,SC
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,11,HSS (XI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,1,PS (I-V),1,Department of Education,Rural,2,0,0,526,462,451,400,381,6,3,3,0,0,0,0,570,393,448,431,406,7,4,5,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,1,PS (I-V),1,Department of Education,Rural,2,190,194,785,575,668,588,533,10,4,2,0,0,0,0,757,560,618,522,556,5,2,2,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,1,PS (I-V),1,Department of Education,Rural,2,0,0,701,512,575,566,560,0,0,0,0,0,0,0,661,499,558,568,544,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,1,PS (I-V),1,Department of Education,Rural,2,0,0,615,479,466,421,414,11,15,4,0,0,0,0,556,441,390,401,394,6,2,14,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103505,NEEM CHAK BATHANI,1,PS (I-V),1,Department of Education,Rural,2,4,1,290,198,185,205,229,38,4,1,0,0,0,0,267,214,233,201,219,25,7,5,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103506,MOHARA,1,PS (I-V),1,Department of Education,Rural,2,0,0,746,537,505,468,481,0,0,0,0,0,0,0,714,499,510,449,427,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103507,ATRI,1,PS (I-V),1,Department of Education,Rural,2,0,0,407,320,356,376,332,14,5,3,0,0,0,0,417,272,332,355,272,11,7,4,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103508,MANPUR,1,PS (I-V),1,Department of Education,Rural,2,72,82,676,560,582,520,425,0,0,0,0,0,0,0,734,546,559,476,392,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,1,PS (I-V),1,Department of Education,Rural,2,0,0,660,466,548,476,508,0,0,0,0,0,0,0,756,503,541,497,504,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,1,PS (I-V),1,Department of Education,Rural,2,29,17,371,306,261,259,237,0,0,0,0,0,0,0,339,317,257,237,230,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,1,PS (I-V),1,Department of Education,Rural,2,0,0,541,452,465,427,374,73,45,51,0,0,0,0,541,429,405,425,380,107,39,39,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,1,PS (I-V),1,Department of Education,Rural,2,50,41,510,336,292,295,310,0,0,0,0,0,0,0,447,278,301,298,311,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,1,PS (I-V),1,Department of Education,Rural,2,0,0,630,472,575,509,426,73,46,42,29,46,0,0,633,505,550,550,474,70,48,49,27,16,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103515,IMAMGANJ,1,PS (I-V),1,Department of Education,Rural,2,0,0,1047,763,688,669,766,0,0,0,0,0,0,0,1131,797,704,708,746,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103516,DUMARIA,1,PS (I-V),1,Department of Education,Rural,2,152,138,915,666,635,548,469,0,0,0,0,0,0,0,782,603,627,514,441,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,1,PS (I-V),1,Department of Education,Rural,2,0,0,533,382,324,332,392,0,0,0,0,0,0,0,565,349,362,343,386,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,1,PS (I-V),1,Department of Education,Rural,2,0,0,679,496,502,456,403,12,4,6,0,0,0,0,650,467,525,449,408,25,12,2,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,1,PS (I-V),1,Department of Education,Rural,2,32,21,930,691,773,651,530,22,24,18,0,0,0,0,919,770,805,726,560,21,7,17,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103520,TANKUPPA,1,PS (I-V),1,Department of Education,Rural,2,11,12,728,545,549,462,447,0,0,0,0,0,0,0,681,522,498,448,370,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,1,PS (I-V),1,Department of Education,Rural,2,0,0,1295,897,927,879,734,36,17,15,0,0,0,0,1295,894,767,726,635,22,25,19,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,1,PS (I-V),1,Department of Education,Rural,2,0,0,1060,876,827,811,704,74,0,0,0,0,0,0,1098,845,730,747,703,63,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103523,MOHANPUR,1,PS (I-V),1,Department of Education,Rural,2,0,0,964,653,646,584,591,9,17,6,0,0,0,0,938,677,675,658,693,15,11,8,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103524,BARACHATTI,1,PS (I-V),1,Department of Education,Rural,2,0,0,712,563,511,487,460,8,5,6,0,0,0,0,757,520,518,485,469,6,9,3,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,1,PS (I-V),1,Department of Education,Urban,2,0,0,9,7,6,11,3,0,0,0,0,0,0,0,3,41,13,3,10,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,1,PS (I-V),1,Department of Education,Urban,2,0,0,211,210,240,182,155,12,4,11,0,0,0,0,274,213,226,232,200,3,7,2,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,1,PS (I-V),1,Department of Education,Urban,2,0,0,45,40,41,63,54,0,0,0,0,0,0,0,50,30,25,47,46,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,1,PS (I-V),1,Department of Education,Urban,2,0,0,75,64,92,62,54,0,0,0,0,0,0,0,97,53,70,68,33,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,40,40,40,39,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,3,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,9,0,1,3,3,3,2,0,0,0,0,0,0,0,1,2,5,2,1,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,1,PS (I-V),8,Unrecognized,Rural,2,18,15,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,1,PS (I-V),8,Unrecognized,Rural,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103505,NEEM CHAK BATHANI,1,PS (I-V),8,Unrecognized,Rural,2,0,0,3,5,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,1,PS (I-V),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,1,PS (I-V),8,Unrecognized,Rural,2,0,0,8,5,8,7,4,0,0,0,0,0,0,0,2,2,2,5,6,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,1,PS (I-V),8,Unrecognized,Rural,2,27,15,6,5,1,0,0,0,0,0,0,0,0,0,3,0,1,3,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,1,PS (I-V),8,Unrecognized,Rural,2,14,8,7,5,2,2,4,0,0,0,0,0,0,0,4,7,0,1,2,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,1,PS (I-V),8,Unrecognized,Rural,2,11,6,3,2,1,3,1,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,1,PS (I-V),8,Unrecognized,Rural,2,21,11,14,13,8,1,0,0,0,0,0,0,0,0,12,7,10,7,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,1,PS (I-V),8,Unrecognized,Rural,2,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,1,PS (I-V),8,Unrecognized,Rural,2,27,8,8,8,4,4,3,0,0,0,0,0,0,0,2,3,1,0,2,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,1,PS (I-V),8,Unrecognized,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,1,PS (I-V),8,Unrecognized,Urban,2,8,4,0,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,6,SS (I-X),1,Department of Education,Rural,2,0,0,15,14,30,19,13,29,20,38,21,9,0,0,28,23,20,16,15,33,23,31,16,23,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,6,SS (I-X),1,Department of Education,Rural,2,0,0,11,7,5,2,5,2,7,2,1,2,0,0,8,4,0,2,10,1,4,1,2,8,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,6,SS (I-X),1,Department of Education,Rural,2,0,0,10,0,2,1,4,14,16,15,26,13,0,0,6,4,2,0,1,9,12,13,28,10,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,6,SS (I-X),1,Department of Education,Rural,2,0,0,20,10,8,12,9,12,12,11,5,6,0,0,19,5,6,12,7,10,6,3,8,5,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,6,SS (I-X),1,Department of Education,Rural,2,0,0,10,11,12,5,3,4,4,3,12,7,0,0,7,13,3,10,8,3,4,3,2,2,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,6,SS (I-X),1,Department of Education,Rural,2,0,0,17,16,12,5,14,12,21,14,10,4,0,0,18,22,12,13,3,15,17,14,8,8,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,6,SS (I-X),1,Department of Education,Rural,2,0,0,27,13,16,18,7,25,18,19,8,7,0,0,38,19,5,21,10,35,19,19,8,4,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,6,SS (I-X),1,Department of Education,Rural,2,0,0,14,5,17,5,3,14,11,11,12,6,0,0,24,6,9,3,8,16,17,4,6,7,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,6,SS (I-X),1,Department of Education,Rural,2,0,0,16,15,8,7,5,32,33,20,28,21,0,0,11,13,15,6,4,25,30,21,34,23,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103515,IMAMGANJ,6,SS (I-X),1,Department of Education,Rural,2,0,0,80,37,60,42,50,72,57,46,81,37,0,0,92,40,54,45,51,61,55,60,66,54,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103516,DUMARIA,6,SS (I-X),1,Department of Education,Rural,2,0,0,1,2,5,1,3,9,6,5,17,12,0,0,1,3,4,0,1,14,5,12,19,10,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,6,SS (I-X),1,Department of Education,Rural,2,0,0,21,13,6,14,29,34,28,21,17,16,0,0,28,11,6,9,17,36,34,22,13,23,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,6,SS (I-X),1,Department of Education,Rural,2,0,0,19,7,10,9,2,10,15,3,14,7,0,0,16,10,6,10,5,14,19,13,7,7,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,6,SS (I-X),1,Department of Education,Rural,2,0,0,37,18,28,29,20,41,30,23,3,10,0,0,45,20,18,27,17,41,42,22,21,6,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103520,TANKUPPA,6,SS (I-X),1,Department of Education,Rural,2,0,0,53,40,21,17,18,21,38,25,20,32,0,0,70,40,20,19,17,59,39,31,16,42,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,6,SS (I-X),1,Department of Education,Rural,2,0,0,34,33,28,25,15,57,28,36,33,30,0,0,33,35,29,40,15,44,26,46,44,33,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103524,BARACHATTI,6,SS (I-X),1,Department of Education,Rural,2,0,0,49,26,30,32,27,51,33,27,15,21,0,0,60,23,24,17,21,48,28,34,24,25,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,8,6,10,16,10,5,4,5,3,5,4,3,0,0,12,8,6,3,4,2,2,2,6,1,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,14,12,0,0,0,0,0,0,0,0,0,0,22,22,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,6,SS (I-X),8,Unrecognized,Rural,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,6,SS (I-X),8,Unrecognized,Rural,2,5,9,3,2,1,1,0,4,0,1,1,0,0,0,2,2,0,0,0,3,0,1,0,1,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,6,SS (I-X),8,Unrecognized,Rural,2,0,0,4,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,6,SS (I-X),8,Unrecognized,Rural,2,14,8,8,3,10,1,6,7,9,7,8,3,0,0,5,5,2,6,3,3,9,6,0,2,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,6,SS (I-X),8,Unrecognized,Rural,2,8,4,12,21,12,18,10,11,10,10,40,35,0,0,8,18,15,8,18,12,15,13,50,34,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,6,SS (I-X),8,Unrecognized,Rural,2,53,38,25,18,24,18,3,20,13,6,6,2,0,0,23,19,31,14,16,8,13,8,2,2,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,6,SS (I-X),8,Unrecognized,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,87,91,32,16,0,0,0,0,0,0,0,0,114,94,16,7,SC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,272,204,11,6,0,0,0,0,0,0,0,0,225,216,4,3,SC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,95,88,33,19,0,0,0,0,0,0,0,0,46,55,10,4,SC
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,95,108,5,30,0,0,0,0,0,0,0,0,61,66,12,11,SC
+2015-16,10,Bihar,1035,GAYA,103506,MOHARA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,81,59,9,3,0,0,0,0,0,0,0,0,69,38,3,3,SC
+2015-16,10,Bihar,1035,GAYA,103507,ATRI,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,95,98,12,23,0,0,0,0,0,0,0,0,41,38,29,20,SC
+2015-16,10,Bihar,1035,GAYA,103508,MANPUR,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,194,148,16,0,0,0,0,0,0,0,0,0,149,140,15,0,SC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,70,77,0,0,0,0,0,0,0,0,0,0,117,110,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,204,182,3,18,0,0,0,0,0,0,0,0,273,180,1,20,SC
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,8,SS (IX-X),1,Department of Education,Rural,2,0,0,3,2,0,0,7,24,13,26,57,77,0,0,1,6,3,1,4,26,15,25,176,62,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,190,190,4,8,0,0,0,0,0,0,0,0,108,120,4,1,SC
+2015-16,10,Bihar,1035,GAYA,103515,IMAMGANJ,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,55,65,0,0,0,0,0,0,0,0,0,0,98,92,31,22,SC
+2015-16,10,Bihar,1035,GAYA,103516,DUMARIA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,78,98,0,0,0,0,0,0,0,0,0,0,109,131,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,199,238,9,24,0,0,0,0,0,0,0,0,230,228,10,15,SC
+2015-16,10,Bihar,1035,GAYA,103520,TANKUPPA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,3,3,6,128,95,20,13,0,0,0,0,0,3,5,4,169,166,13,12,SC
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,347,251,40,37,0,0,0,0,0,0,0,0,310,319,42,29,SC
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,112,25,30,5,0,0,0,0,0,0,0,0,73,30,19,2,SC
+2015-16,10,Bihar,1035,GAYA,103523,MOHANPUR,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,64,53,5,2,0,0,0,0,0,0,0,0,47,48,7,14,SC
+2015-16,10,Bihar,1035,GAYA,103524,BARACHATTI,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,173,134,19,16,0,0,0,0,0,0,0,0,88,90,5,9,SC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,90,70,7,6,0,0,0,0,0,0,0,0,59,56,8,3,SC
+2015-16,10,Bihar,1035,GAYA,103508,MANPUR,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,7,7,65,44,7,5,0,0,0,0,0,0,0,0,127,145,2,3,SC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,325,259,112,146,0,0,0,0,0,0,0,0,398,306,107,70,SC
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,279,245,42,42,SC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,8,SS (IX-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,22,22,0,0,0,0,0,0,0,0,0,0,9,4,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,8,SS (IX-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,21,14,12,35,0,0,0,0,0,0,0,0,0,0,2,1,SC
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,27,33,0,0,0,0,0,0,0,0,0,0,28,30,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,20,41,0,0,0,0,0,0,0,0,0,0,18,14,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103505,NEEM CHAK BATHANI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,40,29,0,0,0,0,0,0,0,0,0,0,40,30,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103507,ATRI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,40,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,5,22,0,0,0,0,0,0,0,0,0,0,22,26,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,31,29,0,0,0,0,0,0,0,0,0,0,35,38,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103515,IMAMGANJ,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103516,DUMARIA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,38,53,0,0,0,0,0,0,0,0,0,0,45,60,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,39,66,0,0,0,0,0,0,0,0,0,0,69,84,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,62,38,0,0,0,0,0,0,0,0,0,0,61,22,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,67,75,0,0,0,0,0,0,0,0,0,0,95,92,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103523,MOHANPUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103524,BARACHATTI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,8,SS (IX-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,8,10,0,0,0,0,0,0,0,0,0,0,4,2,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,7,SS (VI-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,522,520,475,439,431,711,700,532,0,0,0,0,524,445,473,439,455,695,720,558,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,2,UPS (I-VIII),1,Department of Education,Rural,2,3,4,704,638,605,567,511,770,759,634,0,6,0,0,694,601,611,548,512,837,797,649,3,2,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,2,UPS (I-VIII),1,Department of Education,Rural,2,182,153,418,346,355,386,315,728,693,526,0,0,0,0,437,376,320,401,366,705,665,497,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,612,457,460,487,404,604,568,496,13,8,0,0,542,434,468,412,379,594,603,415,18,32,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103505,NEEM CHAK BATHANI,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,391,300,271,261,226,293,240,183,31,11,0,0,386,242,275,260,192,353,238,180,29,18,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103506,MOHARA,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,323,267,269,304,234,405,405,363,0,0,0,0,318,258,291,261,219,455,375,312,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103507,ATRI,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,303,297,309,286,257,368,343,208,0,0,0,0,339,269,330,220,230,321,296,200,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103508,MANPUR,2,UPS (I-VIII),1,Department of Education,Rural,2,133,157,639,396,390,432,314,571,547,470,21,20,0,0,617,401,403,337,301,645,530,512,46,24,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,418,358,327,314,320,669,616,512,80,75,0,0,384,298,344,328,326,805,672,510,79,45,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,2,UPS (I-VIII),1,Department of Education,Rural,2,103,84,444,326,368,356,332,462,425,362,0,0,0,0,372,323,333,298,289,537,430,316,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,479,333,420,385,335,637,583,430,10,5,0,0,477,357,457,355,372,702,542,499,10,2,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,837,672,577,543,483,851,856,646,4,9,0,0,842,598,597,521,500,944,873,689,10,4,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,466,425,358,352,318,455,456,340,0,0,0,0,499,379,345,340,308,498,528,335,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,574,440,481,422,442,557,638,476,0,0,0,0,542,488,485,461,390,616,622,405,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103515,IMAMGANJ,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,948,681,674,698,666,871,799,819,28,33,0,0,1012,648,674,648,620,952,865,823,48,32,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103516,DUMARIA,2,UPS (I-VIII),1,Department of Education,Rural,2,59,35,792,580,696,592,557,869,686,576,0,0,0,0,805,652,660,591,562,848,640,591,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,467,304,379,326,357,618,588,398,0,0,0,0,486,350,381,315,371,570,538,486,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,526,495,431,368,383,561,388,279,0,0,0,0,586,486,411,356,374,557,452,345,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,728,513,485,416,367,599,619,425,40,16,0,0,685,526,441,410,336,703,640,431,32,24,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103520,TANKUPPA,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,627,449,408,370,353,567,504,406,8,16,0,0,621,501,400,393,405,598,527,398,12,9,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,1056,781,770,654,614,918,853,759,46,43,0,0,1015,736,736,700,604,944,834,667,38,27,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,982,720,780,712,700,911,869,720,12,22,0,0,998,765,727,712,657,973,955,674,4,7,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103523,MOHANPUR,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,1087,744,714,624,599,919,754,605,19,12,0,0,1034,745,730,646,591,906,796,693,15,16,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103524,BARACHATTI,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,535,429,398,391,457,622,544,415,0,0,0,0,492,418,423,408,388,683,610,457,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,6,13,19,11,24,39,68,94,0,0,0,0,6,9,18,17,20,41,47,52,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,315,302,286,346,333,427,402,373,0,0,0,0,357,364,374,417,412,502,466,432,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,80,39,42,42,51,45,42,28,0,0,0,0,69,51,44,28,34,69,98,32,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,64,74,119,103,72,111,140,110,0,0,0,0,73,81,121,86,71,170,171,143,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,10,6,15,4,5,5,3,2,0,0,16,29,0,0,11,2,3,3,2,1,0,0,25,8,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,5,6,8,11,10,12,11,6,5,5,0,0,0,0,7,7,7,6,6,5,5,4,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103507,ATRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,32,15,4,4,4,2,2,3,2,1,0,0,0,0,0,5,4,1,0,1,0,1,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,8,6,2,1,1,5,2,3,0,0,0,0,0,0,1,1,2,4,3,4,1,1,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,2,2,0,0,1,1,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,3,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,4,6,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103520,TANKUPPA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,5,3,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,26,16,18,13,17,16,14,12,0,0,0,0,10,12,9,13,13,7,7,6,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103523,MOHANPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,24,20,9,8,6,7,7,5,5,5,0,0,0,0,7,9,3,7,7,3,7,6,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,0,5,4,3,3,4,3,2,3,0,0,0,0,4,2,7,6,2,3,5,2,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,10,8,2,2,2,1,1,0,1,1,0,0,0,0,1,1,2,1,1,1,0,1,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,6,5,3,4,3,4,2,3,2,3,0,0,0,0,2,2,2,0,1,1,2,2,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,24,12,16,20,16,13,15,17,4,6,0,0,0,0,15,10,15,11,8,13,4,6,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,3,2,4,5,4,5,4,3,3,0,0,0,0,0,3,3,2,2,2,2,2,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,2,UPS (I-VIII),8,Unrecognized,Rural,2,32,24,29,20,16,19,9,12,6,10,0,0,0,0,13,18,10,6,7,4,3,5,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,2,UPS (I-VIII),8,Unrecognized,Rural,2,52,15,12,13,18,11,13,4,8,3,0,0,0,0,6,6,2,6,2,1,3,2,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,2,UPS (I-VIII),8,Unrecognized,Rural,2,29,15,22,24,11,15,7,4,8,7,0,0,0,0,9,11,5,7,8,2,1,1,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,2,UPS (I-VIII),8,Unrecognized,Rural,2,3,1,23,9,10,10,5,2,3,2,0,0,0,0,14,2,3,1,4,1,6,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,2,UPS (I-VIII),8,Unrecognized,Rural,2,17,13,0,2,2,8,0,1,1,1,0,0,0,0,1,3,2,2,1,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,2,UPS (I-VIII),8,Unrecognized,Rural,2,15,8,10,11,7,11,10,9,11,11,0,0,0,0,5,5,8,4,4,6,4,3,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,2,UPS (I-VIII),8,Unrecognized,Rural,2,7,8,3,5,2,3,1,2,2,1,0,0,0,0,0,4,3,3,4,2,2,2,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,2,UPS (I-VIII),8,Unrecognized,Rural,2,116,83,27,31,25,18,16,21,9,5,0,0,0,0,12,16,18,17,10,10,9,4,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103516,DUMARIA,2,UPS (I-VIII),8,Unrecognized,Rural,2,0,0,0,5,5,2,5,3,0,0,0,0,0,0,0,2,1,2,2,1,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,2,UPS (I-VIII),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,2,UPS (I-VIII),8,Unrecognized,Rural,2,20,15,8,12,6,10,9,10,3,6,0,0,0,0,7,6,8,5,14,7,8,10,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,2,UPS (I-VIII),8,Unrecognized,Rural,2,14,7,13,4,2,5,15,7,8,3,0,0,0,0,11,6,9,7,13,5,3,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,2,UPS (I-VIII),8,Unrecognized,Rural,2,4,4,13,31,19,13,21,23,10,11,0,0,0,0,21,12,9,20,11,5,5,3,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,2,UPS (I-VIII),8,Unrecognized,Rural,2,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103523,MOHANPUR,2,UPS (I-VIII),8,Unrecognized,Rural,2,10,8,1,3,0,1,2,1,3,3,0,0,0,0,1,1,0,1,1,0,1,1,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103524,BARACHATTI,2,UPS (I-VIII),8,Unrecognized,Rural,2,38,18,5,5,10,9,6,5,6,1,0,0,0,0,4,4,8,5,2,1,2,2,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,2,UPS (I-VIII),8,Unrecognized,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,2,UPS (I-VIII),8,Unrecognized,Urban,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,2,UPS (I-VIII),8,Unrecognized,Urban,2,53,46,46,47,33,34,40,25,32,29,0,0,0,0,32,25,31,32,23,22,25,23,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,2,UPS (I-VIII),8,Unrecognized,Urban,2,12,8,10,10,8,15,8,10,15,0,0,0,0,0,5,4,10,2,4,6,8,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,2,UPS (I-VIII),8,Unrecognized,Urban,2,63,61,27,8,7,14,10,10,5,3,0,0,0,0,15,15,5,12,12,8,5,1,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,16,14,23,0,0,0,0,0,0,0,0,0,22,21,15,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,11,7,11,0,0,0,0,0,0,0,0,0,6,6,1,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,41,48,37,0,0,0,0,0,0,0,0,0,30,26,17,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103507,ATRI,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,22,24,17,0,0,0,0,0,0,0,0,0,57,51,28,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,16,29,37,0,0,0,0,0,0,0,0,0,35,20,26,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,35,35,10,0,0,0,0,0,0,0,0,0,43,40,5,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,34,31,42,0,0,0,0,0,0,0,0,0,26,26,29,0,0,0,0,SC
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,3,HSS (I-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,3,HSS (I-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,1,1,1,1,0,1,1,0,1,1,1,0,2,0,0,1,1,1,1,1,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,1,0,1,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,3,HSS (I-XII),7,Central Govt,Urban,3,0,0,2,0,0,2,2,0,0,5,2,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,3,HSS (I-XII),8,Unrecognized,Urban,3,0,0,1,3,0,1,3,2,0,0,1,2,0,0,1,2,1,1,0,1,0,0,2,0,0,2,ST
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,46,67,59,ST
+2015-16,10,Bihar,1035,GAYA,103505,NEEM CHAK BATHANI,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,13,10,0,0,0,0,0,0,0,0,0,0,40,27,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103506,MOHARA,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103507,ATRI,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103508,MANPUR,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,ST
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103515,IMAMGANJ,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103516,DUMARIA,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103523,MOHANPUR,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103524,BARACHATTI,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103508,MANPUR,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,10,HSS (IX-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,ST
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,5,HSS (VI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103506,MOHARA,5,HSS (VI-XII),7,Central Govt,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103515,IMAMGANJ,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,11,HSS (XI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,11,HSS (XI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,1,PS (I-V),1,Department of Education,Rural,3,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,1,PS (I-V),1,Department of Education,Rural,3,0,0,1,0,1,1,1,0,0,0,0,0,0,0,1,0,2,3,3,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103505,NEEM CHAK BATHANI,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103506,MOHARA,1,PS (I-V),1,Department of Education,Rural,3,0,0,14,16,3,0,0,0,0,0,0,0,0,0,9,17,1,1,1,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103507,ATRI,1,PS (I-V),1,Department of Education,Rural,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103508,MANPUR,1,PS (I-V),1,Department of Education,Rural,3,0,0,4,9,3,8,11,0,0,0,0,0,0,0,5,13,13,10,18,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,1,PS (I-V),1,Department of Education,Rural,3,0,0,51,34,34,30,24,0,0,0,0,0,0,0,32,27,29,18,26,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,1,PS (I-V),1,Department of Education,Rural,3,0,0,11,11,5,7,9,0,0,0,0,0,0,0,7,10,8,10,6,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,1,PS (I-V),1,Department of Education,Rural,3,0,0,2,2,1,1,1,0,0,0,0,0,0,0,2,1,6,2,2,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,1,PS (I-V),1,Department of Education,Rural,3,0,0,1,3,10,5,6,0,0,0,0,0,0,0,1,5,7,3,4,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,1,PS (I-V),1,Department of Education,Rural,3,0,0,22,14,13,18,10,0,0,0,0,0,0,0,20,13,14,15,17,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103515,IMAMGANJ,1,PS (I-V),1,Department of Education,Rural,3,0,0,6,11,10,13,11,0,0,0,0,0,0,0,12,7,10,14,10,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103516,DUMARIA,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,40,40,40,40,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,1,PS (I-V),1,Department of Education,Rural,3,0,0,1,4,3,2,2,0,0,0,0,0,0,0,2,2,2,1,4,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,1,PS (I-V),1,Department of Education,Rural,3,0,0,8,0,0,0,0,0,0,0,0,0,0,0,5,1,4,0,1,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,1,PS (I-V),1,Department of Education,Rural,3,0,0,2,3,1,7,0,0,0,0,0,0,0,0,3,3,2,2,3,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103520,TANKUPPA,1,PS (I-V),1,Department of Education,Rural,3,0,0,2,1,0,3,7,0,0,0,0,0,0,0,1,1,0,3,11,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,1,PS (I-V),1,Department of Education,Rural,3,0,0,48,32,27,20,28,0,0,0,0,0,0,0,55,34,26,15,15,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,1,PS (I-V),1,Department of Education,Rural,3,0,0,18,34,11,3,23,0,0,0,0,0,0,0,10,27,8,3,18,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103523,MOHANPUR,1,PS (I-V),1,Department of Education,Rural,3,0,0,7,2,1,8,8,0,0,0,0,0,0,0,2,5,4,4,4,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103524,BARACHATTI,1,PS (I-V),1,Department of Education,Rural,3,0,0,1,8,4,2,1,0,0,0,0,0,0,0,4,6,3,0,2,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,1,PS (I-V),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,1,PS (I-V),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,8,2,6,0,2,0,0,0,0,0,0,0,0,0,4,1,1,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,1,PS (I-V),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,1,PS (I-V),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103505,NEEM CHAK BATHANI,1,PS (I-V),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,1,PS (I-V),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,1,PS (I-V),8,Unrecognized,Rural,3,0,0,3,3,2,3,2,0,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,1,PS (I-V),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,1,PS (I-V),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,1,PS (I-V),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,1,PS (I-V),8,Unrecognized,Rural,3,30,25,5,7,6,3,9,0,0,0,0,0,0,0,4,6,3,5,6,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,1,PS (I-V),8,Unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,1,PS (I-V),8,Unrecognized,Urban,3,9,4,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103515,IMAMGANJ,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103516,DUMARIA,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103520,TANKUPPA,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103524,BARACHATTI,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,6,SS (I-X),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,6,SS (I-X),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,6,SS (I-X),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,6,SS (I-X),8,Unrecognized,Rural,3,0,0,0,0,1,0,0,0,3,0,2,0,0,0,0,2,0,0,0,0,2,0,2,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,6,SS (I-X),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,6,SS (I-X),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,6,SS (I-X),8,Unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,9,ST
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103506,MOHARA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103507,ATRI,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103508,MANPUR,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103515,IMAMGANJ,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103516,DUMARIA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103520,TANKUPPA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103523,MOHANPUR,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103524,BARACHATTI,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103508,MANPUR,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,1,2,0,1,ST
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,8,SS (IX-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,8,SS (IX-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,ST
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103505,NEEM CHAK BATHANI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103507,ATRI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103515,IMAMGANJ,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103516,DUMARIA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103523,MOHANPUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103524,BARACHATTI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,7,SS (VI-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,18,13,8,7,17,6,10,8,0,0,0,0,25,6,11,9,3,9,9,1,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,11,5,11,6,3,2,6,4,0,0,0,0,6,9,7,2,2,8,6,3,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,2,1,3,1,1,0,0,1,0,0,0,0,2,1,2,1,2,1,0,1,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103505,NEEM CHAK BATHANI,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103506,MOHARA,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,2,2,2,2,4,1,2,1,0,0,0,0,4,4,4,4,4,3,4,2,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103507,ATRI,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103508,MANPUR,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,8,4,13,4,4,8,8,10,0,0,0,0,4,7,9,8,8,20,14,21,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103515,IMAMGANJ,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103516,DUMARIA,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,14,10,8,8,8,6,4,4,0,0,0,0,10,8,8,7,9,5,3,3,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,5,4,5,5,2,3,0,5,0,0,0,0,6,8,5,6,3,9,2,4,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103520,TANKUPPA,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,2,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103523,MOHANPUR,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103524,BARACHATTI,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,1,0,1,0,1,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,0,0,2,0,1,0,1,0,0,0,0,0,0,4,3,4,4,0,1,12,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103507,ATRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103520,TANKUPPA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103523,MOHANPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,2,0,0,5,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,2,UPS (I-VIII),8,Unrecognized,Rural,3,4,2,1,3,2,1,1,0,0,0,0,0,0,0,1,2,2,2,1,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,2,UPS (I-VIII),8,Unrecognized,Rural,3,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,2,UPS (I-VIII),8,Unrecognized,Rural,3,10,8,3,5,2,3,2,0,2,2,0,0,0,0,5,3,2,3,4,2,2,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103516,DUMARIA,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103523,MOHANPUR,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103524,BARACHATTI,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,2,UPS (I-VIII),8,Unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,2,UPS (I-VIII),8,Unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,2,UPS (I-VIII),8,Unrecognized,Urban,3,0,0,4,3,2,3,4,2,2,5,0,0,0,0,2,3,4,3,2,4,4,2,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,2,UPS (I-VIII),8,Unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,2,UPS (I-VIII),8,Unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103507,ATRI,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,3,HSS (I-XII),1,Department of Education,Rural,4,0,0,7,8,8,5,6,6,10,8,28,23,0,0,5,7,6,7,8,7,10,7,19,12,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,3,HSS (I-XII),1,Department of Education,Rural,4,0,0,28,15,11,13,9,14,29,36,25,20,0,0,20,8,19,12,10,19,13,26,42,51,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,21,24,21,25,19,21,22,24,95,68,41,49,19,13,18,19,20,17,18,20,5,30,9,7,OBC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,53,38,13,18,11,24,18,0,11,0,11,7,1,0,4,10,10,23,11,0,9,0,8,5,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,3,HSS (I-XII),7,Central Govt,Urban,4,0,0,18,34,34,15,16,3,0,0,20,23,18,7,25,20,17,13,16,1,1,0,17,10,4,5,OBC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,3,HSS (I-XII),8,Unrecognized,Urban,4,0,0,60,77,76,64,74,76,73,77,65,47,142,30,48,45,60,55,62,53,67,65,55,57,80,52,OBC
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,12,8,20,20,20,20,12,20,5,8,0,0,18,18,8,20,8,22,20,22,10,9,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,275,209,78,117,0,0,0,0,0,0,0,0,229,279,173,178,OBC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,436,428,23,51,0,0,0,0,0,0,0,0,585,537,106,144,OBC
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,562,691,71,87,0,0,0,0,0,0,0,0,693,708,151,201,OBC
+2015-16,10,Bihar,1035,GAYA,103505,NEEM CHAK BATHANI,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,106,94,8,18,0,0,0,0,0,0,0,0,91,123,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103506,MOHARA,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,99,60,29,33,0,0,0,0,0,0,0,0,105,66,32,22,OBC
+2015-16,10,Bihar,1035,GAYA,103507,ATRI,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,210,229,87,113,0,0,0,0,0,0,0,0,366,324,227,202,OBC
+2015-16,10,Bihar,1035,GAYA,103508,MANPUR,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,116,61,15,0,0,0,0,0,0,0,0,0,84,74,20,0,OBC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,175,219,10,6,0,0,0,0,0,0,0,0,204,193,9,1,OBC
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,527,614,118,171,0,0,0,0,0,0,0,0,407,375,170,196,OBC
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,254,232,83,34,0,0,0,0,0,0,0,0,479,424,138,167,OBC
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,310,352,154,117,0,0,0,0,0,0,0,0,180,247,140,189,OBC
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,356,187,0,0,0,0,0,0,0,0,0,0,279,346,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103515,IMAMGANJ,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,252,285,0,0,0,0,0,0,0,0,0,0,180,276,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103516,DUMARIA,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,410,365,45,40,0,0,0,0,0,0,0,0,290,290,35,20,OBC
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,315,301,53,64,0,0,0,0,0,0,0,0,320,280,130,116,OBC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,333,293,63,97,0,0,0,0,0,0,0,0,0,0,6,6,OBC
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,245,265,16,36,0,0,0,0,0,0,0,0,210,210,26,27,OBC
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,652,600,114,110,0,0,0,0,0,0,0,0,660,561,210,224,OBC
+2015-16,10,Bihar,1035,GAYA,103523,MOHANPUR,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,171,177,89,47,0,0,0,0,0,0,0,0,174,169,79,62,OBC
+2015-16,10,Bihar,1035,GAYA,103524,BARACHATTI,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,301,242,160,172,OBC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,413,455,109,123,0,0,0,0,0,0,0,0,412,417,141,130,OBC
+2015-16,10,Bihar,1035,GAYA,103508,MANPUR,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,94,114,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,822,911,383,498,0,0,0,0,0,0,0,0,538,564,101,129,OBC
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,486,528,154,120,0,0,0,0,0,0,0,0,0,0,22,24,OBC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,372,480,148,200,OBC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,10,HSS (IX-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,95,116,41,71,0,0,0,0,0,0,0,0,192,172,54,62,OBC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,5,11,8,OBC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,5,HSS (VI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,111,113,70,84,0,0,0,0,0,0,0,0,0,0,50,52,OBC
+2015-16,10,Bihar,1035,GAYA,103506,MOHARA,5,HSS (VI-XII),7,Central Govt,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,112,396,0,0,0,0,0,0,0,0,0,0,126,248,OBC
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,8,0,OBC
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103515,IMAMGANJ,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,11,HSS (XI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,15,42,729,656,0,0,0,0,0,0,0,0,10,28,339,300,OBC
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,11,HSS (XI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,1,PS (I-V),1,Department of Education,Rural,4,0,0,1003,937,978,905,882,17,16,16,0,0,0,0,1009,958,1051,983,934,27,18,22,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,1,PS (I-V),1,Department of Education,Rural,4,112,117,935,813,834,794,679,13,9,0,0,0,0,0,973,843,891,849,787,25,7,13,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,1,PS (I-V),1,Department of Education,Rural,4,0,0,722,657,712,691,795,0,0,0,0,0,0,0,710,685,710,729,788,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,1,PS (I-V),1,Department of Education,Rural,4,0,0,517,418,477,457,465,4,7,2,0,0,0,0,557,465,551,482,444,4,5,2,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103505,NEEM CHAK BATHANI,1,PS (I-V),1,Department of Education,Rural,4,7,13,434,361,365,387,354,36,21,19,0,0,0,0,429,387,381,378,371,47,22,34,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103506,MOHARA,1,PS (I-V),1,Department of Education,Rural,4,0,0,376,345,357,324,300,0,0,0,0,0,0,0,347,355,321,288,296,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103507,ATRI,1,PS (I-V),1,Department of Education,Rural,4,0,0,340,369,408,372,358,83,40,54,0,0,0,0,321,318,345,372,339,50,44,41,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103508,MANPUR,1,PS (I-V),1,Department of Education,Rural,4,138,154,480,358,423,394,410,0,0,0,0,0,0,0,503,381,481,441,445,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,1,PS (I-V),1,Department of Education,Rural,4,0,0,542,550,552,558,516,0,0,0,0,0,0,0,588,503,588,575,647,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,1,PS (I-V),1,Department of Education,Rural,4,94,87,382,289,301,278,268,0,0,0,0,0,0,0,392,357,295,300,290,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,1,PS (I-V),1,Department of Education,Rural,4,0,0,586,586,710,585,668,143,38,26,0,0,0,0,617,590,775,672,731,148,46,41,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,1,PS (I-V),1,Department of Education,Rural,4,0,0,633,491,520,462,473,0,0,0,0,0,0,0,597,544,497,497,486,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,1,PS (I-V),1,Department of Education,Rural,4,0,0,319,231,204,224,239,0,0,0,0,0,0,0,295,254,233,250,271,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,1,PS (I-V),1,Department of Education,Rural,4,0,0,480,433,494,396,469,48,43,72,28,29,0,0,476,399,480,462,467,46,54,59,42,37,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103515,IMAMGANJ,1,PS (I-V),1,Department of Education,Rural,4,0,0,876,647,635,653,673,0,0,0,0,0,0,0,868,655,633,639,619,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103516,DUMARIA,1,PS (I-V),1,Department of Education,Rural,4,102,104,587,533,537,527,515,0,0,0,0,0,0,0,605,526,478,510,496,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,1,PS (I-V),1,Department of Education,Rural,4,0,0,401,318,385,294,343,0,0,0,0,0,0,0,405,395,408,348,363,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,1,PS (I-V),1,Department of Education,Rural,4,0,0,536,435,438,428,367,17,13,25,0,0,0,0,513,501,495,446,425,14,9,6,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,1,PS (I-V),1,Department of Education,Rural,4,55,41,693,587,570,562,505,41,22,32,0,0,0,0,665,581,674,639,578,55,61,19,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103520,TANKUPPA,1,PS (I-V),1,Department of Education,Rural,4,0,0,681,576,600,543,526,0,0,0,0,0,0,0,595,589,585,574,514,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,1,PS (I-V),1,Department of Education,Rural,4,0,0,816,612,691,696,594,21,15,18,0,0,0,0,770,644,648,704,678,36,21,16,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,1,PS (I-V),1,Department of Education,Rural,4,0,0,847,654,798,696,640,48,0,0,0,0,0,0,819,675,805,742,656,58,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103523,MOHANPUR,1,PS (I-V),1,Department of Education,Rural,4,0,0,963,784,919,761,799,36,38,31,0,0,0,0,972,809,916,845,849,60,48,24,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103524,BARACHATTI,1,PS (I-V),1,Department of Education,Rural,4,0,0,487,466,470,458,435,30,27,24,0,0,0,0,485,489,486,437,466,26,43,23,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,1,PS (I-V),1,Department of Education,Urban,4,0,0,2,6,17,10,16,0,0,0,0,0,0,0,2,10,9,8,7,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,1,PS (I-V),1,Department of Education,Urban,4,0,0,393,448,461,419,390,57,56,56,0,0,0,0,455,486,515,486,476,57,68,52,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,1,PS (I-V),1,Department of Education,Urban,4,0,0,61,77,97,80,93,0,0,0,0,0,0,0,55,80,78,77,93,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,1,PS (I-V),1,Department of Education,Urban,4,0,0,33,30,23,23,17,0,0,0,0,0,0,0,44,25,29,34,16,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,22,11,9,23,18,16,10,0,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,34,22,5,6,6,5,3,0,0,0,0,0,0,0,9,1,5,6,5,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,10,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,1,PS (I-V),8,Unrecognized,Rural,4,39,42,13,7,7,8,2,0,0,0,0,0,0,0,7,11,3,4,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,1,PS (I-V),8,Unrecognized,Rural,4,37,21,11,8,9,2,8,0,0,0,0,0,0,0,7,6,7,4,1,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103505,NEEM CHAK BATHANI,1,PS (I-V),8,Unrecognized,Rural,4,0,0,14,14,18,19,20,0,0,0,0,0,0,0,14,6,4,3,2,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,1,PS (I-V),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,1,PS (I-V),8,Unrecognized,Rural,4,0,0,2,3,2,4,2,0,0,0,0,0,0,0,1,0,2,0,2,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,1,PS (I-V),8,Unrecognized,Rural,4,86,36,26,15,16,12,8,0,0,0,0,0,0,0,8,8,4,2,7,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,1,PS (I-V),8,Unrecognized,Rural,4,12,6,2,6,2,8,9,0,0,0,0,0,0,0,4,4,1,4,8,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,1,PS (I-V),8,Unrecognized,Rural,4,30,18,9,6,5,4,7,0,0,0,0,0,0,0,5,10,1,4,1,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,1,PS (I-V),8,Unrecognized,Rural,4,27,36,16,12,15,13,5,0,0,0,0,0,0,0,9,12,10,9,1,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,1,PS (I-V),8,Unrecognized,Rural,4,14,12,6,4,6,3,2,0,0,0,0,0,0,0,8,17,4,3,2,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,1,PS (I-V),8,Unrecognized,Rural,4,11,11,3,2,3,2,1,0,0,0,0,0,0,0,2,2,2,3,2,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,1,PS (I-V),8,Unrecognized,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,1,PS (I-V),8,Unrecognized,Urban,4,49,61,23,16,15,7,5,0,0,0,0,0,0,0,10,8,7,6,3,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,6,SS (I-X),1,Department of Education,Rural,4,0,0,7,9,23,16,27,56,41,44,37,30,0,0,11,3,24,14,29,32,37,35,46,22,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,6,SS (I-X),1,Department of Education,Rural,4,0,0,12,9,7,11,12,19,22,26,12,14,0,0,9,12,14,17,13,16,16,21,14,9,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,6,SS (I-X),1,Department of Education,Rural,4,0,0,37,22,24,29,21,59,54,75,65,69,0,0,66,31,39,30,26,72,79,86,65,72,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,6,SS (I-X),1,Department of Education,Rural,4,0,0,6,17,12,15,24,18,12,23,18,21,0,0,9,14,8,19,12,19,13,35,17,14,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,6,SS (I-X),1,Department of Education,Rural,4,0,0,5,4,13,16,10,6,5,12,19,19,0,0,4,11,18,8,6,20,6,15,7,17,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,6,SS (I-X),1,Department of Education,Rural,4,0,0,12,18,6,8,13,28,13,21,18,12,0,0,29,23,23,21,21,37,27,32,22,23,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,6,SS (I-X),1,Department of Education,Rural,4,0,0,32,20,19,24,32,37,42,29,34,27,0,0,20,27,23,18,32,62,44,40,36,19,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,6,SS (I-X),1,Department of Education,Rural,4,0,0,23,14,32,15,18,38,22,25,22,32,0,0,22,33,30,23,29,44,31,25,24,43,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,6,SS (I-X),1,Department of Education,Rural,4,0,0,14,13,17,19,22,34,29,30,60,89,0,0,16,16,24,20,30,28,35,44,63,105,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103515,IMAMGANJ,6,SS (I-X),1,Department of Education,Rural,4,0,0,89,73,102,106,109,109,79,96,149,88,0,0,99,82,103,132,136,120,143,136,191,101,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103516,DUMARIA,6,SS (I-X),1,Department of Education,Rural,4,0,0,15,9,13,20,26,27,16,19,41,31,0,0,13,11,17,6,17,29,18,17,34,23,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,6,SS (I-X),1,Department of Education,Rural,4,0,0,19,18,17,11,23,45,39,57,81,55,0,0,17,33,17,24,24,55,49,68,64,36,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,6,SS (I-X),1,Department of Education,Rural,4,0,0,3,1,2,3,1,16,11,12,14,12,0,0,2,1,7,3,2,20,23,21,25,24,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,6,SS (I-X),1,Department of Education,Rural,4,0,0,30,28,38,57,43,73,59,68,15,45,0,0,35,42,64,49,71,81,57,62,47,40,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103520,TANKUPPA,6,SS (I-X),1,Department of Education,Rural,4,0,0,51,35,45,42,37,65,78,64,84,103,0,0,50,44,37,33,31,69,71,85,113,97,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,6,SS (I-X),1,Department of Education,Rural,4,0,0,63,65,69,75,50,59,55,56,106,58,0,0,76,72,52,73,44,82,77,53,89,94,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103524,BARACHATTI,6,SS (I-X),1,Department of Education,Rural,4,0,0,41,34,53,32,41,37,40,56,61,49,0,0,42,35,33,37,50,52,48,55,69,77,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,15,10,13,8,11,5,3,1,2,0,3,3,0,0,5,7,5,2,1,0,1,1,4,4,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,71,53,0,0,0,0,0,0,0,0,0,0,91,127,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,6,SS (I-X),8,Unrecognized,Rural,4,27,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,6,SS (I-X),8,Unrecognized,Rural,4,37,23,30,21,29,19,17,29,19,17,10,14,0,0,11,12,8,9,14,12,19,8,13,11,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,6,SS (I-X),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,6,SS (I-X),8,Unrecognized,Rural,4,34,27,27,31,38,44,40,39,32,33,41,31,0,0,20,18,20,31,28,27,26,25,33,35,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,6,SS (I-X),8,Unrecognized,Rural,4,3,2,9,17,14,9,12,31,20,17,100,90,0,0,6,9,9,10,15,25,20,16,85,82,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,6,SS (I-X),8,Unrecognized,Rural,4,21,25,14,27,21,27,19,28,27,20,16,15,0,0,15,11,13,16,18,17,12,18,15,11,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,6,SS (I-X),8,Unrecognized,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,0,0,0,0,0,0,0,0,30,55,0,0,0,0,0,0,0,0,0,10,30,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,319,252,76,65,0,0,0,0,0,0,0,0,318,289,72,35,OBC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,523,542,46,7,0,0,0,0,0,0,0,0,702,552,44,7,OBC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,271,200,69,63,0,0,0,0,0,0,0,0,120,154,26,16,OBC
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,214,188,38,65,0,0,0,0,0,0,0,0,167,217,87,42,OBC
+2015-16,10,Bihar,1035,GAYA,103506,MOHARA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,146,98,15,6,0,0,0,0,0,0,0,0,150,81,12,0,OBC
+2015-16,10,Bihar,1035,GAYA,103507,ATRI,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,307,272,27,45,0,0,0,0,0,0,0,0,146,157,90,77,OBC
+2015-16,10,Bihar,1035,GAYA,103508,MANPUR,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,290,275,35,0,0,0,0,0,0,0,0,0,298,257,29,0,OBC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,256,210,0,0,0,0,0,0,0,0,0,0,245,306,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,376,267,9,19,0,0,0,0,0,0,0,0,433,358,8,37,OBC
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,8,SS (IX-X),1,Department of Education,Rural,4,0,0,21,17,21,17,24,54,46,56,234,206,0,0,11,18,14,13,19,37,56,41,249,224,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,386,426,9,11,0,0,0,0,0,0,0,0,228,236,5,3,OBC
+2015-16,10,Bihar,1035,GAYA,103515,IMAMGANJ,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,81,95,0,0,0,0,0,0,0,0,0,0,252,193,68,41,OBC
+2015-16,10,Bihar,1035,GAYA,103516,DUMARIA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,145,194,0,0,0,0,0,0,0,0,0,0,228,254,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,505,602,16,33,0,0,0,0,0,0,0,0,549,544,23,19,OBC
+2015-16,10,Bihar,1035,GAYA,103520,TANKUPPA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,7,9,12,466,354,33,37,0,0,0,0,0,5,6,7,506,390,47,36,OBC
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,698,699,107,149,0,0,0,0,0,0,0,0,793,670,175,163,OBC
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,241,76,93,5,0,0,0,0,0,0,0,0,201,66,94,8,OBC
+2015-16,10,Bihar,1035,GAYA,103523,MOHANPUR,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,199,193,32,6,0,0,0,0,0,0,0,0,191,197,57,58,OBC
+2015-16,10,Bihar,1035,GAYA,103524,BARACHATTI,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,597,591,41,59,0,0,0,0,0,0,0,0,274,303,36,27,OBC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,180,183,18,12,0,0,0,0,0,0,0,0,162,165,10,10,OBC
+2015-16,10,Bihar,1035,GAYA,103508,MANPUR,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,5,3,126,100,26,20,0,0,0,0,0,0,0,0,511,467,15,19,OBC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,946,777,291,308,0,0,0,0,0,0,0,0,994,1000,208,163,OBC
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,625,630,220,192,OBC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,8,SS (IX-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,52,38,0,0,0,0,0,0,0,0,0,0,51,33,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,8,SS (IX-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,192,169,90,184,0,0,0,0,0,0,0,0,143,96,28,94,OBC
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,20,16,0,0,0,0,0,0,0,0,0,0,20,13,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,89,215,0,0,0,0,0,0,0,0,0,0,56,78,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103505,NEEM CHAK BATHANI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,128,155,0,0,0,0,0,0,0,0,0,0,135,146,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103507,ATRI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91,71,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,74,86,0,0,0,0,0,0,0,0,0,0,38,95,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,118,88,0,0,0,0,0,0,0,0,0,0,130,118,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103515,IMAMGANJ,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103516,DUMARIA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,110,117,0,0,0,0,0,0,0,0,0,0,141,102,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,134,176,0,0,0,0,0,0,0,0,0,0,184,206,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,74,104,0,0,0,0,0,0,0,0,0,0,88,66,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,186,341,0,0,0,0,0,0,0,0,0,0,178,230,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103523,MOHANPUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103524,BARACHATTI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,8,SS (IX-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,44,36,0,0,0,0,0,0,0,0,0,0,36,27,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,7,SS (VI-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71,82,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,1000,929,1065,1098,1120,1593,1519,1409,0,0,0,0,1042,900,1110,1023,1112,1509,1597,1510,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,2,UPS (I-VIII),1,Department of Education,Rural,4,5,1,990,1094,1157,1083,1104,1417,1450,1409,3,6,0,0,1020,1167,1183,1111,1205,1594,1488,1491,2,6,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,2,UPS (I-VIII),1,Department of Education,Rural,4,184,205,604,598,683,664,728,1059,1067,938,0,0,0,0,668,675,809,712,806,1267,1174,1027,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,687,676,750,734,727,1043,914,854,35,35,0,0,668,721,772,756,863,1118,937,997,46,48,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103505,NEEM CHAK BATHANI,2,UPS (I-VIII),1,Department of Education,Rural,4,8,6,454,435,470,449,449,546,491,427,30,23,0,0,449,445,503,512,439,620,491,475,56,43,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103506,MOHARA,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,422,417,439,400,423,502,510,432,0,0,0,0,428,410,457,419,405,520,539,466,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103507,ATRI,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,446,421,458,410,422,481,465,458,0,0,0,0,427,495,477,403,428,504,528,447,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103508,MANPUR,2,UPS (I-VIII),1,Department of Education,Rural,4,106,118,380,348,392,324,390,640,632,635,88,110,0,0,405,349,428,397,415,759,619,717,122,71,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,474,437,516,518,546,849,815,795,77,57,0,0,527,494,586,557,630,1059,918,959,99,82,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,2,UPS (I-VIII),1,Department of Education,Rural,4,105,148,451,353,430,394,424,616,604,550,0,0,0,0,453,414,410,442,414,754,665,580,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,426,440,532,531,655,849,793,878,19,4,0,0,447,457,598,519,566,832,838,941,25,5,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,781,704,783,787,849,1094,986,957,35,26,0,0,733,651,748,730,774,1211,1068,1032,40,21,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,452,360,424,355,411,569,518,429,0,0,0,0,466,435,417,448,422,625,543,549,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,453,447,451,462,514,589,535,565,0,0,0,0,419,435,570,491,540,676,619,626,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103515,IMAMGANJ,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,768,718,723,711,761,1013,947,917,57,38,0,0,772,755,732,781,878,1016,1039,1023,46,40,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103516,DUMARIA,2,UPS (I-VIII),1,Department of Education,Rural,4,77,83,818,699,795,754,854,982,918,906,0,0,0,0,802,714,735,726,798,1022,990,873,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,386,331,476,523,484,677,596,551,0,0,0,0,426,411,510,481,512,682,668,636,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,583,571,521,552,550,618,587,560,0,0,0,0,597,650,674,680,668,858,740,730,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,493,440,531,487,474,752,664,689,28,33,0,0,565,493,613,580,571,905,824,890,48,15,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103520,TANKUPPA,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,638,509,588,510,534,855,648,697,14,9,0,0,656,520,606,553,596,880,771,837,32,4,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,729,734,816,876,916,1239,1154,1313,58,72,0,0,813,757,907,922,904,1422,1249,1215,73,73,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,1219,968,1074,1108,1066,1279,1215,1127,90,70,0,0,1291,1044,1177,1137,1155,1510,1444,1373,28,12,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103523,MOHANPUR,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,1077,1003,1009,924,900,1384,1049,1108,44,61,0,0,1151,994,1015,965,1054,1528,1226,1366,45,67,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103524,BARACHATTI,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,619,550,725,645,695,928,876,876,0,0,0,0,620,564,759,670,787,1120,925,972,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,15,15,18,27,69,87,128,160,0,0,0,0,17,22,27,34,46,67,101,111,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,434,591,752,780,905,1078,1091,1108,0,0,0,0,525,757,985,937,1145,1422,1536,1539,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,56,85,81,81,103,154,175,136,0,0,0,0,61,77,62,76,108,183,191,174,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,50,40,72,61,72,121,120,154,0,0,0,0,60,73,91,89,100,140,174,215,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103501,KONCH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,14,12,19,8,8,8,4,4,0,0,52,133,0,0,14,4,4,3,2,2,0,0,56,30,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,12,15,14,10,17,27,28,27,26,25,0,0,0,0,19,12,8,12,12,13,16,20,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,5,5,22,22,22,17,18,16,12,11,0,0,0,0,15,13,14,12,13,11,10,9,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103507,ATRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,50,17,23,27,17,27,16,8,5,6,0,0,0,0,5,7,6,11,9,1,2,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,3,5,4,0,1,1,3,2,1,1,0,0,0,0,2,1,1,1,1,1,0,1,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,2,3,3,2,2,2,2,1,0,0,0,0,2,2,2,1,1,1,1,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,19,8,14,16,12,10,12,18,4,2,0,0,0,0,4,3,9,5,5,2,2,1,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,38,16,6,4,4,2,0,1,1,0,0,0,0,0,4,0,2,1,0,1,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103520,TANKUPPA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,30,27,9,8,8,9,6,10,11,11,0,0,0,0,6,4,3,1,8,4,8,9,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,67,53,50,53,47,47,46,52,0,0,0,0,23,35,33,26,33,28,27,19,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103523,MOHANPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,35,31,16,10,11,15,9,7,10,7,0,0,0,0,15,13,12,10,12,5,8,10,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,0,7,8,6,3,2,4,3,2,0,0,0,0,3,7,4,5,3,1,2,2,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,20,27,5,3,2,2,3,2,2,2,0,0,0,0,8,5,2,2,2,2,2,3,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,18,10,11,11,9,10,7,5,6,2,0,0,0,0,12,10,6,11,5,3,4,1,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,75,58,106,128,141,131,143,132,48,40,0,0,0,0,57,90,89,85,99,78,24,31,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,2,UPS (I-VIII),8,Unrecognized,Rural,4,345,199,101,106,96,88,61,49,47,39,0,0,0,0,74,63,48,48,41,42,28,19,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,2,UPS (I-VIII),8,Unrecognized,Rural,4,272,98,82,63,44,51,56,39,17,15,0,0,0,0,30,30,24,29,21,24,14,5,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,2,UPS (I-VIII),8,Unrecognized,Rural,4,77,64,120,98,83,44,44,34,39,22,0,0,0,0,82,37,36,35,20,17,16,12,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,2,UPS (I-VIII),8,Unrecognized,Rural,4,7,6,69,44,48,43,52,25,35,20,0,0,0,0,33,23,21,19,20,10,14,8,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,2,UPS (I-VIII),8,Unrecognized,Rural,4,62,37,19,25,22,16,14,13,9,2,0,0,0,0,14,14,15,9,7,9,2,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103512,GURUA,2,UPS (I-VIII),8,Unrecognized,Rural,4,17,12,15,14,12,9,7,12,7,6,0,0,0,0,6,6,5,5,10,6,5,4,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103513,AMAS,2,UPS (I-VIII),8,Unrecognized,Rural,4,0,0,3,7,2,4,2,3,1,2,0,0,0,0,4,2,3,3,4,0,3,2,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,2,UPS (I-VIII),8,Unrecognized,Rural,4,158,88,128,82,84,81,60,79,37,48,0,0,0,0,69,79,66,57,68,62,30,33,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103516,DUMARIA,2,UPS (I-VIII),8,Unrecognized,Rural,4,0,0,0,12,19,14,36,8,14,4,0,0,0,0,0,8,6,8,19,10,9,5,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103517,SHERGHATI,2,UPS (I-VIII),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103518,DOBHI,2,UPS (I-VIII),8,Unrecognized,Rural,4,113,81,53,53,62,48,37,42,41,34,0,0,0,0,55,41,43,39,36,35,24,30,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,2,UPS (I-VIII),8,Unrecognized,Rural,4,7,11,33,41,23,27,18,22,19,4,0,0,0,0,29,15,29,26,14,20,7,2,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,2,UPS (I-VIII),8,Unrecognized,Rural,4,46,29,32,34,32,36,35,22,22,12,0,0,0,0,17,11,10,28,11,7,5,3,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103522,FATEHPUR,2,UPS (I-VIII),8,Unrecognized,Rural,4,10,3,15,10,7,7,1,4,2,4,0,0,0,0,5,3,1,0,0,1,2,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103523,MOHANPUR,2,UPS (I-VIII),8,Unrecognized,Rural,4,48,33,17,11,18,14,17,23,29,21,0,0,0,0,22,17,11,18,17,18,22,33,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103524,BARACHATTI,2,UPS (I-VIII),8,Unrecognized,Rural,4,69,56,16,15,25,14,10,7,6,2,0,0,0,0,10,8,10,25,12,7,6,5,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,2,UPS (I-VIII),8,Unrecognized,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,2,UPS (I-VIII),8,Unrecognized,Urban,4,16,6,4,2,4,2,3,0,1,0,0,0,0,0,2,0,0,1,1,0,1,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103509,GAYA TOWN C.D.BLOCK,2,UPS (I-VIII),8,Unrecognized,Urban,4,251,96,162,171,145,163,126,186,158,136,0,0,0,0,62,49,45,54,50,49,43,32,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103510,PARAIYA,2,UPS (I-VIII),8,Unrecognized,Urban,4,8,2,15,10,8,5,6,5,11,0,0,0,0,0,5,11,2,7,6,6,4,0,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103519,BODH GAYA,2,UPS (I-VIII),8,Unrecognized,Urban,4,118,134,33,29,53,45,43,50,50,38,0,0,0,0,43,54,53,56,46,45,38,27,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,10,7,14,18,13,19,14,12,0,0,0,0,8,6,10,8,9,9,11,9,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103502,TIKARI,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,25,22,28,0,0,0,0,0,0,0,0,0,25,11,30,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103503,BELAGANJ,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,38,46,32,0,0,0,0,0,0,0,0,0,21,17,20,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103504,KHIZERSARAI,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,99,126,77,0,0,0,0,0,0,0,0,0,84,103,73,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103507,ATRI,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,48,72,42,0,0,0,0,0,0,0,0,0,66,48,48,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103511,GURARU,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,73,80,86,0,0,0,0,0,0,0,0,0,67,74,76,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103514,BANKEY BAZAR,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,43,33,27,0,0,0,0,0,0,0,0,0,40,31,27,0,0,0,0,OBC
+2015-16,10,Bihar,1035,GAYA,103521,WAZIRGANJ,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,40,60,41,0,0,0,0,0,0,0,0,0,45,48,50,0,0,0,0,OBC

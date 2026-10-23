@@ -1,0 +1,941 @@
+ac_year,st_code,state_name,dt_code,district_name,block_cd,udise_block_name,loc_name,sch_category_id,tr_cat_name,school_category,sch_mgmt_id,sch_mgmt_name,caste_id,caste_name,pre_primary_boy,pre_primary_girl,class1_boy,class2_boy,class3_boy,class4_boy,class5_boy,class6_boy,class7_boy,class8_boy,class9_boy,class10_boy,class11_boy,class12_boy,class1_girl,class2_girl,class3_girl,class4_girl,class5_girl,class6_girl,class7_girl,class8_girl,class9_girl,class10_girl,class11_girl,class12_girl
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,2,cat2,UPS (I-VIII),4,Government Aided,4,OBC,0,0,44,30,30,30,20,0,0,0,0,0,0,0,45,54,40,20,35,50,25,38,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,2,cat2,UPS (I-VIII),4,Government Aided,4,OBC,0,0,34,29,40,43,44,40,30,24,0,0,0,0,34,42,40,41,38,29,34,36,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,2,cat2,UPS (I-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,10,4,10,0,0,0,0,0,0,0,0,0,8,6,7,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,2,cat2,UPS (I-VIII),4,Government Aided,4,OBC,0,0,50,36,32,31,31,16,17,12,0,0,0,0,78,62,82,62,82,97,93,73,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,354,225,699,572,553,560,580,517,545,557,0,0,0,0,423,354,363,351,380,404,397,426,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,15,14,415,388,363,337,404,346,304,293,0,0,0,0,308,268,267,246,264,217,227,225,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,344,226,541,461,439,433,405,383,325,334,0,0,0,0,395,335,331,314,291,277,302,261,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,295,243,288,278,229,231,254,230,0,0,0,0,217,178,201,152,160,152,162,185,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,86,77,236,225,214,192,198,263,239,198,0,0,0,0,178,200,162,172,164,191,210,174,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,149,96,205,176,201,163,186,180,174,163,0,0,0,0,126,133,142,105,123,120,109,112,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,31,26,83,89,93,105,95,99,105,120,0,0,0,0,72,84,62,90,85,100,86,85,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,30,25,334,296,265,288,266,253,288,305,0,0,0,0,205,205,162,174,216,202,204,234,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,1,2,2,3,2,0,1,2,0,0,0,0,1,1,2,1,0,0,1,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,27,19,12,43,33,39,52,44,45,51,0,0,0,0,23,34,27,19,31,27,32,34,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,110,49,220,217,210,227,252,222,248,248,0,0,0,0,171,176,143,185,150,137,162,128,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,35,21,69,57,58,50,50,39,39,32,0,0,0,0,45,34,28,31,35,24,23,14,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,23,27,27,35,45,44,33,35,0,0,0,0,17,24,20,29,36,34,26,29,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,71,62,59,64,51,78,35,51,0,0,0,0,47,42,46,29,48,37,57,43,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,68,64,17,26,16,18,34,25,22,26,0,0,0,0,7,14,22,17,17,11,12,18,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,32,18,36,34,50,48,41,27,32,24,0,0,0,0,31,36,40,35,35,28,26,28,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,52,51,35,51,36,20,27,29,0,0,0,0,45,32,32,10,18,23,10,8,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,32,23,32,20,35,19,21,11,0,0,0,0,18,19,15,11,15,12,6,5,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,1318,1007,2884,2300,2140,2224,2155,2039,1891,1777,0,0,0,0,2352,1859,1803,1783,1788,1666,1530,1559,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,684,512,615,540,516,476,509,436,408,369,0,0,0,0,412,305,345,356,323,299,259,231,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),4,OBC,0,0,14,15,16,8,8,5,1,1,0,0,0,0,5,14,13,13,2,1,3,6,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,5,2,3,4,1,2,2,2,0,0,0,0,5,5,6,1,3,1,2,5,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,66,43,30,22,21,12,13,12,0,0,0,0,58,35,17,17,18,11,13,14,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,383,344,278,0,0,0,0,0,0,0,0,0,400,344,312,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,184,160,185,0,0,0,0,0,0,0,0,0,224,222,204,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,381,361,332,0,0,0,0,0,0,0,0,0,419,419,378,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,210,161,194,0,0,0,0,0,0,0,0,0,258,210,203,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,156,167,122,0,0,0,0,0,0,0,0,0,197,197,174,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,127,118,109,0,0,0,0,0,0,0,0,0,152,178,168,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,277,289,249,0,0,0,0,0,0,0,0,0,372,342,278,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,262,277,199,0,0,0,0,0,0,0,0,0,329,347,327,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,189,159,157,0,0,0,0,0,0,0,0,0,216,217,212,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,152,138,126,0,0,0,0,0,0,0,0,0,183,141,130,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,16,25,12,0,0,0,0,0,0,0,0,0,16,28,15,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,4,cat4,UPS (VI-VIII),2,Tribal Welfare Department,4,OBC,0,0,0,0,0,0,0,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,11,23,9,0,0,0,0,0,0,0,0,0,9,16,17,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,45,48,37,0,0,0,0,0,0,0,0,0,49,44,57,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,9,9,7,0,0,0,0,0,0,0,0,0,2,4,7,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,22,33,39,0,0,0,0,0,0,0,0,0,26,38,53,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,81,80,103,0,0,0,0,0,0,0,0,0,75,83,75,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,37,34,41,0,0,0,0,0,0,0,0,0,50,48,54,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,19,20,15,0,0,0,0,0,0,0,0,0,21,21,27,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,67,69,62,0,0,0,0,0,0,0,0,0,63,59,62,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,87,78,73,0,0,0,0,0,0,0,0,0,149,140,140,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,15,15,26,0,0,0,0,0,0,0,0,0,8,11,9,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,22,32,24,0,0,0,0,0,0,0,0,0,43,81,67,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,18,20,22,0,0,0,0,0,0,0,0,0,8,11,7,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,147,163,180,0,0,0,0,0,0,0,0,0,167,141,173,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,70,76,70,0,0,0,0,0,0,0,0,0,49,56,65,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,52,47,50,0,0,0,0,0,0,0,0,0,65,55,76,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,73,99,105,0,0,0,0,0,0,0,0,0,45,40,47,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,86,86,73,0,0,0,0,0,0,0,0,0,75,78,82,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,104,76,77,0,0,0,0,0,0,0,0,0,77,66,69,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,195,204,228,0,0,0,0,0,0,0,0,0,175,165,179,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,52,95,53,0,0,0,0,0,0,0,0,0,37,67,62,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,1,8,5,0,0,0,0,0,0,0,0,0,4,2,6,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,13,6,16,0,0,0,0,0,0,0,0,0,9,4,24,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,43,32,27,0,0,0,0,0,0,0,0,0,39,31,49,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,75,92,112,0,0,0,0,0,0,0,0,0,94,64,98,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,3,cat3,HSS (I-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,2,1,9,7,10,28,35,25,20
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,3,cat3,HSS (I-XII),2,Tribal Welfare Department,1,General,0,0,0,0,0,0,0,2,5,2,4,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,3,cat3,HSS (I-XII),2,Tribal Welfare Department,1,General,0,0,0,0,0,0,0,11,11,11,11,11,11,11,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,3,cat3,HSS (I-XII),4,Government Aided,1,General,0,0,0,0,2,0,0,0,0,1,3,0,1,2,1,0,0,0,0,0,0,0,0,0,1,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,3,cat3,HSS (I-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,2,1,4,7,8,3,5,0,0,0,0,0,0,1,3,7,7,7,4
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,3,cat3,HSS (I-XII),4,Government Aided,1,General,0,0,0,1,2,0,2,0,0,2,0,2,2,3,0,0,0,0,1,0,2,2,0,3,4,1
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,3,cat3,HSS (I-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Urban,3,cat3,HSS (I-XII),4,Government Aided,1,General,0,0,8,15,15,18,3,23,22,30,34,32,37,31,9,12,2,10,12,27,25,26,57,40,67,59
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,3,cat3,HSS (I-XII),4,Government Aided,1,General,0,0,23,14,22,17,30,45,67,86,161,108,139,161,117,108,82,96,84,104,157,146,294,300,407,332
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,59,48,37,30,36,39,32,34,34,27,30,36,24,30,23,24,34,31,28,19,15,18,29,18,16,13
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,55,35,83,70,100,108,86,132,125,139,201,187,176,147,58,49,66,48,75,84,87,98,126,142,93,85
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,196,127,163,137,145,143,135,152,146,161,258,224,187,162,89,84,98,79,90,89,85,103,148,134,118,95
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,0,0,3,4,5,2,7,1,2,1,3,12,7,2,2,3,3,3,5,1,3,2,2,9,4,3
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,17,6,25,23,28,42,37,34,36,48,84,74,75,62,15,7,13,16,15,11,21,21,33,35,35,44
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,3,6,23,31,25,32,26,31,41,34,37,28,46,52,12,10,14,4,15,9,10,10,21,22,23,26
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,0,0,2,2,3,1,6,3,4,3,8,11,9,24,0,1,3,0,2,2,3,4,7,3,19,6
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,0,0,10,6,5,6,10,3,6,7,4,3,8,8,1,5,4,3,3,5,4,1,3,2,9,6
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,0,0,22,14,15,17,8,18,21,20,68,55,40,62,8,12,10,6,14,15,6,9,41,34,35,40
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,25,30,8,8,6,9,13,13,14,27,57,63,55,61,5,10,11,5,9,9,11,6,64,40,41,47
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,0,0,84,100,107,99,86,103,37,101,89,90,24,21,67,75,64,71,62,68,54,53,62,54,18,16
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,149,101,147,197,191,229,253,356,398,386,636,634,456,531,129,131,132,152,163,250,253,258,401,505,339,414
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),1,General,0,0,10,9,14,13,14,8,10,26,25,27,17,20,6,4,9,9,11,6,8,8,19,6,15,8
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,3,cat3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,1,General,0,0,18,20,24,27,26,33,25,35,24,20,20,15,15,16,16,17,18,8,21,23,24,22,15,20
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,10,cat10,HSS (IX-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,21,19,37,29,0,0,0,0,0,0,0,0,10,3,16,12
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,10,cat10,HSS (IX-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,9,3,3,11,0,0,0,0,0,0,0,0,1,0,1,3
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,71,64,65,61,0,0,0,0,0,0,0,0,68,56,34,77
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,115,148,120,183,0,0,0,0,0,0,0,0,86,135,108,106
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,83,94,104,121,0,0,0,0,0,0,0,0,69,88,76,99
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,28,42,32,45,0,0,0,0,0,0,0,0,25,19,19,26
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,74,63,88,81,0,0,0,0,0,0,0,0,40,48,59,66
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,12,10,11,15,0,0,0,0,0,0,0,0,7,9,8,15
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,53,66,65,90,0,0,0,0,0,0,0,0,40,40,48,54
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,70,70,85,125,0,0,0,0,0,0,0,0,60,53,52,79
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,101,94,118,124,0,0,0,0,0,0,0,0,76,87,102,115
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,10,18,16,17,0,0,0,0,0,0,0,0,5,8,5,8
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,140,171,189,191,0,0,0,0,0,0,0,0,129,134,147,186
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,46,45,29,18,0,0,0,0,0,0,0,0,23,35,22,26
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,8,15,2,5,0,0,0,0,0,0,0,0,2,12,0,4
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,5,cat5,HSS (VI-XII),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,6,7,0,1,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,8,4,12,14,27,16,10,0,0,0,0,0,2,7,2,33,83,29,17
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,5,1,8,7,0,0,0,0,0,15,25,30,40,55,57,58
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,16,29,31,82,113,94,105,0,0,0,0,0,13,30,27,57,61,70,75
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,3,5,9,26,19,30,17,0,0,0,0,0,1,4,4,24,17,12,23
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,31,35,52,52,58,71,52,0,0,0,0,0,22,32,45,49,43,59,64
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,2,2,4,0,0,0,0,0,0,0,0,1,0,3,6,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,1,6,7,10,12,3,3,0,0,0,0,0,1,2,1,8,9,5,8
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,2,2,4,2,3,0,0,0,0,0,4,2,4,4,3,3,4
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,11,6,12,23,30,68,86,0,0,0,0,0,0,4,1,38,52,65,75
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,10,6,22,69,38,136,143,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,5,cat5,HSS (VI-XII),4,Government Aided,1,General,0,0,0,0,0,0,0,23,30,48,134,134,100,125,0,0,0,0,0,0,0,0,0,1,1,2
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,1,1,2,0,5,0,1,0,0,0,0,0,0,1,0,0,1,0,1
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,23,25,29,60,52,50,54,0,0,0,0,0,24,18,22,54,42,43,40
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,11,8,4,23,15,25,26,0,0,0,0,0,5,4,6,16,10,14,26
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,4,8,4,2,4,3,2,0,0,0,0,0,6,7,4,3,3,3,1
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,15,18,0,0,0,0,0,1,0,0,1,0,5,6
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,18,25,25,14,21,9,18,0,0,0,0,0,9,22,8,12,16,11,11
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,17,21,19,73,77,55,66,0,0,0,0,0,10,9,14,50,39,48,46
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,21,26,25,25,41,81,104,0,0,0,0,0,14,9,15,33,21,27,31
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,18,12,11,41,73,59,83,0,0,0,0,0,8,12,12,33,56,39,69
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Urban,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,2,2,3,4,1,0,1,0,0,0,0,0,1,3,4,0,2,1,3
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,11,14,8,10,4,10,14,0,0,0,0,0,9,14,13,7,13,5,16
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,5,cat5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,1,General,0,0,0,0,0,0,0,6,4,9,2,0,2,6,0,0,0,0,0,3,4,2,4,6,5,3
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,22,35,22,20,20,0,0,0,0,0,0,0,18,24,23,19,24,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,6,10,13,8,18,0,0,0,0,0,0,0,12,13,9,15,8,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,80,85,97,71,77,0,0,0,0,0,0,0,99,113,98,87,93,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,45,40,59,33,39,0,0,0,0,0,0,0,53,46,60,56,47,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,72,77,59,36,42,0,0,0,0,0,0,0,49,66,65,46,52,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,8,12,14,11,8,0,0,0,0,0,0,0,31,16,20,14,11,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,33,35,40,32,20,0,0,0,0,0,0,0,44,42,44,34,32,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,33,36,28,39,27,0,0,0,0,0,0,0,47,43,40,20,29,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,52,65,46,35,39,0,0,0,0,0,0,0,63,52,75,61,61,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Urban,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,139,107,91,47,38,0,0,0,0,0,0,0,116,118,79,55,43,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,1,cat1,PS (I-V),1,Department of Education,1,General,0,0,3,3,1,3,0,0,0,0,0,0,0,0,6,6,6,2,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,1,cat1,PS (I-V),2,Tribal Welfare Department,1,General,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,1,cat1,PS (I-V),3,Local body,1,General,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,4,3,16,9,11,18,7,0,0,0,0,0,0,0,7,6,11,9,11,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,42,18,13,19,19,0,0,0,0,0,0,0,36,15,16,21,16,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,16,16,57,78,55,56,59,0,0,0,0,0,0,0,59,51,51,50,48,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,29,15,17,22,15,0,0,0,0,0,0,0,15,18,23,16,23,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,64,58,92,65,59,53,64,0,0,0,0,0,0,0,68,57,47,47,39,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,19,18,25,27,21,0,0,0,0,0,0,0,21,16,25,22,25,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,88,34,33,38,28,0,0,0,0,0,0,0,44,30,31,25,19,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,43,35,41,47,37,0,0,0,0,0,0,0,32,32,22,21,21,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,7,5,4,4,4,0,0,0,0,0,0,0,3,6,1,2,6,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,87,85,69,81,93,0,0,0,0,0,0,0,71,67,69,60,70,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,2,2,1,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,8,3,3,4,5,0,0,0,0,0,0,0,4,3,1,3,2,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,4,16,13,10,20,0,0,0,0,0,0,0,7,13,7,9,14,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,4,1,0,0,0,0,0,0,0,0,0,0,2,3,0,0,2,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,4,5,268,200,194,148,142,0,0,0,0,0,0,0,226,172,162,143,127,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,19,9,68,60,48,32,45,0,0,0,0,0,0,0,64,45,40,36,26,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),1,General,0,0,4,3,7,6,8,0,0,0,0,0,0,0,3,3,0,5,5,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,1,cat1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,7,4,4,6,7,0,0,0,0,0,0,0,3,3,2,4,6,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,1,cat1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,1,1,2,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,1,cat1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,1,4,2,2,2,0,0,0,0,0,0,0,2,5,1,1,1,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,1,cat1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,140,124,105,95,68,0,0,0,0,0,0,0,139,99,84,75,59,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,1,cat1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,6,cat6,SS (I-X),4,Government Aided,1,General,0,0,1,1,2,4,4,3,3,0,8,11,0,0,1,3,1,0,3,2,3,0,5,10,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,6,cat6,SS (I-X),4,Government Aided,1,General,0,0,1,1,5,1,8,5,2,2,0,0,0,0,1,3,1,2,0,1,3,4,2,5,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,0,0,5,4,2,2,2,2,2,7,5,4,0,0,0,2,2,1,1,2,2,5,3,1,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,0,0,7,9,6,9,6,12,7,2,1,1,0,0,6,5,4,6,5,3,3,4,1,1,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,10,9,5,6,13,10,5,11,9,13,16,12,0,0,12,4,7,5,6,4,2,4,9,3,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,0,0,14,21,17,16,17,6,3,6,21,35,0,0,21,16,11,14,9,5,7,8,7,11,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,0,0,3,5,4,3,1,1,2,4,4,0,0,0,2,2,2,2,1,2,1,2,1,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,0,0,4,6,3,3,1,8,8,8,14,19,0,0,2,2,1,2,1,7,6,8,7,9,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,0,0,26,23,33,27,22,32,26,26,36,23,0,0,18,16,26,30,21,13,15,17,34,19,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,0,0,0,1,5,3,6,1,4,5,13,8,0,0,1,2,3,3,2,4,0,2,8,5,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,0,0,7,0,0,0,2,5,1,3,8,3,0,0,1,0,2,0,1,2,2,4,3,2,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,0,0,10,6,9,5,7,28,24,24,35,18,0,0,1,5,6,6,3,10,14,18,31,10,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,0,0,14,6,11,20,14,9,11,13,11,15,0,0,19,8,4,5,12,10,8,13,9,20,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),1,General,0,0,10,2,4,3,6,6,3,6,3,4,0,0,4,2,6,5,2,4,2,2,2,3,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,6,cat6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,8,cat8,SS (IX-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,4,2,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,8,cat8,SS (IX-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,12,8,0,0,0,0,0,0,0,0,0,0,7,10,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,8,cat8,SS (IX-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,6,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,8,cat8,SS (IX-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,8,cat8,SS (IX-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,5,2,0,0,0,0,0,0,0,0,0,0,2,3,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,8,cat8,SS (IX-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,8,cat8,SS (IX-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,4,1,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,8,cat8,SS (IX-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,3,2,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Urban,8,cat8,SS (IX-X),1,Department of Education,1,General,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,8,cat8,SS (IX-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,32,48,0,0,0,0,0,0,0,0,0,0,38,40,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,29,28,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,23,25,0,0,0,0,0,0,0,0,0,0,15,17,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,31,37,0,0,0,0,0,0,0,0,0,0,14,30,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,9,1,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,2,1,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,25,34,0,0,0,0,0,0,0,0,0,0,15,19,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,8,4,0,0,0,0,0,0,0,0,0,0,8,3,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,85,94,0,0,0,0,0,0,0,0,0,0,58,43,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,5,3,0,0,0,0,0,0,0,0,0,0,2,2,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,35,40,0,0,0,0,0,0,0,0,0,0,69,66,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,7,cat7,SS (VI-X),4,Government Aided,1,General,0,0,0,0,0,0,0,4,2,2,1,0,0,0,0,0,0,0,0,2,2,3,5,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,7,cat7,SS (VI-X),4,Government Aided,1,General,0,0,0,0,0,0,0,1,2,0,0,2,0,0,0,0,0,0,0,0,0,1,0,2,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,7,cat7,SS (VI-X),4,Government Aided,1,General,0,0,0,0,0,0,0,4,4,5,4,2,0,0,0,0,0,0,0,3,2,3,3,5,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,7,cat7,SS (VI-X),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,5,7,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,2,1,4,1,2,0,0,0,0,0,0,0,0,1,1,0,1,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,2,1,1,5,3,0,0,0,0,0,0,0,1,2,0,3,6,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,16,18,13,26,27,0,0,0,0,0,0,0,18,18,17,15,21,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,6,5,11,10,12,0,0,0,0,0,0,0,5,6,4,6,7,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,7,13,18,15,15,0,0,0,0,0,0,0,12,23,11,15,8,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,3,0,1,4,5,0,0,0,0,0,0,0,2,2,4,6,3,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,9,19,22,20,31,0,0,0,0,0,0,0,10,15,18,24,18,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,4,5,8,1,3,0,0,0,0,0,0,0,2,2,0,0,1,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,14,19,16,26,27,0,0,0,0,0,0,0,15,13,23,31,16,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,2,1,1,7,0,0,0,0,0,0,0,0,2,2,3,3,2,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,6,3,2,2,7,0,0,0,0,0,0,0,7,4,4,3,5,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,5,6,5,13,11,0,0,0,0,0,0,0,2,5,6,8,9,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,8,8,7,2,3,0,0,0,0,0,0,0,4,5,7,2,5,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,7,cat7,SS (VI-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,2,cat2,UPS (I-VIII),1,Department of Education,1,General,0,0,55,55,55,53,33,28,30,30,0,0,0,0,47,52,55,48,46,43,48,20,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,2,cat2,UPS (I-VIII),1,Department of Education,1,General,0,0,8,6,4,8,1,15,12,8,0,0,0,0,6,4,6,9,4,22,14,19,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,2,cat2,UPS (I-VIII),1,Department of Education,1,General,0,0,44,31,42,35,28,45,29,41,0,0,0,0,30,47,35,37,30,36,41,49,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,2,cat2,UPS (I-VIII),1,Department of Education,1,General,0,0,5,8,6,5,5,5,1,0,0,0,0,0,14,3,7,4,4,1,4,1,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,2,cat2,UPS (I-VIII),1,Department of Education,1,General,0,0,16,12,20,9,13,7,10,6,0,0,0,0,17,11,7,12,13,13,18,6,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,2,cat2,UPS (I-VIII),1,Department of Education,1,General,0,0,4,4,6,7,3,4,8,6,0,0,0,0,2,9,5,8,6,5,9,8,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,2,cat2,UPS (I-VIII),1,Department of Education,1,General,0,0,1,3,6,1,2,3,4,3,0,0,0,0,2,1,1,2,1,7,5,8,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,2,cat2,UPS (I-VIII),1,Department of Education,1,General,0,0,10,9,8,8,15,7,5,5,0,0,0,0,8,2,8,5,11,8,21,9,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,2,cat2,UPS (I-VIII),1,Department of Education,1,General,0,0,16,22,25,13,12,23,17,28,0,0,0,0,59,59,60,49,42,20,28,18,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,2,cat2,UPS (I-VIII),1,Department of Education,1,General,0,0,12,6,9,8,12,17,5,5,0,0,0,0,6,10,10,10,15,16,15,6,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,2,cat2,UPS (I-VIII),1,Department of Education,1,General,0,0,2,2,7,1,1,0,1,0,0,0,0,0,2,1,3,0,0,1,1,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,2,cat2,UPS (I-VIII),4,Government Aided,1,General,0,0,0,4,0,0,1,0,0,0,0,0,0,0,0,3,0,1,0,0,0,2,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,2,cat2,UPS (I-VIII),4,Government Aided,1,General,0,0,4,3,3,2,4,4,2,6,0,0,0,0,1,2,5,5,4,6,11,8,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,2,cat2,UPS (I-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,2,cat2,UPS (I-VIII),4,Government Aided,1,General,0,0,9,6,10,9,4,0,0,2,0,0,0,0,7,9,31,21,32,38,32,59,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,116,98,84,75,67,82,86,61,50,77,0,0,0,0,65,60,48,56,64,55,61,41,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,2,1,17,31,15,9,13,20,17,27,0,0,0,0,12,15,13,9,10,16,6,13,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,57,40,217,178,185,181,185,146,151,132,0,0,0,0,182,153,154,135,158,131,105,111,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,0,0,35,30,37,35,21,28,24,38,0,0,0,0,27,30,26,24,20,31,33,26,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,75,71,88,72,62,58,52,54,58,71,0,0,0,0,82,48,57,48,38,53,46,48,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,64,43,65,57,68,47,53,47,48,34,0,0,0,0,33,39,43,40,37,29,32,29,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,9,6,31,33,30,25,32,29,24,35,0,0,0,0,29,30,25,27,36,20,25,24,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,11,3,42,43,39,38,38,46,37,47,0,0,0,0,29,27,33,25,34,43,32,36,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,0,0,4,1,3,2,1,2,2,1,0,0,0,0,4,0,1,2,0,2,1,3,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,5,3,6,11,13,17,13,10,7,13,0,0,0,0,8,7,6,6,7,9,4,9,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,93,58,170,157,184,178,155,144,139,148,0,0,0,0,131,102,123,101,100,111,104,88,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,0,0,31,38,28,40,31,28,37,34,0,0,0,0,16,32,35,16,26,28,28,23,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,75,69,42,44,50,44,34,32,26,34,0,0,0,0,39,39,36,39,31,34,33,29,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,20,14,9,10,3,8,2,5,1,2,0,0,0,0,7,3,6,4,5,2,1,2,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,0,0,3,1,0,3,1,3,6,1,0,0,0,0,1,0,0,2,0,1,2,1,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,812,685,1153,977,885,820,834,795,742,676,0,0,0,0,933,804,689,677,769,658,611,585,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,169,128,120,86,94,94,80,72,87,68,0,0,0,0,73,83,64,72,53,58,51,40,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),1,General,0,0,5,7,10,3,4,2,4,4,0,0,0,0,7,4,5,2,4,7,6,2,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,General,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,2,2,0,0,0,2,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,5,0,6,0,0,0,0,0,0,0,0,0,4,8,4,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,0,0,9,6,3,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,38,37,37,0,0,0,0,0,0,0,0,0,50,49,51,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,16,20,15,0,0,0,0,0,0,0,0,0,36,16,18,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,13,15,5,0,0,0,0,0,0,0,0,0,17,11,15,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,7,4,7,0,0,0,0,0,0,0,0,0,4,4,15,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,20,23,17,0,0,0,0,0,0,0,0,0,22,21,14,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,6,8,14,0,0,0,0,0,0,0,0,0,15,16,14,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,27,29,22,0,0,0,0,0,0,0,0,0,43,38,25,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,9,16,4,0,0,0,0,0,0,0,0,0,8,36,26,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,1,General,0,0,0,0,0,0,0,1,5,3,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,4,cat4,UPS (VI-VIII),2,Tribal Welfare Department,1,General,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,4,4,5,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,15,9,9,0,0,0,0,0,0,0,0,0,11,7,8,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,2,3,1,0,0,0,0,0,0,0,0,0,4,5,3,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,16,15,11,0,0,0,0,0,0,0,0,0,7,11,17,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,12,9,29,0,0,0,0,0,0,0,0,0,13,27,26,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,8,2,3,0,0,0,0,0,0,0,0,0,5,2,2,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,1,General,0,0,0,0,0,0,0,1,4,4,0,0,0,0,0,0,0,0,0,21,25,21,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,0,0,2,1,2,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,18,23,14,0,0,0,0,0,0,0,0,0,16,19,13,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,30,32,31,0,0,0,0,0,0,0,0,0,23,18,28,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,7,4,9,0,0,0,0,0,0,0,0,0,5,4,3,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,11,14,11,0,0,0,0,0,0,0,0,0,2,3,3,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,11,6,10,0,0,0,0,0,0,0,0,0,9,9,7,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,13,9,12,0,0,0,0,0,0,0,0,0,10,8,6,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,43,41,52,0,0,0,0,0,0,0,0,0,43,52,56,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,32,30,29,0,0,0,0,0,0,0,0,0,27,32,32,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,4,5,9,0,0,0,0,0,0,0,0,0,3,7,6,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,43,32,21,0,0,0,0,0,0,0,0,0,28,30,39,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),1,General,0,0,0,0,0,0,0,44,50,70,0,0,0,0,0,0,0,0,0,41,54,41,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,3,cat3,HSS (I-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,7,4,7,25,44,44,76,56,61,24
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,3,cat3,HSS (I-XII),2,Tribal Welfare Department,2,SC,0,0,0,0,0,0,24,39,53,30,32,27,12,15,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,3,cat3,HSS (I-XII),2,Tribal Welfare Department,2,SC,0,0,0,0,0,0,0,42,42,42,42,42,42,42,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,3,cat3,HSS (I-XII),4,Government Aided,2,SC,0,0,1,6,9,6,9,21,14,13,19,18,8,18,6,3,1,8,4,4,2,0,0,0,9,11
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,3,cat3,HSS (I-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,7,12,11,12,10,1,4,0,0,0,0,0,5,10,11,9,9,3,2
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,3,cat3,HSS (I-XII),4,Government Aided,2,SC,0,0,2,1,3,4,3,1,6,0,5,8,1,9,1,1,2,2,4,1,1,3,8,4,1,5
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,3,cat3,HSS (I-XII),4,Government Aided,2,SC,0,0,3,3,4,3,12,17,9,13,11,11,3,4,3,3,4,3,6,0,0,0,0,0,3,4
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Urban,3,cat3,HSS (I-XII),4,Government Aided,2,SC,0,0,11,14,18,10,13,33,26,26,56,38,19,25,12,15,21,16,19,29,36,30,51,51,35,36
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,3,cat3,HSS (I-XII),4,Government Aided,2,SC,0,0,67,54,86,73,61,112,117,120,181,202,199,178,109,128,165,167,153,268,253,268,450,344,332,330
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,11,11,16,5,3,4,5,4,12,20,20,12,19,24,6,3,2,4,6,8,16,8,13,12,10,13
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,30,18,74,52,51,51,52,52,57,68,114,90,107,126,45,37,45,37,47,28,41,37,88,73,57,61
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,51,19,32,25,31,41,39,28,44,51,86,101,63,63,22,17,22,19,19,20,26,21,49,43,35,15
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,0,0,2,2,2,1,4,5,16,24,13,11,18,5,1,1,2,2,3,3,8,2,3,5,8,7
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,0,0,3,6,6,4,3,9,2,11,18,10,10,12,0,0,3,4,1,5,4,10,9,9,5,7
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,5,8,15,10,12,16,21,14,16,17,46,78,56,90,16,11,10,10,11,17,17,14,45,36,48,43
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,0,0,10,0,6,2,5,5,4,8,17,8,17,22,3,2,3,0,3,0,1,1,11,11,13,10
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,0,0,22,25,27,18,26,18,11,10,17,27,18,23,17,16,21,13,20,13,9,17,14,19,15,14
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,0,0,22,12,19,12,27,23,22,19,65,65,43,84,16,19,17,14,20,10,53,21,47,33,50,54
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,16,14,8,6,6,4,4,3,3,3,11,13,11,10,3,2,4,4,2,4,2,3,7,4,8,5
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,0,0,17,22,11,13,21,14,12,12,14,10,2,1,8,11,8,6,9,10,9,11,96,6,1,1
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,24,11,75,83,75,71,82,98,110,110,243,222,172,186,58,40,38,51,48,49,42,97,182,145,135,176
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),2,SC,0,0,3,5,2,7,3,2,4,4,4,13,7,6,2,2,4,5,2,3,5,3,4,1,3,3
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,3,cat3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,2,SC,0,0,7,14,8,5,15,19,14,17,22,13,8,2,6,12,17,9,8,8,15,9,18,8,6,2
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,10,cat10,HSS (IX-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,43,43,48,42,0,0,0,0,0,0,0,0,9,5,10,8
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,10,cat10,HSS (IX-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,131,103,81,111,0,0,0,0,0,0,0,0,96,83,67,77
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,125,157,71,89,0,0,0,0,0,0,0,0,95,123,61,53
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,165,194,145,164,0,0,0,0,0,0,0,0,150,143,119,149
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,147,148,124,137,0,0,0,0,0,0,0,0,105,113,106,95
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,72,91,109,80,0,0,0,0,0,0,0,0,76,47,64,82
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,44,47,43,52,0,0,0,0,0,0,0,0,40,48,36,47
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,113,141,139,153,0,0,0,0,0,0,0,0,71,65,70,95
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,125,140,141,199,0,0,0,0,0,0,0,0,109,131,90,99
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,144,162,153,142,0,0,0,0,0,0,0,0,100,133,91,91
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,5,6,5,6,0,0,0,0,0,0,0,0,4,4,3,8
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,219,251,228,289,0,0,0,0,0,0,0,0,134,147,150,154
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,33,33,18,21,0,0,0,0,0,0,0,0,32,26,21,17
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,20,29,4,3,0,0,0,0,0,0,0,0,16,23,17,7
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,2,2,3,5,2,0,0,0,0,0,0,0,2,2,2,7,2,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,7,6,11,1,3
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,5,cat5,HSS (VI-XII),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,12,5,10,0,12,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,43,77,61,115,123,54,78,0,0,0,0,0,47,56,56,141,121,72,94
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,12,19,11,34,31,33,26,0,0,0,0,0,34,55,50,157,128,147,165
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,61,73,73,156,184,128,144,0,0,0,0,0,50,57,53,125,109,71,67
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,32,36,54,61,80,31,30,0,0,0,0,0,18,30,44,65,55,35,31
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,62,95,94,135,131,131,113,0,0,0,0,0,39,57,65,118,102,107,94
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,2,9,20,13,23,1,3,0,0,0,0,0,10,15,24,17,12,12,4
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,15,24,17,45,32,15,22,0,0,0,0,0,8,12,13,50,41,26,15
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,13,3,12,24,9,8,6,0,0,0,0,0,11,7,15,22,14,6,10
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,43,63,90,140,165,189,165,0,0,0,0,0,17,25,36,117,121,146,113
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,30,31,45,191,196,239,241,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,5,cat5,HSS (VI-XII),4,Government Aided,2,SC,0,0,0,0,0,0,0,28,36,54,219,198,110,126,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,4,1,1,2,2,3,1,0,0,0,0,0,2,2,3,2,2,2,2
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,59,53,59,72,80,52,78,0,0,0,0,0,36,39,42,51,56,39,53
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,21,24,27,60,39,64,66,0,0,0,0,0,15,15,11,37,35,24,39
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,16,17,11,5,2,11,6,0,0,0,0,0,14,12,8,7,3,8,5
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,9,4,1,4,4,8,11,0,0,0,0,0,3,5,2,7,10,7,6
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,56,36,39,49,61,47,38,0,0,0,0,0,35,32,48,57,60,44,36
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,22,27,25,81,88,65,69,0,0,0,0,0,14,15,15,48,63,51,51
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,44,56,59,55,100,112,103,0,0,0,0,0,31,31,23,49,56,35,53
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,24,23,12,114,87,103,117,0,0,0,0,0,19,17,8,74,65,58,63
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Urban,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,6,7,9,6,7,3,11,0,0,0,0,0,4,8,6,8,8,4,6
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,17,17,10,19,16,19,15,0,0,0,0,0,13,10,9,13,9,5,16
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,5,cat5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,2,SC,0,0,0,0,0,0,0,15,19,17,23,15,8,9,0,0,0,0,0,7,5,5,6,3,3,1
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,265,301,299,278,201,0,0,0,0,0,0,0,258,331,279,246,222,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,299,297,265,220,189,0,0,0,0,0,0,0,330,296,280,234,206,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,443,460,440,346,265,0,0,0,0,0,0,0,438,438,417,387,350,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,346,298,267,216,243,0,0,0,0,0,0,0,315,320,291,268,286,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,251,235,227,192,170,0,0,0,0,0,0,0,273,273,253,203,182,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,258,244,274,243,178,0,0,0,0,0,0,0,243,265,243,221,190,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,206,200,195,151,150,0,0,0,0,0,0,0,165,200,204,175,166,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,251,290,259,199,200,0,0,0,0,0,0,0,274,279,273,251,197,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,455,452,420,412,324,0,0,0,0,0,0,0,437,441,380,355,320,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Urban,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,4,1,3,5,2,0,0,0,0,0,0,0,4,3,1,5,5,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,229,268,259,181,137,0,0,0,0,0,0,0,282,275,211,193,129,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,1,cat1,PS (I-V),1,Department of Education,2,SC,0,0,22,30,19,10,13,0,0,0,0,0,0,0,38,20,13,22,9,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,1,cat1,PS (I-V),2,Tribal Welfare Department,2,SC,0,0,14,14,12,10,3,0,0,0,0,0,0,0,3,21,11,7,3,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,1,cat1,PS (I-V),3,Local body,2,SC,7,7,1,4,2,1,2,0,0,0,0,0,0,0,10,3,2,1,2,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,18,9,105,112,112,84,91,0,0,0,0,0,0,0,56,76,80,73,64,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,173,135,135,136,114,0,0,0,0,0,0,0,134,126,114,104,106,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,20,18,128,114,131,114,93,0,0,0,0,0,0,0,106,87,101,85,62,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,58,46,38,36,31,0,0,0,0,0,0,0,55,33,30,30,28,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,5,3,114,102,83,80,88,0,0,0,0,0,0,0,82,101,72,72,64,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,5,7,81,68,69,65,72,0,0,0,0,0,0,0,55,60,62,45,61,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,52,44,32,30,37,0,0,0,0,0,0,0,60,35,35,25,25,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,113,68,57,45,48,0,0,0,0,0,0,0,58,57,34,40,46,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,12,8,6,7,8,0,0,0,0,0,0,0,15,13,5,3,6,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,184,154,150,132,141,0,0,0,0,0,0,0,139,93,96,87,70,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,0,4,0,2,1,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,12,9,5,7,5,0,0,0,0,0,0,0,7,8,7,7,8,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,2,12,16,5,8,0,0,0,0,0,0,0,4,17,11,6,9,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,24,31,20,21,19,0,0,0,0,0,0,0,38,37,22,16,14,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,7,5,587,390,336,293,298,0,0,0,0,0,0,0,422,298,253,216,221,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,21,24,113,105,76,66,83,0,0,0,0,0,0,0,97,85,56,63,63,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),2,SC,0,0,10,5,17,9,4,0,0,0,0,0,0,0,12,2,9,5,13,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,1,cat1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,6,4,5,2,3,0,0,0,0,0,0,0,6,6,3,4,7,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,1,cat1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,1,2,1,3,1,0,0,0,0,0,0,0,2,1,3,1,1,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,1,cat1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,2,2,2,5,1,0,0,0,0,0,0,0,1,1,1,2,2,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,1,cat1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,2,5,14,9,6,0,0,0,0,0,0,0,14,5,6,7,6,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,1,cat1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,6,cat6,SS (I-X),4,Government Aided,2,SC,0,0,4,4,8,8,6,8,15,10,26,20,0,0,2,4,6,11,5,1,4,11,16,7,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,6,cat6,SS (I-X),4,Government Aided,2,SC,0,0,10,2,5,4,2,8,4,1,0,0,0,0,0,12,7,7,4,3,6,4,5,3,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,5,0,1,3,3,4,4,0,3,20,0,0,2,3,1,3,0,5,1,4,7,9,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,7,9,3,5,5,6,4,2,4,0,0,0,3,4,3,3,5,2,1,1,3,2,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,51,14,22,19,21,16,8,14,7,7,11,0,0,0,16,12,16,12,10,11,15,4,6,9,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,8,7,4,7,5,4,15,8,5,6,0,0,6,5,3,5,8,4,7,6,7,3,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,1,1,2,0,0,2,0,1,1,1,0,0,1,0,1,0,0,1,0,1,1,1,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,7,8,9,3,6,4,4,10,18,12,0,0,8,6,9,3,3,6,4,5,13,15,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,6,4,6,5,5,4,6,8,12,20,0,0,3,5,6,3,2,4,2,7,12,5,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,5,1,1,2,1,3,4,6,15,5,0,0,1,4,3,1,1,4,2,4,6,2,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,8,5,15,10,9,14,13,4,11,10,0,0,4,1,5,6,4,4,3,6,8,1,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,2,0,1,0,1,2,9,2,4,3,0,0,0,0,0,0,2,1,0,2,2,3,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,33,23,18,14,22,19,24,23,24,37,0,0,33,17,16,20,11,12,16,18,14,13,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),2,SC,0,0,13,20,26,11,12,7,8,4,8,8,0,0,9,9,12,5,7,6,4,11,4,5,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,6,cat6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,8,cat8,SS (IX-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,22,22,0,0,0,0,0,0,0,0,0,0,19,17,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,8,cat8,SS (IX-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,9,2,0,0,0,0,0,0,0,0,0,0,9,3,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,8,cat8,SS (IX-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,2,4,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,8,cat8,SS (IX-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,8,cat8,SS (IX-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,21,14,0,0,0,0,0,0,0,0,0,0,22,26,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,8,cat8,SS (IX-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,2,5,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,8,cat8,SS (IX-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,3,5,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,8,cat8,SS (IX-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,7,6,0,0,0,0,0,0,0,0,0,0,9,4,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Urban,8,cat8,SS (IX-X),1,Department of Education,2,SC,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,2,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,8,cat8,SS (IX-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,8,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,53,37,0,0,0,0,0,0,0,0,0,0,32,25,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,6,9,0,0,0,0,0,0,0,0,0,0,11,7,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,20,13,0,0,0,0,0,0,0,0,0,0,16,11,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,23,24,0,0,0,0,0,0,0,0,0,0,6,17,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,5,12,0,0,0,0,0,0,0,0,0,0,8,8,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,34,21,0,0,0,0,0,0,0,0,0,0,26,25,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,2,4,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,21,19,0,0,0,0,0,0,0,0,0,0,17,20,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,31,20,0,0,0,0,0,0,0,0,0,0,10,12,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,116,115,0,0,0,0,0,0,0,0,0,0,79,88,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,2,2,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,45,58,0,0,0,0,0,0,0,0,0,0,56,32,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,4,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,7,cat7,SS (VI-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,15,27,16,13,10,0,0,0,0,0,0,0,6,11,14,10,15,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,7,cat7,SS (VI-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,7,7,6,11,4,0,0,0,0,0,0,0,8,12,5,1,7,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,7,cat7,SS (VI-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,20,20,15,18,10,0,0,0,0,0,0,0,21,13,12,16,12,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,7,cat7,SS (VI-X),4,Government Aided,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,14,8,3,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,2,2,2,3,4,0,0,0,0,0,0,0,0,0,1,2,4,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,16,16,17,20,11,0,0,0,0,0,0,0,26,15,24,18,11,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,21,16,17,25,22,0,0,0,0,0,0,0,12,14,15,13,20,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,15,11,16,19,18,0,0,0,0,0,0,0,9,9,10,25,25,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,12,9,14,19,18,0,0,0,0,0,0,0,11,16,14,23,19,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,14,11,5,17,25,0,0,0,0,0,0,0,5,4,1,13,10,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,7,11,18,30,25,0,0,0,0,0,0,0,16,11,17,27,17,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,5,4,9,6,1,0,0,0,0,0,0,0,3,4,11,3,1,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,17,21,23,40,41,0,0,0,0,0,0,0,10,17,16,31,15,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,10,7,6,6,4,0,0,0,0,0,0,0,8,8,7,4,5,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,6,7,6,25,27,0,0,0,0,0,0,0,6,2,8,17,13,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,1,1,2,1,1,0,0,0,0,0,0,0,3,1,2,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,7,cat7,SS (VI-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,0,0,101,122,119,105,93,144,145,101,0,0,0,0,125,102,112,92,104,163,119,129,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,0,0,139,167,139,95,86,118,97,102,0,0,0,0,139,145,95,112,81,107,104,85,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,0,0,148,124,133,130,109,178,129,117,0,0,0,0,212,179,145,132,117,128,138,138,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,0,0,135,108,83,104,65,52,48,23,0,0,0,0,108,110,112,96,86,37,42,30,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,0,0,132,124,113,114,77,94,103,73,0,0,0,0,137,126,131,108,89,120,101,115,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,0,0,75,85,66,68,48,68,57,72,0,0,0,0,99,89,84,62,66,76,62,83,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,0,0,43,41,38,30,33,54,41,44,0,0,0,0,52,47,43,43,32,43,42,43,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,0,0,60,58,64,59,42,63,63,81,0,0,0,0,66,51,68,78,57,67,63,59,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,0,0,170,162,149,127,121,155,157,153,0,0,0,0,142,186,174,138,128,184,205,160,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,0,0,99,130,92,94,85,82,44,33,0,0,0,0,118,130,104,108,98,105,61,46,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,2,cat2,UPS (I-VIII),1,Department of Education,2,SC,0,0,6,14,18,5,5,3,1,0,0,0,0,0,6,7,12,7,2,1,4,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,8,9,11,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,2,cat2,UPS (I-VIII),4,Government Aided,2,SC,0,0,4,5,18,13,9,0,0,0,0,0,0,0,6,3,9,3,8,12,9,19,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,2,cat2,UPS (I-VIII),4,Government Aided,2,SC,0,0,16,23,24,35,31,35,44,29,0,0,0,0,23,29,30,42,38,40,50,25,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,2,cat2,UPS (I-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,11,10,13,0,0,0,0,0,0,0,0,0,7,12,8,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,2,cat2,UPS (I-VIII),4,Government Aided,2,SC,0,0,32,27,19,11,15,28,22,14,0,0,0,0,55,27,37,22,23,35,37,36,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,94,78,128,133,132,127,140,130,117,107,0,0,0,0,83,90,94,91,97,103,89,95,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,8,6,109,89,81,69,85,69,55,86,0,0,0,0,71,64,84,71,75,52,65,61,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,123,70,258,164,156,161,165,141,152,143,0,0,0,0,168,143,155,108,134,112,107,103,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,0,0,74,55,85,69,95,95,90,92,0,0,0,0,76,61,61,47,58,70,70,75,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,30,35,91,63,71,49,62,82,80,75,0,0,0,0,59,52,45,43,52,60,60,51,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,27,21,51,44,43,46,35,53,41,58,0,0,0,0,39,30,26,35,30,29,37,23,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,7,4,36,32,27,27,26,31,24,40,0,0,0,0,23,31,24,28,28,31,24,24,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,10,7,129,104,100,81,89,69,80,94,0,0,0,0,130,99,71,60,42,67,76,70,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,0,0,6,5,2,3,2,1,2,1,0,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,6,4,7,6,5,9,8,7,6,1,0,0,0,0,4,4,7,7,2,12,3,3,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,67,39,150,136,136,140,145,127,106,117,0,0,0,0,101,81,85,101,85,110,67,97,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,1,0,0,4,1,1,4,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,0,0,17,14,16,19,25,25,11,23,0,0,0,0,9,7,11,13,20,8,9,14,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,0,0,22,24,17,28,18,19,19,19,0,0,0,0,17,19,11,20,17,24,16,17,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,0,1,5,2,4,8,3,5,2,4,0,0,0,0,1,5,8,5,3,3,4,3,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,4,2,8,5,4,0,5,3,4,5,0,0,0,0,9,5,5,5,4,8,5,10,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,0,0,2,0,5,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,375,318,1306,1138,1024,913,884,880,813,795,0,0,0,0,1183,908,831,772,741,748,661,627,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,121,92,135,121,118,84,78,78,100,67,0,0,0,0,101,88,72,78,71,56,63,59,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),2,SC,0,0,11,10,9,5,9,3,6,4,0,0,0,0,5,8,4,2,5,0,2,1,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,84,116,107,0,0,0,0,0,0,0,0,0,99,112,90,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,96,101,87,0,0,0,0,0,0,0,0,0,120,136,97,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,229,195,221,0,0,0,0,0,0,0,0,0,225,199,206,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,155,148,120,0,0,0,0,0,0,0,0,0,143,142,143,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,78,76,43,0,0,0,0,0,0,0,0,0,92,77,68,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,82,68,78,0,0,0,0,0,0,0,0,0,95,83,70,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,101,106,95,0,0,0,0,0,0,0,0,0,108,87,124,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,119,102,106,0,0,0,0,0,0,0,0,0,139,114,87,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,166,148,178,0,0,0,0,0,0,0,0,0,190,178,187,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,62,61,46,0,0,0,0,0,0,0,0,0,82,67,45,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,2,SC,0,0,0,0,0,0,0,3,10,6,0,0,0,0,0,0,0,0,0,2,7,2,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,4,cat4,UPS (VI-VIII),2,Tribal Welfare Department,2,SC,0,0,0,0,0,0,0,16,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,10,8,21,0,0,0,0,0,0,0,0,0,5,14,9,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,27,28,19,0,0,0,0,0,0,0,0,0,41,36,36,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,5,3,4,0,0,0,0,0,0,0,0,0,7,6,3,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,8,11,10,0,0,0,0,0,0,0,0,0,8,12,9,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,39,59,30,0,0,0,0,0,0,0,0,0,41,24,38,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,33,19,42,0,0,0,0,0,0,0,0,0,37,44,32,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,2,3,3,0,0,0,0,0,0,0,0,0,0,11,3,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,12,11,8,0,0,0,0,0,0,0,0,0,6,11,15,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,49,66,52,0,0,0,0,0,0,0,0,0,84,73,100,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,1,4,4,0,0,0,0,0,0,0,0,0,3,0,2,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,2,SC,0,0,0,0,0,0,0,30,47,47,0,0,0,0,0,0,0,0,0,36,56,48,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,3,6,5,0,0,0,0,0,0,0,0,0,4,3,3,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,49,46,50,0,0,0,0,0,0,0,0,0,51,49,47,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,38,44,42,0,0,0,0,0,0,0,0,0,19,28,35,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,13,7,15,0,0,0,0,0,0,0,0,0,16,12,21,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,8,11,13,0,0,0,0,0,0,0,0,0,4,10,11,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,20,21,18,0,0,0,0,0,0,0,0,0,17,19,13,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,11,7,9,0,0,0,0,0,0,0,0,0,8,6,5,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,35,41,32,0,0,0,0,0,0,0,0,0,37,35,25,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,36,65,44,0,0,0,0,0,0,0,0,0,26,26,49,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,7,6,2,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,46,37,43,0,0,0,0,0,0,0,0,0,36,20,35,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),2,SC,0,0,0,0,0,0,0,26,13,31,0,0,0,0,0,0,0,0,0,19,17,23,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,3,cat3,HSS (I-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,3,cat3,HSS (I-XII),2,Tribal Welfare Department,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,3,cat3,HSS (I-XII),2,Tribal Welfare Department,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,3,cat3,HSS (I-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,3,cat3,HSS (I-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,3,cat3,HSS (I-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,3,cat3,HSS (I-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Urban,3,cat3,HSS (I-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,3,cat3,HSS (I-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,9,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,8,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,3,cat3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,3,ST,0,0,0,1,0,1,0,2,4,2,0,1,0,1,1,0,0,1,0,2,0,0,2,1,1,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,10,cat10,HSS (IX-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,10,cat10,HSS (IX-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,1,0,0,7,0,0,0,0,0,0,0,0,1,0,1,2
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,5,cat5,HSS (VI-XII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,5,cat5,HSS (VI-XII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Urban,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,5,cat5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Urban,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,1,cat1,PS (I-V),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,1,cat1,PS (I-V),2,Tribal Welfare Department,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,1,cat1,PS (I-V),3,Local body,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,1,cat1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,1,cat1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,1,cat1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,1,cat1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,1,cat1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,6,cat6,SS (I-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,6,cat6,SS (I-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,6,cat6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,8,cat8,SS (IX-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,8,cat8,SS (IX-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,8,cat8,SS (IX-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,8,cat8,SS (IX-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,8,cat8,SS (IX-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,8,cat8,SS (IX-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,8,cat8,SS (IX-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,8,cat8,SS (IX-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Urban,8,cat8,SS (IX-X),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,8,cat8,SS (IX-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,7,cat7,SS (VI-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,7,cat7,SS (VI-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,7,cat7,SS (VI-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,7,cat7,SS (VI-X),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,7,cat7,SS (VI-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,2,cat2,UPS (I-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,2,cat2,UPS (I-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,2,cat2,UPS (I-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,2,cat2,UPS (I-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,2,cat2,UPS (I-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Urban,2,cat2,UPS (I-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,2,cat2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,4,cat4,UPS (VI-VIII),1,Department of Education,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,4,cat4,UPS (VI-VIII),2,Tribal Welfare Department,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,4,cat4,UPS (VI-VIII),4,Government Aided,3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,4,cat4,UPS (VI-VIII),5,Private Unaided (Recognized),3,ST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,3,cat3,HSS (I-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10,10,6,18,62,75,75,123,103,108,76
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,3,cat3,HSS (I-XII),2,Tribal Welfare Department,4,OBC,0,0,0,0,0,0,10,38,30,37,16,11,10,7,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,3,cat3,HSS (I-XII),2,Tribal Welfare Department,4,OBC,0,0,0,0,0,0,0,17,17,17,17,17,17,17,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,3,cat3,HSS (I-XII),4,Government Aided,4,OBC,0,0,10,4,11,15,19,30,25,33,50,46,41,48,5,3,8,10,2,4,2,3,0,0,23,17
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,3,cat3,HSS (I-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,40,45,60,43,62,15,11,0,0,0,0,0,28,40,41,30,40,10,12
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,3,cat3,HSS (I-XII),4,Government Aided,4,OBC,0,0,8,9,9,8,14,13,27,26,29,33,22,28,5,8,17,9,7,11,24,10,16,25,11,26
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,3,cat3,HSS (I-XII),4,Government Aided,4,OBC,0,0,4,5,7,12,21,21,16,22,48,62,24,25,3,5,5,5,13,0,0,0,0,0,19,28
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Urban,3,cat3,HSS (I-XII),4,Government Aided,4,OBC,0,0,11,26,13,23,30,27,44,41,59,64,53,45,9,17,29,19,16,28,40,44,76,72,104,83
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,3,cat3,HSS (I-XII),4,Government Aided,4,OBC,0,0,62,73,99,82,96,171,198,220,361,350,383,318,346,326,334,299,299,334,410,447,735,764,919,783
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,84,49,115,135,123,113,143,108,125,131,178,263,268,266,95,116,111,102,112,115,133,135,152,126,124,103
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,136,88,300,291,289,250,263,264,275,358,588,593,568,659,231,180,164,170,201,195,204,256,410,395,349,374
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,141,68,125,133,162,163,146,152,142,182,296,321,238,256,70,68,95,95,91,100,97,97,181,155,131,102
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,0,0,15,36,36,41,43,69,53,84,101,131,158,156,16,22,32,40,31,16,52,55,131,108,106,93
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,44,24,54,44,56,74,89,76,77,96,135,136,105,120,56,26,45,27,29,26,34,38,53,69,68,86
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,23,21,55,50,46,41,68,45,52,52,157,204,180,241,43,35,35,34,44,32,53,49,113,93,115,105
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,0,0,33,24,20,26,12,29,22,26,75,81,52,84,30,12,22,15,6,21,31,15,53,42,68,48
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,0,0,63,67,48,50,54,36,49,48,158,143,184,167,39,42,37,45,47,41,35,38,64,69,65,76
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,0,0,54,54,53,52,64,59,53,64,95,112,68,125,33,32,47,49,48,37,45,41,58,63,56,53
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,102,62,33,30,42,35,59,62,40,54,77,98,81,67,14,23,28,22,27,35,23,36,39,32,24,36
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,0,0,47,54,48,57,65,51,50,42,33,44,6,6,21,27,34,30,24,29,21,24,14,20,6,7
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,80,45,225,186,174,171,234,309,329,322,917,811,820,690,129,134,120,109,155,173,173,187,688,541,638,577
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,3,cat3,HSS (I-XII),5,Private Unaided (Recognized),4,OBC,0,0,40,49,55,47,32,65,81,96,200,150,219,135,18,11,35,35,19,33,50,60,112,89,92,68
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,3,cat3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,4,OBC,0,0,18,18,23,28,19,18,23,20,26,12,7,11,21,14,18,17,18,18,10,16,13,9,10,2
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,10,cat10,HSS (IX-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,140,131,285,322,0,0,0,0,0,0,0,0,51,43,126,75
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,10,cat10,HSS (IX-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,274,283,341,428,0,0,0,0,0,0,0,0,228,202,279,214
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,365,332,241,234,0,0,0,0,0,0,0,0,338,276,183,171
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,379,402,406,418,0,0,0,0,0,0,0,0,361,359,378,321
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,286,363,307,349,0,0,0,0,0,0,0,0,291,298,319,297
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,751,569,732,793,0,0,0,0,0,0,0,0,456,358,421,380
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,202,192,206,258,0,0,0,0,0,0,0,0,131,141,200,168
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,646,842,811,1215,0,0,0,0,0,0,0,0,400,430,489,583
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,985,1142,1220,1551,0,0,0,0,0,0,0,0,647,646,735,912
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,449,350,442,416,0,0,0,0,0,0,0,0,337,292,347,303
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,14,8,4,8,0,0,0,0,0,0,0,0,2,13,2,12
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,803,865,888,858,0,0,0,0,0,0,0,0,610,604,694,698
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,342,325,339,340,0,0,0,0,0,0,0,0,169,156,182,159
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Urban,10,cat10,HSS (IX-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,95,21,11,10,0,0,0,0,0,0,0,0,63,18,14,6
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,8,30,26,48,27,42,25,0,0,0,0,0,20,18,23,28,28,33,28
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,13,29,20,29,17,12
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,5,cat5,HSS (VI-XII),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,24,27,57,83,41,43
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,67,77,95,145,157,81,78,0,0,0,0,0,56,82,93,198,151,177,110
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,3,10,32,51,33,215,178,0,0,0,0,0,50,72,60,170,151,256,240
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,71,91,104,228,258,207,255,0,0,0,0,0,33,77,58,118,141,154,145
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,76,66,56,120,126,95,75,0,0,0,0,0,56,64,73,150,148,72,51
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,72,99,121,219,237,338,282,0,0,0,0,0,46,79,125,185,186,221,204
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,8,13,28,25,35,3,8,0,0,0,0,0,10,24,40,31,48,18,9
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,34,48,66,94,100,50,45,0,0,0,0,0,41,53,70,111,132,56,57
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,21,30,33,36,42,34,68,0,0,0,0,0,27,25,33,36,36,35,31
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,43,73,63,157,194,259,249,0,0,0,0,0,19,9,21,185,165,235,208
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,24,27,31,160,139,369,419,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,5,cat5,HSS (VI-XII),4,Government Aided,4,OBC,0,0,0,0,0,0,0,18,40,35,99,75,775,672,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,42,48,65,90,124,99,96,0,0,0,0,0,27,57,58,115,116,91,60
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,261,296,344,695,689,564,805,0,0,0,0,0,242,211,264,468,367,395,403
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,27,37,32,77,96,89,117,0,0,0,0,0,24,27,24,44,54,57,82
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,63,43,54,27,15,41,15,0,0,0,0,0,48,27,29,20,11,36,13
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,108,105,101,134,121,128,153,0,0,0,0,0,65,47,47,75,70,67,61
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,132,133,157,249,326,227,309,0,0,0,0,0,133,126,150,285,302,284,307
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,132,140,138,414,492,391,408,0,0,0,0,0,67,96,108,245,292,236,301
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,136,164,190,411,391,454,543,0,0,0,0,0,103,94,131,245,204,236,244
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,44,54,26,127,163,142,192,0,0,0,0,0,42,42,25,98,116,71,114
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Urban,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,59,43,31,32,56,53,49,0,0,0,0,0,26,25,16,24,16,19,23
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,23,21,22,31,19,23,15,0,0,0,0,0,17,14,17,21,18,34,21
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,5,cat5,HSS (VI-XII),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,90,118,167,242,213,196,175,0,0,0,0,0,33,45,70,98,66,91,119
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,5,cat5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,4,OBC,0,0,0,0,0,0,0,31,28,22,28,36,22,17,0,0,0,0,0,17,19,12,19,19,10,10
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,961,977,893,763,610,0,0,0,0,0,0,0,1043,982,903,766,679,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,642,558,494,420,406,0,0,0,0,0,0,0,679,590,571,539,466,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,859,845,739,665,599,0,0,0,0,0,0,0,901,906,826,722,664,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,634,589,528,506,445,0,0,0,0,0,0,0,778,667,634,550,526,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,581,622,517,496,380,0,0,0,0,0,0,0,684,678,609,571,514,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,429,425,394,345,317,0,0,0,0,0,0,0,491,477,450,401,365,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,737,667,609,587,535,0,0,0,0,0,0,0,721,793,691,686,539,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,805,764,745,692,538,0,0,0,0,0,0,0,964,972,914,839,708,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,498,546,495,427,369,0,0,0,0,0,0,0,555,517,474,429,389,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Urban,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,4,2,1,5,1,0,0,0,0,0,0,0,1,7,4,3,1,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,553,565,476,346,198,0,0,0,0,0,0,0,506,552,446,308,198,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,1,cat1,PS (I-V),1,Department of Education,4,OBC,0,0,66,55,62,38,28,0,0,0,0,0,0,0,75,42,60,51,24,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,1,cat1,PS (I-V),2,Tribal Welfare Department,4,OBC,0,0,5,6,4,5,8,0,0,0,0,0,0,0,5,11,7,8,3,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,1,cat1,PS (I-V),3,Local body,4,OBC,2,4,2,0,1,1,0,0,0,0,0,0,0,0,1,1,2,0,1,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,70,54,358,358,328,339,337,0,0,0,0,0,0,0,294,243,254,257,222,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,535,470,463,422,428,0,0,0,0,0,0,0,472,429,406,365,421,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,38,24,364,350,341,281,306,0,0,0,0,0,0,0,282,254,251,220,203,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,251,174,169,164,160,0,0,0,0,0,0,0,201,183,134,146,141,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,30,25,383,358,396,384,384,0,0,0,0,0,0,0,286,277,289,268,276,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,9,6,314,266,288,255,264,0,0,0,0,0,0,0,252,216,244,209,238,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,18,10,604,417,400,370,348,0,0,0,0,0,0,0,403,304,271,288,254,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,461,414,357,355,346,0,0,0,0,0,0,0,335,294,296,253,245,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,30,28,30,28,23,0,0,0,0,0,0,0,20,22,18,25,20,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,269,247,250,247,249,0,0,0,0,0,0,0,258,218,196,165,152,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,15,15,8,6,10,0,0,0,0,0,0,0,20,16,7,5,6,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,19,28,23,13,20,0,0,0,0,0,0,0,10,10,9,11,5,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,22,10,11,16,16,0,0,0,0,0,0,0,12,16,18,15,21,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,77,62,60,49,32,0,0,0,0,0,0,0,62,55,44,39,41,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,21,17,14,18,10,0,0,0,0,0,0,0,26,20,17,9,12,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,31,18,1236,892,829,777,709,0,0,0,0,0,0,0,982,767,728,632,658,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,115,73,230,206,202,230,184,0,0,0,0,0,0,0,176,176,168,130,138,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Urban,1,cat1,PS (I-V),5,Private Unaided (Recognized),4,OBC,0,0,5,11,4,2,4,0,0,0,0,0,0,0,5,5,2,8,3,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,1,cat1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,31,13,21,17,18,0,0,0,0,0,0,0,18,12,14,12,9,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,1,cat1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,32,25,28,28,19,0,0,0,0,0,0,0,26,30,26,21,19,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,1,cat1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,2,5,4,1,2,0,0,0,0,0,0,0,1,2,2,5,1,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,1,cat1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,440,348,296,277,209,0,0,0,0,0,0,0,373,282,243,206,201,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,1,cat1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,87,41,53,37,27,0,0,0,0,0,0,0,42,42,40,23,27,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,6,cat6,SS (I-X),4,Government Aided,4,OBC,0,0,7,6,7,12,11,20,16,31,49,52,0,0,2,1,6,4,15,16,14,16,26,34,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,6,cat6,SS (I-X),4,Government Aided,4,OBC,0,0,6,10,5,2,6,4,1,4,0,0,0,0,18,3,6,8,4,3,10,6,9,6,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,0,0,105,126,109,108,136,102,106,109,206,188,0,0,97,94,99,90,97,97,82,91,138,154,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,0,0,54,38,30,39,41,43,23,38,31,34,0,0,38,31,14,14,14,25,16,24,26,14,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,44,25,50,57,42,46,41,62,44,61,168,36,0,0,23,18,15,29,27,29,16,19,35,14,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,0,0,27,30,28,39,40,20,30,44,22,53,0,0,20,20,21,15,19,14,20,20,26,17,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,0,0,77,40,40,61,42,49,46,46,59,46,0,0,37,48,37,25,29,34,26,17,26,18,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,6,3,10,6,10,0,0,0,0,0,0,0,4,3,6,3,2,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,0,0,81,55,51,57,64,74,86,96,105,135,0,0,48,36,38,56,51,76,62,99,120,114,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,0,0,27,25,25,25,26,22,21,26,50,32,0,0,26,32,22,31,25,25,21,22,23,12,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,0,0,20,14,10,7,13,8,18,20,108,76,0,0,3,10,9,3,6,7,9,5,54,41,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,0,0,27,34,43,29,40,43,49,45,43,57,0,0,19,20,17,19,24,30,25,33,45,55,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,0,0,16,13,22,17,24,35,28,31,30,33,0,0,7,6,6,6,7,6,8,7,12,10,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,0,0,78,72,92,83,74,101,77,96,93,110,0,0,73,76,80,89,73,84,74,56,62,36,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,6,cat6,SS (I-X),5,Private Unaided (Recognized),4,OBC,0,0,25,21,24,26,30,20,19,18,22,16,0,0,12,11,12,13,12,15,20,17,16,18,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,6,cat6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,15,16,17,16,20,21,15,10,35,21,0,0,10,14,18,19,10,14,9,8,20,19,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,8,cat8,SS (IX-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,26,29,0,0,0,0,0,0,0,0,0,0,44,43,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,8,cat8,SS (IX-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,42,32,0,0,0,0,0,0,0,0,0,0,38,48,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,8,cat8,SS (IX-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,8,cat8,SS (IX-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,21,16,0,0,0,0,0,0,0,0,0,0,15,23,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,8,cat8,SS (IX-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,43,15,0,0,0,0,0,0,0,0,0,0,35,27,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,8,cat8,SS (IX-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,6,16,0,0,0,0,0,0,0,0,0,0,4,14,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,8,cat8,SS (IX-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,16,3,0,0,0,0,0,0,0,0,0,0,11,8,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,8,cat8,SS (IX-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,7,1,0,0,0,0,0,0,0,0,0,0,4,2,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Urban,8,cat8,SS (IX-X),1,Department of Education,4,OBC,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,8,cat8,SS (IX-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,9,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,431,444,0,0,0,0,0,0,0,0,0,0,246,253,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,96,106,0,0,0,0,0,0,0,0,0,0,105,137,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,56,68,0,0,0,0,0,0,0,0,0,0,43,33,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,57,53,0,0,0,0,0,0,0,0,0,0,42,35,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,95,107,0,0,0,0,0,0,0,0,0,0,62,83,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,40,75,0,0,0,0,0,0,0,0,0,0,42,37,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,67,84,0,0,0,0,0,0,0,0,0,0,41,37,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,321,352,0,0,0,0,0,0,0,0,0,0,176,215,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,6,31,0,0,0,0,0,0,0,0,0,0,6,42,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,173,149,0,0,0,0,0,0,0,0,0,0,128,172,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,30,40,0,0,0,0,0,0,0,0,0,0,15,10,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,17,14,0,0,0,0,0,0,0,0,0,0,19,22,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,175,176,0,0,0,0,0,0,0,0,0,0,262,260,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Urban,8,cat8,SS (IX-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,6,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,7,cat7,SS (VI-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,30,36,65,30,27,0,0,0,0,0,0,0,19,39,39,51,26,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,7,cat7,SS (VI-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,3,8,7,8,7,0,0,0,0,0,0,0,1,3,4,14,11,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,7,cat7,SS (VI-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,5,11,5,6,3,0,0,0,0,0,0,0,6,8,8,5,10,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,7,cat7,SS (VI-X),4,Government Aided,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,32,48,45,7,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,50,58,74,101,102,0,0,0,0,0,0,0,30,43,45,38,67,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,117,113,120,250,205,0,0,0,0,0,0,0,83,94,93,166,142,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,97,69,66,111,141,0,0,0,0,0,0,0,41,43,47,69,67,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,92,69,75,173,192,0,0,0,0,0,0,0,71,68,75,122,114,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,118,119,118,153,199,0,0,0,0,0,0,0,62,80,80,108,130,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,76,38,58,94,105,0,0,0,0,0,0,0,60,35,48,63,69,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,107,118,141,266,205,0,0,0,0,0,0,0,92,82,96,154,97,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,82,66,63,77,90,0,0,0,0,0,0,0,60,67,58,50,45,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,7,cat7,SS (VI-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,43,42,37,83,81,0,0,0,0,0,0,0,28,24,34,45,31,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,5,3,3,14,7,0,0,0,0,0,0,0,6,5,3,23,11,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,10,10,8,12,10,0,0,0,0,0,0,0,12,10,8,8,6,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,16,22,15,71,77,0,0,0,0,0,0,0,12,14,15,46,53,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,7,cat7,SS (VI-X),5,Private Unaided (Recognized),4,OBC,0,0,0,0,0,0,0,3,8,10,11,5,0,0,0,0,0,0,0,5,0,2,6,5,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,7,cat7,SS (VI-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,OBC,0,0,0,0,0,0,0,10,7,10,4,21,0,0,0,0,0,0,0,8,2,8,3,9,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91601,FIROZABAD,Rural,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,0,0,303,309,254,230,196,325,262,211,0,0,0,0,352,329,337,223,207,358,339,288,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91602,SHIKOHABAD,Rural,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,0,0,248,222,226,188,157,200,180,151,0,0,0,0,276,273,241,209,181,239,208,221,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91603,TUNDLA,Rural,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,0,0,199,213,229,200,200,252,234,201,0,0,0,0,208,251,223,203,194,328,281,244,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91605,KHAIRGARH,Rural,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,0,0,165,148,144,130,128,100,89,84,0,0,0,0,205,195,188,162,132,121,126,107,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91606,MADANPUR,Rural,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,0,0,149,162,148,147,135,162,170,139,0,0,0,0,177,181,182,148,135,193,218,197,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91607,ARAWN,Rural,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,0,0,130,109,123,73,74,79,78,81,0,0,0,0,131,142,137,124,113,125,141,108,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91608,JASRANA,Rural,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,0,0,167,155,171,138,133,148,150,107,0,0,0,0,195,174,172,150,140,207,215,152,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91609,EKA,Rural,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,0,0,198,188,152,143,112,155,152,141,0,0,0,0,210,218,204,193,156,205,218,149,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91612,NARKHI,Rural,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,0,0,201,206,189,192,138,224,186,220,0,0,0,0,241,233,179,192,161,263,248,223,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,0,0,124,82,87,51,39,69,46,26,0,0,0,0,77,86,75,56,59,76,46,39,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91611,T.A. SHIKOHABAD,Urban,2,cat2,UPS (I-VIII),1,Department of Education,4,OBC,0,0,5,5,17,7,1,3,0,0,0,0,0,0,10,11,22,4,1,0,1,0,0,0,0,0
+2019-20,9,Uttar Pradesh,916,FIROZABAD,91610,T.A. FIROZABAD,Urban,2,cat2,UPS (I-VIII),2,Tribal Welfare Department,4,OBC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,15,14,6,0,0,0,0

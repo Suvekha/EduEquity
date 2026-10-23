@@ -1,0 +1,805 @@
+ac_year,state_code,state_name,district_code,district_name,block_code,block_name,sch_category_id,category_name,sch_mgmt_id,sch_mgmt_name,loc_name,caste_id,pre_primary_boys,pre_primary_girls,class_1_boys,class_2_boys,class_3_boys,class_4_boys,class_5_boys,class_6_boys,class_7_boys,class_8_boys,class_9_boys,class_10_boys,class_11_boys,class_12_boys,class_1_girls,class_2_girls,class_3_girls,class_4_girls,class_5_girls,class_6_girls,class_7_girls,class_8_girls,class_9_girls,class_10_girls,class_11_girls,class_12_girls,caste_name
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),3,HSS (I-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,35,31,28,29,39,32,51,56,67,68,67,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,20,35,28,22,29,20,32,25,42,22,12,15,10,7,12,18,18,12,12,11,30,26,22,22,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,24,18,27,31,18,23,55,35,34,37,39,46,43,48,12,15,18,15,31,13,29,33,17,24,39,42,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,0,0,10,5,4,5,6,5,8,8,52,25,8,14,3,5,5,7,2,7,6,7,51,34,9,16,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,0,0,19,37,28,38,36,44,56,55,77,70,50,39,12,19,18,18,24,35,30,28,39,37,43,51,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,Urban,1,0,0,32,26,40,26,32,44,51,89,79,49,34,27,27,20,22,28,36,26,36,48,62,44,35,27,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,42,53,58,63,68,73,71,56,72,74,54,47,60,43,47,64,77,74,60,66,51,68,55,72,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,10,20,16,16,12,14,1,5,4,9,11,13,15,21,45,20,20,20,2,6,8,10,12,14,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,3,HSS (I-XII),98,Madarsa unrecognized,Rural,1,0,0,2,2,5,2,2,3,5,1,5,3,2,2,4,3,4,5,4,2,2,2,2,5,5,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,4,9,9,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,10,HSS (IX-XII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,7,8,0,2,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,10,HSS (IX-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,4,8,2,1,0,0,0,0,0,0,0,0,2,2,1,3,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,10,HSS (IX-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,10,20,20,12,0,0,0,0,0,0,0,0,10,10,20,12,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,10,HSS (IX-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,4,7,6,3,0,0,0,0,0,0,0,0,2,0,0,1,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,10,HSS (IX-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,15,52,63,106,0,0,0,0,0,0,0,0,25,60,10,77,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,10,HSS (IX-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,22,39,29,42,0,0,0,0,0,0,0,0,31,44,40,55,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,10,HSS (IX-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,14,15,12,15,0,0,0,0,0,0,0,0,10,14,10,10,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,41,63,17,112,0,0,0,0,0,0,0,0,65,82,59,79,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,11,11,7,9,0,0,0,0,0,0,0,0,17,19,15,9,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,270,518,436,673,0,0,0,0,0,0,0,0,181,276,246,366,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,22,0,0,0,0,0,0,0,0,106,195,169,254,0,0,0,0,0,0,0,0,119,122,122,163,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,145,345,151,407,0,0,0,0,0,0,0,0,91,161,88,190,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,75,90,33,63,0,0,0,0,0,0,0,0,44,54,36,73,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,68,119,68,106,0,0,0,0,0,0,0,0,73,96,130,140,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,96,126,108,156,0,0,0,0,0,0,0,0,106,132,120,185,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,3,3,2,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,15,37,22,58,0,0,0,0,0,0,0,0,2,9,21,11,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,25,129,83,291,0,0,0,0,0,0,0,0,6,37,31,41,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,15,15,6,11,0,0,0,0,0,0,0,0,6,9,5,18,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,5,8,0,1,0,0,0,0,0,0,0,0,3,5,3,4,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,6,6,3,1,8,4,3,0,0,0,0,0,6,8,6,12,7,14,10,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,2,1,3,24,76,35,26,0,0,0,0,0,3,5,3,12,11,28,23,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,6,11,12,2,5,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,4,3,7,93,83,141,91,0,0,0,0,0,9,5,10,110,108,94,124,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,3,3,3,11,2,0,0,0,0,0,0,5,5,0,5,10,1,2,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,14,21,15,50,67,70,67,0,0,0,0,0,14,27,23,56,69,65,61,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,9,10,12,35,38,31,22,0,0,0,0,0,5,15,20,40,36,35,40,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,2,3,5,94,109,106,54,0,0,0,0,0,9,4,11,95,150,76,96,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,10,5,13,33,22,16,25,0,0,0,0,0,5,15,15,29,21,21,8,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,28,40,44,81,85,63,46,0,0,0,0,0,35,29,57,63,69,61,63,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,1,0,0,3,3,3,2,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,5,HSS (VI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,6,18,13,40,22,65,76,0,0,0,0,0,10,19,20,67,25,36,51,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,5,HSS (VI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,7,5,37,20,64,2,6,0,0,0,0,0,7,12,36,58,12,13,28,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),5,HSS (VI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,26,31,38,31,33,25,23,0,0,0,0,0,24,33,27,27,20,22,28,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,6,8,11,45,95,29,58,0,0,0,0,0,5,7,12,55,56,21,45,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,8,9,6,9,9,6,18,0,0,0,0,0,10,8,4,20,24,23,25,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,37,49,65,137,89,143,177,0,0,0,0,0,47,73,60,127,63,85,82,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,1,0,0,0,0,0,38,39,34,99,201,85,217,0,0,0,0,0,35,36,33,69,147,69,127,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,9,25,27,129,125,137,139,0,0,0,0,0,8,14,7,46,34,59,50,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,5,16,10,21,47,43,55,0,0,0,0,0,9,14,15,98,70,124,78,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,7,8,10,4,5,5,7,0,0,0,0,0,6,7,8,2,9,4,4,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,32,38,38,40,50,57,63,0,0,0,0,0,32,38,33,36,44,53,48,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,5,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,Rural,1,0,0,0,0,0,0,0,10,6,8,45,45,15,5,0,0,0,0,0,2,5,9,25,45,3,9,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),5,HSS (VI-XII),95,Railway School,Urban,1,0,0,0,0,0,0,0,4,6,5,3,4,0,2,0,0,0,0,0,3,4,2,1,2,0,1,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,1,PS (I-V),1,Department of Education,Rural,1,0,0,83,92,76,96,81,0,0,0,0,0,0,0,75,117,86,101,113,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,1,PS (I-V),1,Department of Education,Rural,1,0,0,29,39,32,46,42,0,0,0,0,0,0,0,42,43,49,38,45,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,1,PS (I-V),1,Department of Education,Rural,1,0,0,82,72,90,84,83,0,0,0,0,0,0,0,86,95,103,80,89,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,1,PS (I-V),1,Department of Education,Rural,1,0,0,45,63,81,74,87,0,0,0,0,0,0,0,78,66,89,110,87,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,1,PS (I-V),1,Department of Education,Rural,1,0,0,71,77,72,66,97,0,0,0,0,0,0,0,87,103,94,95,111,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,1,PS (I-V),1,Department of Education,Rural,1,0,0,81,65,79,58,85,0,0,0,0,0,0,0,57,71,81,70,96,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,1,PS (I-V),1,Department of Education,Rural,1,0,0,94,118,144,127,148,0,0,0,0,0,0,0,110,129,111,140,148,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,1,PS (I-V),1,Department of Education,Rural,1,0,0,30,45,44,49,38,0,0,0,0,0,0,0,43,43,56,43,54,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,1,PS (I-V),1,Department of Education,Rural,1,0,0,27,14,23,27,33,0,0,0,0,0,0,0,11,16,28,28,39,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,3,0,1,0,0,0,0,0,0,0,0,3,0,0,1,1,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),1,PS (I-V),1,Department of Education,Urban,1,0,0,9,5,8,7,3,0,0,0,0,0,0,0,7,6,11,11,5,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),1,PS (I-V),2,Tribal Welfare Department,Urban,1,0,0,0,7,2,4,2,0,0,0,0,0,0,0,1,0,3,3,2,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,87,94,105,93,99,0,0,0,0,0,0,0,59,70,66,69,87,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,22,25,24,25,45,0,0,0,0,0,0,0,29,28,26,27,34,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,175,172,182,196,178,0,0,0,0,0,0,0,159,145,153,158,165,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,59,50,87,80,83,82,79,0,0,0,0,0,0,0,82,75,69,83,76,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,2,4,194,89,104,83,111,0,0,0,0,0,0,0,158,72,79,79,83,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,18,13,26,11,42,0,0,0,0,0,0,0,12,12,18,5,30,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,2,5,44,35,44,43,39,0,0,0,0,0,0,0,42,45,42,40,42,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,98,107,111,85,98,0,0,0,0,0,0,0,120,90,87,74,108,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,5,6,10,6,7,0,0,0,0,0,0,0,8,6,7,6,6,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,35,41,43,51,50,0,0,0,0,0,0,0,18,24,35,36,19,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,12,5,11,10,5,0,0,0,0,0,0,0,7,4,6,6,5,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,6,1,1,1,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,1,0,2,2,2,0,0,0,0,0,0,0,2,1,1,1,3,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,8,4,5,9,2,0,0,0,0,0,0,0,5,6,8,5,4,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,59,56,63,54,66,0,0,0,0,0,0,0,46,43,43,36,57,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,12,15,18,12,18,0,0,0,0,0,0,0,10,17,15,10,13,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,1,0,1,3,0,0,0,0,0,0,0,0,1,1,2,4,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,2,2,2,2,2,0,0,0,0,0,0,0,2,2,2,2,2,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,5,12,1,1,0,0,0,0,0,0,0,0,5,5,2,1,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,99,88,86,69,72,0,0,0,0,0,0,0,60,62,52,56,63,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,1,PS (I-V),98,Madarsa unrecognized,Rural,1,0,0,2,2,2,1,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,1,PS (I-V),98,Madarsa unrecognized,Rural,1,0,0,8,12,10,6,11,0,0,0,0,0,0,0,13,15,7,6,8,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,1,PS (I-V),98,Madarsa unrecognized,Rural,1,0,0,20,20,18,18,21,0,0,0,0,0,0,0,10,15,21,20,15,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,1,PS (I-V),98,Madarsa unrecognized,Urban,1,0,0,0,2,0,1,4,0,0,0,0,0,0,0,1,3,0,2,2,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,1,PS (I-V),98,Madarsa unrecognized,Urban,1,0,0,5,2,2,4,3,0,0,0,0,0,0,0,7,4,1,2,4,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,18,17,11,13,23,18,18,29,30,20,0,0,9,9,8,13,8,17,17,20,20,20,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,2,4,8,6,9,5,8,5,5,5,0,0,3,5,5,8,8,9,6,8,6,5,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,14,11,9,8,11,8,5,7,7,8,0,0,8,7,6,5,4,7,6,6,8,6,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,4,5,3,8,8,2,2,5,7,8,0,0,6,4,4,3,10,1,5,3,6,7,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,21,18,14,12,15,18,13,14,21,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,77,79,76,78,78,91,95,99,80,102,0,0,74,82,72,66,84,85,91,101,67,111,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,4,6,8,5,4,3,6,9,1,4,0,0,5,7,9,6,2,5,8,6,2,6,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,6,SS (I-X),98,Madarsa unrecognized,Rural,1,0,0,30,24,34,40,20,28,26,30,18,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,6,SS (I-X),98,Madarsa unrecognized,Rural,1,0,0,29,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),6,SS (I-X),98,Madarsa unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,1,8,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,23,44,0,0,0,0,0,0,0,0,0,0,29,37,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,71,91,0,0,0,0,0,0,0,0,0,0,77,75,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,31,39,0,0,0,0,0,0,0,0,0,0,30,50,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,36,86,0,0,0,0,0,0,0,0,0,0,39,61,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,4,7,0,0,0,0,0,0,0,0,0,0,6,11,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,4,3,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,24,21,0,0,0,0,0,0,0,0,0,0,32,22,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,8,SS (IX-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,24,23,0,0,0,0,0,0,0,0,0,0,16,12,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,8,SS (IX-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,21,14,0,0,0,0,0,0,0,0,0,0,2,7,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),8,SS (IX-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,14,29,0,0,0,0,0,0,0,0,0,0,27,34,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,8,SS (IX-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,2,2,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,23,12,0,0,0,0,0,0,0,0,0,0,25,52,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,13,11,13,16,8,0,0,0,0,0,0,0,15,1,20,11,7,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,14,11,12,43,39,0,0,0,0,0,0,0,13,12,8,43,36,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,3,3,3,5,4,0,0,0,0,0,0,0,3,4,1,7,6,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,27,37,69,87,65,0,0,0,0,0,0,0,36,47,57,36,87,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,8,7,9,17,3,0,0,0,0,0,0,0,6,6,7,18,2,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,1,3,2,1,0,0,0,0,0,0,0,1,1,1,0,4,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,5,5,6,21,15,0,0,0,0,0,0,0,1,4,2,17,13,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,4,8,4,109,58,0,0,0,0,0,0,0,5,9,5,22,17,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,33,42,35,43,83,0,0,0,0,0,0,0,23,32,25,42,55,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,10,20,21,3,3,0,0,0,0,0,0,0,14,15,5,3,2,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,1,1,2,4,6,0,0,0,0,0,0,0,1,1,1,5,4,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,7,SS (VI-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,3,6,4,1,6,0,0,0,0,0,0,0,1,2,1,3,2,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,0,0,1,0,0,1,5,4,0,0,0,0,1,0,0,0,3,0,2,3,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,1,10,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,4,3,4,6,7,8,15,8,0,0,0,0,6,5,2,4,8,11,7,15,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,0,0,3,1,3,9,9,11,0,0,0,0,0,1,4,3,5,4,17,11,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),2,UPS (I-VIII),4,Government Aided,Urban,1,0,0,3,3,4,4,5,16,14,18,0,0,0,0,3,2,2,0,2,18,16,17,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,50,44,54,42,64,53,60,63,0,0,0,0,38,35,30,39,47,43,53,55,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,43,37,35,33,38,42,47,33,0,0,0,0,29,31,17,18,27,21,19,21,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,13,7,64,60,54,56,69,56,55,74,0,0,0,0,43,46,45,45,61,39,41,54,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,9,9,107,104,97,103,130,102,104,108,0,0,0,0,98,104,91,106,118,97,89,98,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,70,49,54,44,51,57,51,77,0,0,0,0,45,37,38,36,45,44,41,57,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,2,1,4,5,5,2,5,4,0,0,0,0,1,5,3,7,11,7,4,6,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,2,3,15,12,25,21,32,33,28,18,0,0,0,0,10,10,10,20,21,23,20,8,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,8,2,40,44,32,37,40,38,32,47,0,0,0,0,32,40,36,37,45,36,41,55,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,1,1,1,2,1,0,2,0,0,0,0,0,3,4,1,1,2,1,0,2,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,0,0,13,14,20,23,12,14,13,7,0,0,0,0,12,18,19,22,10,16,13,13,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,0,0,12,10,14,7,12,16,7,6,0,0,0,0,15,10,13,13,9,11,10,4,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,7,6,31,12,15,24,16,17,14,9,0,0,0,0,20,16,16,24,11,6,6,12,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,10,27,31,24,35,23,25,18,0,0,0,0,5,15,15,24,15,26,23,28,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,0,0,10,9,4,5,7,7,6,9,0,0,0,0,9,8,6,6,7,5,8,7,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,1,0,0,35,33,17,18,23,14,5,3,0,0,0,0,46,26,28,18,11,14,12,16,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,1,0,0,4,2,4,5,4,2,3,5,0,0,0,0,5,6,8,2,1,5,1,2,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,69,61,57,0,0,0,0,0,0,0,0,0,59,70,75,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,24,16,27,0,0,0,0,0,0,0,0,0,11,26,18,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,55,54,55,0,0,0,0,0,0,0,0,0,44,62,51,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,44,35,52,0,0,0,0,0,0,0,0,0,77,83,71,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,56,68,63,0,0,0,0,0,0,0,0,0,64,71,83,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,52,48,51,0,0,0,0,0,0,0,0,0,68,44,60,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,55,64,69,0,0,0,0,0,0,0,0,0,61,53,82,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,33,25,36,0,0,0,0,0,0,0,0,0,50,43,40,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,24,17,19,0,0,0,0,0,0,0,0,0,20,18,8,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,2,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,12,7,12,0,0,0,0,0,0,0,0,0,16,12,13,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,1,1,5,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,22,32,38,0,0,0,0,0,0,0,0,0,20,31,42,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,6,8,4,0,0,0,0,0,0,0,0,0,2,11,10,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,7,21,16,0,0,0,0,0,0,0,0,0,20,22,32,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,13,24,13,0,0,0,0,0,0,0,0,0,11,8,9,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,27,26,23,0,0,0,0,0,0,0,0,0,51,43,64,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),4,UPS (VI-VIII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,5,4,2,0,0,0,0,0,0,0,0,0,4,5,5,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,32,34,34,0,0,0,0,0,0,0,0,0,23,27,33,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,41,27,51,0,0,0,0,0,0,0,0,0,38,51,44,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,56,65,61,0,0,0,0,0,0,0,0,0,49,64,56,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,2,0,0,0,0,0,38,33,27,0,0,0,0,0,0,0,0,0,62,63,54,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,52,43,56,0,0,0,0,0,0,0,0,0,53,48,44,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,12,19,22,0,0,0,0,0,0,0,0,0,13,34,26,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,95,52,99,0,0,0,0,0,0,0,0,0,61,95,97,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,34,22,21,0,0,0,0,0,0,0,0,0,29,25,29,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,2,3,2,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,38,46,43,0,0,0,0,0,0,0,0,0,23,17,17,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,33,32,30,0,0,0,0,0,0,0,0,0,28,24,26,0,0,0,0,General
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),3,HSS (I-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,45,62,52,47,54,67,81,73,85,82,92,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,17,13,10,18,11,14,13,15,15,18,13,9,13,6,13,9,6,8,8,9,10,16,11,20,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,9,8,8,7,11,7,1,22,15,20,12,20,9,11,4,3,9,5,2,12,6,13,4,7,3,6,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,0,0,2,8,4,3,2,7,4,3,21,11,3,7,2,0,5,4,3,6,3,2,17,17,1,1,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,0,0,8,5,9,9,5,13,20,18,15,14,9,17,8,5,8,5,4,10,5,9,10,8,5,7,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,Urban,2,0,0,39,32,31,35,37,47,48,37,46,19,16,18,27,23,25,16,21,29,23,28,30,8,18,11,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,65,60,66,64,68,59,62,53,61,61,61,61,62,64,73,63,61,59,53,56,59,64,60,64,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,3,HSS (I-XII),98,Madarsa unrecognized,Rural,2,0,0,2,0,2,8,6,6,8,2,6,4,5,6,5,5,4,5,2,5,5,4,2,1,3,8,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,10,HSS (IX-XII),1,Department of Education,Rural,2,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,16,6,5,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,10,HSS (IX-XII),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,38,24,27,22,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,10,HSS (IX-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,7,4,3,3,0,0,0,0,0,0,0,0,5,2,4,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,10,HSS (IX-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,10,HSS (IX-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,10,HSS (IX-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,104,97,100,93,0,0,0,0,0,0,0,0,97,86,27,75,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,10,HSS (IX-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,62,74,30,41,0,0,0,0,0,0,0,0,84,110,50,73,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,10,HSS (IX-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,10,9,9,6,0,0,0,0,0,0,0,0,8,8,9,4,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,129,115,50,53,0,0,0,0,0,0,0,0,190,233,149,171,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,57,86,23,41,0,0,0,0,0,0,0,0,69,88,44,41,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,486,675,590,1094,0,0,0,0,0,0,0,0,259,425,275,537,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,4,0,0,0,0,0,0,0,0,299,371,390,467,0,0,0,0,0,0,0,0,245,322,274,317,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,239,406,238,485,0,0,0,0,0,0,0,0,153,245,200,295,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,81,180,112,125,0,0,0,0,0,0,0,0,80,169,84,94,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,165,165,109,111,0,0,0,0,0,0,0,0,201,221,151,164,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,124,122,91,116,0,0,0,0,0,0,0,0,110,150,93,202,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,9,10,0,0,0,0,0,0,0,0,0,0,9,4,4,2,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,44,128,34,99,0,0,0,0,0,0,0,0,12,33,17,49,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,45,201,103,275,0,0,0,0,0,0,0,0,28,35,32,43,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,10,19,5,9,0,0,0,0,0,0,0,0,8,12,6,15,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,10,6,0,3,0,0,0,0,0,0,0,0,17,7,13,8,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,17,10,14,62,35,19,27,0,0,0,0,0,13,14,10,44,42,51,68,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,23,28,28,150,133,96,74,0,0,0,0,0,15,8,6,46,42,42,29,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,4,12,29,38,19,24,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,16,13,23,55,56,34,32,0,0,0,0,0,26,25,26,90,58,43,46,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,17,36,44,60,47,16,13,0,0,0,0,0,32,33,28,66,86,43,52,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,41,34,54,115,86,55,79,0,0,0,0,0,26,34,42,79,112,63,82,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,73,64,80,107,104,97,97,0,0,0,0,0,48,55,43,67,102,75,85,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,18,17,19,274,262,196,209,0,0,0,0,0,29,20,32,219,319,214,260,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,63,62,69,132,106,53,41,0,0,0,0,0,60,59,129,130,48,35,39,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,62,90,80,133,145,103,75,0,0,0,0,0,32,65,59,98,75,99,87,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,29,29,25,28,12,3,5,0,0,0,0,0,45,49,33,33,63,24,32,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,5,HSS (VI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,25,14,22,99,88,76,56,0,0,0,0,0,37,37,32,92,92,76,80,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,5,HSS (VI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,37,13,20,67,49,3,13,0,0,0,0,0,63,13,10,52,41,64,25,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),5,HSS (VI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,31,36,40,38,44,12,15,0,0,0,0,0,26,28,28,33,30,20,25,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,13,14,17,78,112,23,64,0,0,0,0,0,7,11,10,66,67,13,28,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,6,7,9,59,9,25,40,0,0,0,0,0,8,9,7,90,91,59,67,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,55,110,78,194,246,277,216,0,0,0,0,0,93,79,76,105,97,108,120,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,69,78,99,186,353,156,264,0,0,0,0,0,66,71,92,262,335,167,294,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,8,10,11,53,45,45,50,0,0,0,0,0,5,6,5,22,13,21,18,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,7,7,7,33,217,54,165,0,0,0,0,0,21,11,17,171,124,120,147,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,9,11,8,6,27,5,9,0,0,0,0,0,8,18,17,28,40,28,18,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,45,51,52,62,68,67,80,0,0,0,0,0,43,59,48,68,65,77,66,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,15,6,8,6,6,4,0,0,0,0,0,0,6,3,4,2,2,21,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,Rural,2,0,0,0,0,0,0,0,7,2,15,25,5,12,36,0,0,0,0,0,0,5,66,24,1,25,25,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),5,HSS (VI-XII),95,Railway School,Urban,2,0,0,0,0,0,0,0,3,2,1,1,1,0,1,0,0,0,0,0,2,1,1,1,2,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,1,PS (I-V),1,Department of Education,Rural,2,0,0,739,745,729,774,729,0,0,0,0,0,0,0,739,742,797,713,766,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,1,PS (I-V),1,Department of Education,Rural,2,0,0,691,741,777,742,846,0,0,0,0,0,0,0,680,663,782,694,766,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,1,PS (I-V),1,Department of Education,Rural,2,0,0,647,565,540,557,505,0,0,0,0,0,0,0,558,569,583,520,460,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,1,PS (I-V),1,Department of Education,Rural,2,0,0,755,789,816,726,763,0,0,0,0,0,0,0,754,734,775,755,745,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,1,PS (I-V),1,Department of Education,Rural,2,0,0,669,659,696,674,690,0,0,0,0,0,0,0,603,701,725,693,751,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,1,PS (I-V),1,Department of Education,Rural,2,0,0,666,594,712,700,657,0,0,0,0,0,0,0,640,601,676,688,665,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,1,PS (I-V),1,Department of Education,Rural,2,0,0,595,674,652,643,669,0,0,0,0,0,0,0,590,623,680,648,638,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,1,PS (I-V),1,Department of Education,Rural,2,0,0,600,666,675,524,547,0,0,0,0,0,0,0,599,612,585,538,582,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,1,PS (I-V),1,Department of Education,Rural,2,0,0,591,649,631,735,769,0,0,0,0,0,0,0,513,593,595,589,730,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,1,PS (I-V),1,Department of Education,Urban,2,0,0,11,3,4,7,7,0,0,0,0,0,0,0,6,5,0,7,3,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,1,PS (I-V),1,Department of Education,Urban,2,0,0,6,8,9,5,10,0,0,0,0,0,0,0,9,7,10,4,8,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,1,PS (I-V),1,Department of Education,Urban,2,0,0,5,5,5,10,5,0,0,0,0,0,0,0,1,11,11,4,9,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),1,PS (I-V),1,Department of Education,Urban,2,0,0,64,42,44,32,34,0,0,0,0,0,0,0,52,63,59,38,37,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,20,20,9,29,22,0,0,0,0,0,0,0,20,25,30,34,17,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,37,31,14,27,20,0,0,0,0,0,0,0,44,28,29,12,10,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,25,25,16,13,11,0,0,0,0,0,0,0,20,18,20,26,15,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),1,PS (I-V),2,Tribal Welfare Department,Urban,2,0,0,9,7,8,17,7,0,0,0,0,0,0,0,16,8,16,12,7,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,6,0,132,127,107,113,151,0,0,0,0,0,0,0,76,92,85,93,89,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,29,23,28,29,65,0,0,0,0,0,0,0,26,19,22,25,42,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,207,201,191,199,198,0,0,0,0,0,0,0,169,152,164,160,159,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,66,41,177,166,167,159,125,0,0,0,0,0,0,0,161,139,142,122,108,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,4,3,137,112,128,136,134,0,0,0,0,0,0,0,98,90,92,88,107,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,38,64,34,34,58,0,0,0,0,0,0,0,25,38,37,17,34,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,9,5,61,72,69,72,74,0,0,0,0,0,0,0,71,44,43,48,48,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,180,143,160,150,132,0,0,0,0,0,0,0,192,155,152,142,155,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,39,36,43,51,36,0,0,0,0,0,0,0,22,23,24,30,27,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,17,16,15,15,21,0,0,0,0,0,0,0,13,14,7,11,8,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,10,3,4,5,4,0,0,0,0,0,0,0,5,8,6,6,2,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,1,6,2,5,5,0,0,0,0,0,0,0,2,2,2,2,2,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,1,4,5,3,2,0,0,0,0,0,0,0,2,2,2,5,3,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,16,15,15,19,10,0,0,0,0,0,0,0,14,12,18,14,13,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,132,106,113,109,146,0,0,0,0,0,0,0,93,94,80,89,92,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,5,4,7,6,4,0,0,0,0,0,0,0,6,2,2,4,5,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,2,4,3,2,3,0,0,0,0,0,0,0,1,1,2,1,1,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,2,2,2,2,2,0,0,0,0,0,0,0,2,2,2,2,2,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,6,3,4,2,0,0,0,0,0,0,0,0,4,4,6,1,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,24,25,29,12,21,0,0,0,0,0,0,0,25,21,22,23,10,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,1,PS (I-V),98,Madarsa unrecognized,Rural,2,0,0,8,8,8,4,3,0,0,0,0,0,0,0,0,6,5,0,1,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,1,PS (I-V),98,Madarsa unrecognized,Rural,2,0,0,12,4,10,1,0,0,0,0,0,0,0,0,11,2,2,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,1,PS (I-V),98,Madarsa unrecognized,Rural,2,0,0,15,2,2,2,4,0,0,0,0,0,0,0,8,8,5,10,7,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,1,PS (I-V),98,Madarsa unrecognized,Urban,2,0,0,1,3,4,2,2,0,0,0,0,0,0,0,2,0,5,3,4,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,1,PS (I-V),98,Madarsa unrecognized,Urban,2,0,0,3,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,5,3,6,7,3,11,11,6,11,10,0,0,2,3,6,5,1,7,7,4,9,6,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,2,0,2,0,0,1,0,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,65,135,75,134,95,85,92,91,70,61,0,0,114,93,114,114,104,96,69,59,73,74,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,6,SS (I-X),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,6,SS (I-X),98,Madarsa unrecognized,Rural,2,0,0,26,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),6,SS (I-X),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,12,13,0,0,0,0,0,0,0,0,0,0,13,4,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,7,4,0,0,0,0,0,0,0,0,0,0,10,6,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,21,22,0,0,0,0,0,0,0,0,0,0,20,29,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,27,6,0,0,0,0,0,0,0,0,0,0,13,12,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,34,32,0,0,0,0,0,0,0,0,0,0,26,40,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,42,44,0,0,0,0,0,0,0,0,0,0,34,31,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,10,10,0,0,0,0,0,0,0,0,0,0,12,4,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,126,84,0,0,0,0,0,0,0,0,0,0,92,103,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,53,64,0,0,0,0,0,0,0,0,0,0,76,96,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,101,208,0,0,0,0,0,0,0,0,0,0,128,118,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,31,25,0,0,0,0,0,0,0,0,0,0,13,21,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,8,4,0,0,0,0,0,0,0,0,0,0,7,1,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,35,32,0,0,0,0,0,0,0,0,0,0,38,26,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,8,6,0,0,0,0,0,0,0,0,0,0,4,7,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,8,SS (IX-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,12,14,0,0,0,0,0,0,0,0,0,0,3,2,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,8,SS (IX-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,35,44,0,0,0,0,0,0,0,0,0,0,8,21,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),8,SS (IX-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,33,58,0,0,0,0,0,0,0,0,0,0,29,59,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,8,SS (IX-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,1,2,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,29,19,25,36,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,25,12,0,0,0,0,0,0,0,0,0,0,36,52,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,19,6,25,20,14,0,0,0,0,0,0,0,15,28,13,23,19,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,24,25,14,58,56,0,0,0,0,0,0,0,23,17,18,23,26,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,6,8,3,14,21,0,0,0,0,0,0,0,5,3,3,15,10,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,35,68,31,85,113,0,0,0,0,0,0,0,56,33,26,42,98,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,15,10,9,57,17,0,0,0,0,0,0,0,6,12,5,15,5,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,3,5,4,8,12,0,0,0,0,0,0,0,5,3,1,4,11,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,8,7,9,58,61,0,0,0,0,0,0,0,19,1,9,32,33,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,10,2,3,103,45,0,0,0,0,0,0,0,9,3,8,36,10,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,44,53,58,74,133,0,0,0,0,0,0,0,35,36,40,64,85,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,5,5,2,7,0,0,0,0,0,0,0,0,1,0,0,16,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,4,14,14,8,4,0,0,0,0,0,0,0,4,9,5,3,11,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,4,6,8,13,10,0,0,0,0,0,0,0,3,3,2,10,8,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,7,SS (VI-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,7,12,9,4,18,0,0,0,0,0,0,0,5,5,6,2,5,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,1,0,6,2,4,6,11,15,0,0,0,0,0,0,2,3,4,4,7,13,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,14,14,42,42,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,9,7,9,10,16,16,19,24,0,0,0,0,10,10,6,9,12,22,21,33,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,1,5,2,4,11,6,7,11,0,0,0,0,5,1,3,9,10,8,18,6,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),2,UPS (I-VIII),4,Government Aided,Urban,2,0,0,15,8,10,12,5,1,1,1,0,0,0,0,6,4,5,3,4,1,1,1,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,38,38,35,50,66,50,47,70,0,0,0,0,38,35,48,41,56,59,56,91,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,23,49,57,39,50,48,50,49,0,0,0,0,24,30,36,24,22,23,10,25,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,1,2,98,106,99,108,136,48,50,60,0,0,0,0,55,96,71,62,77,34,40,45,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,9,9,92,90,104,112,111,62,61,74,0,0,0,0,85,77,81,92,103,50,63,61,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,67,61,57,70,69,79,88,93,0,0,0,0,42,44,50,45,58,32,57,51,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,9,7,12,12,7,16,11,7,0,0,0,0,8,11,9,9,7,14,10,8,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,4,3,15,17,10,20,13,11,13,8,0,0,0,0,16,13,7,16,17,12,14,10,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,5,3,42,48,37,48,47,38,45,55,0,0,0,0,47,45,30,39,44,39,32,24,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,6,5,6,5,3,4,3,4,0,0,0,0,4,5,1,3,6,7,11,5,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,0,11,12,17,15,13,26,17,14,0,0,0,0,11,11,14,18,12,23,15,16,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,0,10,2,7,11,6,9,12,2,0,0,0,0,4,2,9,4,3,4,6,1,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,15,16,39,30,40,36,39,35,31,25,0,0,0,0,31,45,26,32,38,21,26,30,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,5,4,3,3,5,3,7,2,0,0,0,0,8,0,4,7,8,6,4,1,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,13,11,13,21,15,9,12,4,0,0,0,0,15,23,11,13,8,10,8,6,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,0,0,6,3,0,0,0,0,0,0,0,0,0,0,8,1,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,2,0,0,3,9,11,21,9,13,20,3,0,0,0,0,4,4,6,13,5,9,17,8,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,2,0,0,5,4,2,8,2,1,2,2,0,0,0,0,3,2,1,4,5,5,2,4,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,2,0,0,4,5,5,4,7,6,5,4,0,0,0,0,2,2,2,5,8,3,2,6,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,595,583,518,0,0,0,0,0,0,0,0,0,555,530,608,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,426,413,363,0,0,0,0,0,0,0,0,0,423,381,458,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,616,357,306,0,0,0,0,0,0,0,0,0,588,376,295,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,540,519,506,0,0,0,0,0,0,0,0,0,561,489,515,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,685,574,478,0,0,0,0,0,0,0,0,0,594,585,579,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,466,364,351,0,0,0,0,0,0,0,0,0,463,448,415,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,504,452,420,0,0,0,0,0,0,0,0,0,390,443,381,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,352,340,371,0,0,0,0,0,0,0,0,0,412,364,393,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,488,361,368,0,0,0,0,0,0,0,0,0,421,367,357,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,15,20,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,13,8,7,0,0,0,0,0,0,0,0,0,8,11,10,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,4,10,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,12,10,3,0,0,0,0,0,0,0,0,0,8,12,13,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,24,20,29,0,0,0,0,0,0,0,0,0,21,19,24,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,39,50,35,0,0,0,0,0,0,0,0,0,42,39,41,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,68,59,64,0,0,0,0,0,0,0,0,0,70,47,48,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,30,19,31,0,0,0,0,0,0,0,0,0,24,36,32,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,54,62,57,0,0,0,0,0,0,0,0,0,68,66,76,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,40,83,64,0,0,0,0,0,0,0,0,0,25,60,50,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,41,59,53,0,0,0,0,0,0,0,0,0,68,47,68,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,17,17,22,0,0,0,0,0,0,0,0,0,31,19,23,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),4,UPS (VI-VIII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,26,23,18,0,0,0,0,0,0,0,0,0,23,12,15,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,41,40,34,0,0,0,0,0,0,0,0,0,47,39,47,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,74,84,103,0,0,0,0,0,0,0,0,0,54,52,49,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,79,100,90,0,0,0,0,0,0,0,0,0,89,87,77,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,2,0,0,0,0,0,43,52,38,0,0,0,0,0,0,0,0,0,68,79,75,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,59,63,55,0,0,0,0,0,0,0,0,0,38,37,33,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,22,18,36,0,0,0,0,0,0,0,0,0,53,65,86,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,80,96,68,0,0,0,0,0,0,0,0,0,69,139,57,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,81,79,88,0,0,0,0,0,0,0,0,0,66,70,73,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,13,13,15,0,0,0,0,0,0,0,0,0,15,4,4,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,13,9,10,0,0,0,0,0,0,0,0,0,5,7,8,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,75,66,51,0,0,0,0,0,0,0,0,0,46,48,48,0,0,0,0,SC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),3,HSS (I-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,1,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,3,HSS (I-XII),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,10,HSS (IX-XII),1,Department of Education,Rural,3,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,10,HSS (IX-XII),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,10,HSS (IX-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,10,HSS (IX-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,10,HSS (IX-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,10,HSS (IX-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,10,HSS (IX-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,10,HSS (IX-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,6,6,12,14,0,0,0,0,0,0,0,0,3,4,75,7,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,2,4,3,25,0,0,0,0,0,0,0,0,1,1,1,5,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,5,HSS (VI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,5,HSS (VI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),5,HSS (VI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,1,0,0,0,0,0,1,0,0,2,6,3,7,0,0,0,0,0,7,0,0,0,0,1,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),5,HSS (VI-XII),95,Railway School,Urban,3,0,0,0,0,0,0,0,1,2,1,1,2,0,1,0,0,0,0,0,1,1,0,1,1,0,1,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,1,PS (I-V),1,Department of Education,Rural,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,1,PS (I-V),1,Department of Education,Rural,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),1,PS (I-V),2,Tribal Welfare Department,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,13,13,13,13,13,0,0,0,0,0,0,0,13,13,13,13,13,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,2,2,2,2,2,0,0,0,0,0,0,0,2,2,2,2,2,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,1,PS (I-V),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,1,PS (I-V),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,1,PS (I-V),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,1,PS (I-V),98,Madarsa unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,1,PS (I-V),98,Madarsa unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,6,SS (I-X),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,6,SS (I-X),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),6,SS (I-X),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,3,13,0,0,0,0,0,0,0,0,0,0,8,22,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,8,SS (IX-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,10,10,7,4,4,0,0,0,0,0,0,0,4,5,5,6,2,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,7,SS (VI-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),2,UPS (I-VIII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,15,8,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,12,8,13,0,0,0,0,0,0,0,0,0,6,7,6,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),4,UPS (VI-VIII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,2,0,0,0,0,0,6,6,6,0,0,0,0,0,0,0,0,0,31,31,31,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,6,4,5,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,ST
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),3,HSS (I-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,86,100,126,115,187,167,183,235,265,277,276,276,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,13,10,55,4,4,7,1,1,15,8,2,9,3,7,2,9,6,9,10,18,17,6,3,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,38,22,17,60,19,23,15,31,34,32,53,39,38,34,11,18,14,11,10,23,11,20,24,16,18,13,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,0,0,7,6,8,8,8,15,11,16,17,20,22,15,6,8,4,12,2,3,12,3,51,24,10,12,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,0,0,20,15,34,35,36,51,48,43,62,48,50,58,16,11,17,17,21,35,31,33,22,18,39,37,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,Urban,4,0,0,61,62,51,58,51,47,33,23,52,24,49,29,39,46,37,40,28,38,31,14,19,13,32,28,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,86,76,58,76,86,80,74,54,94,80,82,62,85,86,67,79,80,80,69,68,66,66,65,62,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,10,20,4,7,9,10,4,7,1,1,2,5,15,21,5,8,6,6,2,3,5,4,0,7,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,3,HSS (I-XII),98,Madarsa unrecognized,Rural,4,0,0,14,12,15,16,18,14,15,17,20,18,16,12,15,15,14,13,12,15,18,16,24,13,15,12,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,10,HSS (IX-XII),1,Department of Education,Rural,4,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,30,30,12,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,10,HSS (IX-XII),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,17,10,12,2,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,10,HSS (IX-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,1,1,1,3,0,0,0,0,0,0,0,0,1,1,6,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,10,HSS (IX-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,10,26,20,11,0,0,0,0,0,0,0,0,11,12,23,15,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,10,HSS (IX-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,13,1,2,13,0,0,0,0,0,0,0,0,1,0,1,1,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,10,HSS (IX-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,290,292,280,189,0,0,0,0,0,0,0,0,153,141,71,110,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,10,HSS (IX-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,80,139,61,73,0,0,0,0,0,0,0,0,210,211,164,176,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,10,HSS (IX-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,8,5,9,6,0,0,0,0,0,0,0,0,9,8,5,6,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,198,255,113,97,0,0,0,0,0,0,0,0,334,390,310,297,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,115,123,52,40,0,0,0,0,0,0,0,0,165,163,70,127,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,860,2138,1430,3053,0,0,0,0,0,0,0,0,709,917,800,1070,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,4,0,0,0,0,0,0,0,0,805,1081,1089,1537,0,0,0,0,0,0,0,0,728,941,934,1038,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,439,911,542,1183,0,0,0,0,0,0,0,0,354,526,372,510,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,191,396,261,535,0,0,0,0,0,0,0,0,181,281,205,275,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,308,336,235,274,0,0,0,0,0,0,0,0,442,514,450,457,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,12,0,0,0,0,0,0,0,0,337,421,455,506,0,0,0,0,0,0,0,0,445,544,547,750,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,35,38,0,0,0,0,0,0,0,0,0,0,34,31,28,21,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,56,263,50,297,0,0,0,0,0,0,0,0,14,88,38,146,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,186,448,284,623,0,0,0,0,0,0,0,0,75,135,122,130,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,42,65,9,26,0,0,0,0,0,0,0,0,25,28,38,32,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,35,18,6,4,0,0,0,0,0,0,0,0,40,21,21,15,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,25,27,21,59,57,11,30,0,0,0,0,0,8,24,24,90,55,55,68,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,44,38,36,353,225,246,209,0,0,0,0,0,24,20,28,160,100,145,125,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,41,35,67,72,40,50,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,44,41,46,317,244,372,267,0,0,0,0,0,63,72,69,324,364,278,390,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,45,47,50,111,125,34,17,0,0,0,0,0,45,51,51,138,207,90,138,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,50,52,66,246,326,189,212,0,0,0,0,0,90,94,101,256,289,278,342,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,78,83,122,214,156,144,131,0,0,0,0,0,62,67,86,124,133,91,132,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,16,24,31,493,354,322,280,0,0,0,0,0,22,29,37,485,329,267,290,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,85,68,59,146,155,74,44,0,0,0,0,0,104,66,71,160,184,143,122,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,89,116,128,306,230,205,205,0,0,0,0,0,96,121,108,195,221,176,169,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,11,2,11,8,6,2,2,0,0,0,0,0,8,14,8,24,31,19,18,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,5,HSS (VI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,14,18,30,149,62,136,102,0,0,0,0,0,45,50,53,120,125,135,144,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,5,HSS (VI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,28,29,21,51,52,8,17,0,0,0,0,0,14,19,12,44,39,19,19,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),5,HSS (VI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,43,60,61,92,89,16,23,0,0,0,0,0,21,28,37,49,41,27,43,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,40,23,28,180,370,75,189,0,0,0,0,0,13,18,24,168,222,50,70,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,55,51,27,114,124,91,146,0,0,0,0,0,47,48,26,183,191,176,200,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,122,139,142,403,409,438,576,0,0,0,0,0,99,96,106,174,150,156,99,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,153,153,179,635,1063,401,855,0,0,0,0,0,142,161,170,555,778,420,524,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,56,69,62,276,273,262,314,0,0,0,0,0,31,36,27,111,89,102,107,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,14,32,29,50,255,78,284,0,0,0,0,0,44,32,48,302,385,258,303,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,31,31,26,43,129,3,42,0,0,0,0,0,29,39,34,57,87,40,43,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,18,0,0,0,0,0,91,89,100,140,207,102,162,0,0,0,0,0,68,120,151,225,210,213,227,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,25,14,18,34,18,8,0,0,0,0,0,0,8,11,10,23,10,5,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,Rural,4,0,0,0,0,0,0,0,10,6,25,63,55,52,5,0,0,0,0,0,12,8,23,52,21,52,1,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),5,HSS (VI-XII),95,Railway School,Urban,4,0,0,0,0,0,0,0,5,9,6,5,6,0,3,0,0,0,0,0,2,3,3,2,3,0,2,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,1,PS (I-V),1,Department of Education,Rural,4,0,0,855,808,831,802,816,0,0,0,0,0,0,0,807,857,889,784,914,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,1,PS (I-V),1,Department of Education,Rural,4,0,0,891,954,1027,1003,1150,0,0,0,0,0,0,0,912,987,1089,1064,1059,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,1,PS (I-V),1,Department of Education,Rural,4,0,0,887,904,852,877,815,0,0,0,0,0,0,0,963,974,1004,855,886,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,1,PS (I-V),1,Department of Education,Rural,4,0,0,902,834,867,974,885,0,0,0,0,0,0,0,954,960,985,1019,1057,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,1,PS (I-V),1,Department of Education,Rural,4,0,0,897,856,929,851,903,0,0,0,0,0,0,0,881,891,973,880,894,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,1,PS (I-V),1,Department of Education,Rural,4,0,0,629,669,740,670,769,0,0,0,0,0,0,0,629,597,670,703,716,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,1,PS (I-V),1,Department of Education,Rural,4,0,0,887,985,918,907,1026,0,0,0,0,0,0,0,819,965,944,918,976,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,1,PS (I-V),1,Department of Education,Rural,4,0,0,1553,1472,1517,1255,1317,0,0,0,0,0,0,0,1416,1502,1485,1467,1352,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,1,PS (I-V),1,Department of Education,Rural,4,0,0,373,338,387,417,475,0,0,0,0,0,0,0,345,378,351,408,486,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,1,PS (I-V),1,Department of Education,Urban,4,0,0,10,5,6,2,10,0,0,0,0,0,0,0,7,2,13,2,5,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,1,PS (I-V),1,Department of Education,Urban,4,0,0,5,4,8,5,5,0,0,0,0,0,0,0,2,1,2,6,2,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,1,PS (I-V),1,Department of Education,Urban,4,0,0,18,50,58,65,105,0,0,0,0,0,0,0,55,69,54,70,77,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),1,PS (I-V),1,Department of Education,Urban,4,0,0,82,86,69,64,62,0,0,0,0,0,0,0,80,73,52,66,45,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,4,0,1,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,27,20,18,22,13,0,0,0,0,0,0,0,30,14,18,6,8,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,2,9,4,11,11,0,0,0,0,0,0,0,2,13,13,10,3,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),1,PS (I-V),2,Tribal Welfare Department,Urban,4,0,0,5,12,6,4,6,0,0,0,0,0,0,0,4,4,5,1,1,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,267,267,265,277,296,0,0,0,0,0,0,0,206,199,236,213,255,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,111,102,104,121,189,0,0,0,0,0,0,0,117,108,123,122,156,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,502,462,476,477,539,0,0,0,0,0,0,0,384,345,370,407,436,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,74,51,189,205,160,163,166,0,0,0,0,0,0,0,160,134,163,140,139,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,27,5,433,405,371,373,396,0,0,0,0,0,0,0,324,294,265,283,287,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,85,119,133,101,155,0,0,0,0,0,0,0,101,82,84,68,108,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,3,3,119,115,135,142,183,0,0,0,0,0,0,0,140,154,111,101,144,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,693,638,559,612,605,0,0,0,0,0,0,0,568,536,516,556,605,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,59,77,80,108,91,0,0,0,0,0,0,0,45,52,64,59,52,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,59,58,31,42,53,0,0,0,0,0,0,0,35,32,33,29,33,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,27,43,27,37,45,0,0,0,0,0,0,0,40,16,24,28,27,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,29,32,23,17,17,0,0,0,0,0,0,0,24,5,14,14,21,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,4,1,2,2,2,0,0,0,0,0,0,0,2,5,3,4,2,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,18,19,24,21,18,0,0,0,0,0,0,0,17,21,25,15,25,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,254,240,259,248,356,0,0,0,0,0,0,0,215,187,201,203,236,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,29,23,27,24,19,0,0,0,0,0,0,0,25,15,21,23,23,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,12,15,12,10,9,0,0,0,0,0,0,0,6,11,10,8,8,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,32,32,32,32,32,0,0,0,0,0,0,0,32,32,32,32,32,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,12,10,1,0,0,0,0,0,0,0,0,0,8,15,0,0,0,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,201,189,200,202,196,0,0,0,0,0,0,0,162,161,137,140,164,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,4,0,0,10,14,14,12,15,0,0,0,0,0,0,0,12,12,12,15,12,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,1,PS (I-V),98,Madarsa unrecognized,Rural,4,0,0,10,10,10,6,7,0,0,0,0,0,0,0,6,7,8,5,6,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,1,PS (I-V),98,Madarsa unrecognized,Rural,4,0,0,23,49,20,9,8,0,0,0,0,0,0,0,30,14,7,9,8,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,1,PS (I-V),98,Madarsa unrecognized,Rural,4,0,0,15,8,5,15,6,0,0,0,0,0,0,0,2,2,4,4,7,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,1,PS (I-V),98,Madarsa unrecognized,Urban,4,0,0,2,3,2,2,4,0,0,0,0,0,0,0,5,4,5,5,2,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,1,PS (I-V),98,Madarsa unrecognized,Urban,4,0,0,8,12,10,5,6,0,0,0,0,0,0,0,12,11,4,8,8,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,28,21,17,13,13,12,12,19,20,24,0,0,9,11,11,11,11,11,10,15,15,18,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,8,8,8,5,8,8,8,8,6,8,0,0,9,9,6,7,9,5,9,5,9,10,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,39,44,29,24,22,17,21,24,33,35,0,0,51,27,31,26,29,21,17,26,31,30,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,3,3,4,5,2,3,3,4,2,4,0,0,7,3,6,6,10,2,2,3,2,12,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,13,9,9,9,6,4,5,3,10,10,0,0,10,12,6,7,8,12,5,8,18,18,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,106,121,116,122,75,96,108,119,99,112,0,0,119,121,127,77,72,108,108,90,129,123,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,10,20,8,7,9,8,14,15,12,16,0,0,15,16,9,5,6,6,10,10,15,14,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,6,SS (I-X),98,Madarsa unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,6,SS (I-X),98,Madarsa unrecognized,Rural,4,0,0,28,14,23,25,19,14,6,5,7,8,0,0,20,18,15,14,15,11,9,8,7,9,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),6,SS (I-X),98,Madarsa unrecognized,Rural,4,0,0,8,8,8,5,9,9,9,9,8,11,0,0,9,9,6,8,8,8,8,8,9,12,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,10,6,0,0,0,0,0,0,0,0,0,0,24,7,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,12,12,0,0,0,0,0,0,0,0,0,0,14,12,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,25,29,0,0,0,0,0,0,0,0,0,0,23,20,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,12,14,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,21,39,0,0,0,0,0,0,0,0,0,0,22,46,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,65,136,0,0,0,0,0,0,0,0,0,0,72,117,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,25,32,0,0,0,0,0,0,0,0,0,0,36,6,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,188,347,0,0,0,0,0,0,0,0,0,0,164,198,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,173,155,0,0,0,0,0,0,0,0,0,0,252,218,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,108,729,0,0,0,0,0,0,0,0,0,0,189,276,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,8,46,0,0,0,0,0,0,0,0,0,0,10,22,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,32,41,0,0,0,0,0,0,0,0,0,0,18,13,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,109,88,0,0,0,0,0,0,0,0,0,0,118,109,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,7,7,0,0,0,0,0,0,0,0,0,0,8,10,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,8,SS (IX-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,31,27,0,0,0,0,0,0,0,0,0,0,19,16,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,8,SS (IX-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,95,91,0,0,0,0,0,0,0,0,0,0,48,38,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),8,SS (IX-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,41,51,0,0,0,0,0,0,0,0,0,0,45,40,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,8,SS (IX-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,0,0,0,0,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,2,2,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,17,9,15,12,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,12,36,0,0,0,0,0,0,0,0,0,0,36,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,53,33,65,121,106,0,0,0,0,0,0,0,49,36,82,98,109,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,52,38,40,143,122,0,0,0,0,0,0,0,29,37,32,92,75,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,16,16,7,42,37,0,0,0,0,0,0,0,12,16,6,45,38,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,89,117,110,204,282,0,0,0,0,0,0,0,94,107,130,151,132,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,10,16,9,66,8,0,0,0,0,0,0,0,12,15,9,32,6,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,6,16,14,5,19,0,0,0,0,0,0,0,18,11,10,14,11,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,70,39,42,102,122,0,0,0,0,0,0,0,37,39,39,95,84,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,1,4,2,82,22,0,0,0,0,0,0,0,2,4,3,39,4,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,138,202,111,293,510,0,0,0,0,0,0,0,96,116,107,231,274,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,17,14,13,16,0,0,0,0,0,0,0,0,17,12,17,30,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,23,21,25,19,14,0,0,0,0,0,0,0,10,19,17,3,19,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,15,10,7,10,20,0,0,0,0,0,0,0,1,2,8,6,22,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,7,SS (VI-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,0,0,0,0,0,42,44,41,58,35,0,0,0,0,0,0,0,28,17,45,70,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,9,5,14,14,20,20,45,22,0,0,0,0,4,5,12,9,9,14,24,13,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,7,0,6,18,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,14,12,15,12,16,30,37,45,0,0,0,0,17,17,10,14,21,46,48,52,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,1,0,4,1,2,15,5,16,0,0,0,0,1,2,2,1,2,17,12,12,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),2,UPS (I-VIII),4,Government Aided,Urban,4,0,0,16,14,12,12,20,8,10,14,0,0,0,0,12,5,6,4,6,12,12,10,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,104,115,116,113,177,121,129,157,0,0,0,0,103,101,112,108,142,107,142,168,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,74,78,86,87,102,115,106,129,0,0,0,0,69,67,43,55,89,93,92,40,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,61,34,145,157,167,187,188,153,164,177,0,0,0,0,137,133,162,138,136,118,132,130,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,10,10,171,143,169,177,195,143,137,151,0,0,0,0,152,144,139,147,156,111,140,145,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,107,127,139,137,162,155,161,194,0,0,0,0,94,91,110,95,121,106,95,136,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,30,27,36,42,45,39,45,54,0,0,0,0,28,19,39,32,39,43,51,43,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,6,4,27,18,13,18,16,29,16,21,0,0,0,0,21,20,13,15,12,21,14,22,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,64,30,232,210,201,256,285,204,193,227,0,0,0,0,187,179,179,195,224,155,137,228,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,7,6,8,6,8,12,11,10,0,0,0,0,8,7,6,7,8,21,13,8,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,0,27,29,26,40,27,36,33,27,0,0,0,0,21,28,21,30,34,43,30,46,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,0,38,45,19,31,40,18,12,19,0,0,0,0,20,21,34,24,12,15,13,8,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,60,32,80,92,75,63,58,39,83,84,0,0,0,0,50,76,69,70,58,39,65,64,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,8,5,1,1,7,9,3,3,0,0,0,0,5,1,2,4,5,7,1,10,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,10,8,8,6,8,0,0,0,0,0,0,0,9,9,9,9,9,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,43,27,28,17,26,24,24,17,0,0,0,0,32,29,31,29,25,21,27,20,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,4,0,0,36,26,21,21,18,16,9,15,0,0,0,0,31,26,19,31,23,16,21,23,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,4,0,0,13,15,30,12,21,27,9,17,0,0,0,0,7,12,19,18,19,17,13,19,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,4,0,0,54,23,17,29,23,22,23,10,0,0,0,0,23,21,16,23,26,17,11,11,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,4,0,0,6,4,5,5,4,5,1,4,0,0,0,0,8,2,3,2,6,2,2,2,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,611,540,548,0,0,0,0,0,0,0,0,0,612,590,607,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,553,490,475,0,0,0,0,0,0,0,0,0,606,616,564,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,596,507,479,0,0,0,0,0,0,0,0,0,639,587,571,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,732,554,565,0,0,0,0,0,0,0,0,0,837,720,719,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,664,647,639,0,0,0,0,0,0,0,0,0,816,642,729,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,406,364,379,0,0,0,0,0,0,0,0,0,436,415,349,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,667,552,476,0,0,0,0,0,0,0,0,0,654,498,464,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,957,701,710,0,0,0,0,0,0,0,0,0,1090,879,944,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,326,296,239,0,0,0,0,0,0,0,0,0,329,317,243,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,11,14,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,9,7,6,0,0,0,0,0,0,0,0,0,6,7,7,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,25,19,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,19,8,10,0,0,0,0,0,0,0,0,0,19,27,27,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,33,29,18,0,0,0,0,0,0,0,0,0,33,16,14,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,75,91,73,0,0,0,0,0,0,0,0,0,90,65,86,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,139,204,259,0,0,0,0,0,0,0,0,0,142,158,201,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,70,109,66,0,0,0,0,0,0,0,0,0,67,86,82,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,102,121,109,0,0,0,0,0,0,0,0,0,142,162,156,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,297,105,136,0,0,0,0,0,0,0,0,0,15,50,91,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,92,109,124,0,0,0,0,0,0,0,0,0,103,116,91,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,31,40,63,0,0,0,0,0,0,0,0,0,31,40,41,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),4,UPS (VI-VIII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,43,34,50,0,0,0,0,0,0,0,0,0,25,24,27,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,108,129,115,0,0,0,0,0,0,0,0,0,86,130,100,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96602,CHAKIYA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,132,169,177,0,0,0,0,0,0,0,0,0,132,128,173,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96603,CHAHANIYA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,225,217,246,0,0,0,0,0,0,0,0,0,201,230,241,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96604,SAKALDIHA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,2,0,0,0,0,0,121,154,81,0,0,0,0,0,0,0,0,0,116,160,93,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96605,DHANAPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,214,237,217,0,0,0,0,0,0,0,0,0,159,187,179,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96606,SHAHABGANJ,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,71,88,78,0,0,0,0,0,0,0,0,0,101,89,111,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96607,BARAHANI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,118,116,156,0,0,0,0,0,0,0,0,0,102,85,110,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96608,NIYAMATABAD,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,41,0,0,0,0,0,265,254,257,0,0,0,0,0,0,0,0,0,237,249,275,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96609,NAUGARH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,35,44,34,0,0,0,0,0,0,0,0,0,20,24,20,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96601,CHANDAULI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,27,25,49,0,0,0,0,0,0,0,0,0,13,14,11,0,0,0,0,OBC
+2017-18,9,Uttar Pradesh,966,CHANDAULI,96610,MUGALSARAI (NAGAR CHHETRA),4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,225,207,210,0,0,0,0,0,0,0,0,0,157,145,144,0,0,0,0,OBC

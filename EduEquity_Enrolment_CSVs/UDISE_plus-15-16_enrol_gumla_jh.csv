@@ -1,0 +1,813 @@
+ac_year,state_code,state_name,district_code,district_name,block_code,block_name,sch_category_id,category_name,sch_mgmt_id,sch_mgmt_name,loc_name,caste_id,pre_primary_boys,pre_primary_girls,class_1_boys,class_2_boys,class_3_boys,class_4_boys,class_5_boys,class_6_boys,class_7_boys,class_8_boys,class_9_boys,class_10_boys,class_11_boys,class_12_boys,class_1_girls,class_2_girls,class_3_girls,class_4_girls,class_5_girls,class_6_girls,class_7_girls,class_8_girls,class_9_girls,class_10_girls,class_11_girls,class_12_girls,caste_name
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),98,Madarsa unrecognized,Urban,4,0,0,9,7,6,5,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,2,UPS (I-VIII),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,3,HSS (I-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,6,19,12,12,0,0,0,0,0,0,0,0,0,0,3,18,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,34,32,25,40,23,39,24,34,26,33,39,12,18,24,27,24,22,10,26,29,27,17,24,27,25,24,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,14,18,14,17,13,15,8,6,8,8,4,0,0,0,18,18,15,8,11,9,8,13,9,8,2,4,General
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,3,HSS (I-XII),7,Central Govt,Rural,1,0,0,0,0,0,0,2,2,2,2,2,2,1,1,0,0,0,0,1,2,3,3,3,1,2,2,General
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,9,8,2,3,0,0,0,0,0,0,0,0,5,7,7,6,General
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,3,4,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,3,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,3,0,1,General
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,3,1,0,1,0,0,0,0,0,0,0,1,3,0,2,1,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,10,HSS (IX-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,23,10,101,205,0,0,0,0,0,0,0,0,0,0,115,201,General
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,2,2,1,1,0,0,0,0,0,0,0,0,3,3,2,1,General
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,7,7,5,8,5,4,General
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,2,1,General
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,3,1,1,General
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,1,3,2,4,1,General
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,5,1,4,2,4,General
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,2,2,4,1,1,General
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,4,5,0,1,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4,0,6,6,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,5,HSS (VI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,1,2,1,2,General
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,4,9,0,0,0,0,0,0,0,0,0,0,5,5,General
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,11,HSS (XI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,35,8,0,0,0,0,0,0,0,0,0,0,17,7,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,11,HSS (XI-XII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,13,13,0,0,0,0,0,0,0,0,0,0,9,10,General
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,11,HSS (XI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,11,10,0,0,0,0,0,0,0,0,0,0,3,4,General
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,11,HSS (XI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,15,40,0,0,0,0,0,0,0,0,0,0,20,25,General
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,11,HSS (XI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,26,28,0,0,0,0,0,0,0,0,0,0,19,31,General
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,8,General
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,1,PS (I-V),1,Department of Education,Rural,1,0,0,2,4,1,1,0,0,0,0,0,0,0,0,9,6,1,1,1,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,1,PS (I-V),1,Department of Education,Rural,1,0,0,21,11,12,11,14,0,0,0,0,0,0,0,16,13,9,11,7,1,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,1,PS (I-V),1,Department of Education,Rural,1,0,0,10,7,5,5,2,0,0,0,0,0,0,0,7,5,4,4,2,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,1,PS (I-V),1,Department of Education,Rural,1,0,0,5,3,4,2,0,0,0,0,0,0,0,0,4,0,6,2,3,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,1,PS (I-V),1,Department of Education,Rural,1,0,0,9,1,3,4,6,0,0,0,0,0,0,0,12,5,8,4,3,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),1,Department of Education,Rural,1,0,0,56,51,33,36,51,0,0,0,0,0,0,0,44,34,40,37,56,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,1,PS (I-V),1,Department of Education,Rural,1,0,0,16,7,8,9,7,0,0,0,0,0,0,0,30,13,6,8,15,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,1,PS (I-V),1,Department of Education,Rural,1,0,0,11,8,15,11,10,0,0,0,0,0,0,0,20,11,7,3,10,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,1,PS (I-V),1,Department of Education,Rural,1,0,0,5,10,7,1,1,0,0,0,0,0,0,0,7,6,5,4,1,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,1,PS (I-V),1,Department of Education,Rural,1,0,0,2,1,1,0,3,0,0,0,0,0,0,0,0,1,2,0,2,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,1,PS (I-V),1,Department of Education,Rural,1,0,0,24,12,10,6,5,0,0,0,0,0,0,0,18,9,8,9,7,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,1,PS (I-V),1,Department of Education,Rural,1,0,0,9,4,2,2,4,0,0,0,0,0,0,0,5,3,1,1,1,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,1,PS (I-V),1,Department of Education,Urban,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),1,Department of Education,Urban,1,0,0,5,4,1,0,1,0,0,0,0,0,0,0,3,5,2,2,1,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2,1,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,1,PS (I-V),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,1,PS (I-V),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,1,PS (I-V),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,1,PS (I-V),4,Government Aided,Rural,1,2,2,6,4,1,1,4,0,0,0,0,0,0,0,7,7,5,1,2,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,1,PS (I-V),4,Government Aided,Rural,1,0,0,4,1,0,0,0,0,0,0,0,0,0,0,5,1,1,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,1,PS (I-V),4,Government Aided,Rural,1,0,0,8,5,2,1,2,0,0,0,0,0,0,0,5,4,5,4,1,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),4,Government Aided,Rural,1,0,0,1,1,0,2,0,0,0,0,0,0,0,0,3,5,1,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,1,PS (I-V),4,Government Aided,Rural,1,0,0,5,2,1,1,0,0,0,0,0,0,0,0,3,1,0,0,2,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,1,PS (I-V),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,1,PS (I-V),4,Government Aided,Rural,1,5,4,18,14,5,12,4,0,0,0,0,0,0,0,14,12,8,12,4,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,1,PS (I-V),4,Government Aided,Rural,1,0,0,2,2,3,1,5,0,0,0,0,0,0,0,0,1,4,1,9,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,1,PS (I-V),4,Government Aided,Rural,1,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,1,PS (I-V),4,Government Aided,Rural,1,0,0,9,1,3,0,0,0,0,0,0,0,0,0,13,3,6,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),4,Government Aided,Urban,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,3,1,3,5,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,7,13,7,6,6,8,9,0,0,0,0,0,0,0,7,8,3,5,5,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,1,PS (I-V),8,Unrecognized,Rural,1,7,3,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,1,PS (I-V),8,Unrecognized,Rural,1,5,4,20,15,12,15,14,8,13,5,0,0,0,0,17,11,22,14,12,4,7,6,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,1,PS (I-V),8,Unrecognized,Rural,1,28,15,7,8,1,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,1,PS (I-V),8,Unrecognized,Rural,1,0,0,5,1,2,3,7,4,0,0,0,0,0,0,1,2,6,3,1,2,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),8,Unrecognized,Rural,1,26,13,30,27,23,16,9,6,0,0,0,0,0,0,20,20,16,13,14,5,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,1,PS (I-V),8,Unrecognized,Rural,1,11,12,32,9,11,9,5,2,4,0,6,0,0,0,22,6,7,10,3,0,3,1,2,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,1,PS (I-V),8,Unrecognized,Rural,1,56,36,29,35,19,10,2,0,0,0,0,0,0,0,34,25,9,4,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,1,PS (I-V),8,Unrecognized,Rural,1,55,41,13,14,11,9,6,5,0,0,0,0,0,0,8,7,2,4,5,5,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,1,PS (I-V),8,Unrecognized,Rural,1,37,28,8,3,2,0,0,0,0,0,0,0,0,0,3,4,2,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,1,PS (I-V),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,1,PS (I-V),8,Unrecognized,Urban,1,1,10,0,0,0,0,2,0,0,0,0,0,0,0,0,5,1,3,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),8,Unrecognized,Urban,1,10,8,22,19,21,16,13,2,1,0,0,0,0,0,25,18,13,12,11,4,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),98,Madarsa unrecognized,Rural,1,0,0,36,22,19,25,31,0,0,0,0,0,0,0,37,20,21,20,18,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,1,PS (I-V),98,Madarsa unrecognized,Rural,1,0,0,8,3,5,8,0,0,0,0,0,0,0,0,5,6,4,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),98,Madarsa unrecognized,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,6,SS (I-X),1,Department of Education,Rural,1,0,0,1,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,0,2,0,1,1,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,6,SS (I-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,6,SS (I-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,1,1,1,4,0,0,0,0,0,0,0,0,3,0,1,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,6,SS (I-X),1,Department of Education,Rural,1,0,0,5,3,3,4,2,4,6,7,9,7,0,0,8,3,4,2,1,2,6,7,4,4,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,6,SS (I-X),1,Department of Education,Rural,1,0,0,1,5,2,7,2,10,3,5,9,7,0,0,1,4,5,2,3,6,8,6,9,6,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,6,SS (I-X),1,Department of Education,Rural,1,0,0,0,5,1,2,6,9,4,8,6,6,0,0,2,4,0,3,2,7,8,7,12,2,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,6,SS (I-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,1,1,1,4,6,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,6,SS (I-X),1,Department of Education,Rural,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,6,SS (I-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,6,SS (I-X),1,Department of Education,Rural,1,0,0,4,1,0,2,0,0,0,0,0,0,0,0,3,3,3,1,0,2,0,2,1,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,6,SS (I-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,2,5,5,2,3,2,2,0,2,1,0,0,2,4,3,1,1,1,2,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,6,SS (I-X),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,6,SS (I-X),8,Unrecognized,Rural,1,0,0,1,1,1,1,0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,6,SS (I-X),8,Unrecognized,Rural,1,3,4,4,5,3,6,6,4,10,2,0,1,0,0,6,7,3,4,2,2,0,1,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,6,SS (I-X),8,Unrecognized,Rural,1,0,1,5,4,5,3,3,12,7,10,2,5,0,0,1,7,0,7,4,8,3,8,4,1,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,6,SS (I-X),8,Unrecognized,Rural,1,3,1,9,10,1,4,5,2,4,5,6,3,0,0,10,3,1,1,2,0,1,6,4,4,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,6,SS (I-X),8,Unrecognized,Rural,1,0,0,16,4,5,0,2,2,6,7,0,6,0,0,9,1,1,1,2,4,3,3,4,1,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,6,SS (I-X),8,Unrecognized,Rural,1,1,4,3,1,0,1,3,3,1,1,4,3,0,0,0,0,0,1,2,2,0,2,2,5,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,6,SS (I-X),8,Unrecognized,Rural,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,6,SS (I-X),8,Unrecognized,Rural,1,1,0,1,6,6,12,5,3,4,4,4,10,0,0,2,4,3,7,1,3,4,2,3,2,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,6,SS (I-X),8,Unrecognized,Rural,1,19,2,3,4,7,5,6,4,4,0,0,0,0,0,1,5,6,4,4,2,3,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,6,SS (I-X),8,Unrecognized,Urban,1,0,0,8,4,6,6,7,5,5,6,0,0,0,0,2,2,2,2,1,3,4,2,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,1,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,7,7,0,0,0,0,0,0,0,0,0,0,6,5,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,16,9,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,3,0,6,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,1,3,7,0,0,0,0,0,0,0,0,0,0,6,3,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,8,SS (IX-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,4,25,20,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,4,5,0,0,0,0,0,0,0,0,0,0,6,2,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,2,3,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,8,SS (IX-X),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,8,SS (IX-X),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,4,5,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,4,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,2,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,4,1,2,5,2,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,7,SS (VI-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,7,SS (VI-X),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,4,1,5,0,0,0,0,0,0,0,3,1,2,6,7,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,8,3,10,11,0,0,0,0,0,0,0,0,8,9,12,10,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,2,3,3,4,4,0,0,0,0,0,0,0,0,0,0,3,6,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,5,0,1,1,0,0,0,0,0,0,0,0,3,2,0,1,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,7,SS (VI-X),4,Government Aided,Urban,1,0,0,0,0,0,0,0,36,52,26,19,15,11,11,0,0,0,0,0,8,10,16,12,11,16,13,General
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,2,2,5,19,15,0,0,0,0,0,0,0,0,2,6,13,14,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,1,3,2,8,5,0,0,0,0,0,0,0,2,1,3,4,3,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,6,2,0,0,0,0,0,0,0,0,0,0,2,4,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,2,0,8,6,0,0,0,0,0,0,0,2,1,1,6,4,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,40,22,15,12,13,0,0,0,0,0,0,0,13,7,17,21,10,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,7,SS (VI-X),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,7,SS (VI-X),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,2,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,7,SS (VI-X),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,7,SS (VI-X),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,1,0,1,4,7,0,0,0,0,0,0,0,0,0,0,3,3,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,7,SS (VI-X),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,3,3,9,4,10,0,0,0,0,0,0,0,4,3,4,9,7,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,7,SS (VI-X),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,7,SS (VI-X),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,1,1,2,3,0,0,0,0,0,0,0,0,0,1,1,2,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,7,SS (VI-X),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,8,10,11,24,37,0,0,0,0,0,0,0,6,5,6,15,14,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,7,SS (VI-X),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,1,1,2,3,2,3,4,2,2,0,0,0,3,3,3,2,2,4,2,3,0,1,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,10,9,10,10,5,15,16,11,1,1,0,0,10,11,7,10,16,21,10,17,1,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,6,3,4,5,1,4,0,1,0,0,0,0,2,4,8,4,4,9,5,2,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,0,3,0,2,1,1,0,0,0,0,0,0,3,3,1,2,2,1,1,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,2,5,5,0,2,4,1,5,2,2,0,0,3,4,4,2,1,7,4,5,2,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,30,15,23,23,23,32,28,27,1,1,0,0,23,16,12,22,27,30,33,35,2,2,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,9,17,22,9,12,32,13,20,0,0,0,0,27,14,12,14,11,25,21,18,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,29,29,20,13,23,31,14,12,1,3,0,0,35,25,26,22,31,22,18,17,0,1,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,13,12,10,11,13,5,5,1,0,0,0,0,12,8,14,14,14,8,25,8,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,3,4,1,3,1,6,4,1,0,0,0,0,1,2,5,1,2,3,7,2,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,12,9,4,10,7,14,5,4,0,0,0,0,3,10,9,14,12,10,13,3,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,8,1,5,2,2,0,1,0,0,0,0,0,5,2,4,3,1,1,2,1,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,3,7,8,4,4,8,7,7,0,0,0,0,8,9,7,5,12,6,9,9,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,2,UPS (I-VIII),4,Government Aided,Rural,1,3,2,2,0,0,0,1,1,0,0,0,0,0,0,3,1,1,3,0,2,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,2,UPS (I-VIII),4,Government Aided,Rural,1,1,0,5,6,2,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,0,4,1,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,25,2,6,9,7,10,1,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,2,0,1,1,2,2,4,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,2,UPS (I-VIII),4,Government Aided,Rural,1,4,0,8,7,11,9,13,17,1,1,0,0,0,0,5,8,6,2,6,5,4,2,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,2,UPS (I-VIII),4,Government Aided,Rural,1,1,3,1,1,2,0,3,0,0,0,0,0,0,0,2,1,1,0,1,0,1,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,1,0,1,1,1,0,3,1,0,0,0,0,0,0,0,0,0,2,1,2,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,2,UPS (I-VIII),4,Government Aided,Rural,1,0,0,7,10,7,6,7,6,4,10,0,0,0,0,2,3,3,1,2,1,0,2,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,2,UPS (I-VIII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,2,UPS (I-VIII),4,Government Aided,Urban,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,3,1,2,1,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,2,2,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,2,UPS (I-VIII),7,Central Govt,Urban,1,0,0,0,2,4,1,3,4,5,5,1,2,0,0,0,2,1,2,3,0,3,0,2,2,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,2,UPS (I-VIII),8,Unrecognized,Rural,1,3,0,0,1,1,0,0,3,0,0,0,0,0,0,0,1,1,3,0,1,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,2,UPS (I-VIII),8,Unrecognized,Rural,1,1,2,3,4,4,4,2,3,2,2,1,0,0,0,4,4,4,4,2,2,1,1,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,2,UPS (I-VIII),8,Unrecognized,Rural,1,10,12,8,12,9,4,5,4,0,0,0,0,0,0,7,6,3,7,8,5,2,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,2,UPS (I-VIII),8,Unrecognized,Rural,1,3,0,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,2,UPS (I-VIII),8,Unrecognized,Rural,1,7,5,2,4,0,0,2,0,0,2,0,0,0,0,5,1,1,0,1,1,0,3,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,2,UPS (I-VIII),8,Unrecognized,Rural,1,9,5,30,20,16,11,9,17,14,3,0,0,0,0,20,18,10,4,10,12,4,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,2,UPS (I-VIII),8,Unrecognized,Rural,1,4,2,7,4,3,6,5,3,3,5,4,0,0,0,2,5,1,1,3,5,1,4,2,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,2,UPS (I-VIII),8,Unrecognized,Rural,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,2,UPS (I-VIII),8,Unrecognized,Rural,1,31,23,27,39,40,31,5,29,20,15,0,0,0,0,25,7,7,10,12,13,11,13,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,2,UPS (I-VIII),8,Unrecognized,Rural,1,15,17,3,3,3,2,5,4,1,0,0,0,0,0,4,5,3,2,4,8,2,5,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,2,UPS (I-VIII),8,Unrecognized,Rural,1,25,25,5,5,0,3,6,5,0,8,0,0,0,0,4,3,2,0,1,1,5,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,2,UPS (I-VIII),8,Unrecognized,Urban,1,18,8,26,14,9,26,28,12,14,5,0,0,0,0,16,18,6,20,19,6,13,10,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,4,UPS (VI-VIII),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,4,UPS (VI-VIII),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,4,UPS (VI-VIII),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,6,2,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,0,General
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,3,HSS (I-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,2,2,4,2,0,0,0,0,0,0,0,0,0,0,4,3,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,7,5,2,3,4,2,16,18,19,29,25,13,29,26,3,4,2,4,9,20,18,16,24,14,10,27,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,0,0,2,3,0,3,0,0,0,1,1,1,0,0,3,0,2,2,3,3,0,1,0,4,1,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,3,HSS (I-XII),7,Central Govt,Rural,2,0,0,0,0,0,0,1,1,1,1,2,1,2,2,0,0,0,0,2,2,1,2,1,1,1,1,SC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,3,15,1,5,0,0,0,0,0,0,0,0,8,5,4,3,SC
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,0,0,0,1,1,SC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,4,7,11,2,2,0,0,0,0,0,0,0,8,9,12,3,3,SC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,2,12,11,3,5,0,0,0,0,0,0,0,3,19,27,4,7,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,10,HSS (IX-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,2,28,23,104,204,0,0,0,0,0,0,0,0,0,0,119,204,SC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,2,2,1,9,5,27,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,2,3,2,2,2,SC
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,5,4,1,4,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,5,0,0,2,2,SC
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,SC
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,3,1,SC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,2,2,1,3,3,SC
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,1,0,3,2,SC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,3,6,4,4,2,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,5,HSS (VI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,1,SC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,8,9,0,0,0,0,0,0,0,0,0,0,4,8,SC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,11,HSS (XI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,21,32,0,0,0,0,0,0,0,0,0,0,15,24,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,11,HSS (XI-XII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,10,11,0,0,0,0,0,0,0,0,0,0,9,10,SC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,11,HSS (XI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,9,6,0,0,0,0,0,0,0,0,0,0,1,5,SC
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,11,HSS (XI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,10,20,0,0,0,0,0,0,0,0,0,0,20,5,SC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,11,HSS (XI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,10,11,0,0,0,0,0,0,0,0,0,0,6,5,SC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,90,SC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,1,PS (I-V),1,Department of Education,Rural,2,0,0,32,24,24,23,13,2,2,0,0,0,0,0,33,23,22,16,23,1,1,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,1,PS (I-V),1,Department of Education,Rural,2,0,0,33,21,19,21,12,0,1,1,0,0,0,0,17,26,23,25,17,0,0,2,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,1,PS (I-V),1,Department of Education,Rural,2,0,0,7,7,9,3,5,0,0,0,0,0,0,0,14,10,14,6,4,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,1,PS (I-V),1,Department of Education,Rural,2,0,0,15,8,16,10,8,0,0,0,0,0,0,0,28,16,15,13,8,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,1,PS (I-V),1,Department of Education,Rural,2,0,0,9,15,7,7,6,0,0,0,0,0,0,0,8,4,10,3,6,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),1,Department of Education,Rural,2,0,0,46,52,29,26,25,0,0,0,0,0,0,0,67,48,37,40,28,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,1,PS (I-V),1,Department of Education,Rural,2,0,0,13,10,17,7,5,0,0,0,0,0,0,0,6,16,10,10,2,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,1,PS (I-V),1,Department of Education,Rural,2,0,0,4,3,6,2,5,0,0,0,0,0,0,0,2,4,3,1,4,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,1,PS (I-V),1,Department of Education,Rural,2,0,0,30,15,13,8,12,0,0,0,0,0,0,0,22,9,22,12,11,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,1,PS (I-V),1,Department of Education,Rural,2,0,0,8,6,8,6,9,0,0,0,0,0,0,0,11,4,4,6,3,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,1,PS (I-V),1,Department of Education,Rural,2,0,0,72,52,45,36,32,0,0,0,0,0,0,0,56,47,51,33,34,1,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,1,PS (I-V),1,Department of Education,Rural,2,0,0,9,7,3,3,0,0,0,0,0,0,0,0,3,5,5,2,2,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,1,PS (I-V),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,1,PS (I-V),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,1,PS (I-V),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),1,Department of Education,Urban,2,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,1,PS (I-V),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,1,PS (I-V),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,1,PS (I-V),4,Government Aided,Rural,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,1,PS (I-V),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,1,PS (I-V),4,Government Aided,Rural,2,0,0,3,2,1,2,0,0,0,0,0,0,0,0,1,4,5,2,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,1,PS (I-V),4,Government Aided,Rural,2,0,0,9,6,11,11,3,0,0,0,0,0,0,0,12,7,6,3,5,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,1,PS (I-V),4,Government Aided,Rural,2,0,0,9,2,5,2,3,0,0,0,0,0,0,0,6,6,4,3,3,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),4,Government Aided,Rural,2,0,0,5,5,3,5,5,0,0,0,0,0,0,0,10,2,3,3,7,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,1,PS (I-V),4,Government Aided,Rural,2,0,0,3,1,0,0,0,0,0,0,0,0,0,0,5,2,0,0,1,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,1,PS (I-V),4,Government Aided,Rural,2,0,0,3,4,7,5,2,0,0,0,0,0,0,0,4,3,4,5,5,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,1,PS (I-V),4,Government Aided,Rural,2,1,2,39,25,10,8,4,0,0,0,0,0,0,0,37,24,20,15,2,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,1,PS (I-V),4,Government Aided,Rural,2,0,0,5,8,3,13,7,0,0,0,0,0,0,0,6,7,4,8,8,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,1,PS (I-V),4,Government Aided,Rural,2,0,0,9,6,14,3,10,0,0,0,0,0,0,0,6,4,5,1,9,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,1,PS (I-V),4,Government Aided,Rural,2,0,0,4,4,5,1,4,0,0,0,0,0,0,0,12,4,5,1,2,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),4,Government Aided,Urban,2,1,1,2,3,3,8,0,0,0,0,0,0,0,0,1,0,2,2,4,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,1,6,1,7,2,1,2,0,0,0,0,0,0,0,1,4,1,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,1,PS (I-V),8,Unrecognized,Rural,2,149,130,13,16,7,5,3,4,0,0,0,0,0,0,11,15,6,5,2,2,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,1,PS (I-V),8,Unrecognized,Rural,2,14,5,20,17,19,16,15,2,4,3,0,0,0,0,24,14,14,22,15,1,1,1,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,1,PS (I-V),8,Unrecognized,Rural,2,8,2,3,1,4,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,1,PS (I-V),8,Unrecognized,Rural,2,0,0,0,5,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),8,Unrecognized,Rural,2,19,5,25,13,6,6,17,0,0,0,0,0,0,0,9,19,3,2,2,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,1,PS (I-V),8,Unrecognized,Rural,2,8,5,29,9,11,7,3,0,1,0,1,1,0,0,29,10,4,7,4,1,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,1,PS (I-V),8,Unrecognized,Rural,2,17,17,20,10,7,3,1,0,0,0,0,0,0,0,11,10,4,4,1,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,1,PS (I-V),8,Unrecognized,Rural,2,6,0,2,1,2,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,1,PS (I-V),8,Unrecognized,Rural,2,22,20,11,0,1,1,0,0,0,0,0,0,0,0,7,1,1,2,1,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,1,PS (I-V),8,Unrecognized,Rural,2,0,0,4,6,0,0,0,0,0,0,0,0,0,0,6,5,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,1,PS (I-V),8,Unrecognized,Urban,2,5,2,3,0,1,1,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),8,Unrecognized,Urban,2,17,14,10,3,3,4,4,1,1,0,0,0,0,0,12,3,3,7,2,1,1,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,1,PS (I-V),98,Madarsa unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),98,Madarsa unrecognized,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,6,SS (I-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,6,SS (I-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,6,SS (I-X),1,Department of Education,Rural,2,0,0,1,1,0,0,0,3,0,4,4,4,0,0,0,0,0,0,2,2,1,2,9,2,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,6,SS (I-X),1,Department of Education,Rural,2,0,0,1,0,0,1,2,4,2,2,4,0,0,0,0,0,1,1,2,1,1,0,1,1,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,6,SS (I-X),1,Department of Education,Rural,2,0,0,9,11,7,14,15,12,15,15,10,15,0,0,2,7,5,8,16,14,9,11,8,9,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,6,SS (I-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,6,SS (I-X),1,Department of Education,Rural,2,0,0,12,2,4,4,4,0,2,0,0,1,0,0,5,9,2,6,2,3,7,6,1,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,6,SS (I-X),1,Department of Education,Rural,2,0,0,1,0,0,1,1,1,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,6,SS (I-X),1,Department of Education,Rural,2,0,0,7,5,3,5,2,2,2,0,0,0,0,0,3,2,5,8,5,0,4,1,0,3,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,6,SS (I-X),1,Department of Education,Rural,2,0,0,1,0,0,0,0,0,0,0,2,2,0,0,1,1,0,0,0,0,0,0,0,1,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,6,SS (I-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,1,0,1,0,0,1,0,0,1,1,0,0,2,0,0,0,0,0,1,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,6,SS (I-X),8,Unrecognized,Rural,2,0,0,3,1,3,2,5,5,4,3,4,2,0,0,2,5,4,3,3,3,6,6,3,1,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,6,SS (I-X),8,Unrecognized,Rural,2,0,3,1,1,2,0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,6,SS (I-X),8,Unrecognized,Rural,2,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,6,SS (I-X),8,Unrecognized,Rural,2,0,0,0,1,2,1,0,3,1,4,4,0,0,0,1,2,1,0,2,0,0,1,2,1,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,6,SS (I-X),8,Unrecognized,Rural,2,5,2,8,0,1,1,0,9,0,2,5,2,0,0,5,0,1,2,0,4,0,2,1,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,6,SS (I-X),8,Unrecognized,Rural,2,0,0,3,2,3,2,0,0,1,0,2,0,0,0,2,3,2,1,0,0,0,0,0,2,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,6,SS (I-X),8,Unrecognized,Rural,2,1,2,3,0,1,0,0,0,0,0,1,4,0,0,1,0,0,1,1,0,0,0,2,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,6,SS (I-X),8,Unrecognized,Rural,2,0,0,0,0,0,2,1,0,2,0,0,1,0,0,2,0,0,1,1,1,1,0,1,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,6,SS (I-X),8,Unrecognized,Rural,2,3,0,5,4,1,3,2,1,1,0,2,3,0,0,5,7,2,0,0,2,5,1,1,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,6,SS (I-X),8,Unrecognized,Rural,2,1,2,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,6,SS (I-X),8,Unrecognized,Urban,2,0,0,4,3,8,3,2,2,2,2,0,0,0,0,2,1,3,2,2,1,2,3,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,4,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,1,7,2,1,2,0,0,0,0,0,0,0,0,3,0,1,1,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,6,16,0,0,0,0,0,0,0,0,3,0,7,13,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,7,6,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,3,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,1,2,2,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,1,6,1,0,0,0,0,0,0,0,0,0,4,10,3,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,8,SS (IX-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,18,15,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,2,2,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,15,5,0,0,0,0,0,0,0,0,0,0,2,4,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,8,SS (IX-X),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,1,17,0,0,0,0,0,0,0,0,0,0,4,15,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,8,SS (IX-X),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,3,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,8,1,4,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,5,0,1,6,2,0,0,0,0,0,0,0,3,0,18,35,45,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,1,0,0,5,0,0,0,0,0,0,0,0,0,0,4,4,6,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,3,8,11,6,10,0,0,0,0,0,0,0,3,14,9,15,7,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,4,5,2,0,0,0,0,0,0,0,0,2,5,5,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,1,14,10,13,15,0,0,0,0,0,0,0,2,8,10,6,4,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,3,1,3,10,9,0,0,0,0,0,0,0,0,1,4,9,9,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,6,3,3,0,0,0,0,0,0,0,0,2,0,3,1,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,7,SS (VI-X),4,Government Aided,Urban,2,0,0,0,0,0,0,0,1,7,4,12,7,3,8,0,0,0,0,0,6,4,6,10,5,20,12,SC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,2,3,1,0,0,0,0,0,0,0,0,1,1,2,4,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,4,4,6,1,0,0,0,0,0,0,0,0,5,4,8,2,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,9,3,3,6,5,0,0,0,0,0,0,0,1,2,2,3,2,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,1,7,0,0,0,0,0,0,0,0,0,0,6,4,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,3,3,1,3,4,0,0,0,0,0,0,0,2,1,1,2,3,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,6,6,20,7,7,0,0,0,0,0,0,0,1,2,5,3,1,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,7,SS (VI-X),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,7,SS (VI-X),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,1,3,2,0,0,0,0,0,0,0,0,0,0,2,1,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,7,SS (VI-X),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,7,SS (VI-X),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,7,SS (VI-X),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,7,3,7,5,13,0,0,0,0,0,0,0,5,9,3,6,10,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,7,SS (VI-X),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,4,1,0,1,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,7,SS (VI-X),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,1,3,2,4,5,0,0,0,0,0,0,0,0,1,4,6,3,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,7,SS (VI-X),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,6,20,6,0,0,0,0,0,0,0,4,0,2,11,5,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,7,SS (VI-X),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,8,5,4,3,3,0,0,0,0,0,0,0,5,0,0,4,2,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,19,5,5,1,1,3,1,4,1,1,0,0,17,8,9,2,11,0,2,2,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,28,31,21,21,27,28,15,15,2,1,0,0,19,28,19,11,15,22,19,11,2,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,5,13,11,13,15,8,4,3,0,0,0,0,4,7,7,4,8,9,8,6,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,13,12,9,8,13,13,16,7,0,0,0,0,7,3,7,9,10,15,15,4,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,18,32,31,38,25,55,38,16,6,8,0,0,29,31,27,27,22,37,19,25,2,2,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,72,54,43,44,57,55,39,42,4,0,0,0,68,47,50,39,45,58,56,35,4,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,7,12,10,7,2,3,4,3,1,0,0,0,8,8,1,9,3,4,4,8,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,12,10,10,17,8,4,7,11,0,0,0,0,6,9,4,6,3,5,7,9,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,2,UPS (I-VIII),1,Department of Education,Rural,2,1,1,38,19,23,20,21,26,26,6,0,0,0,0,31,26,38,19,26,23,24,11,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,14,26,11,11,19,23,21,15,0,0,0,0,20,26,12,20,18,22,18,14,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,39,40,44,38,36,43,34,24,1,0,0,0,38,41,39,40,26,48,40,27,5,3,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,5,10,3,9,5,2,3,4,0,0,0,0,14,1,11,11,9,5,7,3,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,15,14,16,15,14,20,19,8,0,0,0,0,13,16,15,19,16,20,15,12,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,2,UPS (I-VIII),4,Government Aided,Rural,2,1,2,1,0,0,1,0,0,0,0,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,2,UPS (I-VIII),4,Government Aided,Rural,2,2,3,3,3,0,1,2,2,0,1,0,0,0,0,0,3,4,3,6,2,1,1,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,2,UPS (I-VIII),4,Government Aided,Rural,2,0,2,3,2,10,10,15,8,3,0,0,0,0,0,5,10,5,6,11,10,3,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,3,2,2,1,5,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,6,3,15,6,5,1,1,1,0,0,0,0,0,2,7,3,2,1,2,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,16,4,8,10,6,8,6,0,0,0,0,0,12,9,5,3,6,5,4,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,2,UPS (I-VIII),4,Government Aided,Rural,2,3,0,12,18,13,19,15,17,4,1,0,0,0,0,16,11,10,11,12,6,1,1,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,2,UPS (I-VIII),4,Government Aided,Rural,2,4,4,5,11,3,3,7,5,3,0,0,0,0,0,3,3,9,6,6,2,0,1,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,13,6,7,4,8,10,2,10,0,0,0,0,6,4,3,5,4,10,5,8,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,2,UPS (I-VIII),4,Government Aided,Rural,2,0,0,0,1,2,1,5,5,0,1,0,0,0,0,1,1,1,0,0,2,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,2,UPS (I-VIII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,2,UPS (I-VIII),4,Government Aided,Urban,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,1,1,1,1,0,1,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,2,UPS (I-VIII),7,Central Govt,Urban,2,0,0,0,3,1,1,3,0,0,2,2,0,0,0,0,1,0,1,2,1,1,1,3,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,2,UPS (I-VIII),8,Unrecognized,Rural,2,2,0,0,0,2,2,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,2,UPS (I-VIII),8,Unrecognized,Rural,2,4,1,3,5,3,7,5,4,10,4,1,1,0,0,3,4,2,5,4,3,12,6,1,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,2,UPS (I-VIII),8,Unrecognized,Rural,2,5,8,4,3,3,2,3,2,0,0,0,0,0,0,2,4,2,3,4,3,2,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,2,UPS (I-VIII),8,Unrecognized,Rural,2,9,2,1,10,5,9,3,1,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,2,UPS (I-VIII),8,Unrecognized,Rural,2,10,7,4,4,1,1,1,1,2,3,0,0,0,0,3,1,3,2,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,2,UPS (I-VIII),8,Unrecognized,Rural,2,1,3,38,27,37,33,22,14,17,9,0,0,0,0,36,26,21,24,13,6,10,3,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,2,UPS (I-VIII),8,Unrecognized,Rural,2,0,1,7,2,4,3,4,0,2,0,4,5,0,0,2,2,3,2,0,0,2,0,1,3,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,2,UPS (I-VIII),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,2,UPS (I-VIII),8,Unrecognized,Rural,2,12,9,3,2,24,24,0,3,0,2,0,0,0,0,3,0,10,21,1,0,0,2,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,2,UPS (I-VIII),8,Unrecognized,Rural,2,2,1,1,1,1,0,1,0,1,0,0,0,0,0,0,1,1,0,0,10,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,2,UPS (I-VIII),8,Unrecognized,Rural,2,54,55,18,10,17,11,12,7,5,8,0,0,0,0,18,8,10,12,14,11,3,6,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,2,UPS (I-VIII),8,Unrecognized,Urban,2,6,2,5,7,24,9,6,4,10,6,0,0,0,0,3,6,10,9,13,4,3,15,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,4,UPS (VI-VIII),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,4,UPS (VI-VIII),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,1,3,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,4,UPS (VI-VIII),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,1,7,0,0,0,0,0,0,0,0,0,0,6,4,0,0,0,0,SC
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,3,HSS (I-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,150,179,141,221,0,0,0,0,0,0,0,0,0,0,223,254,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,23,26,12,28,16,19,12,7,13,4,16,9,7,18,11,9,16,13,15,2,7,7,17,2,10,11,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,56,40,33,48,41,30,26,19,17,17,1,0,45,56,49,59,52,32,56,31,14,23,4,12,ST
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,3,HSS (I-XII),7,Central Govt,Rural,3,0,0,0,0,0,0,4,3,6,4,6,2,2,3,0,0,0,0,5,2,5,3,4,4,1,2,ST
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,131,212,50,56,0,0,0,0,0,0,0,0,124,190,53,67,ST
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,35,40,21,19,0,0,0,0,0,0,0,0,33,26,22,15,ST
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,103,162,59,51,0,0,0,0,0,0,0,0,0,0,31,96,ST
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,49,71,70,26,14,0,0,0,0,0,0,0,59,90,84,49,62,ST
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,34,55,39,15,8,0,0,0,0,0,0,0,31,58,48,38,27,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,10,HSS (IX-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,21,171,119,105,217,0,0,0,0,0,0,0,0,0,0,51,209,ST
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,3,3,139,89,51,62,0,0,0,0,0,45,45,48,185,124,75,105,ST
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,30,32,36,35,31,27,ST
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,42,43,44,28,22,25,ST
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,35,29,27,26,27,18,ST
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,34,34,29,18,22,10,ST
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,40,35,38,17,24,22,ST
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,33,30,18,21,14,18,ST
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,25,26,29,16,15,15,ST
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,29,31,35,30,30,7,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,5,HSS (VI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,30,31,23,22,19,20,ST
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,3,6,0,0,0,0,0,0,0,0,0,0,8,4,ST
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,11,HSS (XI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,416,415,0,0,0,0,0,0,0,0,0,0,222,298,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,11,HSS (XI-XII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,140,140,0,0,0,0,0,0,0,0,0,0,113,113,ST
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,11,HSS (XI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,161,190,0,0,0,0,0,0,0,0,0,0,137,114,ST
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,11,HSS (XI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,40,53,0,0,0,0,0,0,0,0,0,0,30,50,ST
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,11,HSS (XI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,134,143,0,0,0,0,0,0,0,0,0,0,142,156,ST
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,48,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,20,ST
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,1,PS (I-V),1,Department of Education,Rural,3,0,0,665,419,343,278,248,5,3,0,0,0,0,0,674,440,370,292,242,5,1,2,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,1,PS (I-V),1,Department of Education,Rural,3,0,0,979,672,636,568,505,10,6,10,0,0,0,0,989,702,690,614,506,17,4,7,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,1,PS (I-V),1,Department of Education,Rural,3,0,0,222,260,218,146,123,0,2,0,0,0,0,0,261,250,189,156,157,1,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,1,PS (I-V),1,Department of Education,Rural,3,0,0,220,160,125,100,95,2,2,2,0,0,0,0,172,165,98,91,90,2,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,1,PS (I-V),1,Department of Education,Rural,3,16,7,220,174,130,119,119,0,0,0,0,0,0,0,206,153,143,128,107,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),1,Department of Education,Rural,3,0,0,671,489,487,401,375,0,0,0,0,0,0,0,728,542,545,477,499,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,1,PS (I-V),1,Department of Education,Rural,3,0,0,811,502,447,382,324,0,0,0,0,0,0,0,829,590,468,407,309,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,1,PS (I-V),1,Department of Education,Rural,3,0,0,429,309,289,256,256,0,0,0,0,0,0,0,469,384,314,276,267,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,1,PS (I-V),1,Department of Education,Rural,3,0,0,242,206,165,152,116,0,1,0,0,0,0,0,235,216,199,138,117,3,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,1,PS (I-V),1,Department of Education,Rural,3,0,0,322,200,166,131,118,0,0,0,0,0,0,0,298,188,177,182,122,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,1,PS (I-V),1,Department of Education,Rural,3,0,0,366,300,270,214,149,0,0,0,0,0,0,0,417,330,255,210,188,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,1,PS (I-V),1,Department of Education,Rural,3,0,0,156,96,82,56,39,0,3,0,0,0,0,0,154,92,74,54,45,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,1,PS (I-V),1,Department of Education,Urban,3,0,0,12,3,6,5,2,0,0,0,0,0,0,0,9,10,6,3,6,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,1,PS (I-V),1,Department of Education,Urban,3,0,0,6,5,4,4,2,0,0,0,0,0,0,0,7,3,2,3,4,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,1,PS (I-V),1,Department of Education,Urban,3,0,0,8,2,2,4,2,0,0,0,0,0,0,0,3,6,3,3,5,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),1,Department of Education,Urban,3,0,0,28,28,24,40,28,0,0,0,0,0,0,0,28,23,29,33,20,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,1,PS (I-V),1,Department of Education,Urban,3,0,0,6,0,4,2,2,0,0,0,0,0,0,0,1,3,4,3,5,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,25,27,28,29,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,1,PS (I-V),2,Tribal Welfare Department,Rural,3,0,0,20,20,20,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,1,PS (I-V),4,Government Aided,Rural,3,0,0,115,118,49,48,36,0,0,0,0,0,0,0,122,88,59,53,41,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,1,PS (I-V),4,Government Aided,Rural,3,0,0,29,36,27,33,20,0,0,0,0,0,0,0,33,31,30,37,25,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,1,PS (I-V),4,Government Aided,Rural,3,32,29,158,150,101,126,98,0,0,0,0,0,0,0,166,127,137,118,124,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,1,PS (I-V),4,Government Aided,Rural,3,0,0,159,169,119,91,78,0,0,0,0,0,0,0,163,166,111,89,53,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,1,PS (I-V),4,Government Aided,Rural,3,5,9,175,103,111,98,63,0,0,0,0,0,0,0,141,122,105,99,73,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),4,Government Aided,Rural,3,0,0,193,157,153,122,101,0,0,0,0,0,0,0,176,139,110,117,116,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,1,PS (I-V),4,Government Aided,Rural,3,0,0,84,32,38,31,25,0,0,0,0,0,0,0,82,40,28,24,24,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,1,PS (I-V),4,Government Aided,Rural,3,0,0,76,29,49,48,44,0,0,0,0,0,0,0,56,37,33,40,36,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,1,PS (I-V),4,Government Aided,Rural,3,47,34,331,206,200,193,138,0,0,0,0,0,0,0,371,168,177,205,127,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,1,PS (I-V),4,Government Aided,Rural,3,0,0,226,190,167,162,148,0,0,0,0,0,0,0,243,183,174,175,142,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,1,PS (I-V),4,Government Aided,Rural,3,0,0,96,78,96,76,79,0,0,0,0,0,0,0,78,82,85,83,63,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,1,PS (I-V),4,Government Aided,Rural,3,0,0,123,74,63,49,47,0,0,0,0,0,0,0,119,74,48,51,44,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),4,Government Aided,Urban,3,46,23,69,83,90,97,74,0,0,0,0,0,0,0,95,93,142,112,112,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,9,3,6,4,0,0,0,0,0,0,0,0,3,3,3,1,0,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,11,10,5,5,14,5,10,0,0,0,0,0,0,0,3,3,10,11,4,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,1,PS (I-V),8,Unrecognized,Rural,3,19,7,3,7,2,4,2,0,0,0,0,0,0,0,6,2,2,0,0,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,1,PS (I-V),8,Unrecognized,Rural,3,88,71,269,204,207,234,232,91,68,58,0,0,0,0,261,191,216,199,161,53,49,47,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,1,PS (I-V),8,Unrecognized,Rural,3,55,34,33,35,37,25,33,0,0,0,0,0,0,0,27,15,18,6,16,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,1,PS (I-V),8,Unrecognized,Rural,3,0,0,32,21,18,14,0,0,0,0,0,0,0,0,25,12,12,5,0,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),8,Unrecognized,Rural,3,163,111,142,102,90,77,69,27,11,4,0,0,0,0,98,77,83,56,43,20,4,1,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,1,PS (I-V),8,Unrecognized,Rural,3,126,109,113,69,59,46,27,30,29,44,39,25,0,0,76,41,43,45,28,25,26,17,26,43,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,1,PS (I-V),8,Unrecognized,Rural,3,310,205,205,138,75,43,16,0,0,0,0,0,0,0,154,98,68,19,15,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,1,PS (I-V),8,Unrecognized,Rural,3,103,63,35,19,6,9,7,5,0,0,0,0,0,0,21,12,6,3,1,1,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,1,PS (I-V),8,Unrecognized,Rural,3,40,32,13,8,5,0,0,0,0,0,0,0,0,0,8,9,1,0,1,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,1,PS (I-V),8,Unrecognized,Rural,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,1,PS (I-V),8,Unrecognized,Urban,3,56,39,30,29,26,27,14,0,0,0,0,0,0,0,18,14,14,14,22,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),8,Unrecognized,Urban,3,37,25,26,17,20,20,16,5,4,0,0,0,0,0,23,20,21,20,17,5,4,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,1,PS (I-V),98,Madarsa unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),98,Madarsa unrecognized,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,6,SS (I-X),1,Department of Education,Rural,3,0,0,22,14,15,15,20,23,10,11,24,39,0,0,11,21,20,5,13,8,16,13,23,12,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,6,SS (I-X),1,Department of Education,Rural,3,0,0,1,1,2,0,2,2,0,1,1,0,0,0,2,0,4,0,1,2,1,0,1,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,6,SS (I-X),1,Department of Education,Rural,3,0,0,7,10,4,7,6,18,7,24,51,26,0,0,6,4,7,9,6,17,12,21,30,28,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,6,SS (I-X),1,Department of Education,Rural,3,0,0,31,25,21,20,23,42,25,34,46,49,0,0,37,44,36,18,34,38,31,43,61,40,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,6,SS (I-X),1,Department of Education,Rural,3,0,0,20,17,28,32,46,82,67,73,123,105,0,0,24,30,42,28,59,69,77,67,113,65,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,6,SS (I-X),1,Department of Education,Rural,3,0,0,36,26,27,35,33,102,95,110,76,82,0,0,30,36,19,39,40,103,116,109,89,105,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,6,SS (I-X),1,Department of Education,Rural,3,0,0,1,3,4,0,6,8,9,18,10,9,0,0,2,3,5,8,6,9,12,21,6,12,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,6,SS (I-X),1,Department of Education,Rural,3,0,0,9,9,8,5,7,17,23,11,15,5,0,0,10,7,1,9,9,14,11,10,9,3,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,6,SS (I-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,1,0,2,0,3,0,0,2,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,6,SS (I-X),1,Department of Education,Rural,3,0,0,34,18,20,33,17,25,27,22,21,12,0,0,29,15,24,28,10,24,24,12,9,13,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,6,SS (I-X),2,Tribal Welfare Department,Rural,3,0,0,34,32,46,33,40,23,60,64,70,48,0,0,13,10,9,25,22,11,44,25,41,47,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,51,38,48,45,41,43,49,32,26,25,0,0,32,37,28,38,33,26,32,29,12,13,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,6,SS (I-X),8,Unrecognized,Rural,3,0,0,2,2,5,2,5,3,1,5,12,3,0,0,3,4,3,6,4,2,2,3,5,2,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,6,SS (I-X),8,Unrecognized,Rural,3,39,17,24,19,18,11,9,8,5,12,10,7,0,0,10,8,8,13,8,7,5,9,7,5,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,6,SS (I-X),8,Unrecognized,Rural,3,31,14,30,34,34,45,29,30,30,14,16,7,0,0,17,24,29,28,15,14,16,7,4,8,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,6,SS (I-X),8,Unrecognized,Rural,3,7,8,47,56,60,61,76,73,58,68,66,66,0,0,46,52,52,44,49,61,76,89,71,71,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,6,SS (I-X),8,Unrecognized,Rural,3,45,34,80,77,91,79,69,64,51,50,84,71,0,0,56,54,45,49,43,49,57,71,57,54,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,6,SS (I-X),8,Unrecognized,Rural,3,0,0,59,40,35,46,36,57,49,60,62,71,0,0,35,31,31,29,27,28,30,40,71,51,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,6,SS (I-X),8,Unrecognized,Rural,3,10,14,11,11,6,8,8,9,10,7,6,3,0,0,7,6,7,5,1,3,12,8,7,8,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,6,SS (I-X),8,Unrecognized,Rural,3,0,0,1,0,1,0,3,0,0,0,1,0,0,0,1,0,1,0,0,0,0,2,1,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,6,SS (I-X),8,Unrecognized,Rural,3,20,4,24,31,25,24,29,27,28,29,23,30,0,0,21,27,26,27,44,21,31,29,36,38,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,6,SS (I-X),8,Unrecognized,Rural,3,24,26,19,18,14,20,19,10,9,11,9,5,0,0,16,17,4,15,7,12,11,11,3,14,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,6,SS (I-X),8,Unrecognized,Urban,3,0,0,0,0,0,0,3,1,3,3,0,0,0,0,0,0,0,2,4,1,4,2,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,102,104,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,49,49,0,0,0,0,0,0,0,0,0,0,52,61,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,18,92,40,11,20,0,0,0,0,0,0,0,50,21,30,27,21,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,3,20,185,213,0,0,0,0,0,0,0,0,1,15,192,287,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,77,76,0,0,0,0,0,0,0,0,0,45,254,262,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,10,27,68,0,0,0,0,0,0,0,0,6,68,156,199,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,11,30,24,0,0,0,0,0,0,0,0,0,24,27,39,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,5,34,20,0,0,0,0,0,0,0,0,0,4,26,24,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,8,SS (IX-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,14,11,0,0,0,0,0,0,0,0,0,47,149,128,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,50,45,0,0,0,0,0,0,0,0,0,0,40,25,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,118,106,0,0,0,0,0,0,0,0,0,0,96,57,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,95,89,0,0,0,0,0,0,0,0,0,0,99,68,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,8,SS (IX-X),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,26,1,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,8,SS (IX-X),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,57,45,0,0,0,0,0,0,0,0,0,0,40,20,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,15,12,14,49,0,0,0,0,0,0,0,0,16,13,14,46,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,20,36,57,61,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,4,20,14,11,14,0,0,0,0,0,0,0,3,7,16,8,15,ST
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,12,18,9,0,0,0,0,0,0,0,0,8,35,87,45,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,2,0,19,20,16,0,0,0,0,0,0,0,3,0,15,40,14,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,3,13,8,8,0,0,0,0,0,0,0,0,3,6,7,9,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,5,2,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,2,0,11,22,10,0,0,0,0,0,0,0,9,6,25,43,21,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,28,36,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,46,56,33,29,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,41,38,38,33,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,71,241,320,373,329,0,0,0,0,0,0,0,69,279,378,339,326,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,87,115,97,109,0,0,0,0,0,0,0,0,85,121,99,91,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,34,76,95,125,121,0,0,0,0,0,0,0,23,30,48,92,97,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,63,238,204,234,182,0,0,0,0,0,0,0,44,210,207,203,215,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,28,21,46,79,85,0,0,0,0,0,0,0,8,27,17,68,69,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,13,34,32,26,0,0,0,0,0,0,0,0,41,26,26,37,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,7,SS (VI-X),4,Government Aided,Urban,3,0,0,0,0,0,0,0,124,248,294,326,193,194,224,0,0,0,0,0,174,212,224,295,244,392,371,ST
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,45,28,47,47,0,0,0,0,0,0,0,0,42,29,43,27,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,45,36,30,31,0,0,0,0,0,0,0,0,18,25,21,26,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,10,49,57,166,84,0,0,0,0,0,0,0,14,45,76,101,46,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,41,59,56,113,134,0,0,0,0,0,0,0,52,38,46,99,100,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,37,41,0,0,0,0,0,0,0,0,0,0,28,27,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,9,9,10,40,35,0,0,0,0,0,0,0,8,7,7,35,23,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,116,153,164,190,163,0,0,0,0,0,0,0,64,72,90,103,69,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,7,SS (VI-X),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,10,26,30,22,16,0,0,0,0,0,0,0,10,41,28,19,28,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,7,SS (VI-X),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,100,128,119,0,0,0,0,0,0,0,0,0,56,94,75,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,7,SS (VI-X),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,27,29,16,13,21,0,0,0,0,0,0,0,26,24,24,25,22,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,7,SS (VI-X),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,10,14,6,31,42,0,0,0,0,0,0,0,3,12,9,36,31,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,7,SS (VI-X),8,Unrecognized,Rural,3,20,9,0,0,0,0,0,55,54,63,84,61,0,0,0,0,0,0,0,37,51,48,49,49,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,7,SS (VI-X),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,29,25,26,23,12,0,0,0,0,0,0,0,40,27,31,17,23,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,7,SS (VI-X),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,46,89,141,166,123,0,0,0,0,0,0,0,35,95,121,181,165,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,7,SS (VI-X),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,38,51,36,104,145,0,0,0,0,0,0,0,47,40,40,87,72,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,7,SS (VI-X),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,1,8,3,6,11,0,0,0,0,0,0,0,0,2,6,1,8,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,534,344,292,276,290,364,246,202,53,33,0,0,535,392,349,299,301,329,288,238,43,32,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,621,471,494,486,406,469,409,356,42,41,0,0,621,547,560,524,501,606,535,491,37,17,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,201,230,185,194,204,212,169,116,10,10,0,0,188,224,195,176,212,220,162,106,14,7,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,149,175,149,141,134,168,166,131,0,0,0,0,137,155,129,145,146,164,162,83,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,229,267,223,228,238,255,218,161,39,32,0,0,258,252,230,224,213,219,271,192,34,34,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,626,576,613,602,579,767,663,563,22,11,0,0,604,568,598,646,652,790,697,643,29,9,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,582,437,430,421,405,538,451,394,15,8,0,0,597,472,419,426,473,564,542,444,12,8,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,557,384,355,429,348,396,354,352,15,12,0,0,501,417,392,370,401,490,430,409,15,16,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,2,UPS (I-VIII),1,Department of Education,Rural,3,2,1,227,194,210,176,199,221,159,75,0,0,0,0,220,198,198,205,205,213,162,113,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,289,217,186,213,191,184,168,126,7,4,0,0,311,193,211,224,216,210,153,128,2,4,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,231,214,220,237,230,238,246,178,14,0,0,0,235,250,201,270,221,303,218,153,14,5,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,53,60,28,32,34,43,31,10,0,0,0,0,47,35,43,37,33,37,11,18,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,22,18,22,33,53,90,74,63,0,0,0,0,19,23,31,24,51,99,100,80,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,3,3,3,1,1,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,11,16,17,12,6,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,0,0,25,17,15,15,9,7,61,27,25,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,0,0,15,10,20,16,12,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,2,UPS (I-VIII),4,Government Aided,Rural,3,101,79,52,60,47,51,66,63,0,0,0,0,0,0,50,45,63,55,46,54,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,2,UPS (I-VIII),4,Government Aided,Rural,3,80,70,81,48,72,76,77,59,28,37,0,0,0,0,78,78,60,54,77,82,39,52,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,2,UPS (I-VIII),4,Government Aided,Rural,3,87,151,155,214,216,192,191,182,19,0,0,0,0,0,171,226,231,216,254,205,47,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,96,118,104,106,105,107,0,0,0,0,0,0,81,115,92,96,100,100,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,215,120,111,122,131,105,74,36,0,0,0,0,136,108,96,139,120,125,138,90,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,87,30,33,40,45,41,46,0,0,0,0,0,66,20,19,29,26,32,31,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,2,UPS (I-VIII),4,Government Aided,Rural,3,42,0,183,174,180,214,235,238,47,44,0,0,0,0,214,161,154,171,206,201,55,52,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,2,UPS (I-VIII),4,Government Aided,Rural,3,39,19,59,71,56,69,78,82,21,0,0,0,0,0,70,74,64,72,77,73,48,36,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,146,125,138,116,129,151,87,111,0,0,0,0,132,83,104,77,121,117,85,87,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,2,UPS (I-VIII),4,Government Aided,Rural,3,0,0,107,119,119,97,96,109,57,43,0,0,0,0,168,104,112,86,83,83,59,28,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,2,UPS (I-VIII),4,Government Aided,Urban,3,0,0,8,7,5,8,7,5,0,0,0,0,0,0,5,3,12,5,4,8,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,2,UPS (I-VIII),4,Government Aided,Urban,3,0,0,6,9,10,16,17,47,0,0,0,0,0,0,9,14,22,20,29,62,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,53,36,30,29,31,28,32,20,22,25,0,0,0,0,23,20,15,14,32,22,18,14,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,2,UPS (I-VIII),7,Central Govt,Urban,3,0,0,5,16,13,9,9,19,10,14,15,7,0,0,3,9,5,13,6,7,7,4,9,6,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,2,UPS (I-VIII),8,Unrecognized,Rural,3,60,35,53,41,55,39,36,25,18,11,0,0,0,0,24,37,24,22,31,26,17,12,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,2,UPS (I-VIII),8,Unrecognized,Rural,3,60,29,51,51,27,16,43,39,28,35,6,6,0,0,50,31,29,27,46,35,36,37,9,8,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,2,UPS (I-VIII),8,Unrecognized,Rural,3,20,10,4,8,6,3,8,3,1,0,0,0,0,0,1,4,4,7,5,2,2,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,2,UPS (I-VIII),8,Unrecognized,Rural,3,50,23,32,35,14,9,17,10,0,0,0,0,0,0,17,19,13,9,9,6,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,2,UPS (I-VIII),8,Unrecognized,Rural,3,21,12,18,19,12,6,13,5,3,11,0,0,0,0,10,4,5,6,5,6,7,1,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,2,UPS (I-VIII),8,Unrecognized,Rural,3,195,124,99,84,88,56,57,63,51,45,0,0,0,0,65,45,50,39,31,37,31,35,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,2,UPS (I-VIII),8,Unrecognized,Rural,3,9,9,56,62,57,41,51,42,33,46,34,71,0,0,33,34,47,27,19,28,17,16,35,50,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,0,13,15,20,18,21,16,9,5,0,0,0,0,11,5,11,13,14,5,11,8,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,2,UPS (I-VIII),8,Unrecognized,Rural,3,25,22,62,39,15,7,12,36,33,20,0,0,0,0,54,20,7,6,24,17,11,18,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,2,UPS (I-VIII),8,Unrecognized,Rural,3,5,6,1,1,2,4,6,2,1,0,0,0,0,0,3,2,3,1,0,2,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,2,UPS (I-VIII),8,Unrecognized,Rural,3,50,46,18,20,11,8,11,14,9,5,0,0,0,0,14,11,11,8,7,9,10,4,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,2,UPS (I-VIII),8,Unrecognized,Urban,3,79,39,77,52,59,59,59,53,62,44,0,0,0,0,33,37,31,32,32,42,35,19,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,17,34,34,52,27,0,0,0,0,0,0,0,28,26,27,60,56,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,9,9,12,12,0,0,0,0,0,0,0,0,12,15,11,9,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,3,6,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,7,7,11,0,0,0,0,0,0,0,0,0,9,7,5,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,6,4,0,0,0,0,0,0,0,0,0,0,4,13,0,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,8,4,1,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,4,UPS (VI-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,4,UPS (VI-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,38,31,12,0,0,0,0,0,0,0,0,0,30,14,20,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,4,UPS (VI-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,37,41,0,0,0,0,0,0,0,0,0,0,28,27,0,0,0,0,ST
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,3,HSS (I-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,23,32,41,38,0,0,0,0,0,0,0,0,0,0,32,52,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,44,39,36,30,37,27,11,18,24,18,14,20,27,20,35,14,18,10,18,14,8,14,13,20,13,19,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,0,0,21,23,27,20,20,22,30,15,9,14,2,0,32,36,36,36,39,42,36,23,23,33,6,9,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,3,HSS (I-XII),7,Central Govt,Rural,4,0,0,0,0,0,0,1,0,0,2,3,2,0,0,0,0,0,0,2,1,1,1,1,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,30,53,12,20,0,0,0,0,0,0,0,0,33,42,27,39,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,34,22,15,6,0,0,0,0,0,0,0,0,28,22,20,16,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,79,93,4,4,0,0,0,0,0,0,0,0,0,0,16,6,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,22,42,35,9,11,0,0,0,0,0,0,0,22,40,41,21,17,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,6,42,46,21,10,0,0,0,0,0,0,0,4,33,44,25,34,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,10,HSS (IX-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,6,92,105,107,239,0,0,0,0,0,0,0,0,0,0,80,94,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,4,5,3,1,0,0,0,0,0,3,4,2,6,9,5,3,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,11,9,6,5,7,5,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,0,2,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,13,12,4,0,11,6,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,13,14,10,9,4,6,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,7,9,12,5,3,3,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,12,16,7,6,10,6,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,21,19,15,7,15,6,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,14,12,8,5,5,5,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,5,HSS (VI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,15,14,11,3,9,4,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,4,1,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,11,HSS (XI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,282,230,0,0,0,0,0,0,0,0,0,0,219,168,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,11,HSS (XI-XII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,64,65,0,0,0,0,0,0,0,0,0,0,54,58,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,11,HSS (XI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,15,35,0,0,0,0,0,0,0,0,0,0,10,9,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,11,HSS (XI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,17,20,0,0,0,0,0,0,0,0,0,0,10,19,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,11,HSS (XI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,132,120,0,0,0,0,0,0,0,0,0,0,100,97,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,4,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,30,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,1,PS (I-V),1,Department of Education,Rural,4,0,0,15,7,11,4,3,0,0,0,0,0,0,0,8,9,5,5,6,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,1,PS (I-V),1,Department of Education,Rural,4,0,0,124,94,95,60,62,0,4,1,0,0,0,0,119,88,73,84,87,3,1,3,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,1,PS (I-V),1,Department of Education,Rural,4,0,0,14,21,18,16,17,0,0,0,0,0,0,0,16,33,27,22,13,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,1,PS (I-V),1,Department of Education,Rural,4,0,0,21,17,11,12,9,0,0,0,0,0,0,0,25,25,20,12,7,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,1,PS (I-V),1,Department of Education,Rural,4,0,0,119,83,76,65,67,0,0,0,0,0,0,0,96,72,79,70,53,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),1,Department of Education,Rural,4,0,0,213,110,102,80,84,0,0,0,0,0,0,0,220,142,117,134,97,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,1,PS (I-V),1,Department of Education,Rural,4,0,0,153,80,88,88,59,0,0,0,0,0,0,0,128,88,91,87,71,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,1,PS (I-V),1,Department of Education,Rural,4,0,0,69,48,36,39,34,0,0,0,0,0,0,0,71,43,44,43,36,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,1,PS (I-V),1,Department of Education,Rural,4,0,0,58,40,19,25,24,0,1,0,0,0,0,0,50,52,30,32,23,1,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,1,PS (I-V),1,Department of Education,Rural,4,0,0,66,45,34,27,33,0,0,0,0,0,0,0,70,38,32,25,30,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,1,PS (I-V),1,Department of Education,Rural,4,0,0,135,108,94,90,74,0,0,0,0,0,0,0,144,144,107,86,104,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,1,PS (I-V),1,Department of Education,Rural,4,0,0,7,11,11,7,8,0,0,0,0,0,0,0,14,5,17,9,9,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,1,PS (I-V),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,1,PS (I-V),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,1,PS (I-V),1,Department of Education,Urban,4,0,0,2,1,0,1,0,0,0,0,0,0,0,0,1,9,1,1,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),1,Department of Education,Urban,4,0,0,10,5,3,8,6,0,0,0,0,0,0,0,7,7,8,5,5,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,1,PS (I-V),1,Department of Education,Urban,4,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,6,7,2,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,1,PS (I-V),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,1,PS (I-V),4,Government Aided,Rural,4,0,0,5,5,2,3,3,0,0,0,0,0,0,0,3,0,3,2,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,1,PS (I-V),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,1,PS (I-V),4,Government Aided,Rural,4,0,0,6,11,6,10,3,0,0,0,0,0,0,0,7,3,4,4,4,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,1,PS (I-V),4,Government Aided,Rural,4,0,0,17,17,10,11,1,0,0,0,0,0,0,0,13,12,8,5,6,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,1,PS (I-V),4,Government Aided,Rural,4,0,0,28,11,5,5,3,0,0,0,0,0,0,0,7,7,5,9,4,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),4,Government Aided,Rural,4,0,0,13,9,12,12,3,0,0,0,0,0,0,0,15,16,4,14,6,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,1,PS (I-V),4,Government Aided,Rural,4,0,0,15,7,10,8,4,0,0,0,0,0,0,0,11,7,4,4,7,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,1,PS (I-V),4,Government Aided,Rural,4,0,0,9,4,0,2,3,0,0,0,0,0,0,0,3,3,1,6,3,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,1,PS (I-V),4,Government Aided,Rural,4,2,3,50,28,29,21,22,0,0,0,0,0,0,0,61,20,19,32,6,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,1,PS (I-V),4,Government Aided,Rural,4,0,0,35,23,27,29,30,0,0,0,0,0,0,0,27,22,27,22,26,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,1,PS (I-V),4,Government Aided,Rural,4,0,0,25,17,11,12,16,0,0,0,0,0,0,0,12,16,14,13,11,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,1,PS (I-V),4,Government Aided,Rural,4,0,0,14,10,6,3,3,0,0,0,0,0,0,0,9,6,8,0,2,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),4,Government Aided,Urban,4,10,3,13,13,15,23,24,0,0,0,0,0,0,0,44,43,50,60,68,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,4,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,15,17,14,10,24,24,24,0,0,0,0,0,0,0,9,6,14,12,19,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,1,PS (I-V),8,Unrecognized,Rural,4,7,3,2,1,3,1,0,0,0,0,0,0,0,0,1,3,0,2,1,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,1,PS (I-V),8,Unrecognized,Rural,4,19,13,49,44,39,31,20,18,23,9,0,0,0,0,48,31,28,26,28,12,8,11,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,1,PS (I-V),8,Unrecognized,Rural,4,0,2,1,1,3,3,9,0,0,0,0,0,0,0,1,1,0,0,4,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,1,PS (I-V),8,Unrecognized,Rural,4,0,0,9,5,3,5,0,0,0,0,0,0,0,0,9,0,6,1,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),8,Unrecognized,Rural,4,103,60,89,57,44,50,20,8,8,3,0,0,0,0,40,39,25,20,11,7,4,1,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,1,PS (I-V),8,Unrecognized,Rural,4,90,46,90,57,46,44,35,1,3,3,0,1,0,0,58,35,29,37,22,3,4,4,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,1,PS (I-V),8,Unrecognized,Rural,4,68,61,42,19,42,22,15,0,0,0,0,0,0,0,26,18,27,8,4,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,1,PS (I-V),8,Unrecognized,Rural,4,2,3,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,1,PS (I-V),8,Unrecognized,Rural,4,11,5,2,2,0,0,1,0,0,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,1,PS (I-V),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,1,PS (I-V),8,Unrecognized,Urban,4,7,2,4,5,0,2,2,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),8,Unrecognized,Urban,4,77,57,41,26,26,17,19,2,4,0,0,0,0,0,34,23,21,22,15,3,2,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,1,PS (I-V),98,Madarsa unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,1,PS (I-V),98,Madarsa unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,6,SS (I-X),1,Department of Education,Rural,4,0,0,0,1,1,2,1,1,1,2,1,7,0,0,1,3,0,1,1,0,3,1,3,6,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,6,SS (I-X),1,Department of Education,Rural,4,0,0,5,3,7,8,6,9,11,14,19,8,0,0,4,4,5,2,7,7,13,9,4,2,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,6,SS (I-X),1,Department of Education,Rural,4,0,0,3,5,5,9,5,14,9,19,20,21,0,0,4,8,4,4,7,12,23,24,21,26,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,6,SS (I-X),1,Department of Education,Rural,4,0,0,14,5,11,10,7,17,18,14,30,15,0,0,14,9,7,9,12,17,14,28,33,14,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,6,SS (I-X),1,Department of Education,Rural,4,0,0,26,22,27,36,34,35,35,46,45,28,0,0,36,33,29,31,34,43,55,35,76,59,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,6,SS (I-X),1,Department of Education,Rural,4,0,0,16,10,11,12,14,17,22,23,25,22,0,0,16,9,12,9,12,24,23,30,45,38,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,6,SS (I-X),1,Department of Education,Rural,4,0,0,5,4,6,6,8,3,7,6,13,7,0,0,5,4,9,5,10,7,12,4,11,15,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,6,SS (I-X),1,Department of Education,Rural,4,0,0,0,2,2,1,6,3,2,1,1,0,0,0,1,1,1,2,2,3,6,2,2,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,6,SS (I-X),1,Department of Education,Rural,4,0,0,0,1,2,0,1,1,0,1,0,1,0,0,1,1,2,1,1,2,1,0,0,2,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,6,SS (I-X),1,Department of Education,Rural,4,0,0,23,10,7,9,14,5,4,4,5,3,0,0,10,17,15,11,23,7,16,18,12,9,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,6,SS (I-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,7,5,5,6,4,2,0,3,2,1,0,0,8,5,5,5,9,1,2,1,6,1,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,6,SS (I-X),8,Unrecognized,Rural,4,0,0,5,0,0,1,0,0,1,2,1,0,0,0,1,2,0,0,2,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,6,SS (I-X),8,Unrecognized,Rural,4,3,1,7,1,9,1,2,5,0,0,3,4,0,0,2,5,4,5,0,2,1,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,6,SS (I-X),8,Unrecognized,Rural,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,6,SS (I-X),8,Unrecognized,Rural,4,0,0,30,32,39,36,37,39,47,26,34,33,0,0,22,24,26,26,21,29,23,26,26,16,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,6,SS (I-X),8,Unrecognized,Rural,4,66,54,34,38,53,47,44,34,34,43,35,13,0,0,43,27,33,36,28,19,33,24,26,21,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,6,SS (I-X),8,Unrecognized,Rural,4,0,0,19,8,13,12,12,14,12,7,9,12,0,0,13,5,5,13,10,4,6,10,8,4,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,6,SS (I-X),8,Unrecognized,Rural,4,23,10,6,7,14,16,16,20,50,32,24,24,0,0,6,5,14,5,9,8,21,24,23,21,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,6,SS (I-X),8,Unrecognized,Rural,4,0,0,12,4,0,3,7,1,0,6,3,2,0,0,14,0,3,6,5,2,2,2,3,4,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,6,SS (I-X),8,Unrecognized,Rural,4,6,3,9,24,27,14,21,23,9,17,21,32,0,0,12,6,17,17,21,30,11,23,25,14,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,6,SS (I-X),8,Unrecognized,Rural,4,0,0,3,1,0,0,3,0,0,0,0,0,0,0,2,5,0,1,3,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,6,SS (I-X),8,Unrecognized,Urban,4,0,0,2,2,2,3,3,2,3,1,0,0,0,0,1,2,1,1,3,2,2,3,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,1,16,0,0,0,0,0,0,0,0,0,0,13,15,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,2,6,7,3,2,0,0,0,0,0,0,0,0,7,5,15,2,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,2,10,86,150,0,0,0,0,0,0,0,0,1,6,132,141,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,11,18,0,0,0,0,0,0,0,0,0,38,191,170,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,2,1,6,0,0,0,0,0,0,0,0,0,8,27,29,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,6,13,18,0,0,0,0,0,0,0,0,0,12,20,15,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,1,22,21,0,0,0,0,0,0,0,0,0,0,24,29,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,8,SS (IX-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,30,79,102,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,7,8,0,0,0,0,0,0,0,0,0,0,10,5,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,19,17,0,0,0,0,0,0,0,0,0,0,26,15,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,28,30,0,0,0,0,0,0,0,0,0,0,11,9,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,8,SS (IX-X),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,4,4,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,8,SS (IX-X),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,2,2,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,13,13,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,6,7,5,1,0,0,0,0,0,0,0,1,5,7,1,1,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,4,26,13,6,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,3,0,5,20,24,0,0,0,0,0,0,0,0,0,7,18,22,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,3,6,5,1,0,0,0,0,0,0,0,0,6,3,3,2,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,5,4,9,11,6,0,0,0,0,0,0,0,8,8,18,29,12,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,11,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,7,SS (VI-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,7,SS (VI-X),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,15,46,76,66,63,0,0,0,0,0,0,0,8,32,60,63,49,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,32,23,23,19,0,0,0,0,0,0,0,0,15,31,18,13,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,9,12,31,40,47,0,0,0,0,0,0,0,6,11,16,29,40,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,15,67,76,58,68,0,0,0,0,0,0,0,10,47,57,64,58,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,10,28,47,43,42,0,0,0,0,0,0,0,10,8,30,33,59,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,0,0,0,0,1,2,4,3,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,7,SS (VI-X),4,Government Aided,Urban,4,0,0,0,0,0,0,0,18,33,42,45,35,40,24,0,0,0,0,0,77,74,65,70,80,64,75,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,26,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,6,18,11,44,25,0,0,0,0,0,0,0,0,14,13,41,41,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,12,6,12,21,28,0,0,0,0,0,0,0,7,9,16,17,23,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,5,5,8,17,5,0,0,0,0,0,0,0,3,3,4,12,3,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,50,49,64,72,62,0,0,0,0,0,0,0,21,42,34,33,33,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,7,SS (VI-X),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,7,SS (VI-X),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,6,5,14,0,0,0,0,0,0,0,0,0,2,1,3,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,7,SS (VI-X),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,2,2,0,2,3,0,0,0,0,0,0,0,7,3,3,2,1,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,7,SS (VI-X),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,6,10,11,48,37,0,0,0,0,0,0,0,6,3,5,50,46,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,7,SS (VI-X),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,2,13,7,18,13,0,0,0,0,0,0,0,12,16,11,17,22,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,7,SS (VI-X),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,3,6,7,2,1,0,0,0,0,0,0,0,2,0,2,3,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,7,SS (VI-X),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,6,15,18,20,21,0,0,0,0,0,0,0,1,15,12,25,19,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,7,SS (VI-X),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,4,10,28,0,0,0,0,0,0,0,0,0,4,6,8,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,7,SS (VI-X),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,1,1,6,4,4,0,0,0,0,0,0,0,4,4,2,6,2,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,12,4,3,7,8,9,6,11,7,1,0,0,8,13,7,13,6,10,10,7,2,2,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,114,114,100,71,96,100,81,71,5,6,0,0,129,109,99,73,83,110,98,103,5,9,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,23,29,31,47,34,40,24,23,4,1,0,0,37,37,32,36,40,46,39,18,2,1,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,32,26,25,28,25,27,29,13,0,0,0,0,18,29,24,27,25,13,24,10,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,119,133,102,93,104,119,127,106,22,15,0,0,103,126,102,75,107,140,144,111,21,22,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,248,230,243,235,240,290,279,245,0,4,0,0,253,239,248,245,274,330,331,273,28,11,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,241,217,188,197,173,210,195,170,3,2,0,0,239,204,205,231,201,253,255,167,1,1,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,86,84,90,68,77,82,73,62,3,3,0,0,120,102,93,77,99,117,108,81,1,3,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,2,UPS (I-VIII),1,Department of Education,Rural,4,3,1,64,66,77,56,59,54,51,38,0,0,0,0,65,62,64,73,61,57,58,36,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,88,60,52,53,59,70,47,36,2,0,0,0,91,55,50,44,63,57,60,50,1,4,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,107,75,89,73,84,90,74,44,8,0,0,0,74,71,86,103,88,90,69,54,16,14,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,23,11,10,18,20,15,10,7,0,0,0,0,12,10,16,10,14,25,15,13,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,62,58,50,66,80,70,78,39,0,0,0,0,63,60,51,57,73,72,71,69,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,2,7,4,4,1,5,0,0,0,0,0,0,7,8,5,5,2,6,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,8,3,3,7,10,7,4,4,0,0,0,0,7,1,1,3,5,6,6,8,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,2,UPS (I-VIII),4,Government Aided,Rural,4,8,5,3,7,4,6,7,5,0,0,0,0,0,0,8,13,10,14,9,11,2,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,5,8,12,10,9,10,0,0,0,0,0,0,7,6,5,20,17,10,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,24,10,23,14,14,11,13,8,0,0,0,0,29,26,22,27,20,21,33,16,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,2,UPS (I-VIII),4,Government Aided,Rural,4,9,0,79,61,61,76,65,66,17,5,0,0,0,0,72,40,46,62,55,64,22,8,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201612,KAMDARA,2,UPS (I-VIII),4,Government Aided,Rural,4,4,28,27,15,20,28,20,22,15,0,0,0,0,0,28,29,23,31,19,44,19,12,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,21,19,16,16,20,16,17,20,0,0,0,0,14,24,16,21,13,17,16,11,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,2,UPS (I-VIII),4,Government Aided,Rural,4,0,0,3,8,3,7,7,4,5,1,0,0,0,0,10,7,4,6,4,3,2,2,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,2,UPS (I-VIII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,2,UPS (I-VIII),4,Government Aided,Urban,4,0,0,9,13,9,9,14,10,6,7,0,0,0,0,8,12,3,34,4,4,0,9,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,10,6,6,1,4,6,0,0,2,0,0,0,0,0,2,1,4,2,5,1,3,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,2,UPS (I-VIII),7,Central Govt,Urban,4,0,0,7,4,8,7,10,4,8,7,5,11,0,0,3,1,4,6,4,5,6,7,3,6,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201601,BISHUNPUR,2,UPS (I-VIII),8,Unrecognized,Rural,4,7,5,4,6,3,6,3,3,0,0,0,0,0,0,5,0,5,3,2,2,1,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,2,UPS (I-VIII),8,Unrecognized,Rural,4,13,11,11,15,7,10,11,9,12,9,9,0,0,0,12,15,9,12,10,9,10,7,6,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,2,UPS (I-VIII),8,Unrecognized,Rural,4,5,16,6,3,4,3,2,1,2,0,0,0,0,0,3,2,2,5,2,2,2,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201605,DUMRI,2,UPS (I-VIII),8,Unrecognized,Rural,4,32,23,15,29,18,21,12,5,0,0,0,0,0,0,20,14,18,11,9,7,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,2,UPS (I-VIII),8,Unrecognized,Rural,4,8,6,19,6,1,2,6,5,7,2,0,0,0,0,6,1,2,2,1,0,0,4,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,2,UPS (I-VIII),8,Unrecognized,Rural,4,128,86,60,51,40,28,47,32,25,28,0,0,0,0,47,27,29,21,25,21,18,15,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201609,SISAI,2,UPS (I-VIII),8,Unrecognized,Rural,4,55,52,46,45,41,38,32,30,23,15,10,10,0,0,38,32,33,25,30,28,21,17,8,6,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201610,BHARNO,2,UPS (I-VIII),8,Unrecognized,Rural,4,0,0,5,0,2,0,1,2,3,1,0,0,0,0,5,0,1,1,0,0,1,1,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,2,UPS (I-VIII),8,Unrecognized,Rural,4,29,29,34,23,26,15,23,18,0,5,0,0,0,0,29,23,22,22,17,11,0,3,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,2,UPS (I-VIII),8,Unrecognized,Rural,4,97,69,26,13,25,11,16,16,9,5,0,0,0,0,16,15,6,3,8,14,16,2,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,2,UPS (I-VIII),8,Unrecognized,Urban,4,71,42,31,62,51,45,31,40,35,25,0,0,0,0,14,18,20,23,25,14,16,19,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201602,GHAGHRA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,3,5,5,8,6,0,0,0,0,0,0,0,0,4,3,10,5,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201604,CHAINPUR,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201608,GUMLA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,2,0,2,1,0,0,0,0,0,0,0,0,3,5,1,1,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,4,4,4,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201614,ALBERT EKKA,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201607,RAIDIH,4,UPS (VI-VIII),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201611,BASIA,4,UPS (VI-VIII),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,5,1,2,0,0,0,0,OBC
+2015-16,20,Jharkhand,2016,GUMLA,201613,PALKOT,4,UPS (VI-VIII),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,OBC

@@ -1,0 +1,537 @@
+ac_year,state_code,state_name,district_code,district_name,block_code,block_name,sch_category_id,category_name,sch_mgmt_id,sch_mgmt_name,loc_name,caste_id,pre_primary_boys,pre_primary_girls,class_1_boys,class_2_boys,class_3_boys,class_4_boys,class_5_boys,class_6_boys,class_7_boys,class_8_boys,class_9_boys,class_10_boys,class_11_boys,class_12_boys,class_1_girls,class_2_girls,class_3_girls,class_4_girls,class_5_girls,class_6_girls,class_7_girls,class_8_girls,class_9_girls,class_10_girls,class_11_girls,class_12_girls,caste_name
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,2,3,1,5,4,0,0,0,0,0,0,0,0,4,2,4,4,0,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,42,24,20,22,11,7,15,0,0,0,0,0,0,0,17,13,14,16,15,0,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,0,0,2,2,2,4,0,0,0,0,0,0,0,2,1,2,0,2,0,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,1,PS (I-V),5,Private Unaided (Recognized),Urban,2,0,1,1,0,4,1,4,0,0,1,0,0,0,0,5,3,3,1,2,1,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,1,PS (I-V),8,Unrecognized,Rural,2,5,3,1,2,0,0,3,0,0,0,0,0,0,0,0,3,1,1,0,0,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,1,PS (I-V),8,Unrecognized,Rural,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,1,PS (I-V),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,1,PS (I-V),8,Unrecognized,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,1,1,3,1,1,1,4,2,2,0,0,0,1,2,0,0,1,1,1,1,4,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,6,SS (I-X),5,Private Unaided (Recognized),Urban,2,19,4,7,0,2,8,3,7,3,0,1,3,1,2,7,1,2,1,1,3,1,2,2,2,1,1,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,9,4,0,0,0,0,0,0,0,0,0,0,7,3,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,8,SS (IX-X),1,Department of Education,Rural,2,0,3,0,0,0,0,0,0,0,0,8,10,0,1,0,0,0,0,0,0,0,0,5,10,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,10,6,0,0,0,0,0,0,0,0,0,0,5,4,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,5,6,2,40,22,5,3,0,0,0,0,0,7,5,2,29,26,4,5,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,8,SS (IX-X),1,Department of Education,Rural,2,0,6,0,0,0,0,0,0,0,0,6,2,0,0,0,0,0,0,0,0,0,0,8,8,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,12,19,0,0,0,0,0,0,0,0,0,0,19,15,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,13,12,0,0,0,0,0,0,0,0,0,0,8,10,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,8,SS (IX-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,9,10,3,1,0,0,0,0,0,0,0,0,12,8,2,2,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,33,47,46,47,59,7,0,0,0,0,0,0,40,45,36,38,53,7,3,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,7,SS (VI-X),1,Department of Education,Rural,2,0,1,0,0,0,0,0,9,11,11,5,14,5,1,0,0,0,0,0,12,11,8,6,1,1,5,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,22,6,8,13,7,10,7,0,0,0,0,0,13,17,16,14,17,13,3,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,16,32,26,14,14,13,8,0,0,0,0,0,29,38,33,22,19,12,8,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,20,28,20,14,21,4,2,0,0,0,0,0,28,27,38,58,33,25,17,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,7,SS (VI-X),1,Department of Education,Rural,2,0,1,0,0,0,0,0,17,22,13,22,17,2,5,0,0,0,0,0,25,24,25,24,34,3,2,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,25,25,27,9,10,3,3,0,0,0,0,0,26,22,24,15,10,2,2,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,11,13,12,21,3,5,1,0,0,0,0,0,21,13,14,21,14,4,5,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,7,SS (VI-X),1,Department of Education,Rural,2,0,0,0,0,0,0,0,31,35,26,27,34,7,0,0,0,0,0,0,34,39,36,36,56,4,2,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,7,SS (VI-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,4,1,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,7,SS (VI-X),1,Department of Education,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,2,6,6,5,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,7,SS (VI-X),4,Government Aided,Rural,2,0,0,0,0,0,0,0,3,3,4,2,8,0,1,0,0,0,0,0,3,2,3,1,4,0,2,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,31,21,25,11,17,7,6,0,0,0,0,0,15,21,10,20,22,2,3,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,4,9,3,8,9,5,6,0,0,0,0,0,6,3,6,7,10,7,11,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,1,5,3,2,6,0,0,0,0,0,0,0,1,1,3,2,5,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,3,2,3,2,2,0,0,0,0,0,0,0,0,0,2,2,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,9,10,9,9,6,0,0,0,0,0,0,0,3,3,8,4,4,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,4,2,4,1,1,1,2,0,0,0,0,0,1,1,2,1,1,1,2,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,,"",2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,2,UPS (I-VIII),1,Department of Education,Rural,2,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,2,UPS (I-VIII),1,Department of Education,Urban,2,0,0,0,1,0,1,2,2,5,2,0,0,0,0,0,0,0,1,3,1,0,7,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,22,12,6,8,4,4,2,6,4,1,0,0,0,0,10,9,12,7,4,6,6,9,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,9,9,10,7,8,3,4,7,3,2,0,0,0,0,5,7,5,4,3,3,5,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,0,0,6,7,3,2,4,7,1,3,0,0,0,0,2,3,4,1,5,0,0,1,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,11,9,8,4,4,9,5,3,1,1,0,0,0,0,4,2,1,1,0,3,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,10,5,8,12,11,7,10,6,6,5,0,0,0,0,7,8,7,3,8,5,3,2,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,26,18,9,9,3,5,5,2,0,4,0,0,0,0,4,6,7,5,0,2,3,2,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,3,4,8,10,4,12,13,1,3,1,0,0,0,0,6,8,6,2,4,6,4,4,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,3,1,0,4,0,2,1,0,5,2,0,0,0,0,0,2,1,1,1,2,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,9,11,5,5,3,2,2,3,5,2,0,0,0,0,5,1,1,1,1,2,1,3,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,25,18,4,8,7,11,4,6,2,3,0,0,0,0,5,5,8,3,7,4,6,2,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,0,0,0,3,1,1,1,3,1,2,0,0,0,0,0,1,0,1,1,2,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,5,4,3,1,1,3,1,2,0,1,0,0,0,0,1,5,1,3,0,1,0,1,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,2,UPS (I-VIII),7,Central Govt,Rural,2,0,0,0,5,3,4,8,5,5,1,2,4,0,0,1,0,2,1,1,1,1,0,2,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,2,UPS (I-VIII),8,Unrecognized,Rural,2,0,0,2,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,2,UPS (I-VIII),8,Unrecognized,Rural,2,0,0,4,0,0,2,1,0,0,1,0,0,0,0,1,2,0,1,2,1,1,1,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,2,UPS (I-VIII),8,Unrecognized,Rural,2,0,0,5,2,6,3,2,2,1,0,0,0,0,0,1,0,0,2,6,0,2,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,84,87,90,0,0,0,0,0,0,0,0,0,102,100,89,1,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,21,26,28,0,0,0,0,0,0,0,0,0,40,30,30,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,43,57,49,0,0,0,0,0,0,0,0,0,38,47,55,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,31,46,30,0,0,0,0,0,0,0,0,0,30,40,30,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,64,70,57,0,3,0,0,0,0,0,0,0,62,83,51,1,2,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,44,54,39,0,0,0,0,0,0,0,0,0,31,50,52,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,38,22,38,0,0,0,0,0,0,0,0,0,36,33,26,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,68,50,38,0,0,0,0,0,0,0,0,0,55,58,45,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,4,UPS (VI-VIII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,33,34,30,0,0,0,0,0,0,0,0,0,39,57,39,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,4,UPS (VI-VIII),1,Department of Education,Urban,2,0,0,0,0,0,0,0,8,6,4,0,0,0,0,0,0,0,0,0,3,4,7,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,12,10,15,0,0,0,0,0,0,0,0,0,11,11,10,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,4,6,2,0,0,0,0,0,0,0,0,0,4,6,4,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,3,1,1,0,0,0,0,0,0,0,0,0,1,2,3,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,3,4,2,0,0,0,0,0,0,0,0,0,3,4,1,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,7,11,15,0,0,0,0,0,0,0,0,0,4,5,7,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,4,UPS (VI-VIII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,8,3,7,0,0,0,0,0,0,0,0,0,13,12,7,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,7,14,11,4,3,8,18,0,0,0,0,0,8,5,6,2,4,4,2,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,2,1,4,0,0,0,0,0,0,0,0,0,3,0,2,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,10,6,7,3,2,3,1,0,0,0,0,0,2,4,4,3,0,2,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,13,15,15,6,3,0,0,0,0,0,0,0,18,12,8,1,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,2,6,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,2,3,1,2,1,1,1,1,1,0,1,1,0,0,2,1,2,1,0,0,1,1,0,1,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,3,HSS (I-XII),7,Central Govt,Urban,3,0,0,1,0,0,2,0,1,0,0,1,3,0,1,0,1,2,0,0,2,0,1,0,1,1,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,10,HSS (IX-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,10,HSS (IX-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,10,HSS (IX-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,1,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,1,0,2,3,3,0,0,0,0,0,0,0,1,0,0,3,7,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,5,HSS (VI-XII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,5,HSS (VI-XII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,5,HSS (VI-XII),4,Government Aided,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,5,HSS (VI-XII),7,Central Govt,Rural,3,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,1,PS (I-V),1,Department of Education,Rural,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,1,PS (I-V),1,Department of Education,Rural,3,0,0,1,0,2,1,0,0,0,0,0,0,0,0,3,3,3,3,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,1,PS (I-V),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,1,PS (I-V),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,4,5,5,4,9,0,0,0,0,0,0,0,3,5,8,7,10,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,7,3,2,0,0,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,1,PS (I-V),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,1,PS (I-V),8,Unrecognized,Rural,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,1,PS (I-V),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,1,PS (I-V),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,8,SS (IX-X),1,Department of Education,Rural,3,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,8,SS (IX-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,13,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,7,SS (VI-X),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,7,SS (VI-X),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,7,SS (VI-X),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,,"",2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,2,UPS (I-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,2,UPS (I-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,2,0,2,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,2,UPS (I-VIII),7,Central Govt,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,2,UPS (I-VIII),8,Unrecognized,Rural,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,4,UPS (VI-VIII),1,Department of Education,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,4,UPS (VI-VIII),1,Department of Education,Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,4,UPS (VI-VIII),4,Government Aided,Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,4,2,1,3,0,0,2,0,0,3,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,0,0,2,3,5,4,6,9,7,7,10,7,9,9,1,2,3,4,5,6,6,6,7,8,9,5,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,3,HSS (I-XII),7,Central Govt,Urban,4,0,0,0,0,0,2,2,1,2,4,2,0,3,2,0,0,1,0,0,2,0,4,1,0,1,1,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,15,10,12,5,0,0,0,0,0,0,0,0,20,20,14,13,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,10,HSS (IX-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,10,HSS (IX-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,10,HSS (IX-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,5,1,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,1,1,2,8,2,5,0,0,0,0,0,1,2,3,2,5,4,4,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,2,8,6,15,21,21,21,0,0,0,0,0,11,6,4,8,20,16,26,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,2,3,3,1,2,5,0,0,0,0,0,1,4,1,4,2,4,4,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,4,2,6,16,12,2,9,0,0,0,0,0,3,1,4,12,4,8,8,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,192,215,202,361,472,328,367,0,0,0,0,0,220,213,202,334,425,345,527,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,2,0,4,1,2,1,1,0,0,0,0,0,0,0,1,0,3,1,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,7,3,6,9,10,4,10,0,0,0,0,0,8,7,8,12,5,4,14,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,5,HSS (VI-XII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,1,0,0,7,5,14,16,0,0,0,0,0,0,0,0,9,4,21,27,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,1,0,4,0,3,0,0,0,0,0,0,0,0,0,2,0,5,2,2,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,5,HSS (VI-XII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,2,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,5,HSS (VI-XII),4,Government Aided,Urban,4,0,0,0,0,0,0,0,3,3,0,4,0,1,3,0,0,0,0,0,1,2,1,4,1,0,4,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,1,1,2,1,4,6,6,0,0,0,0,0,0,3,0,3,2,4,2,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,1,1,8,5,2,1,3,0,0,0,0,0,4,2,3,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,3,3,0,9,3,1,1,0,0,0,0,0,2,2,3,4,5,1,3,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,5,HSS (VI-XII),7,Central Govt,Rural,4,0,0,0,0,0,0,0,6,3,2,6,4,1,4,0,0,0,0,0,2,2,0,1,0,1,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,1,PS (I-V),1,Department of Education,Rural,4,0,0,3,4,1,5,7,0,0,0,0,0,0,0,3,6,7,7,4,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,1,PS (I-V),1,Department of Education,Rural,4,0,0,4,7,2,5,6,0,0,0,0,0,0,0,4,5,4,8,3,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,1,PS (I-V),1,Department of Education,Rural,4,0,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,1,PS (I-V),1,Department of Education,Rural,4,0,0,8,4,5,6,2,0,0,0,0,0,0,0,7,3,5,2,9,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,1,PS (I-V),1,Department of Education,Rural,4,3,2,277,299,298,262,300,0,0,0,0,0,0,0,337,372,346,351,383,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,1,PS (I-V),1,Department of Education,Rural,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,1,PS (I-V),1,Department of Education,Rural,4,0,0,2,13,2,4,5,0,0,0,0,0,0,0,5,7,6,6,6,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,1,PS (I-V),1,Department of Education,Rural,4,0,0,32,28,32,35,32,0,0,0,0,0,0,0,40,30,35,26,44,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,1,PS (I-V),1,Department of Education,Rural,4,0,0,3,6,3,4,4,0,0,0,0,0,0,0,3,4,7,8,4,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,1,PS (I-V),1,Department of Education,Urban,4,0,0,1,2,1,2,2,0,0,0,0,0,0,0,2,5,5,4,2,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,1,PS (I-V),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,1,PS (I-V),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,5,7,5,5,7,6,6,0,1,0,0,0,0,0,7,2,2,4,5,1,0,3,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,10,4,4,4,6,5,5,0,0,1,0,0,0,0,6,2,2,6,5,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,39,31,12,16,18,12,14,6,3,3,0,0,0,0,9,10,9,1,6,3,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,22,14,111,153,137,149,166,33,49,39,0,0,0,0,95,111,95,99,121,21,8,3,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,2,4,2,2,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,26,25,17,12,16,13,9,5,7,2,0,0,0,0,13,13,6,11,12,3,4,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,4,16,11,8,4,5,5,11,0,0,0,0,0,0,0,6,2,5,6,1,0,1,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,3,0,0,1,2,0,3,0,0,0,0,0,0,0,0,1,3,3,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,1,PS (I-V),5,Private Unaided (Recognized),Urban,4,1,3,12,5,9,8,6,1,0,1,0,0,0,0,11,9,8,11,3,0,1,1,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,1,PS (I-V),8,Unrecognized,Rural,4,2,2,1,2,0,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,1,PS (I-V),8,Unrecognized,Rural,4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,1,PS (I-V),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,1,PS (I-V),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,6,SS (I-X),5,Private Unaided (Recognized),Urban,4,8,6,4,2,10,4,4,0,3,1,3,2,2,3,1,0,4,2,2,1,3,4,3,3,0,1,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,21,12,17,90,105,23,32,0,0,0,0,0,22,21,21,120,124,22,35,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,8,SS (IX-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,1,3,3,2,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,2,1,1,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,42,49,68,35,37,33,13,0,0,0,0,0,121,101,112,113,113,69,90,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,7,SS (VI-X),1,Department of Education,Rural,4,0,0,0,0,0,0,0,4,1,1,1,3,1,0,0,0,0,0,0,2,1,3,6,6,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,7,SS (VI-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,7,SS (VI-X),1,Department of Education,Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,7,SS (VI-X),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,2,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,5,6,4,16,22,0,0,0,0,0,0,0,3,6,1,12,4,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,7,SS (VI-X),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,,"",2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,2,UPS (I-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,2,UPS (I-VIII),1,Department of Education,Urban,4,0,0,2,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,1,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,5,5,1,1,1,1,1,3,5,3,0,0,0,0,0,0,1,1,2,1,0,3,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,47,51,56,68,43,47,52,28,41,25,0,0,0,0,21,28,26,33,29,14,15,10,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,13,7,10,5,3,12,4,1,0,0,0,0,10,6,8,4,13,8,3,3,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,14,5,33,31,38,38,39,29,30,26,0,0,0,0,6,18,13,14,28,21,7,13,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,1,1,0,2,2,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,9,10,1,1,2,0,3,2,0,2,0,0,0,0,1,4,3,2,1,2,3,1,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,2,UPS (I-VIII),7,Central Govt,Rural,4,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,2,UPS (I-VIII),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,2,UPS (I-VIII),8,Unrecognized,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,2,UPS (I-VIII),8,Unrecognized,Rural,4,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,2,2,6,0,0,0,0,0,0,0,0,1,2,0,3,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,2,4,2,0,0,0,0,0,0,0,0,0,3,2,6,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,2,3,1,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,157,159,177,2,4,0,0,0,0,0,0,0,214,183,186,3,2,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,1,3,2,0,0,0,0,0,0,0,0,0,3,9,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,34,41,37,0,0,0,0,0,0,0,0,0,40,40,38,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,4,UPS (VI-VIII),1,Department of Education,Rural,4,0,0,0,0,0,0,0,5,5,5,0,0,0,0,0,0,0,0,0,3,5,4,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,4,UPS (VI-VIII),1,Department of Education,Urban,4,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,4,1,5,0,0,0,0,0,0,0,0,0,9,3,4,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,4,8,9,0,0,0,0,0,0,0,0,0,11,7,7,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,8,7,8,0,0,0,0,0,0,0,0,0,12,13,3,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,4,UPS (VI-VIII),4,Government Aided,Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,4,4,12,1,9,4,10,0,0,0,0,0,5,2,9,5,5,3,8,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,71,71,65,27,15,0,0,0,0,0,0,0,36,32,32,9,7,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,1,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,4,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,OBC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ST
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,48,49,23,33,35,29,29,41,50,46,0,0,0,0,9,23,21,15,23,26,34,22,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,1,0,0,16,14,12,16,17,14,15,18,31,32,55,51,8,8,8,4,5,18,9,10,27,13,36,46,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,0,0,32,30,45,31,29,39,41,49,46,21,30,20,25,30,26,20,41,30,35,21,31,41,19,21,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,101,77,104,101,113,124,104,101,107,111,104,89,81,54,92,98,93,78,95,91,87,67,90,79,74,56,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,3,HSS (I-XII),7,Central Govt,Urban,1,0,0,10,15,10,12,11,32,21,36,36,25,37,27,15,3,20,14,22,25,26,26,37,19,24,14,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,25,30,2,0,0,0,0,0,0,0,0,0,23,33,7,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,84,97,89,81,0,0,0,0,0,0,0,0,83,75,77,75,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,10,HSS (IX-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,10,3,12,8,0,0,0,0,0,0,0,0,11,3,14,9,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,10,HSS (IX-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,7,16,29,27,27,30,27,0,0,0,0,0,0,0,0,0,2,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,10,HSS (IX-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,21,21,12,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,218,220,207,404,606,595,669,0,0,0,0,0,245,237,215,449,585,607,941,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,71,86,99,232,282,311,349,0,0,0,0,0,77,129,119,253,268,276,395,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,92,128,135,252,240,265,196,0,0,0,0,0,103,101,116,259,269,319,320,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,87,96,91,241,270,225,322,0,0,0,0,0,94,96,124,210,263,246,384,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,29,29,22,32,26,52,25,0,0,0,0,0,17,24,26,26,24,34,14,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,87,126,93,199,221,259,316,0,0,0,0,0,85,102,104,182,184,292,346,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,194,191,184,315,337,453,374,0,0,0,0,0,209,164,204,285,361,412,570,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,135,152,156,251,257,323,351,0,0,0,0,0,166,190,210,282,322,434,429,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,5,HSS (VI-XII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,47,63,68,122,133,202,212,0,0,0,0,0,63,79,72,144,161,223,238,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,36,49,36,67,144,59,119,0,0,0,0,0,20,34,25,81,93,69,137,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,6,3,6,13,33,5,18,0,0,0,0,0,6,14,9,27,20,14,26,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,27,14,30,41,61,92,95,0,0,0,0,0,29,29,29,61,68,62,92,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,5,HSS (VI-XII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,10,4,17,16,34,26,43,0,0,0,0,0,10,8,8,16,20,43,41,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,5,HSS (VI-XII),4,Government Aided,Urban,1,0,0,0,0,0,0,0,16,24,16,42,38,38,45,0,0,0,0,0,12,14,8,19,28,21,31,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,30,43,59,94,64,53,51,0,0,0,0,0,20,38,32,33,36,43,31,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,39,49,42,95,101,96,95,0,0,0,0,0,25,5,6,87,77,97,80,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,3,4,10,32,29,26,28,0,0,0,0,0,3,6,5,14,23,5,13,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,25,24,32,44,39,41,42,0,0,0,0,0,15,15,20,22,23,19,31,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,5,HSS (VI-XII),7,Central Govt,Rural,1,0,0,0,0,0,0,0,26,16,13,28,21,20,17,0,0,0,0,0,19,8,11,18,19,10,9,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,1,PS (I-V),1,Department of Education,Rural,1,0,0,470,472,426,474,424,0,0,0,0,0,0,0,507,474,470,487,521,0,0,0,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,1,PS (I-V),1,Department of Education,Rural,1,0,0,166,140,128,133,154,0,0,0,0,0,0,0,188,141,130,168,149,0,0,0,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,1,PS (I-V),1,Department of Education,Rural,1,0,0,155,168,163,147,205,0,0,0,0,0,0,0,148,125,150,155,188,0,0,0,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,1,PS (I-V),1,Department of Education,Rural,1,18,26,137,112,104,125,151,0,0,0,0,0,0,0,162,129,145,164,177,0,0,0,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,1,PS (I-V),1,Department of Education,Rural,1,0,0,22,8,7,9,6,0,0,0,0,0,0,0,15,7,10,7,8,0,0,0,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,1,PS (I-V),1,Department of Education,Rural,1,0,0,125,137,134,162,156,0,0,0,0,0,0,0,136,123,150,144,179,0,0,0,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,1,PS (I-V),1,Department of Education,Rural,1,0,0,399,334,312,389,378,0,0,0,0,0,0,0,395,354,351,366,429,0,0,0,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,1,PS (I-V),1,Department of Education,Rural,1,0,0,325,273,282,260,313,0,0,0,0,0,0,0,389,310,304,356,321,0,0,0,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,1,PS (I-V),1,Department of Education,Rural,1,0,0,150,131,165,184,181,0,0,0,0,0,0,0,172,160,165,176,236,0,0,0,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,1,PS (I-V),1,Department of Education,Urban,1,0,0,11,6,10,9,6,0,0,0,0,0,0,0,12,13,8,5,6,0,0,0,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,1,PS (I-V),1,Department of Education,Urban,1,0,0,3,0,2,1,1,0,0,0,0,0,0,0,1,3,3,1,1,0,0,0,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,1,PS (I-V),1,Department of Education,Urban,1,0,0,0,2,2,1,2,0,0,0,0,0,0,0,4,1,2,2,0,0,0,0,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,511,355,356,355,344,338,318,84,62,58,0,0,0,0,262,254,258,241,294,53,43,33,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,306,229,126,103,101,96,107,49,21,17,0,0,0,0,116,88,91,63,90,16,9,16,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,0,0,87,86,83,87,104,29,18,25,0,0,0,0,68,61,65,69,54,7,11,15,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,184,125,98,82,88,101,96,28,8,21,0,0,0,0,86,69,70,66,66,12,15,9,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,1,0,4,4,5,2,3,0,0,0,0,0,0,0,1,3,5,7,4,0,0,0,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,81,80,46,52,40,46,51,3,7,5,0,0,0,0,41,27,40,41,52,4,8,6,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,227,165,198,177,189,193,155,36,29,16,0,0,0,0,175,155,165,159,131,27,23,24,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,86,53,182,122,131,123,150,8,4,3,0,0,0,0,137,77,93,69,82,3,4,1,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,172,130,86,85,74,74,84,12,17,9,0,0,0,0,79,47,54,56,37,13,8,8,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,4,0,4,1,2,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,124,122,43,50,43,35,33,0,0,0,0,0,0,0,36,41,45,31,34,0,0,0,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,0,0,14,14,15,18,10,0,0,0,0,0,0,0,9,13,15,6,9,0,0,0,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,9,15,15,9,15,11,10,3,2,0,0,0,0,0,14,13,14,13,9,3,1,1,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,1,PS (I-V),8,Unrecognized,Rural,1,2,7,4,2,2,1,2,0,0,0,0,0,0,0,1,0,1,4,0,0,0,0,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,1,PS (I-V),8,Unrecognized,Rural,1,21,16,4,2,4,3,4,0,0,0,0,0,0,0,1,6,1,1,1,0,0,0,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,1,PS (I-V),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,1,PS (I-V),8,Unrecognized,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,5,7,9,12,13,12,13,15,17,21,0,0,4,5,6,2,4,11,7,3,7,11,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,26,23,23,15,21,11,13,12,8,10,0,0,14,16,13,16,12,7,4,8,7,3,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,1,0,0,25,13,11,19,18,12,19,17,8,14,0,0,13,15,10,14,9,10,10,11,7,11,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,307,251,119,147,111,126,129,128,110,122,109,129,55,56,90,86,106,91,93,96,79,84,91,55,31,38,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,23,28,0,0,0,0,0,0,0,0,0,0,33,26,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,19,19,0,0,0,0,0,0,0,0,0,0,17,20,1,1,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,8,SS (IX-X),1,Department of Education,Rural,1,0,1,0,0,0,0,0,0,0,0,14,10,0,0,0,0,0,0,0,0,0,0,17,23,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,2,2,0,10,17,0,0,0,0,0,0,0,2,2,4,12,5,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,13,9,0,0,0,0,0,0,0,0,0,0,10,15,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,121,94,0,0,0,0,0,0,0,0,0,0,131,135,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,68,77,0,0,0,0,0,0,0,0,0,0,62,85,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,8,SS (IX-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,31,35,11,15,0,0,0,0,0,0,0,0,38,50,9,13,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,13,16,0,0,0,0,0,0,0,0,0,0,14,31,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,128,132,129,128,207,11,4,0,0,0,0,0,173,149,155,179,202,9,7,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,20,35,27,32,51,6,7,0,0,0,0,0,28,30,31,29,28,3,9,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,40,37,33,61,51,65,29,0,0,0,0,0,43,43,42,51,51,41,47,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,61,49,52,61,50,14,21,0,0,0,0,0,52,49,46,54,60,16,15,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,2,2,0,1,0,1,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,50,58,62,72,102,24,15,0,0,0,0,0,73,78,86,77,107,33,32,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,132,142,139,51,50,6,5,0,0,0,0,0,172,139,168,58,52,7,8,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,52,81,64,59,62,13,13,0,0,0,0,0,80,92,75,62,61,20,19,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,7,SS (VI-X),1,Department of Education,Rural,1,0,0,0,0,0,0,0,58,56,70,57,62,21,18,0,0,0,0,0,72,79,83,91,88,40,20,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,7,SS (VI-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,5,5,7,4,0,0,0,0,0,0,0,0,15,11,20,15,8,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,7,SS (VI-X),1,Department of Education,Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,4,5,5,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,7,SS (VI-X),4,Government Aided,Rural,1,0,0,0,0,0,0,0,5,1,0,17,11,1,1,0,0,0,0,0,0,1,4,8,14,1,3,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,130,146,156,146,171,41,59,0,0,0,0,0,110,115,105,124,138,33,35,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,5,11,8,10,18,11,9,0,0,0,0,0,10,2,6,7,15,8,9,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,23,22,24,25,23,0,0,0,0,0,0,0,21,16,30,20,24,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,11,13,16,15,16,0,0,0,0,0,0,0,10,10,13,11,19,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,27,32,29,33,43,0,0,0,0,0,0,0,34,25,9,21,28,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,17,20,18,16,11,19,12,0,0,0,0,0,13,17,8,12,9,13,16,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,,"",2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,2,UPS (I-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,2,UPS (I-VIII),1,Department of Education,Urban,1,0,0,1,1,2,3,1,3,2,0,0,0,0,0,3,3,1,1,4,0,2,1,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,65,47,53,50,41,31,31,25,24,7,0,0,0,0,43,24,23,21,13,20,24,13,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,134,92,40,55,63,38,57,59,44,31,0,0,0,0,48,33,38,39,30,40,35,32,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,59,45,41,39,43,39,36,18,0,0,0,0,27,32,34,44,38,18,22,16,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,24,12,11,14,9,11,21,7,8,4,0,0,0,0,9,12,10,12,12,6,4,2,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,3,4,5,4,1,3,0,3,4,4,0,0,0,0,1,3,4,3,2,1,1,1,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,108,90,31,30,36,44,35,28,21,19,0,0,0,0,28,33,29,25,32,22,17,14,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,9,6,149,144,146,149,143,137,115,106,25,12,0,0,113,162,103,129,117,103,74,78,5,11,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,59,45,26,21,19,21,18,25,22,10,0,0,0,0,23,12,13,7,16,14,17,7,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,315,319,129,114,126,106,99,90,87,50,0,0,0,0,108,104,84,100,59,56,52,45,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,0,0,15,18,14,20,16,22,12,16,0,0,0,0,21,17,16,13,15,13,13,11,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,1,24,15,15,11,9,9,15,10,5,8,0,0,0,0,16,8,10,7,12,5,7,4,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,2,UPS (I-VIII),7,Central Govt,Rural,1,0,0,7,13,17,21,16,22,23,17,24,19,0,0,3,5,6,13,13,11,4,12,7,4,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,2,UPS (I-VIII),8,Unrecognized,Rural,1,0,0,6,5,7,6,7,6,4,0,0,0,0,0,7,4,9,5,4,7,2,0,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,2,UPS (I-VIII),8,Unrecognized,Rural,1,0,0,20,22,17,21,26,12,19,21,0,0,0,0,20,18,10,12,9,10,8,1,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,2,UPS (I-VIII),8,Unrecognized,Rural,1,0,0,30,34,22,28,26,29,19,19,0,0,0,0,19,17,19,15,15,18,21,11,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,217,211,246,8,0,0,0,0,0,0,0,0,241,238,262,14,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,75,87,74,0,0,0,0,0,0,0,0,0,77,73,103,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,88,83,100,0,0,0,0,0,0,0,0,0,70,87,106,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,88,70,79,0,0,0,0,0,0,0,0,0,75,77,93,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,2,6,5,0,0,0,0,0,0,0,0,0,2,5,4,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,63,62,42,0,0,0,0,0,0,0,0,0,61,61,68,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,123,121,110,0,0,0,0,0,0,0,0,0,129,137,123,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,110,132,101,0,0,0,0,0,0,0,0,0,126,129,150,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,4,UPS (VI-VIII),1,Department of Education,Rural,1,0,0,0,0,0,0,0,76,74,88,0,0,0,0,0,0,0,0,0,83,68,96,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,4,UPS (VI-VIII),1,Department of Education,Urban,1,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,32,30,55,0,0,0,0,0,0,0,0,0,39,39,34,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,16,16,12,0,0,0,0,0,0,0,0,0,13,10,12,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,4,7,10,0,0,0,0,0,0,0,0,0,2,3,1,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,9,12,13,0,0,0,0,0,0,0,0,0,9,8,8,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,32,43,28,0,0,0,0,0,0,0,0,0,28,33,15,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,4,UPS (VI-VIII),4,Government Aided,Rural,1,0,0,0,0,0,0,0,11,6,5,0,0,0,0,0,0,0,0,0,3,5,2,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,23,21,32,0,0,0,0,0,0,0,0,0,22,21,16,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,45,46,43,7,16,10,26,0,0,0,0,0,30,41,18,8,4,7,10,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,12,20,24,0,0,0,0,0,0,0,0,0,13,20,10,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,63,61,55,31,35,15,14,0,0,0,0,0,36,33,32,21,19,7,5,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,2,9,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,12,6,9,0,0,0,0,0,0,0,0,0,5,4,10,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,22,14,13,0,0,0,0,0,0,0,0,0,6,4,3,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,0,0,0,0,0,0,0,4,2,5,0,0,0,0,0,0,0,0,0,6,4,1,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,1,0,0,0,0,0,0,0,4,12,13,0,0,0,0,0,0,0,0,0,9,4,11,0,0,0,0,General
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,7,12,1,1,1,0,0,3,2,1,0,0,0,0,0,0,2,1,1,1,0,3,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,0,0,2,3,2,1,2,2,1,1,1,1,2,1,1,2,2,1,2,1,1,1,1,1,2,2,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,3,HSS (I-XII),7,Central Govt,Urban,2,0,0,1,4,5,6,5,4,6,7,11,4,3,1,3,4,3,2,3,11,3,6,4,3,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,10,3,1,0,0,0,0,0,0,0,0,0,9,7,1,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,10,5,5,6,0,0,0,0,0,0,0,0,12,8,10,10,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,5,4,7,6,0,0,0,0,0,0,0,0,10,4,11,3,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,10,HSS (IX-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,0,0,0,2,5,1,2,0,0,0,0,0,0,0,0,2,4,4,2,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,10,HSS (IX-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,10,HSS (IX-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,2,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,113,97,114,221,264,159,172,0,0,0,0,0,95,101,139,201,274,142,230,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,47,38,49,104,72,57,71,0,0,0,0,0,42,34,39,69,93,85,91,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,43,42,45,66,85,56,60,0,0,0,0,0,46,53,41,91,88,67,72,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,48,51,47,69,75,56,73,0,0,0,0,0,35,51,52,69,96,68,92,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,92,66,81,121,139,81,173,0,0,0,0,0,64,76,71,122,118,99,95,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,38,47,37,92,113,94,101,0,0,0,0,0,28,47,41,84,90,97,130,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,50,58,55,82,96,71,73,0,0,0,0,0,52,49,60,63,78,69,77,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,32,29,18,53,52,59,47,0,0,0,0,0,37,23,32,58,66,58,52,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,5,HSS (VI-XII),1,Department of Education,Rural,2,0,0,0,0,0,0,0,28,35,28,48,62,72,75,0,0,0,0,0,26,33,33,60,69,82,81,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,10,14,12,19,41,15,29,0,0,0,0,0,10,17,7,18,36,13,48,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,3,7,7,10,5,4,6,0,0,0,0,0,4,4,4,6,6,7,2,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,24,22,12,19,19,13,25,0,0,0,0,0,34,27,14,22,27,12,20,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,5,HSS (VI-XII),4,Government Aided,Rural,2,0,0,0,0,0,0,0,0,3,0,6,3,12,14,0,0,0,0,0,0,2,1,1,2,6,11,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,5,HSS (VI-XII),4,Government Aided,Urban,2,0,0,0,0,0,0,0,1,3,1,16,14,7,11,0,0,0,0,0,1,1,4,11,8,10,16,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,12,12,5,15,7,5,6,0,0,0,0,0,10,10,5,7,8,14,4,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,0,0,1,3,1,2,3,0,0,0,0,0,1,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,0,0,0,0,0,0,0,1,3,1,5,10,5,3,0,0,0,0,0,0,2,3,4,5,5,2,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,0,0,0,0,0,0,0,6,10,6,10,11,15,11,0,0,0,0,0,1,4,3,7,8,9,8,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,5,HSS (VI-XII),7,Central Govt,Rural,2,0,0,0,0,0,0,0,17,4,6,15,12,5,9,0,0,0,0,0,4,1,3,4,4,2,1,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,1,PS (I-V),1,Department of Education,Rural,2,0,0,236,214,229,218,221,0,0,0,0,0,0,0,235,238,250,242,262,0,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,1,PS (I-V),1,Department of Education,Rural,2,0,0,66,46,60,60,77,0,0,0,0,0,0,0,67,61,59,54,70,0,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,1,PS (I-V),1,Department of Education,Rural,2,0,0,97,102,74,87,84,0,0,0,0,0,0,0,113,93,96,89,106,0,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,1,PS (I-V),1,Department of Education,Rural,2,5,9,75,95,62,66,85,0,0,0,0,0,0,0,86,80,75,90,80,0,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,1,PS (I-V),1,Department of Education,Rural,2,0,0,118,130,107,116,130,0,0,0,0,0,0,0,144,139,139,137,147,0,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,1,PS (I-V),1,Department of Education,Rural,2,0,0,55,83,81,74,88,0,0,0,0,0,0,0,67,71,84,85,86,0,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,1,PS (I-V),1,Department of Education,Rural,2,0,0,109,82,90,90,77,0,0,0,0,0,0,0,123,109,94,92,109,0,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,1,PS (I-V),1,Department of Education,Rural,2,0,0,127,88,97,94,102,0,0,0,0,0,0,0,138,85,109,107,106,0,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,1,PS (I-V),1,Department of Education,Rural,2,0,0,68,81,68,97,93,0,0,0,0,0,0,0,77,94,78,90,101,0,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,1,PS (I-V),1,Department of Education,Urban,2,0,0,5,5,1,5,2,0,0,0,0,0,0,0,7,4,2,1,2,0,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,1,PS (I-V),1,Department of Education,Urban,2,0,0,0,1,1,0,2,0,0,0,0,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,1,PS (I-V),1,Department of Education,Urban,2,0,0,1,1,1,1,3,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50401,BHILANGANA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,126,117,94,92,86,76,64,24,12,13,0,0,0,0,51,40,56,49,46,8,8,2,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50402,CHAMBA,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,35,25,17,10,24,9,14,1,2,0,0,0,0,0,14,15,18,5,11,0,0,1,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50403,DEVPRAYAG,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,0,0,13,20,11,12,10,1,0,0,0,0,0,0,6,6,15,6,7,0,0,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50404,JAKHNIDHAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,52,33,27,22,16,14,24,1,2,3,0,0,0,0,14,18,12,10,10,4,0,1,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50405,JOUNPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,1,4,37,42,31,30,53,2,3,4,0,0,0,0,24,26,24,31,21,3,1,1,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50406,KEERTINAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,32,21,11,14,4,10,13,4,0,2,0,0,0,0,10,1,12,6,13,0,0,2,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50407,NARENDRANAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,11,8,24,17,17,18,22,5,2,2,0,0,0,0,13,11,13,10,7,3,1,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50408,PRATAPNAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,4,5,15,9,14,13,15,0,0,0,0,0,0,0,2,11,11,9,3,0,1,0,0,0,0,0,SC
+2016-17,5,Uttarakhand,504,TEHRI GARHWAL,50409,THOULDHAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,2,58,33,22,21,28,21,18,5,3,2,0,0,0,0,18,10,9,11,11,2,2,0,0,0,0,0,SC
