@@ -1,0 +1,509 @@
+Academic_Year,State_Code,State_Name,District_Code,District_Name,Block_Code,Udise_Block_Name,School_Category_Id,School_Category_Name,School_Management_Id,School_Management_Name,Location,School_Type_Id,School_Type,Total_Number_of_Schools,Building,Complete_Medical_Checkup,Computer_Available,Functional_Drinking_Water,Drinking_Water,Functional_Electricity,Functional_Boy_Toilet,Functional_Girl_Toilet,Functional_Toilet_Facility,Functional_Toilet_and_Urinal,Functional_Urinal,Functional_Urinal_Boy,Functional_Urinal_Girl,Handwash,Separate_Room_for_Headmaster,Incinerator,Internet,Kitchen_Garden,Land_Available,Librarian,Library_or_Reading_Corner_or_Book_Bank,Medical_Checkup,Newspaper,Playground,Rain_Water_Harvesting,Ramps,Solar_Panel,Furniture,Water_Purifier,Water_Tested
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330701,MELMALAYANUR,5,HSS (VI-XII),1,Department of Education,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330701,MELMALAYANUR,5,HSS (VI-XII),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,1,1,1,0,1,1,1,1,1,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330701,MELMALAYANUR,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,9,9,0,9,8,9,9,9,9,9,0,0,0,0,8,2,0,8,9,8,0,9,9,8,9,9,8,0,8,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330701,MELMALAYANUR,1,PS (I-V),3,Local body,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330701,MELMALAYANUR,1,PS (I-V),3,Local body,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,0,1,0,0,1,1,0,1,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330701,MELMALAYANUR,1,PS (I-V),3,Local body,Rural,3,Co-Ed,80,66,0,80,80,80,80,80,80,80,0,0,0,0,62,15,0,0,79,46,0,80,80,25,69,0,77,0,75,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330701,MELMALAYANUR,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,11,11,0,1,11,11,11,11,11,11,0,0,0,0,4,4,0,0,9,9,0,11,11,2,11,0,10,0,9,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330701,MELMALAYANUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,12,12,0,11,12,12,11,12,12,12,0,0,0,0,9,9,0,0,0,11,1,12,11,2,10,0,8,0,9,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330701,MELMALAYANUR,1,PS (I-V),6,Other Govt. managed schools,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330701,MELMALAYANUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,3,4,0,4,0,4,0,4,4,4,4,4,3,0,4,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330701,MELMALAYANUR,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,7,2,0,2,7,7,7,7,7,7,0,0,0,0,6,0,0,4,5,4,0,7,7,5,6,4,5,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330701,MELMALAYANUR,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,2,0,1,2,2,0,2,2,1,2,2,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330701,MELMALAYANUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,0,1,2,0,2,2,1,2,2,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330701,MELMALAYANUR,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,18,16,0,18,18,18,18,18,18,18,0,0,0,0,16,12,0,0,17,12,0,18,18,1,17,1,18,0,12,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330701,MELMALAYANUR,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,1,0,1,1,0,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,0,2,2,2,2,2,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,1,0,2,2,2,2,2,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,5,HSS (VI-XII),1,Department of Education,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,5,HSS (VI-XII),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,3,2,0,3,3,3,3,3,3,3,0,0,0,0,3,1,0,3,3,3,0,3,3,3,3,3,3,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,5,HSS (VI-XII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,1,0,1,1,1,1,1,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,5,HSS (VI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,5,HSS (VI-XII),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,5,HSS (VI-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,1,0,0,1,1,1,1,1,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,1,PS (I-V),4,Government Aided,Rural,1,Boys,2,2,0,0,2,2,2,2,0,2,0,0,0,0,1,2,0,0,1,2,0,2,2,1,2,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,1,PS (I-V),3,Local body,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,0,1,1,0,1,1,0,1,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,1,PS (I-V),4,Government Aided,Rural,2,Girls,2,2,0,1,2,2,2,0,2,2,0,0,0,0,1,2,0,0,2,0,0,2,2,2,2,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,3,2,0,0,3,0,0,3,3,0,1,0,2,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,1,PS (I-V),3,Local body,Rural,3,Co-Ed,51,48,0,50,51,51,51,51,51,51,0,0,0,0,48,9,0,0,47,21,0,51,50,15,35,0,35,0,31,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,22,22,0,4,22,22,22,18,18,18,0,0,0,0,15,5,0,0,21,10,0,22,21,8,17,0,13,0,12,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,12,12,0,11,12,12,12,12,12,12,0,0,0,0,10,8,0,1,0,8,2,12,10,11,11,1,3,0,4,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,1,PS (I-V),7,Central Govt,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,1,PS (I-V),3,Local body,Urban,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,2,1,0,0,3,0,0,3,3,0,1,0,2,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,3,3,0,0,3,3,3,3,3,3,0,0,0,0,2,1,0,0,3,1,0,3,3,2,3,0,3,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,3,3,0,0,0,2,0,3,3,3,3,0,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,3,3,0,3,0,3,0,3,3,3,3,3,2,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,6,SS (I-X),7,Central Govt,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,0,2,2,1,2,2,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,10,7,0,6,10,10,10,10,10,10,0,0,0,0,8,1,0,6,9,8,0,10,10,9,8,5,6,0,6,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,1,1,0,2,2,2,0,2,2,2,2,2,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,2,UPS (I-VIII),3,Local body,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,17,15,0,17,17,17,17,17,17,17,0,0,0,0,17,12,0,0,16,11,0,17,17,7,12,0,16,0,8,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,3,3,0,0,3,3,3,3,3,3,0,0,0,0,2,2,0,0,3,2,0,3,3,2,2,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,1,0,0,0,2,0,2,1,2,2,0,1,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,2,UPS (I-VIII),7,Central Govt,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,1,0,0,2,1,0,2,2,1,2,0,2,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330702,GINGEE,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,2,2,0,0,1,2,0,2,2,2,2,0,2,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330703,VALLAM,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,5,5,0,5,5,5,5,5,5,5,0,0,0,0,0,2,0,5,5,5,0,5,5,5,5,4,5,0,5,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330703,VALLAM,5,HSS (VI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330703,VALLAM,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,1,0,0,2,1,0,2,2,0,1,0,2,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330703,VALLAM,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,4,3,0,4,4,4,4,4,4,4,0,0,0,0,3,1,0,0,3,2,0,4,4,1,3,0,4,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330703,VALLAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,61,55,0,61,57,61,61,61,61,61,0,0,0,0,34,6,0,0,59,25,0,61,61,16,41,0,59,0,42,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330703,VALLAM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,17,17,0,1,16,17,17,17,17,17,0,0,0,0,7,3,0,0,16,8,0,17,17,7,13,0,9,0,6,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330703,VALLAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,0,0,2,0,2,1,2,2,0,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330703,VALLAM,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,0,2,2,2,2,2,1,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330703,VALLAM,6,SS (I-X),7,Central Govt,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330703,VALLAM,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,8,8,0,5,8,8,8,8,8,8,0,0,0,0,5,2,0,4,7,8,0,8,8,8,8,5,8,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330703,VALLAM,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330703,VALLAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,15,15,0,15,15,15,15,15,15,15,0,0,0,0,11,14,0,0,14,10,0,15,15,4,14,0,15,0,5,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330704,OLAKKUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,1,2,2,2,2,2,0,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330704,OLAKKUR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,3,3,0,3,0,3,1,3,3,3,3,3,0,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330704,OLAKKUR,5,HSS (VI-XII),4,Government Aided,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330704,OLAKKUR,5,HSS (VI-XII),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,1,1,0,1,1,1,1,1,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330704,OLAKKUR,5,HSS (VI-XII),4,Government Aided,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,1,0,0,1,1,1,1,1,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330704,OLAKKUR,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,7,7,0,7,7,7,7,7,7,7,0,0,0,0,6,4,0,7,7,7,0,7,7,7,7,7,7,0,6,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330704,OLAKKUR,5,HSS (VI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330704,OLAKKUR,5,HSS (VI-XII),3,Local body,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,0,1,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330704,OLAKKUR,5,HSS (VI-XII),4,Government Aided,Urban,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,3,3,0,3,3,2,0,3,3,3,3,3,3,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330704,OLAKKUR,1,PS (I-V),8,Unrecognized,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330704,OLAKKUR,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,3,0,0,0,2,2,0,3,3,2,3,0,3,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330704,OLAKKUR,1,PS (I-V),3,Local body,Rural,3,Co-Ed,47,46,0,46,47,47,47,47,47,47,0,0,0,0,45,5,0,0,40,17,0,47,43,21,31,0,40,0,45,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330704,OLAKKUR,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,13,13,0,0,12,12,12,13,13,13,0,0,0,0,4,4,0,0,12,8,0,13,13,5,11,0,9,0,13,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330704,OLAKKUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330704,OLAKKUR,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,4,4,0,1,4,4,4,4,4,4,0,0,0,0,3,3,0,0,0,1,0,3,3,3,4,0,1,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330704,OLAKKUR,1,PS (I-V),3,Local body,Urban,3,Co-Ed,6,5,0,6,6,6,6,6,6,6,0,0,0,0,5,0,0,0,6,0,0,6,6,1,3,0,3,0,6,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330704,OLAKKUR,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,6,6,0,2,6,6,6,6,6,6,0,0,0,0,6,5,0,0,6,3,0,6,6,4,6,0,4,0,6,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330704,OLAKKUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,0,0,1,0,2,2,1,2,0,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330704,OLAKKUR,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,5,5,0,5,5,5,5,5,5,5,0,0,0,0,4,5,0,0,0,3,0,4,1,4,3,0,1,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330704,OLAKKUR,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,3,3,0,3,0,3,0,3,3,3,3,3,0,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330704,OLAKKUR,6,SS (I-X),7,Central Govt,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330704,OLAKKUR,7,SS (VI-X),4,Government Aided,Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,1,1,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330704,OLAKKUR,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330704,OLAKKUR,7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330704,OLAKKUR,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330704,OLAKKUR,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,11,11,0,11,11,11,11,11,11,11,0,0,0,0,11,8,0,0,10,4,0,11,11,9,10,1,11,0,11,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330704,OLAKKUR,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,0,0,1,1,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330704,OLAKKUR,2,UPS (I-VIII),7,Central Govt,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,0,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330704,OLAKKUR,2,UPS (I-VIII),4,Government Aided,Urban,3,Co-Ed,5,5,0,0,5,5,5,5,5,5,0,0,0,0,4,5,0,0,5,3,0,5,5,5,4,0,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330704,OLAKKUR,2,UPS (I-VIII),8,Unrecognized,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330705,MAILAM,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,0,2,0,2,0,2,0,2,2,2,2,2,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330705,MAILAM,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,8,8,0,8,8,8,8,8,8,8,0,0,0,0,7,1,0,7,6,8,0,8,8,7,7,7,7,0,7,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330705,MAILAM,5,HSS (VI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330705,MAILAM,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,5,5,0,5,5,5,5,5,5,5,0,0,0,0,3,2,0,0,5,4,0,5,5,2,5,0,3,0,4,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330705,MAILAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,52,52,0,51,52,52,52,52,52,52,0,0,0,0,48,15,0,0,49,23,0,52,50,8,32,0,38,0,36,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330705,MAILAM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,11,11,0,3,10,11,11,11,11,11,0,0,0,0,6,0,0,0,9,8,0,11,11,0,9,0,5,0,9,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330705,MAILAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,4,7,8,7,8,8,8,0,0,0,0,5,6,0,0,1,7,0,7,7,6,8,1,3,0,6,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330705,MAILAM,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330705,MAILAM,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,1,3,0,2,0,3,0,3,3,3,3,3,1,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330705,MAILAM,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,13,12,0,7,13,13,13,13,13,13,0,0,0,0,13,2,0,5,10,12,0,13,13,13,10,8,10,0,10,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330705,MAILAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,8,8,0,8,8,8,7,8,8,8,0,0,0,0,5,5,0,0,8,4,0,8,8,1,8,0,8,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330705,MAILAM,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,0,0,0,0,2,1,0,2,2,0,2,0,2,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330705,MAILAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,1,0,2,0,2,2,2,1,1,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330705,MAILAM,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330706,MARAKKANAM,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330706,MARAKKANAM,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,1,2,2,2,2,2,0,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330706,MARAKKANAM,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,5,5,0,5,5,5,5,5,5,5,0,0,0,0,3,0,0,5,4,5,0,5,5,5,5,5,3,0,5,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330706,MARAKKANAM,5,HSS (VI-XII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1,1,1,0,1,1,0,1,1,0,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330706,MARAKKANAM,5,HSS (VI-XII),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330706,MARAKKANAM,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,2,2,0,0,3,2,0,4,4,3,2,0,4,0,4,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330706,MARAKKANAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,63,57,0,62,62,63,63,63,63,63,0,0,0,0,53,11,0,0,54,37,0,62,61,42,55,0,42,0,44,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330706,MARAKKANAM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,7,7,0,0,7,7,7,6,7,7,0,0,0,0,6,3,0,0,4,5,0,7,7,6,7,0,3,0,5,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330706,MARAKKANAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,7,8,8,8,8,8,8,0,0,0,0,6,5,0,1,0,6,1,8,5,6,8,2,2,0,6,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330706,MARAKKANAM,1,PS (I-V),6,Other Govt. managed schools,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330706,MARAKKANAM,1,PS (I-V),3,Local body,Urban,3,Co-Ed,9,8,0,9,9,9,9,9,9,9,0,0,0,0,9,3,0,0,5,7,0,9,9,4,8,0,5,0,7,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330706,MARAKKANAM,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330706,MARAKKANAM,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,1,0,1,2,2,0,2,2,2,0,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330706,MARAKKANAM,6,SS (I-X),7,Central Govt,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,2,1,2,1,2,2,2,2,2,1,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330706,MARAKKANAM,7,SS (VI-X),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330706,MARAKKANAM,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,10,6,0,6,9,10,10,10,10,10,0,0,0,0,7,2,0,6,6,9,0,10,10,9,10,6,7,0,8,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330706,MARAKKANAM,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330706,MARAKKANAM,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330706,MARAKKANAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,19,19,0,19,19,19,19,19,19,19,0,0,0,0,17,14,0,0,16,13,0,19,19,11,16,0,15,0,8,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330706,MARAKKANAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,3,3,0,1,0,3,0,3,3,1,3,1,1,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330706,MARAKKANAM,2,UPS (I-VIII),2,Tribal Welfare Department,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330706,MARAKKANAM,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,0,0,1,1,1,1,0,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330706,MARAKKANAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,10,HSS (IX-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,1,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,0,1,1,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,6,6,0,6,6,6,6,6,6,6,0,0,0,0,2,1,0,5,5,6,0,6,6,6,6,6,6,0,4,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,5,HSS (VI-XII),2,Tribal Welfare Department,Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,0,2,0,2,2,2,0,2,2,2,1,2,2,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,5,HSS (VI-XII),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,1,0,1,1,1,1,1,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,1,0,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,6,5,0,6,5,6,6,6,6,6,0,0,0,0,2,0,0,0,5,3,0,6,6,1,2,0,4,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,1,PS (I-V),3,Local body,Rural,3,Co-Ed,60,60,0,60,58,60,60,60,60,60,0,0,0,0,21,9,0,0,57,20,0,60,60,13,36,0,45,0,33,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,7,7,0,2,6,7,7,7,7,7,0,0,0,0,3,2,0,0,7,2,0,7,7,3,5,0,5,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,9,9,0,7,9,9,9,9,9,9,0,0,0,0,3,8,0,0,0,5,1,9,9,7,8,0,4,0,7,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,2,0,0,0,2,0,0,2,1,2,0,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,1,PS (I-V),3,Local body,Urban,3,Co-Ed,6,5,0,6,6,6,6,6,6,6,0,0,0,0,2,2,0,0,6,2,0,6,6,0,3,0,3,0,4,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,5,5,0,3,5,5,5,5,5,5,0,0,0,0,3,4,0,0,0,4,2,4,1,2,4,0,1,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,0,4,0,4,0,4,0,4,4,4,4,3,0,0,4,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,1,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,11,10,0,6,11,11,11,11,11,11,0,0,0,0,7,2,0,10,10,11,0,11,10,11,11,6,8,0,10,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,0,1,0,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,1,0,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,0,1,1,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,19,19,0,19,19,19,19,19,19,19,0,0,0,0,8,15,0,0,19,11,0,19,19,7,15,0,17,0,8,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,4,3,0,1,4,4,4,4,4,4,0,0,0,0,1,2,0,0,4,4,0,4,4,2,3,0,4,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,1,0,0,2,2,0,2,2,0,2,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,0,0,1,0,2,2,2,2,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,4,UPS (VI-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,0,0,1,1,0,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330707,VANUR,4,UPS (VI-VIII),8,Unrecognized,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330708,KANAI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330708,KANAI,5,HSS (VI-XII),1,Department of Education,Rural,1,Boys,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330708,KANAI,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,5,5,0,5,5,5,5,5,5,5,0,0,0,0,5,2,0,5,5,5,0,5,5,5,5,5,4,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330708,KANAI,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,1,0,0,2,1,0,2,2,0,2,0,1,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330708,KANAI,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,2,1,0,2,2,2,2,2,2,2,0,0,0,0,0,0,0,0,2,2,0,2,2,2,2,0,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330708,KANAI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,56,51,0,55,55,56,56,56,56,56,0,0,0,0,42,11,0,0,53,31,0,56,54,9,42,0,37,0,55,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330708,KANAI,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,11,11,0,1,11,11,10,11,11,11,0,0,0,0,5,3,0,0,11,7,0,11,11,8,11,0,7,0,10,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330708,KANAI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,11,11,0,8,11,11,11,11,11,11,0,0,0,0,6,9,0,3,0,9,0,11,11,7,11,3,6,0,11,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330708,KANAI,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,4,4,0,1,4,4,4,4,4,4,0,0,0,0,3,3,0,0,0,3,0,4,3,3,4,1,1,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330708,KANAI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,0,2,2,2,2,2,0,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330708,KANAI,7,SS (VI-X),1,Department of Education,Rural,2,Girls,3,3,0,2,3,3,3,0,3,3,0,0,0,0,2,1,0,2,3,3,0,3,3,3,3,3,2,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330708,KANAI,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,16,15,0,7,16,16,16,16,16,16,0,0,0,0,12,3,0,10,13,14,0,16,16,16,12,12,7,0,13,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330708,KANAI,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,2,1,0,1,2,1,0,2,2,2,2,1,1,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330708,KANAI,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,1,0,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,0,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330708,KANAI,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330708,KANAI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,14,13,0,14,13,14,14,14,14,14,0,0,0,0,13,6,0,0,14,10,0,14,14,6,9,0,12,0,14,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330708,KANAI,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330708,KANAI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,1,3,0,1,0,2,0,3,3,3,3,0,2,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330708,KANAI,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330709,VIKARAVANDI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330709,VIKARAVANDI,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,6,6,0,6,6,6,6,6,6,6,0,0,0,0,6,6,0,6,6,6,0,6,6,6,6,6,6,0,5,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330709,VIKARAVANDI,5,HSS (VI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330709,VIKARAVANDI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330709,VIKARAVANDI,5,HSS (VI-XII),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,1,1,0,1,1,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330709,VIKARAVANDI,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,3,0,0,0,3,3,0,3,3,2,3,0,3,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330709,VIKARAVANDI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,47,47,0,46,47,47,47,47,47,47,0,0,0,0,47,10,0,0,46,41,0,47,47,6,45,0,46,0,46,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330709,VIKARAVANDI,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,9,9,0,0,9,9,9,8,8,8,0,0,0,0,7,2,0,0,4,9,0,9,9,4,9,0,7,0,9,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330709,VIKARAVANDI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,9,9,0,8,9,9,9,9,9,9,0,0,0,0,9,9,0,0,0,9,4,9,2,8,9,0,8,0,9,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330709,VIKARAVANDI,1,PS (I-V),6,Other Govt. managed schools,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330709,VIKARAVANDI,1,PS (I-V),3,Local body,Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,0,0,0,2,1,0,2,2,0,2,0,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330709,VIKARAVANDI,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330709,VIKARAVANDI,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,0,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330709,VIKARAVANDI,7,SS (VI-X),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330709,VIKARAVANDI,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,9,9,0,5,9,9,9,9,9,9,0,0,0,0,9,5,0,6,8,8,0,9,9,8,8,8,7,0,6,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330709,VIKARAVANDI,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330709,VIKARAVANDI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,1,1,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330709,VIKARAVANDI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,16,16,0,16,16,16,16,16,16,16,0,0,0,0,16,13,0,0,16,15,0,16,16,6,16,0,16,0,15,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330709,VIKARAVANDI,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330709,VIKARAVANDI,2,UPS (I-VIII),7,Central Govt,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330709,VIKARAVANDI,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330709,VIKARAVANDI,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,1,0,1,1,0,1,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330710,KOLIYANUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,3,3,0,3,0,2,0,3,3,3,3,3,1,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330710,KOLIYANUR,5,HSS (VI-XII),1,Department of Education,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330710,KOLIYANUR,5,HSS (VI-XII),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,1,1,0,1,1,1,1,1,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330710,KOLIYANUR,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,5,5,0,5,5,5,5,5,5,5,0,0,0,0,5,1,0,5,5,4,0,5,5,5,3,5,5,0,4,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330710,KOLIYANUR,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,0,0,1,1,0,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330710,KOLIYANUR,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,6,5,0,6,6,6,6,6,6,6,0,0,0,0,5,0,0,0,4,3,0,6,6,1,3,0,6,0,6,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330710,KOLIYANUR,1,PS (I-V),3,Local body,Rural,3,Co-Ed,60,58,0,59,60,60,60,60,60,60,0,0,0,0,53,21,0,0,54,20,0,60,60,5,35,0,59,0,59,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330710,KOLIYANUR,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,0,0,1,1,0,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330710,KOLIYANUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,9,9,0,9,9,9,9,9,9,9,0,0,0,0,7,9,0,2,0,6,1,9,8,7,9,2,4,0,9,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330710,KOLIYANUR,1,PS (I-V),2,Tribal Welfare Department,Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,0,0,0,2,1,0,2,2,0,1,0,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330710,KOLIYANUR,1,PS (I-V),3,Local body,Urban,3,Co-Ed,7,6,0,7,7,7,7,7,7,7,0,0,0,0,6,2,0,0,7,3,0,7,6,2,4,0,6,0,6,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330710,KOLIYANUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,0,0,2,0,2,2,2,2,0,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330710,KOLIYANUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,6,6,6,6,6,6,6,0,0,0,0,6,6,0,6,0,5,0,6,5,6,6,5,2,0,5,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330710,KOLIYANUR,6,SS (I-X),6,Other Govt. managed schools,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330710,KOLIYANUR,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330710,KOLIYANUR,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,12,11,0,4,12,12,12,11,12,12,0,0,0,0,12,4,0,6,10,10,0,12,12,12,11,11,12,0,8,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330710,KOLIYANUR,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,1,1,0,1,1,1,1,1,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330710,KOLIYANUR,7,SS (VI-X),2,Tribal Welfare Department,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,1,0,0,1,1,1,0,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330710,KOLIYANUR,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,13,12,0,13,13,13,13,13,13,13,0,0,0,0,8,10,0,0,13,7,0,13,13,0,10,0,13,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330710,KOLIYANUR,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,2,2,0,0,2,0,0,2,2,1,2,0,2,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330710,KOLIYANUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330710,KOLIYANUR,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,4,3,0,4,4,4,4,4,4,4,0,0,0,0,4,3,0,0,4,2,0,4,4,1,3,0,4,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330710,KOLIYANUR,2,UPS (I-VIII),4,Government Aided,Urban,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,1,1,0,0,2,0,0,2,2,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330710,KOLIYANUR,2,UPS (I-VIII),8,Unrecognized,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330711,KANDAMANGALAM,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,4,2,0,4,4,4,0,4,4,4,4,3,4,0,4,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330711,KANDAMANGALAM,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,0,0,1,1,1,0,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330711,KANDAMANGALAM,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,8,8,0,8,8,8,8,8,8,8,0,0,0,0,8,1,0,0,7,5,0,8,8,0,8,0,8,0,7,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330711,KANDAMANGALAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,59,58,0,57,59,59,59,59,59,59,0,0,0,0,58,8,0,0,57,33,0,57,58,6,46,0,54,0,57,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330711,KANDAMANGALAM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,5,5,0,0,5,5,5,5,5,5,0,0,0,0,5,2,0,0,4,5,0,5,5,0,5,0,4,0,5,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330711,KANDAMANGALAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,7,8,8,8,8,8,8,0,0,0,0,8,7,0,2,0,7,0,7,8,6,8,2,3,0,4,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330711,KANDAMANGALAM,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330711,KANDAMANGALAM,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,9,9,0,7,9,9,9,9,9,9,0,0,0,0,9,6,0,4,9,8,0,9,9,7,6,8,7,0,7,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330711,KANDAMANGALAM,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,3,1,0,0,3,3,0,3,3,0,3,0,3,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330711,KANDAMANGALAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,11,9,0,11,11,11,11,11,11,11,0,0,0,0,11,9,0,0,11,10,0,11,11,0,11,0,11,0,9,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330711,KANDAMANGALAM,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,4,4,0,1,4,4,4,4,4,4,0,0,0,0,4,4,0,0,4,2,0,4,4,1,4,0,4,0,4,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330711,KANDAMANGALAM,4,UPS (VI-VIII),3,Local body,Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,1,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,5,HSS (VI-XII),1,Department of Education,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,5,HSS (VI-XII),4,Government Aided,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,1,1,0,0,1,1,1,1,1,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,5,HSS (VI-XII),1,Department of Education,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,0,0,1,1,1,0,1,1,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,5,HSS (VI-XII),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,1,1,0,1,1,1,1,1,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,5,HSS (VI-XII),4,Government Aided,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,5,HSS (VI-XII),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,6,6,0,6,6,6,6,6,6,6,0,0,0,0,4,2,0,6,6,5,0,6,6,5,4,5,6,0,6,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,5,HSS (VI-XII),6,Other Govt. managed schools,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,5,HSS (VI-XII),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,1,PS (I-V),4,Government Aided,Rural,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,1,0,0,1,1,0,1,1,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,1,PS (I-V),4,Government Aided,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,1,0,0,1,1,0,1,0,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,1,0,0,0,3,3,0,3,3,0,3,0,3,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,1,PS (I-V),3,Local body,Rural,3,Co-Ed,59,59,0,59,58,59,59,59,59,59,0,0,0,0,45,7,0,0,59,24,0,59,58,1,34,1,53,0,43,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,18,18,0,1,18,18,18,18,18,18,0,0,0,0,12,6,0,0,18,10,0,18,18,3,18,0,15,0,11,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,14,14,0,9,14,14,14,14,14,14,0,0,0,0,13,13,0,0,1,10,0,14,11,9,13,0,5,0,11,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,1,PS (I-V),3,Local body,Urban,3,Co-Ed,6,6,0,6,6,6,6,6,6,6,0,0,0,0,5,2,0,0,6,3,0,6,6,0,2,0,6,0,6,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,0,0,1,1,0,1,0,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,0,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,0,2,2,2,2,1,0,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,7,7,0,2,7,7,7,7,7,7,0,0,0,0,4,6,0,2,5,6,0,7,7,7,6,4,7,0,4,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,2,1,0,0,2,2,2,2,1,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,2,UPS (I-VIII),8,Unrecognized,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,22,22,0,21,21,22,22,22,22,22,0,0,0,0,13,11,0,0,22,16,0,22,22,2,16,0,22,0,14,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,0,0,2,0,2,2,2,2,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,2,UPS (I-VIII),6,Other Govt. managed schools,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,0,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330712,MUGAIYUR,4,UPS (VI-VIII),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330713,THIRUKOILUR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330713,THIRUKOILUR,3,HSS (I-XII),7,Central Govt,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330713,THIRUKOILUR,5,HSS (VI-XII),1,Department of Education,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330713,THIRUKOILUR,5,HSS (VI-XII),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330713,THIRUKOILUR,5,HSS (VI-XII),4,Government Aided,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,1,0,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330713,THIRUKOILUR,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,3,2,0,2,2,3,0,3,3,3,3,3,3,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330713,THIRUKOILUR,1,PS (I-V),3,Local body,Rural,3,Co-Ed,39,38,0,39,39,39,39,39,39,39,0,0,0,0,39,13,0,0,38,10,0,39,39,6,19,0,38,0,33,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330713,THIRUKOILUR,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,3,3,0,1,3,3,3,3,3,3,0,0,0,0,3,0,0,0,3,2,0,3,3,2,3,0,3,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330713,THIRUKOILUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,4,3,0,1,0,3,0,4,3,4,4,1,3,0,4,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330713,THIRUKOILUR,1,PS (I-V),3,Local body,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,0,0,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330713,THIRUKOILUR,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,2,2,0,0,2,1,0,2,2,1,2,0,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330713,THIRUKOILUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,4,3,0,0,0,4,0,4,3,4,3,0,2,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330713,THIRUKOILUR,1,PS (I-V),7,Central Govt,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330713,THIRUKOILUR,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,1,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330713,THIRUKOILUR,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,10,10,0,4,10,10,10,10,10,10,0,0,0,0,10,2,0,2,7,10,0,10,10,9,6,6,10,0,5,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330713,THIRUKOILUR,7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330713,THIRUKOILUR,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,27,27,0,27,27,27,27,27,27,27,0,0,0,0,27,22,0,0,27,16,0,27,27,12,16,0,27,0,11,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330713,THIRUKOILUR,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,2,2,0,0,2,2,0,2,2,1,1,0,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330713,THIRUKOILUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,1,0,2,1,2,2,2,2,1,1,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330713,THIRUKOILUR,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,0,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330713,THIRUKOILUR,2,UPS (I-VIII),4,Government Aided,Urban,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,1,2,0,0,2,1,0,2,2,0,2,0,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330713,THIRUKOILUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330713,THIRUKOILUR,4,UPS (VI-VIII),6,Other Govt. managed schools,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,0,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330714,THIRUVENNAINALLUR,5,HSS (VI-XII),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330714,THIRUVENNAINALLUR,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,8,7,0,7,8,8,8,8,8,8,0,0,0,0,7,1,0,6,6,8,0,7,8,6,8,8,8,0,6,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330714,THIRUVENNAINALLUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330714,THIRUVENNAINALLUR,5,HSS (VI-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330714,THIRUVENNAINALLUR,1,PS (I-V),3,Local body,Rural,3,Co-Ed,48,48,0,47,48,48,48,48,48,48,0,0,0,0,46,12,0,0,42,24,0,48,48,11,33,0,42,0,19,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330714,THIRUVENNAINALLUR,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,6,6,0,0,6,6,6,6,6,6,0,0,0,0,6,3,0,0,5,2,0,6,6,4,5,0,3,0,6,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330714,THIRUVENNAINALLUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,3,6,6,6,6,6,6,0,0,0,0,6,6,0,0,0,6,0,6,6,6,6,0,3,0,5,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330714,THIRUVENNAINALLUR,1,PS (I-V),3,Local body,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330714,THIRUVENNAINALLUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,3,3,0,0,0,2,1,3,2,3,3,0,1,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330714,THIRUVENNAINALLUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,0,2,2,2,2,2,0,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330714,THIRUVENNAINALLUR,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330714,THIRUVENNAINALLUR,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,8,5,0,4,8,8,8,8,8,8,0,0,0,0,8,2,0,4,6,7,0,8,8,7,6,2,6,0,4,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330714,THIRUVENNAINALLUR,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330714,THIRUVENNAINALLUR,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,23,23,0,22,23,23,23,23,23,23,0,0,0,0,23,15,0,0,20,9,0,23,22,8,17,0,20,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330714,THIRUVENNAINALLUR,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330714,THIRUVENNAINALLUR,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330714,THIRUVENNAINALLUR,4,UPS (VI-VIII),6,Other Govt. managed schools,Rural,2,Girls,2,2,0,2,2,2,2,0,2,2,0,0,0,0,2,0,0,1,0,2,0,2,2,2,2,0,2,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,1,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,0,1,0,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,5,HSS (VI-XII),1,Department of Education,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,5,HSS (VI-XII),1,Department of Education,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,0,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,5,HSS (VI-XII),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,5,HSS (VI-XII),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,1,1,0,1,1,1,1,1,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,8,7,0,7,8,8,8,8,8,8,0,0,0,0,6,6,0,7,7,8,0,7,8,7,7,7,4,0,7,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,5,HSS (VI-XII),4,Government Aided,Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,2,0,2,2,2,0,2,2,2,2,2,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,0,1,0,1,1,1,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,1,PS (I-V),4,Government Aided,Rural,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,1,PS (I-V),1,Department of Education,Rural,2,Girls,1,0,0,0,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,1,PS (I-V),4,Government Aided,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,9,9,0,9,9,9,9,9,9,9,0,0,0,0,7,0,0,0,3,2,0,9,9,8,6,0,1,0,9,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,58,58,0,57,54,57,57,58,58,58,0,0,0,0,46,13,0,0,51,36,0,58,58,43,44,0,40,0,44,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,5,5,0,0,5,5,5,5,5,5,0,0,0,0,3,2,0,0,5,2,0,5,5,3,4,0,2,0,5,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,20,20,0,4,20,20,20,20,20,20,0,0,0,0,16,17,0,1,0,12,0,20,18,19,19,1,5,0,14,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,1,PS (I-V),3,Local body,Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,0,0,0,2,1,0,2,2,2,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,0,0,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,6,6,0,2,6,6,6,6,6,6,0,0,0,0,5,6,0,0,0,5,0,6,5,5,6,0,0,0,5,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,3,4,4,4,4,4,4,0,0,0,0,3,4,0,4,0,4,0,4,3,4,4,4,3,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,0,2,2,1,2,2,1,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,7,2,0,2,6,7,7,7,7,7,0,0,0,0,6,2,0,4,4,7,0,7,7,6,5,4,3,0,4,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,Co-Ed,1,0,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,9,9,0,9,8,9,9,9,9,9,0,0,0,0,8,3,0,0,9,8,0,9,9,9,8,0,4,0,4,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,16,16,0,16,15,16,16,16,16,16,0,0,0,0,15,7,0,0,16,11,0,16,16,13,12,0,15,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,3,3,0,0,3,3,3,3,3,3,0,0,0,0,3,3,0,0,3,3,0,3,3,3,3,0,2,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,2,UPS (I-VIII),2,Tribal Welfare Department,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,0,0,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,2,UPS (I-VIII),6,Other Govt. managed schools,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,0,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330715,SANKARAPURAM,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330716,RISHIVANTHIYAM,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,5,5,0,4,5,5,5,5,5,5,0,0,0,0,4,2,0,4,5,5,0,5,5,5,5,4,5,0,4,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330716,RISHIVANTHIYAM,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330716,RISHIVANTHIYAM,1,PS (I-V),4,Government Aided,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,0,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330716,RISHIVANTHIYAM,1,PS (I-V),4,Government Aided,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330716,RISHIVANTHIYAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,50,47,0,48,50,50,50,50,50,50,0,0,0,0,42,8,0,0,50,22,0,50,49,46,41,0,49,0,34,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330716,RISHIVANTHIYAM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,6,6,0,1,6,6,6,6,6,6,0,0,0,0,3,3,0,0,5,3,0,6,6,6,5,0,5,0,5,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330716,RISHIVANTHIYAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,10,10,0,8,10,10,10,10,10,10,0,0,0,0,4,9,0,1,0,7,1,10,4,9,9,1,5,0,5,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330716,RISHIVANTHIYAM,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330716,RISHIVANTHIYAM,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,6,6,0,5,6,6,6,6,6,6,0,0,0,0,4,2,0,5,5,6,0,6,6,6,6,3,6,0,5,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330716,RISHIVANTHIYAM,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,2,2,2,0,2,2,2,2,2,1,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330716,RISHIVANTHIYAM,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,0,2,2,0,2,2,2,1,0,1,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330716,RISHIVANTHIYAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,28,23,0,28,28,28,28,28,28,28,0,0,0,0,21,18,0,1,28,24,0,28,28,28,26,1,28,0,7,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330716,RISHIVANTHIYAM,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,0,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330716,RISHIVANTHIYAM,4,UPS (VI-VIII),6,Other Govt. managed schools,Rural,2,Girls,2,2,0,2,2,2,2,0,2,2,0,0,0,0,2,1,0,0,1,2,1,2,2,2,2,1,2,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330716,RISHIVANTHIYAM,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,1,2,2,2,2,2,1,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,1,0,2,2,2,2,2,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,5,HSS (VI-XII),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,5,HSS (VI-XII),1,Department of Education,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,1,1,1,0,1,1,1,1,1,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,5,HSS (VI-XII),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,5,5,0,5,5,5,5,5,5,5,0,0,0,0,1,2,0,4,4,5,0,5,5,5,5,4,5,0,5,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,5,HSS (VI-XII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,1,0,1,1,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,1,PS (I-V),3,Local body,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,1,PS (I-V),3,Local body,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,0,1,1,0,1,1,1,0,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,21,21,0,19,19,21,21,21,21,21,0,0,0,0,11,4,0,0,13,16,0,21,20,13,11,0,11,0,14,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,50,48,0,47,49,50,50,50,50,50,0,0,0,0,27,17,0,0,48,35,0,48,43,38,36,0,40,0,33,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,4,4,0,3,4,4,4,4,4,4,0,0,0,0,4,2,0,0,4,4,0,4,4,3,3,0,1,0,4,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,17,17,0,15,17,17,17,17,17,17,0,0,0,0,12,13,0,0,0,13,4,15,12,15,16,1,5,0,7,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,1,PS (I-V),3,Local body,Urban,3,Co-Ed,6,6,0,6,6,6,6,6,6,6,0,0,0,0,5,2,0,0,5,2,0,6,2,6,1,0,6,0,6,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,2,2,0,0,2,1,0,2,2,2,2,0,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,5,5,0,5,5,5,5,5,5,5,0,0,0,0,3,5,0,0,0,4,0,4,3,5,5,0,0,0,5,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,5,5,5,5,5,5,5,0,0,0,0,4,4,0,5,0,5,3,5,4,5,4,3,4,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,12,8,0,6,12,12,12,12,12,12,0,0,0,0,7,2,0,6,7,12,0,11,11,11,11,3,8,0,5,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,2,1,0,2,3,3,0,3,3,3,3,2,2,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,3,3,0,2,0,3,0,3,3,3,3,3,1,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,7,SS (VI-X),8,Unrecognized,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,1,0,2,2,2,2,2,2,0,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,1,0,1,1,1,0,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,1,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,6,6,0,6,6,6,6,6,6,6,0,0,0,0,3,2,0,0,5,5,0,5,6,4,4,0,6,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,18,15,0,18,18,18,18,18,18,18,0,0,0,0,10,14,0,0,17,13,0,18,18,15,10,0,15,0,4,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,4,4,0,3,4,4,3,4,4,4,0,0,0,0,1,3,0,0,3,2,0,4,3,2,4,0,2,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,2,UPS (I-VIII),7,Central Govt,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,1,0,2,0,2,0,2,2,1,1,2,1,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,2,1,0,2,2,2,2,2,2,2,0,0,0,0,1,1,0,0,2,2,0,2,2,2,1,0,2,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,2,UPS (I-VIII),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,2,UPS (I-VIII),7,Central Govt,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330717,KALLAKURICHI,4,UPS (VI-VIII),6,Other Govt. managed schools,Rural,2,Girls,4,4,0,4,4,4,4,0,4,4,0,0,0,0,1,2,0,0,0,4,0,4,4,3,4,0,4,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330718,CHINNASALEM,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,5,5,5,5,5,5,5,0,0,0,0,3,5,0,4,0,5,1,5,5,5,5,3,2,0,5,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330718,CHINNASALEM,5,HSS (VI-XII),1,Department of Education,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,1,1,1,0,1,0,1,0,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330718,CHINNASALEM,5,HSS (VI-XII),1,Department of Education,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,1,1,1,0,1,1,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330718,CHINNASALEM,5,HSS (VI-XII),1,Department of Education,Rural,2,Girls,2,2,0,2,2,2,2,0,2,2,0,0,0,0,2,0,0,2,2,1,0,2,2,2,1,2,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330718,CHINNASALEM,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,5,5,0,4,5,5,5,5,5,5,0,0,0,0,2,2,0,5,5,5,0,5,5,5,5,4,5,0,4,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330718,CHINNASALEM,5,HSS (VI-XII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330718,CHINNASALEM,5,HSS (VI-XII),4,Government Aided,Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,2,3,0,3,3,3,0,3,3,3,3,3,1,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330718,CHINNASALEM,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,0,2,0,2,0,2,0,2,2,2,2,2,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330718,CHINNASALEM,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,0,2,2,0,2,2,2,2,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330718,CHINNASALEM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,49,45,0,47,47,49,49,49,49,49,0,0,0,0,32,14,0,0,47,29,0,49,48,13,43,1,40,0,10,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330718,CHINNASALEM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,14,14,0,8,13,14,14,14,14,14,0,0,0,0,5,10,0,0,14,11,0,14,13,5,14,0,8,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330718,CHINNASALEM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,10,10,0,7,10,10,10,10,10,10,0,0,0,0,4,10,0,1,0,8,3,10,8,9,10,2,6,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330718,CHINNASALEM,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,0,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330718,CHINNASALEM,1,PS (I-V),3,Local body,Urban,3,Co-Ed,8,7,0,8,8,8,8,8,8,8,0,0,0,0,7,1,0,0,8,5,0,8,8,5,6,0,4,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330718,CHINNASALEM,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,0,0,1,1,0,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330718,CHINNASALEM,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,2,3,0,0,0,3,1,3,2,3,3,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330718,CHINNASALEM,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,5,5,5,5,5,5,5,0,0,0,0,3,5,0,5,0,5,1,5,4,4,5,5,3,0,4,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330718,CHINNASALEM,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,8,5,0,6,8,8,8,8,8,8,0,0,0,0,6,5,0,7,7,7,0,8,8,7,8,6,6,0,6,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330718,CHINNASALEM,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,2,1,0,1,2,2,2,2,2,2,0,0,0,0,1,2,0,2,2,2,0,2,2,2,2,2,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330718,CHINNASALEM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,0,2,0,2,0,2,0,2,2,2,2,2,1,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330718,CHINNASALEM,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330718,CHINNASALEM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,14,13,0,13,14,14,14,14,14,14,0,0,0,0,12,14,0,0,14,8,0,14,14,4,13,0,14,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330718,CHINNASALEM,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330718,CHINNASALEM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,1,0,2,0,2,1,2,2,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330718,CHINNASALEM,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330718,CHINNASALEM,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,0,0,1,1,1,1,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330718,CHINNASALEM,2,UPS (I-VIII),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330718,CHINNASALEM,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330719,THIYAGADURGAM,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330719,THIYAGADURGAM,5,HSS (VI-XII),1,Department of Education,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,0,0,1,1,1,0,1,1,1,1,1,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330719,THIYAGADURGAM,5,HSS (VI-XII),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,1,1,1,0,1,1,1,0,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330719,THIYAGADURGAM,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,6,6,0,6,6,6,6,6,6,6,0,0,0,0,5,1,0,5,5,5,0,6,6,6,6,4,6,0,6,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330719,THIYAGADURGAM,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330719,THIYAGADURGAM,1,PS (I-V),3,Local body,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330719,THIYAGADURGAM,1,PS (I-V),3,Local body,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330719,THIYAGADURGAM,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,1,0,0,2,1,0,2,2,0,2,0,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330719,THIYAGADURGAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,52,52,0,51,49,52,52,52,52,52,0,0,0,0,47,9,0,0,51,31,0,52,52,10,34,0,52,0,34,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330719,THIYAGADURGAM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,4,4,0,0,4,4,4,4,4,4,0,0,0,0,3,3,0,0,4,1,0,4,4,1,4,0,4,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330719,THIYAGADURGAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,3,3,0,1,0,2,0,3,3,2,3,1,3,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330719,THIYAGADURGAM,1,PS (I-V),3,Local body,Urban,3,Co-Ed,5,5,0,5,5,5,5,5,5,5,0,0,0,0,5,0,0,0,5,4,0,5,5,1,4,0,5,0,4,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330719,THIYAGADURGAM,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330719,THIYAGADURGAM,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,5,4,0,0,4,5,5,5,5,5,0,0,0,0,4,2,0,0,4,4,0,4,5,4,2,2,5,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330719,THIYAGADURGAM,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330719,THIYAGADURGAM,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,0,2,1,0,2,2,1,2,0,2,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330719,THIYAGADURGAM,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330719,THIYAGADURGAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,14,14,0,14,14,14,14,14,14,14,0,0,0,0,9,11,0,0,14,9,0,14,14,2,11,0,14,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330719,THIYAGADURGAM,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330719,THIYAGADURGAM,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,0,1,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330719,THIYAGADURGAM,4,UPS (VI-VIII),6,Other Govt. managed schools,Rural,2,Girls,2,2,0,2,2,2,2,0,2,2,0,0,0,0,2,2,0,0,1,1,0,2,2,2,2,0,2,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,1,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,5,HSS (VI-XII),1,Department of Education,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,1,1,0,0,1,1,0,1,1,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,5,HSS (VI-XII),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,0,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,1,1,0,3,3,3,0,3,3,3,3,3,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,5,HSS (VI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,5,HSS (VI-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,1,1,0,1,1,1,1,1,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,1,PS (I-V),3,Local body,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,1,PS (I-V),4,Government Aided,Rural,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,1,0,0,1,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,1,PS (I-V),3,Local body,Rural,2,Girls,1,1,0,1,0,1,1,0,1,1,0,0,0,0,1,0,0,0,1,1,0,1,1,0,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,4,4,0,4,4,4,3,4,4,4,0,0,0,0,3,0,0,0,4,3,0,4,4,0,3,0,4,0,4,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,1,PS (I-V),3,Local body,Rural,3,Co-Ed,63,60,0,63,62,63,62,63,63,63,0,0,0,0,42,14,0,0,63,29,0,63,62,11,48,0,51,0,55,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,9,9,0,2,9,9,9,9,9,9,0,0,0,0,1,2,0,0,9,4,0,9,9,3,8,0,7,0,8,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,2,6,6,6,6,6,6,0,0,0,0,4,4,0,0,0,6,0,6,3,6,5,0,2,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,1,PS (I-V),3,Local body,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,1,0,1,1,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,4,4,0,3,4,4,4,4,4,4,0,0,0,0,0,4,0,0,0,4,0,4,4,2,4,0,1,0,4,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,5,5,5,5,5,5,5,0,0,0,0,2,5,0,4,0,5,1,5,3,5,5,4,3,0,4,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,7,7,0,5,7,7,7,7,7,7,0,0,0,0,3,2,0,4,3,7,0,6,7,5,7,4,3,0,4,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,2,UPS (I-VIII),4,Government Aided,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,0,1,0,0,1,0,0,1,1,0,1,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,25,25,0,25,25,25,25,25,25,25,0,0,0,0,16,18,0,0,25,20,0,25,25,9,22,1,25,0,8,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,0,2,0,1,0,2,0,2,2,2,2,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,2,UPS (I-VIII),7,Central Govt,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,0,1,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,2,UPS (I-VIII),7,Central Govt,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,4,UPS (VI-VIII),6,Other Govt. managed schools,Rural,2,Girls,2,2,0,2,2,2,2,0,2,2,0,0,0,0,1,0,0,1,0,1,0,2,2,1,1,0,2,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330721,ULUNDURPET,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330722,THIRUNAVALUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330722,THIRUNAVALUR,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,3,2,0,2,2,3,0,3,3,3,3,3,3,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330722,THIRUNAVALUR,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,0,0,1,1,1,0,0,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330722,THIRUNAVALUR,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,6,6,0,6,6,6,6,6,6,6,0,0,0,0,4,1,0,0,6,3,0,6,6,0,4,0,5,0,6,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330722,THIRUNAVALUR,1,PS (I-V),3,Local body,Rural,3,Co-Ed,60,60,0,60,60,60,60,60,60,60,0,0,0,0,51,6,0,0,55,16,0,60,60,25,39,0,52,0,53,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330722,THIRUNAVALUR,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,11,11,0,3,11,11,11,11,11,11,0,0,0,0,10,8,0,0,10,7,0,11,11,9,10,0,10,0,8,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330722,THIRUNAVALUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,13,13,0,10,13,13,13,13,13,13,0,0,0,0,10,10,0,0,0,7,1,13,13,12,12,1,3,0,5,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330722,THIRUNAVALUR,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,6,5,0,5,6,6,6,6,6,6,0,0,0,0,6,3,0,5,5,6,0,5,6,5,6,5,5,0,5,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330722,THIRUNAVALUR,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,Co-Ed,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330722,THIRUNAVALUR,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,1,0,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330722,THIRUNAVALUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,0,2,2,2,2,2,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330722,THIRUNAVALUR,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,0,0,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330722,THIRUNAVALUR,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,24,22,0,24,24,24,24,24,24,24,0,0,0,0,24,18,0,0,23,12,0,24,24,13,20,0,23,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330722,THIRUNAVALUR,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,1,0,1,1,1,1,0,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330722,THIRUNAVALUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,1,2,2,2,2,2,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330722,THIRUNAVALUR,4,UPS (VI-VIII),6,Other Govt. managed schools,Rural,2,Girls,2,2,0,2,2,2,2,0,2,2,0,0,0,0,1,1,0,0,1,1,0,2,2,2,2,0,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330722,THIRUNAVALUR,4,UPS (VI-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,0,0,1,1,1,1,0,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330724,VILUPPURAM,3,HSS (I-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,0,1,1,1,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330724,VILUPPURAM,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,6,6,0,6,6,6,6,6,6,6,0,0,0,0,6,6,0,5,0,3,3,6,6,6,6,5,4,0,6,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330724,VILUPPURAM,3,HSS (I-XII),6,Other Govt. managed schools,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,1,1,1,1,1,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330724,VILUPPURAM,5,HSS (VI-XII),3,Local body,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,0,0,1,1,1,0,1,1,1,1,1,1,0,0,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330724,VILUPPURAM,5,HSS (VI-XII),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,0,1,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330724,VILUPPURAM,5,HSS (VI-XII),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,1,0,0,1,1,1,0,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330724,VILUPPURAM,5,HSS (VI-XII),3,Local body,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330724,VILUPPURAM,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,0,1,2,2,2,2,2,2,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330724,VILUPPURAM,1,PS (I-V),3,Local body,Urban,3,Co-Ed,6,6,0,6,6,6,6,6,6,6,0,0,0,0,4,3,0,0,6,2,0,6,6,5,3,0,4,0,6,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330724,VILUPPURAM,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,5,5,0,0,5,5,5,5,5,5,0,0,0,0,3,5,0,0,5,2,0,5,5,3,3,0,2,0,4,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330724,VILUPPURAM,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,10,10,0,8,9,10,10,10,10,10,0,0,0,0,9,9,0,0,0,5,2,10,9,8,10,0,5,0,10,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330724,VILUPPURAM,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,3,3,0,0,0,1,0,3,0,3,3,0,0,0,2,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330724,VILUPPURAM,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,6,6,0,6,6,6,6,6,6,6,0,0,0,0,5,6,0,5,0,5,1,6,6,6,6,5,4,0,6,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330724,VILUPPURAM,6,SS (I-X),7,Central Govt,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,1,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330724,VILUPPURAM,7,SS (VI-X),3,Local body,Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,2,2,2,0,2,2,2,2,1,2,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330724,VILUPPURAM,7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,4,2,0,3,4,1,0,4,4,4,4,4,3,0,3,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330724,VILUPPURAM,2,UPS (I-VIII),2,Tribal Welfare Department,Urban,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,330724,VILUPPURAM,2,UPS (I-VIII),4,Government Aided,Urban,3,Co-Ed,4,4,0,3,4,4,4,4,4,4,0,0,0,0,4,4,0,0,3,4,0,4,4,4,4,0,4,0,1,0,0
+2016-17,33,Tamilnadu,3307,VILUPPURAM,,,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0

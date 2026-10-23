@@ -1,0 +1,774 @@
+Academic_Year,State_Code,State_Name,District_Code,District_Name,Block_Code,Udise_Block_Name,Location,School_Category_Id,School_Category_Name,School_Management_Id,School_Management_Name,Total_Number_of_Schools,Building,Boundary_Wall,Single_Class_Room,Separate_Room_for_Headmaster,Land_Available,Electricity,Functional_Electricity,Solar_Panel,Furniture,Playground,Library_or_Reading_Corner_or_Book_Bank,Librarian,Newspaper,Kitchen_Garden,Boy_Toilet,Functional_Boy_Toilet,Girl_Toilet,Functional_Girl_Toilet,Toilet_Facility,Functional_Toilet_Facility,Functional_Urinal_Boy,Functional_Urinal_Girl,Functional_Urinal,Functional_Toilet_and_Urinal,Drinking_Water,Functional_Drinking_Water,Water_Purifier,Rain_Water_Harvesting,Water_Tested,Handwash,Incinerator,WASH_Facility_Drinking_Water_Toilet_and_Handwash,Ramps,Medical_Checkup,Complete_Medical_Checkup,Internet,Computer_Available
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281401,MAREDUMILLI,Rural,1,PS (I-V),2,Tribal Welfare Department,35,29,18,12,0,29,21,21,0,0,13,28,0,0,2,22,9,25,14,26,14,14,21,22,13,20,19,4,11,1,28,0,14,9,29,27,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281401,MAREDUMILLI,Rural,1,PS (I-V),3,Local body,27,23,17,8,0,24,19,19,0,0,14,23,0,2,2,18,11,18,13,19,15,8,11,11,10,18,17,4,13,0,27,0,12,12,27,25,1,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281401,MAREDUMILLI,Rural,2,UPS (I-VIII),2,Tribal Welfare Department,4,4,3,0,1,3,4,4,0,0,2,4,0,2,2,3,2,3,3,4,4,0,0,0,0,3,3,3,1,0,4,0,3,2,4,4,2,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281401,MAREDUMILLI,Rural,5,HSS (VI-XII),1,Department of Education,1,1,1,0,1,1,1,1,0,0,1,1,1,1,1,0,0,1,1,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281401,MAREDUMILLI,Rural,6,SS (I-X),2,Tribal Welfare Department,3,3,3,0,1,3,3,3,0,0,2,3,0,2,1,1,1,1,1,2,2,0,1,1,1,3,3,3,1,0,3,0,2,0,3,3,2,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281401,MAREDUMILLI,Rural,7,SS (VI-X),2,Tribal Welfare Department,3,3,2,0,2,3,3,3,0,0,2,3,0,2,0,2,2,2,2,3,3,2,2,3,3,3,3,3,0,0,3,1,3,2,3,3,1,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281401,MAREDUMILLI,Rural,7,SS (VI-X),3,Local body,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,0,1,0,1,0,1,1,1,0,1,1,1,1,0,1,0,0,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281401,MAREDUMILLI,Rural,11,HSS (XI-XII),1,Department of Education,1,0,0,0,0,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281401,MAREDUMILLI,Rural,11,HSS (XI-XII),2,Tribal Welfare Department,1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,0,1,0,1,1,1,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281402,Y.RAMAVARAM,Rural,1,PS (I-V),2,Tribal Welfare Department,79,46,12,37,1,35,18,18,0,0,9,46,0,7,1,41,0,41,0,41,0,1,39,39,0,2,2,0,0,0,1,0,0,2,38,37,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281402,Y.RAMAVARAM,Rural,1,PS (I-V),3,Local body,25,23,6,15,1,18,16,16,0,0,6,23,0,4,4,23,2,23,0,23,2,0,22,22,2,2,2,0,1,1,4,0,1,1,16,16,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281402,Y.RAMAVARAM,Rural,1,PS (I-V),4,Government Aided,1,1,0,0,0,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281402,Y.RAMAVARAM,Rural,1,PS (I-V),8,Unrecognized,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281402,Y.RAMAVARAM,Rural,2,UPS (I-VIII),2,Tribal Welfare Department,6,5,5,0,1,4,5,5,0,0,1,5,0,4,0,4,3,5,1,5,4,2,2,4,3,5,5,2,2,0,1,0,0,1,4,4,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281402,Y.RAMAVARAM,Rural,6,SS (I-X),2,Tribal Welfare Department,2,2,1,0,0,2,2,2,0,0,2,2,0,1,0,1,1,1,0,1,1,1,0,1,1,2,2,1,1,0,1,0,0,0,2,2,1,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281402,Y.RAMAVARAM,Rural,7,SS (VI-X),1,Department of Education,1,1,1,0,0,1,1,1,0,0,1,1,0,1,0,0,0,1,0,1,0,0,1,1,0,1,1,1,0,1,1,0,0,1,0,0,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281402,Y.RAMAVARAM,Rural,7,SS (VI-X),2,Tribal Welfare Department,3,3,3,0,2,2,3,3,0,0,3,3,0,3,3,1,1,2,0,3,1,1,1,2,1,3,3,3,2,1,2,0,1,1,3,3,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281402,Y.RAMAVARAM,Rural,7,SS (VI-X),3,Local body,2,2,1,0,1,2,2,2,0,0,2,2,0,1,1,2,1,2,1,2,1,1,2,2,1,2,2,2,2,1,1,0,1,0,2,2,2,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281402,Y.RAMAVARAM,Rural,11,HSS (XI-XII),1,Department of Education,1,1,0,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281402,Y.RAMAVARAM,Rural,11,HSS (XI-XII),2,Tribal Welfare Department,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,0,0,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281403,ADDATEEGALA,Rural,1,PS (I-V),2,Tribal Welfare Department,39,38,5,20,0,17,23,23,0,0,6,35,0,3,17,28,1,34,2,34,2,3,32,32,2,32,32,10,8,0,3,0,0,6,23,15,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281403,ADDATEEGALA,Rural,1,PS (I-V),3,Local body,35,34,8,13,2,25,20,20,0,0,15,34,0,3,18,27,6,29,6,29,7,2,23,23,5,31,30,8,3,1,13,1,6,10,28,22,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281403,ADDATEEGALA,Rural,1,PS (I-V),4,Government Aided,4,4,2,3,2,3,1,1,0,0,3,4,0,1,0,1,1,1,1,1,1,0,1,1,1,4,4,2,1,0,2,2,1,0,3,2,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281403,ADDATEEGALA,Rural,1,PS (I-V),5,Private Unaided (Recognized),1,1,1,0,0,1,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281403,ADDATEEGALA,Rural,2,UPS (I-VIII),2,Tribal Welfare Department,4,4,2,0,1,3,3,4,0,0,2,4,0,2,3,2,1,3,1,3,1,1,3,3,1,4,4,4,3,0,2,1,0,1,4,3,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281403,ADDATEEGALA,Rural,2,UPS (I-VIII),3,Local body,1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,1,0,1,0,1,1,1,0,1,1,1,0,1,1,0,0,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281403,ADDATEEGALA,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281403,ADDATEEGALA,Rural,2,UPS (I-VIII),8,Unrecognized,1,1,1,0,0,0,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281403,ADDATEEGALA,Rural,6,SS (I-X),2,Tribal Welfare Department,4,3,2,0,1,3,3,3,0,0,1,3,0,2,2,1,1,2,1,2,1,1,1,2,1,4,4,3,0,0,1,0,0,2,3,2,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281403,ADDATEEGALA,Rural,7,SS (VI-X),2,Tribal Welfare Department,1,1,0,0,0,1,1,1,0,0,1,1,0,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0,1,1,1,1,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281403,ADDATEEGALA,Rural,7,SS (VI-X),3,Local body,4,4,2,0,2,3,4,4,0,0,3,4,0,4,3,1,0,1,0,1,0,1,3,3,0,4,4,0,0,0,2,0,0,2,4,4,1,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281403,ADDATEEGALA,Rural,7,SS (VI-X),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281403,ADDATEEGALA,Rural,11,HSS (XI-XII),1,Department of Education,2,2,0,0,1,2,2,2,1,0,2,2,1,2,1,0,0,0,0,0,0,1,0,1,0,2,2,1,0,1,1,1,0,1,1,1,1,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281403,ADDATEEGALA,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),2,1,1,0,0,0,2,2,0,0,2,2,0,1,0,1,1,1,1,1,1,0,0,0,0,2,2,0,0,0,1,0,1,0,2,2,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281404,RAJAVOMMANGI,Rural,1,PS (I-V),2,Tribal Welfare Department,36,36,11,18,3,15,32,32,0,0,11,31,0,7,8,31,1,31,2,31,2,1,5,5,1,29,28,0,25,0,32,0,2,2,30,29,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281404,RAJAVOMMANGI,Rural,1,PS (I-V),3,Local body,39,39,22,9,3,24,38,38,0,0,17,38,0,11,1,35,3,38,5,38,5,7,11,11,2,32,32,1,30,0,39,0,4,3,36,32,0,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281404,RAJAVOMMANGI,Rural,1,PS (I-V),4,Government Aided,3,3,1,2,2,3,3,3,0,0,2,3,0,2,0,1,1,3,3,3,3,0,0,0,0,3,3,0,3,0,3,0,3,2,2,2,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281404,RAJAVOMMANGI,Rural,1,PS (I-V),5,Private Unaided (Recognized),1,1,1,0,0,0,1,1,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281404,RAJAVOMMANGI,Rural,2,UPS (I-VIII),2,Tribal Welfare Department,6,6,3,0,1,6,6,6,0,0,3,6,0,5,5,5,0,6,1,6,1,1,1,2,0,6,6,3,4,0,6,0,1,2,6,6,1,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281404,RAJAVOMMANGI,Rural,2,UPS (I-VIII),3,Local body,3,3,2,0,0,3,3,3,0,0,3,3,0,2,3,3,0,3,0,3,0,0,1,1,0,3,3,0,2,0,3,0,0,1,3,3,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281404,RAJAVOMMANGI,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),1,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281404,RAJAVOMMANGI,Rural,6,SS (I-X),2,Tribal Welfare Department,3,3,3,0,1,2,3,3,0,0,2,3,0,2,3,0,0,3,0,3,0,0,1,1,0,3,3,2,1,0,3,0,0,0,2,2,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281404,RAJAVOMMANGI,Rural,7,SS (VI-X),2,Tribal Welfare Department,4,3,1,0,1,3,4,4,0,0,3,4,0,3,2,2,1,1,0,3,1,0,1,1,0,4,4,4,4,1,4,0,1,0,3,3,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281404,RAJAVOMMANGI,Rural,7,SS (VI-X),3,Local body,3,3,2,0,0,3,3,3,0,0,3,3,0,3,2,1,0,1,0,1,0,1,0,1,0,3,3,2,2,0,3,0,0,2,3,3,1,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281404,RAJAVOMMANGI,Rural,11,HSS (XI-XII),1,Department of Education,1,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281404,RAJAVOMMANGI,Rural,11,HSS (XI-XII),90,Social welfare Department,1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,0,0,1,1,1,1,0,0,0,0,1,1,1,0,0,1,1,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281405,KOTANANDURU,Rural,1,PS (I-V),2,Tribal Welfare Department,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,1,0,0,1,0,1,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281405,KOTANANDURU,Rural,1,PS (I-V),3,Local body,20,20,4,2,4,14,20,20,0,0,9,20,0,1,6,18,14,19,15,19,15,16,19,19,15,20,20,1,0,0,17,1,14,17,20,13,0,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281405,KOTANANDURU,Rural,1,PS (I-V),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,2,0,2,1,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,2,0,2,2,2,1,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281405,KOTANANDURU,Rural,2,UPS (I-VIII),3,Local body,4,4,1,0,0,4,4,4,0,0,1,4,0,1,1,4,3,4,2,4,3,3,4,4,3,4,4,0,0,0,4,0,3,3,4,4,0,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281405,KOTANANDURU,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),5,5,2,1,2,2,5,5,0,0,5,5,0,5,0,3,3,3,3,3,3,3,3,3,3,5,5,1,0,0,4,2,3,0,2,0,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281405,KOTANANDURU,Rural,5,HSS (VI-XII),1,Department of Education,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,0,0,1,1,1,1,0,1,1,1,1,1,1,0,0,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281405,KOTANANDURU,Rural,6,SS (I-X),5,Private Unaided (Recognized),3,3,1,0,3,1,3,3,0,0,3,3,0,3,0,2,2,2,2,2,2,2,2,2,2,3,3,2,1,0,2,0,2,0,2,1,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281405,KOTANANDURU,Rural,7,SS (VI-X),3,Local body,6,6,1,0,2,6,6,6,0,0,6,6,0,5,0,6,6,5,5,6,6,4,4,4,4,6,6,4,4,0,5,0,5,6,6,6,3,6
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281405,KOTANANDURU,Rural,7,SS (VI-X),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,1,0,2,2,0,2,1,2,2,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281405,KOTANANDURU,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),3,3,3,0,3,2,3,3,0,0,3,2,0,3,0,2,2,2,2,2,2,2,2,2,1,3,3,1,0,0,1,1,1,2,3,2,2,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,Rural,1,PS (I-V),3,Local body,45,45,11,12,2,29,45,45,0,0,25,45,0,5,6,36,31,41,37,44,43,17,26,30,30,38,38,3,7,18,44,0,37,25,37,11,0,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,Rural,1,PS (I-V),5,Private Unaided (Recognized),4,4,4,0,1,0,4,4,0,0,4,4,0,3,0,2,2,2,2,2,2,2,2,2,2,4,4,2,0,1,4,2,2,1,0,0,0,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,Rural,2,UPS (I-VIII),3,Local body,8,8,6,1,1,8,8,8,0,0,3,8,0,0,0,7,6,7,6,8,7,4,5,6,6,8,8,0,4,5,8,0,7,7,8,5,0,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),9,9,8,0,8,7,9,9,0,0,9,9,0,7,2,8,7,8,7,8,7,6,7,7,6,9,9,6,1,4,9,1,7,2,4,3,3,9
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,Rural,5,HSS (VI-XII),1,Department of Education,2,2,2,0,2,2,2,2,1,0,2,2,0,2,1,1,1,2,2,2,2,1,1,1,1,2,2,2,2,2,2,1,2,2,2,2,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,Rural,6,SS (I-X),1,Department of Education,1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,0,0,1,1,1,1,0,0,0,0,1,1,1,1,1,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,Rural,6,SS (I-X),2,Tribal Welfare Department,1,1,1,0,0,1,1,1,0,0,1,1,0,1,1,0,0,1,1,1,1,0,0,0,0,1,1,0,1,1,1,0,1,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,Rural,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,Rural,6,SS (I-X),90,Social welfare Department,2,2,2,0,1,1,2,2,0,0,1,1,0,1,1,1,1,1,0,2,1,0,1,1,0,2,2,0,0,1,2,0,1,1,2,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,Rural,7,SS (VI-X),3,Local body,10,10,4,0,6,9,9,9,0,0,8,9,0,9,4,9,8,9,7,9,8,8,8,8,7,9,9,3,5,3,9,1,8,9,10,9,5,9
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,Rural,7,SS (VI-X),5,Private Unaided (Recognized),2,2,1,0,0,1,2,2,0,0,2,2,0,2,0,1,1,1,1,1,1,1,1,1,1,2,2,1,0,2,2,1,1,0,0,0,1,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,Rural,11,HSS (XI-XII),1,Department of Education,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,1,1,1,1,0,0,1,1,1,1,0,0,0,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,Rural,11,HSS (XI-XII),90,Social welfare Department,1,1,1,0,1,0,1,1,0,0,1,1,0,1,1,0,0,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,Urban,1,PS (I-V),3,Local body,17,17,9,2,10,6,17,17,0,0,7,16,1,1,0,12,10,17,16,17,16,7,12,13,12,17,17,1,1,14,17,0,16,4,17,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,Urban,1,PS (I-V),5,Private Unaided (Recognized),13,13,13,0,13,6,13,13,0,0,13,12,0,11,0,9,9,9,9,9,9,9,9,10,9,13,13,7,4,12,13,3,9,1,7,2,11,12
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),8,8,8,0,7,5,8,8,0,0,7,8,0,4,0,7,6,7,6,7,6,1,3,3,3,8,8,0,1,8,8,2,6,1,2,0,7,6
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,Urban,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,0,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,Urban,7,SS (VI-X),1,Department of Education,1,1,1,0,0,1,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,Urban,7,SS (VI-X),3,Local body,3,3,2,0,3,2,3,3,0,0,2,3,0,3,1,2,2,3,2,3,2,2,3,3,2,3,3,2,3,3,3,0,2,1,3,0,2,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,Urban,7,SS (VI-X),5,Private Unaided (Recognized),12,12,12,0,12,6,12,12,0,0,12,12,0,11,0,10,10,10,10,10,10,9,10,10,10,12,12,6,3,11,12,3,10,5,6,5,12,11
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,Urban,11,HSS (XI-XII),1,Department of Education,2,2,1,0,1,2,2,2,0,0,2,1,0,1,0,1,1,1,1,2,2,1,1,2,2,2,2,2,0,1,2,0,2,0,2,2,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),6,6,6,0,6,5,6,6,2,0,6,5,2,5,0,6,6,6,6,6,6,4,4,4,4,6,6,2,0,5,6,2,6,1,5,4,5,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281407,THONDANGI,Rural,1,PS (I-V),3,Local body,44,44,17,5,2,34,43,43,4,0,30,43,4,2,0,41,13,41,14,41,15,17,23,23,13,39,39,0,19,24,41,3,12,27,44,44,1,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281407,THONDANGI,Rural,1,PS (I-V),5,Private Unaided (Recognized),4,4,3,0,3,3,4,4,1,0,4,4,1,4,0,4,4,4,4,4,4,1,3,3,3,4,4,3,2,3,3,2,3,4,3,3,1,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281407,THONDANGI,Rural,2,UPS (I-VIII),3,Local body,8,8,0,0,0,6,8,8,0,0,8,8,0,1,0,7,2,7,4,7,4,6,6,6,4,8,8,0,3,5,8,2,4,4,8,8,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281407,THONDANGI,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),10,10,10,0,8,10,10,10,0,0,10,10,0,8,1,10,9,10,9,10,9,8,9,9,9,10,10,3,2,6,10,4,9,3,7,6,7,7
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281407,THONDANGI,Rural,6,SS (I-X),5,Private Unaided (Recognized),2,2,1,0,2,2,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,2,1,2,2,2,2,0,2,1,2,1,2,2,2,2,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281407,THONDANGI,Rural,7,SS (VI-X),1,Department of Education,1,1,0,0,1,1,1,1,0,0,1,1,0,1,0,0,0,1,1,1,1,0,1,1,1,1,1,0,0,1,1,1,1,1,1,1,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281407,THONDANGI,Rural,7,SS (VI-X),3,Local body,11,11,4,0,3,11,11,11,1,0,11,11,1,9,0,9,6,10,10,10,10,4,9,9,9,11,11,7,5,6,10,2,9,9,11,11,5,10
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281407,THONDANGI,Rural,7,SS (VI-X),5,Private Unaided (Recognized),3,3,3,0,2,2,3,3,1,0,3,3,1,2,0,3,3,3,3,3,3,1,3,3,3,3,3,2,2,3,3,2,3,3,3,3,3,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281407,THONDANGI,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),1,1,0,0,1,1,1,1,0,0,1,1,0,1,1,1,0,1,0,1,0,0,0,0,0,1,1,1,0,1,1,1,0,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281408,GOLLAPROLU,Rural,1,PS (I-V),3,Local body,24,23,7,3,1,14,22,22,0,0,18,24,0,0,0,22,22,23,23,23,23,19,21,21,21,24,24,6,23,21,23,1,22,24,24,23,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281408,GOLLAPROLU,Rural,1,PS (I-V),5,Private Unaided (Recognized),1,1,0,0,1,1,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,0,0,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281408,GOLLAPROLU,Rural,2,UPS (I-VIII),3,Local body,4,4,0,0,0,1,4,4,0,0,2,4,0,0,0,4,4,4,4,4,4,1,3,3,3,4,4,0,3,3,4,0,4,4,4,4,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281408,GOLLAPROLU,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),11,11,11,0,10,7,11,11,0,0,11,11,0,8,5,9,9,9,9,9,9,7,9,9,9,11,11,10,11,11,11,2,9,10,6,6,7,6
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281408,GOLLAPROLU,Rural,7,SS (VI-X),3,Local body,5,5,2,0,3,5,5,5,0,0,5,5,0,4,0,5,5,5,5,5,5,3,4,4,4,5,5,4,5,5,5,0,5,5,5,5,4,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281408,GOLLAPROLU,Rural,7,SS (VI-X),5,Private Unaided (Recognized),1,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,0,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281408,GOLLAPROLU,Urban,1,PS (I-V),3,Local body,6,6,3,0,2,4,6,6,0,0,6,6,0,0,0,6,6,6,6,6,6,4,3,4,4,6,6,1,6,6,6,0,6,6,6,4,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281408,GOLLAPROLU,Urban,1,PS (I-V),4,Government Aided,1,1,1,0,1,0,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,0,1,0,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281408,GOLLAPROLU,Urban,1,PS (I-V),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281408,GOLLAPROLU,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),5,5,5,0,4,4,5,5,0,0,5,5,0,2,2,5,5,5,5,5,5,2,3,3,3,5,5,5,5,4,5,0,5,5,3,3,3,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281408,GOLLAPROLU,Urban,7,SS (VI-X),3,Local body,2,2,1,0,2,1,2,2,0,0,2,2,0,1,0,1,1,2,2,2,2,1,2,2,2,2,2,2,2,2,2,0,2,2,2,2,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281408,GOLLAPROLU,Urban,7,SS (VI-X),5,Private Unaided (Recognized),2,2,2,0,1,1,2,2,0,0,2,2,0,1,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,1,2,2,1,1,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281408,GOLLAPROLU,Urban,11,HSS (XI-XII),1,Department of Education,1,0,0,0,0,0,1,1,0,0,1,1,0,1,0,0,0,1,1,1,1,0,0,0,0,1,1,1,0,0,1,0,1,0,1,1,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281408,GOLLAPROLU,Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281409,SANKAVARAM,Rural,1,PS (I-V),2,Tribal Welfare Department,10,10,3,6,3,6,7,7,0,0,3,5,0,0,0,7,4,9,4,9,5,3,5,5,3,9,9,1,0,0,10,0,4,1,10,8,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281409,SANKAVARAM,Rural,1,PS (I-V),3,Local body,25,25,6,5,5,13,25,25,0,0,9,20,0,2,1,22,17,24,19,24,19,18,21,21,18,22,22,0,8,8,24,0,16,14,25,23,0,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281409,SANKAVARAM,Rural,1,PS (I-V),5,Private Unaided (Recognized),2,2,0,0,2,2,2,2,0,0,2,2,0,1,0,2,2,2,2,2,2,2,1,2,2,2,2,1,2,0,2,1,2,0,2,2,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281409,SANKAVARAM,Rural,2,UPS (I-VIII),3,Local body,2,2,0,0,0,2,2,2,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,2,2,0,2,1,2,0,1,0,2,2,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281409,SANKAVARAM,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),7,6,6,0,5,2,7,7,0,0,7,6,0,2,0,3,3,3,3,3,3,3,3,3,3,7,7,2,2,3,5,3,3,0,6,6,1,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281409,SANKAVARAM,Rural,5,HSS (VI-XII),1,Department of Education,2,2,1,0,1,0,2,2,0,0,2,2,0,2,0,1,1,2,1,2,1,1,2,2,1,2,2,1,1,0,2,0,1,1,2,2,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281409,SANKAVARAM,Rural,7,SS (VI-X),2,Tribal Welfare Department,1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,0,0,0,0,1,1,1,1,0,1,0,1,1,1,1,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281409,SANKAVARAM,Rural,7,SS (VI-X),3,Local body,6,6,1,0,3,4,6,6,0,0,4,5,0,4,0,3,3,6,6,6,6,4,5,5,5,6,6,3,3,4,6,1,6,5,5,4,3,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281409,SANKAVARAM,Rural,7,SS (VI-X),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281409,SANKAVARAM,Rural,7,SS (VI-X),5,Private Unaided (Recognized),2,2,0,0,2,2,2,2,0,0,2,2,0,1,0,2,2,2,2,2,2,2,1,2,2,2,2,1,2,0,2,0,2,0,2,2,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281409,SANKAVARAM,Rural,11,HSS (XI-XII),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,1,0,0,1,1,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281409,SANKAVARAM,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,0,1,0,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281410,PRATIPADU,Rural,1,PS (I-V),1,Department of Education,1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,1,0,1,0,1,1,1,0,1,1,0,0,1,1,0,0,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281410,PRATIPADU,Rural,1,PS (I-V),2,Tribal Welfare Department,6,6,1,2,0,3,3,5,0,0,6,5,0,0,1,6,2,6,3,6,3,6,6,6,3,6,6,0,0,1,6,0,3,0,4,4,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281410,PRATIPADU,Rural,1,PS (I-V),3,Local body,26,24,12,4,2,16,24,25,0,0,21,25,0,2,6,22,12,25,17,26,18,15,20,21,15,25,25,1,2,3,25,0,18,18,26,25,2,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281410,PRATIPADU,Rural,1,PS (I-V),4,Government Aided,2,2,2,0,1,1,2,2,0,0,2,2,0,1,1,2,2,2,2,2,2,1,2,2,2,2,2,1,2,1,2,0,2,1,2,2,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281410,PRATIPADU,Rural,1,PS (I-V),5,Private Unaided (Recognized),5,5,4,0,3,3,5,5,0,0,5,5,0,3,0,5,4,5,4,5,4,4,4,4,4,5,5,2,2,0,5,1,4,0,2,2,1,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281410,PRATIPADU,Rural,2,UPS (I-VIII),3,Local body,5,5,2,0,1,3,5,5,0,0,5,5,0,0,0,5,3,5,3,5,3,5,5,5,3,5,5,1,1,2,5,0,3,3,5,5,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281410,PRATIPADU,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),8,8,6,1,4,3,7,8,0,0,7,8,0,6,0,7,7,7,7,7,7,4,4,4,4,8,8,3,6,0,5,3,5,0,6,5,3,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281410,PRATIPADU,Rural,2,UPS (I-VIII),8,Unrecognized,1,1,0,1,0,0,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281410,PRATIPADU,Rural,6,SS (I-X),2,Tribal Welfare Department,1,1,1,0,0,1,1,1,0,0,1,1,0,1,0,0,0,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281410,PRATIPADU,Rural,6,SS (I-X),5,Private Unaided (Recognized),2,2,2,0,2,1,2,2,1,0,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,0,2,0,2,1,2,0,1,1,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281410,PRATIPADU,Rural,7,SS (VI-X),3,Local body,8,7,3,0,3,7,8,8,0,0,8,8,0,5,4,8,7,8,7,8,7,8,8,8,7,8,8,2,5,0,8,1,7,8,8,7,3,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281410,PRATIPADU,Rural,7,SS (VI-X),4,Government Aided,1,1,1,0,0,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281410,PRATIPADU,Rural,7,SS (VI-X),5,Private Unaided (Recognized),3,3,3,0,3,3,3,3,0,0,3,3,0,2,0,2,2,2,2,2,2,1,2,2,2,3,3,2,2,0,1,1,1,2,1,1,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281410,PRATIPADU,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),2,2,2,0,1,1,2,2,0,0,2,2,0,1,0,2,2,2,2,2,2,1,1,1,1,2,2,0,1,1,2,1,2,1,2,2,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,Rural,1,PS (I-V),3,Local body,19,19,11,1,4,15,19,19,0,0,16,19,0,0,1,18,17,18,17,18,18,17,16,17,17,19,19,4,13,3,19,0,18,17,18,17,0,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,Rural,1,PS (I-V),5,Private Unaided (Recognized),3,3,2,0,1,3,3,3,0,0,3,3,0,2,0,3,3,3,3,3,3,2,3,3,3,3,3,1,3,0,3,0,3,0,1,1,1,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,Rural,2,UPS (I-VIII),3,Local body,5,5,1,0,0,5,5,5,0,0,4,4,0,1,2,4,4,5,4,5,5,5,3,5,5,5,5,1,3,0,5,0,5,4,4,3,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),4,4,3,0,3,4,4,4,0,0,4,4,0,3,0,4,4,4,4,4,4,2,3,3,3,4,4,1,2,0,4,1,4,1,2,1,2,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,Rural,6,SS (I-X),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,1,1,1,1,2,2,0,2,2,2,0,2,0,2,1,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,Rural,7,SS (VI-X),3,Local body,5,5,4,0,1,5,5,5,0,0,5,5,0,3,3,4,3,4,4,4,4,3,4,4,4,4,4,2,3,2,4,0,4,4,5,5,4,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,Rural,7,SS (VI-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),2,1,2,0,2,1,2,2,1,0,2,2,1,2,1,1,1,1,1,1,1,1,1,1,1,2,2,1,1,2,2,1,1,0,2,1,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,Urban,1,PS (I-V),3,Local body,8,8,2,1,0,7,8,8,0,0,8,8,0,1,0,7,7,6,6,7,7,6,6,6,5,8,8,0,4,2,8,0,7,6,8,7,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,Urban,1,PS (I-V),5,Private Unaided (Recognized),8,8,8,0,8,8,8,8,1,0,8,8,1,7,0,6,6,6,6,6,6,5,7,7,6,8,8,3,5,2,8,2,6,1,7,7,4,6
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),3,3,3,0,3,3,3,3,0,0,3,3,0,3,0,2,2,2,2,2,2,2,2,2,2,3,3,1,2,0,3,3,2,2,1,1,1,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,Urban,3,HSS (I-XII),90,Social welfare Department,1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,Urban,6,SS (I-X),5,Private Unaided (Recognized),2,2,2,0,2,1,2,2,0,0,2,2,0,2,0,0,0,0,0,0,0,0,1,1,0,2,2,0,1,1,1,1,0,0,2,2,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,Urban,7,SS (VI-X),1,Department of Education,1,1,1,0,0,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,Urban,7,SS (VI-X),3,Local body,1,1,0,0,0,1,1,1,0,0,1,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,Urban,7,SS (VI-X),5,Private Unaided (Recognized),4,4,4,0,4,4,4,4,0,0,4,4,0,4,1,2,2,2,2,2,2,3,3,3,2,4,4,2,3,1,4,1,2,1,4,4,4,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,Urban,11,HSS (XI-XII),1,Department of Education,1,1,0,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281412,GANGAVARAM,Rural,1,PS (I-V),2,Tribal Welfare Department,15,15,4,11,2,9,15,15,0,0,8,15,0,1,14,12,2,14,10,14,10,5,13,13,10,15,15,0,0,1,4,0,2,3,15,13,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281412,GANGAVARAM,Rural,1,PS (I-V),3,Local body,33,32,9,11,4,17,28,28,0,0,14,33,0,3,32,22,11,27,22,27,23,18,24,25,19,31,31,0,1,0,15,1,9,17,32,25,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281412,GANGAVARAM,Rural,1,PS (I-V),4,Government Aided,3,3,1,2,0,2,0,0,0,0,1,3,0,0,3,1,1,1,1,1,1,0,1,1,1,3,3,0,0,0,1,0,1,0,3,2,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281412,GANGAVARAM,Rural,2,UPS (I-VIII),2,Tribal Welfare Department,1,1,0,0,0,1,1,1,0,0,1,1,0,1,1,1,1,1,0,1,1,0,0,0,0,1,1,1,0,0,1,0,1,0,1,1,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281412,GANGAVARAM,Rural,2,UPS (I-VIII),3,Local body,3,3,2,0,2,3,3,3,0,0,3,3,0,3,2,2,1,3,3,3,3,1,3,3,3,3,3,0,0,0,1,1,1,1,3,3,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281412,GANGAVARAM,Rural,5,HSS (VI-XII),1,Department of Education,1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,0,0,1,0,1,1,1,1,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281412,GANGAVARAM,Rural,6,SS (I-X),2,Tribal Welfare Department,3,2,2,0,1,3,2,2,0,0,2,2,0,1,1,1,1,2,1,2,2,0,1,1,1,2,2,2,0,0,2,0,2,0,3,3,1,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281412,GANGAVARAM,Rural,7,SS (VI-X),2,Tribal Welfare Department,1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,0,0,1,1,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281412,GANGAVARAM,Rural,7,SS (VI-X),3,Local body,1,1,1,0,0,1,1,1,0,0,1,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,0,1,0,1,0,1,1,1,1,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281412,GANGAVARAM,Rural,11,HSS (XI-XII),1,Department of Education,1,1,1,0,0,1,0,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,Rural,1,PS (I-V),2,Tribal Welfare Department,26,17,5,9,0,16,12,15,0,0,5,18,0,5,4,15,9,16,11,16,11,6,8,8,8,19,19,0,0,1,8,0,6,8,25,24,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,Rural,1,PS (I-V),3,Local body,46,46,11,9,4,31,33,45,0,0,25,45,0,6,9,45,29,45,35,46,35,14,17,18,17,46,46,0,2,0,24,0,19,21,45,43,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,Rural,1,PS (I-V),4,Government Aided,4,4,1,3,0,2,1,1,0,1,3,4,0,0,1,1,1,1,1,1,1,1,1,1,1,3,3,0,0,0,0,0,0,0,4,4,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,Rural,1,PS (I-V),5,Private Unaided (Recognized),4,4,4,1,3,2,4,4,0,0,4,4,0,1,0,4,4,4,4,4,4,1,3,3,3,4,4,1,0,0,0,0,0,0,4,3,1,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,Rural,2,UPS (I-VIII),2,Tribal Welfare Department,3,3,2,0,0,2,3,3,0,0,2,3,0,2,0,2,1,2,2,3,2,1,1,2,1,3,3,2,0,2,1,0,1,2,3,3,0,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,Rural,2,UPS (I-VIII),3,Local body,1,1,0,0,0,1,1,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,1,0,0,1,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,Rural,2,UPS (I-VIII),4,Government Aided,2,2,2,0,2,1,1,1,0,0,2,2,0,1,0,2,2,2,2,2,2,1,1,1,1,2,2,0,0,0,1,0,1,0,2,2,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,Rural,5,HSS (VI-XII),1,Department of Education,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,0,0,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,Rural,6,SS (I-X),2,Tribal Welfare Department,5,5,4,0,1,5,4,4,0,0,3,5,0,4,2,2,1,3,3,4,4,0,3,3,3,4,4,4,0,0,5,1,3,2,5,5,3,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,Rural,7,SS (VI-X),1,Department of Education,1,1,0,0,0,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,Rural,7,SS (VI-X),2,Tribal Welfare Department,5,5,4,0,3,3,5,5,2,0,4,5,2,5,5,2,2,3,3,5,5,2,3,5,5,5,5,4,1,0,4,3,4,3,5,5,1,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,Rural,7,SS (VI-X),3,Local body,1,1,0,0,0,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,Rural,7,SS (VI-X),5,Private Unaided (Recognized),2,2,2,0,1,2,2,2,0,0,2,2,0,0,0,2,2,2,2,2,2,1,2,2,2,2,2,2,0,0,0,0,0,0,2,2,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,Rural,11,HSS (XI-XII),1,Department of Education,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,1,0,0,1,0,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,Urban,11,HSS (XI-XII),2,Tribal Welfare Department,1,1,0,0,0,1,1,1,0,0,1,1,0,1,0,1,1,0,0,1,1,1,0,1,1,1,1,1,0,0,1,0,1,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),2,2,1,0,2,1,2,2,0,0,2,2,1,2,0,2,1,2,1,2,1,1,1,1,1,2,2,2,2,2,2,1,1,1,1,1,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281414,DEVIPATNAM,Rural,1,PS (I-V),2,Tribal Welfare Department,19,16,12,10,1,11,11,11,0,0,5,19,0,3,0,17,12,15,11,17,12,14,14,14,10,13,12,2,1,0,9,0,4,2,18,16,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281414,DEVIPATNAM,Rural,1,PS (I-V),3,Local body,37,35,25,16,3,26,28,28,0,0,19,32,0,3,0,29,17,32,20,33,24,20,27,27,20,33,32,0,2,0,22,0,14,14,36,35,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281414,DEVIPATNAM,Rural,1,PS (I-V),4,Government Aided,4,4,2,4,0,2,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,4,4,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281414,DEVIPATNAM,Rural,2,UPS (I-VIII),3,Local body,3,3,2,0,0,1,3,3,0,0,3,3,0,2,0,3,3,3,3,3,3,3,3,3,3,3,3,0,0,0,2,0,2,1,3,3,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281414,DEVIPATNAM,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),1,1,1,0,0,1,0,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281414,DEVIPATNAM,Rural,6,SS (I-X),2,Tribal Welfare Department,1,1,1,0,0,1,1,1,0,0,0,1,0,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281414,DEVIPATNAM,Rural,7,SS (VI-X),2,Tribal Welfare Department,2,2,2,0,1,1,2,2,0,0,1,2,0,2,0,1,1,1,1,2,2,0,1,1,1,2,2,2,1,0,2,0,2,1,2,2,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281414,DEVIPATNAM,Rural,7,SS (VI-X),3,Local body,2,2,1,0,0,2,2,2,0,0,2,2,0,2,0,2,1,2,2,2,2,1,2,2,2,2,2,1,1,0,2,0,2,1,2,2,0,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281414,DEVIPATNAM,Rural,11,HSS (XI-XII),1,Department of Education,1,1,0,0,0,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281415,SEETHANAGARAM,Rural,1,PS (I-V),3,Local body,43,43,22,13,1,33,43,43,0,0,32,43,0,1,16,38,35,41,38,42,39,29,31,34,33,40,40,10,0,9,42,0,35,36,43,43,3,6
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281415,SEETHANAGARAM,Rural,1,PS (I-V),5,Private Unaided (Recognized),5,5,3,0,5,4,5,5,0,0,5,5,0,4,1,5,4,5,4,5,4,2,4,4,4,5,5,2,1,2,5,1,4,2,4,4,3,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281415,SEETHANAGARAM,Rural,1,PS (I-V),8,Unrecognized,2,2,2,0,2,2,2,2,0,0,2,2,0,1,0,2,2,2,2,2,2,1,1,1,1,2,2,1,0,1,2,0,2,1,0,0,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281415,SEETHANAGARAM,Rural,2,UPS (I-VIII),3,Local body,7,7,6,0,0,4,7,7,0,0,2,7,0,3,4,7,6,7,7,7,7,5,5,5,5,7,7,2,1,2,7,3,7,6,7,6,0,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281415,SEETHANAGARAM,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),9,9,7,0,8,6,9,9,0,0,9,9,0,7,0,6,5,6,5,6,5,3,4,4,3,9,9,3,2,2,6,4,3,2,3,2,6,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281415,SEETHANAGARAM,Rural,6,SS (I-X),5,Private Unaided (Recognized),4,4,4,0,4,4,4,4,0,0,4,4,0,3,1,4,4,4,4,4,4,4,4,4,4,4,4,2,3,1,4,2,4,3,4,2,4,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281415,SEETHANAGARAM,Rural,7,SS (VI-X),1,Department of Education,1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,1,1,1,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281415,SEETHANAGARAM,Rural,7,SS (VI-X),3,Local body,6,6,6,0,1,5,6,6,0,0,5,6,0,5,4,6,6,6,6,6,6,5,5,5,5,5,5,2,3,1,6,4,5,6,6,6,3,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281415,SEETHANAGARAM,Rural,7,SS (VI-X),5,Private Unaided (Recognized),4,4,3,0,2,3,4,4,0,0,4,4,0,4,1,4,4,4,4,4,4,2,4,4,4,4,4,3,3,2,4,2,4,4,4,2,3,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281415,SEETHANAGARAM,Rural,11,HSS (XI-XII),1,Department of Education,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281416,KORUKONDA,Rural,1,PS (I-V),3,Local body,34,34,9,0,6,26,34,34,0,0,31,26,0,2,7,32,22,32,20,33,22,32,33,34,22,32,32,13,18,10,31,2,20,32,34,34,3,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281416,KORUKONDA,Rural,1,PS (I-V),4,Government Aided,1,1,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281416,KORUKONDA,Rural,1,PS (I-V),5,Private Unaided (Recognized),7,7,6,0,7,6,7,7,0,0,7,7,0,5,0,4,4,4,4,4,4,5,5,5,3,7,7,5,5,4,7,1,4,4,4,3,3,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281416,KORUKONDA,Rural,1,PS (I-V),8,Unrecognized,1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,0,0,0,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281416,KORUKONDA,Rural,2,UPS (I-VIII),3,Local body,6,6,1,0,1,3,6,6,0,0,5,6,0,1,2,6,3,6,3,6,3,5,5,5,3,6,6,1,1,1,5,0,3,6,6,6,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281416,KORUKONDA,Rural,2,UPS (I-VIII),4,Government Aided,1,1,1,0,0,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281416,KORUKONDA,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),15,14,9,0,10,8,13,15,0,0,13,14,0,7,0,9,8,9,8,9,8,7,7,7,6,15,14,12,11,9,12,5,8,6,3,3,2,7
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281416,KORUKONDA,Rural,6,SS (I-X),5,Private Unaided (Recognized),3,2,2,0,2,2,3,3,0,0,3,2,0,3,0,2,2,2,2,2,2,2,2,2,2,3,3,2,2,2,2,0,2,3,0,0,1,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281416,KORUKONDA,Rural,7,SS (VI-X),1,Department of Education,1,1,1,0,0,1,1,1,0,0,0,1,0,1,0,0,0,1,1,1,1,0,1,1,1,1,1,0,1,0,1,1,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281416,KORUKONDA,Rural,7,SS (VI-X),3,Local body,12,12,4,0,4,12,12,12,0,0,10,8,0,8,3,11,10,12,12,12,12,9,12,12,12,12,12,3,4,1,12,3,12,5,11,11,6,9
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281416,KORUKONDA,Rural,7,SS (VI-X),5,Private Unaided (Recognized),7,7,6,0,6,5,7,7,0,0,7,7,0,7,0,4,4,4,4,4,4,5,5,5,4,7,7,5,4,2,7,2,4,4,3,2,3,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281416,KORUKONDA,Rural,11,HSS (XI-XII),1,Department of Education,1,1,0,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281416,KORUKONDA,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),2,2,2,0,1,1,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,1,0,2,1,2,0,2,2,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281417,GOKAVARAM,Rural,1,PS (I-V),3,Local body,34,34,6,6,4,26,34,34,0,0,33,34,0,3,3,33,29,34,32,34,32,28,31,32,31,30,30,2,4,5,34,1,28,30,29,28,2,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281417,GOKAVARAM,Rural,1,PS (I-V),5,Private Unaided (Recognized),5,4,4,0,4,2,5,5,0,0,5,5,0,1,0,4,4,4,4,4,4,3,4,4,4,5,5,3,0,1,4,1,4,1,3,3,3,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281417,GOKAVARAM,Rural,2,UPS (I-VIII),3,Local body,10,10,2,0,1,9,10,10,0,0,9,10,0,2,1,10,7,10,7,10,7,9,9,9,7,10,10,1,1,1,9,0,7,10,9,9,0,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281417,GOKAVARAM,Rural,2,UPS (I-VIII),4,Government Aided,1,1,1,0,0,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,1,1,1,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281417,GOKAVARAM,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),12,12,9,0,11,11,12,12,1,0,12,12,1,11,0,10,9,10,9,10,9,6,9,10,9,12,12,4,3,2,11,2,8,2,4,4,8,7
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281417,GOKAVARAM,Rural,3,HSS (I-XII),90,Social welfare Department,1,1,1,0,1,0,1,1,0,0,1,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,0,1,1,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281417,GOKAVARAM,Rural,6,SS (I-X),1,Department of Education,1,1,0,0,1,1,1,1,0,0,1,1,0,1,0,1,1,0,0,1,1,0,0,0,0,1,1,1,0,1,1,0,1,0,1,1,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281417,GOKAVARAM,Rural,6,SS (I-X),5,Private Unaided (Recognized),1,1,0,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281417,GOKAVARAM,Rural,7,SS (VI-X),3,Local body,6,6,2,0,4,6,6,6,0,0,6,6,0,6,5,6,4,6,5,6,5,5,5,5,4,6,6,2,2,2,6,0,5,6,6,6,4,6
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281417,GOKAVARAM,Rural,7,SS (VI-X),5,Private Unaided (Recognized),4,4,4,1,4,3,4,4,0,0,4,4,0,2,0,4,4,4,4,4,4,3,4,4,4,4,4,3,1,1,4,1,4,0,3,3,2,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281417,GOKAVARAM,Rural,11,HSS (XI-XII),1,Department of Education,1,1,1,0,0,1,1,1,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281417,GOKAVARAM,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),3,3,3,0,3,3,3,3,0,0,3,3,2,3,0,3,3,3,3,3,3,0,0,0,0,3,3,2,1,0,3,0,3,0,3,3,3,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281418,JAGGAMPETA,Rural,1,PS (I-V),1,Department of Education,1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,0,1,1,1,0,0,0,0,0,1,0,0,1,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281418,JAGGAMPETA,Rural,1,PS (I-V),3,Local body,32,32,12,4,2,24,32,32,0,0,28,25,0,1,2,24,11,30,14,31,17,14,23,23,14,24,24,5,19,2,31,0,14,30,32,27,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281418,JAGGAMPETA,Rural,1,PS (I-V),5,Private Unaided (Recognized),4,3,3,0,3,3,4,4,0,0,4,4,0,3,0,2,2,2,2,2,2,2,2,2,2,4,4,3,2,1,3,0,1,2,3,1,3,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281418,JAGGAMPETA,Rural,2,UPS (I-VIII),3,Local body,5,5,4,0,0,2,5,5,0,0,2,4,0,0,1,5,3,4,2,5,3,4,4,5,3,5,5,1,2,0,4,1,2,5,5,2,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281418,JAGGAMPETA,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),14,13,13,0,10,9,14,14,0,0,13,13,0,6,0,10,10,10,10,10,10,11,11,12,10,12,12,7,6,2,12,5,9,4,4,3,9,9
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281418,JAGGAMPETA,Rural,6,SS (I-X),3,Local body,1,1,0,0,0,1,1,1,0,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281418,JAGGAMPETA,Rural,6,SS (I-X),5,Private Unaided (Recognized),3,3,3,0,2,1,3,3,0,0,3,3,0,3,0,1,1,1,1,1,1,0,1,1,1,3,3,2,2,1,3,2,1,2,1,0,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281418,JAGGAMPETA,Rural,6,SS (I-X),90,Social welfare Department,1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,0,0,1,0,1,0,0,0,0,0,1,1,1,1,0,1,0,0,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281418,JAGGAMPETA,Rural,7,SS (VI-X),1,Department of Education,1,1,1,0,1,1,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281418,JAGGAMPETA,Rural,7,SS (VI-X),3,Local body,6,5,3,0,3,5,5,5,0,0,4,6,0,3,2,4,4,5,5,5,5,1,4,4,3,6,6,2,3,2,6,4,5,5,6,6,3,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281418,JAGGAMPETA,Rural,7,SS (VI-X),5,Private Unaided (Recognized),3,2,2,0,3,2,3,3,0,0,3,3,0,1,0,2,2,2,2,2,2,0,1,1,1,3,3,3,2,2,3,0,2,1,3,0,3,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281418,JAGGAMPETA,Rural,11,HSS (XI-XII),1,Department of Education,1,1,0,0,1,0,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,1,0,1,1,1,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281418,JAGGAMPETA,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),2,1,1,0,2,2,2,2,0,0,2,2,0,1,0,1,1,1,1,1,1,0,0,0,0,2,2,1,0,1,1,0,1,1,2,2,2,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281418,JAGGAMPETA,Rural,11,HSS (XI-XII),90,Social welfare Department,1,1,0,0,1,1,1,1,0,0,1,1,0,1,1,0,0,1,1,1,1,0,0,0,0,1,1,1,1,1,1,0,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281419,KIRLAMPUDI,Rural,1,PS (I-V),3,Local body,30,30,18,3,4,16,30,30,0,0,18,25,0,1,3,22,17,27,23,28,24,19,23,25,21,28,28,0,23,0,25,1,22,24,30,30,0,6
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281419,KIRLAMPUDI,Rural,1,PS (I-V),5,Private Unaided (Recognized),6,6,6,0,4,4,5,6,0,0,6,6,0,6,0,6,5,6,5,6,5,4,6,6,5,6,6,2,3,0,6,2,5,4,5,4,2,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281419,KIRLAMPUDI,Rural,2,UPS (I-VIII),3,Local body,3,3,2,0,1,3,3,3,0,0,2,3,0,0,1,3,2,3,3,3,3,2,2,2,2,3,3,0,1,1,3,0,3,3,3,3,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281419,KIRLAMPUDI,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),7,7,6,0,7,3,7,7,0,0,6,7,0,4,1,4,3,4,3,4,3,3,4,4,3,7,7,6,6,1,5,3,3,2,3,3,2,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281419,KIRLAMPUDI,Rural,6,SS (I-X),5,Private Unaided (Recognized),2,2,2,0,1,1,2,2,0,0,2,2,0,1,0,2,2,2,2,2,2,2,2,2,2,2,2,1,0,0,2,1,2,1,1,0,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281419,KIRLAMPUDI,Rural,7,SS (VI-X),1,Department of Education,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281419,KIRLAMPUDI,Rural,7,SS (VI-X),3,Local body,7,6,4,0,3,7,5,5,0,0,5,6,0,3,2,6,6,6,6,6,6,6,6,6,6,6,6,2,2,1,7,0,5,5,7,7,3,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281419,KIRLAMPUDI,Rural,7,SS (VI-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281419,KIRLAMPUDI,Rural,11,HSS (XI-XII),1,Department of Education,1,1,0,0,1,1,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,1,0,0,0,0,0,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281419,KIRLAMPUDI,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),3,3,3,0,2,1,3,3,0,0,3,3,0,2,0,3,3,3,3,3,3,2,2,2,2,3,3,2,0,1,2,2,2,2,3,3,2,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,Rural,1,PS (I-V),3,Local body,33,33,26,6,4,20,33,33,0,0,22,31,0,3,9,23,13,29,19,30,19,22,27,28,17,27,27,0,9,4,32,0,16,24,33,33,0,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,Rural,1,PS (I-V),4,Government Aided,1,1,1,0,0,1,1,1,0,0,1,1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,Rural,1,PS (I-V),5,Private Unaided (Recognized),3,3,3,0,3,3,3,3,0,0,3,3,0,3,0,3,3,3,3,3,3,2,3,3,3,3,3,2,2,1,3,1,3,0,3,1,2,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,Rural,2,UPS (I-VIII),3,Local body,7,7,5,0,2,5,7,7,0,0,7,7,0,3,2,5,3,5,4,5,4,5,5,5,4,5,5,0,3,2,5,1,4,4,7,7,0,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),7,7,7,0,6,6,7,7,0,0,7,6,0,5,0,5,5,5,5,5,5,5,5,5,5,7,6,2,2,2,6,2,5,3,6,6,4,7
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,Rural,6,SS (I-X),5,Private Unaided (Recognized),3,3,3,0,3,2,3,3,0,0,3,3,0,3,0,3,3,3,3,3,3,1,1,1,1,3,3,2,1,0,3,0,3,2,3,3,3,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,Rural,7,SS (VI-X),3,Local body,7,7,2,0,5,7,7,7,0,0,6,7,0,4,2,7,5,7,6,7,6,5,6,6,5,7,7,1,1,3,7,4,6,7,7,7,2,7
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,Rural,7,SS (VI-X),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,0,0,1,1,1,1,0,1,1,1,1,1,0,1,0,1,0,1,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,Rural,7,SS (VI-X),5,Private Unaided (Recognized),3,3,3,0,3,3,3,3,0,0,3,3,0,3,0,2,2,2,2,2,2,2,2,2,2,3,3,2,2,0,2,0,2,0,3,1,2,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),3,2,2,0,3,2,3,3,0,0,3,3,1,3,0,2,2,2,2,2,2,2,2,2,2,3,3,1,0,1,3,0,2,0,3,2,2,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,Urban,1,PS (I-V),3,Local body,21,21,18,3,3,8,21,21,0,0,10,20,0,2,3,16,11,20,15,20,15,14,17,17,15,21,21,3,4,0,21,0,15,12,19,15,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,Urban,1,PS (I-V),5,Private Unaided (Recognized),5,5,5,0,5,3,5,5,0,0,5,5,0,5,1,2,2,2,2,2,2,4,4,4,2,5,5,3,3,1,5,1,2,1,3,3,4,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,Urban,2,UPS (I-VIII),3,Local body,3,3,3,0,1,2,3,3,0,0,2,3,0,1,1,3,3,3,3,3,3,3,2,3,3,3,3,2,1,1,3,0,3,2,3,3,2,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),8,8,8,0,7,4,8,8,0,0,8,8,0,6,0,7,7,7,7,7,7,3,6,6,6,7,6,4,4,2,8,3,6,2,8,7,5,8
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,Urban,3,HSS (I-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,Urban,5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,0,1,0,1,0,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,Urban,6,SS (I-X),1,Department of Education,1,1,1,0,1,0,1,1,0,0,1,0,0,1,1,1,1,0,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,0,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,Urban,6,SS (I-X),5,Private Unaided (Recognized),3,3,3,0,2,1,3,3,0,0,3,3,0,3,0,3,3,3,3,3,3,3,3,3,3,3,3,2,2,1,3,2,3,2,2,1,3,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,Urban,7,SS (VI-X),1,Department of Education,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,Urban,7,SS (VI-X),3,Local body,2,2,2,0,2,1,2,2,0,0,1,2,0,1,0,2,2,2,2,2,2,2,2,2,2,2,2,2,1,0,2,2,2,2,2,2,1,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,Urban,7,SS (VI-X),4,Government Aided,2,2,2,0,2,2,2,2,0,0,2,2,0,2,0,1,1,1,1,1,1,1,1,1,1,2,2,2,2,0,2,1,1,1,2,2,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,Urban,7,SS (VI-X),5,Private Unaided (Recognized),5,5,5,0,5,4,5,5,0,0,5,5,0,4,1,1,1,1,1,1,1,2,2,2,1,5,5,3,2,2,4,3,1,1,4,4,5,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),4,4,4,0,4,4,4,4,1,0,4,4,1,4,0,4,4,4,4,4,4,3,3,3,3,4,4,1,0,0,4,1,4,1,4,4,4,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,Rural,1,PS (I-V),3,Local body,34,34,15,4,4,20,34,34,0,0,20,31,1,2,4,32,25,33,27,33,28,26,30,32,28,30,30,2,5,14,22,1,19,16,29,24,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,Rural,1,PS (I-V),5,Private Unaided (Recognized),2,2,2,0,1,1,2,2,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,2,1,0,1,2,1,0,0,0,0,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,Rural,2,UPS (I-VIII),3,Local body,8,8,6,0,2,4,8,8,0,0,4,8,0,0,2,8,7,8,7,8,7,4,7,7,6,8,8,0,1,3,6,0,5,5,8,6,0,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),8,7,7,0,8,8,7,8,1,0,8,8,1,6,2,6,6,6,6,6,6,2,5,5,5,8,8,2,3,3,6,4,5,2,5,2,4,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,Rural,6,SS (I-X),5,Private Unaided (Recognized),1,1,0,0,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,Rural,7,SS (VI-X),3,Local body,10,9,4,0,5,9,9,9,0,0,9,9,0,7,4,9,7,9,8,9,8,6,9,9,8,9,9,1,5,4,10,5,8,8,10,10,4,9
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,Urban,1,PS (I-V),3,Local body,22,21,16,0,1,13,21,21,0,0,17,19,0,0,3,21,13,21,14,21,14,14,18,18,13,20,20,2,11,8,19,0,11,14,20,7,1,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,Urban,1,PS (I-V),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,0,1,0,1,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,Urban,1,PS (I-V),5,Private Unaided (Recognized),11,11,11,0,10,10,11,11,0,0,11,10,0,8,2,8,8,8,8,8,8,4,7,7,7,11,11,7,5,7,8,4,6,0,6,1,11,11
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),10,10,9,0,10,7,10,10,0,0,10,9,0,8,1,8,8,8,8,8,8,3,7,7,7,10,10,8,4,4,8,3,7,1,7,6,7,8
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,Urban,3,HSS (I-XII),90,Social welfare Department,1,1,1,0,0,1,1,1,0,0,1,1,0,0,1,0,0,1,0,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,Urban,6,SS (I-X),5,Private Unaided (Recognized),3,3,3,0,3,2,3,3,0,0,3,3,0,3,1,3,3,3,3,3,3,2,3,3,3,3,3,3,1,3,3,0,3,0,2,2,3,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,Urban,7,SS (VI-X),1,Department of Education,2,2,2,0,2,2,2,2,0,0,2,2,0,2,0,1,1,2,2,2,2,1,2,2,2,2,2,1,1,1,2,0,2,2,2,1,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,Urban,7,SS (VI-X),3,Local body,3,3,3,0,2,2,3,3,0,0,3,3,0,3,1,1,1,3,2,3,2,0,3,3,2,3,3,1,2,3,3,1,2,3,3,1,3,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,Urban,7,SS (VI-X),4,Government Aided,2,2,2,0,1,1,2,2,0,0,2,2,0,1,0,2,2,2,2,2,2,2,2,2,2,2,2,1,0,2,2,1,2,0,2,0,1,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,Urban,7,SS (VI-X),5,Private Unaided (Recognized),13,13,13,0,12,11,13,13,0,0,13,13,1,13,2,11,11,11,11,11,11,10,10,10,10,13,13,11,6,10,11,6,11,0,8,4,13,13
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,Urban,11,HSS (XI-XII),1,Department of Education,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),7,7,5,0,5,3,7,7,0,0,7,7,0,7,0,6,6,6,6,6,6,4,4,4,4,6,6,1,1,2,4,3,4,1,6,6,2,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281422,U.KOTHAPALLI,Rural,1,PS (I-V),3,Local body,53,51,22,8,2,31,52,52,0,0,31,35,0,3,7,46,32,49,34,51,38,49,47,49,38,51,51,11,29,25,52,2,37,37,53,36,0,6
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281422,U.KOTHAPALLI,Rural,1,PS (I-V),5,Private Unaided (Recognized),5,5,5,0,4,2,3,5,0,0,5,5,0,1,0,5,5,5,5,5,5,4,5,5,5,5,5,1,3,0,3,0,3,3,2,1,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281422,U.KOTHAPALLI,Rural,2,UPS (I-VIII),3,Local body,3,3,0,0,1,1,3,3,0,0,2,3,0,0,2,3,2,3,3,3,3,2,3,3,3,3,3,0,1,1,3,0,3,2,3,3,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281422,U.KOTHAPALLI,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),9,9,8,0,8,7,8,9,0,0,9,9,0,6,0,9,9,9,9,9,9,8,7,8,8,9,9,5,3,4,7,2,7,0,6,3,4,8
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281422,U.KOTHAPALLI,Rural,7,SS (VI-X),3,Local body,10,8,3,0,5,10,10,10,0,0,10,10,0,8,0,10,10,10,10,10,10,7,10,10,10,10,10,3,4,4,10,1,10,10,10,9,5,8
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281422,U.KOTHAPALLI,Rural,7,SS (VI-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1,1,0,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281422,U.KOTHAPALLI,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),Rural,1,PS (I-V),3,Local body,58,58,31,2,7,27,58,58,0,0,30,50,1,3,8,42,34,57,53,58,54,46,54,54,51,58,57,6,50,17,54,0,51,48,57,55,0,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),Rural,1,PS (I-V),4,Government Aided,1,1,1,0,1,0,1,1,0,0,1,0,0,1,0,1,1,1,0,1,1,0,0,0,0,1,1,0,1,1,1,1,1,0,1,1,1,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),Rural,1,PS (I-V),5,Private Unaided (Recognized),25,25,25,0,25,16,25,25,0,0,25,25,2,21,2,20,20,20,20,20,20,16,18,19,18,25,25,18,19,15,24,7,20,3,17,9,23,25
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),Rural,2,UPS (I-VIII),3,Local body,4,3,3,0,0,3,4,4,0,0,4,4,0,0,1,4,4,4,4,4,4,4,4,4,4,4,4,2,4,2,4,0,4,3,4,4,0,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),13,12,11,0,12,4,13,13,0,0,13,13,0,12,1,7,7,7,7,7,7,7,9,9,7,13,13,8,8,7,13,6,7,3,7,4,8,11
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),Rural,2,UPS (I-VIII),8,Unrecognized,2,2,2,0,2,1,2,2,0,0,2,2,0,1,0,1,1,1,1,1,1,1,1,1,1,2,2,0,1,0,1,1,1,1,1,1,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),Rural,3,HSS (I-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,0,1,0,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),Rural,6,SS (I-X),5,Private Unaided (Recognized),14,14,14,0,14,10,14,14,0,0,14,14,2,14,2,13,13,13,13,13,13,11,10,11,10,14,13,10,12,10,14,3,13,1,9,3,12,13
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),Rural,6,SS (I-X),90,Social welfare Department,1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),Rural,6,SS (I-X),92,Kendriya Vidyalaya / Central School,1,1,0,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),Rural,7,SS (VI-X),3,Local body,14,14,12,0,8,11,14,14,0,0,12,12,0,12,4,14,14,14,14,14,14,12,13,13,13,14,14,5,7,4,13,4,13,13,14,14,11,13
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),Rural,7,SS (VI-X),4,Government Aided,1,1,1,0,1,0,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),Rural,7,SS (VI-X),5,Private Unaided (Recognized),23,23,23,1,22,13,23,23,0,0,23,23,0,20,2,18,18,18,18,18,18,16,18,19,17,23,23,17,19,12,23,5,18,4,14,4,21,23
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),5,5,5,0,4,4,4,5,0,0,5,5,1,4,0,5,5,5,5,5,5,4,4,4,4,5,5,2,1,1,4,2,4,3,5,5,3,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,0,1,0,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),Urban,1,PS (I-V),1,Department of Education,1,1,1,1,0,1,1,1,0,0,1,0,0,1,0,1,1,1,1,1,1,0,1,1,1,1,1,0,0,0,1,0,1,1,0,0,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),Urban,1,PS (I-V),3,Local body,52,50,50,1,11,22,50,50,0,0,44,37,0,2,3,47,35,48,38,48,38,43,48,48,37,48,48,26,32,4,48,1,33,31,41,35,2,10
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),Urban,1,PS (I-V),4,Government Aided,10,10,10,0,3,3,9,9,0,0,10,7,0,3,3,9,9,9,9,9,9,8,8,8,8,10,10,5,8,2,9,0,8,4,7,6,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),Urban,1,PS (I-V),5,Private Unaided (Recognized),49,49,47,0,38,18,49,49,4,0,46,46,4,36,5,40,40,40,40,41,41,25,35,37,37,49,49,34,25,19,41,11,38,14,34,24,35,43
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),Urban,2,UPS (I-VIII),3,Local body,1,1,1,0,1,1,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),Urban,2,UPS (I-VIII),4,Government Aided,11,11,10,0,4,5,11,11,0,0,9,8,0,0,0,10,10,10,10,10,10,6,10,10,10,11,11,6,8,0,10,0,9,2,9,8,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),39,39,36,1,34,10,37,39,0,0,39,37,1,28,1,33,33,33,33,33,33,29,31,33,33,39,39,23,14,8,29,7,27,10,19,12,21,27
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),Urban,2,UPS (I-VIII),98,Madarsa unrecognized,2,2,2,0,1,1,2,2,0,0,0,1,0,0,1,1,1,0,0,1,1,1,0,1,1,2,2,1,1,0,2,0,1,0,1,0,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),Urban,6,SS (I-X),5,Private Unaided (Recognized),19,18,17,0,13,7,18,19,2,0,19,19,3,16,1,15,15,16,16,16,16,10,13,13,12,19,19,13,6,7,18,3,15,5,12,9,9,13
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),Urban,6,SS (I-X),90,Social welfare Department,1,1,1,0,0,0,1,1,0,0,1,1,0,1,0,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),Urban,7,SS (VI-X),1,Department of Education,4,4,4,0,3,4,4,4,0,0,4,4,0,3,2,3,2,4,3,4,3,2,4,4,3,4,4,1,1,1,4,1,3,4,4,3,3,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),Urban,7,SS (VI-X),3,Local body,14,14,14,0,12,10,14,14,0,0,14,12,0,10,4,11,11,13,13,14,14,11,13,14,14,14,14,9,7,3,14,1,14,13,14,10,11,12
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),Urban,7,SS (VI-X),4,Government Aided,8,8,8,0,8,4,8,8,0,0,8,8,0,5,2,5,5,7,7,7,7,3,6,6,6,8,8,4,3,3,8,3,7,3,7,4,4,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),Urban,7,SS (VI-X),5,Private Unaided (Recognized),41,41,40,1,36,13,41,41,1,0,39,41,2,25,5,34,33,33,33,35,34,22,30,32,30,41,41,27,26,14,34,12,32,14,29,20,30,35
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),Urban,11,HSS (XI-XII),1,Department of Education,3,3,2,0,2,2,3,3,0,0,3,2,0,2,0,2,2,3,3,3,3,2,3,3,3,3,3,2,1,1,3,1,3,1,2,1,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),Urban,11,HSS (XI-XII),4,Government Aided,3,3,3,0,2,1,3,3,0,0,3,3,0,2,0,2,2,3,3,3,3,2,2,2,2,3,3,0,0,0,3,0,3,1,1,1,1,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),20,20,17,0,16,3,20,20,2,0,17,14,2,17,0,18,18,19,19,19,19,13,12,14,14,20,20,14,4,7,16,10,16,1,19,15,18,18
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),Urban,11,HSS (XI-XII),90,Social welfare Department,1,1,1,0,0,0,1,1,0,0,1,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,Rural,1,PS (I-V),3,Local body,41,41,21,4,2,24,41,41,0,0,30,41,0,1,6,40,33,41,38,41,38,36,38,39,37,41,41,3,23,16,41,0,38,33,41,41,0,6
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,Rural,1,PS (I-V),4,Government Aided,2,2,1,0,0,0,1,1,0,0,2,2,0,0,0,1,1,2,2,2,2,0,1,1,1,2,2,0,0,0,2,0,2,1,2,2,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,Rural,1,PS (I-V),5,Private Unaided (Recognized),4,4,2,0,4,4,4,4,0,0,4,4,0,2,0,4,4,4,4,4,4,3,4,4,4,3,3,2,1,2,4,1,3,0,2,1,2,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,Rural,2,UPS (I-VIII),3,Local body,4,4,1,0,0,3,4,4,0,0,3,4,0,0,0,4,4,3,3,4,4,4,4,4,4,4,4,0,3,1,4,0,4,3,4,4,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),12,12,11,0,10,5,12,12,0,0,12,11,0,11,3,10,10,10,10,10,10,9,11,11,10,12,12,3,6,10,12,2,10,5,10,6,7,10
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,Rural,6,SS (I-X),5,Private Unaided (Recognized),6,6,6,0,6,5,6,6,1,0,6,6,1,6,1,6,6,6,6,6,6,4,4,4,4,6,6,6,4,6,6,1,6,1,5,4,6,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,Rural,7,SS (VI-X),3,Local body,9,9,5,0,7,8,9,9,0,0,7,9,0,7,0,9,8,9,9,9,9,8,9,9,9,9,9,3,7,8,9,4,9,8,9,9,6,9
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,Rural,7,SS (VI-X),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,2,0,1,1,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,0,2,1,2,2,0,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,Urban,1,PS (I-V),3,Local body,13,13,8,1,0,6,12,12,0,0,9,13,0,0,1,12,12,13,13,13,13,9,13,13,13,13,13,2,6,7,13,0,13,4,13,10,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,Urban,1,PS (I-V),4,Government Aided,2,2,2,0,1,1,2,2,0,0,2,2,0,0,1,1,1,2,2,2,2,1,2,2,2,2,2,0,1,0,2,0,2,0,2,2,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,Urban,1,PS (I-V),5,Private Unaided (Recognized),8,8,7,0,6,7,8,8,0,0,8,8,0,8,4,8,8,7,7,8,8,6,7,7,7,8,8,8,4,8,8,1,8,1,6,2,8,7
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),6,6,6,0,5,5,6,6,0,0,6,6,0,5,3,5,5,5,5,5,5,2,3,3,3,6,6,4,3,5,5,1,5,1,4,3,5,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,Urban,6,SS (I-X),5,Private Unaided (Recognized),4,4,4,0,4,3,4,4,0,0,4,4,0,4,4,2,2,2,2,2,2,4,3,4,2,4,4,3,2,4,4,2,2,0,3,1,4,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,Urban,7,SS (VI-X),1,Department of Education,1,1,1,0,0,1,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,Urban,7,SS (VI-X),2,Tribal Welfare Department,1,1,1,0,0,1,1,1,0,0,1,1,0,1,0,1,0,0,0,1,0,1,0,1,0,1,1,1,1,1,1,0,0,1,1,1,1,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,Urban,7,SS (VI-X),3,Local body,5,5,4,0,4,4,5,5,1,0,5,5,0,5,0,3,3,5,5,5,5,3,5,5,5,5,5,4,4,4,5,0,5,3,5,5,5,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,Urban,7,SS (VI-X),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,Urban,7,SS (VI-X),5,Private Unaided (Recognized),7,7,7,0,7,6,7,7,0,0,7,7,0,6,2,7,7,7,7,7,7,6,7,7,7,7,7,7,4,7,7,1,7,1,5,2,7,7
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,Urban,11,HSS (XI-XII),1,Department of Education,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),2,2,2,0,2,0,2,2,0,0,2,2,0,2,0,1,1,2,2,2,2,1,2,2,2,2,2,1,1,2,2,1,2,0,2,2,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281426,RANGAMPETA,Rural,1,PS (I-V),3,Local body,34,34,13,2,1,28,34,34,0,0,28,32,0,4,5,33,26,33,29,34,30,30,32,33,30,31,31,4,1,13,32,1,26,30,29,26,0,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281426,RANGAMPETA,Rural,1,PS (I-V),5,Private Unaided (Recognized),2,2,0,0,1,0,2,2,0,0,2,2,0,1,0,2,2,2,2,2,2,1,2,2,2,2,2,0,1,0,2,0,2,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281426,RANGAMPETA,Rural,2,UPS (I-VIII),3,Local body,4,4,1,0,0,4,4,4,0,0,3,4,0,1,0,4,4,4,3,4,4,3,4,4,4,4,4,0,1,1,4,0,4,4,4,4,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281426,RANGAMPETA,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),7,7,6,0,7,7,7,7,0,0,7,7,0,7,0,6,5,6,5,6,5,4,5,5,5,7,7,6,2,1,6,2,4,1,3,2,2,7
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281426,RANGAMPETA,Rural,6,SS (I-X),5,Private Unaided (Recognized),2,2,2,0,2,1,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,0,2,2,0,2,0,1,1,1,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281426,RANGAMPETA,Rural,7,SS (VI-X),3,Local body,10,10,3,0,5,10,10,10,0,0,10,10,0,7,5,9,8,10,9,10,9,7,9,9,9,10,10,0,1,3,9,1,8,9,10,9,8,8
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281426,RANGAMPETA,Rural,11,HSS (XI-XII),1,Department of Education,1,1,0,0,1,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281427,GANDEPALLI,Rural,1,PS (I-V),3,Local body,30,30,10,3,5,21,30,30,0,0,23,29,0,0,5,25,15,26,18,28,19,20,22,23,17,30,30,5,19,19,30,1,19,22,30,23,1,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281427,GANDEPALLI,Rural,1,PS (I-V),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281427,GANDEPALLI,Rural,2,UPS (I-VIII),3,Local body,5,5,2,0,2,3,5,5,0,0,4,5,0,0,0,5,3,5,4,5,4,4,4,4,3,5,5,0,2,2,5,1,4,4,5,4,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281427,GANDEPALLI,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),5,5,5,0,3,2,5,5,0,0,5,5,0,4,1,5,5,5,5,5,5,2,2,2,2,5,5,3,2,3,5,2,5,4,2,1,4,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281427,GANDEPALLI,Rural,6,SS (I-X),5,Private Unaided (Recognized),4,4,3,0,3,1,4,4,0,0,4,4,0,2,1,4,4,4,4,4,4,3,3,4,4,4,4,2,4,4,4,0,4,2,1,1,2,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281427,GANDEPALLI,Rural,7,SS (VI-X),3,Local body,6,6,3,0,6,6,6,6,0,0,6,6,0,4,1,6,3,6,3,6,3,4,6,6,3,6,6,1,5,3,6,1,3,6,6,5,3,6
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281427,GANDEPALLI,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),1,1,1,0,0,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,1,0,0,1,0,1,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281428,RAJANAGARAM,Rural,1,PS (I-V),3,Local body,39,39,13,1,3,26,39,39,0,0,26,37,0,4,8,29,24,38,33,38,35,21,30,31,29,39,39,5,12,18,37,0,33,30,37,36,1,9
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281428,RAJANAGARAM,Rural,1,PS (I-V),5,Private Unaided (Recognized),11,11,10,0,9,8,11,11,1,0,11,11,2,8,1,11,11,11,11,11,11,6,9,9,9,11,11,5,4,6,10,1,10,2,4,2,7,10
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281428,RAJANAGARAM,Rural,2,UPS (I-VIII),3,Local body,7,7,0,0,0,3,7,7,0,0,2,7,0,1,1,5,4,7,7,7,7,5,7,7,7,7,7,0,4,5,7,0,7,4,7,7,0,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281428,RAJANAGARAM,Rural,2,UPS (I-VIII),4,Government Aided,2,2,2,0,1,2,2,2,0,0,2,2,0,0,0,2,2,2,2,2,2,1,1,1,1,2,2,0,1,0,2,0,2,1,2,2,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281428,RAJANAGARAM,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),19,19,17,0,14,11,19,19,0,0,18,19,1,15,3,16,16,16,16,16,16,10,10,10,10,19,19,11,2,11,17,4,15,6,8,2,10,16
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281428,RAJANAGARAM,Rural,6,SS (I-X),5,Private Unaided (Recognized),7,7,7,0,6,4,7,7,0,0,7,6,0,4,1,6,6,6,6,6,6,4,4,4,4,7,7,7,0,5,7,1,6,3,6,4,6,7
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281428,RAJANAGARAM,Rural,7,SS (VI-X),3,Local body,14,14,7,0,6,13,14,14,0,0,13,14,0,11,6,13,11,14,13,14,13,12,13,13,12,14,14,5,6,4,14,3,13,14,14,14,12,14
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281428,RAJANAGARAM,Rural,7,SS (VI-X),5,Private Unaided (Recognized),8,8,8,0,8,8,8,8,1,0,8,8,2,5,2,8,8,8,8,8,8,7,8,8,8,8,8,4,2,7,8,1,8,1,4,3,8,8
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281428,RAJANAGARAM,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),3,3,2,0,3,3,3,3,0,0,3,3,0,3,1,3,3,3,3,3,3,2,3,3,3,3,3,2,1,1,3,0,3,2,2,2,2,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAMAHENDRAVARAM(RURAL),Rural,1,PS (I-V),3,Local body,37,36,29,0,4,18,37,37,0,0,26,33,0,2,0,37,35,37,36,37,36,31,32,32,32,37,37,3,0,1,37,0,36,29,36,36,0,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAMAHENDRAVARAM(RURAL),Rural,1,PS (I-V),4,Government Aided,2,2,2,0,2,1,2,2,0,0,2,1,0,0,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,2,0,2,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAMAHENDRAVARAM(RURAL),Rural,1,PS (I-V),5,Private Unaided (Recognized),16,16,15,0,16,9,16,16,2,0,16,15,3,14,2,14,13,14,13,14,13,13,13,13,13,16,16,14,8,5,16,3,13,2,9,2,14,15
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAMAHENDRAVARAM(RURAL),Rural,2,UPS (I-VIII),3,Local body,5,5,5,0,3,3,5,5,0,0,4,5,0,0,1,5,5,5,5,5,5,5,5,5,5,5,5,2,1,1,5,0,5,5,5,5,0,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAMAHENDRAVARAM(RURAL),Rural,2,UPS (I-VIII),4,Government Aided,1,1,1,0,1,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAMAHENDRAVARAM(RURAL),Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),26,26,26,0,24,13,26,26,1,0,26,26,2,20,2,24,22,24,22,24,22,21,21,21,21,26,26,16,7,9,25,9,21,5,15,7,16,25
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAMAHENDRAVARAM(RURAL),Rural,2,UPS (I-VIII),98,Madarsa unrecognized,4,2,1,1,0,0,3,4,0,0,3,2,0,0,0,2,2,0,0,2,2,1,0,1,1,2,2,0,0,0,0,0,0,0,0,0,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAMAHENDRAVARAM(RURAL),Rural,3,HSS (I-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAMAHENDRAVARAM(RURAL),Rural,6,SS (I-X),1,Department of Education,1,1,1,0,1,1,1,1,0,0,1,0,0,1,0,0,0,1,1,1,1,0,1,1,1,1,1,1,0,0,1,1,1,0,0,0,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAMAHENDRAVARAM(RURAL),Rural,6,SS (I-X),2,Tribal Welfare Department,1,1,0,0,0,1,1,1,0,0,0,1,0,1,0,0,0,1,1,1,1,0,1,1,1,1,1,1,0,0,1,1,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAMAHENDRAVARAM(RURAL),Rural,6,SS (I-X),5,Private Unaided (Recognized),10,10,10,0,9,6,10,10,0,0,10,10,0,8,0,10,10,10,10,10,10,10,9,10,10,10,10,6,2,3,10,4,10,0,5,1,9,10
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAMAHENDRAVARAM(RURAL),Rural,6,SS (I-X),90,Social welfare Department,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,0,0,1,1,1,1,0,1,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAMAHENDRAVARAM(RURAL),Rural,7,SS (VI-X),3,Local body,10,10,6,0,8,10,10,10,0,0,10,10,0,5,0,9,7,9,8,10,9,8,9,10,9,10,10,8,5,2,10,1,9,9,10,8,8,9
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAMAHENDRAVARAM(RURAL),Rural,7,SS (VI-X),4,Government Aided,2,2,1,0,2,2,2,2,0,0,2,2,0,0,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,2,0,2,1,2,2,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAMAHENDRAVARAM(RURAL),Rural,7,SS (VI-X),5,Private Unaided (Recognized),13,13,12,0,13,10,13,13,3,0,13,13,4,11,5,12,11,12,11,12,11,11,11,11,11,13,13,10,6,6,13,5,11,1,10,3,13,13
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAMAHENDRAVARAM(RURAL),Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),4,4,4,0,4,3,4,4,2,0,4,4,3,4,0,4,4,4,4,4,4,4,4,4,4,4,4,2,0,2,4,2,4,2,4,4,4,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAMAHENDRAVARAM(RURAL),Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAMAHENDRAVARAM(RURAL),Urban,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAMAHENDRAVARAM(RURAL),Urban,11,HSS (XI-XII),1,Department of Education,1,1,1,0,0,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAMAHENDRAVARAM(RURAL),Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),3,3,3,0,3,1,3,3,0,0,3,3,0,2,0,3,3,3,3,3,3,3,3,3,3,3,3,0,0,0,3,2,3,0,3,2,3,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAMAHENDRAVARAM(URBAN),Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,1,0,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAMAHENDRAVARAM(URBAN),Rural,7,SS (VI-X),3,Local body,1,1,0,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAMAHENDRAVARAM(URBAN),Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,0,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAMAHENDRAVARAM(URBAN),Urban,1,PS (I-V),1,Department of Education,1,1,1,0,0,1,1,1,0,0,1,1,0,0,0,0,0,1,1,1,1,0,1,1,1,1,1,0,1,1,1,0,1,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAMAHENDRAVARAM(URBAN),Urban,1,PS (I-V),3,Local body,51,50,49,0,24,13,50,50,0,0,30,46,0,2,14,50,39,50,39,50,39,40,47,48,37,51,51,23,29,13,50,0,38,32,49,22,0,14
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAMAHENDRAVARAM(URBAN),Urban,1,PS (I-V),4,Government Aided,12,12,12,0,7,4,12,12,0,0,10,10,1,3,1,10,10,12,12,12,12,7,12,12,12,12,12,5,9,3,12,0,12,5,12,7,3,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAMAHENDRAVARAM(URBAN),Urban,1,PS (I-V),5,Private Unaided (Recognized),40,39,37,0,36,13,40,40,0,0,40,39,0,26,0,27,27,27,27,27,27,18,24,24,24,40,40,26,13,6,37,15,27,8,26,12,30,33
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAMAHENDRAVARAM(URBAN),Urban,2,UPS (I-VIII),3,Local body,3,3,3,0,1,1,3,3,0,0,1,3,0,0,1,3,3,3,3,3,3,2,3,3,3,2,2,1,0,0,3,0,2,2,3,1,3,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAMAHENDRAVARAM(URBAN),Urban,2,UPS (I-VIII),4,Government Aided,4,4,3,0,3,0,4,4,0,0,4,4,0,1,0,4,4,4,4,4,4,2,4,4,4,4,4,3,3,1,4,0,4,2,3,1,1,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAMAHENDRAVARAM(URBAN),Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),48,48,46,0,44,21,47,47,0,0,48,46,2,33,2,42,42,42,42,42,42,26,29,32,32,48,48,22,12,19,45,20,42,16,32,16,32,40
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAMAHENDRAVARAM(URBAN),Urban,3,HSS (I-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAMAHENDRAVARAM(URBAN),Urban,3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,1,1,1,0,1,1,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,0,1,1,1,1,1,0,1,0,1,0,1,0,1,0,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAMAHENDRAVARAM(URBAN),Urban,6,SS (I-X),5,Private Unaided (Recognized),14,14,13,0,9,4,13,14,1,0,14,13,1,10,0,11,11,10,10,11,11,7,5,7,7,14,14,10,6,6,11,5,10,4,8,4,9,9
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAMAHENDRAVARAM(URBAN),Urban,6,SS (I-X),98,Madarsa unrecognized,1,1,1,0,0,0,1,1,0,0,1,1,0,1,0,0,0,1,1,1,1,0,1,1,1,1,1,0,0,0,1,1,1,0,0,0,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAMAHENDRAVARAM(URBAN),Urban,7,SS (VI-X),1,Department of Education,2,2,2,0,2,2,2,2,1,0,2,2,0,2,0,1,1,1,1,2,2,1,1,2,2,2,2,2,0,2,2,1,2,2,2,2,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAMAHENDRAVARAM(URBAN),Urban,7,SS (VI-X),3,Local body,12,12,12,0,12,4,12,12,1,0,9,11,1,6,1,12,10,12,11,12,11,11,11,12,11,12,12,11,9,2,12,2,11,11,12,8,11,12
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAMAHENDRAVARAM(URBAN),Urban,7,SS (VI-X),4,Government Aided,15,15,15,0,14,7,15,15,0,0,15,15,0,7,1,12,12,14,14,14,14,7,14,14,14,15,15,7,6,6,15,2,14,8,15,11,6,7
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAMAHENDRAVARAM(URBAN),Urban,7,SS (VI-X),5,Private Unaided (Recognized),32,32,32,0,30,8,32,32,0,0,32,32,1,23,1,25,25,25,25,25,25,18,21,22,22,31,31,22,12,6,29,11,25,3,22,10,27,30
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAMAHENDRAVARAM(URBAN),Urban,7,SS (VI-X),95,Railway School,1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAMAHENDRAVARAM(URBAN),Urban,11,HSS (XI-XII),1,Department of Education,1,1,1,0,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAMAHENDRAVARAM(URBAN),Urban,11,HSS (XI-XII),4,Government Aided,2,2,2,0,1,1,2,2,0,0,2,2,0,1,0,2,2,2,2,2,2,1,0,1,1,2,2,0,0,0,1,1,1,0,2,2,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAMAHENDRAVARAM(URBAN),Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),19,19,14,1,16,5,18,19,1,0,19,18,1,16,2,15,15,19,19,19,19,11,14,15,15,19,19,12,3,9,17,12,17,3,18,12,14,13
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281431,KADIAM,Rural,1,PS (I-V),3,Local body,40,40,20,1,5,17,40,40,0,0,28,26,0,10,8,36,24,40,36,40,36,21,30,30,28,40,40,8,12,21,38,0,34,26,38,35,1,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281431,KADIAM,Rural,1,PS (I-V),5,Private Unaided (Recognized),8,8,3,0,8,5,8,8,0,0,8,8,0,3,0,6,6,6,6,6,6,6,6,6,6,8,8,4,2,5,5,3,5,0,1,0,4,6
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281431,KADIAM,Rural,2,UPS (I-VIII),3,Local body,2,2,2,0,0,1,2,2,0,0,1,2,0,1,0,2,2,2,2,2,2,1,1,1,1,2,2,0,1,0,2,0,2,2,2,2,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281431,KADIAM,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),17,17,13,0,16,8,17,17,0,0,16,17,0,10,0,15,14,15,14,15,14,15,15,15,14,17,17,10,1,5,14,4,13,1,4,3,6,13
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281431,KADIAM,Rural,6,SS (I-X),5,Private Unaided (Recognized),3,3,3,0,3,2,3,3,0,0,3,3,1,3,0,2,2,2,2,2,2,2,2,2,2,3,3,1,1,1,3,1,2,0,1,0,3,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281431,KADIAM,Rural,7,SS (VI-X),3,Local body,9,9,8,0,5,8,9,9,0,0,8,9,0,7,6,9,7,9,7,9,8,8,7,8,7,9,9,8,5,8,9,2,8,8,9,6,5,9
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281431,KADIAM,Rural,7,SS (VI-X),5,Private Unaided (Recognized),4,4,1,0,3,4,4,4,0,0,4,4,0,3,0,3,3,3,3,3,3,4,4,4,3,4,4,2,1,0,3,0,2,0,1,0,4,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281431,KADIAM,Rural,11,HSS (XI-XII),1,Department of Education,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281431,KADIAM,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),2,2,2,0,2,1,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,2,1,2,2,2,2,1,2,2,2,1,2,0,2,2,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,Rural,1,PS (I-V),3,Local body,40,40,19,3,6,16,40,40,0,0,36,40,0,0,3,35,20,39,25,40,26,32,38,39,25,38,38,2,14,8,39,4,24,34,40,38,1,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,Rural,1,PS (I-V),5,Private Unaided (Recognized),6,6,6,0,4,2,6,6,0,0,6,6,0,3,1,5,5,5,5,5,5,5,5,5,5,6,6,4,4,2,6,1,5,1,2,2,3,6
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,Rural,2,UPS (I-VIII),3,Local body,1,1,0,0,0,1,1,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,1,1,0,1,1,0,1,0,0,0,0,0,1,1,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),14,14,14,0,14,11,14,14,0,0,14,14,0,7,0,12,12,12,12,12,12,12,12,12,11,14,14,5,8,3,12,5,11,4,9,5,7,12
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,Rural,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,Rural,7,SS (VI-X),3,Local body,7,7,4,0,6,5,7,7,0,0,7,7,0,7,2,6,5,7,7,7,7,6,7,7,7,7,7,3,4,4,7,4,7,6,7,7,5,7
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,Rural,7,SS (VI-X),5,Private Unaided (Recognized),5,5,4,0,3,2,5,5,0,0,5,5,0,4,0,3,3,3,3,3,3,4,4,4,3,5,5,3,4,1,4,1,2,0,2,2,3,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,Urban,1,PS (I-V),3,Local body,12,12,6,1,3,3,11,11,0,0,6,11,0,0,0,12,9,12,8,12,9,11,12,12,9,12,12,1,3,1,10,6,8,7,12,10,0,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,Urban,1,PS (I-V),5,Private Unaided (Recognized),7,7,7,0,6,3,6,7,0,0,6,7,0,5,0,6,6,6,6,6,6,6,5,6,6,7,7,5,3,2,5,1,5,1,5,3,5,6
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,Urban,2,UPS (I-VIII),3,Local body,3,3,1,0,0,1,2,2,0,0,2,3,0,0,1,3,3,3,2,3,3,3,3,3,3,3,3,2,1,0,3,1,3,3,3,3,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,Urban,2,UPS (I-VIII),4,Government Aided,1,1,1,0,1,0,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,0,0,1,1,1,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),15,15,14,0,11,8,15,15,0,0,11,15,0,8,0,13,13,13,13,13,13,12,12,12,12,15,15,6,6,5,14,10,12,3,5,2,9,11
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,Urban,6,SS (I-X),5,Private Unaided (Recognized),5,5,5,0,4,3,4,5,0,0,5,5,0,4,0,5,4,5,4,5,4,4,3,4,4,5,4,3,1,3,5,0,4,0,2,1,5,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,Urban,7,SS (VI-X),1,Department of Education,1,1,0,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,Urban,7,SS (VI-X),3,Local body,4,4,1,0,3,2,4,4,0,0,4,4,0,3,1,3,2,4,3,4,3,2,3,3,3,4,4,0,1,1,3,0,3,2,4,2,4,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,Urban,7,SS (VI-X),5,Private Unaided (Recognized),5,5,5,0,4,2,5,5,0,0,5,5,0,4,0,4,4,4,4,4,4,4,4,4,4,5,5,5,3,2,4,2,4,1,4,4,5,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,Urban,11,HSS (XI-XII),1,Department of Education,1,1,0,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),8,8,6,0,5,3,8,8,0,0,8,7,0,6,0,6,6,6,6,6,6,3,3,3,3,8,8,1,1,1,4,4,4,1,8,7,4,7
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281433,ANAPARTHI,Rural,1,PS (I-V),3,Local body,31,30,21,3,6,10,31,31,0,0,17,29,0,1,2,28,14,30,18,30,18,21,28,29,17,31,31,11,21,16,31,0,18,26,29,29,1,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281433,ANAPARTHI,Rural,1,PS (I-V),5,Private Unaided (Recognized),8,8,8,1,8,4,8,8,0,0,8,8,0,5,1,7,6,7,6,7,6,5,5,5,5,8,8,4,3,7,7,2,6,1,6,3,8,8
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281433,ANAPARTHI,Rural,2,UPS (I-VIII),3,Local body,3,3,2,0,0,1,3,3,0,0,1,3,0,0,0,3,1,3,2,3,2,3,3,3,2,3,3,2,1,2,3,0,2,3,2,2,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281433,ANAPARTHI,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),5,5,4,0,3,3,5,5,0,0,4,5,0,1,0,1,1,1,1,1,1,1,1,1,1,5,5,5,4,4,5,3,1,2,1,0,3,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281433,ANAPARTHI,Rural,3,HSS (I-XII),90,Social welfare Department,1,1,0,0,1,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,1,0,1,1,1,0,1,1,0,0,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281433,ANAPARTHI,Rural,7,SS (VI-X),3,Local body,8,8,3,0,5,8,8,8,0,0,8,8,0,7,0,7,7,8,8,8,8,7,8,8,8,7,7,2,5,2,8,6,7,8,8,8,5,8
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281433,ANAPARTHI,Rural,7,SS (VI-X),5,Private Unaided (Recognized),6,6,6,0,6,3,6,6,0,0,6,6,1,5,1,5,4,5,4,5,4,4,4,4,4,6,6,3,1,3,6,2,4,0,4,2,6,6
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281433,ANAPARTHI,Rural,11,HSS (XI-XII),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281433,ANAPARTHI,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),1,1,0,0,1,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281433,ANAPARTHI,Rural,11,HSS (XI-XII),90,Social welfare Department,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,0,0,1,1,0,0,0,0,1,1,1,0,1,0,0,0,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281434,BICCAVOLU,Rural,1,PS (I-V),3,Local body,32,31,10,5,5,15,30,30,0,0,17,29,0,3,1,26,25,31,29,31,29,23,30,31,29,28,28,5,7,4,30,1,25,20,30,29,1,6
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281434,BICCAVOLU,Rural,1,PS (I-V),4,Government Aided,1,1,1,0,0,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281434,BICCAVOLU,Rural,1,PS (I-V),5,Private Unaided (Recognized),8,8,7,0,7,3,8,8,0,0,8,8,0,7,0,8,7,8,7,8,7,4,4,4,3,8,8,7,7,6,8,1,7,2,8,4,5,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281434,BICCAVOLU,Rural,2,UPS (I-VIII),3,Local body,1,1,1,0,0,0,1,1,0,0,0,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281434,BICCAVOLU,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),4,4,3,0,4,1,4,4,0,0,4,4,0,4,0,3,3,3,3,3,3,2,2,2,2,4,4,4,3,0,4,0,3,2,4,1,4,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281434,BICCAVOLU,Rural,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281434,BICCAVOLU,Rural,7,SS (VI-X),3,Local body,8,8,4,0,6,7,8,8,0,0,8,7,0,8,1,8,7,8,8,8,8,8,8,8,8,7,7,3,2,1,8,5,7,8,8,8,6,6
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281434,BICCAVOLU,Rural,7,SS (VI-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,0,1,0,1,0,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281434,BICCAVOLU,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281435,PEDAPUDI,Rural,1,PS (I-V),3,Local body,46,46,23,3,4,24,46,46,0,0,25,34,0,11,11,42,30,45,34,46,34,35,40,43,32,46,46,1,12,15,46,0,34,27,46,45,0,6
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281435,PEDAPUDI,Rural,1,PS (I-V),4,Government Aided,1,1,0,0,0,1,0,0,0,0,1,1,0,0,0,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,0,1,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281435,PEDAPUDI,Rural,1,PS (I-V),5,Private Unaided (Recognized),7,6,4,0,5,2,7,7,1,0,7,6,1,7,1,3,3,3,3,3,3,4,4,4,3,7,7,7,6,2,7,2,3,0,3,2,3,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281435,PEDAPUDI,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),5,5,4,0,5,4,5,5,0,0,5,5,0,5,0,4,4,4,4,4,4,3,3,3,3,5,5,4,2,2,5,3,4,1,3,2,2,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281435,PEDAPUDI,Rural,6,SS (I-X),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,2,0,2,0,1,0,1,0,1,0,0,0,0,0,2,2,2,2,2,2,0,0,0,2,1,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281435,PEDAPUDI,Rural,7,SS (VI-X),1,Department of Education,1,1,0,0,0,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281435,PEDAPUDI,Rural,7,SS (VI-X),3,Local body,13,13,7,0,7,10,13,13,0,0,12,12,0,12,6,10,10,13,13,13,13,9,13,13,13,13,13,8,11,6,13,8,13,11,13,13,8,13
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281435,PEDAPUDI,Rural,7,SS (VI-X),5,Private Unaided (Recognized),4,4,3,0,4,3,4,4,1,0,4,4,1,3,0,3,3,3,3,3,3,3,3,3,2,4,4,4,4,2,4,2,3,1,3,2,4,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281435,PEDAPUDI,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),2,2,1,0,2,2,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,1,1,1,1,2,2,1,0,1,2,1,2,0,2,1,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281436,KARAPA,Rural,1,PS (I-V),3,Local body,51,51,22,7,3,16,51,51,0,0,26,45,0,9,11,40,29,47,36,51,40,36,39,40,32,48,48,5,22,18,48,1,38,29,48,47,2,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281436,KARAPA,Rural,1,PS (I-V),5,Private Unaided (Recognized),3,3,3,0,2,2,3,3,0,0,2,3,0,2,0,3,3,3,3,3,3,3,2,3,3,3,3,2,2,2,3,1,3,1,3,3,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281436,KARAPA,Rural,2,UPS (I-VIII),3,Local body,5,5,4,0,0,3,5,5,0,0,2,5,0,0,2,5,2,5,2,5,3,3,3,3,1,5,5,1,2,4,5,0,3,5,5,5,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281436,KARAPA,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),13,13,10,0,13,10,13,13,0,0,13,13,0,12,0,10,10,10,10,10,10,7,7,7,7,13,13,5,4,5,9,3,7,0,12,11,2,12
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281436,KARAPA,Rural,6,SS (I-X),1,Department of Education,1,0,0,0,1,1,1,1,0,0,1,1,0,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,0,0,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281436,KARAPA,Rural,6,SS (I-X),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,0,2,1,1,1,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281436,KARAPA,Rural,7,SS (VI-X),3,Local body,9,9,7,0,9,8,8,8,0,0,9,9,0,7,3,9,6,9,8,9,8,9,9,9,8,9,9,2,4,6,9,2,8,8,9,7,6,9
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281436,KARAPA,Rural,7,SS (VI-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281436,KARAPA,Rural,11,HSS (XI-XII),1,Department of Education,1,1,0,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281437,THALLAREVU,Rural,1,PS (I-V),3,Local body,62,62,21,8,7,35,60,60,0,0,43,60,0,3,2,54,40,62,51,62,51,59,59,61,51,59,59,10,15,23,57,0,46,36,61,51,0,6
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281437,THALLAREVU,Rural,1,PS (I-V),5,Private Unaided (Recognized),3,3,2,0,2,2,3,3,0,0,3,2,0,3,0,1,1,1,1,1,1,1,1,1,1,3,3,0,0,0,1,1,0,0,2,2,1,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281437,THALLAREVU,Rural,2,UPS (I-VIII),3,Local body,4,4,0,0,1,4,4,4,0,0,4,4,0,0,0,4,4,4,4,4,4,4,4,4,4,4,4,0,2,3,4,0,4,4,4,3,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281437,THALLAREVU,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),11,10,8,0,11,8,11,11,0,0,11,11,1,7,0,9,9,9,9,9,9,9,9,9,9,11,11,2,5,3,10,0,9,1,10,8,7,10
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281437,THALLAREVU,Rural,3,HSS (I-XII),90,Social welfare Department,1,1,1,0,1,1,1,1,0,0,1,1,0,0,0,0,0,1,0,1,0,0,1,1,0,1,1,1,0,1,1,0,0,0,1,1,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281437,THALLAREVU,Rural,6,SS (I-X),5,Private Unaided (Recognized),9,9,6,1,8,7,9,9,0,0,8,9,2,8,0,7,7,7,7,7,7,7,7,7,7,9,9,5,5,3,9,3,7,1,7,6,8,9
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281437,THALLAREVU,Rural,7,SS (VI-X),3,Local body,12,12,7,0,6,11,12,12,0,0,11,12,0,5,1,12,10,12,10,12,10,10,10,10,10,12,12,6,0,5,12,0,10,11,12,10,3,11
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281437,THALLAREVU,Rural,7,SS (VI-X),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,0,1,0,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281437,THALLAREVU,Rural,11,HSS (XI-XII),1,Department of Education,1,1,0,0,0,1,1,1,0,0,0,1,1,1,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281437,THALLAREVU,Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),1,1,0,0,1,1,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281438,KAJULURU,Rural,1,PS (I-V),3,Local body,62,62,16,20,9,39,62,62,0,0,30,44,0,11,8,48,39,58,49,59,50,47,51,52,42,41,40,4,20,10,59,6,36,35,58,57,1,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281438,KAJULURU,Rural,1,PS (I-V),5,Private Unaided (Recognized),2,2,1,0,2,1,2,2,0,0,2,2,0,1,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,1,2,0,2,2,1,1,1,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281438,KAJULURU,Rural,2,UPS (I-VIII),3,Local body,6,6,1,0,0,5,6,6,0,0,5,6,0,1,2,6,5,5,4,6,5,4,4,5,4,6,6,0,3,1,6,1,5,6,6,6,1,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281438,KAJULURU,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),7,7,7,0,5,6,7,7,0,0,7,7,0,4,0,5,5,5,5,5,5,7,7,7,5,7,7,4,5,4,6,2,4,2,6,6,4,6
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281438,KAJULURU,Rural,6,SS (I-X),5,Private Unaided (Recognized),5,5,5,0,4,3,5,5,0,0,5,5,0,5,0,5,5,5,5,5,5,5,5,5,5,5,5,1,3,2,5,1,5,1,5,5,4,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281438,KAJULURU,Rural,7,SS (VI-X),3,Local body,10,10,3,0,8,9,10,10,0,0,9,10,0,6,2,9,9,10,10,10,10,7,7,8,8,9,9,3,6,0,10,3,9,8,10,10,3,10
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281438,KAJULURU,Rural,7,SS (VI-X),4,Government Aided,1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,1,1,1,0,1,1,1,0,1,1,0,0,0,1,0,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281438,KAJULURU,Rural,11,HSS (XI-XII),1,Department of Education,1,1,0,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281438,KAJULURU,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),2,2,2,0,1,2,2,2,0,0,2,1,0,2,0,2,1,2,1,2,1,0,0,0,0,2,2,1,0,1,2,1,1,1,2,2,1,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,Rural,1,PS (I-V),3,Local body,46,46,20,13,0,12,46,46,0,0,28,45,0,25,10,44,28,45,29,45,29,41,41,42,26,46,46,1,3,11,46,0,29,12,41,41,1,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,Rural,1,PS (I-V),4,Government Aided,1,1,1,0,0,0,1,1,0,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,0,1,0,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,Rural,1,PS (I-V),5,Private Unaided (Recognized),7,7,6,0,4,2,7,7,0,0,6,7,0,4,0,5,4,5,4,5,4,5,5,5,4,7,7,3,0,3,7,3,4,0,2,1,4,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,Rural,2,UPS (I-VIII),3,Local body,8,8,5,0,0,2,8,8,0,0,3,8,0,0,3,7,5,7,5,7,5,7,7,7,5,8,8,0,1,3,8,0,5,5,8,6,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),4,4,4,0,1,0,4,4,1,0,4,3,0,3,1,4,4,4,4,4,4,3,3,3,3,4,4,3,2,2,4,1,4,1,2,1,1,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,Rural,3,HSS (I-XII),90,Social welfare Department,1,1,1,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,1,1,1,0,1,1,1,1,1,0,1,1,0,1,0,0,0,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,Rural,6,SS (I-X),5,Private Unaided (Recognized),3,3,3,0,3,2,3,3,0,0,2,3,0,2,1,2,2,2,2,2,2,2,2,2,2,3,3,2,2,2,3,0,2,1,1,1,3,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,Rural,7,SS (VI-X),3,Local body,5,5,4,0,3,5,5,5,0,0,5,5,0,4,0,5,4,5,4,5,4,5,5,5,4,5,5,2,0,3,5,2,4,3,5,5,4,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,Rural,7,SS (VI-X),4,Government Aided,2,2,2,1,1,2,2,2,0,0,2,2,0,1,0,2,2,2,2,2,2,2,2,2,2,2,2,1,2,0,2,1,2,1,2,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,Rural,7,SS (VI-X),5,Private Unaided (Recognized),4,4,4,0,4,2,4,4,0,0,4,4,0,3,0,3,3,3,3,3,3,3,3,3,3,4,4,1,2,2,4,2,3,1,0,0,3,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,Rural,11,HSS (XI-XII),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),2,2,2,0,1,0,2,2,0,0,2,2,0,1,0,2,2,2,2,2,2,1,1,1,1,2,2,0,0,0,2,0,2,0,2,2,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,Urban,1,PS (I-V),3,Local body,16,16,10,0,4,2,16,16,0,0,7,12,0,12,3,15,10,16,8,16,10,16,16,16,10,16,16,2,4,6,16,0,10,1,15,15,1,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,Urban,1,PS (I-V),4,Government Aided,2,2,2,0,1,0,2,2,0,0,2,2,0,1,1,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,2,2,2,0,2,2,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,Urban,1,PS (I-V),5,Private Unaided (Recognized),12,12,12,0,8,4,11,12,0,0,11,10,0,6,1,9,7,9,7,9,7,8,8,8,7,12,12,6,1,1,11,4,7,1,3,3,10,11
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,Urban,2,UPS (I-VIII),4,Government Aided,3,3,3,0,3,1,3,3,0,0,3,3,0,2,1,3,3,3,3,3,3,3,3,3,3,3,3,0,0,1,3,3,3,0,3,2,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),5,5,5,0,4,1,5,5,0,0,5,5,0,4,0,4,3,4,3,4,3,4,4,4,3,5,5,2,0,0,5,3,3,0,2,1,1,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,Urban,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,0,0,0,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,Urban,7,SS (VI-X),1,Department of Education,1,1,1,0,1,0,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,Urban,7,SS (VI-X),3,Local body,6,6,6,0,6,4,5,5,0,0,4,6,0,5,1,4,3,6,4,6,4,4,6,6,4,6,6,2,2,0,6,1,4,2,5,5,6,6
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,Urban,7,SS (VI-X),5,Private Unaided (Recognized),11,11,10,0,8,0,11,11,0,0,10,11,0,6,0,7,7,7,7,7,7,7,7,7,7,11,11,5,1,2,11,3,7,0,3,2,11,10
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,Urban,11,HSS (XI-XII),1,Department of Education,1,1,1,0,0,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),3,3,3,0,0,0,3,3,0,0,3,3,0,1,0,3,3,3,3,3,3,1,1,1,1,3,3,1,0,1,3,0,3,0,3,3,1,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281440,RAYAVARAM,Rural,1,PS (I-V),3,Local body,32,32,11,4,6,19,32,32,0,0,22,32,0,1,3,31,24,31,23,32,26,28,31,32,26,32,32,0,4,0,31,2,25,27,32,30,1,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281440,RAYAVARAM,Rural,1,PS (I-V),5,Private Unaided (Recognized),3,3,3,0,2,2,3,3,0,0,3,3,0,2,1,2,2,2,2,2,2,2,3,3,2,3,3,3,3,2,2,2,2,0,2,1,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281440,RAYAVARAM,Rural,2,UPS (I-VIII),3,Local body,4,4,1,0,2,3,4,4,0,0,2,4,0,0,0,3,3,4,4,4,4,3,4,4,4,4,4,0,0,0,4,0,4,4,4,2,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281440,RAYAVARAM,Rural,2,UPS (I-VIII),4,Government Aided,1,1,1,0,0,1,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,0,0,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281440,RAYAVARAM,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),9,9,7,0,9,4,9,9,0,0,9,9,0,5,1,5,5,5,5,5,5,5,5,5,4,9,9,6,6,5,8,5,5,3,5,1,4,8
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281440,RAYAVARAM,Rural,6,SS (I-X),5,Private Unaided (Recognized),4,4,4,0,4,4,4,4,0,0,4,4,0,2,0,2,2,2,2,2,2,2,2,2,2,4,4,2,2,2,3,2,2,2,2,1,3,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281440,RAYAVARAM,Rural,7,SS (VI-X),3,Local body,8,8,4,0,7,8,8,8,0,0,7,8,0,7,0,8,8,8,8,8,8,7,8,8,8,8,8,1,4,2,8,5,8,5,8,8,7,7
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281440,RAYAVARAM,Rural,7,SS (VI-X),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,2,0,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,1,0,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281440,RAYAVARAM,Rural,11,HSS (XI-XII),1,Department of Education,1,1,0,0,1,1,1,1,0,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281441,KAPILESWARAPURAM,Rural,1,PS (I-V),3,Local body,37,37,17,3,0,18,36,36,0,0,24,25,0,10,1,31,31,36,36,36,36,30,35,36,36,32,32,1,0,9,32,0,29,29,37,36,0,7
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281441,KAPILESWARAPURAM,Rural,1,PS (I-V),5,Private Unaided (Recognized),3,3,3,0,3,3,3,3,0,0,3,3,0,3,0,3,3,3,3,3,3,3,3,3,3,3,3,1,0,3,3,1,3,0,1,0,1,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281441,KAPILESWARAPURAM,Rural,2,UPS (I-VIII),3,Local body,6,6,3,0,0,3,6,6,0,0,4,5,0,0,1,5,5,6,6,6,6,4,4,5,5,6,6,0,0,0,6,0,6,4,6,6,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281441,KAPILESWARAPURAM,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),8,8,8,0,6,6,8,8,0,0,7,8,0,6,0,8,8,8,8,8,8,8,8,8,8,7,7,1,1,4,7,3,6,1,2,2,5,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281441,KAPILESWARAPURAM,Rural,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,0,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281441,KAPILESWARAPURAM,Rural,7,SS (VI-X),3,Local body,8,8,1,0,6,8,8,8,0,0,7,8,0,7,1,8,8,8,8,8,8,8,8,8,8,8,8,1,3,2,8,0,8,7,8,8,7,8
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281441,KAPILESWARAPURAM,Rural,7,SS (VI-X),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,2,2,0,2,0,0,0,1,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281441,KAPILESWARAPURAM,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281442,ALAMURU,Rural,1,PS (I-V),3,Local body,38,38,24,3,1,17,37,37,0,0,25,21,0,4,10,37,29,37,29,37,29,32,36,36,28,38,38,4,23,2,33,1,25,25,38,38,0,8
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281442,ALAMURU,Rural,1,PS (I-V),5,Private Unaided (Recognized),3,3,3,0,3,2,3,3,0,0,3,3,0,3,0,3,3,3,3,3,3,3,3,3,3,3,3,1,2,0,3,1,3,0,1,0,2,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281442,ALAMURU,Rural,2,UPS (I-VIII),3,Local body,4,4,4,0,0,3,4,4,0,0,3,4,0,0,1,4,3,4,4,4,4,3,4,4,4,4,4,2,2,0,4,0,4,3,4,3,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281442,ALAMURU,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),16,15,13,0,14,7,16,16,0,0,16,16,0,9,1,15,13,15,14,15,14,12,13,13,13,16,16,8,12,1,14,4,12,2,12,7,4,10
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281442,ALAMURU,Rural,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,0,0,0,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281442,ALAMURU,Rural,7,SS (VI-X),1,Department of Education,1,1,0,0,0,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281442,ALAMURU,Rural,7,SS (VI-X),3,Local body,6,6,2,0,6,4,6,6,0,0,5,5,0,3,2,5,5,6,6,6,6,5,6,6,6,6,6,0,2,2,6,1,6,5,6,6,5,6
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281442,ALAMURU,Rural,7,SS (VI-X),5,Private Unaided (Recognized),3,3,2,0,3,2,3,3,0,0,3,3,0,3,0,3,3,3,3,3,3,3,3,3,3,3,3,1,2,0,3,0,3,1,3,2,2,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281442,ALAMURU,Rural,11,HSS (XI-XII),1,Department of Education,1,1,0,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,1,0,1,1,0,0,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281443,ATREYAPURAM,Rural,1,PS (I-V),3,Local body,43,42,9,13,5,19,43,43,0,0,16,40,0,8,3,37,34,40,39,41,40,35,38,39,38,42,42,2,12,4,42,2,38,30,42,41,1,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281443,ATREYAPURAM,Rural,1,PS (I-V),5,Private Unaided (Recognized),6,6,4,0,6,3,6,6,0,0,6,6,0,5,0,5,5,5,5,5,5,5,5,5,5,6,6,0,2,3,6,3,5,1,4,3,2,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281443,ATREYAPURAM,Rural,2,UPS (I-VIII),3,Local body,2,2,0,0,0,1,2,2,0,0,1,2,0,0,2,2,2,2,2,2,2,2,2,2,2,2,2,0,1,0,2,0,2,2,2,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281443,ATREYAPURAM,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),3,3,1,0,3,1,2,3,0,0,3,3,0,3,0,2,2,2,2,2,2,2,2,2,2,3,3,1,2,0,3,1,2,1,3,3,2,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281443,ATREYAPURAM,Rural,6,SS (I-X),5,Private Unaided (Recognized),3,3,3,0,3,2,3,3,0,0,3,3,1,3,0,1,1,1,1,1,1,1,1,1,1,3,3,2,3,2,2,2,1,1,2,2,3,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281443,ATREYAPURAM,Rural,7,SS (VI-X),3,Local body,8,8,4,0,5,4,8,8,0,0,6,7,0,6,2,6,6,8,7,8,7,6,7,7,7,7,7,4,3,5,8,0,7,6,8,8,4,6
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281443,ATREYAPURAM,Rural,7,SS (VI-X),4,Government Aided,1,1,0,0,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,1,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281443,ATREYAPURAM,Rural,7,SS (VI-X),5,Private Unaided (Recognized),2,2,1,0,2,2,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,1,1,2,1,2,0,1,0,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281443,ATREYAPURAM,Rural,11,HSS (XI-XII),4,Government Aided,1,1,1,0,0,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281444,RAVULAPALEM,Rural,1,PS (I-V),3,Local body,43,43,17,14,5,12,43,43,0,0,24,43,0,3,1,40,37,43,42,43,42,36,42,42,41,43,43,21,22,14,43,0,42,33,43,40,0,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281444,RAVULAPALEM,Rural,1,PS (I-V),4,Government Aided,2,2,2,0,1,0,1,1,0,0,1,1,0,0,0,0,0,2,2,2,2,0,2,2,2,2,2,0,0,1,2,0,2,1,2,2,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281444,RAVULAPALEM,Rural,1,PS (I-V),5,Private Unaided (Recognized),9,9,9,0,8,4,9,9,0,0,9,9,0,8,0,8,8,8,8,8,8,8,8,8,8,9,8,9,7,6,9,5,8,1,8,8,7,8
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281444,RAVULAPALEM,Rural,2,UPS (I-VIII),3,Local body,2,2,0,0,1,1,2,2,0,0,0,2,0,0,0,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,2,0,2,2,2,2,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281444,RAVULAPALEM,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),11,11,11,0,7,4,11,11,0,0,10,11,0,8,0,9,9,9,9,9,9,9,9,9,9,11,11,8,9,3,11,1,9,3,9,9,3,6
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281444,RAVULAPALEM,Rural,2,UPS (I-VIII),8,Unrecognized,1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,1,0,1,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281444,RAVULAPALEM,Rural,2,UPS (I-VIII),98,Madarsa unrecognized,1,1,0,1,0,0,1,1,0,0,1,1,0,0,0,1,1,0,0,1,1,1,0,1,1,1,1,0,1,0,1,0,1,0,1,1,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281444,RAVULAPALEM,Rural,6,SS (I-X),5,Private Unaided (Recognized),4,4,4,0,4,1,4,4,0,0,4,4,0,4,0,3,3,3,3,3,3,3,3,3,2,4,4,3,4,1,4,2,3,1,4,4,4,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281444,RAVULAPALEM,Rural,7,SS (VI-X),3,Local body,9,9,6,0,9,8,9,9,0,0,9,8,0,9,1,7,7,8,8,9,9,5,6,6,6,9,9,7,4,1,9,2,9,9,9,9,6,8
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281444,RAVULAPALEM,Rural,7,SS (VI-X),5,Private Unaided (Recognized),8,8,8,0,8,4,8,8,0,0,8,8,0,8,1,7,7,7,7,7,7,7,7,7,7,8,7,8,7,6,8,6,7,1,7,6,8,8
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281444,RAVULAPALEM,Rural,11,HSS (XI-XII),1,Department of Education,1,1,0,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,1,0,0,0,0,0,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281444,RAVULAPALEM,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),5,5,5,0,5,3,5,5,0,0,5,4,0,5,1,5,5,5,5,5,5,3,3,3,3,5,5,2,1,1,4,1,4,1,5,4,3,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281445,K.GANGAVARAM,Rural,1,PS (I-V),3,Local body,59,59,17,27,5,20,58,58,0,0,26,37,0,10,7,58,56,59,59,59,59,56,58,58,58,58,58,3,12,33,57,0,57,46,57,56,0,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281445,K.GANGAVARAM,Rural,1,PS (I-V),5,Private Unaided (Recognized),1,1,1,0,0,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281445,K.GANGAVARAM,Rural,2,UPS (I-VIII),3,Local body,4,4,2,0,0,2,4,4,0,0,1,4,0,1,2,4,4,4,4,4,4,4,4,4,4,4,4,0,0,4,4,0,4,3,4,4,1,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281445,K.GANGAVARAM,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),11,11,10,0,11,3,11,11,0,0,10,11,0,7,0,8,8,8,8,8,8,8,8,8,8,11,11,6,3,4,8,1,6,1,8,8,3,9
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281445,K.GANGAVARAM,Rural,7,SS (VI-X),3,Local body,10,10,6,0,7,9,10,10,0,0,10,10,0,10,4,10,10,10,10,10,10,9,10,10,10,10,10,2,6,6,9,2,9,9,10,10,9,9
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281445,K.GANGAVARAM,Rural,11,HSS (XI-XII),1,Department of Education,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281445,K.GANGAVARAM,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),2,2,2,0,1,1,1,2,0,0,2,1,0,2,0,2,2,2,2,2,2,1,1,1,1,2,2,0,0,1,2,1,2,0,2,1,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281446,KOTHAPETA,Rural,1,PS (I-V),3,Local body,68,66,9,21,5,32,68,68,0,0,43,63,0,15,6,57,15,66,19,68,21,51,63,65,20,62,62,11,57,4,59,0,19,24,63,51,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281446,KOTHAPETA,Rural,1,PS (I-V),4,Government Aided,1,1,0,1,0,1,1,1,0,0,0,1,0,1,0,1,1,0,0,1,1,1,0,1,1,1,1,0,1,0,1,0,1,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281446,KOTHAPETA,Rural,1,PS (I-V),5,Private Unaided (Recognized),9,9,7,0,7,5,9,9,0,0,9,9,0,3,0,7,7,7,7,7,7,7,6,7,7,8,8,3,5,2,4,4,3,0,4,1,4,9
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281446,KOTHAPETA,Rural,2,UPS (I-VIII),3,Local body,4,4,0,0,2,2,4,4,0,0,3,4,0,2,2,4,2,4,2,4,2,3,3,3,2,4,4,0,3,1,4,0,2,0,4,3,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281446,KOTHAPETA,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),5,5,5,0,4,0,5,5,0,0,5,5,0,4,0,3,3,3,3,3,3,3,3,3,3,5,5,2,4,2,3,2,3,0,3,1,3,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281446,KOTHAPETA,Rural,6,SS (I-X),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,1,1,2,2,2,0,2,1,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281446,KOTHAPETA,Rural,7,SS (VI-X),1,Department of Education,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,0,0,1,1,1,0,1,1,1,1,1,0,0,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281446,KOTHAPETA,Rural,7,SS (VI-X),3,Local body,11,11,8,0,7,8,11,11,0,0,10,11,0,9,3,8,4,11,8,11,8,6,9,9,6,11,11,4,10,2,11,0,8,7,11,11,8,10
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281446,KOTHAPETA,Rural,7,SS (VI-X),5,Private Unaided (Recognized),8,8,6,1,6,4,8,8,0,0,8,8,0,6,0,7,7,7,7,7,7,7,7,7,7,7,7,5,6,1,5,2,4,1,7,3,3,8
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281446,KOTHAPETA,Rural,11,HSS (XI-XII),1,Department of Education,1,1,1,0,0,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281446,KOTHAPETA,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),4,4,3,0,4,2,4,4,0,0,4,4,0,4,0,4,4,4,4,4,4,3,3,3,3,4,4,1,0,0,3,2,3,0,4,4,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281447,P.GANNAVARAM,Rural,1,PS (I-V),3,Local body,69,67,17,25,3,28,67,67,0,0,37,62,0,11,14,58,36,64,46,64,47,33,38,39,32,65,64,7,6,12,61,1,41,20,68,68,0,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281447,P.GANNAVARAM,Rural,1,PS (I-V),5,Private Unaided (Recognized),6,6,6,0,6,6,5,6,0,0,6,6,0,4,0,4,4,4,4,4,4,4,4,4,4,6,6,3,3,4,6,2,4,3,6,3,4,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281447,P.GANNAVARAM,Rural,2,UPS (I-VIII),3,Local body,2,2,0,0,0,1,2,2,0,0,0,2,0,0,0,1,1,2,2,2,2,1,2,2,2,2,2,0,1,0,2,0,2,0,2,2,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281447,P.GANNAVARAM,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),4,4,3,0,4,3,2,4,0,0,4,4,0,3,0,2,1,2,2,2,2,2,2,2,2,4,4,3,2,4,4,1,2,2,2,1,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281447,P.GANNAVARAM,Rural,3,HSS (I-XII),90,Social welfare Department,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,0,0,1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281447,P.GANNAVARAM,Rural,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,1,0,0,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281447,P.GANNAVARAM,Rural,7,SS (VI-X),3,Local body,12,12,7,0,5,10,12,12,1,0,10,12,1,8,5,11,8,11,9,12,10,8,10,11,9,12,12,2,3,5,11,0,10,9,12,10,11,8
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281447,P.GANNAVARAM,Rural,7,SS (VI-X),5,Private Unaided (Recognized),5,5,5,0,5,4,5,5,0,0,4,5,0,5,2,4,4,4,4,4,4,4,4,4,4,5,5,3,3,3,5,1,4,2,4,2,5,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281447,P.GANNAVARAM,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),5,5,5,0,4,3,5,5,0,0,5,4,0,4,1,4,4,4,4,4,4,4,4,4,4,4,4,2,2,2,4,2,4,2,4,4,3,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281448,AMBAJIPETA,Rural,1,PS (I-V),3,Local body,53,53,10,24,3,21,53,53,0,0,41,52,0,3,5,48,44,53,48,53,49,39,47,47,45,52,52,7,33,1,53,0,48,34,52,51,0,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281448,AMBAJIPETA,Rural,1,PS (I-V),5,Private Unaided (Recognized),6,6,6,0,6,3,6,6,0,0,6,6,0,6,0,5,5,5,5,5,5,5,5,5,5,6,6,4,2,1,6,2,5,0,5,1,4,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281448,AMBAJIPETA,Rural,2,UPS (I-VIII),3,Local body,2,2,0,0,1,1,2,2,0,0,2,2,0,0,0,2,2,2,2,2,2,2,2,2,2,2,2,0,1,2,2,0,2,2,2,2,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281448,AMBAJIPETA,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),3,3,2,0,2,1,3,3,0,1,3,3,0,3,0,3,3,3,3,3,3,3,3,3,3,3,3,1,2,0,3,1,3,0,2,0,1,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281448,AMBAJIPETA,Rural,7,SS (VI-X),3,Local body,9,9,3,0,4,9,9,9,0,0,6,9,0,9,4,8,6,9,8,9,8,6,9,9,8,9,9,3,6,3,9,0,8,9,9,9,9,9
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281448,AMBAJIPETA,Rural,7,SS (VI-X),5,Private Unaided (Recognized),5,5,5,0,4,3,5,5,0,0,5,5,0,5,1,4,4,4,4,4,4,4,4,4,4,5,5,4,2,2,5,3,4,1,4,0,5,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281448,AMBAJIPETA,Rural,11,HSS (XI-XII),4,Government Aided,1,1,0,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281448,AMBAJIPETA,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),3,3,3,0,3,1,3,3,0,0,3,3,0,3,1,3,3,3,3,3,3,1,1,1,1,3,3,0,1,0,3,0,3,0,3,3,3,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281449,AINAVILLI,Rural,1,PS (I-V),3,Local body,54,54,15,18,8,24,54,54,0,0,26,54,0,9,4,53,43,54,47,54,47,46,51,51,47,53,53,9,4,9,47,1,39,48,52,49,0,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281449,AINAVILLI,Rural,1,PS (I-V),5,Private Unaided (Recognized),6,6,4,0,4,3,6,6,0,0,5,6,0,6,0,5,5,5,5,5,5,3,3,3,3,6,6,0,1,1,4,1,4,0,5,3,3,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281449,AINAVILLI,Rural,2,UPS (I-VIII),3,Local body,6,6,1,0,2,3,6,6,0,0,5,6,0,0,0,6,6,6,5,6,6,6,6,6,6,6,6,1,0,1,6,0,6,5,6,6,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281449,AINAVILLI,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),5,5,1,0,2,1,3,5,0,0,3,5,0,2,0,5,5,5,5,5,5,3,3,3,3,5,5,0,1,2,5,0,5,0,1,0,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281449,AINAVILLI,Rural,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281449,AINAVILLI,Rural,7,SS (VI-X),3,Local body,11,11,4,0,6,9,11,11,0,0,11,11,0,10,2,10,9,11,10,11,10,9,10,10,10,10,10,1,2,3,10,4,8,9,11,11,9,11
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281449,AINAVILLI,Rural,7,SS (VI-X),5,Private Unaided (Recognized),3,3,3,1,3,1,3,3,0,0,3,3,0,2,1,3,3,3,3,3,3,2,3,3,3,3,3,0,0,1,2,1,2,0,3,1,1,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281449,AINAVILLI,Rural,11,HSS (XI-XII),4,Government Aided,1,1,0,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,1,1,1,1,1,0,0,0,1,0,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281449,AINAVILLI,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,0,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,Rural,1,PS (I-V),3,Local body,49,48,7,22,4,12,48,48,2,0,22,47,4,5,16,31,17,45,28,47,29,34,43,44,27,47,47,11,30,24,49,0,28,33,46,43,0,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,Rural,1,PS (I-V),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,0,0,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,Rural,2,UPS (I-VIII),3,Local body,3,3,0,0,0,0,3,3,1,0,3,3,0,0,0,3,2,3,2,3,2,2,2,2,2,3,3,2,2,3,2,0,2,1,2,2,0,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),3,3,2,0,3,2,3,3,0,0,3,3,0,3,0,2,2,2,2,2,2,2,1,2,2,3,3,3,3,3,3,2,2,3,2,1,1,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,Rural,7,SS (VI-X),1,Department of Education,1,1,1,0,0,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,Rural,7,SS (VI-X),3,Local body,6,6,3,0,4,2,6,6,0,0,4,6,0,5,2,5,5,6,6,6,6,5,5,5,5,6,6,4,3,2,6,0,6,6,6,6,3,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,Rural,11,HSS (XI-XII),1,Department of Education,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,1,0,0,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),3,3,1,0,3,1,3,3,0,0,3,3,0,3,0,2,2,3,3,3,3,0,1,1,1,3,3,0,0,1,3,1,3,1,3,3,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,Urban,1,PS (I-V),3,Local body,16,16,3,4,1,6,16,16,0,0,7,16,0,1,3,12,7,15,13,16,14,6,13,13,11,16,16,11,13,12,16,0,14,12,14,9,0,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,Urban,1,PS (I-V),5,Private Unaided (Recognized),4,4,4,0,4,3,4,4,0,0,4,4,0,4,1,3,3,2,2,3,3,2,2,2,2,4,4,3,3,4,3,1,3,2,3,2,4,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),5,5,4,0,3,1,5,5,0,0,5,5,0,5,1,3,3,3,3,3,3,1,1,1,1,5,5,4,5,4,4,3,3,1,2,0,3,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,Urban,3,HSS (I-XII),90,Social welfare Department,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,Urban,6,SS (I-X),5,Private Unaided (Recognized),2,2,2,0,2,1,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,1,2,0,2,1,1,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,Urban,7,SS (VI-X),3,Local body,2,2,0,0,2,1,2,2,0,0,2,2,0,1,0,1,1,2,2,2,2,1,2,2,2,2,2,2,0,2,2,1,2,2,2,2,1,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,Urban,7,SS (VI-X),5,Private Unaided (Recognized),5,5,4,0,5,1,5,5,0,0,5,5,0,5,0,4,4,3,3,4,4,3,3,3,3,5,5,5,5,5,4,1,3,0,2,1,5,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),2,2,1,0,1,1,2,2,0,0,2,2,0,1,0,2,2,2,2,2,2,0,0,0,0,2,2,0,0,0,2,0,2,0,2,2,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,Urban,11,HSS (XI-XII),90,Social welfare Department,1,1,1,0,0,0,1,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281451,I.POLAVARAM,Rural,1,PS (I-V),3,Local body,66,65,11,27,5,22,65,65,0,0,31,61,0,24,5,44,33,51,39,60,47,32,39,47,38,48,48,7,44,20,61,1,35,41,59,59,0,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281451,I.POLAVARAM,Rural,1,PS (I-V),5,Private Unaided (Recognized),4,4,2,0,4,4,4,4,0,0,4,4,0,4,0,4,4,4,4,4,4,4,4,4,4,4,4,3,4,2,4,1,4,1,3,3,4,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281451,I.POLAVARAM,Rural,2,UPS (I-VIII),3,Local body,2,2,1,0,0,1,2,2,0,0,1,2,0,0,0,2,1,2,1,2,1,0,1,1,0,2,2,0,1,1,1,1,0,1,2,2,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281451,I.POLAVARAM,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),7,7,3,1,6,5,5,6,0,0,7,7,0,7,0,6,6,6,6,6,6,6,6,6,6,7,7,5,6,2,6,1,6,1,2,2,2,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281451,I.POLAVARAM,Rural,6,SS (I-X),5,Private Unaided (Recognized),1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,1,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281451,I.POLAVARAM,Rural,7,SS (VI-X),3,Local body,11,11,5,0,7,9,11,11,0,0,10,10,0,10,4,11,8,11,10,11,10,10,11,11,10,10,10,1,8,7,11,1,10,8,11,11,7,11
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281451,I.POLAVARAM,Rural,7,SS (VI-X),5,Private Unaided (Recognized),4,4,2,0,4,4,4,4,0,0,4,4,0,4,0,4,4,4,4,4,4,4,3,4,4,4,4,3,3,3,4,1,4,2,3,1,4,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281451,I.POLAVARAM,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),1,1,0,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,1,0,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281452,KATRENIKONA,Rural,1,PS (I-V),3,Local body,62,61,7,19,3,25,61,61,1,0,14,56,1,4,7,57,47,61,55,61,56,52,58,58,54,54,53,7,16,20,50,1,43,42,61,50,0,10
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281452,KATRENIKONA,Rural,1,PS (I-V),5,Private Unaided (Recognized),3,3,2,0,3,3,3,3,0,0,3,3,0,3,1,3,3,3,3,3,3,3,3,3,3,3,3,2,2,0,3,1,3,0,1,1,2,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281452,KATRENIKONA,Rural,2,UPS (I-VIII),3,Local body,6,6,1,0,2,4,6,6,0,0,2,6,0,0,1,6,5,6,5,6,5,5,4,5,4,6,6,0,5,3,6,0,5,5,6,3,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281452,KATRENIKONA,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),7,7,6,0,7,4,6,7,0,0,7,7,0,3,0,3,3,3,3,3,3,3,3,3,3,7,7,3,4,1,1,4,1,1,1,0,0,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281452,KATRENIKONA,Rural,6,SS (I-X),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,1,1,2,2,1,2,0,2,1,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281452,KATRENIKONA,Rural,7,SS (VI-X),3,Local body,8,8,2,0,5,7,8,8,0,0,8,8,0,7,2,8,6,8,7,8,7,7,8,8,7,7,7,1,5,1,8,0,7,7,7,7,7,7
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281452,KATRENIKONA,Rural,7,SS (VI-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,0,1,0,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281452,KATRENIKONA,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),4,4,4,0,4,2,4,4,0,0,4,3,0,4,0,4,4,4,4,4,4,1,1,1,1,4,4,0,0,0,1,0,1,0,4,4,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281453,UPPALAGUPTAM,Rural,1,PS (I-V),3,Local body,71,71,9,22,2,14,69,69,0,0,22,69,0,34,20,62,57,70,68,70,68,55,66,66,64,71,71,15,16,49,69,1,66,47,53,53,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281453,UPPALAGUPTAM,Rural,1,PS (I-V),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,1,1,1,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281453,UPPALAGUPTAM,Rural,2,UPS (I-VIII),3,Local body,2,2,0,0,1,0,2,2,0,0,0,2,0,1,0,2,1,2,2,2,2,1,2,2,2,2,2,0,0,2,2,0,2,2,2,2,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281453,UPPALAGUPTAM,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),10,10,8,0,7,6,9,10,0,0,9,10,0,8,4,7,7,7,7,7,7,7,7,7,7,10,10,5,2,2,10,3,7,4,7,7,1,8
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281453,UPPALAGUPTAM,Rural,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,0,0,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281453,UPPALAGUPTAM,Rural,7,SS (VI-X),3,Local body,8,8,3,0,4,5,8,8,0,0,6,8,0,7,2,8,7,8,8,8,8,7,8,8,8,8,8,3,4,7,8,0,8,7,8,8,6,7
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281453,UPPALAGUPTAM,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),2,2,0,0,2,2,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,2,2,2,2,2,2,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,Rural,1,PS (I-V),3,Local body,65,65,5,10,1,28,65,65,0,0,43,58,0,23,5,48,31,60,39,60,40,47,60,60,39,60,60,12,30,31,65,1,39,45,65,64,1,7
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,Rural,1,PS (I-V),5,Private Unaided (Recognized),3,3,3,0,3,1,3,3,0,0,3,3,1,3,0,3,3,2,1,3,3,1,1,1,1,3,3,3,2,1,3,3,3,1,1,0,3,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,Rural,2,UPS (I-VIII),3,Local body,4,4,2,0,0,3,4,4,0,0,2,4,0,2,1,4,3,4,4,4,4,3,3,3,3,4,4,1,4,4,4,0,4,3,4,4,0,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),8,8,7,0,7,7,8,8,0,0,8,8,1,7,1,5,5,5,5,5,5,8,8,8,5,8,8,2,4,3,6,1,4,1,5,1,8,6
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,Rural,6,SS (I-X),1,Department of Education,1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,1,0,0,1,1,0,0,0,0,1,1,1,0,1,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,Rural,6,SS (I-X),5,Private Unaided (Recognized),7,7,7,0,6,4,6,7,0,0,7,7,0,5,1,5,5,5,5,5,5,4,3,4,4,7,7,4,2,0,6,5,5,1,3,2,6,7
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,Rural,7,SS (VI-X),3,Local body,9,9,2,0,6,9,9,9,1,0,6,8,1,7,4,9,6,8,6,9,6,8,8,8,6,9,9,1,3,2,9,2,6,8,9,9,8,8
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,Rural,7,SS (VI-X),5,Private Unaided (Recognized),3,3,3,0,3,1,3,3,0,0,3,3,0,3,0,2,2,2,2,2,2,3,3,3,2,3,3,2,3,1,3,1,2,0,2,2,2,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,Rural,11,HSS (XI-XII),4,Government Aided,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,1,1,1,1,2,2,0,0,0,2,0,2,0,2,2,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,Urban,1,PS (I-V),3,Local body,21,21,19,3,2,14,21,21,0,0,17,15,0,7,0,20,8,21,9,21,9,17,19,19,8,18,18,4,8,2,21,0,8,15,20,18,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,Urban,1,PS (I-V),5,Private Unaided (Recognized),16,16,16,0,14,7,16,16,0,0,15,16,1,10,1,12,12,13,13,13,13,12,12,12,11,16,16,9,6,4,15,6,13,3,9,5,15,14
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),9,9,9,0,6,2,9,9,0,0,9,8,0,8,0,6,6,6,6,6,6,7,7,7,6,9,9,7,3,1,7,2,5,2,2,2,5,9
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,Urban,6,SS (I-X),5,Private Unaided (Recognized),2,2,2,0,1,0,1,2,0,0,2,2,0,1,0,2,2,2,2,2,2,1,1,1,1,2,2,2,1,0,2,0,2,0,1,1,2,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,Urban,7,SS (VI-X),1,Department of Education,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,Urban,7,SS (VI-X),3,Local body,4,4,4,0,2,3,4,4,0,0,4,3,0,3,3,3,2,4,4,4,4,2,3,3,3,4,4,1,1,0,4,0,4,3,4,3,4,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,Urban,7,SS (VI-X),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,0,0,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,Urban,7,SS (VI-X),5,Private Unaided (Recognized),15,15,15,0,14,9,15,15,0,0,15,15,0,13,1,11,11,11,11,11,11,12,12,12,10,15,15,8,9,4,14,5,11,3,9,5,15,14
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,Urban,11,HSS (XI-XII),1,Department of Education,1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,0,0,1,1,1,1,0,1,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),12,12,12,0,12,7,12,12,0,2,12,12,2,12,1,9,9,10,10,10,10,10,11,11,9,12,12,8,6,5,12,8,10,3,9,8,11,10
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281455,ALLAVARAM,Rural,1,PS (I-V),3,Local body,63,62,13,37,3,33,61,61,0,0,37,59,0,15,10,44,41,61,55,62,56,34,40,48,44,61,61,7,26,36,63,1,55,24,59,55,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281455,ALLAVARAM,Rural,1,PS (I-V),5,Private Unaided (Recognized),3,3,2,0,3,3,3,3,0,0,3,3,0,3,0,2,2,2,2,2,2,1,1,1,1,3,3,2,1,2,2,0,2,0,2,2,3,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281455,ALLAVARAM,Rural,2,UPS (I-VIII),3,Local body,7,7,2,0,2,4,7,7,0,0,6,7,0,2,1,7,6,7,7,7,7,5,6,6,6,7,7,2,4,6,7,0,7,3,7,6,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281455,ALLAVARAM,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),4,4,2,0,2,1,4,4,0,0,4,4,0,3,0,2,2,2,2,2,2,3,3,3,2,4,4,2,2,0,3,2,2,1,1,0,1,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281455,ALLAVARAM,Rural,3,HSS (I-XII),90,Social welfare Department,2,2,2,0,2,2,2,2,0,0,2,2,0,2,1,1,1,1,1,2,2,1,1,2,2,2,2,1,0,2,2,0,2,1,2,2,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281455,ALLAVARAM,Rural,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,0,0,0,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281455,ALLAVARAM,Rural,7,SS (VI-X),3,Local body,9,9,1,0,4,6,9,9,0,0,7,8,0,9,5,9,8,9,8,9,8,9,9,9,8,9,9,5,2,4,9,4,8,9,9,8,5,9
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281455,ALLAVARAM,Rural,7,SS (VI-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281455,ALLAVARAM,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281456,MAMIDIKUDURU,Rural,1,PS (I-V),3,Local body,59,58,11,20,3,17,59,59,0,0,36,59,0,3,9,56,48,59,52,59,52,43,48,50,45,55,55,0,2,46,57,1,46,45,57,54,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281456,MAMIDIKUDURU,Rural,1,PS (I-V),5,Private Unaided (Recognized),10,10,6,0,9,7,10,10,0,0,10,10,0,7,0,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,2,10,3,8,6,8,9
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281456,MAMIDIKUDURU,Rural,1,PS (I-V),8,Unrecognized,1,1,1,0,0,0,0,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281456,MAMIDIKUDURU,Rural,2,UPS (I-VIII),3,Local body,1,1,0,0,0,1,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281456,MAMIDIKUDURU,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),4,4,3,0,3,2,4,4,0,0,4,4,0,4,1,4,4,4,4,4,4,3,3,3,3,4,4,3,3,3,4,0,4,0,3,2,3,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281456,MAMIDIKUDURU,Rural,7,SS (VI-X),3,Local body,12,12,4,0,10,7,12,12,0,0,10,12,0,12,3,12,11,12,12,12,12,11,12,12,12,12,12,3,4,7,12,0,12,12,12,12,9,12
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281456,MAMIDIKUDURU,Rural,7,SS (VI-X),5,Private Unaided (Recognized),7,7,6,0,7,6,7,7,0,0,7,7,0,6,0,7,7,7,7,7,7,7,7,7,7,6,6,6,7,5,7,3,6,0,5,5,7,6
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281456,MAMIDIKUDURU,Rural,11,HSS (XI-XII),1,Department of Education,1,1,0,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,1,0,1,0,0,0,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281456,MAMIDIKUDURU,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),4,4,2,0,2,1,4,4,0,0,4,4,0,3,0,3,3,3,3,3,3,2,2,2,2,3,3,0,0,0,2,3,2,0,3,2,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281456,MAMIDIKUDURU,Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281457,RAZOLE,Rural,1,PS (I-V),3,Local body,55,54,9,19,2,23,55,55,0,0,32,53,0,5,8,54,50,54,51,55,52,49,45,51,48,54,54,3,2,32,55,0,51,22,55,43,0,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281457,RAZOLE,Rural,1,PS (I-V),5,Private Unaided (Recognized),5,5,5,0,5,4,5,5,0,0,5,5,0,4,2,3,3,3,3,3,3,4,4,4,3,5,5,3,1,2,4,0,2,3,4,2,4,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281457,RAZOLE,Rural,2,UPS (I-VIII),3,Local body,4,4,1,0,0,2,4,4,0,0,1,3,0,0,1,4,4,4,4,4,4,2,2,3,3,4,4,1,0,3,4,0,4,3,4,2,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281457,RAZOLE,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),5,5,5,0,4,3,5,5,0,0,5,5,0,3,0,4,4,4,4,4,4,5,5,5,4,5,5,2,1,1,4,2,3,1,3,1,2,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281457,RAZOLE,Rural,3,HSS (I-XII),90,Social welfare Department,1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,0,0,1,0,1,0,0,1,1,0,1,1,0,0,0,1,0,0,0,1,0,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281457,RAZOLE,Rural,6,SS (I-X),5,Private Unaided (Recognized),7,6,5,0,5,4,7,7,0,0,7,7,0,5,1,4,4,4,4,4,4,5,5,5,4,7,7,1,2,3,5,0,3,2,2,1,6,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281457,RAZOLE,Rural,7,SS (VI-X),3,Local body,9,9,6,0,8,7,9,9,0,0,8,9,0,7,5,7,6,9,9,9,9,7,8,8,8,9,9,3,2,6,9,0,9,9,9,8,7,9
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281457,RAZOLE,Rural,7,SS (VI-X),5,Private Unaided (Recognized),3,3,3,1,3,3,3,3,0,0,3,3,0,3,0,3,3,3,3,3,3,3,3,3,3,3,3,3,0,1,3,0,3,2,2,1,2,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281457,RAZOLE,Rural,11,HSS (XI-XII),1,Department of Education,1,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281457,RAZOLE,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),5,5,4,0,5,4,5,5,0,0,5,5,0,3,0,4,4,5,5,5,5,2,3,3,3,5,5,1,1,1,4,3,4,0,5,5,3,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281458,MALIKIPURAM,Rural,1,PS (I-V),3,Local body,61,61,16,5,4,24,61,61,0,0,47,60,0,14,55,58,28,61,30,61,30,54,57,59,30,61,61,43,57,41,61,0,30,21,58,58,0,13
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281458,MALIKIPURAM,Rural,1,PS (I-V),5,Private Unaided (Recognized),7,7,7,0,7,6,7,7,0,0,7,7,0,4,7,6,6,6,6,6,6,6,6,6,6,7,7,7,7,7,7,2,6,1,5,3,1,6
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281458,MALIKIPURAM,Rural,2,UPS (I-VIII),3,Local body,6,6,3,0,0,3,6,6,0,0,5,6,0,1,6,6,4,6,3,6,4,6,6,6,4,6,6,2,3,2,6,0,4,3,5,5,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281458,MALIKIPURAM,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),10,10,7,0,7,9,10,10,0,0,10,10,0,5,9,9,9,9,9,9,9,8,8,8,8,10,10,9,10,9,10,3,9,1,6,6,1,8
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281458,MALIKIPURAM,Rural,6,SS (I-X),5,Private Unaided (Recognized),3,3,3,0,3,1,2,3,0,0,3,3,0,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,1,3,2,3,3,0,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281458,MALIKIPURAM,Rural,7,SS (VI-X),3,Local body,10,10,8,0,6,9,10,10,0,0,9,10,0,8,10,10,8,10,10,10,10,10,10,10,10,10,10,8,10,6,10,0,10,6,10,9,6,10
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281458,MALIKIPURAM,Rural,7,SS (VI-X),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281458,MALIKIPURAM,Rural,7,SS (VI-X),5,Private Unaided (Recognized),7,7,5,0,7,6,7,7,0,0,6,7,0,6,7,5,4,5,4,5,4,4,4,4,4,7,7,7,7,7,7,3,4,1,3,3,1,7
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281458,MALIKIPURAM,Rural,11,HSS (XI-XII),4,Government Aided,1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281458,MALIKIPURAM,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,2,0,1,0,0,0,1,1,1,1,0,1,1,1,2,2,0,0,0,1,2,1,0,2,2,2,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281459,SAKHINETIPALLI,Rural,1,PS (I-V),1,Department of Education,1,1,0,1,0,1,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281459,SAKHINETIPALLI,Rural,1,PS (I-V),3,Local body,63,62,11,32,7,28,62,62,0,0,44,56,1,2,7,52,27,60,38,62,38,34,43,46,28,46,46,3,9,15,62,1,31,53,62,60,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281459,SAKHINETIPALLI,Rural,1,PS (I-V),4,Government Aided,1,1,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281459,SAKHINETIPALLI,Rural,1,PS (I-V),5,Private Unaided (Recognized),6,6,6,0,6,4,6,6,1,0,6,6,1,5,0,5,5,5,5,5,5,5,5,5,5,6,5,5,3,3,4,1,4,1,4,1,3,5
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281459,SAKHINETIPALLI,Rural,2,UPS (I-VIII),3,Local body,4,4,1,0,2,3,4,4,0,0,4,4,0,0,2,4,4,4,4,4,4,4,4,4,4,4,4,1,2,1,4,0,4,3,4,4,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281459,SAKHINETIPALLI,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),9,9,5,0,8,7,9,9,0,0,9,9,0,9,2,7,7,7,7,7,7,7,8,8,7,9,9,6,5,5,8,2,7,1,5,0,8,9
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281459,SAKHINETIPALLI,Rural,2,UPS (I-VIII),8,Unrecognized,1,1,0,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281459,SAKHINETIPALLI,Rural,2,UPS (I-VIII),98,Madarsa unrecognized,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281459,SAKHINETIPALLI,Rural,6,SS (I-X),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,2,0,2,1,2,2,2,2,2,2,2,1,2,2,2,2,2,1,2,2,0,2,1,2,2,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281459,SAKHINETIPALLI,Rural,7,SS (VI-X),1,Department of Education,1,1,0,0,0,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,1,1,1,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281459,SAKHINETIPALLI,Rural,7,SS (VI-X),3,Local body,12,12,8,0,5,10,12,12,0,0,10,11,0,12,8,11,7,12,9,12,9,8,10,10,9,12,12,4,3,2,12,0,9,9,12,12,7,11
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281459,SAKHINETIPALLI,Rural,7,SS (VI-X),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,0,1,1,1,1,1,0,0,0,1,0,1,1,1,1,1,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281459,SAKHINETIPALLI,Rural,7,SS (VI-X),5,Private Unaided (Recognized),4,4,4,0,4,2,4,4,1,0,4,4,1,4,1,2,2,2,2,2,2,2,1,2,2,4,3,2,3,2,2,1,1,1,4,2,4,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281459,SAKHINETIPALLI,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),2,2,2,0,0,0,2,2,0,0,2,0,0,0,0,2,2,2,2,2,2,0,0,0,0,2,2,0,0,0,0,0,0,0,2,2,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281460,ROWTULAPUDI,Rural,1,PS (I-V),2,Tribal Welfare Department,12,11,1,6,0,9,8,8,0,0,5,6,0,3,1,7,3,7,4,7,4,5,5,5,4,5,5,0,1,0,6,0,3,1,4,3,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281460,ROWTULAPUDI,Rural,1,PS (I-V),3,Local body,23,23,6,5,2,20,23,23,0,0,13,23,0,0,0,21,12,23,20,23,20,18,18,19,18,22,22,0,18,9,23,0,20,22,23,21,0,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281460,ROWTULAPUDI,Rural,2,UPS (I-VIII),2,Tribal Welfare Department,1,1,1,0,0,1,1,1,0,0,1,1,0,0,1,1,0,1,0,1,0,1,1,1,0,1,1,1,0,0,1,0,0,1,1,1,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281460,ROWTULAPUDI,Rural,2,UPS (I-VIII),3,Local body,6,6,2,0,0,5,6,6,0,0,3,6,0,0,1,5,5,5,5,5,5,5,5,5,5,5,5,1,2,1,6,0,5,6,6,6,1,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281460,ROWTULAPUDI,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),9,8,7,0,6,6,9,9,0,0,9,9,0,6,0,5,5,5,5,5,5,4,4,4,4,9,9,2,8,1,8,4,5,1,2,2,6,7
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281460,ROWTULAPUDI,Rural,3,HSS (I-XII),90,Social welfare Department,1,1,0,0,1,1,1,1,0,0,1,1,1,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281460,ROWTULAPUDI,Rural,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,1,1,0,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281460,ROWTULAPUDI,Rural,7,SS (VI-X),3,Local body,5,5,1,0,4,4,5,5,0,0,5,5,0,4,4,4,3,4,3,4,3,3,3,3,3,5,5,3,4,0,5,1,3,4,5,5,4,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281460,ROWTULAPUDI,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),1,1,0,0,1,1,1,1,0,0,1,1,0,1,1,1,1,0,0,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281461,V.R.PURAM,Rural,1,PS (I-V),2,Tribal Welfare Department,17,16,10,8,1,12,15,15,0,0,4,17,0,7,8,16,12,14,10,16,12,16,15,16,12,17,17,3,4,15,16,0,11,2,17,17,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281461,V.R.PURAM,Rural,1,PS (I-V),3,Local body,26,24,11,14,5,20,23,23,0,0,9,25,0,11,10,24,12,21,13,24,15,20,20,21,14,24,24,2,13,19,18,0,13,3,26,26,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281461,V.R.PURAM,Rural,1,PS (I-V),4,Government Aided,1,1,1,1,0,1,1,1,0,0,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281461,V.R.PURAM,Rural,2,UPS (I-VIII),2,Tribal Welfare Department,2,2,2,0,1,2,2,2,0,0,2,2,0,2,1,1,1,2,2,2,2,1,2,2,2,2,2,2,0,2,2,0,2,0,2,2,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281461,V.R.PURAM,Rural,2,UPS (I-VIII),3,Local body,5,5,4,0,1,4,5,5,0,0,1,5,0,4,2,4,1,4,1,5,2,4,4,4,1,5,5,1,1,5,5,0,2,2,5,5,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281461,V.R.PURAM,Rural,6,SS (I-X),2,Tribal Welfare Department,1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,0,0,1,1,1,0,1,1,1,1,1,0,1,1,0,1,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281461,V.R.PURAM,Rural,7,SS (VI-X),1,Department of Education,1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281461,V.R.PURAM,Rural,7,SS (VI-X),2,Tribal Welfare Department,1,1,1,0,0,1,1,1,0,0,1,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281461,V.R.PURAM,Rural,7,SS (VI-X),3,Local body,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,0,1,1,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281461,V.R.PURAM,Rural,11,HSS (XI-XII),1,Department of Education,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,0,0,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281462,CHINTUR,Rural,1,PS (I-V),2,Tribal Welfare Department,34,34,14,25,3,27,27,28,1,0,13,23,0,5,4,22,2,23,2,25,3,3,4,4,2,25,25,3,1,0,27,1,3,4,30,24,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281462,CHINTUR,Rural,1,PS (I-V),3,Local body,51,49,18,26,2,39,42,43,0,0,15,38,0,11,5,35,6,39,9,40,10,5,7,8,6,40,40,0,1,1,45,5,9,16,49,34,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281462,CHINTUR,Rural,2,UPS (I-VIII),2,Tribal Welfare Department,2,2,2,0,1,2,2,2,0,0,1,2,0,1,0,1,1,2,2,2,2,0,0,0,0,2,2,2,0,0,2,0,2,1,2,2,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281462,CHINTUR,Rural,2,UPS (I-VIII),3,Local body,6,6,4,0,3,3,6,6,0,0,1,6,0,2,0,6,1,6,1,6,1,1,2,2,1,6,6,0,0,0,6,0,1,6,6,6,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281462,CHINTUR,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),3,3,3,0,2,1,3,3,0,0,3,3,0,1,0,3,3,3,3,3,3,1,1,1,1,3,3,3,2,0,3,0,3,0,1,1,2,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281462,CHINTUR,Rural,6,SS (I-X),2,Tribal Welfare Department,6,6,5,0,3,5,6,6,1,0,6,6,0,3,1,5,3,4,1,6,4,2,2,3,2,6,6,5,0,0,6,0,4,3,6,5,1,3
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281462,CHINTUR,Rural,7,SS (VI-X),1,Department of Education,1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,0,0,1,1,1,1,0,0,0,0,1,1,1,0,0,1,0,1,1,1,1,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281462,CHINTUR,Rural,7,SS (VI-X),2,Tribal Welfare Department,5,5,5,1,1,5,5,5,0,0,4,4,0,4,0,4,2,3,0,5,2,0,0,0,0,5,5,4,0,0,4,1,2,3,4,3,0,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281462,CHINTUR,Rural,7,SS (VI-X),3,Local body,2,2,2,0,1,2,2,2,0,0,1,2,0,1,0,1,1,2,1,2,1,0,1,1,1,2,2,0,0,1,2,0,1,2,2,2,0,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281462,CHINTUR,Rural,7,SS (VI-X),5,Private Unaided (Recognized),2,2,2,0,2,1,2,2,0,0,2,2,0,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,0,0,2,0,2,0,1,1,1,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281462,CHINTUR,Rural,11,HSS (XI-XII),1,Department of Education,1,1,1,0,1,1,1,1,0,0,1,0,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281462,CHINTUR,Rural,11,HSS (XI-XII),2,Tribal Welfare Department,1,1,1,0,1,1,1,1,0,0,1,1,1,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,0,0,1,0,1,0,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281463,KUNAVARAM,Rural,1,PS (I-V),2,Tribal Welfare Department,10,10,3,4,1,6,5,5,0,0,4,8,0,1,1,5,2,6,2,6,2,3,3,3,1,4,4,0,0,0,3,0,0,3,9,8,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281463,KUNAVARAM,Rural,1,PS (I-V),3,Local body,43,43,27,14,2,31,39,40,0,0,23,42,0,14,8,40,26,40,27,42,29,22,21,22,16,41,41,0,6,16,38,0,24,22,43,38,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281463,KUNAVARAM,Rural,2,UPS (I-VIII),2,Tribal Welfare Department,2,2,2,1,0,0,2,2,0,0,2,2,0,2,1,2,0,2,0,2,0,0,0,0,0,2,2,1,0,0,2,0,0,1,2,2,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281463,KUNAVARAM,Rural,2,UPS (I-VIII),3,Local body,3,3,1,0,0,3,3,3,0,0,3,3,0,3,0,2,2,2,2,2,2,2,2,2,2,3,3,0,0,2,3,0,2,3,3,2,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281463,KUNAVARAM,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281463,KUNAVARAM,Rural,5,HSS (VI-XII),1,Department of Education,1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,0,0,1,0,1,0,0,0,0,0,1,1,1,1,1,1,0,0,1,1,1,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281463,KUNAVARAM,Rural,6,SS (I-X),2,Tribal Welfare Department,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,0,0,1,0,1,0,0,0,0,0,1,1,0,1,0,1,0,0,1,1,0,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281463,KUNAVARAM,Rural,6,SS (I-X),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,1,1,1,1,2,2,1,0,1,2,0,2,0,2,2,2,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281463,KUNAVARAM,Rural,7,SS (VI-X),2,Tribal Welfare Department,2,2,2,0,0,1,2,2,0,0,1,2,0,1,0,1,1,1,1,2,2,1,1,2,2,2,2,2,0,0,2,1,2,2,2,2,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281463,KUNAVARAM,Rural,7,SS (VI-X),3,Local body,2,2,1,0,0,1,2,2,0,0,2,2,0,1,0,2,2,2,2,2,2,0,0,0,0,2,2,0,0,0,1,0,1,2,2,2,1,2
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281463,KUNAVARAM,Rural,11,HSS (XI-XII),1,Department of Education,1,1,0,0,1,1,1,1,0,0,1,1,0,1,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281464,NELLIPAKA,Rural,1,PS (I-V),2,Tribal Welfare Department,20,20,3,13,0,11,19,19,0,0,5,8,0,1,2,19,13,20,19,20,19,18,20,20,19,19,19,4,0,4,17,0,16,4,20,19,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281464,NELLIPAKA,Rural,1,PS (I-V),3,Local body,56,56,14,28,1,27,51,52,0,0,24,23,0,2,9,51,38,52,45,52,46,50,49,50,45,53,53,7,0,6,46,1,42,12,55,55,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281464,NELLIPAKA,Rural,1,PS (I-V),4,Government Aided,3,3,3,1,2,2,3,3,0,0,3,2,0,1,1,2,2,2,2,3,3,3,3,3,3,3,3,0,0,0,3,1,3,1,3,3,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281464,NELLIPAKA,Rural,1,PS (I-V),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281464,NELLIPAKA,Rural,2,UPS (I-VIII),3,Local body,2,2,1,0,1,1,2,2,0,0,1,2,0,0,1,2,1,2,1,2,1,2,2,2,1,2,2,0,0,0,2,0,1,1,2,2,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281464,NELLIPAKA,Rural,2,UPS (I-VIII),4,Government Aided,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281464,NELLIPAKA,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),1,1,1,0,0,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,0,0,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281464,NELLIPAKA,Rural,5,HSS (VI-XII),1,Department of Education,1,1,1,0,1,1,1,1,0,0,1,1,0,0,1,0,0,1,1,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281464,NELLIPAKA,Rural,5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281464,NELLIPAKA,Rural,6,SS (I-X),2,Tribal Welfare Department,1,1,1,0,1,1,1,1,0,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281464,NELLIPAKA,Rural,6,SS (I-X),3,Local body,2,2,0,0,0,2,2,2,0,0,1,2,0,0,1,2,2,2,2,2,2,2,2,2,2,2,2,1,0,1,2,1,2,0,2,2,0,1
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281464,NELLIPAKA,Rural,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,0,1,1,1,0,0,0,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,0,0,0,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281464,NELLIPAKA,Rural,7,SS (VI-X),2,Tribal Welfare Department,1,1,1,0,1,1,1,1,0,0,0,1,0,0,0,1,1,0,0,1,1,0,0,0,0,1,1,1,0,0,1,0,1,1,1,1,0,0
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281464,NELLIPAKA,Rural,7,SS (VI-X),3,Local body,4,4,2,0,0,4,4,4,0,0,4,4,0,4,0,3,3,4,4,4,4,3,3,3,3,4,4,1,0,0,4,0,4,2,4,4,0,4
+2019-20,28,Andhra Pradesh,2814,EAST GODAVARI,281464,NELLIPAKA,Rural,7,SS (VI-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,0,0,0,1

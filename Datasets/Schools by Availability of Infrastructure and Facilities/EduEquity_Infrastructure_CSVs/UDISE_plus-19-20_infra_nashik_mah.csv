@@ -1,0 +1,452 @@
+Academic_Year,State_Code,State_Name,District_Code,District_Name,Block_Code,Udise_Block_Name,Location,School_Category_Id,School_Category_Name,School_Management_Id,School_Management_Name,Total_Number_of_Schools,Building,Boundary_Wall,Single_Class_Room,Separate_Room_for_Headmaster,Land_Available,Electricity,Functional_Electricity,Solar_Panel,Furniture,Playground,Library_or_Reading_Corner_or_Book_Bank,Librarian,Newspaper,Kitchen_Garden,Boy_Toilet,Functional_Boy_Toilet,Girl_Toilet,Functional_Girl_Toilet,Toilet_Facility,Functional_Toilet_Facility,Functional_Urinal_Boy,Functional_Urinal_Girl,Functional_Urinal,Functional_Toilet_and_Urinal,Drinking_Water,Functional_Drinking_Water,Water_Purifier,Rain_Water_Harvesting,Water_Tested,Handwash,Incinerator,WASH_Facility_Drinking_Water_Toilet_and_Handwash,Ramps,Medical_Checkup,Complete_Medical_Checkup,Internet,Computer_Available
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Rural,1,PS (I-V),3,Local body,273,267,200,8,162,173,225,259,4,0,259,273,1,239,209,246,239,260,260,270,270,246,265,269,268,273,270,36,101,230,272,0,269,271,273,226,19,121
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Rural,1,PS (I-V),4,Government Aided,2,2,1,0,2,1,2,2,1,0,2,2,0,2,1,2,2,2,2,2,2,2,2,2,2,2,2,1,1,2,2,0,2,2,2,2,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Rural,1,PS (I-V),5,Private Unaided (Recognized),29,29,28,0,28,27,28,28,3,0,29,23,1,25,5,29,26,29,26,29,26,26,26,26,26,29,28,15,11,23,29,0,26,26,26,13,21,25
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Rural,2,UPS (I-VIII),3,Local body,18,18,15,0,12,15,17,18,1,0,16,18,0,16,13,15,15,18,18,18,18,16,18,18,18,18,18,5,8,14,18,7,18,17,18,16,1,13
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Rural,2,UPS (I-VIII),4,Government Aided,11,11,9,0,11,9,11,11,3,0,11,11,0,9,8,11,11,11,11,11,11,11,11,11,11,11,11,6,4,11,11,8,11,8,11,11,2,9
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),6,6,6,0,6,6,6,6,1,0,6,6,2,6,1,6,6,6,6,6,6,6,6,6,6,6,6,5,4,5,6,2,6,6,6,3,6,6
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Rural,3,HSS (I-XII),2,Tribal Welfare Department,3,3,3,0,3,3,3,3,2,0,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,1,3,3,3,3,3,3,3,1,3
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Rural,3,HSS (I-XII),4,Government Aided,11,11,10,0,11,10,11,11,3,0,11,10,4,11,8,11,11,11,11,11,11,11,11,11,11,11,11,5,6,10,11,6,11,11,10,9,10,11
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),4,4,4,0,4,4,4,4,1,0,4,4,0,4,0,4,4,4,4,4,4,4,4,4,4,4,3,2,0,4,4,3,4,3,2,1,2,4
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Rural,4,UPS (VI-VIII),5,Private Unaided (Recognized),3,3,0,0,3,3,3,3,1,0,3,3,1,3,2,3,3,3,3,3,3,3,3,3,3,3,3,1,1,2,3,2,3,2,2,2,1,3
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Rural,5,HSS (VI-XII),4,Government Aided,2,2,2,0,2,2,2,2,0,0,2,2,0,2,1,2,2,2,2,2,2,2,2,2,2,2,2,1,1,2,2,2,2,2,2,2,1,2
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Rural,6,SS (I-X),2,Tribal Welfare Department,8,5,5,0,8,7,8,8,6,0,8,8,0,4,7,8,8,8,8,8,8,8,8,8,8,8,8,6,1,8,8,7,8,7,8,8,1,8
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Rural,6,SS (I-X),4,Government Aided,30,30,19,0,29,27,29,29,11,0,30,29,1,29,18,30,29,30,29,30,29,29,29,29,29,30,30,8,17,24,30,15,29,30,30,23,18,29
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Rural,6,SS (I-X),5,Private Unaided (Recognized),8,8,6,0,8,8,8,8,4,0,8,8,4,8,3,8,8,8,8,8,8,8,8,8,8,8,8,4,5,8,8,5,8,8,8,6,7,8
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Rural,7,SS (VI-X),4,Government Aided,15,15,11,0,13,12,14,14,5,0,14,15,0,13,9,15,15,15,15,15,15,15,15,15,15,15,15,3,4,13,14,10,14,13,14,12,3,15
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Rural,7,SS (VI-X),5,Private Unaided (Recognized),3,3,1,0,3,3,3,3,0,0,3,3,0,3,1,3,3,3,3,3,3,3,3,3,3,3,3,1,2,1,3,2,3,3,3,2,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Rural,8,SS (IX-X),5,Private Unaided (Recognized),2,2,1,0,2,2,2,2,0,0,2,2,0,1,1,2,2,2,2,2,2,2,2,2,2,2,2,0,0,2,2,1,2,2,2,2,1,2
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Rural,10,HSS (IX-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Rural,11,HSS (XI-XII),4,Government Aided,2,2,1,0,1,2,1,1,1,0,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,1,1,2,2,1,2,2,2,1,1,2
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),8,7,7,0,8,7,7,8,0,0,7,8,1,8,1,8,8,8,8,8,8,8,8,8,8,8,8,1,1,6,8,5,8,6,7,4,4,8
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Urban,1,PS (I-V),3,Local body,6,4,4,0,3,4,4,4,0,0,3,6,0,5,3,3,3,4,4,4,4,3,4,4,4,6,5,0,3,6,4,0,3,4,6,5,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Urban,1,PS (I-V),4,Government Aided,3,3,3,0,3,1,3,3,0,0,3,3,0,3,0,3,3,3,3,3,3,3,3,3,3,3,3,0,3,3,3,0,3,3,2,2,1,3
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Urban,2,UPS (I-VIII),3,Local body,1,1,0,0,1,0,1,1,0,0,0,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Urban,2,UPS (I-VIII),4,Government Aided,6,6,6,0,5,5,6,6,1,0,6,6,0,6,1,6,6,6,6,6,6,6,6,6,6,6,6,2,5,6,6,5,6,6,4,3,3,6
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,2,1,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,0,2,2,2,2,2,2,0,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Urban,3,HSS (I-XII),4,Government Aided,2,2,2,0,2,1,2,2,2,0,2,2,2,2,1,1,1,2,2,2,2,1,2,2,2,2,2,1,1,2,2,1,2,2,2,1,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Urban,6,SS (I-X),4,Government Aided,2,2,2,0,2,1,2,2,1,0,2,2,1,2,1,2,2,1,1,2,2,2,1,2,2,2,2,1,1,2,2,1,2,2,2,2,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Urban,6,SS (I-X),5,Private Unaided (Recognized),3,3,3,0,3,2,3,3,1,0,3,3,0,3,1,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,3,1,3,3,2,1,3,3
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Urban,7,SS (VI-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Urban,8,SS (IX-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Urban,11,HSS (XI-XII),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272001,BAGLAN,Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272002,CHANDWAD,Rural,1,PS (I-V),3,Local body,143,143,94,4,71,75,114,135,4,0,123,138,0,119,50,127,116,138,134,142,138,123,132,138,135,138,133,18,25,72,139,0,132,142,143,114,7,105
+2019-20,27,Maharashtra,2720,NASHIK,272002,CHANDWAD,Rural,1,PS (I-V),5,Private Unaided (Recognized),16,16,12,0,13,14,14,15,2,0,14,9,2,9,4,15,15,15,15,15,15,14,14,14,14,16,15,4,5,9,16,0,15,13,12,8,15,13
+2019-20,27,Maharashtra,2720,NASHIK,272002,CHANDWAD,Rural,2,UPS (I-VIII),3,Local body,35,35,26,0,27,27,35,35,2,0,34,35,0,29,17,33,33,34,34,34,34,35,35,35,34,35,35,9,8,24,35,17,34,35,34,25,5,30
+2019-20,27,Maharashtra,2720,NASHIK,272002,CHANDWAD,Rural,2,UPS (I-VIII),4,Government Aided,4,4,2,0,3,4,4,4,0,0,4,3,0,3,1,4,3,4,4,4,4,3,3,3,3,4,4,2,0,3,3,3,3,1,4,3,1,4
+2019-20,27,Maharashtra,2720,NASHIK,272002,CHANDWAD,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272002,CHANDWAD,Rural,3,HSS (I-XII),4,Government Aided,9,9,9,0,9,8,9,9,0,0,9,9,5,9,2,9,9,9,9,9,9,9,9,9,9,9,9,4,4,5,9,3,9,9,9,9,9,9
+2019-20,27,Maharashtra,2720,NASHIK,272002,CHANDWAD,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272002,CHANDWAD,Rural,4,UPS (VI-VIII),5,Private Unaided (Recognized),1,1,0,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,0,0,1
+2019-20,27,Maharashtra,2720,NASHIK,272002,CHANDWAD,Rural,6,SS (I-X),2,Tribal Welfare Department,1,1,1,0,1,0,1,1,1,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,0,0,1
+2019-20,27,Maharashtra,2720,NASHIK,272002,CHANDWAD,Rural,6,SS (I-X),4,Government Aided,17,17,13,0,15,16,17,17,0,1,17,16,0,16,7,17,16,17,16,17,16,15,15,15,15,17,17,2,4,11,15,5,14,17,17,15,12,17
+2019-20,27,Maharashtra,2720,NASHIK,272002,CHANDWAD,Rural,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272002,CHANDWAD,Rural,7,SS (VI-X),4,Government Aided,25,25,12,0,21,21,22,22,2,0,25,24,0,22,3,25,24,25,23,25,24,24,24,24,24,24,24,6,7,14,23,15,21,21,25,20,13,24
+2019-20,27,Maharashtra,2720,NASHIK,272002,CHANDWAD,Rural,7,SS (VI-X),5,Private Unaided (Recognized),2,2,1,0,2,2,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,1,1,2,0,2,2,2,1,1,2
+2019-20,27,Maharashtra,2720,NASHIK,272002,CHANDWAD,Rural,11,HSS (XI-XII),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272002,CHANDWAD,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),1,1,0,0,1,1,1,1,0,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0
+2019-20,27,Maharashtra,2720,NASHIK,272002,CHANDWAD,Urban,1,PS (I-V),3,Local body,3,3,2,0,1,0,3,3,0,0,2,3,0,2,0,3,3,3,3,3,3,3,3,3,3,3,3,0,0,2,3,0,3,3,3,3,0,3
+2019-20,27,Maharashtra,2720,NASHIK,272002,CHANDWAD,Urban,1,PS (I-V),4,Government Aided,4,4,4,0,4,3,4,4,1,0,4,4,0,2,2,4,4,4,4,4,4,4,4,4,4,4,4,1,0,3,4,0,4,4,4,4,2,3
+2019-20,27,Maharashtra,2720,NASHIK,272002,CHANDWAD,Urban,2,UPS (I-VIII),3,Local body,1,1,0,0,1,1,1,1,0,0,1,1,0,0,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,0,0
+2019-20,27,Maharashtra,2720,NASHIK,272002,CHANDWAD,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272002,CHANDWAD,Urban,3,HSS (I-XII),4,Government Aided,2,2,2,0,2,2,2,2,1,0,2,2,1,1,0,2,2,2,2,2,2,2,2,2,2,2,2,0,1,1,2,0,2,2,1,0,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272002,CHANDWAD,Urban,7,SS (VI-X),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272002,CHANDWAD,Urban,11,HSS (XI-XII),4,Government Aided,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272003,DEVLA,Rural,1,PS (I-V),3,Local body,94,94,50,2,51,35,68,78,3,0,75,94,0,87,17,93,92,94,94,94,94,94,94,94,94,94,94,14,21,70,94,0,94,94,94,82,1,52
+2019-20,27,Maharashtra,2720,NASHIK,272003,DEVLA,Rural,1,PS (I-V),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272003,DEVLA,Rural,1,PS (I-V),5,Private Unaided (Recognized),6,6,6,1,6,6,6,6,1,0,6,5,0,5,1,6,6,6,6,6,6,6,6,6,6,6,6,5,3,5,6,0,6,6,4,2,5,6
+2019-20,27,Maharashtra,2720,NASHIK,272003,DEVLA,Rural,2,UPS (I-VIII),3,Local body,22,22,13,0,19,11,21,21,2,0,21,22,0,21,5,22,21,21,21,22,22,22,21,22,22,22,22,8,8,17,22,6,22,22,22,22,2,20
+2019-20,27,Maharashtra,2720,NASHIK,272003,DEVLA,Rural,2,UPS (I-VIII),4,Government Aided,4,4,3,0,4,3,4,4,0,0,4,4,0,4,1,4,4,4,4,4,4,4,4,4,4,4,4,4,2,4,4,4,4,4,4,3,1,4
+2019-20,27,Maharashtra,2720,NASHIK,272003,DEVLA,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,1,0,2,1,1,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,1,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272003,DEVLA,Rural,3,HSS (I-XII),4,Government Aided,3,3,3,0,3,3,3,3,0,0,3,3,2,3,1,3,3,3,3,3,3,3,3,3,3,3,3,2,0,3,3,1,3,3,3,2,2,3
+2019-20,27,Maharashtra,2720,NASHIK,272003,DEVLA,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,0,0,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272003,DEVLA,Rural,5,HSS (VI-XII),4,Government Aided,1,1,0,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,1,0,1
+2019-20,27,Maharashtra,2720,NASHIK,272003,DEVLA,Rural,5,HSS (VI-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272003,DEVLA,Rural,6,SS (I-X),2,Tribal Welfare Department,2,1,1,0,0,2,2,2,1,0,2,2,0,2,1,2,2,2,2,2,2,2,2,2,2,2,2,1,0,2,2,0,2,2,2,2,0,2
+2019-20,27,Maharashtra,2720,NASHIK,272003,DEVLA,Rural,6,SS (I-X),4,Government Aided,19,18,17,0,18,17,18,18,0,0,19,19,2,19,9,19,19,19,19,19,19,19,19,19,19,19,19,3,5,14,19,8,19,18,19,13,7,19
+2019-20,27,Maharashtra,2720,NASHIK,272003,DEVLA,Rural,6,SS (I-X),5,Private Unaided (Recognized),2,2,1,0,2,2,1,2,0,0,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,1,2,1,1,1,1,2
+2019-20,27,Maharashtra,2720,NASHIK,272003,DEVLA,Rural,7,SS (VI-X),4,Government Aided,9,8,6,0,6,5,7,7,0,0,9,9,0,9,2,9,9,9,9,9,9,9,9,9,9,9,9,3,0,8,9,5,9,8,9,8,2,8
+2019-20,27,Maharashtra,2720,NASHIK,272003,DEVLA,Rural,7,SS (VI-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272003,DEVLA,Rural,8,SS (IX-X),5,Private Unaided (Recognized),1,1,0,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,1
+2019-20,27,Maharashtra,2720,NASHIK,272003,DEVLA,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),3,3,3,0,3,2,3,3,1,0,3,3,1,3,1,3,3,3,3,3,3,3,3,3,3,3,3,2,3,3,3,1,3,2,3,3,2,3
+2019-20,27,Maharashtra,2720,NASHIK,272003,DEVLA,Urban,1,PS (I-V),3,Local body,1,1,1,1,1,1,0,0,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,0,0,1
+2019-20,27,Maharashtra,2720,NASHIK,272003,DEVLA,Urban,1,PS (I-V),5,Private Unaided (Recognized),4,4,4,0,4,2,4,4,0,0,4,3,0,4,1,4,4,4,4,4,4,4,4,4,4,4,4,1,0,2,4,0,4,4,4,3,3,4
+2019-20,27,Maharashtra,2720,NASHIK,272003,DEVLA,Urban,2,UPS (I-VIII),3,Local body,1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,0,1
+2019-20,27,Maharashtra,2720,NASHIK,272003,DEVLA,Urban,2,UPS (I-VIII),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272003,DEVLA,Urban,4,UPS (VI-VIII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272003,DEVLA,Urban,6,SS (I-X),4,Government Aided,2,2,2,0,2,1,2,2,0,0,2,2,2,2,0,1,1,1,1,2,2,1,1,2,2,2,2,0,1,2,2,0,2,2,2,1,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272003,DEVLA,Urban,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272003,DEVLA,Urban,7,SS (VI-X),3,Local body,1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272003,DEVLA,Urban,7,SS (VI-X),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,0,1
+2019-20,27,Maharashtra,2720,NASHIK,272003,DEVLA,Urban,8,SS (IX-X),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,2,0,2,1,2,2,2,2,2,2,2,2,2,2,2,2,0,1,2,2,0,2,2,2,2,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272003,DEVLA,Urban,11,HSS (XI-XII),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272004,DINDORI,Rural,1,PS (I-V),3,Local body,146,146,111,8,56,113,117,138,5,0,127,145,0,83,115,137,135,146,146,146,146,138,146,146,146,146,146,26,33,131,146,0,146,146,146,111,4,88
+2019-20,27,Maharashtra,2720,NASHIK,272004,DINDORI,Rural,1,PS (I-V),4,Government Aided,2,2,2,0,2,2,2,2,0,0,2,2,0,2,1,2,2,2,2,2,2,2,2,2,2,2,2,1,1,2,2,0,2,2,2,2,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272004,DINDORI,Rural,1,PS (I-V),5,Private Unaided (Recognized),10,10,9,0,10,10,10,10,3,0,9,8,0,5,2,10,10,10,10,10,10,9,9,9,9,10,10,6,1,7,10,0,10,8,7,4,6,7
+2019-20,27,Maharashtra,2720,NASHIK,272004,DINDORI,Rural,2,UPS (I-VIII),3,Local body,64,64,47,0,43,58,63,64,3,0,63,64,1,46,50,64,64,64,64,64,64,64,64,64,64,64,63,20,18,59,64,18,64,64,64,55,5,61
+2019-20,27,Maharashtra,2720,NASHIK,272004,DINDORI,Rural,2,UPS (I-VIII),4,Government Aided,11,11,9,0,11,11,11,11,3,0,11,11,0,10,8,10,10,11,11,11,11,10,11,11,11,11,11,8,2,10,11,6,11,10,11,9,6,11
+2019-20,27,Maharashtra,2720,NASHIK,272004,DINDORI,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),7,6,7,0,7,7,7,7,0,0,7,6,2,7,1,7,7,7,7,7,7,6,6,6,6,7,7,5,0,4,7,4,7,6,7,3,7,7
+2019-20,27,Maharashtra,2720,NASHIK,272004,DINDORI,Rural,2,UPS (I-VIII),8,Unrecognized,1,1,1,0,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,1,0,1,1,1,0,0,1,1,0,0,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272004,DINDORI,Rural,3,HSS (I-XII),2,Tribal Welfare Department,2,1,2,0,2,1,2,2,0,0,2,2,1,0,1,2,2,2,2,2,2,2,2,2,2,2,2,0,0,2,2,1,2,2,2,2,0,2
+2019-20,27,Maharashtra,2720,NASHIK,272004,DINDORI,Rural,3,HSS (I-XII),4,Government Aided,9,9,9,0,9,9,9,9,3,0,9,9,4,9,5,9,9,9,9,9,9,9,9,9,9,9,9,7,4,8,9,4,9,9,9,7,8,9
+2019-20,27,Maharashtra,2720,NASHIK,272004,DINDORI,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),5,5,4,0,5,5,4,5,2,0,5,5,4,5,2,5,5,5,5,5,5,5,5,5,5,5,5,5,2,4,5,2,5,5,5,1,4,5
+2019-20,27,Maharashtra,2720,NASHIK,272004,DINDORI,Rural,5,HSS (VI-XII),4,Government Aided,2,2,2,0,2,2,2,2,1,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,2,2,1,2,2,2,2,1,2
+2019-20,27,Maharashtra,2720,NASHIK,272004,DINDORI,Rural,5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,1,0,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272004,DINDORI,Rural,6,SS (I-X),2,Tribal Welfare Department,7,5,7,0,5,7,7,7,4,0,7,6,0,4,4,7,7,7,7,7,7,6,6,6,6,7,7,5,4,7,7,7,7,6,7,6,2,7
+2019-20,27,Maharashtra,2720,NASHIK,272004,DINDORI,Rural,6,SS (I-X),4,Government Aided,19,19,17,0,18,18,19,19,9,0,19,19,2,18,12,19,19,19,19,19,19,18,18,18,18,19,19,6,3,12,19,5,19,19,19,16,11,18
+2019-20,27,Maharashtra,2720,NASHIK,272004,DINDORI,Rural,6,SS (I-X),5,Private Unaided (Recognized),3,3,3,0,3,3,3,3,1,0,3,3,0,3,0,3,3,3,3,3,3,3,3,3,3,3,3,2,1,2,3,2,3,2,3,2,2,3
+2019-20,27,Maharashtra,2720,NASHIK,272004,DINDORI,Rural,7,SS (VI-X),4,Government Aided,23,21,19,0,21,16,23,23,6,0,23,23,0,22,8,22,22,23,23,23,23,22,23,23,23,23,23,11,2,18,23,11,23,23,23,16,12,20
+2019-20,27,Maharashtra,2720,NASHIK,272004,DINDORI,Rural,7,SS (VI-X),5,Private Unaided (Recognized),3,3,1,0,3,3,3,3,0,0,3,3,0,3,1,3,3,3,3,3,3,3,3,3,3,3,3,1,2,1,3,2,3,3,3,2,2,3
+2019-20,27,Maharashtra,2720,NASHIK,272004,DINDORI,Rural,8,SS (IX-X),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,2,0,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,0,2,2,1,2,2,2,1,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272004,DINDORI,Rural,11,HSS (XI-XII),4,Government Aided,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272004,DINDORI,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),2,2,2,0,2,1,2,2,0,0,2,2,1,2,0,2,2,2,2,2,2,1,1,1,1,2,2,1,2,2,2,2,2,2,2,2,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272004,DINDORI,Urban,1,PS (I-V),3,Local body,3,3,2,0,1,2,3,3,0,0,3,3,0,3,1,2,2,3,3,3,3,2,3,3,3,3,3,1,0,3,3,0,3,3,3,3,0,2
+2019-20,27,Maharashtra,2720,NASHIK,272004,DINDORI,Urban,1,PS (I-V),5,Private Unaided (Recognized),4,3,4,0,4,4,4,4,1,0,4,4,1,3,2,4,4,4,4,4,4,3,3,3,3,4,4,2,2,4,4,0,4,4,4,1,4,4
+2019-20,27,Maharashtra,2720,NASHIK,272004,DINDORI,Urban,2,UPS (I-VIII),4,Government Aided,1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,0,1
+2019-20,27,Maharashtra,2720,NASHIK,272004,DINDORI,Urban,3,HSS (I-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272005,IGATPURI,Rural,1,PS (I-V),3,Local body,138,137,66,4,39,60,100,132,2,0,119,138,0,101,32,121,113,132,129,135,132,113,127,127,126,138,137,33,42,118,136,0,130,130,138,90,4,102
+2019-20,27,Maharashtra,2720,NASHIK,272005,IGATPURI,Rural,1,PS (I-V),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,0,0,0
+2019-20,27,Maharashtra,2720,NASHIK,272005,IGATPURI,Rural,1,PS (I-V),5,Private Unaided (Recognized),11,11,10,0,10,8,10,10,2,0,10,10,1,7,2,11,11,11,11,11,11,11,11,11,11,11,11,8,1,9,11,0,11,7,10,2,7,11
+2019-20,27,Maharashtra,2720,NASHIK,272005,IGATPURI,Rural,2,UPS (I-VIII),3,Local body,76,75,54,0,47,53,68,75,3,0,71,76,1,65,22,70,68,73,73,76,76,66,70,74,74,76,76,35,33,66,75,14,75,71,76,61,2,74
+2019-20,27,Maharashtra,2720,NASHIK,272005,IGATPURI,Rural,2,UPS (I-VIII),4,Government Aided,6,6,5,0,5,6,6,6,0,0,6,6,0,5,2,6,6,6,6,6,6,5,5,5,5,6,6,4,4,6,6,0,6,5,6,3,5,5
+2019-20,27,Maharashtra,2720,NASHIK,272005,IGATPURI,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),6,6,5,0,6,3,6,6,0,0,6,6,0,5,0,6,6,6,6,6,6,6,6,6,6,6,6,2,1,3,6,0,6,3,6,2,2,6
+2019-20,27,Maharashtra,2720,NASHIK,272005,IGATPURI,Rural,3,HSS (I-XII),4,Government Aided,9,8,8,0,8,7,9,9,0,0,9,9,2,9,2,8,8,9,9,9,9,8,9,9,9,9,9,1,7,8,9,5,9,9,9,7,8,9
+2019-20,27,Maharashtra,2720,NASHIK,272005,IGATPURI,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272005,IGATPURI,Rural,4,UPS (VI-VIII),2,Tribal Welfare Department,1,0,1,0,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272005,IGATPURI,Rural,5,HSS (VI-XII),2,Tribal Welfare Department,1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272005,IGATPURI,Rural,5,HSS (VI-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272005,IGATPURI,Rural,6,SS (I-X),2,Tribal Welfare Department,5,3,5,0,5,4,5,5,4,0,5,5,1,4,3,5,5,5,5,5,5,4,4,5,5,5,5,3,1,3,5,4,5,4,5,3,0,5
+2019-20,27,Maharashtra,2720,NASHIK,272005,IGATPURI,Rural,6,SS (I-X),4,Government Aided,13,13,9,0,12,11,13,13,1,0,13,13,0,13,4,13,13,13,13,13,13,13,13,13,13,13,13,4,4,11,13,5,13,13,13,10,4,13
+2019-20,27,Maharashtra,2720,NASHIK,272005,IGATPURI,Rural,6,SS (I-X),5,Private Unaided (Recognized),5,5,3,0,5,5,4,4,2,0,5,5,1,4,2,5,5,5,5,5,5,5,5,5,5,5,5,2,4,5,5,2,5,5,5,3,4,5
+2019-20,27,Maharashtra,2720,NASHIK,272005,IGATPURI,Rural,7,SS (VI-X),3,Local body,1,0,0,0,1,1,1,1,0,0,0,1,0,1,0,0,0,1,1,1,1,0,0,0,0,1,1,1,0,1,1,0,1,0,1,1,0,1
+2019-20,27,Maharashtra,2720,NASHIK,272005,IGATPURI,Rural,7,SS (VI-X),4,Government Aided,22,22,16,0,22,17,22,22,8,0,22,22,0,21,5,21,21,22,22,22,22,21,21,21,21,22,22,5,17,18,21,10,21,22,22,17,7,22
+2019-20,27,Maharashtra,2720,NASHIK,272005,IGATPURI,Rural,7,SS (VI-X),5,Private Unaided (Recognized),3,3,1,0,3,2,2,2,0,0,3,3,0,3,0,3,3,3,3,3,3,3,3,3,3,3,3,1,3,2,3,1,3,2,3,2,1,2
+2019-20,27,Maharashtra,2720,NASHIK,272005,IGATPURI,Rural,8,SS (IX-X),5,Private Unaided (Recognized),1,1,0,0,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,0,1,1,0,0
+2019-20,27,Maharashtra,2720,NASHIK,272005,IGATPURI,Rural,11,HSS (XI-XII),4,Government Aided,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272005,IGATPURI,Urban,1,PS (I-V),3,Local body,3,3,2,2,0,2,2,3,0,0,3,3,0,2,2,2,2,3,3,3,3,2,3,3,3,3,3,3,0,3,3,0,3,3,3,2,0,3
+2019-20,27,Maharashtra,2720,NASHIK,272005,IGATPURI,Urban,1,PS (I-V),4,Government Aided,2,2,2,0,2,1,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,1,0,1,2,0,2,1,2,1,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272005,IGATPURI,Urban,1,PS (I-V),5,Private Unaided (Recognized),4,4,4,0,4,2,4,4,1,0,3,4,0,3,2,4,4,4,4,4,4,4,3,4,4,4,4,2,2,2,4,0,4,2,4,2,4,4
+2019-20,27,Maharashtra,2720,NASHIK,272005,IGATPURI,Urban,1,PS (I-V),8,Unrecognized,1,1,0,0,1,1,1,1,0,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,0,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272005,IGATPURI,Urban,2,UPS (I-VIII),3,Local body,5,5,3,0,4,1,5,5,0,0,5,5,0,3,0,3,3,5,5,5,5,3,5,5,5,5,5,0,1,3,5,0,5,5,5,3,0,2
+2019-20,27,Maharashtra,2720,NASHIK,272005,IGATPURI,Urban,2,UPS (I-VIII),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272005,IGATPURI,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272005,IGATPURI,Urban,3,HSS (I-XII),4,Government Aided,2,2,2,0,2,0,2,2,0,0,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,0,1,2,2,2,2,2,2,1,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272005,IGATPURI,Urban,5,HSS (VI-XII),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272005,IGATPURI,Urban,6,SS (I-X),4,Government Aided,2,2,1,0,2,1,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,1,2,2,2,2,2,2,1,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272005,IGATPURI,Urban,6,SS (I-X),5,Private Unaided (Recognized),2,2,2,0,2,1,2,2,0,0,2,2,1,2,1,2,2,2,2,2,2,2,1,2,2,2,2,2,0,0,2,0,2,1,2,1,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272006,KALWAN,Rural,1,PS (I-V),3,Local body,167,166,117,13,55,125,99,155,2,0,156,166,1,141,78,151,136,159,154,162,158,148,162,166,158,167,167,25,33,134,166,0,157,164,167,147,0,109
+2019-20,27,Maharashtra,2720,NASHIK,272006,KALWAN,Rural,1,PS (I-V),5,Private Unaided (Recognized),4,4,4,0,4,4,4,4,1,0,4,4,0,2,0,4,4,4,4,4,4,3,3,3,3,4,4,1,2,3,4,0,4,3,4,1,3,3
+2019-20,27,Maharashtra,2720,NASHIK,272006,KALWAN,Rural,1,PS (I-V),8,Unrecognized,2,2,2,0,2,2,2,2,0,0,2,2,0,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,0,2,2,0,2,1,1,1,1,2
+2019-20,27,Maharashtra,2720,NASHIK,272006,KALWAN,Rural,2,UPS (I-VIII),3,Local body,31,31,26,0,24,28,25,30,0,0,31,31,0,27,20,29,28,30,30,30,30,30,31,31,30,31,30,3,13,27,31,5,30,30,31,30,0,27
+2019-20,27,Maharashtra,2720,NASHIK,272006,KALWAN,Rural,2,UPS (I-VIII),4,Government Aided,7,7,5,0,7,7,7,7,0,0,7,7,0,6,5,7,7,7,7,7,7,7,5,7,7,7,7,6,2,6,7,4,7,6,7,4,4,7
+2019-20,27,Maharashtra,2720,NASHIK,272006,KALWAN,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),8,8,8,0,8,7,8,8,1,0,7,6,3,7,2,8,8,8,8,8,8,8,8,8,8,8,7,6,4,6,8,7,8,7,8,4,6,7
+2019-20,27,Maharashtra,2720,NASHIK,272006,KALWAN,Rural,3,HSS (I-XII),2,Tribal Welfare Department,8,7,7,0,8,7,8,8,3,0,8,8,4,8,4,7,7,8,8,8,8,7,7,8,8,8,8,7,2,7,8,6,8,7,8,8,3,8
+2019-20,27,Maharashtra,2720,NASHIK,272006,KALWAN,Rural,3,HSS (I-XII),4,Government Aided,9,9,8,0,9,6,9,9,2,0,9,9,3,9,5,9,9,9,9,9,9,9,9,9,9,9,9,4,5,6,9,6,9,9,9,7,6,9
+2019-20,27,Maharashtra,2720,NASHIK,272006,KALWAN,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),3,3,3,0,3,3,3,3,1,0,3,3,1,3,0,3,3,3,3,3,3,3,3,3,3,3,3,2,2,3,3,1,3,2,3,3,2,3
+2019-20,27,Maharashtra,2720,NASHIK,272006,KALWAN,Rural,4,UPS (VI-VIII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272006,KALWAN,Rural,5,HSS (VI-XII),2,Tribal Welfare Department,1,0,0,1,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,1,0,0,1,0,0,1
+2019-20,27,Maharashtra,2720,NASHIK,272006,KALWAN,Rural,5,HSS (VI-XII),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1
+2019-20,27,Maharashtra,2720,NASHIK,272006,KALWAN,Rural,6,SS (I-X),2,Tribal Welfare Department,5,5,4,0,5,5,5,5,3,0,5,5,0,5,4,5,5,5,5,5,5,4,4,4,4,5,5,4,2,5,5,5,5,4,5,5,2,5
+2019-20,27,Maharashtra,2720,NASHIK,272006,KALWAN,Rural,6,SS (I-X),4,Government Aided,5,5,5,0,5,5,5,5,2,0,5,5,0,5,4,5,5,5,5,5,5,5,5,5,5,5,4,4,3,5,5,4,5,5,5,5,4,5
+2019-20,27,Maharashtra,2720,NASHIK,272006,KALWAN,Rural,6,SS (I-X),5,Private Unaided (Recognized),3,3,2,0,3,3,3,3,0,0,3,3,0,3,0,3,3,3,3,3,3,3,3,3,3,3,3,2,1,3,3,1,3,3,3,2,2,3
+2019-20,27,Maharashtra,2720,NASHIK,272006,KALWAN,Rural,7,SS (VI-X),4,Government Aided,9,9,5,0,8,5,9,9,1,0,9,9,0,9,2,9,9,9,9,9,9,9,8,9,9,9,9,3,4,8,9,3,9,9,9,7,4,9
+2019-20,27,Maharashtra,2720,NASHIK,272006,KALWAN,Rural,7,SS (VI-X),5,Private Unaided (Recognized),4,4,2,0,4,2,4,4,1,0,4,4,0,4,1,3,3,3,3,3,3,4,4,4,3,4,4,1,4,4,4,1,3,4,4,4,0,4
+2019-20,27,Maharashtra,2720,NASHIK,272006,KALWAN,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),5,5,4,0,4,3,5,5,1,0,5,5,3,5,1,5,5,5,5,5,5,5,5,5,5,5,5,3,4,4,5,3,5,5,5,3,4,5
+2019-20,27,Maharashtra,2720,NASHIK,272006,KALWAN,Urban,1,PS (I-V),3,Local body,4,4,3,0,4,1,4,4,0,0,4,4,0,4,2,2,2,3,3,4,4,2,3,4,4,4,4,2,2,3,4,0,4,4,4,3,0,3
+2019-20,27,Maharashtra,2720,NASHIK,272006,KALWAN,Urban,1,PS (I-V),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,0,0,1
+2019-20,27,Maharashtra,2720,NASHIK,272006,KALWAN,Urban,2,UPS (I-VIII),3,Local body,1,1,1,0,1,1,1,1,0,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,1,1,1,0,0
+2019-20,27,Maharashtra,2720,NASHIK,272006,KALWAN,Urban,2,UPS (I-VIII),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272006,KALWAN,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272006,KALWAN,Urban,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272006,KALWAN,Urban,7,SS (VI-X),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272007,MALEGAON,Rural,1,PS (I-V),3,Local body,228,227,126,6,72,130,160,208,14,0,176,222,3,129,65,213,206,224,222,227,226,211,223,226,225,225,220,51,99,123,225,0,220,226,223,148,19,76
+2019-20,27,Maharashtra,2720,NASHIK,272007,MALEGAON,Rural,1,PS (I-V),4,Government Aided,6,6,4,0,5,4,5,5,1,0,6,6,0,2,1,6,6,6,6,6,6,6,6,6,6,6,6,0,2,4,6,0,6,6,6,3,3,5
+2019-20,27,Maharashtra,2720,NASHIK,272007,MALEGAON,Rural,1,PS (I-V),5,Private Unaided (Recognized),21,21,19,1,20,19,19,19,1,0,20,15,1,14,3,20,20,20,20,20,20,21,21,21,20,21,20,12,9,10,20,0,19,18,21,8,14,16
+2019-20,27,Maharashtra,2720,NASHIK,272007,MALEGAON,Rural,2,UPS (I-VIII),3,Local body,61,61,47,2,37,46,52,60,5,0,58,58,2,47,24,55,52,57,56,60,59,56,56,59,57,61,61,18,31,35,61,12,59,61,61,46,2,38
+2019-20,27,Maharashtra,2720,NASHIK,272007,MALEGAON,Rural,2,UPS (I-VIII),4,Government Aided,12,12,11,0,12,10,12,12,0,0,12,12,0,7,3,11,11,11,11,11,11,12,12,12,11,12,12,7,3,8,12,2,11,10,12,10,6,9
+2019-20,27,Maharashtra,2720,NASHIK,272007,MALEGAON,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),22,22,20,0,22,20,21,21,1,0,22,17,2,15,3,21,20,21,20,21,20,20,20,20,19,22,22,7,11,13,22,8,20,17,20,10,15,19
+2019-20,27,Maharashtra,2720,NASHIK,272007,MALEGAON,Rural,3,HSS (I-XII),4,Government Aided,25,25,23,0,25,22,24,24,1,0,25,25,9,23,14,25,25,24,24,25,25,25,25,25,25,25,25,4,8,10,25,10,25,25,25,19,17,24
+2019-20,27,Maharashtra,2720,NASHIK,272007,MALEGAON,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),2,2,1,0,2,2,2,2,0,0,2,1,1,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,1,0,2,0,2,2,2,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272007,MALEGAON,Rural,4,UPS (VI-VIII),5,Private Unaided (Recognized),2,2,2,1,2,1,2,2,0,0,2,1,0,1,0,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,2,1,2,2,2,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272007,MALEGAON,Rural,6,SS (I-X),2,Tribal Welfare Department,2,2,1,0,2,1,2,2,2,0,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,1,2,2,2,1,1,2
+2019-20,27,Maharashtra,2720,NASHIK,272007,MALEGAON,Rural,6,SS (I-X),4,Government Aided,31,31,24,0,29,27,31,31,0,0,30,30,2,26,10,31,30,31,31,31,31,30,31,31,31,31,30,2,11,21,29,5,29,28,31,27,13,29
+2019-20,27,Maharashtra,2720,NASHIK,272007,MALEGAON,Rural,6,SS (I-X),5,Private Unaided (Recognized),7,6,5,0,7,7,7,7,2,0,7,6,1,6,1,7,7,7,7,7,7,7,7,7,7,7,7,6,5,6,7,2,7,5,6,5,6,7
+2019-20,27,Maharashtra,2720,NASHIK,272007,MALEGAON,Rural,7,SS (VI-X),4,Government Aided,15,15,13,0,15,14,10,12,0,0,15,14,0,11,2,15,15,15,15,15,15,15,14,15,15,15,15,3,5,12,15,4,15,12,15,10,4,13
+2019-20,27,Maharashtra,2720,NASHIK,272007,MALEGAON,Rural,7,SS (VI-X),5,Private Unaided (Recognized),13,13,9,0,10,10,9,13,0,0,13,13,0,11,1,13,13,13,13,13,13,13,13,13,13,13,13,1,8,8,13,1,13,11,12,7,6,11
+2019-20,27,Maharashtra,2720,NASHIK,272007,MALEGAON,Rural,8,SS (IX-X),5,Private Unaided (Recognized),3,3,2,0,3,3,3,3,1,0,3,3,1,2,1,3,3,3,3,3,3,3,3,3,3,3,3,2,1,3,3,1,3,2,3,0,3,3
+2019-20,27,Maharashtra,2720,NASHIK,272007,MALEGAON,Rural,10,HSS (IX-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,0,0,0,0,1,0,1,0,0,1,0,1,1,0,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272007,MALEGAON,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),11,11,9,0,10,11,11,11,1,0,10,9,4,7,1,9,9,9,9,9,9,11,11,11,9,11,10,7,2,8,10,4,8,7,6,4,7,8
+2019-20,27,Maharashtra,2720,NASHIK,272007,MALEGAON,Urban,1,PS (I-V),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272007,MALEGAON,Urban,2,UPS (I-VIII),3,Local body,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0,0
+2019-20,27,Maharashtra,2720,NASHIK,272007,MALEGAON,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272007,MALEGAON,Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272008,NANDGAON,Rural,1,PS (I-V),3,Local body,177,176,70,5,94,111,53,133,9,0,150,175,0,92,15,171,158,174,168,177,171,161,168,169,166,173,171,17,20,12,168,1,162,171,166,89,9,80
+2019-20,27,Maharashtra,2720,NASHIK,272008,NANDGAON,Rural,1,PS (I-V),4,Government Aided,3,3,0,0,2,1,3,3,1,0,3,1,0,1,2,3,3,3,3,3,3,2,2,2,2,3,3,2,0,0,3,0,3,2,3,1,2,3
+2019-20,27,Maharashtra,2720,NASHIK,272008,NANDGAON,Rural,1,PS (I-V),5,Private Unaided (Recognized),7,7,5,0,7,5,6,6,0,0,7,5,1,4,0,6,6,7,7,7,7,6,6,6,6,7,7,1,0,0,7,0,7,5,5,1,4,7
+2019-20,27,Maharashtra,2720,NASHIK,272008,NANDGAON,Rural,2,UPS (I-VIII),3,Local body,36,36,26,0,17,29,24,31,3,0,32,33,1,22,5,34,32,34,32,36,33,32,32,33,31,35,35,8,5,5,36,5,32,35,35,24,3,28
+2019-20,27,Maharashtra,2720,NASHIK,272008,NANDGAON,Rural,2,UPS (I-VIII),4,Government Aided,6,6,4,0,6,6,6,6,1,0,6,6,0,5,2,6,5,6,5,6,5,4,4,4,4,6,6,3,1,4,5,1,4,3,6,3,0,4
+2019-20,27,Maharashtra,2720,NASHIK,272008,NANDGAON,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),3,3,2,0,3,3,2,2,1,0,3,1,0,1,2,3,3,3,3,3,3,3,3,3,3,3,3,0,2,1,3,1,3,3,2,1,1,2
+2019-20,27,Maharashtra,2720,NASHIK,272008,NANDGAON,Rural,3,HSS (I-XII),4,Government Aided,8,8,7,0,8,8,8,8,2,1,8,8,2,8,2,8,8,8,8,8,8,7,7,7,7,8,8,1,1,3,8,4,8,8,8,7,7,7
+2019-20,27,Maharashtra,2720,NASHIK,272008,NANDGAON,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),3,3,3,0,3,3,3,3,0,0,3,2,0,3,1,3,3,3,3,3,3,2,2,2,2,3,3,1,1,1,3,2,3,3,1,0,3,3
+2019-20,27,Maharashtra,2720,NASHIK,272008,NANDGAON,Rural,5,HSS (VI-XII),4,Government Aided,3,3,3,0,3,3,2,2,0,0,3,3,0,1,0,3,3,3,3,3,3,3,3,3,3,3,3,2,0,2,3,1,3,3,3,3,0,2
+2019-20,27,Maharashtra,2720,NASHIK,272008,NANDGAON,Rural,6,SS (I-X),4,Government Aided,13,12,9,0,13,12,12,12,4,0,13,12,0,11,3,13,13,13,13,13,13,12,12,12,12,13,13,1,1,4,12,3,12,12,12,10,4,13
+2019-20,27,Maharashtra,2720,NASHIK,272008,NANDGAON,Rural,6,SS (I-X),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,2,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,1,1,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272008,NANDGAON,Rural,7,SS (VI-X),4,Government Aided,11,11,4,0,11,10,8,8,0,0,11,11,0,10,2,11,10,11,10,11,10,10,10,10,10,11,11,2,4,3,10,1,10,9,11,9,5,9
+2019-20,27,Maharashtra,2720,NASHIK,272008,NANDGAON,Rural,7,SS (VI-X),5,Private Unaided (Recognized),2,2,0,0,2,2,2,2,0,0,2,1,0,2,1,2,2,2,2,2,2,1,1,1,1,2,2,0,2,1,2,0,2,1,2,1,1,2
+2019-20,27,Maharashtra,2720,NASHIK,272008,NANDGAON,Rural,11,HSS (XI-XII),4,Government Aided,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272008,NANDGAON,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),3,3,3,0,3,3,3,3,0,0,3,2,1,3,2,3,3,3,3,3,3,3,3,3,3,3,3,1,1,2,3,1,3,2,3,1,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272008,NANDGAON,Urban,1,PS (I-V),3,Local body,12,11,4,0,8,5,6,7,0,0,9,11,0,6,0,12,10,10,8,12,10,10,8,10,10,12,12,0,0,0,12,0,10,7,12,4,0,5
+2019-20,27,Maharashtra,2720,NASHIK,272008,NANDGAON,Urban,1,PS (I-V),4,Government Aided,5,5,5,0,5,3,5,5,1,0,5,5,0,5,2,5,5,5,5,5,5,5,5,5,5,5,5,4,2,2,4,0,4,5,5,1,5,5
+2019-20,27,Maharashtra,2720,NASHIK,272008,NANDGAON,Urban,1,PS (I-V),5,Private Unaided (Recognized),2,2,2,0,2,0,2,2,0,0,2,2,0,1,0,2,2,2,2,2,2,1,1,1,1,2,2,1,0,0,2,0,2,2,0,0,2,1
+2019-20,27,Maharashtra,2720,NASHIK,272008,NANDGAON,Urban,2,UPS (I-VIII),3,Local body,10,9,7,0,8,4,9,9,0,0,8,9,0,5,0,8,8,10,10,10,10,9,10,10,10,10,10,1,0,0,10,1,10,8,10,7,3,7
+2019-20,27,Maharashtra,2720,NASHIK,272008,NANDGAON,Urban,2,UPS (I-VIII),4,Government Aided,3,3,3,0,3,3,3,3,0,0,3,3,0,3,1,3,3,3,3,3,3,2,2,2,2,3,3,2,1,2,3,1,3,3,3,3,3,3
+2019-20,27,Maharashtra,2720,NASHIK,272008,NANDGAON,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),7,7,6,0,7,6,7,7,0,0,7,6,1,6,3,7,7,7,7,7,7,5,5,5,5,7,7,6,4,2,7,2,7,7,7,4,7,7
+2019-20,27,Maharashtra,2720,NASHIK,272008,NANDGAON,Urban,3,HSS (I-XII),4,Government Aided,3,3,3,0,3,1,3,3,0,0,3,3,2,3,0,3,3,3,3,3,3,3,3,3,3,3,3,2,0,1,3,0,3,3,3,3,3,3
+2019-20,27,Maharashtra,2720,NASHIK,272008,NANDGAON,Urban,6,SS (I-X),4,Government Aided,6,6,6,0,6,5,6,6,1,0,6,6,3,6,2,6,6,6,6,6,6,6,6,6,6,6,6,2,1,3,6,1,6,6,6,3,4,5
+2019-20,27,Maharashtra,2720,NASHIK,272008,NANDGAON,Urban,6,SS (I-X),5,Private Unaided (Recognized),2,2,2,0,2,1,2,2,0,0,2,2,1,2,0,2,2,2,2,2,2,1,1,1,1,2,2,1,2,2,2,0,2,2,2,2,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272008,NANDGAON,Urban,6,SS (I-X),92,Kendriya Vidyalaya / Central School,1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272008,NANDGAON,Urban,7,SS (VI-X),4,Government Aided,3,3,3,0,3,1,3,3,0,0,3,3,0,3,1,2,2,3,3,3,3,2,3,3,3,3,3,1,1,0,3,0,3,3,3,3,3,3
+2019-20,27,Maharashtra,2720,NASHIK,272008,NANDGAON,Urban,7,SS (VI-X),5,Private Unaided (Recognized),3,3,3,0,2,2,3,3,0,0,3,3,1,3,2,3,3,3,3,3,3,2,2,2,2,3,3,3,2,1,3,1,3,3,3,3,3,3
+2019-20,27,Maharashtra,2720,NASHIK,272008,NANDGAON,Urban,8,SS (IX-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272008,NANDGAON,Urban,11,HSS (XI-XII),4,Government Aided,1,1,0,0,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,0,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Rural,1,PS (I-V),3,Local body,64,63,37,3,32,34,62,64,4,0,61,63,0,43,31,59,56,64,64,64,64,58,64,64,64,64,62,15,10,60,64,0,64,63,64,62,3,34
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Rural,1,PS (I-V),4,Government Aided,5,5,5,0,5,2,5,5,0,0,5,5,1,4,1,5,5,5,5,5,5,5,5,5,5,5,5,3,0,4,5,0,5,5,5,4,2,3
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Rural,1,PS (I-V),5,Private Unaided (Recognized),11,11,10,0,11,9,11,11,0,1,11,11,1,7,4,10,10,10,10,10,10,10,10,10,9,11,10,7,1,10,11,0,10,8,10,4,8,11
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Rural,1,PS (I-V),8,Unrecognized,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Rural,2,UPS (I-VIII),3,Local body,41,41,34,0,29,26,40,41,5,0,40,41,0,33,25,41,41,41,41,41,41,41,41,41,41,41,40,16,14,41,41,6,41,41,41,41,5,36
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Rural,2,UPS (I-VIII),4,Government Aided,3,3,3,0,3,3,3,3,3,0,3,3,0,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,0,3,3,1,3,3,3,3,2,3
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),7,7,7,0,6,4,7,7,1,0,7,7,2,5,3,7,7,7,7,7,7,7,6,7,7,7,7,7,2,7,7,2,7,6,6,3,6,7
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Rural,3,HSS (I-XII),4,Government Aided,7,6,6,0,7,5,7,7,0,0,7,7,5,7,4,7,7,7,7,7,7,7,6,7,7,7,7,2,3,5,7,3,7,7,7,4,5,7
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),8,8,7,0,8,7,8,8,2,0,8,7,3,8,3,7,7,7,7,7,7,8,5,8,7,8,7,7,2,6,8,2,7,7,5,2,8,8
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Rural,4,UPS (VI-VIII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,1,0,1,1,1,1,1,1,0,0,0
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Rural,6,SS (I-X),2,Tribal Welfare Department,2,1,1,0,1,2,2,2,1,0,2,2,0,1,2,2,2,2,2,2,2,2,1,2,2,2,2,1,0,2,2,2,2,1,2,2,0,2
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Rural,6,SS (I-X),4,Government Aided,8,8,8,0,7,8,8,8,0,0,8,8,0,7,6,8,8,8,8,8,8,8,8,8,8,8,8,2,3,7,8,1,8,8,8,6,5,8
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Rural,6,SS (I-X),5,Private Unaided (Recognized),7,7,6,0,7,5,7,7,1,0,7,7,5,7,2,7,7,7,7,7,7,7,6,7,7,7,7,5,2,6,7,5,7,7,6,2,7,7
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Rural,7,SS (VI-X),4,Government Aided,8,8,7,0,8,4,8,8,3,0,8,8,0,8,3,8,8,8,8,8,8,7,7,7,7,8,8,2,2,7,7,3,7,8,8,5,6,6
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Rural,7,SS (VI-X),5,Private Unaided (Recognized),3,2,2,0,3,2,2,2,2,0,3,3,1,3,1,3,3,3,3,3,3,3,3,3,3,3,3,2,1,2,3,1,3,3,3,1,3,3
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Rural,8,SS (IX-X),4,Government Aided,1,1,1,0,1,1,1,1,1,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Rural,8,SS (IX-X),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),5,4,5,0,4,4,5,5,2,0,5,5,1,5,3,5,5,5,5,5,5,5,4,5,5,5,5,4,4,5,5,3,5,5,4,1,4,5
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Urban,1,PS (I-V),3,Local body,2,2,1,0,1,1,2,2,0,0,2,2,0,1,0,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,2,0,2,2,2,1,1,2
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Urban,1,PS (I-V),4,Government Aided,6,6,5,0,6,3,6,6,0,0,6,6,0,6,3,6,6,6,6,6,6,6,6,6,6,6,6,2,1,4,6,0,6,6,6,2,5,6
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Urban,1,PS (I-V),5,Private Unaided (Recognized),2,2,2,0,2,1,2,2,1,0,2,1,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,2,0,2,2,1,0,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Urban,2,UPS (I-VIII),3,Local body,3,3,2,1,2,1,3,3,0,0,2,3,1,2,1,3,3,3,3,3,3,3,3,3,3,3,3,2,0,1,3,0,3,3,3,3,1,2
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),3,3,3,0,3,1,3,3,0,0,3,2,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,0,1,3,1,3,3,3,0,3,3
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Urban,3,HSS (I-XII),3,Local body,1,1,1,0,1,0,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Urban,3,HSS (I-XII),4,Government Aided,3,3,3,0,3,0,3,3,2,0,3,3,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,1,3,3,3,2,3,1,3,3
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Urban,3,HSS (I-XII),5,Private Unaided (Recognized),2,2,2,0,2,1,2,2,0,0,2,2,2,2,1,1,1,1,1,1,1,2,1,2,1,2,1,2,1,2,2,0,1,1,2,0,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Urban,3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,2,2,2,0,2,1,2,2,0,0,2,2,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,0,1,2,1,2,1,1,1,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Urban,6,SS (I-X),4,Government Aided,2,2,2,0,2,0,2,2,0,0,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,2,1,2,1,2,0,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Urban,6,SS (I-X),5,Private Unaided (Recognized),3,3,3,0,3,1,3,3,2,0,3,3,2,3,0,3,3,3,3,3,3,3,3,3,3,3,3,2,0,0,3,1,3,3,0,0,3,3
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Urban,7,SS (VI-X),4,Government Aided,1,1,0,0,0,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Urban,8,SS (IX-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,1,0,0,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272009,NASHIK,Urban,11,HSS (XI-XII),4,Government Aided,1,1,1,0,1,0,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272010,NIPHAD,Rural,1,PS (I-V),3,Local body,166,163,101,3,88,81,152,159,4,0,153,166,0,129,48,156,149,163,163,164,164,152,163,164,163,166,166,40,19,121,163,0,161,162,161,123,9,106
+2019-20,27,Maharashtra,2720,NASHIK,272010,NIPHAD,Rural,1,PS (I-V),4,Government Aided,2,2,2,0,2,1,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,2,0,2,2,1,0,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272010,NIPHAD,Rural,1,PS (I-V),5,Private Unaided (Recognized),26,25,23,0,25,23,26,26,2,0,26,26,1,19,5,26,26,26,26,26,26,23,23,23,23,26,26,13,6,16,26,0,26,23,24,10,19,25
+2019-20,27,Maharashtra,2720,NASHIK,272010,NIPHAD,Rural,1,PS (I-V),8,Unrecognized,2,2,2,0,2,2,2,2,0,0,2,2,0,0,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,1,2,0,2,1,2,1,2,1
+2019-20,27,Maharashtra,2720,NASHIK,272010,NIPHAD,Rural,2,UPS (I-VIII),3,Local body,52,52,38,0,46,34,50,52,3,0,51,52,0,40,19,45,44,50,50,52,52,46,49,51,51,52,52,20,14,37,52,7,52,52,52,44,8,46
+2019-20,27,Maharashtra,2720,NASHIK,272010,NIPHAD,Rural,2,UPS (I-VIII),4,Government Aided,3,3,3,0,3,2,3,3,0,0,3,3,0,3,2,3,3,3,3,3,3,3,3,3,3,3,3,1,0,2,3,1,3,3,3,2,1,3
+2019-20,27,Maharashtra,2720,NASHIK,272010,NIPHAD,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),13,13,13,0,13,10,13,13,2,0,13,13,2,12,3,13,13,13,13,13,13,13,12,13,13,13,13,12,3,11,13,10,13,12,13,7,13,13
+2019-20,27,Maharashtra,2720,NASHIK,272010,NIPHAD,Rural,3,HSS (I-XII),4,Government Aided,18,18,17,0,17,17,18,18,1,0,18,18,6,18,7,18,18,18,18,18,18,18,18,18,18,18,18,8,7,15,17,6,17,18,18,14,18,18
+2019-20,27,Maharashtra,2720,NASHIK,272010,NIPHAD,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272010,NIPHAD,Rural,5,HSS (VI-XII),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,0,1
+2019-20,27,Maharashtra,2720,NASHIK,272010,NIPHAD,Rural,6,SS (I-X),4,Government Aided,21,21,17,0,20,17,21,21,0,0,21,21,3,21,9,19,19,20,20,21,21,19,20,21,21,21,21,8,4,16,21,10,21,21,21,18,21,21
+2019-20,27,Maharashtra,2720,NASHIK,272010,NIPHAD,Rural,6,SS (I-X),5,Private Unaided (Recognized),6,6,6,0,6,6,6,6,0,0,6,6,3,6,0,6,6,6,6,6,6,6,6,6,6,6,6,6,1,6,6,3,6,6,6,4,6,6
+2019-20,27,Maharashtra,2720,NASHIK,272010,NIPHAD,Rural,7,SS (VI-X),4,Government Aided,18,17,12,0,16,14,18,18,1,0,18,17,0,18,6,18,18,18,18,18,18,18,18,18,18,18,18,6,9,11,18,5,18,17,18,12,14,18
+2019-20,27,Maharashtra,2720,NASHIK,272010,NIPHAD,Rural,7,SS (VI-X),5,Private Unaided (Recognized),2,2,1,0,2,0,2,2,0,0,2,2,0,1,0,2,2,2,2,2,2,2,2,2,2,2,2,0,1,1,2,1,2,1,2,1,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272010,NIPHAD,Rural,7,SS (VI-X),90,Social welfare Department,1,1,1,0,1,0,1,1,0,0,0,1,0,1,0,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,0,0,1
+2019-20,27,Maharashtra,2720,NASHIK,272010,NIPHAD,Rural,8,SS (IX-X),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,2,0,2,2,2,0,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272010,NIPHAD,Rural,11,HSS (XI-XII),4,Government Aided,2,2,2,0,2,2,2,2,1,0,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,1,2,0,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272010,NIPHAD,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),8,8,6,0,8,8,8,8,0,0,8,8,1,8,3,8,8,8,8,8,8,8,8,8,8,8,8,4,1,4,8,5,8,8,7,2,7,6
+2019-20,27,Maharashtra,2720,NASHIK,272010,NIPHAD,Urban,1,PS (I-V),3,Local body,4,4,4,0,1,0,4,4,0,0,4,4,0,4,1,3,3,4,4,4,4,3,4,4,4,4,4,0,3,3,4,0,4,4,4,2,0,1
+2019-20,27,Maharashtra,2720,NASHIK,272010,NIPHAD,Urban,1,PS (I-V),4,Government Aided,3,3,3,0,3,1,3,3,0,0,3,3,0,3,1,3,3,3,3,3,3,3,3,3,3,3,3,2,0,3,3,0,3,3,3,1,3,2
+2019-20,27,Maharashtra,2720,NASHIK,272010,NIPHAD,Urban,1,PS (I-V),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272010,NIPHAD,Urban,2,UPS (I-VIII),3,Local body,2,2,2,0,2,1,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,0,2,2,2,1,0,0
+2019-20,27,Maharashtra,2720,NASHIK,272010,NIPHAD,Urban,2,UPS (I-VIII),4,Government Aided,3,3,3,0,3,2,3,3,0,0,3,3,0,3,2,3,3,3,3,3,3,3,3,3,3,3,3,1,2,3,3,1,3,3,3,1,3,3
+2019-20,27,Maharashtra,2720,NASHIK,272010,NIPHAD,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),5,4,5,0,5,5,5,5,0,0,5,5,2,4,0,5,5,5,5,5,5,5,5,5,5,5,5,5,1,5,5,3,5,4,4,1,5,5
+2019-20,27,Maharashtra,2720,NASHIK,272010,NIPHAD,Urban,3,HSS (I-XII),4,Government Aided,5,4,5,0,5,5,5,5,1,0,5,5,4,5,2,5,5,5,5,5,5,5,5,5,5,5,5,5,2,4,5,2,5,5,5,3,5,5
+2019-20,27,Maharashtra,2720,NASHIK,272010,NIPHAD,Urban,3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272010,NIPHAD,Urban,6,SS (I-X),4,Government Aided,2,2,2,0,2,1,2,2,0,0,2,2,1,1,0,1,1,2,2,2,2,1,2,2,2,2,2,2,0,2,2,1,2,2,2,2,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272010,NIPHAD,Urban,6,SS (I-X),5,Private Unaided (Recognized),4,4,4,0,4,4,4,4,0,0,4,4,2,4,1,4,4,4,4,4,4,3,3,3,3,4,4,2,1,1,4,2,4,4,4,1,4,4
+2019-20,27,Maharashtra,2720,NASHIK,272010,NIPHAD,Urban,7,SS (VI-X),4,Government Aided,1,1,1,0,1,0,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272010,NIPHAD,Urban,11,HSS (XI-XII),4,Government Aided,2,2,2,0,2,2,2,2,2,0,2,2,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272011,PEINT,Rural,1,PS (I-V),3,Local body,147,146,126,8,20,91,139,145,7,0,137,147,1,126,89,142,139,145,145,146,146,137,145,145,145,147,147,33,58,76,147,0,146,147,147,99,0,117
+2019-20,27,Maharashtra,2720,NASHIK,272011,PEINT,Rural,1,PS (I-V),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272011,PEINT,Rural,2,UPS (I-VIII),2,Tribal Welfare Department,1,1,0,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,0,0,0,0,1,1,1,0,1,1,0,1,0,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272011,PEINT,Rural,2,UPS (I-VIII),3,Local body,41,41,33,0,17,32,40,41,2,0,37,41,0,37,27,41,41,41,41,41,41,41,41,41,41,41,41,8,13,21,41,4,41,41,41,36,0,38
+2019-20,27,Maharashtra,2720,NASHIK,272011,PEINT,Rural,2,UPS (I-VIII),4,Government Aided,4,4,3,0,4,4,4,4,0,0,4,4,0,3,3,4,4,4,4,4,4,3,4,4,4,4,4,2,1,4,4,1,4,4,4,1,1,4
+2019-20,27,Maharashtra,2720,NASHIK,272011,PEINT,Rural,3,HSS (I-XII),2,Tribal Welfare Department,3,2,3,0,3,3,3,3,1,0,3,3,1,1,2,3,3,3,3,3,3,3,2,3,3,3,3,3,2,3,3,2,3,3,3,2,1,3
+2019-20,27,Maharashtra,2720,NASHIK,272011,PEINT,Rural,3,HSS (I-XII),4,Government Aided,2,2,2,0,2,2,2,2,0,0,2,2,1,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,1,2,2,0,2,2,2,2,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272011,PEINT,Rural,4,UPS (VI-VIII),3,Local body,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,0,0,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,0,0,0
+2019-20,27,Maharashtra,2720,NASHIK,272011,PEINT,Rural,5,HSS (VI-XII),4,Government Aided,2,2,2,0,2,2,1,2,0,0,2,2,0,2,1,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,1,2,2,2,2,1,2
+2019-20,27,Maharashtra,2720,NASHIK,272011,PEINT,Rural,6,SS (I-X),2,Tribal Welfare Department,7,7,6,0,7,7,7,7,3,0,7,7,0,6,4,7,7,7,7,7,7,7,7,7,7,7,7,5,4,6,7,5,7,7,7,7,0,7
+2019-20,27,Maharashtra,2720,NASHIK,272011,PEINT,Rural,6,SS (I-X),4,Government Aided,3,3,1,0,3,3,3,3,0,0,3,3,0,3,2,3,2,3,2,3,2,2,2,2,2,3,3,0,0,2,2,1,2,3,3,3,0,3
+2019-20,27,Maharashtra,2720,NASHIK,272011,PEINT,Rural,7,SS (VI-X),4,Government Aided,12,12,7,0,12,6,11,11,3,0,10,12,1,10,8,12,12,12,12,12,12,11,12,12,12,12,12,1,6,11,12,2,12,9,12,10,1,12
+2019-20,27,Maharashtra,2720,NASHIK,272011,PEINT,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),2,2,0,1,2,1,2,2,0,0,2,2,0,0,0,2,2,2,2,2,2,1,1,1,1,2,2,1,2,1,2,0,2,2,2,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Rural,1,PS (I-V),3,Local body,179,179,101,1,92,120,174,178,8,0,161,179,2,113,44,168,160,177,176,178,177,162,174,174,174,175,173,36,33,87,178,0,173,175,178,99,19,135
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Rural,1,PS (I-V),4,Government Aided,2,2,2,0,2,2,2,2,1,0,2,2,0,2,1,2,2,2,2,2,2,2,2,2,2,2,2,1,0,0,2,0,2,2,2,1,1,2
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Rural,1,PS (I-V),5,Private Unaided (Recognized),17,17,16,0,17,17,16,16,4,0,17,14,1,13,3,16,16,16,16,16,16,17,17,17,16,17,15,9,9,11,17,0,16,12,12,5,12,13
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Rural,2,UPS (I-VIII),3,Local body,28,28,21,0,23,23,27,28,2,0,28,28,0,23,11,26,26,28,28,28,28,28,27,28,28,28,28,7,11,15,28,12,28,28,28,23,4,27
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Rural,2,UPS (I-VIII),4,Government Aided,5,5,4,0,5,5,5,5,0,0,5,5,0,4,3,5,5,5,5,5,5,4,4,4,4,5,5,4,3,4,5,3,5,5,5,3,1,5
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),9,9,9,0,9,8,9,9,3,0,9,9,2,9,3,9,9,9,9,9,9,9,8,9,9,9,9,8,5,5,9,7,9,8,8,5,9,9
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Rural,3,HSS (I-XII),4,Government Aided,16,16,15,0,16,16,16,16,0,0,16,16,4,16,8,16,16,16,16,16,16,16,16,16,16,16,14,6,7,11,16,8,16,16,16,13,15,16
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),3,3,3,0,3,3,3,3,0,0,3,2,0,2,0,3,3,3,3,3,3,3,3,3,3,3,1,3,2,2,3,1,3,2,2,0,2,3
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Rural,4,UPS (VI-VIII),5,Private Unaided (Recognized),3,3,0,0,2,3,3,3,0,0,3,3,0,3,0,2,2,3,3,3,3,3,3,3,3,3,3,1,2,0,3,0,3,3,2,2,2,3
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Rural,5,HSS (VI-XII),4,Government Aided,2,2,2,0,2,2,2,2,0,0,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,2
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Rural,5,HSS (VI-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Rural,6,SS (I-X),2,Tribal Welfare Department,2,2,0,0,1,1,2,2,1,0,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,2,2,2,2,1,2,1,0,2
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Rural,6,SS (I-X),4,Government Aided,14,14,10,0,13,13,14,14,1,0,14,14,0,14,5,14,14,14,14,14,14,14,14,14,14,14,14,5,2,9,14,3,14,12,14,10,12,14
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Rural,6,SS (I-X),5,Private Unaided (Recognized),8,8,5,0,7,8,8,8,2,0,8,8,5,7,2,8,8,8,8,8,8,7,7,7,7,8,7,6,3,5,8,6,8,7,7,5,8,7
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Rural,7,SS (VI-X),4,Government Aided,18,17,12,0,18,14,18,18,1,0,18,18,0,17,4,18,18,18,18,18,18,18,18,18,18,18,18,5,10,13,18,10,18,18,18,15,12,15
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Rural,7,SS (VI-X),5,Private Unaided (Recognized),6,6,2,0,6,6,6,6,0,0,6,6,0,5,1,5,5,6,6,6,6,6,6,6,6,6,6,2,6,5,6,3,6,5,6,3,5,6
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Rural,8,SS (IX-X),5,Private Unaided (Recognized),4,4,3,0,2,4,4,4,1,0,4,4,1,4,1,4,4,4,4,4,4,4,4,4,4,4,3,3,1,2,4,3,4,3,4,1,4,4
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),6,6,5,0,5,6,6,6,2,0,6,6,3,6,1,6,6,6,6,6,6,6,6,6,6,6,5,2,3,3,6,4,6,4,3,3,6,6
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Urban,1,PS (I-V),3,Local body,1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Urban,1,PS (I-V),4,Government Aided,4,4,4,0,4,2,4,4,0,0,4,4,0,4,0,4,4,4,4,4,4,4,4,4,4,4,4,2,0,1,4,0,4,4,4,0,3,4
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Urban,1,PS (I-V),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Urban,1,PS (I-V),8,Unrecognized,2,2,2,0,2,2,2,2,0,1,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,0,2,1,2,2,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Urban,2,UPS (I-VIII),3,Local body,1,1,0,0,0,0,1,1,0,0,1,1,0,1,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,0,0,0
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),5,5,5,0,5,5,5,5,0,0,5,5,1,5,0,5,5,5,5,5,5,5,4,5,5,5,5,4,3,2,5,3,5,5,4,3,5,5
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Urban,3,HSS (I-XII),4,Government Aided,2,2,1,0,2,2,2,2,0,0,2,2,1,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,2,0,2,2,2,1,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Urban,3,HSS (I-XII),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Urban,6,SS (I-X),4,Government Aided,3,3,3,0,3,3,3,3,0,0,3,3,1,3,0,2,2,3,3,3,3,2,3,3,3,3,3,1,0,2,3,1,3,3,3,2,3,3
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Urban,6,SS (I-X),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,2,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,1,2,2,2,1,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Urban,7,SS (VI-X),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,1,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,2,1,2,2,2,1,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Urban,11,HSS (XI-XII),4,Government Aided,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272012,SINNER,Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272013,SURGANA,Rural,1,PS (I-V),3,Local body,259,258,149,39,23,131,190,239,4,0,129,258,0,106,62,217,193,255,251,258,254,192,244,247,244,254,253,23,12,42,250,0,241,252,255,106,5,102
+2019-20,27,Maharashtra,2720,NASHIK,272013,SURGANA,Rural,1,PS (I-V),5,Private Unaided (Recognized),2,2,0,0,1,2,2,2,0,0,2,2,0,1,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,1,2,0,2,2,2,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272013,SURGANA,Rural,2,UPS (I-VIII),3,Local body,58,58,40,0,13,41,46,56,1,0,45,58,0,43,20,49,46,58,57,58,57,46,55,55,54,57,57,11,6,14,56,12,55,58,58,43,0,45
+2019-20,27,Maharashtra,2720,NASHIK,272013,SURGANA,Rural,2,UPS (I-VIII),4,Government Aided,14,14,9,0,14,13,14,14,4,0,14,14,0,11,5,14,14,14,14,14,14,13,13,13,13,14,14,14,3,11,14,8,14,10,14,6,0,11
+2019-20,27,Maharashtra,2720,NASHIK,272013,SURGANA,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),1,1,0,0,1,0,1,1,0,0,1,1,0,1,0,1,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1
+2019-20,27,Maharashtra,2720,NASHIK,272013,SURGANA,Rural,3,HSS (I-XII),2,Tribal Welfare Department,4,3,4,0,3,4,4,4,3,0,4,4,2,4,2,3,3,4,4,4,4,3,3,4,4,4,4,2,0,4,4,2,4,4,4,4,0,3
+2019-20,27,Maharashtra,2720,NASHIK,272013,SURGANA,Rural,3,HSS (I-XII),4,Government Aided,3,3,3,0,2,3,3,3,2,0,3,3,0,3,1,3,3,3,3,3,3,3,3,3,3,3,2,0,1,1,3,0,3,0,3,0,2,3
+2019-20,27,Maharashtra,2720,NASHIK,272013,SURGANA,Rural,5,HSS (VI-XII),4,Government Aided,10,10,8,1,9,10,10,10,3,0,10,10,0,8,2,10,10,10,10,10,10,10,10,10,10,10,9,6,6,7,10,6,10,7,10,6,1,10
+2019-20,27,Maharashtra,2720,NASHIK,272013,SURGANA,Rural,6,SS (I-X),2,Tribal Welfare Department,8,4,7,0,6,8,7,8,5,0,7,8,1,4,4,7,7,8,8,8,8,7,8,8,8,8,8,5,1,5,8,5,8,2,8,5,0,8
+2019-20,27,Maharashtra,2720,NASHIK,272013,SURGANA,Rural,6,SS (I-X),4,Government Aided,2,2,1,0,2,2,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,2,1,2,2,2,2,0,2
+2019-20,27,Maharashtra,2720,NASHIK,272013,SURGANA,Rural,7,SS (VI-X),3,Local body,1,0,0,0,1,1,1,1,0,0,1,1,0,0,1,0,0,1,1,1,1,0,1,1,1,1,1,0,0,1,1,0,1,1,1,0,0,1
+2019-20,27,Maharashtra,2720,NASHIK,272013,SURGANA,Rural,7,SS (VI-X),4,Government Aided,17,17,10,0,15,16,15,16,5,0,17,17,1,14,6,17,17,17,17,17,17,14,14,14,14,17,17,6,8,9,17,8,17,10,17,9,1,16
+2019-20,27,Maharashtra,2720,NASHIK,272013,SURGANA,Rural,7,SS (VI-X),5,Private Unaided (Recognized),2,2,0,0,2,2,1,1,2,0,2,2,0,1,0,2,2,2,2,2,2,1,1,1,1,2,2,0,2,0,2,2,2,2,2,0,0,2
+2019-20,27,Maharashtra,2720,NASHIK,272013,SURGANA,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),4,4,4,0,4,4,4,4,1,0,4,4,0,3,1,4,4,4,4,4,4,4,4,4,4,4,4,2,4,4,4,2,4,2,4,2,1,4
+2019-20,27,Maharashtra,2720,NASHIK,272014,TRIMBAK,Rural,1,PS (I-V),3,Local body,204,204,116,8,79,93,95,197,39,0,159,203,1,156,31,179,164,201,192,202,197,167,192,195,190,203,197,26,10,100,194,1,188,195,202,85,4,61
+2019-20,27,Maharashtra,2720,NASHIK,272014,TRIMBAK,Rural,1,PS (I-V),4,Government Aided,2,2,2,0,2,1,2,2,0,0,2,2,0,1,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,2,2,0,2,2,2,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272014,TRIMBAK,Rural,1,PS (I-V),5,Private Unaided (Recognized),3,3,3,0,2,2,3,3,1,0,3,3,0,1,2,3,3,3,3,3,3,3,3,3,3,3,3,1,1,3,3,0,3,2,2,1,1,2
+2019-20,27,Maharashtra,2720,NASHIK,272014,TRIMBAK,Rural,1,PS (I-V),8,Unrecognized,1,1,1,0,1,1,1,1,0,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,0,1,0,0,1
+2019-20,27,Maharashtra,2720,NASHIK,272014,TRIMBAK,Rural,2,UPS (I-VIII),2,Tribal Welfare Department,2,2,0,0,2,1,2,2,0,0,2,2,0,2,0,1,1,2,2,2,2,1,1,1,1,2,2,1,0,1,2,2,2,0,2,2,1,2
+2019-20,27,Maharashtra,2720,NASHIK,272014,TRIMBAK,Rural,2,UPS (I-VIII),3,Local body,41,41,24,0,23,19,29,40,5,0,36,39,0,34,10,39,39,41,41,41,41,38,41,41,41,41,40,8,4,21,39,6,39,41,41,31,4,35
+2019-20,27,Maharashtra,2720,NASHIK,272014,TRIMBAK,Rural,2,UPS (I-VIII),4,Government Aided,14,14,11,0,13,13,14,14,5,0,14,13,0,13,6,14,14,14,14,14,14,8,8,8,8,13,13,8,3,9,13,8,12,13,14,9,4,13
+2019-20,27,Maharashtra,2720,NASHIK,272014,TRIMBAK,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0
+2019-20,27,Maharashtra,2720,NASHIK,272014,TRIMBAK,Rural,3,HSS (I-XII),2,Tribal Welfare Department,3,2,3,0,3,3,3,3,0,0,3,3,0,2,1,2,2,3,3,3,3,0,1,1,1,3,3,2,1,2,2,2,2,3,3,1,0,3
+2019-20,27,Maharashtra,2720,NASHIK,272014,TRIMBAK,Rural,3,HSS (I-XII),4,Government Aided,2,2,1,0,2,2,2,2,0,0,2,2,2,2,1,2,2,2,2,2,2,1,1,1,1,2,2,0,0,1,2,0,2,2,2,0,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272014,TRIMBAK,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272014,TRIMBAK,Rural,5,HSS (VI-XII),4,Government Aided,2,2,2,0,2,2,2,2,2,0,2,2,0,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,0,2,2,1,2,2,2,1,1,2
+2019-20,27,Maharashtra,2720,NASHIK,272014,TRIMBAK,Rural,6,SS (I-X),2,Tribal Welfare Department,5,3,5,0,5,3,5,5,2,0,5,5,0,5,3,5,5,5,5,5,5,4,4,4,4,5,5,2,1,4,5,4,5,5,5,2,0,5
+2019-20,27,Maharashtra,2720,NASHIK,272014,TRIMBAK,Rural,6,SS (I-X),4,Government Aided,2,2,2,0,2,2,2,2,1,0,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,1,2,0,2,2,2,2,0,2
+2019-20,27,Maharashtra,2720,NASHIK,272014,TRIMBAK,Rural,7,SS (VI-X),3,Local body,1,0,1,0,1,1,1,1,0,0,1,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272014,TRIMBAK,Rural,7,SS (VI-X),4,Government Aided,15,14,14,0,14,11,14,15,6,0,15,13,1,15,5,14,14,15,15,15,15,12,12,12,12,15,15,8,5,9,14,8,14,13,15,8,6,14
+2019-20,27,Maharashtra,2720,NASHIK,272014,TRIMBAK,Rural,7,SS (VI-X),5,Private Unaided (Recognized),3,3,3,0,3,2,3,3,2,0,3,3,0,3,0,3,3,3,3,3,3,2,2,2,2,3,3,2,2,3,3,2,3,2,3,3,3,3
+2019-20,27,Maharashtra,2720,NASHIK,272014,TRIMBAK,Rural,10,HSS (IX-XII),4,Government Aided,1,1,1,0,1,1,1,1,1,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,1,1,1,0,1
+2019-20,27,Maharashtra,2720,NASHIK,272014,TRIMBAK,Rural,10,HSS (IX-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272014,TRIMBAK,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),3,3,0,0,1,2,3,3,0,0,2,2,2,2,0,3,3,3,3,3,3,3,3,3,3,3,3,2,2,2,2,2,2,2,2,1,2,1
+2019-20,27,Maharashtra,2720,NASHIK,272014,TRIMBAK,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),1,1,0,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272014,TRIMBAK,Urban,6,SS (I-X),4,Government Aided,1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,0,0,1,1,1,1,0,1,1,1,1,1,0,0,1,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272014,TRIMBAK,Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272015,YEOLA,Rural,1,PS (I-V),3,Local body,173,172,78,4,48,97,129,147,5,0,136,168,0,117,28,150,149,169,169,172,172,163,168,170,169,173,173,24,27,37,173,0,172,172,171,105,24,91
+2019-20,27,Maharashtra,2720,NASHIK,272015,YEOLA,Rural,1,PS (I-V),5,Private Unaided (Recognized),14,13,6,0,11,11,13,13,1,0,13,12,0,14,1,14,14,14,14,14,14,12,12,12,12,14,14,7,6,7,14,0,14,11,7,2,11,14
+2019-20,27,Maharashtra,2720,NASHIK,272015,YEOLA,Rural,1,PS (I-V),8,Unrecognized,1,1,0,0,0,1,1,1,0,0,1,0,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,1,0
+2019-20,27,Maharashtra,2720,NASHIK,272015,YEOLA,Rural,2,UPS (I-VIII),3,Local body,55,55,42,0,22,45,50,54,0,0,50,55,1,39,14,51,49,52,51,55,54,51,49,52,52,55,55,12,16,17,55,12,54,55,55,42,6,42
+2019-20,27,Maharashtra,2720,NASHIK,272015,YEOLA,Rural,2,UPS (I-VIII),4,Government Aided,3,3,3,0,3,3,3,3,0,0,3,3,0,3,0,3,3,3,2,3,3,1,1,1,1,3,3,1,2,1,3,0,3,2,3,1,2,3
+2019-20,27,Maharashtra,2720,NASHIK,272015,YEOLA,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),8,8,7,0,8,8,8,8,2,0,8,8,4,7,2,8,8,8,8,8,8,8,8,8,8,8,8,8,4,5,8,4,8,7,8,4,8,8
+2019-20,27,Maharashtra,2720,NASHIK,272015,YEOLA,Rural,3,HSS (I-XII),4,Government Aided,8,8,6,0,8,8,8,8,1,0,8,8,5,7,5,8,8,8,8,8,8,6,6,6,6,8,8,3,5,7,8,4,8,7,8,4,7,8
+2019-20,27,Maharashtra,2720,NASHIK,272015,YEOLA,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),2,2,1,0,2,2,2,2,1,0,2,2,2,2,1,2,2,2,2,2,2,1,1,1,1,2,2,2,1,2,2,2,2,2,2,2,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272015,YEOLA,Rural,4,UPS (VI-VIII),5,Private Unaided (Recognized),2,2,1,0,1,1,2,2,0,0,2,2,1,2,0,2,2,2,2,2,2,1,1,1,1,2,2,1,0,2,2,2,2,2,2,1,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272015,YEOLA,Rural,5,HSS (VI-XII),4,Government Aided,1,1,0,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272015,YEOLA,Rural,6,SS (I-X),4,Government Aided,18,17,12,0,16,17,15,15,1,1,18,17,1,17,7,18,18,18,18,18,18,17,17,17,17,18,18,1,6,7,18,2,18,16,18,15,7,13
+2019-20,27,Maharashtra,2720,NASHIK,272015,YEOLA,Rural,6,SS (I-X),5,Private Unaided (Recognized),4,4,4,0,3,4,4,4,0,0,4,4,3,3,2,4,4,4,4,4,4,3,4,4,4,4,4,4,2,4,4,1,4,3,3,2,4,4
+2019-20,27,Maharashtra,2720,NASHIK,272015,YEOLA,Rural,7,SS (VI-X),4,Government Aided,7,7,5,0,6,7,7,7,0,0,7,6,0,6,1,7,7,7,7,7,7,6,6,6,6,7,7,2,3,3,7,1,7,7,7,3,4,4
+2019-20,27,Maharashtra,2720,NASHIK,272015,YEOLA,Rural,7,SS (VI-X),5,Private Unaided (Recognized),3,3,2,0,3,3,3,3,1,0,3,3,0,2,0,3,3,3,3,3,3,3,3,3,3,3,3,0,2,0,3,2,3,2,3,2,3,2
+2019-20,27,Maharashtra,2720,NASHIK,272015,YEOLA,Rural,7,SS (VI-X),90,Social welfare Department,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1
+2019-20,27,Maharashtra,2720,NASHIK,272015,YEOLA,Rural,8,SS (IX-X),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,1,0,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,0,2,2,2,2,1,2,1,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272015,YEOLA,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),7,7,6,0,6,6,6,6,0,0,7,7,3,7,1,7,7,7,7,7,7,6,6,6,6,7,7,5,4,7,7,2,7,6,6,2,6,6
+2019-20,27,Maharashtra,2720,NASHIK,272015,YEOLA,Urban,1,PS (I-V),3,Local body,3,3,2,0,1,2,3,3,0,0,2,3,0,3,0,3,3,3,3,3,3,3,3,3,3,3,3,0,0,0,3,0,3,2,3,1,0,0
+2019-20,27,Maharashtra,2720,NASHIK,272015,YEOLA,Urban,1,PS (I-V),4,Government Aided,6,6,5,0,5,3,6,6,0,0,6,6,0,5,3,6,6,6,6,6,6,5,5,5,5,6,6,1,1,1,6,0,6,6,6,3,4,5
+2019-20,27,Maharashtra,2720,NASHIK,272015,YEOLA,Urban,1,PS (I-V),5,Private Unaided (Recognized),2,2,1,0,2,0,2,2,0,0,2,2,0,2,1,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,2,0,2,2,2,2,1,2
+2019-20,27,Maharashtra,2720,NASHIK,272015,YEOLA,Urban,2,UPS (I-VIII),3,Local body,5,5,2,0,3,1,5,5,0,0,3,2,0,3,0,3,3,3,2,5,4,2,2,3,3,5,5,1,0,0,5,0,4,3,5,1,1,2
+2019-20,27,Maharashtra,2720,NASHIK,272015,YEOLA,Urban,2,UPS (I-VIII),4,Government Aided,2,2,1,0,2,0,2,2,0,0,2,2,0,1,0,1,1,2,2,2,2,0,1,1,1,2,2,1,0,0,2,0,2,1,2,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272015,YEOLA,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,1,0,1,0,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,0,1,0,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272015,YEOLA,Urban,3,HSS (I-XII),4,Government Aided,4,4,3,0,4,2,4,4,0,0,4,4,3,4,2,4,4,4,4,4,4,4,4,4,4,4,4,3,1,3,4,2,4,4,4,1,3,4
+2019-20,27,Maharashtra,2720,NASHIK,272015,YEOLA,Urban,5,HSS (VI-XII),4,Government Aided,1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,0,0,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272015,YEOLA,Urban,6,SS (I-X),5,Private Unaided (Recognized),2,2,2,0,2,1,2,2,0,0,2,1,1,2,0,2,2,2,2,2,2,2,1,2,2,2,2,1,2,0,2,1,2,2,2,0,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272015,YEOLA,Urban,11,HSS (XI-XII),4,Government Aided,1,1,1,0,1,0,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272015,YEOLA,Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272016,NASHIK URC-1,Urban,1,PS (I-V),3,Local body,8,8,7,0,3,7,8,8,1,0,7,5,0,3,0,6,5,7,6,7,6,5,6,6,6,8,7,2,1,0,7,0,5,7,7,5,1,2
+2019-20,27,Maharashtra,2720,NASHIK,272016,NASHIK URC-1,Urban,1,PS (I-V),4,Government Aided,26,26,24,0,25,12,26,26,3,0,25,20,0,23,6,26,26,26,26,26,26,22,23,23,23,26,26,18,5,9,25,0,25,18,21,7,24,25
+2019-20,27,Maharashtra,2720,NASHIK,272016,NASHIK URC-1,Urban,1,PS (I-V),5,Private Unaided (Recognized),39,39,34,0,37,24,39,39,5,0,39,28,8,32,10,39,37,39,37,39,37,34,32,34,34,39,37,28,6,18,39,0,37,24,34,6,35,37
+2019-20,27,Maharashtra,2720,NASHIK,272016,NASHIK URC-1,Urban,1,PS (I-V),8,Unrecognized,1,1,1,0,1,0,1,1,0,0,1,0,0,0,1,1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,0,1,0,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272016,NASHIK URC-1,Urban,2,UPS (I-VIII),3,Local body,35,35,31,0,34,8,35,35,0,0,30,35,0,21,3,31,31,31,31,35,35,29,29,33,33,35,35,15,8,12,34,14,34,32,34,24,6,23
+2019-20,27,Maharashtra,2720,NASHIK,272016,NASHIK URC-1,Urban,2,UPS (I-VIII),4,Government Aided,28,28,27,0,27,16,27,27,1,0,27,27,1,24,5,28,28,28,28,28,28,27,27,27,27,27,27,15,10,10,27,10,26,21,26,10,25,25
+2019-20,27,Maharashtra,2720,NASHIK,272016,NASHIK URC-1,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),25,25,24,0,25,12,25,25,7,0,25,23,8,22,7,24,24,24,24,24,24,19,18,19,18,25,25,21,9,14,25,9,24,16,23,5,24,23
+2019-20,27,Maharashtra,2720,NASHIK,272016,NASHIK URC-1,Urban,3,HSS (I-XII),4,Government Aided,12,12,11,0,11,7,12,12,3,0,12,12,9,12,4,10,10,11,11,12,12,10,11,12,12,12,12,9,1,8,12,5,12,10,12,4,12,12
+2019-20,27,Maharashtra,2720,NASHIK,272016,NASHIK URC-1,Urban,3,HSS (I-XII),5,Private Unaided (Recognized),8,7,8,0,8,6,8,8,1,1,8,8,4,7,2,8,8,8,8,8,8,8,7,8,8,8,8,8,4,6,8,4,8,7,6,0,8,8
+2019-20,27,Maharashtra,2720,NASHIK,272016,NASHIK URC-1,Urban,4,UPS (VI-VIII),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,1,1,1,0,0,0,0,0,0,0,1,1,1,0,1,1,1,0,0,1,1,0,0,0,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272016,NASHIK URC-1,Urban,5,HSS (VI-XII),2,Tribal Welfare Department,1,0,0,0,1,0,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272016,NASHIK URC-1,Urban,5,HSS (VI-XII),5,Private Unaided (Recognized),3,3,3,0,3,1,3,3,0,0,3,2,2,3,1,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,3,0,3,3,3,0,3,3
+2019-20,27,Maharashtra,2720,NASHIK,272016,NASHIK URC-1,Urban,6,SS (I-X),3,Local body,1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,0,0,1,1,1,1,0,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272016,NASHIK URC-1,Urban,6,SS (I-X),4,Government Aided,23,23,23,0,23,10,23,23,3,0,20,23,10,22,6,20,20,21,21,23,23,20,20,23,23,23,23,20,5,15,22,14,22,18,21,12,23,23
+2019-20,27,Maharashtra,2720,NASHIK,272016,NASHIK URC-1,Urban,6,SS (I-X),5,Private Unaided (Recognized),19,19,19,0,19,10,19,19,4,1,19,19,13,19,3,18,18,19,19,19,19,17,17,18,18,19,19,17,7,12,19,9,19,14,19,2,19,19
+2019-20,27,Maharashtra,2720,NASHIK,272016,NASHIK URC-1,Urban,6,SS (I-X),8,Unrecognized,1,1,1,0,0,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,1
+2019-20,27,Maharashtra,2720,NASHIK,272016,NASHIK URC-1,Urban,7,SS (VI-X),3,Local body,5,5,4,0,4,1,5,5,0,0,5,5,0,2,0,5,5,5,5,5,5,5,5,5,5,5,5,1,1,2,4,0,4,4,5,4,3,4
+2019-20,27,Maharashtra,2720,NASHIK,272016,NASHIK URC-1,Urban,7,SS (VI-X),4,Government Aided,10,10,9,0,9,5,10,10,0,0,10,10,0,10,0,10,10,10,10,10,10,10,10,10,10,10,10,8,3,6,10,5,10,10,10,5,9,10
+2019-20,27,Maharashtra,2720,NASHIK,272016,NASHIK URC-1,Urban,7,SS (VI-X),5,Private Unaided (Recognized),12,12,12,0,11,6,12,12,2,0,11,11,5,12,1,11,11,11,11,11,11,12,9,12,11,12,12,7,4,4,12,3,11,7,12,4,12,11
+2019-20,27,Maharashtra,2720,NASHIK,272016,NASHIK URC-1,Urban,8,SS (IX-X),3,Local body,1,1,1,0,1,0,1,1,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,0,1,1,1,0,0
+2019-20,27,Maharashtra,2720,NASHIK,272016,NASHIK URC-1,Urban,8,SS (IX-X),5,Private Unaided (Recognized),4,4,4,0,4,2,4,4,1,0,4,4,3,4,2,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,2,4,4,4,0,4,4
+2019-20,27,Maharashtra,2720,NASHIK,272016,NASHIK URC-1,Urban,10,HSS (IX-XII),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,0,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272016,NASHIK URC-1,Urban,11,HSS (XI-XII),1,Department of Education,1,1,1,0,1,0,1,1,1,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272016,NASHIK URC-1,Urban,11,HSS (XI-XII),4,Government Aided,6,6,6,0,6,3,6,6,3,0,6,6,5,5,2,5,5,6,6,6,6,5,6,6,6,6,6,6,3,4,6,3,6,3,4,0,6,6
+2019-20,27,Maharashtra,2720,NASHIK,272016,NASHIK URC-1,Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),10,10,9,0,10,8,10,10,4,0,10,9,7,10,1,10,10,10,10,10,10,8,8,8,8,10,10,9,7,8,10,7,10,5,5,0,10,10
+2019-20,27,Maharashtra,2720,NASHIK,272017,MALEGAON MC,Urban,1,PS (I-V),3,Local body,13,12,4,0,7,11,5,6,0,0,10,2,0,1,3,10,10,10,9,11,10,10,9,10,10,10,9,1,0,0,9,0,9,7,11,3,0,0
+2019-20,27,Maharashtra,2720,NASHIK,272017,MALEGAON MC,Urban,1,PS (I-V),4,Government Aided,16,16,14,0,15,11,16,16,0,0,15,12,0,10,8,13,13,15,15,16,16,12,15,16,16,16,15,6,1,4,16,0,16,12,13,5,13,15
+2019-20,27,Maharashtra,2720,NASHIK,272017,MALEGAON MC,Urban,1,PS (I-V),5,Private Unaided (Recognized),10,10,7,0,9,6,10,10,2,0,10,5,2,7,2,10,10,10,10,10,10,9,9,9,9,10,9,6,4,5,10,1,10,5,5,2,10,8
+2019-20,27,Maharashtra,2720,NASHIK,272017,MALEGAON MC,Urban,2,UPS (I-VIII),3,Local body,73,73,37,0,54,24,45,48,1,0,52,32,2,19,2,48,47,53,53,72,71,46,49,68,67,68,65,1,5,4,64,14,60,44,67,33,8,55
+2019-20,27,Maharashtra,2720,NASHIK,272017,MALEGAON MC,Urban,2,UPS (I-VIII),4,Government Aided,34,34,32,0,32,19,34,34,1,0,32,29,1,29,15,30,30,31,31,33,33,30,29,32,31,34,33,15,13,17,33,14,32,28,28,12,31,33
+2019-20,27,Maharashtra,2720,NASHIK,272017,MALEGAON MC,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),10,10,10,0,10,9,10,10,0,0,10,6,0,8,5,10,10,9,9,10,10,10,9,10,10,10,10,4,2,5,10,4,10,8,7,3,9,10
+2019-20,27,Maharashtra,2720,NASHIK,272017,MALEGAON MC,Urban,2,UPS (I-VIII),8,Unrecognized,1,1,0,0,1,0,0,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,0,0,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272017,MALEGAON MC,Urban,3,HSS (I-XII),4,Government Aided,15,15,15,0,15,12,15,15,0,0,14,15,10,14,6,11,11,15,15,15,15,11,15,15,15,15,15,7,4,7,15,8,15,14,13,10,15,15
+2019-20,27,Maharashtra,2720,NASHIK,272017,MALEGAON MC,Urban,5,HSS (VI-XII),4,Government Aided,2,2,2,0,2,1,2,2,0,0,2,1,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,1,1,0,2,0,2,1,2,1,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272017,MALEGAON MC,Urban,5,HSS (VI-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272017,MALEGAON MC,Urban,6,SS (I-X),4,Government Aided,15,15,13,0,15,10,15,15,0,0,14,13,5,13,6,11,11,14,14,15,15,11,14,15,15,15,15,4,5,10,15,3,15,13,12,6,13,14
+2019-20,27,Maharashtra,2720,NASHIK,272017,MALEGAON MC,Urban,6,SS (I-X),5,Private Unaided (Recognized),7,7,6,0,7,5,7,7,0,0,7,7,2,6,1,6,6,7,7,7,7,6,7,7,7,7,7,6,2,5,7,3,7,6,5,0,7,7
+2019-20,27,Maharashtra,2720,NASHIK,272017,MALEGAON MC,Urban,7,SS (VI-X),4,Government Aided,7,7,6,0,6,4,7,7,1,0,7,6,0,7,1,7,7,7,7,7,7,7,6,7,7,7,7,2,2,1,7,3,7,7,5,4,7,6
+2019-20,27,Maharashtra,2720,NASHIK,272017,MALEGAON MC,Urban,7,SS (VI-X),5,Private Unaided (Recognized),3,3,2,0,3,3,3,3,0,0,3,2,0,3,0,3,3,3,2,3,3,3,3,3,3,3,3,1,2,2,3,2,3,2,3,2,2,3
+2019-20,27,Maharashtra,2720,NASHIK,272017,MALEGAON MC,Urban,10,HSS (IX-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272017,MALEGAON MC,Urban,11,HSS (XI-XII),1,Department of Education,1,1,1,0,1,1,1,1,1,0,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272017,MALEGAON MC,Urban,11,HSS (XI-XII),4,Government Aided,2,2,2,0,2,1,2,2,1,0,2,2,2,2,1,2,1,2,1,2,1,1,0,1,1,2,2,2,0,0,2,1,1,1,1,0,2,1
+2019-20,27,Maharashtra,2720,NASHIK,272017,MALEGAON MC,Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),1,0,1,0,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272018,NASHIK URC-2,Urban,1,PS (I-V),3,Local body,7,6,6,0,5,6,7,7,0,0,7,6,0,3,0,6,6,7,7,7,7,6,7,7,7,7,7,0,0,2,7,0,7,6,7,3,0,0
+2019-20,27,Maharashtra,2720,NASHIK,272018,NASHIK URC-2,Urban,1,PS (I-V),4,Government Aided,22,22,19,0,21,11,22,22,0,1,20,19,2,17,4,21,21,22,22,22,22,21,19,22,22,22,22,12,1,8,21,0,21,16,15,6,17,20
+2019-20,27,Maharashtra,2720,NASHIK,272018,NASHIK URC-2,Urban,1,PS (I-V),5,Private Unaided (Recognized),19,19,17,0,19,10,19,19,3,0,19,16,9,15,3,18,18,18,18,18,18,18,16,18,17,19,19,15,5,14,19,0,18,13,17,4,15,17
+2019-20,27,Maharashtra,2720,NASHIK,272018,NASHIK URC-2,Urban,1,PS (I-V),8,Unrecognized,3,3,3,0,3,2,3,3,0,0,3,2,1,2,0,2,2,3,3,3,3,1,1,1,1,3,2,3,0,1,3,0,3,1,2,0,3,3
+2019-20,27,Maharashtra,2720,NASHIK,272018,NASHIK URC-2,Urban,1,PS (I-V),90,Social welfare Department,1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,0,0,1,1,1,0,1,1,1,1,1,0,1,1,0,1,0,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272018,NASHIK URC-2,Urban,2,UPS (I-VIII),3,Local body,43,43,32,0,41,14,43,43,0,0,43,41,0,20,4,39,39,37,37,43,43,39,38,43,43,43,42,11,10,12,41,12,41,39,43,24,5,33
+2019-20,27,Maharashtra,2720,NASHIK,272018,NASHIK URC-2,Urban,2,UPS (I-VIII),4,Government Aided,28,28,23,0,28,14,28,28,1,0,28,26,1,25,5,27,27,27,27,27,27,26,26,26,26,28,28,19,9,12,27,11,26,22,24,17,24,28
+2019-20,27,Maharashtra,2720,NASHIK,272018,NASHIK URC-2,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),30,30,29,0,30,22,30,30,1,0,30,28,14,28,7,29,29,29,29,29,29,29,26,29,28,30,29,27,11,24,30,14,29,25,27,8,28,30
+2019-20,27,Maharashtra,2720,NASHIK,272018,NASHIK URC-2,Urban,2,UPS (I-VIII),8,Unrecognized,2,2,2,0,2,1,2,2,0,0,2,1,0,1,0,2,2,2,2,2,2,2,1,2,2,2,2,1,0,0,2,0,2,0,2,2,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272018,NASHIK URC-2,Urban,2,UPS (I-VIII),90,Social welfare Department,1,1,0,0,1,0,1,1,0,0,1,0,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,1,0,0,1,0,1,0,0,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272018,NASHIK URC-2,Urban,3,HSS (I-XII),4,Government Aided,5,5,5,0,5,4,5,5,1,0,5,5,2,4,0,5,5,5,5,5,5,5,5,5,5,5,5,5,2,4,5,1,5,5,5,2,4,5
+2019-20,27,Maharashtra,2720,NASHIK,272018,NASHIK URC-2,Urban,3,HSS (I-XII),5,Private Unaided (Recognized),7,6,7,0,7,3,7,7,2,0,7,7,7,7,3,7,7,7,7,7,7,7,7,7,7,7,7,7,3,6,7,2,7,7,7,2,7,7
+2019-20,27,Maharashtra,2720,NASHIK,272018,NASHIK URC-2,Urban,3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,2,1,2,0,2,2,2,2,0,0,2,2,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,0,2,2,2,0,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272018,NASHIK URC-2,Urban,5,HSS (VI-XII),4,Government Aided,3,3,2,0,3,2,3,3,0,0,3,3,1,3,0,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,3,0,3,3,3,3,3,3
+2019-20,27,Maharashtra,2720,NASHIK,272018,NASHIK URC-2,Urban,6,SS (I-X),3,Local body,1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272018,NASHIK URC-2,Urban,6,SS (I-X),4,Government Aided,25,25,22,0,25,15,25,25,1,0,25,25,11,22,5,23,23,25,25,25,25,23,24,24,24,25,25,20,7,9,24,11,24,22,21,11,24,25
+2019-20,27,Maharashtra,2720,NASHIK,272018,NASHIK URC-2,Urban,6,SS (I-X),5,Private Unaided (Recognized),25,25,25,0,23,13,25,25,6,0,25,24,12,21,4,25,25,25,25,25,25,23,20,23,23,25,25,22,7,15,24,9,24,20,21,3,24,24
+2019-20,27,Maharashtra,2720,NASHIK,272018,NASHIK URC-2,Urban,6,SS (I-X),8,Unrecognized,1,1,1,0,0,0,1,1,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,0,1
+2019-20,27,Maharashtra,2720,NASHIK,272018,NASHIK URC-2,Urban,7,SS (VI-X),3,Local body,5,5,4,0,5,3,5,5,0,0,5,3,0,3,0,5,5,5,5,5,5,5,5,5,5,5,5,3,1,2,3,0,3,3,5,4,1,4
+2019-20,27,Maharashtra,2720,NASHIK,272018,NASHIK URC-2,Urban,7,SS (VI-X),4,Government Aided,12,10,11,0,11,8,12,12,0,0,12,10,1,12,2,11,11,11,11,11,11,12,12,12,11,12,12,9,3,7,12,3,11,7,12,6,12,11
+2019-20,27,Maharashtra,2720,NASHIK,272018,NASHIK URC-2,Urban,7,SS (VI-X),5,Private Unaided (Recognized),9,9,9,0,9,6,9,9,1,0,8,9,6,8,3,9,9,9,9,9,9,9,9,9,9,9,9,9,2,5,8,4,8,7,9,3,9,9
+2019-20,27,Maharashtra,2720,NASHIK,272018,NASHIK URC-2,Urban,8,SS (IX-X),3,Local body,1,0,1,0,1,1,1,1,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,1
+2019-20,27,Maharashtra,2720,NASHIK,272018,NASHIK URC-2,Urban,8,SS (IX-X),5,Private Unaided (Recognized),6,6,6,0,6,3,6,6,0,0,6,6,4,6,1,6,6,6,6,6,6,6,6,6,6,6,6,5,3,4,6,2,6,6,5,2,6,6
+2019-20,27,Maharashtra,2720,NASHIK,272018,NASHIK URC-2,Urban,10,HSS (IX-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2720,NASHIK,272018,NASHIK URC-2,Urban,11,HSS (XI-XII),4,Government Aided,2,2,2,0,2,2,2,2,2,0,2,2,2,2,0,2,1,2,1,2,1,1,1,1,1,2,2,2,1,1,2,1,1,2,1,0,2,2
+2019-20,27,Maharashtra,2720,NASHIK,272018,NASHIK URC-2,Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),4,4,4,0,4,2,4,4,1,0,4,4,3,4,2,4,4,4,4,4,4,4,4,4,4,4,4,2,2,3,4,3,4,3,4,2,4,4

@@ -1,0 +1,709 @@
+Academic_Year,State_Code,State_Name,District_Code,District_Name,Block_Code,Udise_Block_Name,School_Category_Id,School_Category_Name,School_Management_Id,School_Management_Name,Location,School_Type_Id,School_Type,Total_Number_of_Schools,Building,Complete_Medical_Checkup,Computer_Available,Functional_Drinking_Water,Drinking_Water,Functional_Electricity,Functional_Boy_Toilet,Functional_Girl_Toilet,Functional_Toilet_Facility,Functional_Toilet_and_Urinal,Functional_Urinal,Functional_Urinal_Boy,Functional_Urinal_Girl,Handwash,Separate_Room_for_Headmaster,Incinerator,Internet,Kitchen_Garden,Land_Available,Librarian,Library_or_Reading_Corner_or_Book_Bank,Medical_Checkup,Newspaper,Playground,Rain_Water_Harvesting,Ramps,Solar_Panel,Furniture,Water_Purifier,Water_Tested
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281501,JEELUGUMILLI,11,HSS (XI-XII),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,0,0,1,1,1,0,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281501,JEELUGUMILLI,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281501,JEELUGUMILLI,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,17,17,0,0,17,17,16,2,4,4,0,0,0,0,5,4,0,0,13,8,0,17,14,2,17,1,1,0,11,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281501,JEELUGUMILLI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,21,21,0,2,20,21,21,0,0,0,0,0,0,0,12,11,0,0,21,12,0,21,21,3,21,1,1,0,7,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281501,JEELUGUMILLI,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,4,4,0,0,4,4,0,0,0,0,0,0,0,0,0,2,0,0,3,0,0,4,4,1,4,0,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281501,JEELUGUMILLI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281501,JEELUGUMILLI,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,2,2,0,2,2,2,2,1,2,2,0,0,0,0,1,1,0,0,0,1,0,1,1,2,2,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281501,JEELUGUMILLI,6,SS (I-X),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281501,JEELUGUMILLI,6,SS (I-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281501,JEELUGUMILLI,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281501,JEELUGUMILLI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,3,3,0,2,3,3,3,0,2,2,0,0,0,0,1,2,0,1,3,3,1,3,2,2,3,0,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281501,JEELUGUMILLI,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281501,JEELUGUMILLI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281501,JEELUGUMILLI,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,2,2,0,0,2,2,2,1,1,2,0,0,0,0,1,2,0,0,0,1,0,2,1,1,2,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281501,JEELUGUMILLI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,4,4,0,2,4,4,4,1,1,1,0,0,0,0,2,3,0,0,4,4,0,4,4,1,4,1,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281501,JEELUGUMILLI,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,3,3,0,2,3,3,3,1,2,2,0,0,0,0,0,2,0,0,0,1,0,2,0,2,3,1,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281502,BUTTAIGUDEM,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,2,2,0,0,1,2,2,1,1,1,0,0,0,0,1,1,0,2,0,1,1,2,0,1,2,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281502,BUTTAIGUDEM,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,51,51,0,1,40,46,38,4,10,10,0,0,0,0,26,5,0,1,5,26,0,51,38,1,29,3,9,0,30,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281502,BUTTAIGUDEM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,49,49,0,2,40,48,46,3,4,5,0,0,0,0,42,4,0,1,16,26,0,48,44,2,39,0,4,0,33,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281502,BUTTAIGUDEM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,11,11,0,0,9,11,1,0,0,0,0,0,0,0,6,0,0,0,1,7,0,11,11,0,8,0,0,0,8,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281502,BUTTAIGUDEM,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281502,BUTTAIGUDEM,6,SS (I-X),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281502,BUTTAIGUDEM,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281502,BUTTAIGUDEM,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,Girls,3,3,0,1,3,3,3,0,3,3,0,0,0,0,2,3,0,1,0,3,0,3,3,1,2,1,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281502,BUTTAIGUDEM,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,Co-Ed,7,7,0,1,7,7,7,3,4,6,0,0,0,0,2,6,0,0,0,7,0,7,7,4,7,0,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281502,BUTTAIGUDEM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,2,2,0,1,2,2,2,0,2,2,0,0,0,0,1,1,0,1,1,2,0,2,2,2,2,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281502,BUTTAIGUDEM,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,0,0,1,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281502,BUTTAIGUDEM,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,6,6,0,0,6,6,6,4,5,5,0,0,0,0,0,4,0,0,0,4,1,6,6,2,1,0,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281502,BUTTAIGUDEM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,3,3,0,1,3,3,3,0,1,1,0,0,0,0,2,1,0,0,1,1,0,3,2,2,2,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281502,BUTTAIGUDEM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,1,3,3,3,1,3,3,0,0,0,0,2,3,0,0,0,1,0,3,3,1,3,0,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281502,BUTTAIGUDEM,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,2,Girls,2,2,0,0,2,2,1,0,2,2,0,0,0,0,2,2,0,0,1,1,0,2,2,1,1,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281503,POLAVARAM,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281503,POLAVARAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281503,POLAVARAM,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,16,16,0,0,13,15,9,0,2,2,0,0,0,0,2,0,0,0,2,12,0,15,13,0,8,0,6,0,5,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281503,POLAVARAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,34,34,0,4,20,32,29,0,1,1,0,0,0,0,2,9,0,0,14,15,0,34,29,3,16,2,4,0,13,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281503,POLAVARAM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,4,4,0,0,4,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,4,0,3,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281503,POLAVARAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,1,1,1,0,0,0,0,0,2,0,2,0,1,0,2,1,1,1,2,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281503,POLAVARAM,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,2,2,0,0,2,2,2,1,1,1,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281503,POLAVARAM,6,SS (I-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281503,POLAVARAM,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,1,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281503,POLAVARAM,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,Co-Ed,2,2,0,0,2,2,2,2,0,2,0,0,0,0,1,2,0,0,0,1,0,2,2,1,0,0,1,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281503,POLAVARAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,2,2,0,2,2,2,2,1,2,2,0,0,0,0,2,2,0,0,0,2,0,2,2,2,2,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281503,POLAVARAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,0,2,0,0,0,1,0,2,1,1,2,0,1,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281503,POLAVARAM,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,6,6,0,1,6,6,5,1,3,3,0,0,0,0,0,2,0,0,0,4,0,6,6,2,2,0,2,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281503,POLAVARAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,1,1,0,0,1,1,0,0,1,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281503,POLAVARAM,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281503,POLAVARAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,1,2,2,0,0,0,0,1,2,0,0,0,1,0,2,1,0,2,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281503,POLAVARAM,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281503,POLAVARAM,4,UPS (VI-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281503,POLAVARAM,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281504,TALLAPUDI,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281504,TALLAPUDI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,2,2,2,0,0,0,0,0,0,0,1,1,0,1,0,0,1,2,0,2,2,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281504,TALLAPUDI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,25,25,0,6,23,25,24,1,1,1,0,0,0,0,8,2,0,0,16,11,0,25,24,20,19,2,7,0,6,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281504,TALLAPUDI,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,3,3,0,0,3,3,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,2,2,3,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281504,TALLAPUDI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,1,3,3,0,0,0,0,0,1,0,1,0,1,0,3,0,2,3,0,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281504,TALLAPUDI,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281504,TALLAPUDI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,5,5,0,4,5,5,5,1,2,2,0,0,0,0,1,3,0,2,0,5,0,5,4,2,5,1,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281504,TALLAPUDI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,2,4,5,5,2,4,4,0,0,0,0,1,2,0,0,0,2,0,5,3,0,5,1,1,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281504,TALLAPUDI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,2,2,0,1,2,2,2,0,0,0,0,0,0,0,1,0,0,0,2,1,0,2,1,1,2,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281504,TALLAPUDI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,10,10,0,3,10,10,10,4,9,9,0,0,0,0,2,7,0,2,0,7,0,10,8,4,10,0,1,0,9,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281504,TALLAPUDI,4,UPS (VI-VIII),3,Local body,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281505,GOPALAPURAM,3,HSS (I-XII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,1,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281505,GOPALAPURAM,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281505,GOPALAPURAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,1,2,2,2,2,2,0,0,0,0,2,0,0,2,0,1,1,2,0,1,2,2,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281505,GOPALAPURAM,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281505,GOPALAPURAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,36,36,0,4,35,35,33,3,4,4,0,0,0,0,16,3,0,0,15,31,0,35,30,6,30,3,15,0,8,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281505,GOPALAPURAM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281505,GOPALAPURAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,3,5,5,5,4,4,4,0,0,0,0,3,4,0,3,0,5,0,5,4,3,5,1,1,0,5,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281505,GOPALAPURAM,1,PS (I-V),6,Other Govt. managed schools,Rural,3,Co-Ed,4,4,0,0,4,4,4,3,3,3,0,0,0,0,0,2,0,0,2,1,0,4,1,0,4,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281505,GOPALAPURAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,8,8,0,7,7,8,8,5,8,8,0,0,0,0,5,5,0,3,3,8,0,8,7,6,8,1,5,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281505,GOPALAPURAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,1,2,2,2,2,2,0,0,0,0,0,1,0,2,0,1,0,2,1,1,2,2,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281505,GOPALAPURAM,2,UPS (I-VIII),8,Unrecognized,Rural,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281505,GOPALAPURAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,6,6,0,1,6,6,6,3,3,3,0,0,0,0,3,0,0,0,4,6,0,6,6,1,6,0,5,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281505,GOPALAPURAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,0,3,3,3,1,2,2,0,0,0,0,0,2,0,1,0,3,0,3,2,1,3,0,2,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281505,GOPALAPURAM,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,4,4,0,3,4,4,4,4,4,4,0,0,0,0,2,4,0,4,0,0,0,4,4,2,4,1,4,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281506,KOYYALAGUDEM,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,1,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281506,KOYYALAGUDEM,11,HSS (XI-XII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281506,KOYYALAGUDEM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,0,3,4,4,2,2,2,0,0,0,0,3,2,0,2,0,2,2,3,2,2,4,0,1,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281506,KOYYALAGUDEM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,37,37,0,1,35,37,37,2,4,4,0,0,0,0,15,3,0,0,8,30,0,37,25,37,27,0,11,0,14,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281506,KOYYALAGUDEM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,4,4,0,0,3,4,4,0,0,0,0,0,0,0,0,1,0,0,0,3,0,4,3,2,3,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281506,KOYYALAGUDEM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,5,6,6,5,2,6,6,0,0,0,0,1,5,0,3,0,2,0,6,0,4,6,1,0,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281506,KOYYALAGUDEM,1,PS (I-V),6,Other Govt. managed schools,Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281506,KOYYALAGUDEM,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,3,3,0,1,3,3,2,1,2,2,0,0,0,0,0,1,0,0,0,1,0,3,0,1,3,0,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281506,KOYYALAGUDEM,7,SS (VI-X),3,Local body,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281506,KOYYALAGUDEM,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281506,KOYYALAGUDEM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,5,5,0,4,5,5,5,2,5,5,0,0,0,0,0,2,0,0,0,5,0,5,4,4,5,0,1,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281506,KOYYALAGUDEM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,3,3,4,4,1,3,3,0,0,0,0,1,2,0,2,0,0,0,4,0,1,4,1,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281506,KOYYALAGUDEM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,7,7,0,4,7,7,7,1,5,5,0,0,0,0,3,1,0,0,5,4,0,7,6,6,4,0,5,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281506,KOYYALAGUDEM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,9,9,0,7,9,9,7,4,6,6,0,0,0,0,1,5,0,3,0,6,0,8,4,4,9,1,1,0,6,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281506,KOYYALAGUDEM,2,UPS (I-VIII),6,Other Govt. managed schools,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,0,1,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281506,KOYYALAGUDEM,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281507,JANGAREDDYGUDEM,3,HSS (I-XII),6,Other Govt. managed schools,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281507,JANGAREDDYGUDEM,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,0,1,1,1,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281507,JANGAREDDYGUDEM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,0,4,6,6,6,6,6,0,0,0,0,4,3,0,4,0,1,2,6,3,4,6,1,0,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281507,JANGAREDDYGUDEM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,52,52,0,6,50,52,50,2,10,10,0,0,0,0,46,9,0,0,26,22,0,51,29,7,32,2,23,0,25,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281507,JANGAREDDYGUDEM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,3,3,0,0,3,3,2,0,0,0,0,0,0,0,3,0,0,0,0,3,0,3,3,1,3,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281507,JANGAREDDYGUDEM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,11,11,0,10,11,11,11,7,11,11,0,0,0,0,5,11,0,6,0,11,0,10,5,8,11,5,1,0,11,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281507,JANGAREDDYGUDEM,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,4,4,0,3,4,4,4,3,3,3,0,0,0,0,3,3,0,2,0,4,0,4,0,4,4,2,0,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281507,JANGAREDDYGUDEM,6,SS (I-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281507,JANGAREDDYGUDEM,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,0,1,0,1,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281507,JANGAREDDYGUDEM,7,SS (VI-X),3,Local body,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281507,JANGAREDDYGUDEM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,8,8,0,5,8,8,7,6,8,8,0,0,0,0,8,4,0,4,5,8,1,7,5,5,8,2,5,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281507,JANGAREDDYGUDEM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,16,16,0,11,12,16,16,12,16,16,0,0,0,0,11,12,0,8,0,11,0,16,5,5,16,5,2,0,12,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281507,JANGAREDDYGUDEM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,7,7,0,4,7,7,7,0,7,7,0,0,0,0,4,1,0,0,5,6,0,7,3,1,3,0,6,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281507,JANGAREDDYGUDEM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,9,9,0,8,9,9,8,4,8,8,0,0,0,0,5,9,0,2,0,8,0,9,8,3,9,0,0,0,7,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281507,JANGAREDDYGUDEM,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,3,3,0,2,3,3,3,1,2,2,0,0,0,0,1,3,0,3,0,3,0,3,0,1,3,1,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281508,T.NARSAPURAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,48,48,0,2,48,48,36,5,6,6,0,0,0,0,20,1,0,0,12,19,0,48,38,18,39,0,2,0,26,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281508,T.NARSAPURAM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,5,5,0,0,3,5,1,0,0,0,0,0,0,0,2,1,0,0,0,2,0,5,5,1,5,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281508,T.NARSAPURAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,2,2,2,1,1,1,0,0,0,0,0,1,0,1,0,1,0,2,1,1,2,0,2,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281508,T.NARSAPURAM,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,2,2,0,1,1,2,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0,2,2,0,2,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281508,T.NARSAPURAM,6,SS (I-X),1,Department of Education,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,1,1,0,0,1,1,0,1,1,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281508,T.NARSAPURAM,6,SS (I-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281508,T.NARSAPURAM,6,SS (I-X),6,Other Govt. managed schools,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281508,T.NARSAPURAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,5,5,0,2,4,5,5,3,5,5,0,0,0,0,2,2,0,2,1,5,0,5,4,0,5,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281508,T.NARSAPURAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,1,2,2,0,0,0,0,1,1,0,1,0,0,0,2,2,1,2,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281508,T.NARSAPURAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,8,8,0,3,8,8,8,2,2,2,0,0,0,0,5,1,0,0,8,5,0,8,5,0,6,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281508,T.NARSAPURAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281508,T.NARSAPURAM,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,3,3,0,1,2,3,3,2,3,3,0,0,0,0,1,2,0,0,0,1,0,3,2,1,3,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281508,T.NARSAPURAM,4,UPS (VI-VIII),3,Local body,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281509,CHINTALAPUDI,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281509,CHINTALAPUDI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,0,0,7,7,3,3,3,0,0,0,0,1,0,0,1,0,0,0,7,0,0,7,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281509,CHINTALAPUDI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,73,73,0,5,59,73,72,5,7,7,0,0,0,0,45,2,0,0,11,27,0,73,63,18,57,0,9,0,35,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281509,CHINTALAPUDI,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,20,20,0,0,18,20,2,1,1,1,0,0,0,0,1,1,0,0,0,6,0,20,16,5,18,0,0,0,7,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281509,CHINTALAPUDI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,12,12,0,9,10,12,12,4,6,6,0,0,0,0,0,5,0,3,0,2,0,12,9,3,12,3,3,0,11,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281509,CHINTALAPUDI,6,SS (I-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281509,CHINTALAPUDI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,1,2,2,0,0,0,0,0,0,0,2,1,0,2,0,1,2,2,0,0,1,2,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281509,CHINTALAPUDI,7,SS (VI-X),3,Local body,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281509,CHINTALAPUDI,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281509,CHINTALAPUDI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,7,7,0,6,7,7,7,2,2,3,0,0,0,0,1,2,0,4,6,6,1,7,6,4,7,1,4,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281509,CHINTALAPUDI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,14,14,0,10,13,14,13,5,7,7,0,0,0,0,2,6,0,6,0,2,0,14,11,3,13,2,5,0,10,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281509,CHINTALAPUDI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,10,10,0,3,9,10,10,3,3,3,0,0,0,0,5,1,0,0,7,4,0,10,7,5,8,0,1,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281509,CHINTALAPUDI,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281509,CHINTALAPUDI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,0,2,3,1,2,2,2,0,0,0,0,1,1,0,0,0,0,0,3,0,1,3,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281509,CHINTALAPUDI,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281509,CHINTALAPUDI,4,UPS (VI-VIII),3,Local body,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281510,LINGAPALEM,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,1,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281510,LINGAPALEM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281510,LINGAPALEM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,51,50,0,4,46,50,50,0,0,0,0,0,0,0,20,4,0,0,49,36,0,50,43,7,42,0,10,0,28,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281510,LINGAPALEM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,14,14,0,0,10,14,3,0,0,0,0,0,0,0,1,0,0,0,4,9,0,14,13,2,12,0,1,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281510,LINGAPALEM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,4,4,6,6,2,3,3,0,0,0,0,2,0,0,3,0,5,0,6,4,2,6,1,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281510,LINGAPALEM,1,PS (I-V),6,Other Govt. managed schools,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281510,LINGAPALEM,7,SS (VI-X),3,Local body,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281510,LINGAPALEM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,4,6,6,6,2,6,6,0,0,0,0,6,4,0,2,3,5,2,6,6,4,5,0,2,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281510,LINGAPALEM,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281510,LINGAPALEM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,2,4,4,4,3,4,4,0,0,0,0,1,0,0,2,0,2,1,4,2,0,4,0,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281510,LINGAPALEM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,4,4,0,1,4,4,4,0,0,0,0,0,0,0,1,0,0,0,4,2,0,4,3,1,3,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281510,LINGAPALEM,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281510,LINGAPALEM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,1,0,2,0,2,2,1,2,0,2,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281511,KAMAVARAPUKOTA,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281511,KAMAVARAPUKOTA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281511,KAMAVARAPUKOTA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,44,43,0,3,41,43,42,4,9,10,0,0,0,0,27,5,0,0,12,19,0,44,36,5,31,0,9,0,29,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281511,KAMAVARAPUKOTA,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,7,7,0,0,7,7,6,0,0,0,0,0,0,0,0,0,0,0,4,4,0,7,7,0,7,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281511,KAMAVARAPUKOTA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,4,4,4,4,3,4,4,0,0,0,0,4,4,0,1,0,4,0,4,1,4,4,0,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281511,KAMAVARAPUKOTA,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,1,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281511,KAMAVARAPUKOTA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,7,7,0,3,7,7,5,3,4,4,0,0,0,0,6,5,0,3,3,7,2,7,7,4,6,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281511,KAMAVARAPUKOTA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,4,3,4,4,4,4,4,0,0,0,0,4,4,0,1,0,4,0,4,2,3,4,0,3,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281511,KAMAVARAPUKOTA,7,SS (VI-X),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281511,KAMAVARAPUKOTA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,3,3,0,1,3,3,3,1,3,3,0,0,0,0,2,0,0,0,2,2,0,3,3,1,2,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281511,KAMAVARAPUKOTA,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,4,4,0,2,4,4,4,1,3,3,0,0,0,0,4,1,0,2,0,1,0,4,1,2,3,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281511,KAMAVARAPUKOTA,4,UPS (VI-VIII),3,Local body,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281512,DWARAKATIRUMALA,3,HSS (I-XII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281512,DWARAKATIRUMALA,5,HSS (VI-XII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281512,DWARAKATIRUMALA,11,HSS (XI-XII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281512,DWARAKATIRUMALA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281512,DWARAKATIRUMALA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,48,47,0,6,43,48,45,3,11,11,0,0,0,0,13,2,0,0,35,27,0,48,31,2,30,0,10,0,25,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281512,DWARAKATIRUMALA,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,5,5,0,0,5,5,5,0,0,0,0,0,0,0,0,0,0,0,0,3,0,5,4,0,5,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281512,DWARAKATIRUMALA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,0,3,0,0,0,3,0,3,2,2,3,0,1,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281512,DWARAKATIRUMALA,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281512,DWARAKATIRUMALA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,8,8,0,2,8,8,8,2,8,8,0,0,0,0,1,5,0,0,4,7,0,8,7,4,8,1,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281512,DWARAKATIRUMALA,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,1,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281512,DWARAKATIRUMALA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,1,3,0,2,0,3,0,3,1,0,3,1,1,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281512,DWARAKATIRUMALA,7,SS (VI-X),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,0,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281512,DWARAKATIRUMALA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,8,8,0,3,8,8,8,3,5,5,0,0,0,0,5,2,0,1,5,6,0,8,8,0,7,1,2,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281512,DWARAKATIRUMALA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,0,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281512,DWARAKATIRUMALA,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,2,2,0,1,2,2,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,2,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281513,NALLAJERLA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,0,1,4,4,4,4,4,0,0,0,0,0,1,0,2,0,1,0,4,0,0,4,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281513,NALLAJERLA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,37,37,0,2,35,37,36,9,17,17,0,0,0,0,8,4,0,0,19,19,0,37,36,10,32,0,12,0,23,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281513,NALLAJERLA,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,7,7,0,1,7,7,7,4,5,5,0,0,0,0,2,3,0,1,3,5,0,7,5,2,7,0,1,0,5,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281513,NALLAJERLA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,6,7,7,7,4,6,6,0,0,0,0,0,6,0,6,0,5,0,6,4,1,6,3,1,0,7,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281513,NALLAJERLA,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,3,3,0,2,3,3,2,1,3,3,0,0,0,0,1,1,0,0,0,1,0,1,1,2,1,1,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281513,NALLAJERLA,6,SS (I-X),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,1,1,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281513,NALLAJERLA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,8,8,0,6,8,8,8,1,6,6,0,0,0,0,3,7,0,6,2,8,0,8,7,6,8,1,1,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281513,NALLAJERLA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,6,6,8,8,4,6,6,0,0,0,0,0,6,0,5,0,6,0,8,4,1,8,0,2,0,6,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281513,NALLAJERLA,7,SS (VI-X),8,Unrecognized,Rural,3,Co-Ed,3,3,0,2,3,3,2,1,3,3,0,0,0,0,0,2,0,2,0,2,0,2,3,1,2,0,1,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281513,NALLAJERLA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,6,6,0,2,6,6,6,6,6,6,0,0,0,0,2,3,0,0,6,3,0,6,6,1,4,0,4,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281513,NALLAJERLA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,6,7,7,6,4,7,7,0,0,0,0,1,6,0,3,0,6,0,6,6,1,6,0,2,0,6,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281513,NALLAJERLA,2,UPS (I-VIII),6,Other Govt. managed schools,Rural,3,Co-Ed,2,2,0,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,0,0,1,2,0,1,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281513,NALLAJERLA,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281514,DEVARAPALLI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,1,2,4,4,2,3,3,0,0,0,0,3,3,0,4,0,3,1,4,1,1,4,1,1,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281514,DEVARAPALLI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,36,36,0,4,36,36,34,2,11,11,0,0,0,0,21,4,0,1,19,13,0,36,33,6,27,3,17,0,8,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281514,DEVARAPALLI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,9,9,0,8,9,9,9,4,9,9,0,0,0,0,6,6,0,5,0,5,0,8,9,2,8,0,2,0,8,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281514,DEVARAPALLI,1,PS (I-V),6,Other Govt. managed schools,Rural,3,Co-Ed,4,4,0,2,3,4,4,3,2,3,0,0,0,0,2,1,0,0,3,1,0,4,3,0,4,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281514,DEVARAPALLI,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,3,3,0,1,3,3,2,0,2,2,0,0,0,0,2,2,0,1,0,1,0,3,3,2,3,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281514,DEVARAPALLI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,0,2,2,0,0,0,0,1,1,0,1,0,1,0,1,2,1,2,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281514,DEVARAPALLI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,9,9,0,8,9,9,9,2,9,9,0,0,0,0,6,7,0,5,3,9,1,9,9,8,8,3,6,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281514,DEVARAPALLI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,7,7,7,7,4,7,7,0,0,0,0,5,6,0,4,0,4,1,7,7,1,7,1,2,0,7,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281514,DEVARAPALLI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,2,2,0,1,2,2,2,1,1,1,0,0,0,0,1,1,0,0,1,1,0,2,2,0,1,0,1,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281514,DEVARAPALLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,3,6,6,6,3,6,6,0,0,0,0,4,6,0,1,0,3,0,6,6,1,6,1,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281514,DEVARAPALLI,2,UPS (I-VIII),6,Other Govt. managed schools,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281515,CHAGALLU,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,0,1,0,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281515,CHAGALLU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,0,1,0,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281515,CHAGALLU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,31,31,0,6,31,31,31,3,23,23,0,0,0,0,25,0,0,1,18,16,0,31,29,1,20,2,14,0,26,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281515,CHAGALLU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,1,3,3,3,0,3,3,0,0,0,0,3,1,0,1,0,1,0,3,0,0,2,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281515,CHAGALLU,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281515,CHAGALLU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,5,6,6,6,4,6,6,0,0,0,0,4,4,0,4,3,6,0,6,5,1,6,0,3,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281515,CHAGALLU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,1,2,2,0,0,0,0,2,1,0,1,0,1,0,1,0,0,2,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281515,CHAGALLU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,3,3,0,3,3,3,3,1,3,3,0,0,0,0,2,0,0,0,3,3,0,3,2,0,3,0,2,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281515,CHAGALLU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,2,6,6,6,4,6,6,0,0,0,0,6,6,0,2,0,2,0,5,4,3,5,0,0,0,5,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281515,CHAGALLU,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281516,KOVVUR,11,HSS (XI-XII),1,Department of Education,Urban,2,Girls,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281516,KOVVUR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,1,1,1,1,1,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281516,KOVVUR,11,HSS (XI-XII),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281516,KOVVUR,1,PS (I-V),3,Local body,Rural,3,Co-Ed,26,26,0,4,26,26,26,6,14,14,0,0,0,0,7,0,0,0,11,22,0,26,26,7,20,2,8,0,11,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281516,KOVVUR,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281516,KOVVUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,5,6,6,6,2,6,6,0,0,0,0,2,5,0,2,0,5,0,6,6,1,6,2,2,0,5,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281516,KOVVUR,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,2,2,0,0,2,2,2,1,2,2,0,0,0,0,0,1,0,0,0,2,0,1,0,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281516,KOVVUR,1,PS (I-V),3,Local body,Urban,3,Co-Ed,10,10,0,2,9,10,9,3,7,7,0,0,0,0,0,7,0,0,3,7,0,10,7,3,6,1,1,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281516,KOVVUR,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,3,3,0,0,3,3,2,2,3,3,0,0,0,0,0,1,0,0,0,0,0,3,3,0,2,0,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281516,KOVVUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,7,7,0,5,7,7,7,4,6,6,0,0,0,0,0,6,0,2,0,5,0,7,5,2,7,1,3,0,7,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281516,KOVVUR,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,1,2,0,1,0,1,0,2,0,1,2,1,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281516,KOVVUR,6,SS (I-X),8,Unrecognized,Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,2,0,1,1,2,2,2,1,2,1,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281516,KOVVUR,7,SS (VI-X),2,Tribal Welfare Department,Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,0,0,1,1,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281516,KOVVUR,7,SS (VI-X),3,Local body,Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281516,KOVVUR,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,4,6,6,6,3,6,6,0,0,0,0,2,3,0,4,3,6,1,6,6,3,6,0,3,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281516,KOVVUR,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,1,0,1,0,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281516,KOVVUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,5,5,5,5,2,5,5,0,0,0,0,1,4,0,3,0,5,0,5,1,2,5,2,1,0,5,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281516,KOVVUR,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281516,KOVVUR,7,SS (VI-X),3,Local body,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0,1,0,1,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281516,KOVVUR,7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,2,2,0,0,2,2,2,1,2,2,0,0,0,0,0,2,0,0,1,2,0,2,2,0,2,1,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281516,KOVVUR,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,5,5,0,5,5,5,5,3,5,5,0,0,0,0,1,4,0,1,0,5,0,4,2,2,5,2,0,0,5,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281516,KOVVUR,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,6,6,0,3,6,6,6,2,6,6,0,0,0,0,2,4,0,1,6,6,0,6,6,2,6,2,3,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281516,KOVVUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,3,6,6,6,4,6,6,0,0,0,0,1,6,0,1,0,3,0,6,0,4,6,1,0,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281516,KOVVUR,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,4,4,0,3,4,4,4,1,4,4,0,0,0,0,0,3,0,1,0,0,0,3,3,1,3,1,2,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281516,KOVVUR,2,UPS (I-VIII),8,Unrecognized,Urban,3,Co-Ed,1,1,0,0,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281517,NIDADAVOLE,11,HSS (XI-XII),1,Department of Education,Urban,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281517,NIDADAVOLE,11,HSS (XI-XII),1,Department of Education,Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281517,NIDADAVOLE,1,PS (I-V),3,Local body,Rural,3,Co-Ed,38,38,0,2,36,38,36,1,13,13,0,0,0,0,6,1,0,0,16,22,0,38,29,6,23,0,13,0,20,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281517,NIDADAVOLE,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281517,NIDADAVOLE,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281517,NIDADAVOLE,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,3,3,0,0,3,3,2,1,2,2,0,0,0,0,1,1,0,0,0,0,0,3,2,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281517,NIDADAVOLE,1,PS (I-V),3,Local body,Urban,3,Co-Ed,11,11,0,0,11,11,11,1,1,1,0,0,0,0,3,3,0,0,8,5,0,11,7,2,4,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281517,NIDADAVOLE,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,4,4,0,0,3,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,2,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281517,NIDADAVOLE,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,4,4,0,3,2,4,4,1,1,1,0,0,0,0,1,3,0,0,0,1,0,4,1,0,4,0,1,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281517,NIDADAVOLE,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,2,2,0,0,2,2,2,0,0,0,0,0,0,0,0,2,0,0,0,2,0,1,1,0,2,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281517,NIDADAVOLE,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281517,NIDADAVOLE,7,SS (VI-X),3,Local body,Urban,2,Girls,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281517,NIDADAVOLE,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,7,7,0,4,6,7,6,0,5,5,0,0,0,0,1,4,0,2,2,7,1,6,6,4,4,0,1,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281517,NIDADAVOLE,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281517,NIDADAVOLE,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281517,NIDADAVOLE,7,SS (VI-X),3,Local body,Urban,3,Co-Ed,3,3,0,2,3,3,3,1,2,2,0,0,0,0,0,2,0,0,3,3,1,3,2,1,3,0,1,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281517,NIDADAVOLE,7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,1,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281517,NIDADAVOLE,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,4,4,0,2,4,4,4,1,2,2,0,0,0,0,0,2,0,0,0,2,0,2,1,0,2,0,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281517,NIDADAVOLE,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,7,7,0,3,7,7,7,4,6,6,0,0,0,0,4,3,0,0,6,3,0,7,5,0,6,1,3,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281517,NIDADAVOLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,1,4,6,4,3,5,5,0,0,0,0,0,4,0,0,0,2,0,3,1,0,0,0,2,0,5,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281517,NIDADAVOLE,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281517,NIDADAVOLE,2,UPS (I-VIII),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281517,NIDADAVOLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,11,11,0,2,11,11,11,5,6,6,0,0,0,0,0,6,0,0,0,3,0,10,5,3,6,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281517,NIDADAVOLE,2,UPS (I-VIII),8,Unrecognized,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281517,NIDADAVOLE,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,5,HSS (VI-XII),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,1,0,1,0,1,1,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,11,HSS (XI-XII),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,0,0,1,1,1,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,11,HSS (XI-XII),4,Government Aided,Rural,2,Girls,1,1,0,1,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,11,HSS (XI-XII),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,1,1,1,1,1,1,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,1,1,3,1,3,3,3,0,0,0,0,2,1,0,2,0,1,2,2,2,3,1,2,3,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,46,46,0,4,46,46,46,4,4,7,0,0,0,0,42,6,0,0,37,29,0,46,43,43,43,0,40,0,19,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,4,4,5,4,2,5,5,0,0,0,0,4,4,0,0,0,3,0,5,3,3,5,2,2,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,1,PS (I-V),3,Local body,Urban,3,Co-Ed,21,21,0,2,17,20,21,1,7,7,0,0,0,0,20,13,0,0,7,6,0,21,16,13,15,0,12,0,7,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,6,6,0,0,3,6,4,0,0,0,0,0,0,0,5,1,0,0,2,0,0,6,4,2,6,0,0,0,5,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,9,9,0,7,8,9,9,3,8,8,0,0,0,0,8,7,0,1,0,7,0,9,6,4,8,1,5,0,9,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,4,4,0,3,4,4,3,1,2,2,0,0,0,0,3,2,0,0,0,2,0,4,4,1,4,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,1,0,1,0,1,1,2,2,1,2,0,1,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,6,SS (I-X),8,Unrecognized,Urban,3,Co-Ed,3,3,0,3,3,3,3,0,3,3,0,0,0,0,3,3,0,0,0,3,0,3,3,3,3,0,3,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,7,SS (VI-X),3,Local body,Urban,2,Girls,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,11,11,0,7,10,11,11,3,9,9,0,0,0,0,7,9,0,4,4,10,1,11,7,7,11,0,3,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,0,3,3,0,0,0,0,1,2,0,2,0,1,0,3,1,1,3,0,2,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,1,1,0,1,0,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,7,SS (VI-X),3,Local body,Urban,3,Co-Ed,6,6,0,5,6,6,6,0,3,3,0,0,0,0,6,6,0,3,1,5,0,6,4,2,5,1,3,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,8,8,0,8,8,8,8,0,6,6,0,0,0,0,6,8,0,0,0,7,0,8,5,2,8,2,4,0,8,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,2,UPS (I-VIII),4,Government Aided,Rural,1,Boys,1,1,0,0,0,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,9,9,0,3,7,9,9,1,4,4,0,0,0,0,8,1,0,0,9,6,0,9,7,6,5,1,5,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,7,7,8,8,2,8,8,0,0,0,0,7,7,0,1,0,6,0,8,8,6,8,0,6,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,2,2,0,1,2,2,2,0,1,1,0,0,0,0,2,1,0,0,0,1,0,2,1,1,1,0,1,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,25,25,0,23,20,25,25,5,19,19,0,0,0,0,20,19,0,6,0,12,0,24,19,11,24,2,10,0,19,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,2,UPS (I-VIII),8,Unrecognized,Urban,3,Co-Ed,3,3,0,2,3,3,3,1,2,2,0,0,0,0,3,3,0,0,0,2,0,3,1,0,3,0,2,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,4,UPS (VI-VIII),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281518,TADEPALLI GUDEM,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281519,UNGUTURU,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281519,UNGUTURU,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281519,UNGUTURU,1,PS (I-V),3,Local body,Rural,2,Girls,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281519,UNGUTURU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,53,53,0,15,52,53,53,2,19,19,0,0,0,0,47,6,0,0,42,27,0,52,28,17,33,2,11,0,28,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281519,UNGUTURU,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,6,6,0,0,6,6,2,0,0,0,0,0,0,0,0,0,0,0,3,3,0,6,5,1,5,0,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281519,UNGUTURU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,4,4,4,4,1,4,4,0,0,0,0,0,4,0,2,0,4,0,4,4,0,4,0,1,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281519,UNGUTURU,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,4,4,0,1,4,4,1,0,2,2,0,0,0,0,0,0,0,1,0,2,0,3,4,1,2,0,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281519,UNGUTURU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,8,8,0,6,8,8,8,3,8,8,0,0,0,0,8,7,0,6,4,6,1,8,8,5,8,1,3,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281519,UNGUTURU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,1,2,2,0,0,0,0,0,2,0,2,0,2,0,2,0,0,2,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281519,UNGUTURU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,7,7,0,3,7,7,7,3,5,5,0,0,0,0,7,1,0,0,5,4,0,7,4,2,4,0,3,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281519,UNGUTURU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,4,4,5,4,3,5,5,0,0,0,0,1,4,0,1,0,3,0,4,4,0,5,1,2,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281519,UNGUTURU,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,4,4,0,0,4,4,4,0,4,4,0,0,0,0,3,2,0,0,0,2,0,3,4,1,4,1,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281519,UNGUTURU,4,UPS (VI-VIII),3,Local body,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281520,BHIMADOLE,3,HSS (I-XII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,1,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281520,BHIMADOLE,11,HSS (XI-XII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,1,1,1,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281520,BHIMADOLE,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281520,BHIMADOLE,1,PS (I-V),3,Local body,Rural,3,Co-Ed,31,31,0,5,29,30,31,7,9,9,0,0,0,0,17,9,0,0,18,18,0,31,27,4,28,4,10,0,8,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281520,BHIMADOLE,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,13,13,0,0,12,13,12,0,2,2,0,0,0,0,1,3,0,0,0,5,0,13,13,1,13,3,0,0,8,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281520,BHIMADOLE,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,1,1,1,0,0,0,0,0,2,0,1,0,2,0,2,2,1,2,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281520,BHIMADOLE,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,4,4,0,1,4,4,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,0,1,2,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281520,BHIMADOLE,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,0,1,1,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281520,BHIMADOLE,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,5,5,6,6,2,5,5,0,0,0,0,4,4,0,4,3,6,1,6,6,1,5,1,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281520,BHIMADOLE,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281520,BHIMADOLE,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,1,0,0,0,2,1,0,2,1,1,1,2,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281520,BHIMADOLE,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281520,BHIMADOLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,5,5,5,5,4,5,5,0,0,0,0,1,5,0,3,0,4,0,5,3,2,5,5,1,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281520,BHIMADOLE,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,3,3,0,1,3,3,3,2,2,2,0,0,0,0,0,1,0,1,0,1,0,3,1,2,3,1,1,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281521,PEDAVEGI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281521,PEDAVEGI,5,HSS (VI-XII),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281521,PEDAVEGI,5,HSS (VI-XII),7,Central Govt,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281521,PEDAVEGI,11,HSS (XI-XII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281521,PEDAVEGI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,0,1,3,3,1,0,1,0,0,0,0,1,1,0,1,0,1,1,3,1,1,3,1,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281521,PEDAVEGI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,47,47,0,1,45,47,45,1,4,4,0,0,0,0,14,6,0,0,9,20,0,46,33,6,22,2,18,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281521,PEDAVEGI,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,16,16,0,2,13,16,14,1,1,1,0,0,0,0,1,0,0,0,3,5,0,16,11,1,14,0,1,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281521,PEDAVEGI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,0,0,0,0,0,0,0,0,3,0,2,0,3,0,3,3,1,3,3,1,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281521,PEDAVEGI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,1,1,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281521,PEDAVEGI,6,SS (I-X),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,1,1,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281521,PEDAVEGI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,5,5,0,4,5,5,5,3,5,5,0,0,0,0,3,3,0,3,1,5,0,5,5,1,5,0,1,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281521,PEDAVEGI,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,2,1,1,1,0,0,0,0,1,2,0,0,1,1,0,1,2,0,2,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281521,PEDAVEGI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,0,2,2,0,0,0,0,0,3,0,2,0,3,0,3,3,1,3,3,1,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281521,PEDAVEGI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,12,12,0,6,11,12,12,3,7,7,0,0,0,0,4,1,0,0,8,7,0,12,12,1,7,2,8,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281521,PEDAVEGI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,3,6,6,6,4,5,5,0,0,0,0,0,5,0,1,1,4,0,4,4,2,5,1,1,0,5,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281521,PEDAVEGI,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,2,2,0,0,2,2,2,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2,2,0,2,1,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281522,PEDAPADU,3,HSS (I-XII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281522,PEDAPADU,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281522,PEDAPADU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,3,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281522,PEDAPADU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,41,41,0,4,34,41,41,5,9,9,0,0,0,0,16,0,0,0,16,23,0,41,41,9,31,1,10,0,15,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281522,PEDAPADU,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,15,15,0,1,15,15,6,1,2,2,0,0,0,0,3,3,0,1,7,7,0,15,14,3,14,0,1,0,10,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281522,PEDAPADU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,6,6,6,6,5,6,6,0,0,0,0,0,6,0,3,0,6,0,6,5,3,5,0,0,0,5,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281522,PEDAPADU,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,0,1,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281522,PEDAPADU,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,2,0,2,0,2,2,1,2,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281522,PEDAPADU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,8,8,0,6,8,8,8,4,8,8,0,0,0,0,4,4,0,2,3,8,1,8,8,8,8,0,6,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281522,PEDAPADU,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281522,PEDAPADU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,4,4,4,4,3,4,4,0,0,0,0,0,4,0,3,0,4,0,4,3,4,4,0,0,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281522,PEDAPADU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,3,3,0,1,3,3,3,2,2,2,0,0,0,0,0,0,0,0,3,1,0,3,3,2,1,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281522,PEDAPADU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,3,0,4,4,4,4,3,4,4,0,0,0,0,2,4,0,3,0,4,0,4,2,4,4,1,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281522,PEDAPADU,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,1,0,1,0,1,1,0,1,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281522,PEDAPADU,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,10,10,0,8,10,10,10,8,9,9,0,0,0,0,0,9,0,0,0,1,0,10,8,1,10,0,1,0,9,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,5,HSS (VI-XII),8,Unrecognized,Urban,3,Co-Ed,4,4,0,4,3,4,3,2,2,2,0,0,0,0,0,3,0,0,0,2,0,3,1,0,2,0,2,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,11,HSS (XI-XII),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,11,HSS (XI-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,1,PS (I-V),1,Department of Education,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,0,0,1,0,1,0,1,1,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,30,30,0,2,22,29,28,3,6,8,0,0,0,0,5,0,0,0,11,19,0,30,23,4,23,0,10,0,10,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,16,15,0,1,9,16,8,3,5,5,0,0,0,0,1,2,0,0,0,9,0,16,13,1,15,0,1,0,8,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,4,5,5,5,0,4,4,0,0,0,0,0,3,0,0,0,1,0,5,3,2,5,0,1,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,1,PS (I-V),6,Other Govt. managed schools,Rural,3,Co-Ed,3,3,0,1,2,3,3,2,2,2,0,0,0,0,0,1,0,0,2,0,0,3,1,1,1,0,1,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,6,6,0,4,5,6,6,4,5,5,0,0,0,0,1,5,0,0,1,2,0,6,2,4,5,1,0,0,5,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,1,PS (I-V),3,Local body,Urban,3,Co-Ed,40,38,0,8,29,39,34,7,15,15,0,0,0,0,4,6,0,0,10,18,0,40,18,2,26,1,10,0,13,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,21,21,0,2,7,21,9,2,6,6,0,0,0,0,2,4,0,1,1,4,0,21,9,1,16,1,0,0,10,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,20,20,0,19,18,20,20,10,15,15,0,0,0,0,0,14,0,6,1,5,0,18,17,5,20,2,2,0,20,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,5,5,0,3,5,5,5,2,4,4,0,0,0,0,0,5,0,0,0,2,0,4,0,1,4,0,1,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,6,SS (I-X),8,Unrecognized,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,2,0,2,0,1,1,2,2,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,6,SS (I-X),6,Other Govt. managed schools,Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,0,2,0,0,1,1,0,2,1,0,2,0,1,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,6,SS (I-X),7,Central Govt,Urban,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,7,SS (VI-X),1,Department of Education,Urban,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,7,SS (VI-X),4,Government Aided,Urban,1,Boys,2,2,0,1,2,2,2,2,0,2,0,0,0,0,0,2,0,0,1,2,0,2,1,1,2,2,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,7,SS (VI-X),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,7,SS (VI-X),3,Local body,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,1,1,0,0,1,0,1,0,1,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,7,SS (VI-X),4,Government Aided,Urban,2,Girls,2,2,0,1,2,2,2,0,2,2,0,0,0,0,0,2,0,1,0,1,0,2,0,1,2,1,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,8,8,0,7,5,8,8,3,7,7,0,0,0,0,2,7,0,3,2,6,0,8,8,4,7,0,3,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,1,3,3,0,0,0,0,0,1,0,2,0,1,0,2,1,0,3,0,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,7,SS (VI-X),3,Local body,Urban,3,Co-Ed,6,6,0,5,6,6,5,2,6,6,0,0,0,0,0,6,0,3,3,5,0,5,6,0,5,1,3,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,4,4,0,3,4,4,4,1,4,4,0,0,0,0,0,4,0,1,1,1,0,4,3,2,4,1,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,10,10,0,9,10,10,10,7,9,9,0,0,0,0,0,9,0,3,0,5,0,10,8,1,10,3,2,0,8,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,10,10,0,6,9,10,10,2,5,5,0,0,0,0,6,2,0,2,7,8,0,10,10,2,8,0,4,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,1,2,2,0,0,0,0,1,2,0,0,0,1,0,2,1,1,2,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,7,7,0,6,7,7,7,7,7,7,0,0,0,0,1,6,0,1,1,3,0,6,4,2,7,1,1,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,5,5,0,5,3,5,5,0,3,3,0,0,0,0,1,1,0,0,2,3,0,4,3,0,5,0,1,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,2,UPS (I-VIII),4,Government Aided,Urban,3,Co-Ed,3,3,0,0,3,3,2,1,2,2,0,0,0,0,0,1,0,0,0,0,0,3,3,0,2,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,17,17,0,14,15,17,17,11,15,15,0,0,0,0,0,14,0,6,1,7,0,17,10,7,15,3,5,0,13,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,2,UPS (I-VIII),8,Unrecognized,Urban,3,Co-Ed,8,8,0,6,8,8,8,6,7,7,0,0,0,0,1,8,0,0,0,2,0,8,3,7,8,1,1,0,6,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281523,ELURU,4,UPS (VI-VIII),1,Department of Education,Rural,1,Boys,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281524,DENDULURU,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281524,DENDULURU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281524,DENDULURU,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281524,DENDULURU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,42,42,0,5,40,42,40,5,14,14,0,0,0,0,20,12,0,1,21,15,0,42,37,3,23,3,11,0,21,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281524,DENDULURU,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,15,15,0,0,14,15,6,0,2,2,0,0,0,0,0,6,0,0,1,5,0,15,14,0,14,2,0,0,8,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281524,DENDULURU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281524,DENDULURU,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281524,DENDULURU,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281524,DENDULURU,7,SS (VI-X),3,Local body,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281524,DENDULURU,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,1,1,1,0,1,1,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281524,DENDULURU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,5,5,0,4,5,5,5,1,5,5,0,0,0,0,3,5,0,4,4,5,1,5,5,3,4,0,1,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281524,DENDULURU,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,2,0,2,2,0,0,0,0,0,2,0,0,0,0,0,2,1,0,2,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281524,DENDULURU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,2,2,0,0,2,2,2,0,2,2,0,0,0,0,2,2,0,0,1,2,0,2,2,1,2,1,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281524,DENDULURU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,1,3,3,0,0,0,0,0,3,0,1,0,1,0,3,2,0,3,1,1,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281524,DENDULURU,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,3,3,0,2,3,3,2,2,2,2,0,0,0,0,1,3,0,1,0,1,0,3,1,1,3,1,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281525,NIDAMARRU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281525,NIDAMARRU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,35,35,0,6,33,35,35,6,6,6,0,0,0,0,12,3,0,0,14,10,0,35,34,1,24,1,4,0,25,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281525,NIDAMARRU,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,1,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281525,NIDAMARRU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,1,0,2,0,2,2,1,2,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281525,NIDAMARRU,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281525,NIDAMARRU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,7,7,0,6,7,7,7,6,6,6,0,0,0,0,2,5,0,3,1,7,0,7,7,4,7,1,1,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281525,NIDAMARRU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281525,NIDAMARRU,7,SS (VI-X),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281525,NIDAMARRU,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,3,3,0,1,3,3,2,2,2,2,0,0,0,0,0,2,0,0,0,2,0,1,2,0,3,1,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281526,GANAPAVARAM,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281526,GANAPAVARAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,1,2,2,1,1,1,0,0,0,0,1,1,0,2,0,1,1,2,2,1,2,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281526,GANAPAVARAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,42,42,0,8,41,42,42,11,10,11,0,0,0,0,19,5,0,0,10,14,0,42,35,0,22,2,3,0,30,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281526,GANAPAVARAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,2,3,0,2,0,1,0,4,3,0,4,1,0,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281526,GANAPAVARAM,7,SS (VI-X),3,Local body,Rural,2,Girls,1,1,0,1,0,1,1,0,1,1,0,0,0,0,0,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281526,GANAPAVARAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,6,6,6,6,6,6,6,0,0,0,0,2,5,0,4,3,5,2,6,6,1,5,1,2,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281526,GANAPAVARAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,1,1,0,3,0,0,0,4,3,0,4,1,1,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281526,GANAPAVARAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,9,9,0,2,8,9,9,6,7,7,0,0,0,0,3,2,0,0,2,3,0,9,9,0,4,0,1,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281526,GANAPAVARAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,4,6,6,5,6,6,6,0,0,0,0,1,4,0,0,0,5,0,6,2,3,5,2,0,0,6,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281526,GANAPAVARAM,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,1,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281527,PENTAPADU,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,1,1,1,1,0,1,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281527,PENTAPADU,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,1,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281527,PENTAPADU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,54,54,0,3,46,53,54,2,4,5,0,0,0,0,21,2,0,0,5,16,0,54,47,13,27,2,14,0,32,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281527,PENTAPADU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,1,3,3,0,0,0,0,0,3,0,2,0,2,0,3,2,1,2,3,1,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281527,PENTAPADU,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,0,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281527,PENTAPADU,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,0,1,0,1,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281527,PENTAPADU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,8,8,0,5,8,8,7,3,5,5,0,0,0,0,4,4,0,1,0,5,0,8,8,5,6,0,4,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281527,PENTAPADU,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281527,PENTAPADU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,3,2,3,3,0,0,0,0,0,3,0,2,0,2,0,2,2,2,3,2,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281527,PENTAPADU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,3,3,0,2,3,3,3,1,1,1,0,0,0,0,3,0,0,0,0,3,0,3,2,1,2,0,3,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281527,PENTAPADU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,3,6,6,6,1,3,3,0,0,0,0,0,2,0,2,0,4,0,6,4,4,6,1,4,0,5,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281527,PENTAPADU,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,2,2,0,1,2,2,2,0,1,1,0,0,0,0,0,1,0,0,0,1,0,2,1,0,2,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281528,TANUKU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,2,2,2,1,2,2,0,0,0,0,2,2,0,0,0,1,2,2,2,1,1,2,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281528,TANUKU,11,HSS (XI-XII),1,Department of Education,Urban,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,2,2,0,0,0,1,2,2,0,1,2,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281528,TANUKU,11,HSS (XI-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281528,TANUKU,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,9,9,0,0,9,9,7,7,8,8,0,0,0,0,9,8,0,5,0,4,6,7,2,5,3,3,1,0,7,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281528,TANUKU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,24,24,0,4,21,24,23,3,7,7,0,0,0,0,7,4,0,0,12,3,0,23,21,2,15,2,4,0,20,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281528,TANUKU,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281528,TANUKU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,3,4,4,4,3,3,3,0,0,0,0,1,3,0,1,0,3,0,4,1,3,2,0,1,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281528,TANUKU,1,PS (I-V),6,Other Govt. managed schools,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281528,TANUKU,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,2,2,0,2,2,2,1,1,2,2,0,0,0,0,0,1,0,1,0,0,0,2,0,1,0,1,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281528,TANUKU,1,PS (I-V),3,Local body,Urban,3,Co-Ed,14,14,0,1,13,14,14,3,3,3,0,0,0,0,3,8,0,1,8,3,0,14,11,1,6,2,0,0,11,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281528,TANUKU,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281528,TANUKU,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,9,9,0,8,9,9,9,7,8,8,0,0,0,0,0,5,0,5,0,1,0,7,5,4,8,1,0,0,9,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281528,TANUKU,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,7,7,0,5,7,7,5,4,6,6,0,0,0,0,0,0,0,3,0,0,0,6,2,3,5,4,2,0,7,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281528,TANUKU,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,2,0,1,1,2,0,2,1,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281528,TANUKU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,4,6,6,5,4,5,5,0,0,0,0,1,3,0,3,1,5,2,6,5,1,4,1,2,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281528,TANUKU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,3,2,2,2,0,0,0,0,1,3,0,1,0,2,0,3,1,3,3,0,1,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281528,TANUKU,7,SS (VI-X),3,Local body,Urban,3,Co-Ed,3,3,0,2,2,3,3,1,1,1,0,0,0,0,1,2,0,2,1,2,0,3,2,1,2,0,2,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281528,TANUKU,7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281528,TANUKU,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,9,9,0,8,8,9,9,7,8,8,0,0,0,0,0,6,0,3,0,3,0,9,5,4,9,1,1,0,9,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281528,TANUKU,7,SS (VI-X),8,Unrecognized,Urban,3,Co-Ed,3,3,0,2,3,3,3,2,3,3,0,0,0,0,0,1,0,1,0,1,0,3,1,2,3,0,1,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281528,TANUKU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,3,3,0,1,3,3,3,1,2,2,0,0,0,0,0,2,0,0,3,1,0,3,3,0,1,0,1,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281528,TANUKU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,2,3,0,0,0,2,0,2,0,2,1,1,1,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281528,TANUKU,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,10,10,0,7,10,10,9,5,9,9,0,0,0,0,1,6,0,2,0,5,0,9,8,6,10,2,4,0,9,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281528,TANUKU,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,2,2,0,1,1,2,2,0,1,1,0,0,0,0,2,2,0,0,2,2,0,2,2,0,2,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281528,TANUKU,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,2,3,3,3,2,2,2,0,0,0,0,0,2,0,0,0,1,0,3,2,0,3,0,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281528,TANUKU,2,UPS (I-VIII),8,Unrecognized,Urban,3,Co-Ed,3,3,0,2,3,3,3,2,2,2,0,0,0,0,1,3,0,0,0,1,0,3,1,1,2,0,2,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281528,TANUKU,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281529,UNDRAJAVARAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,1,2,2,1,1,1,0,0,0,0,0,1,0,2,0,1,1,2,0,1,2,0,1,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281529,UNDRAJAVARAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,32,32,0,7,32,32,32,9,26,26,0,0,0,0,7,8,0,0,14,15,0,32,25,1,27,0,5,0,16,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281529,UNDRAJAVARAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,1,2,2,0,0,0,0,0,0,0,0,0,1,0,1,2,1,2,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281529,UNDRAJAVARAM,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,8,8,0,3,8,8,7,3,7,7,0,0,0,0,1,4,0,0,0,1,0,2,4,1,3,1,1,0,7,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281529,UNDRAJAVARAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,8,8,0,8,7,8,8,3,6,6,0,0,0,0,2,5,0,5,0,8,0,5,8,2,8,0,3,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281529,UNDRAJAVARAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,1,1,1,0,0,0,0,1,1,0,2,0,0,0,2,2,0,2,0,1,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281529,UNDRAJAVARAM,7,SS (VI-X),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281529,UNDRAJAVARAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281529,UNDRAJAVARAM,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,4,4,0,2,4,4,4,1,2,2,0,0,0,0,0,0,0,2,0,0,0,1,1,0,3,2,0,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281530,PERAVALI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281530,PERAVALI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,41,41,0,5,40,41,41,4,7,7,0,0,0,0,28,9,0,0,4,18,0,41,36,7,27,2,12,0,34,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281530,PERAVALI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,0,0,0,0,2,1,2,2,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281530,PERAVALI,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,4,4,0,2,4,4,3,0,3,3,0,0,0,0,1,1,0,0,0,2,0,4,2,0,2,1,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281530,PERAVALI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,0,1,1,1,1,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281530,PERAVALI,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281530,PERAVALI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,6,6,6,6,1,4,4,0,0,0,0,2,4,0,4,1,5,2,6,5,4,5,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281530,PERAVALI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281530,PERAVALI,7,SS (VI-X),8,Unrecognized,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,1,0,0,0,2,1,1,2,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281530,PERAVALI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,2,2,0,0,2,2,2,1,2,2,0,0,0,0,2,0,0,0,1,2,0,2,2,1,2,0,2,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281530,PERAVALI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,9,9,0,7,9,9,9,4,9,9,0,0,0,0,3,7,0,3,0,2,0,9,3,5,8,1,0,0,6,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281530,PERAVALI,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,4,4,0,2,3,4,4,1,3,3,0,0,0,0,4,3,0,0,0,1,0,4,1,3,4,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281531,IRAGAVARAM,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281531,IRAGAVARAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,46,46,0,6,43,46,46,1,1,1,0,0,0,0,39,4,0,0,9,21,0,46,35,3,23,3,14,0,32,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281531,IRAGAVARAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,1,2,2,0,0,0,0,2,2,0,1,0,0,0,2,2,2,2,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281531,IRAGAVARAM,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,2,2,0,2,2,2,2,0,0,0,0,0,0,0,2,2,0,0,0,1,0,2,1,1,2,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281531,IRAGAVARAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,6,5,6,6,3,5,5,0,0,0,0,5,6,0,5,2,6,0,6,6,3,6,0,1,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281531,IRAGAVARAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281531,IRAGAVARAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,7,7,0,6,7,7,7,3,4,4,0,0,0,0,5,4,0,1,5,6,0,7,6,1,3,0,4,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281531,IRAGAVARAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,3,1,2,2,0,0,0,0,3,3,0,1,0,2,0,3,1,1,3,0,1,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281531,IRAGAVARAM,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,3,3,0,1,3,3,3,0,0,0,0,0,0,0,3,2,0,0,0,0,0,3,1,1,2,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281532,ATTILI,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281532,ATTILI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,0,3,3,3,3,3,3,0,0,0,0,0,3,0,3,0,2,2,3,3,3,3,1,1,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281532,ATTILI,1,PS (I-V),3,Local body,Rural,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281532,ATTILI,1,PS (I-V),3,Local body,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281532,ATTILI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,44,44,0,6,38,44,44,2,8,8,0,0,0,0,22,18,0,0,18,26,0,44,43,25,35,1,26,0,23,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281532,ATTILI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,3,5,5,5,2,3,3,0,0,0,0,1,4,0,3,0,4,0,5,3,2,5,0,1,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281532,ATTILI,1,PS (I-V),6,Other Govt. managed schools,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281532,ATTILI,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,3,3,0,1,3,3,2,1,3,3,0,0,0,0,0,3,0,1,0,2,0,2,1,2,3,1,1,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281532,ATTILI,7,SS (VI-X),1,Department of Education,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,1,1,0,1,1,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281532,ATTILI,7,SS (VI-X),3,Local body,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,1,0,0,1,1,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281532,ATTILI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,8,8,0,6,8,8,8,4,7,7,0,0,0,0,5,6,0,4,5,7,0,8,8,6,8,0,6,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281532,ATTILI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,4,4,4,3,1,4,4,0,0,0,0,1,4,0,3,0,4,0,3,2,1,4,1,0,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281532,ATTILI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,4,4,0,3,4,4,4,2,2,2,0,0,0,0,1,2,0,0,3,2,0,4,4,2,3,0,4,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281532,ATTILI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,3,4,4,4,2,3,3,0,0,0,0,0,3,0,1,0,1,0,4,1,2,3,0,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281532,ATTILI,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,2,2,0,2,2,2,2,1,2,2,0,0,0,0,1,2,0,0,0,0,0,2,2,1,2,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281533,UNDI,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281533,UNDI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,0,1,0,1,0,1,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281533,UNDI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,59,59,0,13,48,59,55,12,13,14,0,0,0,0,25,9,0,0,13,21,0,59,47,3,29,2,4,0,42,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281533,UNDI,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,4,4,0,0,2,4,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,3,0,2,0,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281533,UNDI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,1,0,1,0,1,0,2,0,1,2,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281533,UNDI,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,3,3,0,1,3,3,2,1,1,1,0,0,0,0,1,3,0,0,0,3,0,3,0,0,3,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281533,UNDI,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281533,UNDI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,7,7,0,7,5,7,6,3,5,5,0,0,0,0,7,5,0,5,3,7,1,7,7,3,7,0,2,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281533,UNDI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,1,2,2,1,1,1,0,0,0,0,0,1,0,1,0,0,0,2,0,1,2,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281533,UNDI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,3,1,0,0,3,0,0,3,3,0,1,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281533,UNDI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,5,5,5,5,3,4,4,0,0,0,0,4,3,0,1,0,3,0,5,2,1,5,0,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281534,AKIVEEDU,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281534,AKIVEEDU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,1,2,2,1,1,1,0,0,0,0,1,1,0,2,0,1,0,2,0,0,2,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281534,AKIVEEDU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,39,39,0,7,37,39,37,2,8,8,0,0,0,0,26,3,0,0,11,17,0,38,36,10,20,0,3,0,26,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281534,AKIVEEDU,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,13,13,0,5,10,12,3,0,0,0,0,0,0,0,3,3,0,1,1,5,0,13,12,4,7,1,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281534,AKIVEEDU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,6,8,8,7,5,6,6,0,0,0,0,5,4,0,2,0,1,0,7,3,3,7,3,2,0,7,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281534,AKIVEEDU,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281534,AKIVEEDU,7,SS (VI-X),3,Local body,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281534,AKIVEEDU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,5,6,6,6,2,6,6,0,0,0,0,2,5,0,2,2,6,0,6,6,2,6,1,1,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281534,AKIVEEDU,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281534,AKIVEEDU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,5,4,5,5,5,5,5,0,0,0,0,1,4,0,3,0,2,0,5,4,1,5,2,1,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281534,AKIVEEDU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,4,4,0,3,4,4,4,1,4,4,0,0,0,0,2,1,0,0,3,2,0,4,4,0,3,1,2,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281534,AKIVEEDU,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281534,AKIVEEDU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,4,7,7,7,5,7,7,0,0,0,0,3,5,0,1,0,2,0,7,3,3,7,1,3,0,6,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281534,AKIVEEDU,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281535,KALLA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,0,2,2,0,0,0,0,0,0,0,1,0,0,1,0,0,0,2,1,1,2,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281535,KALLA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,47,47,0,16,38,46,47,5,11,11,0,0,0,0,34,5,0,0,14,27,0,47,36,2,25,1,8,0,16,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281535,KALLA,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,8,8,0,0,3,8,2,0,0,0,0,0,0,0,1,1,0,0,0,5,0,8,6,0,4,0,0,0,5,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281535,KALLA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,4,7,7,6,5,7,7,0,0,0,0,3,6,0,1,0,4,0,7,2,2,7,1,1,0,7,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281535,KALLA,6,SS (I-X),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281535,KALLA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,9,9,0,8,8,9,9,2,6,6,0,0,0,0,4,4,0,4,2,9,0,9,8,4,9,0,1,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281535,KALLA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,0,2,2,0,0,0,0,0,2,0,1,0,2,0,2,1,0,2,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281535,KALLA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,2,2,0,2,2,2,2,0,1,1,0,0,0,0,2,1,0,0,2,2,0,2,2,0,2,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281535,KALLA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,2,2,3,3,0,0,0,0,2,1,0,1,0,1,0,3,0,0,2,0,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281536,BHIMAVARAM,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281536,BHIMAVARAM,11,HSS (XI-XII),4,Government Aided,Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281536,BHIMAVARAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,0,7,7,7,7,7,7,0,0,0,0,7,3,0,6,0,1,2,7,1,5,7,1,0,0,7,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281536,BHIMAVARAM,11,HSS (XI-XII),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281536,BHIMAVARAM,11,HSS (XI-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281536,BHIMAVARAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,2,1,0,2,0,0,2,2,1,2,2,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281536,BHIMAVARAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,66,66,0,8,56,65,62,5,20,21,0,0,0,0,21,3,0,0,12,33,0,61,57,5,39,0,10,0,33,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281536,BHIMAVARAM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281536,BHIMAVARAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,8,8,8,8,5,8,8,0,0,0,0,2,8,0,7,0,6,0,8,6,2,8,1,0,0,8,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281536,BHIMAVARAM,1,PS (I-V),3,Local body,Urban,3,Co-Ed,36,36,0,2,36,36,35,9,24,25,0,0,0,0,5,11,0,0,11,14,0,36,21,9,23,1,6,0,24,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281536,BHIMAVARAM,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,3,3,0,0,3,3,3,1,3,3,0,0,0,0,0,1,0,0,1,2,0,3,1,0,3,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281536,BHIMAVARAM,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,19,19,0,15,19,19,19,10,18,18,0,0,0,0,2,18,0,12,0,11,0,18,11,5,19,5,3,0,17,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281536,BHIMAVARAM,6,SS (I-X),8,Unrecognized,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,0,1,0,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281536,BHIMAVARAM,7,SS (VI-X),3,Local body,Urban,2,Girls,2,2,0,1,2,2,2,0,2,2,0,0,0,0,0,2,0,1,1,2,0,2,2,1,2,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281536,BHIMAVARAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,12,12,0,6,12,12,12,5,11,11,0,0,0,0,4,12,0,3,4,12,0,10,12,7,11,2,1,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281536,BHIMAVARAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,7,7,7,7,6,7,7,0,0,0,0,4,7,0,6,0,6,0,7,3,2,7,0,0,0,7,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281536,BHIMAVARAM,7,SS (VI-X),3,Local body,Urban,3,Co-Ed,4,4,0,2,4,4,4,1,4,4,0,0,0,0,1,4,0,1,3,3,0,4,4,3,3,0,1,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281536,BHIMAVARAM,7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,5,5,0,1,5,5,5,4,5,5,0,0,0,0,0,5,0,1,1,4,0,5,4,0,5,1,0,0,5,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281536,BHIMAVARAM,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,21,21,0,18,21,21,21,15,20,20,0,0,0,0,2,19,0,14,0,15,0,21,10,5,20,5,2,0,21,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281536,BHIMAVARAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,4,4,0,0,4,4,4,1,2,2,0,0,0,0,2,1,0,0,3,4,0,4,4,0,4,0,3,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281536,BHIMAVARAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,7,7,7,7,5,6,6,0,0,0,0,1,7,0,2,0,6,0,7,1,1,7,1,1,0,6,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281536,BHIMAVARAM,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281536,BHIMAVARAM,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281536,BHIMAVARAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,19,19,0,17,19,19,18,8,17,17,0,0,0,0,4,11,0,6,0,6,0,19,9,10,17,2,1,0,14,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281536,BHIMAVARAM,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,0,2,2,2,1,2,2,0,0,0,0,1,1,0,0,0,1,0,2,2,0,2,1,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281537,PALAKODERU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281537,PALAKODERU,1,PS (I-V),3,Local body,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281537,PALAKODERU,1,PS (I-V),3,Local body,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281537,PALAKODERU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,41,41,0,12,35,40,40,6,17,17,0,0,0,0,13,4,0,1,11,16,0,40,20,4,19,1,9,0,18,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281537,PALAKODERU,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281537,PALAKODERU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,2,3,3,1,3,3,0,0,0,0,1,3,0,1,0,2,0,3,1,2,2,1,1,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281537,PALAKODERU,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,4,4,0,3,4,4,4,0,3,3,0,0,0,0,1,2,0,0,0,0,0,4,2,1,4,0,0,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281537,PALAKODERU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,10,10,0,8,10,10,10,4,9,9,0,0,0,0,2,8,0,4,2,9,1,10,8,7,10,0,2,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281537,PALAKODERU,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281537,PALAKODERU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,1,1,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281537,PALAKODERU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281537,PALAKODERU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,8,8,8,8,3,6,6,0,0,0,0,0,7,0,3,0,3,0,8,5,5,8,2,1,0,8,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281538,VEERAVASARAM,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281538,VEERAVASARAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,0,2,2,1,1,1,0,0,0,0,0,0,0,1,0,0,0,2,0,1,2,1,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281538,VEERAVASARAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,62,62,0,5,46,62,62,2,12,12,0,0,0,0,37,6,0,0,7,21,0,62,52,5,34,1,7,0,37,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281538,VEERAVASARAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,3,5,5,4,2,5,5,0,0,0,0,3,3,0,1,0,2,0,5,1,1,5,1,1,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281538,VEERAVASARAM,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281538,VEERAVASARAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,5,6,6,6,4,6,6,0,0,0,0,3,5,0,5,0,6,2,6,6,3,5,1,2,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281538,VEERAVASARAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,2,3,3,2,3,3,0,0,0,0,2,3,0,2,0,3,0,3,0,1,3,1,1,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281538,VEERAVASARAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,4,4,0,3,4,4,4,1,4,4,0,0,0,0,2,1,0,0,4,2,0,4,2,1,2,2,2,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281538,VEERAVASARAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,2,3,3,0,0,0,0,0,3,0,0,0,0,0,3,3,2,3,0,1,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281538,VEERAVASARAM,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,5,5,0,4,5,5,5,3,5,5,0,0,0,0,0,5,0,0,0,3,0,5,3,4,5,2,1,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281539,PENUMANTRA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281539,PENUMANTRA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281539,PENUMANTRA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,44,44,0,11,35,44,43,2,4,4,0,0,0,0,5,12,0,1,9,16,0,44,44,5,17,1,6,0,35,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281539,PENUMANTRA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,6,7,7,6,2,5,5,0,0,0,0,0,7,0,3,0,4,0,5,5,0,7,4,2,0,5,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281539,PENUMANTRA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,6,6,6,6,3,4,4,0,0,0,0,1,5,0,1,3,6,0,6,5,4,4,1,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281539,PENUMANTRA,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,1,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281539,PENUMANTRA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,4,5,6,5,3,4,4,0,0,0,0,0,4,0,1,0,2,0,5,2,1,6,0,2,0,5,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281539,PENUMANTRA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,4,4,0,3,4,4,4,0,1,1,0,0,0,0,1,2,0,0,2,2,0,4,4,1,3,1,1,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281539,PENUMANTRA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,3,6,6,6,5,6,6,0,0,0,0,1,5,0,2,0,1,0,5,3,3,6,2,1,0,6,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281539,PENUMANTRA,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281539,PENUMANTRA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281540,PENUGONDA,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,1,1,1,1,1,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281540,PENUGONDA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,1,2,0,2,2,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281540,PENUGONDA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,58,58,0,5,56,58,58,5,6,6,0,0,0,0,2,1,0,0,8,12,0,58,35,4,51,0,2,0,58,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281540,PENUGONDA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,5,5,5,5,4,5,5,0,0,0,0,0,4,0,2,0,3,0,5,1,4,5,0,0,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281540,PENUGONDA,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281540,PENUGONDA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281540,PENUGONDA,7,SS (VI-X),4,Government Aided,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281540,PENUGONDA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,5,5,0,5,5,5,5,4,4,4,0,0,0,0,1,2,0,4,2,5,0,5,4,1,5,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281540,PENUGONDA,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281540,PENUGONDA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,5,5,5,5,5,5,5,0,0,0,0,1,4,0,2,0,3,0,5,1,4,5,1,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281540,PENUGONDA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,4,4,0,0,4,4,4,0,2,2,0,0,0,0,0,0,0,0,4,3,0,4,1,2,4,0,1,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281540,PENUGONDA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,3,7,7,7,4,7,7,0,0,0,0,0,4,0,1,0,1,0,6,1,5,6,2,0,0,7,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281540,PENUGONDA,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,2,2,0,1,2,2,1,0,2,2,0,0,0,0,0,2,0,0,0,1,0,2,0,1,2,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281541,ACHANTA,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281541,ACHANTA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,63,63,0,6,61,63,62,2,3,3,0,0,0,0,9,9,0,0,14,12,0,62,19,4,34,0,4,0,62,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281541,ACHANTA,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,1,1,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281541,ACHANTA,6,SS (I-X),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281541,ACHANTA,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,1,1,0,1,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281541,ACHANTA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,7,7,0,4,7,7,7,2,6,6,0,0,0,0,2,6,0,3,1,4,1,7,3,2,6,0,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281541,ACHANTA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,3,3,0,1,3,3,3,2,3,3,0,0,0,0,0,1,0,0,0,0,0,3,0,1,1,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281541,ACHANTA,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281541,ACHANTA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,4,4,4,4,2,4,4,0,0,0,0,1,4,0,0,0,0,0,4,2,0,4,0,0,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281541,ACHANTA,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,0,2,0,0,0,0,0,2,0,0,1,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281542,PODURU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281542,PODURU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,62,62,0,9,55,61,58,0,1,1,0,0,0,0,5,9,0,0,43,23,0,62,47,2,38,1,2,0,49,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281542,PODURU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,2,1,2,2,0,0,0,0,1,3,0,0,0,2,0,2,2,2,2,0,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281542,PODURU,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281542,PODURU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,8,8,0,7,8,8,8,0,5,5,0,0,0,0,5,5,0,4,3,8,1,8,7,5,8,1,3,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281542,PODURU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,1,2,2,0,0,0,0,1,2,0,0,0,1,0,2,1,1,2,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281542,PODURU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,7,7,0,5,7,7,7,0,0,0,0,0,0,0,1,2,0,0,5,3,0,7,7,2,5,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281542,PODURU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,2,3,3,2,2,2,0,0,0,0,1,2,0,0,0,1,0,2,2,0,1,0,1,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281542,PODURU,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,2,2,0,0,2,2,2,1,2,2,0,0,0,0,0,1,0,0,0,0,0,2,1,0,2,0,1,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,0,1,0,0,0,1,0,3,2,2,3,0,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,11,HSS (XI-XII),1,Department of Education,Urban,1,Boys,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,11,HSS (XI-XII),1,Department of Education,Urban,2,Girls,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,3,0,0,2,2,2,1,1,1,0,0,0,0,2,2,0,2,0,2,1,0,0,1,2,1,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,11,HSS (XI-XII),4,Government Aided,Urban,3,Co-Ed,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,1,PS (I-V),3,Local body,Rural,3,Co-Ed,55,55,0,10,50,55,53,4,17,17,0,0,0,0,17,5,0,0,9,24,0,55,47,4,34,0,8,0,43,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,6,6,6,5,4,5,5,0,0,0,0,0,3,0,0,0,0,0,6,4,1,6,0,0,0,6,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,1,PS (I-V),3,Local body,Urban,3,Co-Ed,23,23,0,1,22,23,22,1,10,10,0,0,0,0,3,4,0,0,11,1,0,23,10,1,13,1,1,0,20,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,9,9,0,8,9,9,9,7,9,9,0,0,0,0,0,0,0,0,0,0,0,9,6,1,7,0,0,0,7,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,1,PS (I-V),6,Other Govt. managed schools,Urban,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,0,1,0,0,0,0,0,3,3,1,3,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,1,2,0,3,0,0,0,3,2,0,3,2,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,6,SS (I-X),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,1,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,6,6,0,5,6,6,6,6,6,6,0,0,0,0,1,1,0,4,0,1,0,6,3,1,5,2,1,0,6,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,6,SS (I-X),8,Unrecognized,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,7,SS (VI-X),3,Local body,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,7,7,0,6,6,7,6,6,7,7,0,0,0,0,3,4,0,5,2,6,2,6,5,4,4,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,3,3,0,1,2,3,2,0,3,3,0,0,0,0,0,1,0,0,1,1,0,3,3,0,3,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,7,SS (VI-X),3,Local body,Urban,3,Co-Ed,5,5,0,5,5,5,5,3,4,4,0,0,0,0,2,3,0,4,2,3,0,5,3,3,5,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,1,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,5,5,0,2,5,5,5,0,2,2,0,0,0,0,1,3,0,0,3,0,0,5,4,1,3,0,1,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,5,6,6,6,5,6,6,0,0,0,0,1,3,0,1,0,1,0,6,2,3,6,1,0,0,5,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,7,7,0,6,7,7,7,5,7,7,0,0,0,0,0,3,0,2,0,0,0,7,1,1,6,2,0,0,6,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281543,PALACOLE,2,UPS (I-VIII),8,Unrecognized,Urban,3,Co-Ed,5,5,0,5,5,5,5,3,5,5,0,0,0,0,2,2,0,2,0,3,0,5,2,2,4,1,1,0,5,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281544,ELAMANCHILI,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,0,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281544,ELAMANCHILI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,78,78,0,16,77,78,74,0,2,2,0,0,0,0,14,5,0,1,13,33,0,78,54,0,47,3,5,0,73,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281544,ELAMANCHILI,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,4,4,0,1,4,4,3,1,2,2,0,0,0,0,0,2,0,1,0,2,0,4,1,0,3,0,1,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281544,ELAMANCHILI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,1,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281544,ELAMANCHILI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,11,11,0,11,11,11,11,4,9,9,0,0,0,0,4,8,0,6,3,11,1,11,10,0,11,0,1,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281544,ELAMANCHILI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,8,8,0,4,8,8,8,0,2,2,0,0,0,0,1,0,0,0,5,6,0,8,5,0,4,1,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281544,ELAMANCHILI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,0,2,2,0,0,0,0,0,2,0,0,0,1,0,2,2,0,2,0,1,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281544,ELAMANCHILI,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,2,2,0,1,2,2,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,2,1,0,2,0,1,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,Girls,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,1,2,2,1,1,1,0,0,0,0,1,1,0,0,0,1,0,2,1,1,2,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,9,9,0,0,5,9,9,5,5,5,0,0,0,0,7,6,0,9,0,3,4,9,5,5,7,3,2,0,8,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,84,83,0,13,45,78,79,1,5,5,0,0,0,0,25,8,0,0,4,15,0,84,48,5,22,8,8,0,71,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,6,6,6,6,3,6,6,0,0,0,0,0,6,0,3,0,1,0,6,3,2,6,3,0,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,2,2,0,2,2,2,2,0,0,0,0,0,0,0,2,2,0,0,0,0,0,2,0,1,2,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,1,PS (I-V),3,Local body,Urban,3,Co-Ed,20,20,0,1,17,20,18,2,8,8,0,0,0,0,11,16,0,0,6,2,0,20,8,0,6,1,4,0,13,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,5,5,0,1,4,5,4,1,2,2,0,0,0,0,1,0,0,1,1,0,0,5,2,0,4,0,1,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,8,8,0,7,8,8,8,6,7,7,0,0,0,0,5,7,0,7,0,5,0,8,3,4,8,4,2,0,8,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,2,2,0,2,2,2,2,1,1,1,0,0,0,0,2,2,0,1,0,0,0,2,0,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,6,SS (I-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,0,1,1,0,1,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,7,SS (VI-X),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,7,SS (VI-X),1,Department of Education,Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,9,8,0,8,9,9,9,3,5,5,0,0,0,0,2,4,0,5,0,6,0,9,8,5,7,2,1,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,5,5,6,6,3,4,4,0,0,0,0,1,5,0,3,0,0,0,6,3,2,6,1,1,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,7,SS (VI-X),3,Local body,Urban,3,Co-Ed,5,5,0,3,5,5,5,1,4,4,0,0,0,0,1,5,0,3,2,3,0,5,0,3,3,1,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,5,5,0,3,5,5,5,1,2,2,0,0,0,0,1,4,0,1,2,2,0,5,2,0,5,0,1,0,4,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,11,11,0,10,10,11,10,10,10,10,0,0,0,0,6,8,0,8,0,2,3,11,5,4,10,4,0,0,9,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,7,SS (VI-X),8,Unrecognized,Urban,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,1,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,8,8,0,2,5,8,8,1,3,3,0,0,0,0,3,1,0,0,4,6,0,8,5,4,3,2,3,0,6,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,2,2,2,0,1,1,0,0,0,0,0,1,0,1,0,2,0,2,2,2,2,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,2,2,0,1,2,2,2,1,1,1,0,0,0,0,0,2,0,0,0,1,0,2,0,1,2,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,6,6,0,3,6,6,6,3,5,5,0,0,0,0,3,4,0,0,3,3,0,6,3,1,2,1,0,0,5,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,2,UPS (I-VIII),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,3,3,3,3,1,1,1,0,0,0,0,0,2,0,2,0,1,0,3,1,1,3,1,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,2,UPS (I-VIII),8,Unrecognized,Urban,3,Co-Ed,3,3,0,2,3,3,3,2,2,2,0,0,0,0,2,3,0,1,0,2,0,3,2,1,3,2,1,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,4,UPS (VI-VIII),3,Local body,Rural,3,Co-Ed,3,3,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281545,NARSAPURAM,4,UPS (VI-VIII),3,Local body,Urban,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281546,MOGALTUR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281546,MOGALTUR,1,PS (I-V),3,Local body,Rural,3,Co-Ed,74,74,0,5,65,73,73,0,2,2,0,0,0,0,13,7,0,2,12,42,0,73,12,21,39,0,10,0,66,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281546,MOGALTUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,9,9,0,5,9,9,9,6,8,8,0,0,0,0,0,8,0,2,0,7,0,9,5,8,9,0,5,0,9,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281546,MOGALTUR,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281546,MOGALTUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281546,MOGALTUR,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,10,10,0,8,10,10,10,4,8,8,0,0,0,0,2,4,0,4,3,10,1,10,4,6,8,0,1,0,1,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281546,MOGALTUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,1,2,2,0,0,0,0,2,3,0,1,0,3,0,3,3,3,3,1,3,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281546,MOGALTUR,7,SS (VI-X),8,Unrecognized,Rural,3,Co-Ed,2,2,0,2,2,2,2,1,1,1,0,0,0,0,0,2,0,1,0,2,0,2,0,0,2,0,0,0,2,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281546,MOGALTUR,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,5,5,0,2,4,5,5,1,1,2,0,0,0,0,0,0,0,0,1,3,0,5,0,3,2,0,0,0,3,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281546,MOGALTUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,3,5,5,5,4,4,4,0,0,0,0,0,3,0,3,0,2,0,5,2,2,5,1,2,0,5,0,0
+2012-13,28,Andhra Pradesh,2815,WEST GODAVARI,281546,MOGALTUR,4,UPS (VI-VIII),3,Local body,Rural,3,Co-Ed,4,4,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,3,0,0,0,0,0,0

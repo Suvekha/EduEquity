@@ -1,0 +1,356 @@
+Academic_Year,State_Code,State_Name,District_Code,District_Name,Block_Code,Udise_Block_Name,Location,School_Category_Id,School_Category_Name,School_Management_Id,School_Management_Name,Total_Number_of_Schools,Building,Boundary_Wall,Single_Class_Room,Separate_Room_for_Headmaster,Land_Available,Electricity,Functional_Electricity,Solar_Panel,Furniture,Playground,Library_or_Reading_Corner_or_Book_Bank,Librarian,Newspaper,Kitchen_Garden,Boy_Toilet,Functional_Boy_Toilet,Girl_Toilet,Functional_Girl_Toilet,Toilet_Facility,Functional_Toilet_Facility,Functional_Urinal_Boy,Functional_Urinal_Girl,Functional_Urinal,Functional_Toilet_and_Urinal,Drinking_Water,Functional_Drinking_Water,Water_Purifier,Rain_Water_Harvesting,Water_Tested,Handwash,Incinerator,WASH_Facility_Drinking_Water_Toilet_and_Handwash,Ramps,Medical_Checkup,Complete_Medical_Checkup,Internet,Computer_Available
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92801,RAHI,Rural,1,PS (I-V),1,Department of Education,105,97,63,2,76,62,55,59,2,0,58,86,2,5,8,105,105,105,105,105,105,16,17,17,17,105,105,0,1,0,101,0,101,75,94,83,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92801,RAHI,Rural,1,PS (I-V),2,Tribal Welfare Department,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92801,RAHI,Rural,1,PS (I-V),5,Private Unaided (Recognized),37,37,28,0,16,13,24,25,2,0,31,11,0,8,2,37,37,37,37,37,37,11,11,11,11,37,37,1,2,6,37,0,37,5,9,3,4,8
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92801,RAHI,Rural,1,PS (I-V),98,Madarsa unrecognized,1,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92801,RAHI,Rural,2,UPS (I-VIII),1,Department of Education,24,24,9,0,12,12,13,14,2,0,20,23,1,0,5,24,24,24,24,24,24,10,10,10,10,24,24,0,0,0,23,22,23,16,21,17,1,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92801,RAHI,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),2,2,2,0,1,2,2,2,1,0,2,0,0,1,0,2,2,2,2,2,2,1,1,1,1,2,2,0,1,1,2,1,2,1,1,1,1,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92801,RAHI,Rural,2,UPS (I-VIII),98,Madarsa unrecognized,2,2,2,1,1,0,1,1,0,0,2,0,0,0,1,2,2,2,2,2,2,0,0,0,0,2,2,0,0,0,2,1,2,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92801,RAHI,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,0,0,0,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92801,RAHI,Rural,4,UPS (VI-VIII),1,Department of Education,39,37,14,0,36,27,19,20,1,0,30,28,1,1,2,38,38,39,39,39,39,8,9,9,9,39,39,0,2,0,37,31,37,20,34,33,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92801,RAHI,Rural,4,UPS (VI-VIII),5,Private Unaided (Recognized),8,8,6,0,6,5,4,4,1,0,6,3,0,2,0,8,8,7,7,8,8,1,1,1,1,8,8,1,2,2,7,2,7,2,2,0,0,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92801,RAHI,Rural,5,HSS (VI-XII),4,Government Aided,1,1,1,0,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,0,0,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92801,RAHI,Rural,5,HSS (VI-XII),5,Private Unaided (Recognized),1,1,1,0,0,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92801,RAHI,Rural,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,1,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92801,RAHI,Rural,7,SS (VI-X),5,Private Unaided (Recognized),5,5,4,0,3,3,4,4,0,0,4,3,2,2,0,5,5,5,5,5,5,0,0,0,0,5,5,0,0,0,5,1,5,1,1,1,2,3
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92801,RAHI,Rural,8,SS (IX-X),5,Private Unaided (Recognized),3,3,3,0,2,3,3,3,1,0,2,2,1,1,0,3,3,3,3,3,3,0,0,0,0,3,3,0,0,1,3,0,3,1,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92801,RAHI,Rural,10,HSS (IX-XII),4,Government Aided,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92801,RAHI,Rural,10,HSS (IX-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,0,1,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92801,RAHI,Rural,10,HSS (IX-XII),98,Madarsa unrecognized,1,1,1,0,1,1,1,1,0,0,1,0,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92801,RAHI,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,0,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92801,RAHI,Urban,5,HSS (VI-XII),1,Department of Education,1,1,0,0,1,1,1,1,0,0,1,0,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,0,1,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92802,AMAWAN,Rural,1,PS (I-V),1,Department of Education,107,107,71,0,87,75,69,70,0,0,71,107,6,4,33,102,80,105,83,107,87,41,43,46,43,107,106,0,7,2,107,0,87,87,107,107,1,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92802,AMAWAN,Rural,1,PS (I-V),5,Private Unaided (Recognized),16,16,13,0,15,11,12,12,3,0,15,2,0,8,5,16,16,15,15,16,16,12,11,12,12,16,16,0,0,1,16,0,16,6,13,12,1,6
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92802,AMAWAN,Rural,2,UPS (I-VIII),1,Department of Education,23,23,12,0,23,21,22,22,0,0,21,23,0,0,7,23,23,23,23,23,23,20,21,21,21,23,23,0,0,0,23,0,23,23,23,23,0,3
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92802,AMAWAN,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),9,9,6,0,6,6,7,7,1,0,9,2,1,3,5,9,9,9,9,9,9,7,6,7,7,9,9,1,0,1,8,2,8,4,9,9,4,6
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92802,AMAWAN,Rural,4,UPS (VI-VIII),1,Department of Education,30,29,13,0,29,27,14,14,1,0,26,29,6,3,11,28,21,30,22,30,23,11,12,12,12,30,30,1,1,3,30,3,23,16,30,30,0,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92802,AMAWAN,Rural,4,UPS (VI-VIII),5,Private Unaided (Recognized),3,3,3,0,3,2,3,3,0,0,3,1,0,2,2,3,3,3,3,3,3,3,3,3,3,3,3,0,0,0,3,0,3,3,2,2,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92802,AMAWAN,Rural,5,HSS (VI-XII),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92802,AMAWAN,Rural,5,HSS (VI-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92802,AMAWAN,Rural,5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,1,1,1,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92802,AMAWAN,Rural,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92802,AMAWAN,Rural,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,2,1,0,2,2,2,2,1,0,2,2,0,2,2,2,2,2,2,2,2,1,1,1,1,2,2,0,0,0,2,0,2,0,2,2,0,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92802,AMAWAN,Rural,7,SS (VI-X),5,Private Unaided (Recognized),2,2,2,0,1,1,2,2,0,0,2,0,0,1,1,2,2,2,2,2,2,2,0,2,2,2,2,0,0,0,2,0,2,0,1,1,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92802,AMAWAN,Rural,8,SS (IX-X),1,Department of Education,1,1,0,0,1,1,1,1,0,0,0,1,0,1,0,1,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92802,AMAWAN,Rural,10,HSS (IX-XII),1,Department of Education,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,0,0,1,1,1,1,0,1,1,1,1,1,1,0,0,1,1,1,0,1,0,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92803,HARCHANDPUR,Rural,1,PS (I-V),1,Department of Education,82,82,53,1,62,45,26,29,3,0,47,79,4,6,8,81,81,81,81,81,81,64,62,64,63,82,82,2,2,1,77,0,76,53,74,68,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92803,HARCHANDPUR,Rural,1,PS (I-V),4,Government Aided,3,3,0,0,0,0,0,0,0,0,1,2,0,0,0,3,3,3,3,3,3,3,3,3,3,3,3,0,0,0,3,0,3,1,3,3,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92803,HARCHANDPUR,Rural,1,PS (I-V),5,Private Unaided (Recognized),23,23,15,0,12,12,11,12,4,0,17,14,0,7,0,23,23,23,23,23,23,20,20,20,20,23,23,0,0,0,16,0,16,3,8,1,4,5
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92803,HARCHANDPUR,Rural,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,1,0,0,1,1,0,0,0,0,1,0,0,0,0,1,1,0,0,1,1,1,0,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92803,HARCHANDPUR,Rural,2,UPS (I-VIII),1,Department of Education,20,19,10,0,18,13,11,11,2,0,13,20,0,0,3,20,20,20,20,20,20,20,20,20,20,20,20,0,1,1,19,2,19,12,20,18,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92803,HARCHANDPUR,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),3,3,1,0,2,2,1,1,1,0,2,3,0,2,0,3,3,3,3,3,3,3,3,3,3,3,3,0,1,0,3,1,3,0,1,1,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92803,HARCHANDPUR,Rural,4,UPS (VI-VIII),1,Department of Education,20,20,12,0,18,11,9,9,2,1,12,20,3,0,3,19,19,20,20,20,20,12,12,12,12,20,20,0,0,0,18,2,18,13,20,18,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92803,HARCHANDPUR,Rural,4,UPS (VI-VIII),4,Government Aided,3,3,3,0,3,1,2,2,0,0,3,1,0,2,0,3,3,3,3,3,3,2,2,2,2,3,3,0,0,0,2,0,2,0,3,3,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92803,HARCHANDPUR,Rural,4,UPS (VI-VIII),5,Private Unaided (Recognized),7,7,6,0,4,2,3,3,0,0,7,4,0,2,0,7,7,7,7,7,7,6,6,6,6,7,7,0,1,0,6,1,6,2,3,1,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92803,HARCHANDPUR,Rural,5,HSS (VI-XII),1,Department of Education,1,1,0,0,0,1,0,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92803,HARCHANDPUR,Rural,5,HSS (VI-XII),4,Government Aided,2,2,2,0,1,1,2,2,0,0,2,1,1,2,0,1,1,1,1,1,1,2,2,2,1,2,2,0,0,0,2,0,1,2,2,2,2,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92803,HARCHANDPUR,Rural,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,0,0,0,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92803,HARCHANDPUR,Rural,8,SS (IX-X),1,Department of Education,2,2,2,0,0,1,1,1,0,1,1,2,1,1,0,2,2,2,2,2,2,2,1,2,2,2,2,0,1,0,2,0,2,1,2,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92803,HARCHANDPUR,Rural,8,SS (IX-X),5,Private Unaided (Recognized),1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92804,BACHHRAWAN,Rural,1,PS (I-V),1,Department of Education,101,101,66,0,80,78,62,65,1,0,78,93,3,1,12,100,94,99,95,100,95,52,51,56,56,98,75,2,2,6,90,0,84,57,101,81,1,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92804,BACHHRAWAN,Rural,1,PS (I-V),5,Private Unaided (Recognized),10,9,9,0,6,6,7,7,0,0,8,1,0,2,0,10,9,10,9,10,9,2,2,2,2,10,9,1,0,0,7,0,6,1,2,1,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92804,BACHHRAWAN,Rural,2,UPS (I-VIII),1,Department of Education,4,4,2,0,4,4,4,4,0,0,4,4,0,0,1,4,4,4,4,4,4,3,3,3,3,4,4,0,0,0,4,1,4,3,4,4,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92804,BACHHRAWAN,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),6,6,6,0,6,6,4,4,2,0,6,6,1,5,1,6,6,6,6,6,6,4,4,4,4,6,5,2,1,2,6,3,6,1,3,2,2,3
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92804,BACHHRAWAN,Rural,3,HSS (I-XII),2,Tribal Welfare Department,2,2,2,0,1,2,2,2,1,0,2,2,0,0,0,1,1,1,1,2,2,1,0,1,1,2,2,1,0,1,2,1,2,0,2,1,1,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92804,BACHHRAWAN,Rural,3,HSS (I-XII),4,Government Aided,1,1,1,0,1,1,1,1,1,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92804,BACHHRAWAN,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),2,2,2,0,1,2,2,2,0,0,2,1,0,2,0,2,2,2,2,2,2,1,1,1,1,2,1,1,0,1,2,2,2,1,1,0,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92804,BACHHRAWAN,Rural,4,UPS (VI-VIII),1,Department of Education,20,20,13,1,19,19,16,17,1,0,18,19,1,1,2,16,14,18,17,19,18,8,9,10,10,20,16,1,0,2,18,7,16,9,20,14,0,4
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92804,BACHHRAWAN,Rural,4,UPS (VI-VIII),4,Government Aided,3,3,3,0,2,2,2,2,2,0,2,1,0,1,0,3,3,3,3,3,3,0,0,0,0,3,3,0,0,0,3,2,3,1,1,1,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92804,BACHHRAWAN,Rural,4,UPS (VI-VIII),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,2,0,1,0,2,2,2,2,2,2,2,1,2,2,2,2,1,0,1,2,0,2,0,2,1,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92804,BACHHRAWAN,Rural,5,HSS (VI-XII),1,Department of Education,1,1,1,0,1,1,1,1,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,1,1,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92804,BACHHRAWAN,Rural,5,HSS (VI-XII),5,Private Unaided (Recognized),5,5,4,0,5,5,5,5,3,0,4,4,3,3,0,5,5,5,5,5,5,3,3,3,3,5,5,2,1,2,5,3,5,2,2,1,2,3
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92804,BACHHRAWAN,Rural,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,1,0,0,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92804,BACHHRAWAN,Rural,7,SS (VI-X),5,Private Unaided (Recognized),4,4,3,0,3,2,3,3,2,0,4,2,1,2,1,4,4,4,4,4,4,2,1,2,2,4,3,1,2,1,4,2,4,4,1,1,3,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92804,BACHHRAWAN,Rural,7,SS (VI-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,1,1,0,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,0,1,0,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92804,BACHHRAWAN,Rural,8,SS (IX-X),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,1,0,0,1,0,1,0,0,0,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92804,BACHHRAWAN,Rural,10,HSS (IX-XII),5,Private Unaided (Recognized),4,4,4,0,4,3,4,4,0,0,3,3,2,3,0,4,4,4,4,4,4,2,2,2,2,4,3,1,3,1,4,3,4,2,2,1,3,3
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92804,BACHHRAWAN,Urban,1,PS (I-V),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,1,0,2,2,1,2,1,2,2,2,2,2,2,1,1,1,1,2,2,1,1,0,2,0,2,0,2,0,2,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92804,BACHHRAWAN,Urban,5,HSS (VI-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,0,1,1,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92804,BACHHRAWAN,Urban,7,SS (VI-X),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,2,0,2,2,1,2,1,2,2,2,2,2,2,1,1,1,1,2,2,1,0,1,2,0,2,1,1,0,2,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92805,SHIVGARH,Rural,1,PS (I-V),1,Department of Education,82,81,62,1,80,60,57,58,0,0,69,75,6,1,8,82,82,82,82,82,82,75,76,76,76,82,82,2,2,3,80,0,80,34,81,72,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92805,SHIVGARH,Rural,1,PS (I-V),4,Government Aided,3,3,2,0,2,2,1,1,0,0,3,2,0,2,0,3,3,3,3,3,3,3,3,3,3,3,3,0,0,1,3,0,3,0,2,1,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92805,SHIVGARH,Rural,1,PS (I-V),5,Private Unaided (Recognized),9,9,9,0,9,8,8,8,0,0,7,2,1,6,1,9,9,9,9,9,9,8,8,8,8,9,9,0,0,0,9,0,9,1,1,0,0,3
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92805,SHIVGARH,Rural,2,UPS (I-VIII),1,Department of Education,23,23,20,0,22,19,17,17,0,0,20,23,1,0,0,23,23,23,23,23,23,21,21,21,21,23,23,0,0,0,23,0,23,9,23,19,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92805,SHIVGARH,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),5,5,5,0,3,3,5,5,1,0,4,2,2,3,1,5,5,5,5,5,5,5,5,5,5,5,5,0,0,0,5,0,5,1,2,2,2,4
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92805,SHIVGARH,Rural,4,UPS (VI-VIII),1,Department of Education,11,11,7,0,11,8,8,8,1,0,10,11,3,1,3,10,10,11,11,11,11,9,10,10,10,11,11,0,0,0,11,0,11,8,11,9,0,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92805,SHIVGARH,Rural,4,UPS (VI-VIII),4,Government Aided,2,2,2,0,2,1,1,1,0,0,2,0,0,0,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,2,0,2,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92805,SHIVGARH,Rural,4,UPS (VI-VIII),5,Private Unaided (Recognized),8,8,8,0,7,5,8,8,1,0,8,3,0,2,0,7,7,8,8,8,8,5,6,6,6,8,8,0,0,0,8,0,8,0,3,1,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92805,SHIVGARH,Rural,4,UPS (VI-VIII),6,Other Govt. managed schools,1,1,1,0,1,1,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,1,1,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92805,SHIVGARH,Rural,5,HSS (VI-XII),4,Government Aided,2,2,2,0,2,1,2,2,1,0,2,1,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,1,0,1,2,0,2,0,1,1,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92805,SHIVGARH,Rural,6,SS (I-X),92,Kendriya Vidyalaya / Central School,1,1,1,0,0,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92805,SHIVGARH,Rural,7,SS (VI-X),5,Private Unaided (Recognized),1,1,1,0,0,0,1,1,0,0,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92805,SHIVGARH,Rural,8,SS (IX-X),1,Department of Education,1,1,1,0,1,1,0,1,0,0,1,1,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92805,SHIVGARH,Rural,8,SS (IX-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,0,0,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92805,SHIVGARH,Rural,10,HSS (IX-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,0,0,1,1,1,1,0,1,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92806,MAHRAJGANJ,Rural,1,PS (I-V),1,Department of Education,96,96,56,1,84,81,36,45,0,0,73,85,5,10,6,93,88,95,91,96,91,30,29,31,30,96,96,0,1,2,90,0,87,68,91,80,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92806,MAHRAJGANJ,Rural,1,PS (I-V),5,Private Unaided (Recognized),22,22,17,0,10,7,15,15,2,0,13,6,1,5,1,22,22,22,22,22,22,6,6,6,6,22,22,1,0,3,14,0,14,6,8,1,1,4
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92806,MAHRAJGANJ,Rural,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,1,1,0,0,0,1,1,0,0,1,0,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92806,MAHRAJGANJ,Rural,2,UPS (I-VIII),1,Department of Education,18,18,7,0,13,14,10,11,0,0,15,15,3,2,0,18,17,18,17,18,17,10,11,11,10,18,18,0,0,1,18,4,17,14,17,15,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92806,MAHRAJGANJ,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),4,4,4,0,2,2,3,3,1,0,3,2,2,3,0,4,4,4,4,4,4,2,2,2,2,4,4,2,2,2,4,2,4,2,4,1,3,3
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92806,MAHRAJGANJ,Rural,2,UPS (I-VIII),98,Madarsa unrecognized,1,1,1,0,0,0,1,1,0,0,0,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92806,MAHRAJGANJ,Rural,3,HSS (I-XII),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92806,MAHRAJGANJ,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),2,2,2,0,2,1,1,1,1,0,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,1,0,0,2,1,2,0,2,2,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92806,MAHRAJGANJ,Rural,4,UPS (VI-VIII),1,Department of Education,15,15,9,0,9,6,7,9,0,0,9,14,0,2,1,13,12,15,14,15,14,5,7,7,7,15,15,0,0,0,13,4,12,5,12,11,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92806,MAHRAJGANJ,Rural,4,UPS (VI-VIII),4,Government Aided,4,4,3,0,1,2,3,3,0,0,3,3,0,0,1,4,4,4,4,4,4,1,2,2,2,4,4,0,0,0,2,2,2,2,2,2,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92806,MAHRAJGANJ,Rural,4,UPS (VI-VIII),5,Private Unaided (Recognized),2,2,2,0,1,1,2,2,0,0,2,1,0,0,0,2,2,2,2,2,2,1,1,1,1,2,2,2,1,0,1,0,1,0,2,0,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92806,MAHRAJGANJ,Rural,5,HSS (VI-XII),1,Department of Education,2,2,2,0,2,2,2,2,0,0,1,2,1,2,0,1,1,2,2,2,2,1,2,2,2,2,2,1,0,0,2,1,2,0,2,1,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92806,MAHRAJGANJ,Rural,5,HSS (VI-XII),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92806,MAHRAJGANJ,Rural,5,HSS (VI-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,0,0,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92806,MAHRAJGANJ,Rural,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92806,MAHRAJGANJ,Rural,7,SS (VI-X),1,Department of Education,2,2,0,0,2,1,0,1,0,0,2,2,0,0,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,2,0,2,2,1,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92806,MAHRAJGANJ,Rural,7,SS (VI-X),5,Private Unaided (Recognized),1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92806,MAHRAJGANJ,Rural,8,SS (IX-X),5,Private Unaided (Recognized),1,1,0,0,1,1,0,0,0,0,0,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92806,MAHRAJGANJ,Rural,10,HSS (IX-XII),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92806,MAHRAJGANJ,Rural,10,HSS (IX-XII),5,Private Unaided (Recognized),1,1,1,0,0,0,1,1,0,0,1,0,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,1,0,0,1,0,1,0,1,1,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92806,MAHRAJGANJ,Urban,1,PS (I-V),1,Department of Education,1,1,0,0,1,1,0,1,0,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92808,KHIRON,Rural,1,PS (I-V),1,Department of Education,108,106,72,1,76,83,52,59,1,0,59,75,2,2,77,108,107,108,107,108,108,21,20,21,21,108,108,0,0,2,34,0,34,94,75,42,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92808,KHIRON,Rural,1,PS (I-V),4,Government Aided,1,1,1,0,1,1,0,0,0,0,1,0,0,1,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92808,KHIRON,Rural,1,PS (I-V),5,Private Unaided (Recognized),34,34,29,0,25,23,22,22,0,0,23,9,2,13,9,34,34,34,34,34,34,15,15,15,15,34,34,0,0,0,17,0,17,18,5,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92808,KHIRON,Rural,2,UPS (I-VIII),1,Department of Education,22,22,13,0,12,13,15,15,1,0,13,14,0,0,18,22,22,22,22,22,22,2,2,2,2,22,22,0,0,0,4,17,4,19,11,5,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92808,KHIRON,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),6,6,6,0,3,3,3,4,0,0,3,1,1,3,1,6,6,6,6,6,6,1,1,1,1,6,6,1,0,0,4,2,4,2,0,0,1,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92808,KHIRON,Rural,4,UPS (VI-VIII),1,Department of Education,18,17,9,0,14,15,12,14,2,0,10,8,0,0,14,17,17,18,18,18,18,2,1,2,2,18,18,1,1,0,4,1,4,12,8,6,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92808,KHIRON,Rural,4,UPS (VI-VIII),4,Government Aided,2,2,2,0,2,2,1,1,0,0,2,2,0,0,2,2,2,2,2,2,2,0,0,0,0,2,2,1,0,0,1,1,1,0,1,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92808,KHIRON,Rural,4,UPS (VI-VIII),5,Private Unaided (Recognized),12,12,11,0,8,6,6,6,0,0,6,6,1,3,5,12,12,12,12,12,12,9,9,9,9,12,12,0,0,0,7,3,7,2,1,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92808,KHIRON,Rural,5,HSS (VI-XII),1,Department of Education,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92808,KHIRON,Rural,5,HSS (VI-XII),4,Government Aided,1,1,1,0,1,1,1,1,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,1,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92808,KHIRON,Rural,5,HSS (VI-XII),5,Private Unaided (Recognized),3,3,3,0,2,2,1,1,0,0,2,2,1,1,0,3,3,3,3,3,3,1,1,1,1,3,3,0,0,0,2,0,2,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92808,KHIRON,Rural,7,SS (VI-X),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92808,KHIRON,Rural,10,HSS (IX-XII),1,Department of Education,2,2,2,0,2,2,2,2,0,0,2,0,0,1,0,2,2,2,2,2,2,0,0,0,0,2,2,0,0,0,2,0,2,2,0,0,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92808,KHIRON,Rural,10,HSS (IX-XII),4,Government Aided,1,1,1,0,1,1,1,1,1,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,0,0,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92808,KHIRON,Rural,10,HSS (IX-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,0,1,0,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92809,SATAON,Rural,1,PS (I-V),1,Department of Education,89,89,50,2,54,48,51,68,1,0,54,86,6,5,9,88,81,89,83,89,83,22,21,22,22,88,87,1,0,2,69,0,64,78,78,56,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92809,SATAON,Rural,1,PS (I-V),4,Government Aided,6,6,5,0,3,3,3,3,1,0,5,4,0,1,0,6,6,6,6,6,6,3,3,3,3,3,3,0,1,0,2,0,2,1,5,1,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92809,SATAON,Rural,1,PS (I-V),5,Private Unaided (Recognized),18,16,12,0,13,11,10,11,2,0,16,8,1,6,2,18,17,18,17,18,17,14,14,14,13,13,13,0,2,4,13,0,11,0,7,0,3,6
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92809,SATAON,Rural,2,UPS (I-VIII),1,Department of Education,15,15,3,0,11,8,10,12,0,0,8,14,1,2,0,15,14,15,14,15,14,4,4,4,4,15,15,0,0,0,8,0,8,12,13,5,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92809,SATAON,Rural,2,UPS (I-VIII),4,Government Aided,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92809,SATAON,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),7,7,7,0,6,5,3,3,2,0,7,4,3,5,1,7,7,7,7,7,7,4,4,4,4,5,4,3,0,2,6,5,5,2,6,1,2,3
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92809,SATAON,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92809,SATAON,Rural,4,UPS (VI-VIII),1,Department of Education,20,19,8,0,18,15,8,10,0,0,14,17,1,3,3,18,18,20,19,20,19,9,9,9,9,20,20,0,1,0,18,11,17,15,16,10,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92809,SATAON,Rural,4,UPS (VI-VIII),4,Government Aided,3,3,2,0,3,1,2,2,0,0,3,3,0,2,1,3,3,3,3,3,3,1,1,1,1,3,2,0,0,1,1,1,1,0,2,1,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92809,SATAON,Rural,4,UPS (VI-VIII),5,Private Unaided (Recognized),5,5,5,0,5,3,3,3,0,0,4,3,0,2,1,4,4,5,5,5,5,1,2,2,2,4,2,0,1,0,4,4,4,0,2,0,1,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92809,SATAON,Rural,5,HSS (VI-XII),4,Government Aided,3,2,2,0,2,2,2,2,0,0,3,3,2,2,0,3,3,3,3,3,3,3,3,3,3,1,1,0,1,0,2,0,1,2,2,0,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92809,SATAON,Rural,5,HSS (VI-XII),5,Private Unaided (Recognized),3,3,3,0,3,3,3,3,2,0,3,3,2,3,2,3,3,3,3,3,3,2,2,2,2,3,3,2,1,2,2,2,2,2,2,0,3,3
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92809,SATAON,Rural,6,SS (I-X),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,1,1,2,0,2,2,2,2,2,2,2,2,2,2,2,1,1,0,0,2,2,2,1,1,0,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92809,SATAON,Rural,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92809,SATAON,Rural,7,SS (VI-X),5,Private Unaided (Recognized),4,4,4,0,3,2,3,3,0,0,0,0,0,1,0,4,4,4,4,4,4,4,4,4,4,1,1,0,0,0,3,1,1,1,0,0,1,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92809,SATAON,Rural,10,HSS (IX-XII),1,Department of Education,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92809,SATAON,Rural,10,HSS (IX-XII),5,Private Unaided (Recognized),2,2,2,0,2,2,1,1,0,0,1,1,0,1,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,1,2,1,2,1,0,0,1,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92809,SATAON,Urban,1,PS (I-V),5,Private Unaided (Recognized),1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92810,GAURA,Rural,1,PS (I-V),1,Department of Education,70,69,33,0,66,63,35,38,27,1,47,49,0,8,34,69,67,69,68,70,68,55,55,55,55,69,51,0,18,18,65,0,64,60,63,10,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92810,GAURA,Rural,1,PS (I-V),5,Private Unaided (Recognized),26,26,14,0,26,25,4,6,6,0,14,2,0,1,2,26,26,26,25,26,26,23,22,23,23,26,25,0,6,2,18,0,18,0,6,0,3,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92810,GAURA,Rural,2,UPS (I-VIII),1,Department of Education,11,11,7,0,11,9,7,8,4,0,6,11,1,0,5,11,11,11,11,11,11,7,7,7,7,11,6,0,1,1,10,11,10,9,11,0,1,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92810,GAURA,Rural,4,UPS (VI-VIII),1,Department of Education,19,19,11,0,18,17,16,17,9,0,14,13,1,3,8,18,17,19,18,19,18,15,15,15,15,18,11,3,9,4,19,14,17,10,13,3,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92810,GAURA,Rural,4,UPS (VI-VIII),4,Government Aided,2,2,2,0,2,2,1,1,1,0,2,2,0,1,1,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,1,1,1,1,1,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92810,GAURA,Rural,4,UPS (VI-VIII),5,Private Unaided (Recognized),7,7,5,0,7,7,3,3,2,0,4,4,1,2,0,7,7,7,7,7,7,6,6,6,6,7,7,0,2,1,5,1,5,5,3,1,2,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92810,GAURA,Rural,5,HSS (VI-XII),4,Government Aided,2,2,2,0,2,2,1,1,0,0,1,1,1,1,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,2,0,2,1,0,0,2,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92810,GAURA,Rural,7,SS (VI-X),5,Private Unaided (Recognized),2,2,2,0,2,2,0,0,0,0,2,1,1,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,2,1,2,1,2,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92810,GAURA,Rural,8,SS (IX-X),1,Department of Education,1,1,0,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,1,0,1,1,0,0,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92810,GAURA,Rural,10,HSS (IX-XII),1,Department of Education,1,1,1,0,1,1,1,1,0,0,0,0,0,1,0,0,0,1,1,1,1,0,1,1,1,1,1,1,0,0,1,0,1,0,0,0,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92810,GAURA,Rural,10,HSS (IX-XII),4,Government Aided,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92810,GAURA,Rural,10,HSS (IX-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,1,0,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,0,1,0,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92810,GAURA,Urban,1,PS (I-V),1,Department of Education,1,1,1,0,1,1,1,1,0,0,0,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92810,GAURA,Urban,1,PS (I-V),5,Private Unaided (Recognized),1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92811,JAGATPUR,Rural,1,PS (I-V),1,Department of Education,63,63,26,0,51,49,22,28,0,0,35,31,1,3,23,63,63,63,61,63,63,18,17,18,18,62,45,2,2,1,57,0,56,49,43,12,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92811,JAGATPUR,Rural,1,PS (I-V),4,Government Aided,4,4,2,0,3,3,1,1,0,0,3,1,0,1,0,4,3,4,3,4,3,1,1,1,1,4,4,0,1,0,4,0,3,1,3,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92811,JAGATPUR,Rural,1,PS (I-V),5,Private Unaided (Recognized),8,7,2,0,2,1,1,1,0,0,3,0,0,1,0,8,8,8,8,8,8,3,3,3,3,5,5,0,0,0,8,0,5,0,6,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92811,JAGATPUR,Rural,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,1,1,0,1,1,1,1,0,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92811,JAGATPUR,Rural,2,UPS (I-VIII),1,Department of Education,10,10,4,0,7,6,7,9,0,0,2,7,0,0,3,10,10,10,10,10,10,1,1,1,1,9,7,0,1,0,9,3,8,10,10,0,0,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92811,JAGATPUR,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),6,6,3,0,2,2,4,4,2,0,2,0,1,1,0,6,6,6,6,6,6,4,4,4,4,4,4,0,0,0,5,2,3,1,3,2,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92811,JAGATPUR,Rural,4,UPS (VI-VIII),1,Department of Education,15,14,6,0,15,13,7,8,2,0,12,4,0,2,4,14,14,15,15,15,15,4,4,4,4,14,8,0,0,0,13,5,13,6,6,2,0,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92811,JAGATPUR,Rural,4,UPS (VI-VIII),4,Government Aided,4,4,3,0,3,3,1,1,1,0,4,1,0,0,1,4,4,4,4,4,4,2,2,2,2,4,4,1,0,0,3,0,3,0,2,0,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92811,JAGATPUR,Rural,4,UPS (VI-VIII),5,Private Unaided (Recognized),2,2,1,0,0,0,0,0,0,0,1,1,0,0,0,2,2,2,2,2,2,0,0,0,0,2,1,0,0,0,2,1,2,0,1,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92811,JAGATPUR,Rural,5,HSS (VI-XII),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92811,JAGATPUR,Rural,7,SS (VI-X),5,Private Unaided (Recognized),3,3,3,0,2,1,1,1,0,1,1,0,0,1,0,3,3,3,3,3,3,0,0,0,0,3,3,0,0,0,3,2,3,1,2,0,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92811,JAGATPUR,Rural,8,SS (IX-X),1,Department of Education,1,1,0,0,1,0,1,1,0,0,0,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,0,0,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92811,JAGATPUR,Rural,10,HSS (IX-XII),5,Private Unaided (Recognized),2,2,2,0,2,2,1,1,0,0,1,0,0,1,0,2,2,2,2,2,2,1,1,1,1,2,2,0,0,0,2,0,2,2,1,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92812,ROHANIYA,Rural,1,PS (I-V),1,Department of Education,42,42,31,0,33,36,26,27,2,0,19,37,0,3,10,42,42,42,42,42,42,11,12,12,12,42,42,0,2,3,37,0,37,40,39,33,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92812,ROHANIYA,Rural,1,PS (I-V),5,Private Unaided (Recognized),12,12,8,0,5,7,12,12,1,0,12,2,0,5,2,12,12,12,12,12,12,8,7,8,8,12,12,1,1,0,7,0,7,1,4,1,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92812,ROHANIYA,Rural,2,UPS (I-VIII),1,Department of Education,6,6,5,0,2,2,6,6,0,0,3,6,0,0,1,6,6,6,6,6,6,2,2,2,2,6,6,0,0,2,5,2,5,4,5,5,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92812,ROHANIYA,Rural,4,UPS (VI-VIII),1,Department of Education,8,8,3,0,5,5,6,6,1,1,6,7,1,2,1,7,7,8,8,8,8,3,4,4,4,8,8,0,1,0,6,5,6,7,7,5,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92812,ROHANIYA,Rural,4,UPS (VI-VIII),5,Private Unaided (Recognized),4,4,4,0,0,0,4,4,0,0,4,1,1,0,0,4,4,4,4,4,4,3,3,3,3,4,4,0,0,0,1,0,1,0,1,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92812,ROHANIYA,Rural,5,HSS (VI-XII),1,Department of Education,1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92812,ROHANIYA,Rural,5,HSS (VI-XII),5,Private Unaided (Recognized),4,4,4,0,3,3,4,4,0,0,3,2,1,3,0,4,4,4,4,4,4,2,2,2,2,4,4,1,1,0,4,1,4,1,3,1,3,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92812,ROHANIYA,Rural,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,1,1,0,1,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92812,ROHANIYA,Rural,7,SS (VI-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92812,ROHANIYA,Rural,8,SS (IX-X),1,Department of Education,2,1,2,0,1,1,2,2,0,0,2,1,1,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,2,0,2,2,1,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92812,ROHANIYA,Rural,8,SS (IX-X),5,Private Unaided (Recognized),4,4,4,0,3,3,4,4,0,0,0,0,0,0,0,4,4,4,4,4,4,4,4,4,4,4,4,0,0,0,2,0,2,1,1,1,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92812,ROHANIYA,Rural,10,HSS (IX-XII),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,1,0,1,1,0,1,1,2,2,2,2,2,2,0,0,0,0,2,2,1,1,1,2,1,2,1,0,0,1,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92812,ROHANIYA,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92813,UNCHAHAR,Rural,1,PS (I-V),1,Department of Education,97,95,71,1,91,82,33,40,2,0,40,67,2,10,3,97,97,97,96,97,97,35,35,35,35,97,97,1,1,3,40,0,40,80,91,3,2,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92813,UNCHAHAR,Rural,1,PS (I-V),5,Private Unaided (Recognized),42,41,25,0,33,31,15,17,3,0,25,13,3,10,1,42,42,42,41,42,42,40,39,40,40,42,42,5,2,2,14,0,14,6,9,1,5,10
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92813,UNCHAHAR,Rural,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92813,UNCHAHAR,Rural,2,UPS (I-VIII),1,Department of Education,9,9,5,0,5,5,4,4,0,0,3,7,0,1,0,9,9,9,9,9,9,2,2,2,2,9,9,0,0,0,4,0,4,8,7,2,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92813,UNCHAHAR,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),9,8,8,0,6,6,5,5,3,0,5,5,1,4,2,9,9,9,9,9,9,8,8,8,8,9,9,3,0,2,6,5,6,3,3,1,7,6
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92813,UNCHAHAR,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),4,4,4,0,4,3,3,3,0,0,4,4,4,4,0,4,4,4,4,4,4,4,4,4,4,4,4,2,1,2,4,1,4,2,3,1,3,4
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92813,UNCHAHAR,Rural,4,UPS (VI-VIII),1,Department of Education,17,17,10,0,16,17,5,7,2,0,11,11,1,2,0,16,16,17,17,17,17,4,5,5,5,17,17,1,0,1,7,1,7,9,14,2,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92813,UNCHAHAR,Rural,4,UPS (VI-VIII),4,Government Aided,1,1,0,0,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,1,1,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92813,UNCHAHAR,Rural,4,UPS (VI-VIII),5,Private Unaided (Recognized),8,8,6,0,5,5,2,3,0,0,6,3,1,2,1,8,8,8,8,8,8,8,8,8,8,8,8,0,0,0,3,3,3,2,2,0,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92813,UNCHAHAR,Rural,5,HSS (VI-XII),4,Government Aided,3,3,3,0,3,3,3,3,0,0,3,2,1,3,1,3,3,3,3,3,3,3,3,3,3,3,3,0,0,0,2,0,2,1,3,0,2,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92813,UNCHAHAR,Rural,5,HSS (VI-XII),5,Private Unaided (Recognized),2,2,2,0,1,0,1,2,0,0,2,1,0,1,1,2,2,2,2,2,2,2,2,2,2,2,2,1,0,1,2,0,2,1,0,0,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92813,UNCHAHAR,Rural,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92813,UNCHAHAR,Rural,7,SS (VI-X),5,Private Unaided (Recognized),4,4,4,0,3,3,3,4,1,0,3,2,0,1,1,3,3,4,4,4,4,3,4,4,4,4,4,1,1,1,3,2,3,3,0,0,2,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92813,UNCHAHAR,Rural,8,SS (IX-X),5,Private Unaided (Recognized),2,1,1,0,1,0,0,0,0,0,1,2,1,1,0,2,2,2,2,2,2,2,2,2,2,2,2,1,0,1,1,1,1,0,0,0,1,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92813,UNCHAHAR,Urban,1,PS (I-V),1,Department of Education,1,1,1,0,1,1,1,1,0,0,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92813,UNCHAHAR,Urban,1,PS (I-V),5,Private Unaided (Recognized),1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,1,1,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92813,UNCHAHAR,Urban,4,UPS (VI-VIII),1,Department of Education,2,2,2,0,2,1,2,2,0,0,1,0,0,1,0,2,2,2,2,2,2,0,0,0,0,2,2,0,0,0,0,0,0,1,2,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92814,SALON,Rural,1,PS (I-V),5,Private Unaided (Recognized),3,3,2,0,1,2,3,3,0,0,1,1,0,1,2,3,3,3,3,3,3,1,1,1,1,3,3,1,1,0,2,0,2,0,1,1,1,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92814,SALON,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),2,2,2,0,1,1,2,2,0,0,2,1,0,1,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,2,0,2,2,1,1,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92814,SALON,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,1,2,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92814,SALON,Rural,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,2,2,0,1,1,2,2,0,0,2,0,0,0,0,2,2,2,2,2,2,1,1,1,1,2,2,0,0,0,2,0,2,1,1,1,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92814,SALON,Rural,7,SS (VI-X),5,Private Unaided (Recognized),1,1,1,0,0,0,1,1,0,0,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92817,CHHATOH,Rural,1,PS (I-V),5,Private Unaided (Recognized),5,5,5,0,4,4,1,1,1,0,3,0,3,2,3,5,5,5,5,5,5,4,4,4,4,5,5,0,1,2,4,0,4,1,3,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92817,CHHATOH,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,0,0,1,0,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,1,1,1,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92817,CHHATOH,Rural,4,UPS (VI-VIII),5,Private Unaided (Recognized),1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92817,CHHATOH,Rural,5,HSS (VI-XII),1,Department of Education,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,0,1,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92817,CHHATOH,Rural,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,1,1,0,1,1,2,2,0,0,1,1,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,0,0,2,2,0,2,0,2,1,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92817,CHHATOH,Rural,7,SS (VI-X),5,Private Unaided (Recognized),1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,0,1,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92818,DEEH,Rural,1,PS (I-V),5,Private Unaided (Recognized),4,3,4,0,0,0,2,2,0,0,0,0,0,0,0,4,4,4,4,4,4,4,4,4,4,4,4,0,0,0,1,0,1,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92818,DEEH,Rural,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92818,DEEH,Rural,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92818,DEEH,Rural,7,SS (VI-X),5,Private Unaided (Recognized),2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,1,0,1,0,0,0,0,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92818,DEEH,Rural,10,HSS (IX-XII),5,Private Unaided (Recognized),1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,0,0,0,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92819,DALMAU,Rural,1,PS (I-V),1,Department of Education,134,134,89,0,112,101,132,134,4,0,71,114,0,7,10,134,133,133,133,134,134,106,104,106,106,134,134,1,4,3,128,0,128,118,127,106,15,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92819,DALMAU,Rural,1,PS (I-V),4,Government Aided,6,6,5,0,5,4,6,6,0,0,4,1,0,0,0,6,6,6,6,6,6,2,2,2,2,6,6,0,0,0,6,0,6,2,4,1,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92819,DALMAU,Rural,1,PS (I-V),5,Private Unaided (Recognized),19,19,16,0,9,7,19,19,2,0,13,3,0,3,0,19,19,19,19,19,19,14,14,14,14,19,19,2,0,3,16,0,16,3,8,2,5,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92819,DALMAU,Rural,2,UPS (I-VIII),1,Department of Education,21,21,11,0,13,15,20,21,0,0,17,18,0,0,1,21,21,21,21,21,21,18,18,18,18,21,21,0,0,0,19,1,19,19,20,17,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92819,DALMAU,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),10,10,10,0,3,0,9,10,0,0,2,2,0,1,0,10,10,10,10,10,10,10,10,10,10,10,10,0,0,1,9,0,9,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92819,DALMAU,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,1,0,0,2,0,2,2,2,2,2,2,1,1,1,1,2,2,0,0,0,2,0,2,2,2,1,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92819,DALMAU,Rural,4,UPS (VI-VIII),1,Department of Education,16,16,10,0,14,13,16,16,1,0,10,13,0,4,4,15,15,16,16,16,16,14,15,15,15,16,16,0,1,1,16,4,16,10,13,12,1,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92819,DALMAU,Rural,4,UPS (VI-VIII),5,Private Unaided (Recognized),7,7,5,0,3,3,7,7,0,0,7,4,1,0,0,7,7,7,7,7,7,4,4,4,4,7,7,0,0,0,7,0,7,3,5,1,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92819,DALMAU,Rural,5,HSS (VI-XII),1,Department of Education,1,1,0,0,1,1,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,1,0,1,1,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92819,DALMAU,Rural,5,HSS (VI-XII),4,Government Aided,2,2,2,0,2,2,2,2,0,0,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,2,1,2,2,2,1,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92819,DALMAU,Rural,5,HSS (VI-XII),5,Private Unaided (Recognized),5,5,4,0,4,4,4,5,0,0,3,3,2,4,0,5,5,5,5,5,5,5,5,5,5,5,5,0,0,0,5,0,5,3,2,1,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92819,DALMAU,Rural,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,1,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92819,DALMAU,Rural,7,SS (VI-X),5,Private Unaided (Recognized),6,6,5,0,3,3,6,6,0,0,3,4,1,3,0,6,6,6,6,6,6,6,6,6,6,6,6,0,0,0,6,3,6,3,3,2,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92819,DALMAU,Rural,8,SS (IX-X),5,Private Unaided (Recognized),2,2,2,0,0,0,2,2,0,0,0,0,0,0,0,2,2,2,2,2,2,1,1,1,1,2,2,0,0,0,1,0,1,2,1,0,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92819,DALMAU,Rural,10,HSS (IX-XII),5,Private Unaided (Recognized),8,7,7,0,7,7,8,8,1,0,7,4,5,5,0,8,8,8,8,8,8,6,6,6,6,8,8,0,1,0,8,1,8,7,5,0,2,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92819,DALMAU,Urban,1,PS (I-V),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92819,DALMAU,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,1,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92819,DALMAU,Urban,4,UPS (VI-VIII),1,Department of Education,2,2,1,0,1,2,1,2,0,0,2,2,0,0,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,2,0,2,1,2,2,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92819,DALMAU,Urban,4,UPS (VI-VIII),5,Private Unaided (Recognized),1,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,1,1,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92820,LALGANJ,Rural,1,PS (I-V),1,Department of Education,121,121,62,0,78,94,114,114,2,0,51,79,4,2,27,121,118,121,117,121,118,99,100,100,99,121,98,2,3,6,120,0,117,106,121,103,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92820,LALGANJ,Rural,1,PS (I-V),2,Tribal Welfare Department,1,1,1,0,1,1,1,1,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92820,LALGANJ,Rural,1,PS (I-V),4,Government Aided,5,5,4,0,5,3,5,5,0,0,5,1,0,5,1,5,5,5,5,5,5,5,5,5,5,5,5,0,0,0,5,0,5,2,3,1,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92820,LALGANJ,Rural,1,PS (I-V),5,Private Unaided (Recognized),21,21,21,0,19,14,20,20,1,0,19,3,0,15,2,21,21,21,21,21,21,20,20,20,20,21,21,2,1,1,21,0,21,0,13,4,2,4
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92820,LALGANJ,Rural,1,PS (I-V),6,Other Govt. managed schools,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,1,1,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92820,LALGANJ,Rural,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,1,1,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,0,0,0,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92820,LALGANJ,Rural,2,UPS (I-VIII),1,Department of Education,11,11,3,0,7,6,10,10,0,0,5,10,0,0,0,11,11,11,11,11,11,11,11,11,11,11,11,0,0,0,10,1,10,8,10,6,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92820,LALGANJ,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),7,7,7,0,7,4,7,7,0,0,7,3,0,5,0,7,7,7,7,7,7,7,7,7,7,7,7,0,0,2,7,0,7,1,7,4,3,4
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92820,LALGANJ,Rural,3,HSS (I-XII),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,0,1,0,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92820,LALGANJ,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,1,0,2,1,1,1,0,2,2,2,2,2,2,2,2,2,2,2,2,2,0,1,2,0,2,0,1,0,2,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92820,LALGANJ,Rural,4,UPS (VI-VIII),1,Department of Education,16,16,8,0,15,10,14,14,0,0,8,8,0,2,3,14,14,16,16,16,16,12,13,13,13,16,14,0,0,0,15,2,15,13,16,14,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92820,LALGANJ,Rural,4,UPS (VI-VIII),4,Government Aided,4,4,2,0,3,4,4,4,0,0,4,2,0,3,1,4,4,4,4,4,4,4,4,4,4,4,4,0,0,0,4,0,4,0,4,2,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92820,LALGANJ,Rural,4,UPS (VI-VIII),5,Private Unaided (Recognized),7,7,6,0,6,4,7,7,0,0,7,1,1,6,1,6,6,7,7,7,7,6,7,7,7,7,7,1,0,0,7,2,7,0,4,0,2,4
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92820,LALGANJ,Rural,5,HSS (VI-XII),1,Department of Education,1,1,0,0,1,1,1,1,0,0,1,1,0,1,0,0,0,1,1,1,1,0,1,1,1,1,1,1,0,0,1,1,1,0,1,1,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92820,LALGANJ,Rural,5,HSS (VI-XII),4,Government Aided,4,3,4,0,4,4,4,4,1,0,4,2,0,4,1,4,4,4,4,4,4,3,3,3,3,4,4,1,0,0,4,1,4,2,4,1,2,3
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92820,LALGANJ,Rural,5,HSS (VI-XII),5,Private Unaided (Recognized),6,6,6,0,6,6,6,6,0,0,6,4,4,6,1,4,4,6,5,6,6,4,6,6,6,6,6,2,0,2,6,2,6,6,5,0,3,6
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92820,LALGANJ,Rural,6,SS (I-X),5,Private Unaided (Recognized),3,3,3,0,3,3,3,3,0,0,3,0,0,3,0,3,3,3,3,3,3,3,3,3,3,3,3,1,0,1,3,0,3,1,2,1,3,3
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92820,LALGANJ,Rural,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,1,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92820,LALGANJ,Rural,7,SS (VI-X),5,Private Unaided (Recognized),8,8,6,0,6,6,8,8,1,0,7,3,2,4,1,8,8,8,8,8,8,7,7,7,7,8,8,1,1,0,8,1,8,5,6,2,2,3
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92820,LALGANJ,Rural,7,SS (VI-X),6,Other Govt. managed schools,1,1,1,0,1,0,1,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92820,LALGANJ,Rural,10,HSS (IX-XII),4,Government Aided,1,1,1,0,1,0,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92820,LALGANJ,Rural,10,HSS (IX-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,0,0,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92820,LALGANJ,Urban,1,PS (I-V),1,Department of Education,1,1,0,0,1,0,1,1,1,0,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92820,LALGANJ,Urban,1,PS (I-V),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92820,LALGANJ,Urban,1,PS (I-V),5,Private Unaided (Recognized),6,6,6,0,2,2,6,6,0,0,6,1,0,3,0,6,6,6,6,6,6,6,6,6,6,6,6,0,0,0,6,0,6,2,6,3,0,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92820,LALGANJ,Urban,3,HSS (I-XII),5,Private Unaided (Recognized),2,2,2,0,2,1,2,2,0,0,2,1,0,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,1,0,2,1,2,0,2,0,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92820,LALGANJ,Urban,4,UPS (VI-VIII),5,Private Unaided (Recognized),4,4,4,0,4,4,4,4,1,0,4,0,0,4,0,4,4,4,4,4,4,3,3,3,3,4,4,1,0,1,4,0,4,0,3,1,3,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92820,LALGANJ,Urban,5,HSS (VI-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,1,0,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92820,LALGANJ,Urban,6,SS (I-X),3,Local body,1,1,1,0,1,1,1,1,0,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,1,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92821,SARENI,Rural,1,PS (I-V),1,Department of Education,126,125,55,1,100,107,42,55,1,0,67,116,1,7,4,126,126,125,125,126,126,91,91,91,91,117,16,1,1,1,78,0,69,92,107,84,1,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92821,SARENI,Rural,1,PS (I-V),3,Local body,6,6,3,0,2,0,0,1,0,0,6,4,0,0,0,6,6,6,6,6,6,4,4,4,4,6,3,0,0,0,4,0,4,5,5,5,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92821,SARENI,Rural,1,PS (I-V),4,Government Aided,8,8,6,0,8,7,1,3,0,0,6,8,0,3,0,8,8,8,8,8,8,8,8,8,8,8,8,1,1,0,8,0,8,0,4,4,1,3
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92821,SARENI,Rural,1,PS (I-V),5,Private Unaided (Recognized),17,17,12,0,12,12,4,5,2,0,8,17,0,4,0,17,17,17,17,17,17,17,17,17,17,17,17,1,1,2,16,0,16,4,12,8,1,3
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92821,SARENI,Rural,2,UPS (I-VIII),1,Department of Education,23,23,7,0,13,20,6,7,0,0,15,23,0,0,1,23,22,23,22,23,22,17,17,17,17,22,4,1,0,0,16,0,14,18,20,13,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92821,SARENI,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),8,8,6,0,4,3,4,6,2,0,5,8,0,2,0,8,8,8,8,8,8,8,8,8,8,8,7,1,0,0,8,0,8,2,3,3,2,3
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92821,SARENI,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92821,SARENI,Rural,4,UPS (VI-VIII),1,Department of Education,19,19,11,0,12,12,7,8,0,0,9,18,0,2,1,19,19,19,19,19,19,17,17,17,17,19,4,0,1,0,9,1,9,7,15,13,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92821,SARENI,Rural,4,UPS (VI-VIII),4,Government Aided,4,4,1,0,4,4,1,2,0,0,4,3,0,1,1,4,3,4,3,4,3,3,3,3,3,4,4,0,0,0,4,1,3,1,2,2,1,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92821,SARENI,Rural,4,UPS (VI-VIII),5,Private Unaided (Recognized),4,4,2,0,2,2,1,2,0,0,0,4,0,3,1,4,4,4,4,4,4,4,4,4,4,4,4,0,1,0,4,1,4,2,2,2,1,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92821,SARENI,Rural,5,HSS (VI-XII),4,Government Aided,6,6,6,0,6,6,6,6,1,0,6,6,1,6,1,6,6,6,6,6,6,6,6,6,6,6,6,1,1,1,6,1,6,3,5,4,4,5
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92821,SARENI,Rural,5,HSS (VI-XII),5,Private Unaided (Recognized),3,3,3,0,2,2,2,2,0,0,1,3,0,2,0,3,3,3,3,3,3,3,3,3,3,3,3,0,0,0,2,0,2,1,0,0,1,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92821,SARENI,Rural,7,SS (VI-X),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92821,SARENI,Rural,8,SS (IX-X),1,Department of Education,1,1,1,0,0,0,1,1,0,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92821,SARENI,Rural,10,HSS (IX-XII),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,1,0,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,0,1,1,2,0,2,0,0,0,2,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92822,NAGAR SHETRA (RBL),Rural,1,PS (I-V),5,Private Unaided (Recognized),13,13,6,0,4,6,6,6,0,0,4,3,2,3,0,13,12,13,12,13,12,5,5,5,5,13,13,2,1,2,10,0,9,1,1,0,3,7
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92822,NAGAR SHETRA (RBL),Rural,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,4,4,1,0,1,0,2,2,0,0,1,0,0,0,0,4,4,4,4,4,4,2,2,2,2,4,4,0,0,0,4,0,4,1,1,1,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92822,NAGAR SHETRA (RBL),Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),4,4,2,0,2,2,1,1,0,0,1,0,0,0,0,4,4,4,4,4,4,3,3,3,3,4,4,0,1,0,4,0,4,1,0,0,1,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92822,NAGAR SHETRA (RBL),Rural,3,HSS (I-XII),1,Department of Education,1,1,1,0,0,1,1,1,0,0,1,1,0,1,0,0,0,1,1,1,1,0,0,0,0,1,1,1,0,0,1,0,1,0,0,0,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92822,NAGAR SHETRA (RBL),Rural,3,HSS (I-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,0,1,0,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92822,NAGAR SHETRA (RBL),Rural,4,UPS (VI-VIII),5,Private Unaided (Recognized),1,1,0,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,0,0,0,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92822,NAGAR SHETRA (RBL),Rural,6,SS (I-X),5,Private Unaided (Recognized),2,2,2,0,2,1,2,2,1,0,2,2,0,2,0,2,2,2,2,2,2,1,0,1,1,2,2,1,0,0,2,1,2,0,0,0,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92822,NAGAR SHETRA (RBL),Rural,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,1,1,0,1,0,1,1,0,0,1,0,0,1,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92822,NAGAR SHETRA (RBL),Rural,8,SS (IX-X),5,Private Unaided (Recognized),1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92822,NAGAR SHETRA (RBL),Urban,1,PS (I-V),1,Department of Education,24,23,17,1,7,6,9,10,0,0,12,13,0,0,0,23,22,23,22,24,23,8,8,8,8,21,5,0,0,0,21,0,18,8,3,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92822,NAGAR SHETRA (RBL),Urban,1,PS (I-V),4,Government Aided,2,2,2,0,1,1,0,0,0,0,2,0,0,0,0,2,2,2,2,2,2,1,1,1,1,2,2,1,0,0,1,0,1,0,1,0,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92822,NAGAR SHETRA (RBL),Urban,1,PS (I-V),5,Private Unaided (Recognized),36,36,36,0,17,7,27,28,1,0,26,15,1,6,0,36,35,35,34,36,35,7,6,7,7,35,35,4,1,3,32,0,31,2,15,1,7,9
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92822,NAGAR SHETRA (RBL),Urban,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,2,1,0,1,0,1,1,0,0,1,1,0,1,0,2,2,2,2,2,2,1,1,1,1,2,2,0,0,0,2,0,2,0,1,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92822,NAGAR SHETRA (RBL),Urban,2,UPS (I-VIII),1,Department of Education,10,10,4,0,7,4,3,4,0,0,4,1,1,3,0,10,10,10,10,10,10,5,5,5,5,8,2,0,0,1,9,1,8,1,1,0,1,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92822,NAGAR SHETRA (RBL),Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),16,16,13,0,8,5,12,13,1,0,13,9,3,9,1,15,15,16,16,16,16,7,6,7,7,16,16,7,6,4,14,4,14,2,6,1,6,8
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92822,NAGAR SHETRA (RBL),Urban,3,HSS (I-XII),4,Government Aided,2,2,2,0,2,1,2,2,0,0,1,2,2,2,0,1,1,2,2,2,2,0,0,0,0,2,2,0,0,0,2,0,2,1,1,0,2,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92822,NAGAR SHETRA (RBL),Urban,3,HSS (I-XII),5,Private Unaided (Recognized),9,9,9,0,9,8,8,8,2,0,8,8,7,9,3,9,9,9,9,9,9,5,4,5,5,9,9,5,4,5,9,3,9,8,7,0,7,7
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92822,NAGAR SHETRA (RBL),Urban,3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92822,NAGAR SHETRA (RBL),Urban,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92822,NAGAR SHETRA (RBL),Urban,4,UPS (VI-VIII),1,Department of Education,4,4,4,0,1,3,1,2,0,0,4,2,0,0,0,3,3,4,4,4,4,1,1,1,1,4,2,0,0,0,4,1,4,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92822,NAGAR SHETRA (RBL),Urban,4,UPS (VI-VIII),4,Government Aided,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,1,1,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92822,NAGAR SHETRA (RBL),Urban,4,UPS (VI-VIII),5,Private Unaided (Recognized),8,8,8,0,3,0,7,7,0,0,7,5,0,1,0,8,8,8,8,8,8,1,1,1,1,8,8,1,1,0,7,0,7,0,1,0,2,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92822,NAGAR SHETRA (RBL),Urban,5,HSS (VI-XII),1,Department of Education,2,2,2,0,2,2,2,2,2,0,2,2,1,2,2,1,1,1,1,2,2,0,1,1,1,2,2,0,1,0,2,1,2,2,2,1,2,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92822,NAGAR SHETRA (RBL),Urban,5,HSS (VI-XII),4,Government Aided,3,3,3,0,3,3,3,3,1,0,3,3,2,3,2,3,3,1,1,3,3,2,0,2,2,3,3,0,1,1,3,1,3,3,1,1,1,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92822,NAGAR SHETRA (RBL),Urban,5,HSS (VI-XII),5,Private Unaided (Recognized),8,8,8,0,7,4,8,8,0,0,6,6,5,7,1,5,5,8,8,8,8,2,4,4,4,8,8,5,1,0,8,2,8,6,5,1,3,4
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92822,NAGAR SHETRA (RBL),Urban,6,SS (I-X),5,Private Unaided (Recognized),3,3,3,0,2,2,2,2,0,0,2,2,2,2,1,3,3,3,3,3,3,2,1,2,2,3,3,1,0,1,2,1,2,1,2,1,2,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92822,NAGAR SHETRA (RBL),Urban,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,1,2,2,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92822,NAGAR SHETRA (RBL),Urban,7,SS (VI-X),5,Private Unaided (Recognized),4,4,4,0,2,2,2,2,0,0,2,2,2,2,0,4,4,4,4,4,4,2,2,2,2,4,4,2,2,2,4,1,4,2,2,1,3,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92822,NAGAR SHETRA (RBL),Urban,8,SS (IX-X),5,Private Unaided (Recognized),2,2,2,0,1,1,1,1,0,0,1,1,1,1,0,2,2,2,2,2,2,0,0,0,0,2,2,0,1,0,1,0,1,0,0,0,1,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92822,NAGAR SHETRA (RBL),Urban,10,HSS (IX-XII),5,Private Unaided (Recognized),4,4,3,0,3,3,3,3,1,0,3,3,2,3,1,4,4,4,4,4,4,2,2,2,2,4,4,2,2,0,4,0,4,2,1,1,3,4
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92823,DEEH,Rural,1,PS (I-V),1,Department of Education,83,83,38,0,55,42,45,52,2,0,50,38,1,6,13,83,83,83,82,83,83,78,78,78,78,83,83,1,0,1,80,0,80,68,75,35,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92823,DEEH,Rural,1,PS (I-V),5,Private Unaided (Recognized),19,19,17,0,14,11,10,11,0,0,14,0,0,4,0,19,19,19,19,19,19,19,19,19,19,19,19,0,0,1,15,0,15,0,2,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92823,DEEH,Rural,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,1,1,0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92823,DEEH,Rural,1,PS (I-V),98,Madarsa unrecognized,2,2,1,0,1,0,1,1,0,0,1,0,0,0,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,1,0,1,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92823,DEEH,Rural,2,UPS (I-VIII),1,Department of Education,3,3,3,0,0,0,1,2,0,0,0,1,0,0,2,3,3,3,3,3,3,2,3,3,3,3,3,0,0,1,3,2,3,1,3,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92823,DEEH,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),2,2,2,0,0,0,1,1,0,0,1,0,0,1,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,1,1,1,0,0,0,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92823,DEEH,Rural,4,UPS (VI-VIII),1,Department of Education,16,16,12,0,8,7,11,12,0,0,9,9,0,3,1,15,15,16,16,16,16,15,16,16,16,16,16,1,0,0,16,6,16,5,11,4,0,7
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92823,DEEH,Rural,4,UPS (VI-VIII),5,Private Unaided (Recognized),2,2,2,0,2,1,1,1,0,0,2,0,0,1,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,2,0,2,0,2,0,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92823,DEEH,Rural,5,HSS (VI-XII),1,Department of Education,2,2,1,0,2,2,2,2,0,0,2,0,0,2,0,1,1,2,2,2,2,1,2,2,2,2,2,0,1,0,2,0,2,1,2,0,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92823,DEEH,Rural,5,HSS (VI-XII),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,0,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92823,DEEH,Rural,5,HSS (VI-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,0,0,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92823,DEEH,Rural,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,1,0,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92823,DEEH,Rural,7,SS (VI-X),5,Private Unaided (Recognized),3,3,3,0,2,1,2,2,0,0,3,0,0,3,0,2,2,3,3,3,3,2,3,3,3,3,3,0,0,0,3,0,3,1,1,0,0,3
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92823,DEEH,Rural,8,SS (IX-X),1,Department of Education,1,0,1,0,0,0,1,1,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92824,CHHATOH,Rural,1,PS (I-V),1,Department of Education,63,63,41,0,44,39,38,44,2,0,21,37,4,1,5,63,62,62,62,63,63,40,40,41,41,63,63,0,0,2,52,0,52,50,61,55,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92824,CHHATOH,Rural,1,PS (I-V),4,Government Aided,1,1,1,0,0,1,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92824,CHHATOH,Rural,1,PS (I-V),5,Private Unaided (Recognized),32,32,23,1,25,27,18,18,2,0,28,2,2,12,9,32,32,32,32,32,32,28,28,28,28,32,32,0,5,10,26,0,26,7,18,10,1,3
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92824,CHHATOH,Rural,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92824,CHHATOH,Rural,2,UPS (I-VIII),1,Department of Education,10,10,2,0,8,7,8,8,0,0,3,5,0,0,0,10,10,10,10,10,10,5,5,5,5,10,10,0,0,0,9,8,9,9,6,4,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92824,CHHATOH,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),2,2,2,0,2,2,1,2,1,0,2,1,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,2,1,2,1,1,0,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92824,CHHATOH,Rural,4,UPS (VI-VIII),1,Department of Education,14,14,7,1,13,10,11,11,0,0,10,12,0,2,4,12,12,14,14,14,14,9,11,11,11,14,14,2,0,0,13,3,13,9,14,13,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92824,CHHATOH,Rural,4,UPS (VI-VIII),5,Private Unaided (Recognized),6,6,4,0,5,6,4,4,0,0,5,1,1,1,2,6,6,6,6,6,6,6,6,6,6,6,6,0,3,2,5,2,5,0,5,4,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92824,CHHATOH,Rural,5,HSS (VI-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,0,0,0,1,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92824,CHHATOH,Rural,7,SS (VI-X),5,Private Unaided (Recognized),2,2,2,0,2,2,1,1,0,0,1,1,1,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,1,1,2,1,2,1,2,1,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92824,CHHATOH,Rural,8,SS (IX-X),1,Department of Education,1,1,0,0,1,1,0,0,0,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,1,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92824,CHHATOH,Rural,8,SS (IX-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,0,1,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92824,CHHATOH,Rural,10,HSS (IX-XII),1,Department of Education,1,1,0,0,0,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,1,1,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92824,CHHATOH,Rural,10,HSS (IX-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,0,0,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92825,SALON,Rural,1,PS (I-V),1,Department of Education,91,91,38,0,69,53,68,70,1,0,44,42,0,1,15,90,90,91,91,91,91,55,56,57,57,91,91,1,8,10,86,0,86,76,84,64,1,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92825,SALON,Rural,1,PS (I-V),4,Government Aided,1,1,0,0,1,1,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,1,1,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92825,SALON,Rural,1,PS (I-V),5,Private Unaided (Recognized),42,40,30,0,26,25,32,32,3,0,35,5,2,12,1,42,42,42,42,42,42,32,32,32,32,42,42,2,3,2,38,0,38,7,20,18,1,3
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92825,SALON,Rural,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92825,SALON,Rural,2,UPS (I-VIII),1,Department of Education,17,17,2,0,9,9,17,17,0,0,9,11,0,1,1,17,16,17,17,17,17,7,8,8,8,17,17,0,2,0,17,6,17,17,14,10,0,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92825,SALON,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),4,4,4,0,3,3,4,4,2,0,3,3,0,3,0,4,4,4,4,4,4,3,2,3,3,4,4,0,1,1,4,0,4,2,2,2,1,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92825,SALON,Rural,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,1,0,0,1,1,1,1,0,0,1,0,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92825,SALON,Rural,2,UPS (I-VIII),98,Madarsa unrecognized,1,1,0,0,0,1,0,0,0,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92825,SALON,Rural,3,HSS (I-XII),2,Tribal Welfare Department,1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,0,0,1,0,1,0,1,1,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92825,SALON,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),2,2,2,0,2,1,2,2,0,0,2,1,1,2,1,2,2,2,2,2,2,1,1,1,1,2,2,1,0,0,2,0,2,1,1,1,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92825,SALON,Rural,4,UPS (VI-VIII),1,Department of Education,15,15,4,0,11,10,12,12,1,0,8,7,0,1,4,14,14,15,15,15,15,8,9,9,9,15,15,1,2,1,13,9,13,13,15,12,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92825,SALON,Rural,4,UPS (VI-VIII),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92825,SALON,Rural,4,UPS (VI-VIII),5,Private Unaided (Recognized),9,9,8,0,7,5,7,7,1,0,6,3,0,3,1,9,9,9,9,9,9,7,7,7,7,9,9,0,1,0,9,1,9,3,4,3,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92825,SALON,Rural,4,UPS (VI-VIII),98,Madarsa unrecognized,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,1,1,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92825,SALON,Rural,5,HSS (VI-XII),1,Department of Education,1,1,1,0,1,1,1,1,1,0,0,0,0,1,0,0,0,1,1,1,1,0,1,1,1,1,1,0,0,0,1,0,1,0,1,1,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92825,SALON,Rural,5,HSS (VI-XII),4,Government Aided,2,2,2,0,2,2,2,2,0,0,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,0,1,0,2,1,2,2,2,1,0,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92825,SALON,Rural,5,HSS (VI-XII),5,Private Unaided (Recognized),5,5,5,0,4,4,5,5,1,0,5,5,3,4,0,5,5,5,5,5,5,5,5,5,5,5,5,1,1,2,5,1,5,4,3,2,1,3
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92825,SALON,Rural,7,SS (VI-X),5,Private Unaided (Recognized),4,4,4,0,2,2,3,3,1,0,3,2,0,2,0,4,4,4,4,4,4,3,3,3,3,4,4,0,0,0,4,0,4,3,2,2,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92825,SALON,Rural,8,SS (IX-X),1,Department of Education,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92825,SALON,Rural,8,SS (IX-X),5,Private Unaided (Recognized),1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,0,0,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92825,SALON,Rural,10,HSS (IX-XII),5,Private Unaided (Recognized),2,2,2,0,1,1,2,2,0,0,1,1,0,1,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,1,2,0,2,1,2,2,1,2
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92825,SALON,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,0,0
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92825,SALON,Urban,1,PS (I-V),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1
+2019-20,9,Uttar Pradesh,928,RAE BARELI,92825,SALON,Urban,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,1,1

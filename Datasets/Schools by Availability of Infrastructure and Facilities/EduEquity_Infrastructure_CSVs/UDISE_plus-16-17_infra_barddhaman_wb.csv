@@ -1,0 +1,503 @@
+Academic_Year,State_Code,State_Name,District_Code,District_Name,Block_Code,Udise_Block_Name,School_Category_Id,School_Category_Name,School_Management_Id,School_Management_Name,Location,School_Type_Id,School_Type,Total_Number_of_Schools,Building,Complete_Medical_Checkup,Computer_Available,Functional_Drinking_Water,Drinking_Water,Functional_Electricity,Functional_Boy_Toilet,Functional_Girl_Toilet,Functional_Toilet_Facility,Functional_Toilet_and_Urinal,Functional_Urinal,Functional_Urinal_Boy,Functional_Urinal_Girl,Handwash,Separate_Room_for_Headmaster,Incinerator,Internet,Kitchen_Garden,Land_Available,Librarian,Library_or_Reading_Corner_or_Book_Bank,Medical_Checkup,Newspaper,Playground,Rain_Water_Harvesting,Ramps,Solar_Panel,Furniture,Water_Purifier,Water_Tested
+2016-17,19,West Bengal,1909,BARDDHAMAN,190901,ANDAL,5,HSS (VI-XII),1,Department of Education,Rural,1,Boys,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,0,0,2,1,1,1,2,2,1,1,1,2,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190901,ANDAL,5,HSS (VI-XII),1,Department of Education,Rural,2,Girls,2,2,0,2,2,2,2,0,2,2,0,0,0,0,2,1,0,1,1,1,1,2,2,2,2,1,2,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190901,ANDAL,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,5,5,0,5,4,5,5,5,5,5,0,0,0,0,3,3,0,2,3,4,0,5,4,2,3,3,5,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190901,ANDAL,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,92,90,0,1,72,85,71,92,92,92,0,0,0,0,49,19,0,0,68,64,0,89,62,12,29,0,55,0,45,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190901,ANDAL,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,1,4,4,3,3,3,3,0,0,0,0,1,0,0,0,0,4,0,1,0,0,2,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190901,ANDAL,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,1,0,2,0,1,0,2,2,0,1,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190901,ANDAL,6,SS (I-X),7,Central Govt,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190901,ANDAL,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,7,7,0,2,6,6,6,7,7,7,0,0,0,0,2,4,0,2,2,5,0,7,6,2,4,3,6,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190901,ANDAL,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190901,ANDAL,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,9,8,0,1,5,7,6,9,9,9,0,0,0,0,2,6,0,0,7,9,0,9,7,0,5,0,6,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190901,ANDAL,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190902,AUSGRAM-I,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,4,3,0,4,4,4,1,4,4,4,3,1,4,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190902,AUSGRAM-I,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,129,128,0,4,122,123,94,129,119,129,0,0,0,0,85,23,0,0,90,111,1,129,127,56,47,0,98,0,83,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190902,AUSGRAM-I,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,1,3,3,3,3,3,3,0,0,0,0,1,1,0,0,0,1,0,2,2,0,1,0,3,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190902,AUSGRAM-I,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,7,7,0,1,7,7,4,7,7,7,0,0,0,0,4,2,0,0,0,3,0,5,3,0,4,0,6,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190902,AUSGRAM-I,6,SS (I-X),98,Madarsa unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190902,AUSGRAM-I,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,1,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190902,AUSGRAM-I,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,11,11,0,7,11,11,11,11,11,11,0,0,0,0,6,10,0,6,11,11,0,11,10,7,7,3,11,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190902,AUSGRAM-I,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190902,AUSGRAM-I,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,14,5,0,3,11,11,5,4,11,11,0,0,0,0,4,1,0,0,3,12,0,14,11,3,10,0,10,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190903,AUSGRAM-II,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,7,7,0,7,6,7,7,7,7,7,0,0,0,0,1,7,0,5,5,7,3,7,7,5,6,1,7,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190903,AUSGRAM-II,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,170,170,0,5,156,157,116,167,163,168,0,0,0,0,116,19,0,0,156,145,0,170,133,56,88,0,135,0,108,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190903,AUSGRAM-II,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190903,AUSGRAM-II,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190903,AUSGRAM-II,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,12,12,0,10,11,11,12,12,12,12,0,0,0,0,6,12,0,6,8,12,0,12,11,4,9,1,12,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190903,AUSGRAM-II,7,SS (VI-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,Co-Ed,1,1,0,1,0,0,1,1,1,1,0,0,0,0,0,1,0,1,1,1,0,1,1,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190903,AUSGRAM-II,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,18,15,0,7,13,15,9,14,16,16,0,0,0,0,11,4,0,0,6,18,0,17,12,3,13,0,6,0,6,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190904,BARABANI,5,HSS (VI-XII),1,Department of Education,Rural,1,Boys,2,2,0,2,2,2,2,2,0,2,0,0,0,0,1,2,0,0,2,2,1,2,2,1,2,0,2,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190904,BARABANI,5,HSS (VI-XII),1,Department of Education,Rural,2,Girls,2,2,0,2,2,2,2,0,2,2,0,0,0,0,0,1,0,0,2,2,0,2,1,1,2,0,2,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190904,BARABANI,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,1,1,1,1,0,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190904,BARABANI,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,125,125,0,2,113,114,82,125,125,125,0,0,0,0,40,38,0,0,108,95,0,125,105,17,72,0,88,0,80,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190904,BARABANI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,1,3,3,2,3,3,3,0,0,0,0,2,1,0,0,0,1,0,2,1,2,2,0,0,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190904,BARABANI,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190904,BARABANI,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,4,4,0,3,3,4,4,4,4,4,0,0,0,0,1,2,0,2,4,4,0,4,4,2,3,0,4,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190904,BARABANI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,1,0,0,0,1,1,2,2,1,1,0,0,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190904,BARABANI,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,10,10,0,3,9,10,5,10,10,10,0,0,0,0,4,7,0,0,9,10,0,10,9,0,6,1,10,0,6,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190905,BHATAR,5,HSS (VI-XII),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,0,0,1,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190905,BHATAR,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,12,12,0,10,12,12,11,12,12,12,0,0,0,0,5,11,0,8,11,12,2,12,7,7,10,6,12,0,6,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190905,BHATAR,5,HSS (VI-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,1,1,1,1,1,1,0,1,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190905,BHATAR,1,PS (I-V),1,Department of Education,Rural,1,Boys,2,2,0,0,2,2,2,2,1,2,0,0,0,0,0,0,0,0,2,1,0,2,1,1,0,0,2,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190905,BHATAR,1,PS (I-V),1,Department of Education,Rural,2,Girls,2,2,0,0,2,2,2,0,2,2,0,0,0,0,0,0,0,0,2,0,0,2,1,1,0,0,2,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190905,BHATAR,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,225,225,0,5,205,207,159,225,224,225,0,0,0,0,100,43,0,0,178,193,0,225,116,52,99,0,166,0,156,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190905,BHATAR,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190905,BHATAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,1,1,2,2,1,2,0,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0,2,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190905,BHATAR,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,11,11,0,2,8,10,10,5,6,6,0,0,0,0,7,4,0,0,0,9,0,2,1,0,11,0,2,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190905,BHATAR,7,SS (VI-X),1,Department of Education,Rural,2,Girls,4,4,0,4,4,4,4,0,4,4,0,0,0,0,2,3,0,2,4,4,0,4,4,1,3,0,4,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190905,BHATAR,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,15,15,0,10,15,15,15,15,15,15,0,0,0,0,4,14,0,3,13,15,1,15,7,8,12,3,15,0,6,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190905,BHATAR,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,11,6,0,3,10,10,4,8,11,11,0,0,0,0,4,2,0,0,6,11,0,11,10,2,8,0,8,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190906,BURDWAN-I,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190906,BURDWAN-I,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,10,10,0,8,10,10,10,9,10,10,0,0,0,0,6,8,0,5,10,10,5,10,10,8,9,2,10,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190906,BURDWAN-I,5,HSS (VI-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,1,1,1,1,0,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190906,BURDWAN-I,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,160,160,0,2,152,153,123,159,160,160,0,0,0,0,108,36,0,0,139,134,0,160,92,44,51,0,113,0,102,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190906,BURDWAN-I,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,4,0,5,5,5,5,5,5,5,0,0,0,0,5,2,0,0,1,2,0,4,3,0,5,0,1,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190906,BURDWAN-I,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,3,3,0,1,3,3,3,0,3,3,0,0,0,0,0,0,0,0,0,3,0,1,2,0,0,0,0,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190906,BURDWAN-I,6,SS (I-X),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,1,0,1,1,0,1,1,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190906,BURDWAN-I,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,0,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190906,BURDWAN-I,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,10,10,0,10,10,10,10,10,10,10,0,0,0,0,4,10,0,4,10,9,0,10,9,7,8,0,10,0,5,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190906,BURDWAN-I,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190906,BURDWAN-I,4,UPS (VI-VIII),1,Department of Education,Rural,2,Girls,3,3,0,1,3,3,3,0,3,3,0,0,0,0,1,3,0,0,2,3,0,3,3,0,1,0,2,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190906,BURDWAN-I,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,7,7,0,0,6,6,5,6,7,7,0,0,0,0,3,6,0,0,4,7,0,7,4,0,5,0,4,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190907,BURDWAN-II,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190907,BURDWAN-II,5,HSS (VI-XII),1,Department of Education,Rural,2,Girls,1,1,0,1,0,1,1,0,1,1,0,0,0,0,0,1,0,1,1,1,0,1,1,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190907,BURDWAN-II,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,7,7,0,7,7,7,7,7,7,7,0,0,0,0,4,3,0,4,6,7,2,7,6,7,7,0,7,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190907,BURDWAN-II,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,98,98,0,5,96,96,88,97,97,97,0,0,0,0,53,28,0,0,95,72,0,98,83,5,60,0,87,0,67,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190907,BURDWAN-II,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,1,3,3,3,1,2,3,0,0,0,0,1,0,0,0,0,2,0,2,0,0,1,0,0,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190907,BURDWAN-II,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190907,BURDWAN-II,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190907,BURDWAN-II,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,0,0,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190907,BURDWAN-II,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190907,BURDWAN-II,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,9,8,0,6,9,9,9,8,9,9,0,0,0,0,8,7,0,3,8,8,0,9,8,6,7,0,9,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190907,BURDWAN-II,7,SS (VI-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,0,0,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190907,BURDWAN-II,4,UPS (VI-VIII),1,Department of Education,Rural,2,Girls,2,2,0,0,2,2,1,2,2,2,0,0,0,0,2,2,0,0,1,2,0,2,1,0,2,0,2,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190907,BURDWAN-II,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,11,11,0,3,11,11,10,10,10,10,0,0,0,0,5,7,0,0,9,11,0,11,10,2,9,0,9,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190908,DURGAPUR-FARIDPUR,3,HSS (I-XII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190908,DURGAPUR-FARIDPUR,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,5,5,0,5,5,5,4,4,5,5,0,0,0,0,0,4,0,4,2,5,2,5,5,3,4,0,5,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190908,DURGAPUR-FARIDPUR,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,86,86,0,2,75,80,61,86,85,86,0,0,0,0,28,22,0,0,81,73,0,86,71,3,54,0,67,0,60,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190908,DURGAPUR-FARIDPUR,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,4,4,0,0,4,4,3,0,4,4,0,0,0,0,0,2,0,0,0,2,0,1,0,0,3,0,1,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190908,DURGAPUR-FARIDPUR,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,6,6,0,2,5,5,6,5,6,6,0,0,0,0,2,4,0,0,4,6,0,6,5,2,5,1,6,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190908,DURGAPUR-FARIDPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190908,DURGAPUR-FARIDPUR,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,4,4,0,1,3,3,1,2,2,2,0,0,0,0,1,0,0,0,2,4,0,3,4,2,4,0,0,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190909,GALSI-I,3,HSS (I-XII),7,Central Govt,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190909,GALSI-I,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,6,6,0,4,5,6,6,5,6,6,0,0,0,0,4,5,0,4,5,5,1,6,6,5,6,0,6,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190909,GALSI-I,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,135,135,0,1,130,130,123,134,135,135,0,0,0,0,87,20,0,0,119,98,0,135,114,10,46,0,117,0,92,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190909,GALSI-I,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,1,2,2,2,2,3,3,0,0,0,0,3,1,0,0,0,2,0,3,1,2,2,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190909,GALSI-I,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,10,10,0,2,10,10,9,6,9,9,0,0,0,0,6,1,0,0,0,7,0,2,2,1,6,0,2,0,6,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190909,GALSI-I,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,0,1,1,0,1,1,0,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190909,GALSI-I,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,13,13,0,8,13,13,13,12,13,13,0,0,0,0,9,10,0,3,9,12,0,13,13,4,9,0,13,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190909,GALSI-I,7,SS (VI-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,Co-Ed,2,2,0,0,2,2,2,2,1,2,0,0,0,0,2,1,0,0,2,2,0,2,2,0,2,0,2,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190909,GALSI-I,4,UPS (VI-VIII),1,Department of Education,Rural,2,Girls,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190909,GALSI-I,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,8,7,0,3,8,8,6,7,8,8,0,0,0,0,3,3,0,0,4,7,0,8,6,3,5,0,4,0,5,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190910,GALSI-II,5,HSS (VI-XII),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,1,0,1,1,1,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190910,GALSI-II,5,HSS (VI-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,1,1,1,1,1,1,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190910,GALSI-II,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,3,4,0,3,4,4,2,4,4,4,4,0,4,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190910,GALSI-II,5,HSS (VI-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,1,1,0,1,1,1,0,1,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190910,GALSI-II,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,137,137,0,0,135,135,117,134,135,136,0,0,0,0,78,18,0,0,129,103,0,137,98,3,35,0,111,0,74,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190910,GALSI-II,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,3,6,6,6,5,5,5,0,0,0,0,5,5,0,0,0,5,0,4,1,1,5,0,3,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190910,GALSI-II,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190910,GALSI-II,7,SS (VI-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,1,Boys,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190910,GALSI-II,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,8,8,0,8,8,8,8,6,8,8,0,0,0,0,3,7,0,2,7,8,0,8,8,2,7,1,8,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190910,GALSI-II,7,SS (VI-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190910,GALSI-II,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,12,12,0,1,11,11,8,8,9,10,0,0,0,0,5,6,0,0,9,12,0,12,9,4,9,0,7,0,8,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190911,JAMALPUR,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,14,14,0,8,14,14,14,14,14,14,0,0,0,0,5,11,0,9,13,14,2,14,12,9,14,0,14,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190911,JAMALPUR,1,PS (I-V),1,Department of Education,Rural,1,Boys,2,2,0,0,2,2,2,2,0,2,0,0,0,0,2,1,0,0,2,2,0,2,2,0,2,0,2,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190911,JAMALPUR,1,PS (I-V),1,Department of Education,Rural,2,Girls,2,2,0,0,2,2,2,0,2,2,0,0,0,0,2,0,0,0,2,1,0,2,1,0,1,0,2,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190911,JAMALPUR,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,194,194,0,4,187,187,170,192,193,193,0,0,0,0,132,34,0,0,184,143,1,194,135,11,69,0,173,0,102,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190911,JAMALPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,2,8,8,6,5,5,6,0,0,0,0,4,1,0,0,0,8,0,4,2,2,4,0,5,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190911,JAMALPUR,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,6,6,0,3,5,5,6,3,5,5,0,0,0,0,4,3,0,0,1,6,0,3,2,0,5,0,2,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190911,JAMALPUR,7,SS (VI-X),1,Department of Education,Rural,2,Girls,6,6,0,4,5,5,6,0,6,6,0,0,0,0,2,6,0,2,6,6,0,6,6,4,1,0,6,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190911,JAMALPUR,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,15,15,0,9,14,14,15,13,15,15,0,0,0,0,7,14,0,9,12,15,1,15,9,6,7,0,15,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190911,JAMALPUR,7,SS (VI-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,1,2,0,0,1,2,0,2,0,2,0,1,2,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190911,JAMALPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,1,0,0,0,2,0,2,1,0,2,0,1,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190911,JAMALPUR,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,15,12,0,1,13,13,9,14,15,15,0,0,0,0,10,5,0,0,9,15,0,15,9,2,7,0,11,0,5,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190912,JAMURIA,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,5,5,0,4,5,5,5,5,5,5,0,0,0,0,1,4,0,3,2,5,1,5,4,3,4,1,5,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190912,JAMURIA,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,81,80,0,1,66,73,62,81,81,81,0,0,0,0,46,27,0,0,77,72,0,81,52,21,42,0,65,0,60,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190912,JAMURIA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,10,10,0,1,7,10,6,2,5,5,0,0,0,0,1,1,0,0,0,6,0,3,2,2,3,0,1,0,6,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190912,JAMURIA,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,3,3,0,1,1,3,1,0,2,2,0,0,0,0,0,0,0,0,0,1,0,1,1,0,2,0,0,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190912,JAMURIA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,1,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190912,JAMURIA,7,SS (VI-X),1,Department of Education,Rural,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,1,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190912,JAMURIA,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190912,JAMURIA,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,4,4,0,3,4,4,4,4,4,4,0,0,0,0,3,3,0,1,3,4,0,4,4,3,4,0,4,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190912,JAMURIA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190912,JAMURIA,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190912,JAMURIA,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,9,7,0,1,7,8,3,9,9,9,0,0,0,0,3,5,0,0,3,9,1,9,6,1,8,0,8,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190913,KALNA-I,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190913,KALNA-I,5,HSS (VI-XII),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190913,KALNA-I,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,8,8,0,7,6,8,8,8,8,8,0,0,0,0,1,5,0,7,5,8,1,8,5,5,7,1,8,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190913,KALNA-I,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,146,145,0,3,136,140,99,146,146,146,0,0,0,0,43,19,0,0,133,125,0,146,88,28,50,0,115,0,87,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190913,KALNA-I,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,6,7,8,8,6,6,6,0,0,0,0,5,3,0,0,0,6,0,5,5,3,5,0,7,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190913,KALNA-I,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,3,3,0,0,2,2,2,3,1,3,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190913,KALNA-I,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,1,0,0,0,2,0,1,0,0,1,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190913,KALNA-I,7,SS (VI-X),1,Department of Education,Rural,2,Girls,3,3,0,3,3,3,3,0,3,3,0,0,0,0,3,2,0,1,3,1,0,3,2,1,1,1,3,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190913,KALNA-I,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,8,8,0,2,7,8,7,8,8,8,0,0,0,0,1,8,0,3,5,8,0,8,5,3,5,0,8,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190913,KALNA-I,7,SS (VI-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,Co-Ed,1,1,0,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190913,KALNA-I,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,6,4,0,2,6,6,3,4,4,4,0,0,0,0,3,0,0,0,4,5,0,5,2,3,5,0,0,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190914,KALNA-II,5,HSS (VI-XII),1,Department of Education,Rural,2,Girls,2,2,0,1,2,2,2,1,2,2,0,0,0,0,2,2,0,1,2,2,0,2,2,2,2,0,2,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190914,KALNA-II,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,6,6,0,6,6,6,6,6,6,6,0,0,0,0,2,6,0,5,6,5,2,6,5,4,5,2,6,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190914,KALNA-II,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,143,143,0,3,131,133,119,138,143,143,0,0,0,0,88,26,0,0,143,100,0,143,131,26,54,0,114,0,46,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190914,KALNA-II,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,2,2,0,0,2,2,2,1,1,1,0,0,0,0,0,2,0,0,1,2,0,1,2,1,1,0,2,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190914,KALNA-II,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,10,10,0,5,9,9,10,10,10,10,0,0,0,0,8,5,0,0,0,8,1,6,4,3,7,0,3,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190914,KALNA-II,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190914,KALNA-II,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,9,9,0,5,9,9,9,9,9,9,0,0,0,0,5,8,0,4,8,8,0,9,9,6,9,0,9,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190914,KALNA-II,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,11,8,0,3,9,10,7,7,9,9,0,0,0,0,5,2,0,0,7,11,0,11,10,4,7,0,5,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190915,KANKSA,5,HSS (VI-XII),1,Department of Education,Rural,2,Girls,2,2,0,1,2,2,2,0,2,2,0,0,0,0,2,1,0,0,2,2,0,2,2,2,2,0,2,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190915,KANKSA,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,6,6,0,5,6,6,6,6,6,6,0,0,0,0,1,4,0,2,6,4,1,6,5,1,5,1,6,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190915,KANKSA,5,HSS (VI-XII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190915,KANKSA,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,173,173,0,5,171,171,121,169,173,173,0,0,0,0,105,28,0,0,159,130,0,173,143,6,55,0,109,0,125,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190915,KANKSA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,5,5,6,6,4,5,5,0,0,0,0,3,2,0,0,0,4,1,4,3,3,4,0,1,0,5,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190915,KANKSA,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,5,5,0,2,5,5,5,4,4,4,0,0,0,0,2,1,0,0,0,1,0,4,4,0,2,0,2,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190915,KANKSA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190915,KANKSA,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,10,10,0,6,10,10,10,10,10,10,0,0,0,0,8,5,0,8,9,9,0,10,9,2,9,0,10,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190915,KANKSA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190915,KANKSA,4,UPS (VI-VIII),1,Department of Education,Rural,2,Girls,2,0,0,0,2,2,0,0,2,2,0,0,0,0,0,1,0,0,0,2,0,2,1,0,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190915,KANKSA,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,13,11,0,3,12,13,10,9,13,13,0,0,0,0,3,6,0,0,10,13,0,12,12,1,11,0,7,0,7,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190916,KATWA-I,3,HSS (I-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190916,KATWA-I,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,5,5,0,5,5,5,5,5,5,5,0,0,0,0,1,4,0,4,4,5,1,5,5,5,4,0,5,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190916,KATWA-I,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,122,121,0,2,119,120,96,122,122,122,0,0,0,0,62,25,0,0,107,84,0,122,88,4,25,0,103,0,58,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190916,KATWA-I,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,2,4,4,4,3,3,3,0,0,0,0,3,2,0,0,0,3,0,2,1,3,1,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190916,KATWA-I,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,2,2,0,1,2,2,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190916,KATWA-I,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190916,KATWA-I,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,8,8,0,3,8,8,8,8,8,8,0,0,0,0,4,5,0,1,5,8,0,8,6,4,6,0,8,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190916,KATWA-I,7,SS (VI-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190916,KATWA-I,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190916,KATWA-I,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,4,3,0,1,4,4,2,4,4,4,0,0,0,0,1,1,0,0,3,4,0,4,4,2,4,0,3,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190917,KATWA-II,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,0,2,0,1,4,4,0,4,2,2,4,1,4,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190917,KATWA-II,5,HSS (VI-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,1,1,1,0,1,1,1,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190917,KATWA-II,1,PS (I-V),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190917,KATWA-II,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,99,99,0,0,96,96,75,99,99,99,0,0,0,0,60,26,0,0,88,82,0,99,78,12,51,0,87,0,48,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190917,KATWA-II,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,1,6,6,4,2,3,3,0,0,0,0,2,0,0,0,0,4,0,2,1,1,3,0,2,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190917,KATWA-II,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190917,KATWA-II,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190917,KATWA-II,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,9,9,0,5,8,8,9,9,9,9,0,0,0,0,6,7,0,1,8,8,0,9,5,2,8,1,9,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190917,KATWA-II,4,UPS (VI-VIII),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190917,KATWA-II,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,5,5,0,1,3,3,1,5,5,5,0,0,0,0,1,5,0,0,3,5,0,5,3,0,2,0,5,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190918,KETUGRAM-I,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,7,7,0,5,7,7,7,7,7,7,0,0,0,0,1,6,0,2,7,7,1,7,6,6,7,0,7,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190918,KETUGRAM-I,5,HSS (VI-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,0,2,0,1,2,1,1,2,0,2,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190918,KETUGRAM-I,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,149,148,0,7,142,142,104,149,149,149,0,0,0,0,63,38,0,0,81,107,0,149,74,18,49,0,100,0,103,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190918,KETUGRAM-I,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,10,10,0,2,8,9,6,4,4,4,0,0,0,0,5,2,0,0,0,8,0,7,5,4,5,0,4,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190918,KETUGRAM-I,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,2,2,0,1,1,2,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190918,KETUGRAM-I,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190918,KETUGRAM-I,7,SS (VI-X),1,Department of Education,Rural,2,Girls,2,2,0,2,2,2,2,0,2,2,0,0,0,0,2,2,0,1,2,2,0,2,2,1,1,0,2,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190918,KETUGRAM-I,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,8,8,0,6,7,8,8,8,8,8,0,0,0,0,6,8,0,5,7,8,0,8,8,3,6,0,8,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190918,KETUGRAM-I,7,SS (VI-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,Co-Ed,3,3,0,0,3,3,3,3,3,3,0,0,0,0,2,2,0,0,3,2,0,3,3,1,0,0,3,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190918,KETUGRAM-I,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,1,1,1,0,0,0,0,0,1,0,0,0,2,0,1,0,1,0,0,0,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190918,KETUGRAM-I,4,UPS (VI-VIII),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190918,KETUGRAM-I,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,6,6,0,2,6,6,3,6,6,6,0,0,0,0,1,0,0,0,4,6,0,6,6,5,2,0,1,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190919,KETUGRAM-II,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,5,5,0,5,5,5,5,5,5,5,0,0,0,0,4,4,0,2,5,5,2,5,5,4,3,0,5,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190919,KETUGRAM-II,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,116,115,0,1,111,111,82,116,116,116,0,0,0,0,84,17,0,0,102,101,0,116,103,47,21,0,85,0,58,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190919,KETUGRAM-II,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,0,3,4,3,1,3,3,0,0,0,0,2,2,0,0,0,4,0,2,2,1,1,0,1,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190919,KETUGRAM-II,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,0,0,0,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190919,KETUGRAM-II,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,1,1,0,1,0,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190919,KETUGRAM-II,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,7,7,0,3,7,7,7,7,7,7,0,0,0,0,6,5,0,1,3,6,0,7,6,5,5,0,7,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190919,KETUGRAM-II,4,UPS (VI-VIII),1,Department of Education,Rural,2,Girls,3,2,0,1,1,1,1,0,3,3,0,0,0,0,3,2,0,0,3,3,0,3,1,0,0,0,3,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190919,KETUGRAM-II,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,10,8,0,1,9,10,6,10,10,10,0,0,0,0,6,3,0,0,7,10,0,9,6,1,5,0,5,0,6,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190920,KHANDOGHOSH,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,8,8,0,5,8,8,7,8,8,8,0,0,0,0,5,7,0,3,6,8,1,8,6,6,7,1,8,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190920,KHANDOGHOSH,5,HSS (VI-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,1,1,1,1,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190920,KHANDOGHOSH,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,175,175,0,2,174,174,128,173,175,175,0,0,0,0,93,28,0,0,153,149,0,175,143,24,38,0,151,0,73,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190920,KHANDOGHOSH,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190920,KHANDOGHOSH,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,11,11,0,2,11,11,9,6,7,8,0,0,0,0,4,4,0,0,0,7,0,5,4,0,5,0,4,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190920,KHANDOGHOSH,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,3,3,0,1,1,1,3,2,3,3,0,0,0,0,2,1,0,0,0,2,0,0,1,1,1,0,0,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190920,KHANDOGHOSH,7,SS (VI-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190920,KHANDOGHOSH,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,12,12,0,7,12,12,12,11,11,11,0,0,0,0,7,11,0,4,6,12,0,12,10,6,8,1,12,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190920,KHANDOGHOSH,7,SS (VI-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190920,KHANDOGHOSH,4,UPS (VI-VIII),3,Local body,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190920,KHANDOGHOSH,4,UPS (VI-VIII),1,Department of Education,Rural,2,Girls,4,3,0,2,2,2,3,0,4,4,0,0,0,0,2,3,0,0,2,4,0,4,4,0,3,0,4,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190920,KHANDOGHOSH,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,14,11,0,0,11,13,5,10,13,13,0,0,0,0,7,1,0,0,3,14,0,13,9,0,7,0,10,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190921,MEMARI-I,5,HSS (VI-XII),1,Department of Education,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,0,1,1,0,1,1,1,0,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190921,MEMARI-I,5,HSS (VI-XII),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,0,1,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190921,MEMARI-I,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,4,4,0,4,3,4,4,4,4,4,0,0,0,0,2,3,0,2,3,4,1,4,3,2,4,0,4,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190921,MEMARI-I,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,147,144,0,2,143,144,110,147,147,147,0,0,0,0,65,31,0,0,127,123,0,147,104,18,61,0,126,0,89,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190921,MEMARI-I,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,3,5,5,5,5,5,5,0,0,0,0,2,1,0,0,1,4,0,2,2,1,1,0,1,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190921,MEMARI-I,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,2,2,0,0,1,1,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190921,MEMARI-I,7,SS (VI-X),1,Department of Education,Rural,2,Girls,3,3,0,3,3,3,3,0,3,3,0,0,0,0,3,3,0,2,3,3,0,3,2,3,3,0,3,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190921,MEMARI-I,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,9,9,0,7,8,8,8,9,9,9,0,0,0,0,4,8,0,4,7,9,0,9,6,7,8,0,9,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190921,MEMARI-I,7,SS (VI-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190921,MEMARI-I,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190921,MEMARI-I,4,UPS (VI-VIII),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190921,MEMARI-I,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,14,12,0,2,11,12,11,13,14,14,0,0,0,0,8,5,0,1,8,14,0,14,9,2,6,0,12,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190922,MEMARI-II,5,HSS (VI-XII),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,0,0,1,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190922,MEMARI-II,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,9,9,0,6,9,9,9,9,9,9,0,0,0,0,8,7,0,5,7,8,2,9,9,9,9,0,9,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190922,MEMARI-II,1,PS (I-V),1,Department of Education,Rural,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190922,MEMARI-II,1,PS (I-V),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190922,MEMARI-II,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,124,124,0,3,117,117,112,124,124,124,0,0,0,0,88,17,0,0,110,104,0,124,101,4,72,0,111,0,99,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190922,MEMARI-II,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,3,8,8,8,6,6,6,0,0,0,0,6,2,0,0,1,7,0,6,6,2,7,0,5,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190922,MEMARI-II,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,3,3,0,2,2,3,2,3,3,3,0,0,0,0,2,1,0,0,0,3,0,2,0,0,2,0,1,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190922,MEMARI-II,7,SS (VI-X),1,Department of Education,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,0,1,1,0,1,1,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190922,MEMARI-II,7,SS (VI-X),1,Department of Education,Rural,2,Girls,2,2,0,1,2,2,2,0,2,2,0,0,0,0,2,2,0,0,2,2,0,2,2,1,2,0,2,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190922,MEMARI-II,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,8,8,0,5,8,8,8,8,8,8,0,0,0,0,8,8,0,5,8,8,0,8,8,3,4,0,8,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190922,MEMARI-II,7,SS (VI-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,0,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190922,MEMARI-II,4,UPS (VI-VIII),1,Department of Education,Rural,2,Girls,2,2,0,0,1,1,1,0,2,2,0,0,0,0,1,1,0,0,0,2,0,1,1,0,2,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190922,MEMARI-II,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,9,9,0,0,7,8,3,7,9,9,0,0,0,0,1,1,0,0,4,9,0,9,7,3,5,0,4,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190923,MONGALKOTE,5,HSS (VI-XII),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190923,MONGALKOTE,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,7,7,0,4,7,7,7,7,7,7,0,0,0,0,5,5,0,2,6,7,3,7,6,7,6,1,7,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190923,MONGALKOTE,5,HSS (VI-XII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,1,1,0,1,0,1,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190923,MONGALKOTE,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,215,215,0,5,207,207,150,212,213,213,0,0,0,0,147,30,0,0,203,170,0,215,187,37,123,0,179,0,113,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190923,MONGALKOTE,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,1,1,0,0,0,3,0,2,2,0,2,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190923,MONGALKOTE,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190923,MONGALKOTE,7,SS (VI-X),1,Department of Education,Rural,1,Boys,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,1,0,1,1,1,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190923,MONGALKOTE,7,SS (VI-X),1,Department of Education,Rural,2,Girls,3,3,0,2,3,3,3,0,3,3,0,0,0,0,2,3,0,0,3,1,0,3,3,2,2,0,3,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190923,MONGALKOTE,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,16,16,0,8,16,16,14,16,16,16,0,0,0,0,8,15,0,3,16,15,1,16,13,10,15,0,16,0,9,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190923,MONGALKOTE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,2,2,1,2,2,2,0,0,0,0,1,0,0,0,0,1,0,1,1,1,2,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190923,MONGALKOTE,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190923,MONGALKOTE,4,UPS (VI-VIII),1,Department of Education,Rural,2,Girls,1,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190923,MONGALKOTE,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,9,5,0,2,9,9,4,9,9,9,0,0,0,0,2,2,0,0,5,9,0,9,4,1,7,0,5,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190924,MONTESWAR,5,HSS (VI-XII),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,1,0,1,1,1,1,0,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190924,MONTESWAR,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,11,11,0,11,10,11,11,11,11,11,0,0,0,0,7,9,0,7,9,9,1,11,9,7,11,2,11,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190924,MONTESWAR,1,PS (I-V),1,Department of Education,Rural,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190924,MONTESWAR,1,PS (I-V),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190924,MONTESWAR,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,262,260,0,4,239,239,175,255,255,255,0,0,0,0,177,20,0,0,224,194,0,262,198,23,49,0,176,0,201,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190924,MONTESWAR,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,1,0,1,1,0,0,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190924,MONTESWAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,5,7,7,7,8,6,8,0,0,0,0,6,2,0,0,0,5,0,4,1,0,2,0,5,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190924,MONTESWAR,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,3,3,0,1,2,2,3,2,2,2,0,0,0,0,1,1,0,0,0,2,0,3,1,1,2,0,0,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190924,MONTESWAR,7,SS (VI-X),1,Department of Education,Rural,2,Girls,4,4,0,1,4,4,4,2,4,4,0,0,0,0,4,2,0,1,2,4,0,4,3,1,2,1,4,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190924,MONTESWAR,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,21,21,0,7,21,21,21,21,21,21,0,0,0,0,13,19,0,5,15,20,0,21,18,6,13,2,21,0,8,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190924,MONTESWAR,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190924,MONTESWAR,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,1,1,1,1,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190924,MONTESWAR,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,13,9,0,1,12,12,3,12,12,12,0,0,0,0,5,0,0,0,7,13,0,11,7,3,7,0,7,0,5,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190925,PANDABESWAR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190925,PANDABESWAR,5,HSS (VI-XII),1,Department of Education,Rural,1,Boys,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190925,PANDABESWAR,5,HSS (VI-XII),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,1,0,0,1,1,1,0,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190925,PANDABESWAR,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,1,2,0,3,3,3,0,3,3,3,2,0,3,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190925,PANDABESWAR,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,70,70,0,1,61,67,58,70,70,70,0,0,0,0,39,27,0,0,55,55,0,70,44,12,24,0,47,0,57,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190925,PANDABESWAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,9,9,0,0,6,8,5,6,9,9,0,0,0,0,0,2,0,0,0,3,0,0,0,0,1,0,1,0,8,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190925,PANDABESWAR,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,11,11,0,2,7,9,9,3,9,9,0,0,0,0,0,4,0,0,0,4,0,3,2,0,6,0,1,0,6,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190925,PANDABESWAR,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190925,PANDABESWAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,2,2,2,0,1,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190925,PANDABESWAR,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190925,PANDABESWAR,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,10,8,0,2,8,8,8,9,9,9,0,0,0,0,4,4,0,0,5,10,0,10,5,1,7,0,9,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190925,PANDABESWAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190926,PURBASTHALI-I,5,HSS (VI-XII),1,Department of Education,Rural,2,Girls,2,2,0,1,2,2,2,0,2,2,0,0,0,0,2,2,0,1,2,2,0,2,1,2,0,0,2,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190926,PURBASTHALI-I,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,7,7,0,6,7,7,7,7,7,7,0,0,0,0,3,5,0,3,4,7,1,7,5,5,7,1,7,0,6,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190926,PURBASTHALI-I,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,167,167,0,5,151,151,124,167,167,167,0,0,0,0,108,36,0,0,145,144,2,167,96,37,53,0,113,0,59,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190926,PURBASTHALI-I,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,11,11,0,2,11,11,9,11,11,11,0,0,0,0,9,3,0,0,0,9,1,9,3,4,5,0,7,0,7,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190926,PURBASTHALI-I,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,0,0,0,0,1,1,2,1,1,2,0,1,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190926,PURBASTHALI-I,7,SS (VI-X),1,Department of Education,Rural,2,Girls,2,2,0,0,2,2,2,0,2,2,0,0,0,0,2,2,0,0,2,2,0,2,2,0,0,0,2,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190926,PURBASTHALI-I,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,6,6,0,2,6,6,5,6,6,6,0,0,0,0,4,3,0,0,4,6,1,6,5,2,4,0,6,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190926,PURBASTHALI-I,7,SS (VI-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,0,1,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190926,PURBASTHALI-I,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,16,16,0,3,11,14,9,12,16,16,0,0,0,0,8,7,0,0,8,16,0,16,12,3,11,0,11,0,5,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190927,PURBASTHALI-II,5,HSS (VI-XII),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,0,1,1,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190927,PURBASTHALI-II,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,9,9,0,6,9,9,9,9,9,9,0,0,0,0,6,6,0,5,9,9,2,9,7,7,7,2,9,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190927,PURBASTHALI-II,1,PS (I-V),1,Department of Education,Rural,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,1,1,0,0,1,0,0,1,1,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190927,PURBASTHALI-II,1,PS (I-V),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190927,PURBASTHALI-II,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,156,155,0,10,147,148,117,156,156,156,0,0,0,0,111,23,0,1,142,130,0,156,102,18,64,0,125,0,89,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190927,PURBASTHALI-II,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,10,9,0,4,9,9,9,3,5,5,0,0,0,0,9,4,0,0,0,7,0,6,8,1,7,0,9,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190927,PURBASTHALI-II,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190927,PURBASTHALI-II,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,0,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190927,PURBASTHALI-II,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,8,8,0,5,8,8,8,8,8,8,0,0,0,0,5,6,0,1,6,8,0,8,7,4,6,0,8,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190927,PURBASTHALI-II,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,13,12,0,1,12,12,9,12,13,13,0,0,0,0,9,3,0,0,8,13,0,13,6,2,8,0,9,0,6,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190927,PURBASTHALI-II,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190928,RAINA-I,5,HSS (VI-XII),1,Department of Education,Rural,2,Girls,3,3,0,3,3,3,3,0,3,3,0,0,0,0,3,3,0,3,3,2,0,3,2,1,1,1,3,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190928,RAINA-I,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,9,9,0,8,9,9,9,9,9,9,0,0,0,0,4,7,0,6,6,9,3,9,9,7,9,0,9,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190928,RAINA-I,1,PS (I-V),5,Private Unaided (Recognized),Rural,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190928,RAINA-I,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,145,144,0,0,144,144,123,145,145,145,0,0,0,0,56,26,0,0,140,127,0,145,123,16,32,0,130,0,93,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190928,RAINA-I,1,PS (I-V),3,Local body,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190928,RAINA-I,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190928,RAINA-I,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,9,8,0,1,7,7,9,8,9,9,0,0,0,0,3,3,0,0,0,8,0,5,4,1,6,0,3,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190928,RAINA-I,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,3,3,0,1,2,2,1,3,3,3,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190928,RAINA-I,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190928,RAINA-I,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,10,10,0,7,10,10,10,10,10,10,0,0,0,0,4,10,0,3,9,10,0,10,8,3,9,1,10,0,5,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190928,RAINA-I,7,SS (VI-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190928,RAINA-I,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,9,9,0,3,8,9,5,9,9,9,0,0,0,0,3,4,0,0,5,9,0,9,6,2,2,0,4,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190929,RAINA-II,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,8,8,0,8,7,8,8,8,8,8,0,0,0,0,7,7,0,6,7,8,3,8,7,5,8,0,8,0,7,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190929,RAINA-II,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,148,148,0,4,139,139,116,142,145,146,0,0,0,0,80,18,0,0,141,138,0,148,113,27,41,0,114,0,106,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190929,RAINA-II,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,1,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190929,RAINA-II,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,10,10,0,1,5,6,5,6,6,7,0,0,0,0,3,2,0,0,0,4,0,1,4,0,2,0,1,0,7,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190929,RAINA-II,7,SS (VI-X),1,Department of Education,Rural,2,Girls,2,2,0,2,2,2,2,0,2,2,0,0,0,0,2,1,0,1,2,2,0,2,2,0,1,0,2,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190929,RAINA-II,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,16,16,0,10,16,16,16,16,16,16,0,0,0,0,11,13,0,2,15,16,0,16,16,6,15,1,16,0,7,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190929,RAINA-II,7,SS (VI-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,2,2,0,1,2,2,0,2,2,1,2,0,2,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190929,RAINA-II,4,UPS (VI-VIII),1,Department of Education,Rural,2,Girls,4,2,0,1,4,4,2,0,4,4,0,0,0,0,1,2,0,0,2,4,0,4,4,1,2,0,4,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190929,RAINA-II,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,9,8,0,1,9,9,5,7,7,8,0,0,0,0,3,3,0,0,5,9,0,5,8,1,5,0,8,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190930,RANIGANJ,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,2,3,0,3,3,4,0,4,4,2,4,1,4,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190930,RANIGANJ,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,58,58,0,1,54,56,38,58,58,58,0,0,0,0,40,26,0,0,55,40,0,58,50,12,30,0,46,0,42,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190930,RANIGANJ,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,1,2,0,2,2,2,0,2,2,2,2,0,2,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190930,RANIGANJ,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,6,5,0,2,5,5,5,6,6,6,0,0,0,0,3,3,0,0,3,5,0,6,3,0,4,0,5,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190931,SALANPUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,2,2,2,2,2,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190931,SALANPUR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190931,SALANPUR,3,HSS (I-XII),7,Central Govt,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190931,SALANPUR,5,HSS (VI-XII),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190931,SALANPUR,5,HSS (VI-XII),7,Central Govt,Urban,2,Girls,2,2,0,1,1,1,1,2,2,2,0,0,0,0,2,1,0,2,0,2,1,2,2,1,2,1,2,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190931,SALANPUR,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,0,1,0,1,2,2,0,2,1,1,2,0,2,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190931,SALANPUR,5,HSS (VI-XII),7,Central Govt,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190931,SALANPUR,5,HSS (VI-XII),7,Central Govt,Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,1,2,0,1,2,0,2,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190931,SALANPUR,1,PS (I-V),1,Department of Education,Rural,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,1,0,0,0,1,1,0,1,1,0,0,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190931,SALANPUR,1,PS (I-V),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190931,SALANPUR,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,93,93,0,6,83,87,61,93,93,93,0,0,0,0,49,24,0,0,76,70,0,90,63,7,40,0,69,0,58,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190931,SALANPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,16,16,0,8,16,16,14,14,16,16,0,0,0,0,7,7,0,2,1,11,0,4,2,3,9,0,4,0,10,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190931,SALANPUR,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,2,2,0,0,1,1,2,2,2,2,0,0,0,0,2,1,0,0,0,1,0,2,2,1,2,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190931,SALANPUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,1,0,0,1,2,2,2,2,2,0,0,0,0,1,1,0,0,0,2,0,2,2,0,1,0,2,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190931,SALANPUR,1,PS (I-V),7,Central Govt,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190931,SALANPUR,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190931,SALANPUR,7,SS (VI-X),1,Department of Education,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190931,SALANPUR,7,SS (VI-X),7,Central Govt,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,1,0,1,1,1,0,1,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190931,SALANPUR,7,SS (VI-X),1,Department of Education,Rural,2,Girls,2,2,0,1,2,2,2,0,2,2,0,0,0,0,1,0,0,1,1,0,0,2,1,1,2,1,2,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190931,SALANPUR,7,SS (VI-X),7,Central Govt,Urban,2,Girls,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,0,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190931,SALANPUR,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,1,2,0,1,1,3,0,3,1,1,3,0,3,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190931,SALANPUR,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,9,9,0,2,8,8,5,9,9,9,0,0,0,0,1,3,0,0,7,9,0,9,8,0,7,0,3,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190931,SALANPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190931,SALANPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190932,ASANSOL MUNICIPAL CORPORATION,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,1,1,0,1,1,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190932,ASANSOL MUNICIPAL CORPORATION,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,1,2,2,2,2,2,0,1,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190932,ASANSOL MUNICIPAL CORPORATION,3,HSS (I-XII),7,Central Govt,Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,1,0,0,1,1,0,2,2,1,2,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190932,ASANSOL MUNICIPAL CORPORATION,3,HSS (I-XII),98,Madarsa unrecognized,Urban,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190932,ASANSOL MUNICIPAL CORPORATION,5,HSS (VI-XII),1,Department of Education,Urban,1,Boys,11,11,0,10,10,11,11,11,5,11,0,0,0,0,5,10,0,10,8,9,2,11,2,5,5,0,11,0,6,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190932,ASANSOL MUNICIPAL CORPORATION,5,HSS (VI-XII),4,Government Aided,Urban,1,Boys,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190932,ASANSOL MUNICIPAL CORPORATION,5,HSS (VI-XII),1,Department of Education,Urban,2,Girls,8,8,0,6,8,8,8,2,8,8,0,0,0,0,2,8,0,6,3,5,4,8,3,4,7,0,8,0,6,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190932,ASANSOL MUNICIPAL CORPORATION,5,HSS (VI-XII),7,Central Govt,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,0,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190932,ASANSOL MUNICIPAL CORPORATION,5,HSS (VI-XII),1,Department of Education,Urban,3,Co-Ed,9,9,0,6,8,9,9,9,9,9,0,0,0,0,5,6,0,8,6,8,3,9,6,8,7,0,9,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190932,ASANSOL MUNICIPAL CORPORATION,5,HSS (VI-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190932,ASANSOL MUNICIPAL CORPORATION,1,PS (I-V),1,Department of Education,Urban,1,Boys,3,3,0,2,3,3,3,3,2,3,0,0,0,0,2,1,0,0,1,0,0,3,1,1,3,0,3,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190932,ASANSOL MUNICIPAL CORPORATION,1,PS (I-V),1,Department of Education,Urban,2,Girls,5,5,0,2,5,5,5,3,5,5,0,0,0,0,4,3,0,0,2,3,0,5,3,0,5,0,5,0,5,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190932,ASANSOL MUNICIPAL CORPORATION,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,179,179,0,3,157,174,153,179,179,179,0,0,0,0,100,60,0,0,125,92,0,179,43,5,57,0,178,0,82,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190932,ASANSOL MUNICIPAL CORPORATION,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,21,21,0,5,17,18,19,8,14,14,0,0,0,0,2,4,0,0,0,9,0,1,0,2,7,0,1,0,10,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190932,ASANSOL MUNICIPAL CORPORATION,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,10,10,0,2,5,6,8,3,9,9,0,0,0,0,1,3,0,0,1,5,0,3,4,1,4,0,2,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190932,ASANSOL MUNICIPAL CORPORATION,1,PS (I-V),98,Madarsa unrecognized,Urban,3,Co-Ed,3,3,0,1,2,3,3,1,2,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190932,ASANSOL MUNICIPAL CORPORATION,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,1,1,2,2,1,3,3,0,0,0,0,1,2,0,1,0,1,0,1,0,0,0,0,0,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190932,ASANSOL MUNICIPAL CORPORATION,7,SS (VI-X),1,Department of Education,Urban,1,Boys,4,4,0,2,3,3,4,4,2,4,0,0,0,0,1,4,0,3,0,2,0,4,0,2,3,0,4,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190932,ASANSOL MUNICIPAL CORPORATION,7,SS (VI-X),8,Unrecognized,Urban,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190932,ASANSOL MUNICIPAL CORPORATION,7,SS (VI-X),1,Department of Education,Urban,2,Girls,7,7,0,5,7,7,7,4,7,7,0,0,0,0,5,5,0,2,4,3,0,7,2,4,4,0,7,0,5,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190932,ASANSOL MUNICIPAL CORPORATION,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,12,12,0,5,10,11,12,12,12,12,0,0,0,0,6,8,0,6,7,12,0,12,4,4,7,1,12,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190932,ASANSOL MUNICIPAL CORPORATION,2,UPS (I-VIII),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190932,ASANSOL MUNICIPAL CORPORATION,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,9,9,0,4,9,9,9,4,9,9,0,0,0,0,4,2,0,0,0,5,1,1,5,3,2,0,1,0,6,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190932,ASANSOL MUNICIPAL CORPORATION,2,UPS (I-VIII),8,Unrecognized,Urban,3,Co-Ed,3,3,0,3,3,3,3,1,3,3,0,0,0,0,1,2,0,0,0,0,0,0,3,0,3,0,0,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190932,ASANSOL MUNICIPAL CORPORATION,2,UPS (I-VIII),98,Madarsa unrecognized,Urban,3,Co-Ed,1,1,0,0,0,1,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190932,ASANSOL MUNICIPAL CORPORATION,4,UPS (VI-VIII),1,Department of Education,Urban,2,Girls,2,2,0,1,2,2,2,0,2,2,0,0,0,0,0,1,0,1,2,0,0,2,0,1,2,0,2,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190932,ASANSOL MUNICIPAL CORPORATION,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,5,2,0,0,5,5,0,5,5,5,0,0,0,0,0,0,0,0,1,5,0,5,5,0,5,0,5,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190932,ASANSOL MUNICIPAL CORPORATION,4,UPS (VI-VIII),1,Department of Education,Urban,3,Co-Ed,2,2,0,1,1,2,1,2,2,2,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190932,ASANSOL MUNICIPAL CORPORATION,4,UPS (VI-VIII),98,Madarsa unrecognized,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190933,BURDWAN MUNICIPALITY,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,0,2,0,1,0,2,0,2,0,2,2,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190933,BURDWAN MUNICIPALITY,3,HSS (I-XII),7,Central Govt,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190933,BURDWAN MUNICIPALITY,5,HSS (VI-XII),1,Department of Education,Urban,1,Boys,8,7,0,7,8,8,8,8,7,8,0,0,0,0,3,6,0,6,4,6,5,8,2,7,6,0,8,0,5,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190933,BURDWAN MUNICIPALITY,5,HSS (VI-XII),1,Department of Education,Urban,2,Girls,7,7,0,6,7,7,7,3,7,7,0,0,0,0,4,5,0,4,3,5,3,7,2,6,5,0,7,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190933,BURDWAN MUNICIPALITY,5,HSS (VI-XII),1,Department of Education,Urban,3,Co-Ed,8,8,0,8,8,8,8,8,8,8,0,0,0,0,5,4,0,5,5,6,0,8,4,7,5,0,8,0,5,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190933,BURDWAN MUNICIPALITY,1,PS (I-V),1,Department of Education,Urban,1,Boys,3,2,0,1,3,3,3,3,1,3,0,0,0,0,2,3,0,0,2,2,0,3,1,0,1,0,3,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190933,BURDWAN MUNICIPALITY,1,PS (I-V),1,Department of Education,Urban,2,Girls,5,5,0,0,5,5,5,1,5,5,0,0,0,0,3,4,0,0,0,1,0,5,3,1,3,0,5,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190933,BURDWAN MUNICIPALITY,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,83,83,0,6,76,80,80,83,83,83,0,0,0,0,54,26,0,0,53,45,1,83,40,12,33,0,82,0,22,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190933,BURDWAN MUNICIPALITY,1,PS (I-V),3,Local body,Urban,3,Co-Ed,5,5,0,0,4,5,5,5,5,5,0,0,0,0,2,2,0,0,3,4,0,5,2,0,1,0,5,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190933,BURDWAN MUNICIPALITY,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,17,17,0,7,16,17,16,7,10,10,0,0,0,0,1,1,0,0,1,9,0,6,3,2,8,0,2,0,8,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190933,BURDWAN MUNICIPALITY,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,3,3,0,1,1,3,2,1,1,1,0,0,0,0,0,1,0,0,0,1,0,2,0,0,1,0,0,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190933,BURDWAN MUNICIPALITY,6,SS (I-X),8,Unrecognized,Urban,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190933,BURDWAN MUNICIPALITY,7,SS (VI-X),1,Department of Education,Urban,1,Boys,2,2,0,0,2,2,2,2,0,2,0,0,0,0,1,0,0,0,1,1,0,2,0,1,1,0,2,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190933,BURDWAN MUNICIPALITY,7,SS (VI-X),1,Department of Education,Urban,2,Girls,6,6,0,4,6,6,6,4,6,6,0,0,0,0,4,4,0,3,4,6,0,6,3,3,5,0,6,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190933,BURDWAN MUNICIPALITY,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,2,3,0,1,3,3,0,3,3,1,2,0,3,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190933,BURDWAN MUNICIPALITY,2,UPS (I-VIII),8,Unrecognized,Urban,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190933,BURDWAN MUNICIPALITY,2,UPS (I-VIII),98,Madarsa unrecognized,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190933,BURDWAN MUNICIPALITY,2,UPS (I-VIII),2,Tribal Welfare Department,Urban,3,Co-Ed,2,1,0,1,2,2,2,2,2,2,0,0,0,0,2,2,0,0,0,1,0,1,2,0,1,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190933,BURDWAN MUNICIPALITY,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190933,BURDWAN MUNICIPALITY,4,UPS (VI-VIII),1,Department of Education,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190933,BURDWAN MUNICIPALITY,4,UPS (VI-VIII),1,Department of Education,Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190933,BURDWAN MUNICIPALITY,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,2,Girls,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190933,BURDWAN MUNICIPALITY,4,UPS (VI-VIII),8,Unrecognized,Urban,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190934,DAINHAT MUNICIPALITY,5,HSS (VI-XII),1,Department of Education,Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,1,1,0,0,1,1,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190934,DAINHAT MUNICIPALITY,5,HSS (VI-XII),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,1,1,0,1,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190934,DAINHAT MUNICIPALITY,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,20,20,0,2,19,19,20,20,20,20,0,0,0,0,8,10,0,0,17,9,0,20,13,1,8,0,20,0,7,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190934,DAINHAT MUNICIPALITY,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,1,2,2,2,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190934,DAINHAT MUNICIPALITY,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,1,0,1,0,0,1,1,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190934,DAINHAT MUNICIPALITY,4,UPS (VI-VIII),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190935,DURGAPUR MUNICIPAL CORPORATION,3,HSS (I-XII),4,Government Aided,Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,0,2,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190935,DURGAPUR MUNICIPAL CORPORATION,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,5,5,0,3,5,5,5,3,4,4,0,0,0,0,1,3,0,1,0,2,1,2,1,2,4,0,2,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190935,DURGAPUR MUNICIPAL CORPORATION,3,HSS (I-XII),7,Central Govt,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,1,1,1,0,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190935,DURGAPUR MUNICIPAL CORPORATION,5,HSS (VI-XII),1,Department of Education,Urban,1,Boys,5,5,0,4,5,5,5,5,3,5,0,0,0,0,1,3,0,1,3,4,1,5,2,4,4,0,5,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190935,DURGAPUR MUNICIPAL CORPORATION,5,HSS (VI-XII),4,Government Aided,Urban,1,Boys,2,2,0,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,2,0,2,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190935,DURGAPUR MUNICIPAL CORPORATION,5,HSS (VI-XII),1,Department of Education,Urban,2,Girls,3,3,0,2,3,3,3,0,3,3,0,0,0,0,2,2,0,2,3,3,0,3,0,2,2,0,3,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190935,DURGAPUR MUNICIPAL CORPORATION,5,HSS (VI-XII),4,Government Aided,Urban,2,Girls,2,2,0,2,2,2,2,0,2,2,0,0,0,0,0,1,0,0,0,1,0,2,1,0,1,0,2,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190935,DURGAPUR MUNICIPAL CORPORATION,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,0,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190935,DURGAPUR MUNICIPAL CORPORATION,5,HSS (VI-XII),1,Department of Education,Urban,3,Co-Ed,14,14,0,12,14,14,14,14,14,14,0,0,0,0,4,9,0,8,9,9,0,14,7,8,9,1,14,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190935,DURGAPUR MUNICIPAL CORPORATION,5,HSS (VI-XII),4,Government Aided,Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,1,0,1,0,1,0,2,2,1,2,0,2,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190935,DURGAPUR MUNICIPAL CORPORATION,5,HSS (VI-XII),7,Central Govt,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190935,DURGAPUR MUNICIPAL CORPORATION,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,103,102,0,6,99,102,101,103,103,103,0,0,0,0,42,50,0,0,84,56,0,103,26,0,41,0,103,0,48,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190935,DURGAPUR MUNICIPAL CORPORATION,1,PS (I-V),3,Local body,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,0,0,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190935,DURGAPUR MUNICIPAL CORPORATION,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,0,0,0,0,0,0,0,4,1,0,4,0,4,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190935,DURGAPUR MUNICIPAL CORPORATION,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,12,12,0,3,10,12,12,0,10,10,0,0,0,0,0,0,0,0,0,5,0,0,1,0,3,0,0,0,7,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190935,DURGAPUR MUNICIPAL CORPORATION,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,8,8,0,2,8,8,8,0,7,7,0,0,0,0,0,2,0,0,0,5,0,1,0,0,2,0,0,0,7,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190935,DURGAPUR MUNICIPAL CORPORATION,1,PS (I-V),98,Madarsa unrecognized,Urban,3,Co-Ed,2,2,0,0,2,2,2,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190935,DURGAPUR MUNICIPAL CORPORATION,6,SS (I-X),5,Private Unaided (Recognized),Urban,1,Boys,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190935,DURGAPUR MUNICIPAL CORPORATION,6,SS (I-X),8,Unrecognized,Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190935,DURGAPUR MUNICIPAL CORPORATION,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,0,1,0,0,0,2,0,2,2,1,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190935,DURGAPUR MUNICIPAL CORPORATION,7,SS (VI-X),1,Department of Education,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190935,DURGAPUR MUNICIPAL CORPORATION,7,SS (VI-X),1,Department of Education,Urban,2,Girls,3,3,0,1,3,3,3,0,3,3,0,0,0,0,1,2,0,0,3,2,0,3,0,1,3,0,3,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190935,DURGAPUR MUNICIPAL CORPORATION,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,6,6,0,1,4,6,6,6,6,6,0,0,0,0,3,5,0,1,3,5,0,6,1,3,4,0,6,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190935,DURGAPUR MUNICIPAL CORPORATION,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,5,5,0,3,5,5,4,2,5,5,0,0,0,0,1,0,0,0,0,0,0,3,2,0,2,0,0,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190935,DURGAPUR MUNICIPAL CORPORATION,4,UPS (VI-VIII),1,Department of Education,Urban,3,Co-Ed,8,5,0,1,6,7,4,5,5,5,0,0,0,0,2,0,0,1,2,6,0,4,2,1,6,0,1,0,5,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190935,DURGAPUR MUNICIPAL CORPORATION,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,5,5,0,3,5,5,5,2,5,5,0,0,0,0,1,1,0,0,0,4,1,2,1,2,4,0,2,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190935,DURGAPUR MUNICIPAL CORPORATION,4,UPS (VI-VIII),8,Unrecognized,Urban,3,Co-Ed,3,3,0,0,3,3,3,1,2,2,0,0,0,0,0,1,0,0,0,2,0,0,1,0,2,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190936,GUSHKARA MUNICIPALITY,5,HSS (VI-XII),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,1,0,0,1,1,1,0,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190936,GUSHKARA MUNICIPALITY,5,HSS (VI-XII),1,Department of Education,Urban,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,1,3,0,2,3,3,1,3,1,2,3,0,3,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190936,GUSHKARA MUNICIPALITY,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,16,16,0,0,14,14,16,16,16,16,0,0,0,0,8,2,0,0,14,8,0,16,13,0,7,0,16,0,9,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190936,GUSHKARA MUNICIPALITY,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,4,4,0,0,3,3,1,4,4,4,0,0,0,0,1,0,0,0,3,3,0,1,3,0,3,0,4,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190936,GUSHKARA MUNICIPALITY,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,5,5,0,2,4,5,5,5,5,5,0,0,0,0,1,2,0,0,0,2,0,0,1,0,2,0,0,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190936,GUSHKARA MUNICIPALITY,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,0,0,1,1,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190936,GUSHKARA MUNICIPALITY,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,1,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190937,JAMURIA MUNICIPALITY,5,HSS (VI-XII),1,Department of Education,Urban,1,Boys,2,2,0,2,1,1,2,2,2,2,0,0,0,0,0,0,0,1,2,2,0,2,0,2,1,0,2,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190937,JAMURIA MUNICIPALITY,5,HSS (VI-XII),1,Department of Education,Urban,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,2,3,0,2,4,4,2,4,0,3,4,0,4,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190937,JAMURIA MUNICIPALITY,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,51,50,0,5,40,45,46,51,51,51,0,0,0,0,19,25,0,0,35,44,0,51,16,1,30,0,51,0,23,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190937,JAMURIA MUNICIPALITY,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190937,JAMURIA MUNICIPALITY,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,10,10,0,5,7,8,9,6,9,9,0,0,0,0,1,1,0,0,0,7,0,2,1,0,2,0,2,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190937,JAMURIA MUNICIPALITY,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,3,3,0,0,2,3,2,1,2,2,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190937,JAMURIA MUNICIPALITY,7,SS (VI-X),1,Department of Education,Urban,2,Girls,2,2,0,1,2,2,2,0,2,2,0,0,0,0,0,2,0,1,1,1,0,2,1,0,0,0,2,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190937,JAMURIA MUNICIPALITY,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,4,4,0,3,4,4,4,4,4,4,0,0,0,0,1,3,0,1,2,4,0,4,1,2,4,0,4,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190937,JAMURIA MUNICIPALITY,2,UPS (I-VIII),8,Unrecognized,Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190937,JAMURIA MUNICIPALITY,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,5,5,0,3,5,5,5,5,5,5,0,0,0,0,0,0,0,0,0,3,0,1,0,0,1,0,0,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190937,JAMURIA MUNICIPALITY,2,UPS (I-VIII),98,Madarsa unrecognized,Urban,3,Co-Ed,1,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190937,JAMURIA MUNICIPALITY,4,UPS (VI-VIII),1,Department of Education,Urban,2,Girls,1,1,0,0,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190937,JAMURIA MUNICIPALITY,4,UPS (VI-VIII),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190937,JAMURIA MUNICIPALITY,4,UPS (VI-VIII),98,Madarsa unrecognized,Urban,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,0,1,0,0,0,2,0,1,0,1,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190938,KALNA MUNICIPALITY,5,HSS (VI-XII),1,Department of Education,Urban,1,Boys,2,2,0,2,2,2,2,2,0,2,0,0,0,0,0,2,0,1,2,2,0,2,1,1,2,0,2,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190938,KALNA MUNICIPALITY,5,HSS (VI-XII),1,Department of Education,Urban,2,Girls,3,3,0,3,3,3,3,0,3,3,0,0,0,0,2,3,0,3,3,2,0,3,1,0,1,0,3,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190938,KALNA MUNICIPALITY,5,HSS (VI-XII),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190938,KALNA MUNICIPALITY,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,33,33,0,0,32,32,32,33,33,33,0,0,0,0,19,11,0,0,30,10,0,33,6,2,9,0,33,0,15,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190938,KALNA MUNICIPALITY,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,4,4,0,1,2,4,3,1,2,2,0,0,0,0,2,2,0,0,0,4,0,1,3,1,2,0,4,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190938,KALNA MUNICIPALITY,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,2,2,0,0,2,2,2,1,0,1,0,0,0,0,0,1,0,0,1,2,0,0,1,0,0,0,2,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190938,KALNA MUNICIPALITY,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,1,1,0,0,2,0,1,0,0,2,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190939,KATWA MUNICIPALITY,5,HSS (VI-XII),1,Department of Education,Urban,1,Boys,4,4,0,4,4,4,4,4,1,4,0,0,0,0,2,4,0,3,4,4,1,4,2,4,3,0,4,0,2,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190939,KATWA MUNICIPALITY,5,HSS (VI-XII),1,Department of Education,Urban,2,Girls,3,3,0,3,3,3,3,0,3,3,0,0,0,0,3,2,0,2,1,1,0,3,1,2,1,0,3,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190939,KATWA MUNICIPALITY,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,35,35,0,4,31,34,33,35,35,35,0,0,0,0,17,11,0,0,27,9,0,35,16,1,3,0,35,0,19,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190939,KATWA MUNICIPALITY,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,10,10,0,7,10,10,10,3,10,10,0,0,0,0,3,1,0,0,0,1,0,5,4,2,4,0,0,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190939,KATWA MUNICIPALITY,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,5,5,0,2,5,5,5,1,5,5,0,0,0,0,0,1,0,0,0,0,0,4,2,1,1,0,1,0,5,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190939,KATWA MUNICIPALITY,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190939,KATWA MUNICIPALITY,4,UPS (VI-VIII),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190940,KULTI MUNICIPALITY,5,HSS (VI-XII),1,Department of Education,Urban,1,Boys,5,5,0,3,5,5,5,5,3,5,0,0,0,0,1,3,0,1,1,4,0,5,2,3,4,0,5,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190940,KULTI MUNICIPALITY,5,HSS (VI-XII),1,Department of Education,Urban,2,Girls,5,5,0,5,3,5,4,0,5,5,0,0,0,0,2,3,0,4,0,2,1,5,1,2,5,0,4,0,3,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190940,KULTI MUNICIPALITY,5,HSS (VI-XII),1,Department of Education,Urban,3,Co-Ed,5,5,0,5,3,4,5,5,5,5,0,0,0,0,1,4,0,4,2,4,1,5,0,3,4,0,4,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190940,KULTI MUNICIPALITY,1,PS (I-V),1,Department of Education,Urban,1,Boys,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,0,0,0,1,1,0,1,1,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190940,KULTI MUNICIPALITY,1,PS (I-V),1,Department of Education,Urban,2,Girls,3,3,0,0,2,3,3,0,3,3,0,0,0,0,2,2,0,0,3,3,0,3,0,0,3,0,3,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190940,KULTI MUNICIPALITY,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,93,92,0,0,63,82,75,93,93,93,0,0,0,0,45,33,0,0,52,42,0,93,22,1,21,0,93,0,51,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190940,KULTI MUNICIPALITY,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,8,8,0,1,3,6,6,1,3,3,0,0,0,0,0,1,0,0,0,3,0,0,1,0,1,0,1,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190940,KULTI MUNICIPALITY,1,PS (I-V),98,Madarsa unrecognized,Urban,3,Co-Ed,2,2,0,0,1,2,2,1,1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190940,KULTI MUNICIPALITY,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190940,KULTI MUNICIPALITY,7,SS (VI-X),1,Department of Education,Urban,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,1,1,1,0,1,1,0,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190940,KULTI MUNICIPALITY,7,SS (VI-X),1,Department of Education,Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190940,KULTI MUNICIPALITY,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,3,3,0,2,2,3,2,3,3,3,0,0,0,0,2,3,0,2,1,3,0,3,0,1,3,0,3,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190940,KULTI MUNICIPALITY,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,1,1,3,2,1,2,2,0,0,0,0,0,2,0,0,0,3,0,0,2,0,1,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190940,KULTI MUNICIPALITY,4,UPS (VI-VIII),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190940,KULTI MUNICIPALITY,4,UPS (VI-VIII),3,Local body,Urban,2,Girls,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,1,0,0,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190940,KULTI MUNICIPALITY,4,UPS (VI-VIII),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190940,KULTI MUNICIPALITY,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190941,MEMARI MUNICIPALITY,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,Boys,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190941,MEMARI MUNICIPALITY,5,HSS (VI-XII),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190941,MEMARI MUNICIPALITY,5,HSS (VI-XII),1,Department of Education,Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,2,2,2,0,2,1,2,1,0,2,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190941,MEMARI MUNICIPALITY,1,PS (I-V),1,Department of Education,Urban,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190941,MEMARI MUNICIPALITY,1,PS (I-V),1,Department of Education,Urban,2,Girls,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190941,MEMARI MUNICIPALITY,1,PS (I-V),98,Madarsa unrecognized,Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190941,MEMARI MUNICIPALITY,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,11,11,0,0,11,11,9,11,11,11,0,0,0,0,8,8,0,0,10,5,0,11,11,0,2,0,11,0,10,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190941,MEMARI MUNICIPALITY,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,0,1,2,2,2,2,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190941,MEMARI MUNICIPALITY,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,3,3,0,2,1,2,3,3,3,3,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190941,MEMARI MUNICIPALITY,7,SS (VI-X),8,Unrecognized,Urban,1,Boys,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190941,MEMARI MUNICIPALITY,7,SS (VI-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190941,MEMARI MUNICIPALITY,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,1,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190942,RANIGANJ MUNICIPALITY,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,1,1,1,2,1,2,2,0,0,0,0,0,2,0,0,0,0,1,2,1,1,2,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190942,RANIGANJ MUNICIPALITY,3,HSS (I-XII),8,Unrecognized,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190942,RANIGANJ MUNICIPALITY,5,HSS (VI-XII),1,Department of Education,Urban,1,Boys,2,2,0,1,2,2,2,2,1,2,0,0,0,0,1,2,0,1,1,2,1,2,2,2,2,0,2,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190942,RANIGANJ MUNICIPALITY,5,HSS (VI-XII),1,Department of Education,Urban,2,Girls,5,5,0,4,5,5,5,0,5,5,0,0,0,0,2,5,0,3,5,4,1,5,3,3,2,0,5,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190942,RANIGANJ MUNICIPALITY,5,HSS (VI-XII),1,Department of Education,Urban,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,2,2,0,3,3,2,0,3,0,2,2,0,3,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190942,RANIGANJ MUNICIPALITY,1,PS (I-V),1,Department of Education,Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,1,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190942,RANIGANJ MUNICIPALITY,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,38,38,0,0,35,38,33,38,38,38,0,0,0,0,24,22,0,0,32,12,0,38,7,3,13,0,38,0,17,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190942,RANIGANJ MUNICIPALITY,1,PS (I-V),3,Local body,Urban,3,Co-Ed,5,5,0,0,5,5,5,5,5,5,0,0,0,0,5,3,0,0,5,1,0,5,4,0,1,0,5,0,4,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190942,RANIGANJ MUNICIPALITY,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,12,12,0,3,11,11,11,4,7,7,0,0,0,0,1,2,0,0,0,0,0,1,0,0,2,0,0,0,6,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190942,RANIGANJ MUNICIPALITY,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190942,RANIGANJ MUNICIPALITY,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190942,RANIGANJ MUNICIPALITY,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190942,RANIGANJ MUNICIPALITY,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,0,2,2,1,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190942,RANIGANJ MUNICIPALITY,4,UPS (VI-VIII),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190942,RANIGANJ MUNICIPALITY,4,UPS (VI-VIII),1,Department of Education,Urban,2,Girls,1,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0
+2016-17,19,West Bengal,1909,BARDDHAMAN,190942,RANIGANJ MUNICIPALITY,4,UPS (VI-VIII),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,1,0,0,0,0

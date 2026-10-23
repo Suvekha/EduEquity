@@ -1,0 +1,789 @@
+Academic_Year,State_Code,State_Name,District_Code,District_Name,Block_Code,Udise_Block_Name,School_Category_Id,School_Category_Name,School_Management_Id,School_Management_Name,Location,School_Type_Id,School_Type,Total_Number_of_Schools,Building,Complete_Medical_Checkup,Computer_Available,Functional_Drinking_Water,Drinking_Water,Functional_Electricity,Functional_Boy_Toilet,Functional_Girl_Toilet,Functional_Toilet_Facility,Functional_Toilet_and_Urinal,Functional_Urinal,Functional_Urinal_Boy,Functional_Urinal_Girl,Handwash,Separate_Room_for_Headmaster,Incinerator,Internet,Kitchen_Garden,Land_Available,Librarian,Library_or_Reading_Corner_or_Book_Bank,Medical_Checkup,Newspaper,Playground,Rain_Water_Harvesting,Ramps,Solar_Panel,Furniture,Water_Purifier,Water_Tested
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281801,YERRAGONDAPALEM,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,1,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281801,YERRAGONDAPALEM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,1,0,2,0,1,1,1,0,2,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281801,YERRAGONDAPALEM,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281801,YERRAGONDAPALEM,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,6,6,0,0,5,6,4,2,2,2,0,0,0,0,0,1,0,0,1,6,0,5,4,1,5,0,0,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281801,YERRAGONDAPALEM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,43,43,0,0,40,42,40,23,35,35,0,0,0,0,6,1,0,1,10,38,0,43,35,11,13,4,22,0,32,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281801,YERRAGONDAPALEM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,1,2,2,0,0,0,0,1,2,0,0,0,2,0,2,2,2,2,1,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281801,YERRAGONDAPALEM,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,3,3,0,0,3,3,3,3,3,3,0,0,0,0,2,0,0,0,0,0,0,3,0,1,3,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281801,YERRAGONDAPALEM,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,0,2,0,0,0,2,0,2,2,0,2,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281801,YERRAGONDAPALEM,6,SS (I-X),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281801,YERRAGONDAPALEM,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,1,2,2,2,0,0,0,0,1,2,0,0,0,1,0,2,2,2,2,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281801,YERRAGONDAPALEM,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281801,YERRAGONDAPALEM,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281801,YERRAGONDAPALEM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,4,4,0,1,4,4,4,0,1,1,0,0,0,0,0,3,0,0,2,4,0,4,3,4,4,2,4,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281801,YERRAGONDAPALEM,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,1,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281801,YERRAGONDAPALEM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,3,4,4,4,2,4,4,0,0,0,0,2,4,0,1,0,4,0,4,4,4,4,2,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281801,YERRAGONDAPALEM,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281801,YERRAGONDAPALEM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,8,8,0,3,7,8,8,7,8,8,0,0,0,0,4,1,0,0,3,5,0,8,7,5,3,0,8,0,7,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281801,YERRAGONDAPALEM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281801,YERRAGONDAPALEM,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281802,PULLALACHERUVU,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,2,2,0,1,1,2,2,1,2,2,0,0,0,0,1,0,0,0,1,0,0,2,1,1,0,0,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281802,PULLALACHERUVU,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,4,4,0,0,4,4,3,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,4,0,3,0,1,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281802,PULLALACHERUVU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,42,42,0,1,35,40,40,16,30,30,0,0,0,0,18,0,0,0,14,29,0,42,21,3,18,0,16,0,37,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281802,PULLALACHERUVU,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281802,PULLALACHERUVU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,1,1,2,1,1,1,0,0,0,0,1,1,0,0,0,2,0,1,1,1,2,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281802,PULLALACHERUVU,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,4,4,0,1,4,4,3,0,0,0,0,0,0,0,0,2,0,0,0,3,0,3,0,3,3,0,1,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281802,PULLALACHERUVU,6,SS (I-X),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281802,PULLALACHERUVU,6,SS (I-X),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281802,PULLALACHERUVU,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281802,PULLALACHERUVU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,3,3,0,3,3,3,3,1,3,3,0,0,0,0,2,2,0,1,0,3,0,3,3,2,2,0,1,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281802,PULLALACHERUVU,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281802,PULLALACHERUVU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,6,6,0,3,6,6,6,5,6,6,0,0,0,0,2,0,0,0,4,6,0,6,4,2,5,0,5,0,6,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281802,PULLALACHERUVU,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281803,TRIPURANTHAKAM,11,HSS (XI-XII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,0,1,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281803,TRIPURANTHAKAM,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281803,TRIPURANTHAKAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,48,48,0,1,37,43,45,22,41,41,0,0,0,0,7,3,0,0,21,24,0,48,42,8,9,0,33,0,44,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281803,TRIPURANTHAKAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,1,2,2,0,0,0,0,1,1,0,0,0,1,0,2,1,1,2,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281803,TRIPURANTHAKAM,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281803,TRIPURANTHAKAM,6,SS (I-X),1,Department of Education,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,1,0,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281803,TRIPURANTHAKAM,6,SS (I-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,1,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281803,TRIPURANTHAKAM,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281803,TRIPURANTHAKAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,5,5,0,5,4,5,5,1,5,5,0,0,0,0,2,1,0,1,0,5,0,5,3,2,5,1,1,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281803,TRIPURANTHAKAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,1,3,3,3,1,3,3,0,0,0,0,2,3,0,2,0,3,0,3,3,3,3,3,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281803,TRIPURANTHAKAM,7,SS (VI-X),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281803,TRIPURANTHAKAM,7,SS (VI-X),3,Local body,Urban,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281803,TRIPURANTHAKAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,8,8,0,2,8,8,8,5,8,8,0,0,0,0,4,0,0,0,6,7,0,8,7,2,4,0,6,0,7,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281803,TRIPURANTHAKAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,3,4,4,4,4,4,4,0,0,0,0,2,3,0,0,0,3,0,4,4,3,4,0,2,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281804,KURICHEDU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281804,KURICHEDU,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281804,KURICHEDU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,44,44,0,4,38,42,40,26,42,42,0,0,0,0,17,1,0,0,6,27,0,44,36,12,18,0,19,0,43,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281804,KURICHEDU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,1,2,2,0,0,0,0,0,2,0,1,0,2,0,2,1,0,1,0,1,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281804,KURICHEDU,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,0,1,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281804,KURICHEDU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,5,5,0,1,4,4,4,1,5,5,0,0,0,0,0,3,0,0,0,5,0,5,5,3,4,2,5,0,5,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281804,KURICHEDU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,1,2,2,0,0,0,0,0,2,0,1,0,0,0,2,2,0,2,1,2,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281804,KURICHEDU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,6,6,0,2,3,6,6,5,6,6,0,0,0,0,1,0,0,0,5,4,0,6,6,3,4,0,6,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281804,KURICHEDU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,0,2,0,1,0,2,0,2,1,2,2,1,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281805,DONAKONDA,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281805,DONAKONDA,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281805,DONAKONDA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,57,57,0,1,49,57,39,35,50,51,0,0,0,0,46,3,0,2,28,30,0,57,47,9,24,1,14,0,42,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281805,DONAKONDA,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,5,5,0,0,3,5,4,1,2,2,0,0,0,0,4,2,0,0,2,5,0,5,5,2,5,1,2,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281805,DONAKONDA,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,0,0,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281805,DONAKONDA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,4,5,5,5,1,6,6,0,0,0,0,1,3,0,0,0,6,0,6,5,5,6,1,3,0,5,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281805,DONAKONDA,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281805,DONAKONDA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,5,5,0,3,3,5,5,4,5,5,0,0,0,0,4,0,0,0,4,4,0,5,2,4,3,0,5,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281805,DONAKONDA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281806,PEDARAVEEDU,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,3,3,0,0,2,3,1,1,3,3,0,0,0,0,1,0,0,0,0,2,0,3,3,1,1,0,0,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281806,PEDARAVEEDU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,39,39,0,1,35,39,35,24,33,34,0,0,0,0,27,1,0,0,7,33,0,39,29,4,24,1,13,0,26,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281806,PEDARAVEEDU,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281806,PEDARAVEEDU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,1,2,2,0,0,0,0,2,2,0,0,0,2,0,2,1,1,2,0,2,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281806,PEDARAVEEDU,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281806,PEDARAVEEDU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,9,9,0,5,7,9,9,5,9,9,0,0,0,0,5,3,0,1,0,9,0,9,7,7,9,4,6,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281806,PEDARAVEEDU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,0,0,2,0,2,1,2,2,0,2,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281806,PEDARAVEEDU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,7,7,0,1,7,7,7,5,6,6,0,0,0,0,5,0,0,0,1,7,0,7,7,1,6,1,4,0,5,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281807,P.DORNALA,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,1,1,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281807,P.DORNALA,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,0,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281807,P.DORNALA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,2,3,0,2,0,3,0,3,1,2,3,1,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281807,P.DORNALA,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,9,9,0,0,9,9,9,7,8,8,0,0,0,0,8,4,0,0,0,7,0,9,9,7,8,0,2,0,5,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281807,P.DORNALA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,31,31,0,0,29,31,31,23,30,30,0,0,0,0,28,2,0,0,5,18,0,31,29,25,13,0,11,0,26,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281807,P.DORNALA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,2,5,5,5,3,5,5,0,0,0,0,5,4,0,1,0,2,0,5,4,3,4,0,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281807,P.DORNALA,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281807,P.DORNALA,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281807,P.DORNALA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,3,3,0,3,2,3,3,1,3,3,0,0,0,0,2,1,0,0,0,3,0,3,3,3,3,0,2,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281807,P.DORNALA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,2,4,4,4,3,4,4,0,0,0,0,0,4,0,1,0,1,0,4,3,2,4,1,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281807,P.DORNALA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281807,P.DORNALA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281807,P.DORNALA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,5,5,0,1,4,5,5,4,5,5,0,0,0,0,5,0,0,0,3,5,0,5,4,5,4,0,3,0,5,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281807,P.DORNALA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281808,ARDHAVEEDU,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,0,1,1,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281808,ARDHAVEEDU,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281808,ARDHAVEEDU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,30,30,0,0,25,29,29,15,28,28,0,0,0,0,21,0,0,4,9,21,0,30,30,2,5,1,8,0,25,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281808,ARDHAVEEDU,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,1,0,2,2,0,0,0,0,2,2,0,2,0,0,0,2,2,0,2,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281808,ARDHAVEEDU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,2,2,1,1,2,2,0,0,0,0,2,0,0,0,0,2,0,2,2,0,1,0,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281808,ARDHAVEEDU,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,2,2,0,0,1,1,1,0,0,0,0,0,0,0,1,2,0,0,0,1,0,1,2,1,1,0,1,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281808,ARDHAVEEDU,6,SS (I-X),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281808,ARDHAVEEDU,6,SS (I-X),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281808,ARDHAVEEDU,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,0,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281808,ARDHAVEEDU,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281808,ARDHAVEEDU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,7,7,0,4,6,7,4,3,6,6,0,0,0,0,2,1,0,1,0,7,0,7,7,6,6,0,0,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281808,ARDHAVEEDU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281808,ARDHAVEEDU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,7,7,0,2,6,7,7,2,6,6,0,0,0,0,6,0,0,1,4,6,0,7,7,1,6,0,3,0,7,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,1,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,11,HSS (XI-XII),4,Government Aided,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,0,1,0,1,1,1,1,1,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,0,2,1,2,2,1,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,11,HSS (XI-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,4,4,0,1,3,4,4,3,4,4,0,0,0,0,2,3,0,4,0,3,0,4,2,4,4,2,2,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,1,PS (I-V),98,Madarsa unrecognized,Urban,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,1,PS (I-V),3,Local body,Rural,3,Co-Ed,55,55,0,0,40,51,51,43,51,51,0,0,0,0,31,3,0,0,9,37,0,55,46,3,25,0,28,0,33,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,1,0,0,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,3,4,4,4,4,4,4,0,0,0,0,3,4,0,2,0,1,0,3,3,3,3,0,2,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,1,PS (I-V),3,Local body,Urban,3,Co-Ed,10,10,0,0,7,10,9,5,7,7,0,0,0,0,7,3,0,0,2,7,0,10,6,1,3,0,1,0,6,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,2,2,0,0,1,2,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,2,0,1,1,0,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,10,10,0,9,10,10,9,9,10,10,0,0,0,0,4,10,0,1,0,7,0,9,8,7,10,3,2,0,5,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,1,2,0,1,0,2,0,2,0,1,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,1,PS (I-V),98,Madarsa unrecognized,Urban,3,Co-Ed,3,3,0,2,2,3,3,2,3,3,0,0,0,0,1,1,0,0,0,1,0,0,1,0,2,0,2,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,6,SS (I-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,0,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,6,SS (I-X),2,Tribal Welfare Department,Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,7,SS (VI-X),3,Local body,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,1,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,7,SS (VI-X),3,Local body,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,3,5,6,5,2,6,6,0,0,0,0,3,4,0,0,0,6,0,6,3,5,5,1,4,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,2,0,2,0,2,2,2,2,2,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,13,13,0,9,12,13,13,12,13,13,0,0,0,0,7,12,0,7,0,7,0,13,12,9,12,5,1,0,11,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,7,SS (VI-X),8,Unrecognized,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,8,8,0,2,2,8,8,7,8,8,0,0,0,0,5,2,0,0,5,8,0,8,7,2,5,0,6,0,5,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,4,4,0,1,4,4,4,1,3,3,0,0,0,0,2,1,0,0,2,4,0,4,1,2,3,1,1,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,2,UPS (I-VIII),4,Government Aided,Urban,3,Co-Ed,2,2,0,0,2,2,2,1,2,2,0,0,0,0,0,1,0,0,0,1,0,2,2,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,6,6,0,4,4,5,6,6,6,6,0,0,0,0,2,6,0,1,0,4,0,6,5,5,4,2,2,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,2,UPS (I-VIII),8,Unrecognized,Urban,3,Co-Ed,4,4,0,3,4,4,4,4,4,4,0,0,0,0,3,3,0,1,0,3,0,4,4,3,4,1,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281809,MARKAPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281810,TARLUPADU,1,PS (I-V),98,Madarsa unrecognized,Rural,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281810,TARLUPADU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,42,42,0,0,32,37,38,15,34,35,0,0,0,0,39,2,0,0,12,36,0,42,35,14,26,2,21,0,41,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281810,TARLUPADU,1,PS (I-V),98,Madarsa unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281810,TARLUPADU,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281810,TARLUPADU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,7,7,0,5,5,7,7,3,6,6,0,0,0,0,5,3,0,3,1,7,0,7,6,7,7,1,4,0,5,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281810,TARLUPADU,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,1,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281810,TARLUPADU,7,SS (VI-X),7,Central Govt,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,1,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281810,TARLUPADU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,8,8,0,2,7,8,7,2,4,4,0,0,0,0,5,0,0,0,3,8,0,8,7,5,6,0,6,0,8,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281810,TARLUPADU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281811,KONAKANAMITLA,3,HSS (I-XII),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281811,KONAKANAMITLA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,0,1,0,0,1,1,0,0,0,0,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281811,KONAKANAMITLA,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281811,KONAKANAMITLA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,73,72,0,2,62,69,63,55,71,71,0,0,0,0,60,2,0,0,9,53,0,73,63,43,47,0,58,0,68,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281811,KONAKANAMITLA,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,2,1,2,2,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281811,KONAKANAMITLA,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281811,KONAKANAMITLA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281811,KONAKANAMITLA,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281811,KONAKANAMITLA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,5,5,0,5,5,5,5,3,5,5,0,0,0,0,3,0,0,0,0,5,0,5,5,4,4,2,4,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281811,KONAKANAMITLA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,9,9,0,4,7,9,8,7,9,9,0,0,0,0,6,0,0,0,3,9,0,9,9,8,7,0,7,0,7,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281811,KONAKANAMITLA,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281812,PODILI,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281812,PODILI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,1,2,2,2,2,2,0,0,0,0,0,1,0,0,0,0,0,2,1,2,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281812,PODILI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,64,64,0,2,48,60,61,40,59,60,0,0,0,0,30,3,0,0,9,40,0,64,50,5,41,1,36,0,58,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281812,PODILI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,9,9,0,6,9,9,9,6,9,9,0,0,0,0,3,6,0,2,0,8,0,9,8,4,9,0,2,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281812,PODILI,1,PS (I-V),98,Madarsa unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281812,PODILI,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,0,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281812,PODILI,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,2,2,0,2,2,2,2,1,2,2,0,0,0,0,0,2,0,0,1,2,0,2,1,1,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281812,PODILI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,2,2,0,2,2,2,2,1,2,2,0,0,0,0,0,2,0,1,0,2,0,2,2,0,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281812,PODILI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,9,9,0,6,9,9,8,6,9,9,0,0,0,0,3,8,0,2,0,6,0,9,8,2,8,2,5,0,6,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281812,PODILI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,8,8,0,2,8,8,7,6,7,7,0,0,0,0,2,0,0,0,5,5,0,8,7,3,6,0,3,0,6,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281812,PODILI,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281812,PODILI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,4,5,5,5,3,4,4,0,0,0,0,0,4,0,0,0,4,0,5,4,3,4,0,1,0,5,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281813,DARSI,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,0,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281813,DARSI,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281813,DARSI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,2,4,7,7,7,7,7,0,0,0,0,0,2,0,4,0,0,0,7,4,2,6,2,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281813,DARSI,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281813,DARSI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,67,67,0,0,63,66,63,47,60,62,0,0,0,0,12,3,0,0,7,52,0,67,29,4,50,0,32,0,57,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281813,DARSI,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,1,0,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281813,DARSI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,3,8,8,8,4,7,7,0,0,0,0,3,7,0,3,0,4,0,8,5,1,4,0,2,0,5,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281813,DARSI,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,2,2,0,0,2,2,2,1,1,1,0,0,0,0,1,2,0,0,0,2,0,2,0,2,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281813,DARSI,6,SS (I-X),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281813,DARSI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,2,5,5,5,4,4,4,0,0,0,0,2,2,0,5,0,3,0,4,2,4,4,1,3,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281813,DARSI,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281813,DARSI,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,1,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281813,DARSI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,8,8,0,7,8,8,8,3,7,7,0,0,0,0,5,1,0,1,0,8,0,8,6,5,8,1,5,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281813,DARSI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,12,12,0,5,12,12,12,8,12,12,0,0,0,0,5,11,0,6,0,9,0,10,5,4,11,4,6,0,8,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281813,DARSI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,8,8,0,2,8,8,8,6,8,8,0,0,0,0,6,0,0,0,5,7,0,8,6,2,4,0,7,0,6,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281813,DARSI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,1,3,0,2,0,2,0,3,1,2,2,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281813,DARSI,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281814,MUNDLAMURU,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,0,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281814,MUNDLAMURU,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281814,MUNDLAMURU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,49,48,0,0,40,49,45,30,44,44,0,0,0,0,16,0,0,0,9,38,0,49,45,2,24,0,33,0,47,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281814,MUNDLAMURU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281814,MUNDLAMURU,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281814,MUNDLAMURU,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,0,1,1,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281814,MUNDLAMURU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,5,5,0,5,4,5,5,0,5,5,0,0,0,0,1,1,0,0,1,5,0,5,3,2,5,0,3,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281814,MUNDLAMURU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281814,MUNDLAMURU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,11,11,0,2,7,10,11,6,10,10,0,0,0,0,3,0,0,0,1,10,0,11,10,4,7,0,10,0,10,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281814,MUNDLAMURU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,1,1,1,0,0,0,0,0,2,0,0,0,2,0,2,0,0,2,0,2,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281815,TALLURU,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281815,TALLURU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,38,38,0,2,32,36,36,24,31,32,0,0,0,0,23,1,0,0,5,22,0,38,37,4,20,0,16,0,27,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281815,TALLURU,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281815,TALLURU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,2,6,6,6,6,6,6,0,0,0,0,5,4,0,3,0,5,0,6,6,2,6,0,2,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281815,TALLURU,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281815,TALLURU,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281815,TALLURU,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281815,TALLURU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,4,4,0,4,4,4,4,2,4,4,0,0,0,0,3,3,0,1,0,4,0,4,4,3,3,1,2,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281815,TALLURU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,6,5,6,6,5,5,5,0,0,0,0,4,4,0,3,0,5,1,6,6,2,5,1,2,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281815,TALLURU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,6,6,0,2,6,6,6,1,6,6,0,0,0,0,2,0,0,0,1,4,0,6,6,3,4,0,4,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281815,TALLURU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281815,TALLURU,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281816,ADDANKI,3,HSS (I-XII),2,Tribal Welfare Department,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281816,ADDANKI,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281816,ADDANKI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,1,1,3,2,2,2,2,0,0,0,0,2,2,0,2,0,1,0,3,2,0,3,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281816,ADDANKI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,43,42,0,3,40,43,38,30,36,37,0,0,0,0,26,1,0,0,26,29,0,42,34,7,24,1,19,0,25,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281816,ADDANKI,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281816,ADDANKI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281816,ADDANKI,1,PS (I-V),2,Tribal Welfare Department,Urban,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281816,ADDANKI,1,PS (I-V),3,Local body,Urban,3,Co-Ed,18,18,0,1,17,18,18,12,17,17,0,0,0,0,8,1,0,0,7,15,0,18,14,6,12,0,8,0,10,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281816,ADDANKI,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,10,10,0,9,10,10,10,10,10,10,0,0,0,0,9,8,0,7,0,8,0,8,4,6,10,3,4,0,8,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281816,ADDANKI,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281816,ADDANKI,1,PS (I-V),98,Madarsa unrecognized,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281816,ADDANKI,6,SS (I-X),8,Unrecognized,Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,2,0,2,0,2,1,1,2,1,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281816,ADDANKI,7,SS (VI-X),1,Department of Education,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281816,ADDANKI,7,SS (VI-X),1,Department of Education,Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281816,ADDANKI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,5,5,0,4,5,5,5,3,5,5,0,0,0,0,5,3,0,0,3,5,0,5,5,3,3,0,2,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281816,ADDANKI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281816,ADDANKI,7,SS (VI-X),3,Local body,Urban,3,Co-Ed,3,3,0,2,2,3,3,2,3,3,0,0,0,0,0,1,0,2,0,3,0,3,2,0,2,0,3,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281816,ADDANKI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,9,9,0,9,9,9,9,8,9,9,0,0,0,0,6,9,0,9,0,9,1,9,6,6,9,2,2,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281816,ADDANKI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,6,6,0,1,6,6,6,5,6,6,0,0,0,0,6,0,0,0,5,6,0,6,6,2,3,0,6,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281816,ADDANKI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281816,ADDANKI,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,3,1,0,0,3,3,0,3,3,0,2,0,3,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281816,ADDANKI,2,UPS (I-VIII),4,Government Aided,Urban,3,Co-Ed,3,3,0,0,3,3,3,1,3,3,0,0,0,0,3,3,0,0,1,0,0,3,3,0,3,0,1,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281816,ADDANKI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,1,3,3,3,2,3,3,0,0,0,0,1,3,0,1,0,1,0,2,2,0,3,1,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281816,ADDANKI,2,UPS (I-VIII),8,Unrecognized,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281817,BALLIKURAVA,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281817,BALLIKURAVA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,43,43,0,1,40,43,43,27,39,40,0,0,0,0,10,0,0,0,9,27,0,43,23,2,23,0,22,0,37,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281817,BALLIKURAVA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281817,BALLIKURAVA,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281817,BALLIKURAVA,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,1,0,1,0,1,1,1,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281817,BALLIKURAVA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,7,7,0,6,7,7,7,4,7,7,0,0,0,0,2,3,0,1,0,7,0,7,4,6,6,0,5,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281817,BALLIKURAVA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,6,6,0,4,5,5,6,4,6,6,0,0,0,0,4,2,0,0,3,5,0,6,3,1,4,0,5,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281817,BALLIKURAVA,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,1,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281818,SANTHAMAGULURU,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281818,SANTHAMAGULURU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,40,39,0,0,32,38,38,27,39,39,0,0,0,0,37,4,0,0,24,30,0,40,37,7,24,0,21,0,34,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281818,SANTHAMAGULURU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,2,3,4,4,4,4,4,0,0,0,0,4,3,0,0,0,2,0,3,2,4,4,0,0,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281818,SANTHAMAGULURU,6,SS (I-X),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281818,SANTHAMAGULURU,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,0,1,1,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281818,SANTHAMAGULURU,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281818,SANTHAMAGULURU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,6,5,6,6,4,6,6,0,0,0,0,6,3,0,0,0,6,1,6,6,4,6,1,5,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281818,SANTHAMAGULURU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281818,SANTHAMAGULURU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,5,5,0,1,3,4,5,5,5,5,0,0,0,0,4,0,0,0,5,5,0,5,5,2,5,0,4,0,5,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281818,SANTHAMAGULURU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,3,2,0,0,0,2,0,3,2,1,2,0,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281818,SANTHAMAGULURU,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,1,0,0,0,2,0,2,1,1,2,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281819,YEDDANAPUDI,11,HSS (XI-XII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281819,YEDDANAPUDI,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281819,YEDDANAPUDI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,26,26,0,0,11,26,26,16,26,26,0,0,0,0,18,1,0,0,3,20,0,26,25,2,8,1,10,0,9,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281819,YEDDANAPUDI,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281819,YEDDANAPUDI,1,PS (I-V),98,Madarsa unrecognized,Rural,3,Co-Ed,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281819,YEDDANAPUDI,1,PS (I-V),3,Local body,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281819,YEDDANAPUDI,6,SS (I-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281819,YEDDANAPUDI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,4,4,0,4,4,4,4,3,4,4,0,0,0,0,3,4,0,1,0,4,0,4,4,3,3,0,2,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281819,YEDDANAPUDI,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,2,1,2,2,0,0,0,0,2,2,0,0,0,2,0,2,2,1,2,0,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281819,YEDDANAPUDI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,3,3,0,1,3,3,3,2,3,3,0,0,0,0,2,0,0,0,2,2,0,3,2,0,1,0,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281820,MARTURU,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281820,MARTURU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,3,5,5,5,5,5,5,0,0,0,0,2,4,0,3,0,3,0,5,0,3,4,3,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281820,MARTURU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,42,42,0,0,37,41,42,15,42,42,0,0,0,0,13,4,0,0,11,29,0,42,28,3,20,0,23,0,33,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281820,MARTURU,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,2,0,0,0,0,0,0,0,1,2,0,0,1,1,0,2,2,0,1,0,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281820,MARTURU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,5,6,6,6,6,6,6,0,0,0,0,0,5,0,3,0,6,0,6,4,3,6,3,2,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281820,MARTURU,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,3,3,0,2,3,3,3,2,3,3,0,0,0,0,3,2,0,0,0,1,0,3,1,1,2,0,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281820,MARTURU,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,1,1,1,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281820,MARTURU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,6,6,6,6,1,6,6,0,0,0,0,6,2,0,1,0,6,0,6,6,4,6,0,4,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281820,MARTURU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,6,6,6,6,6,6,6,0,0,0,0,6,6,0,2,0,3,0,6,3,4,6,1,1,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281820,MARTURU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,4,4,0,2,4,4,4,1,4,4,0,0,0,0,3,0,0,0,3,3,0,4,4,1,4,0,2,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281820,MARTURU,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,1,0,1,1,0,0,0,0,1,0,0,0,1,0,0,2,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281820,MARTURU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,0,0,2,0,2,1,2,2,0,2,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281821,PARCHURU,3,HSS (I-XII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281821,PARCHURU,11,HSS (XI-XII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0,1,1,1,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281821,PARCHURU,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,1,2,2,2,2,2,0,0,0,0,1,2,0,0,0,0,0,2,0,2,2,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281821,PARCHURU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,39,39,0,0,20,37,39,29,35,35,0,0,0,0,22,4,0,0,4,23,0,39,35,10,22,1,19,0,15,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281821,PARCHURU,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,7,7,0,0,7,7,4,2,5,5,0,0,0,0,1,1,0,0,1,3,0,7,6,1,2,1,1,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281821,PARCHURU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,6,6,6,6,6,6,6,0,0,0,0,6,6,0,1,0,6,0,6,6,3,6,3,1,0,5,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281821,PARCHURU,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281821,PARCHURU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281821,PARCHURU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,3,3,0,2,3,3,3,2,3,3,0,0,0,0,2,2,0,1,0,2,1,3,2,2,2,0,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281821,PARCHURU,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,1,2,0,0,0,3,0,3,3,2,3,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281821,PARCHURU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,6,5,6,6,5,6,6,0,0,0,0,2,6,0,4,0,5,0,6,4,4,6,4,0,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281821,PARCHURU,7,SS (VI-X),98,Madarsa unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281821,PARCHURU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,5,5,0,1,2,4,5,4,5,5,0,0,0,0,4,2,0,0,2,4,0,5,3,4,4,0,4,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281821,PARCHURU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,1,3,3,3,3,3,3,0,0,0,0,2,2,0,1,0,1,0,2,2,2,3,1,1,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281822,KARAMCHEDU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,27,26,0,0,9,26,27,20,26,27,0,0,0,0,19,4,0,0,2,14,0,27,25,1,13,0,14,0,21,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281822,KARAMCHEDU,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,4,4,0,0,2,3,4,1,2,2,0,0,0,0,0,1,0,0,0,0,0,4,3,0,2,0,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281822,KARAMCHEDU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281822,KARAMCHEDU,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281822,KARAMCHEDU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,5,5,0,5,2,4,5,3,5,5,0,0,0,0,4,5,0,0,0,5,0,5,5,3,5,0,1,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281822,KARAMCHEDU,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,2,0,1,1,0,0,0,0,2,1,0,0,0,1,0,2,1,1,2,1,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281822,KARAMCHEDU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281822,KARAMCHEDU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,3,3,0,2,0,2,3,3,3,3,0,0,0,0,2,1,0,0,0,2,0,3,3,1,0,0,2,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281822,KARAMCHEDU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,11,HSS (XI-XII),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,1,2,2,1,2,2,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,2,3,4,4,4,4,4,0,0,0,0,2,3,0,4,0,4,1,4,1,4,4,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,1,1,1,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,49,49,0,2,35,46,48,26,46,46,0,0,0,0,35,2,0,3,6,26,0,49,46,6,28,0,22,0,30,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,3,3,0,0,3,3,3,0,1,1,0,0,0,0,0,0,0,0,1,2,0,3,3,0,3,0,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,3,5,5,4,4,4,4,0,0,0,0,2,3,0,1,0,1,0,5,1,3,3,0,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,1,PS (I-V),98,Madarsa unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,1,PS (I-V),2,Tribal Welfare Department,Urban,3,Co-Ed,2,2,0,0,2,2,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,2,2,1,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,1,PS (I-V),3,Local body,Urban,3,Co-Ed,13,13,0,0,10,13,12,3,12,12,0,0,0,0,5,5,0,0,0,7,0,13,12,2,8,0,1,0,7,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,15,15,0,0,14,15,12,2,9,9,0,0,0,0,5,2,0,0,10,8,0,15,15,0,10,0,3,0,12,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,13,13,0,10,13,13,13,13,13,13,0,0,0,0,10,13,0,4,0,10,0,12,8,4,11,3,0,0,10,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,3,3,0,1,0,2,0,3,2,0,3,1,1,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,1,2,0,1,0,1,0,2,1,0,2,0,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,3,3,3,3,2,3,3,0,0,0,0,2,3,0,1,0,2,1,3,3,0,3,2,1,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,7,SS (VI-X),3,Local body,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,7,SS (VI-X),4,Government Aided,Rural,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,0,0,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,0,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,7,SS (VI-X),3,Local body,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,1,2,2,2,0,0,0,0,1,2,0,0,0,2,0,2,2,0,2,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,3,3,0,3,0,1,0,4,3,3,4,1,1,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,7,SS (VI-X),3,Local body,Urban,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,2,3,0,0,0,3,0,3,3,2,3,1,2,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,2,2,0,0,2,2,2,0,1,1,0,0,0,0,0,2,0,0,1,2,0,2,2,1,2,0,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,14,14,0,13,14,14,14,13,14,14,0,0,0,0,12,14,0,6,0,10,0,14,8,7,13,7,4,0,9,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,3,3,0,2,2,3,3,2,3,3,0,0,0,0,1,0,0,0,3,3,0,3,3,0,3,0,2,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,7,8,8,8,8,8,8,0,0,0,0,5,8,0,2,0,4,0,8,4,5,8,3,3,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,2,UPS (I-VIII),4,Government Aided,Urban,3,Co-Ed,3,3,0,1,3,3,2,2,3,3,0,0,0,0,3,3,0,0,3,1,0,3,3,1,3,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,6,6,0,3,6,6,6,6,6,6,0,0,0,0,6,5,0,2,0,4,0,6,2,3,5,3,1,0,6,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281823,CHIRALA,4,UPS (VI-VIII),8,Unrecognized,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281824,VETAPALEM,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,0,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281824,VETAPALEM,11,HSS (XI-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281824,VETAPALEM,1,PS (I-V),98,Madarsa unrecognized,Rural,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281824,VETAPALEM,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,0,0,0,1,1,2,0,2,2,0,2,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281824,VETAPALEM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,30,30,0,1,27,30,30,16,29,29,0,0,0,0,16,2,0,3,7,21,0,30,24,4,22,3,26,0,21,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281824,VETAPALEM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281824,VETAPALEM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,4,7,7,7,7,7,7,0,0,0,0,0,6,0,1,0,7,0,7,4,4,7,3,2,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281824,VETAPALEM,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,0,2,0,0,0,1,0,2,1,2,2,2,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281824,VETAPALEM,1,PS (I-V),3,Local body,Urban,3,Co-Ed,6,6,0,0,5,6,6,6,6,6,0,0,0,0,2,0,0,1,3,4,0,6,6,0,4,1,6,0,5,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281824,VETAPALEM,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,2,2,0,0,1,1,2,1,1,1,0,0,0,0,0,0,0,0,1,2,0,2,2,0,2,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281824,VETAPALEM,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281824,VETAPALEM,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281824,VETAPALEM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,1,0,0,0,2,0,2,2,2,2,0,2,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281824,VETAPALEM,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281824,VETAPALEM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,2,3,0,2,0,3,0,3,2,2,3,3,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281824,VETAPALEM,7,SS (VI-X),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,0,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281824,VETAPALEM,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281824,VETAPALEM,2,UPS (I-VIII),1,Department of Education,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281824,VETAPALEM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,10,10,0,3,10,10,10,10,10,10,0,0,0,0,2,0,0,1,3,10,0,10,7,6,8,0,9,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281824,VETAPALEM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,3,4,4,4,4,4,4,0,0,0,0,1,4,0,2,0,4,0,4,3,3,4,3,1,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281824,VETAPALEM,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281824,VETAPALEM,2,UPS (I-VIII),98,Madarsa unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281824,VETAPALEM,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,0,2,0,1,0,2,0,2,2,2,2,0,1,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281824,VETAPALEM,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281824,VETAPALEM,4,UPS (VI-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281825,INKOLLU,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,1,0,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281825,INKOLLU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,0,1,0,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281825,INKOLLU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,32,32,0,1,17,32,32,18,31,31,0,0,0,0,20,7,0,0,4,20,0,32,28,0,19,0,15,0,26,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281825,INKOLLU,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,3,3,0,0,1,3,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,3,2,0,3,0,0,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281825,INKOLLU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,4,5,6,5,6,6,6,0,0,0,0,5,5,0,1,0,3,0,6,3,0,6,0,0,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281825,INKOLLU,7,SS (VI-X),4,Government Aided,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281825,INKOLLU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,4,4,0,4,1,4,4,2,4,4,0,0,0,0,3,3,0,1,0,4,0,4,4,4,4,0,2,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281825,INKOLLU,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,3,3,0,1,2,3,3,2,3,3,0,0,0,0,2,2,0,0,0,3,0,3,3,2,3,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281825,INKOLLU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,4,2,4,4,4,4,4,0,0,0,0,4,4,0,1,0,2,0,4,4,4,4,0,0,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281825,INKOLLU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,5,5,0,2,2,5,5,4,5,5,0,0,0,0,0,2,0,0,3,5,0,5,4,0,2,0,3,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281825,INKOLLU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,2,3,0,1,0,3,0,3,2,0,3,1,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281825,INKOLLU,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281826,J.PANGULURU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281826,J.PANGULURU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,36,36,0,1,32,36,36,24,32,33,0,0,0,0,16,3,0,0,6,25,0,36,29,13,20,0,26,0,29,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281826,J.PANGULURU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,0,0,2,0,2,1,2,2,1,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281826,J.PANGULURU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,5,5,0,4,5,5,5,0,5,5,0,0,0,0,3,4,0,0,0,5,0,5,4,1,5,0,3,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281826,J.PANGULURU,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281826,J.PANGULURU,7,SS (VI-X),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281826,J.PANGULURU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,6,6,0,4,6,6,6,3,6,6,0,0,0,0,2,2,0,1,2,6,0,6,4,3,5,0,4,0,5,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281826,J.PANGULURU,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281826,J.PANGULURU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281826,J.PANGULURU,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281827,KORISAPADU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,1,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281827,KORISAPADU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,27,27,0,0,26,26,27,20,26,26,0,0,0,0,5,4,0,0,4,20,0,27,26,1,22,0,21,0,24,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281827,KORISAPADU,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,5,5,0,0,4,5,2,0,1,1,0,0,0,0,0,0,0,0,0,2,0,5,5,0,2,0,0,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281827,KORISAPADU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,4,5,5,5,4,4,4,0,0,0,0,2,4,0,1,0,5,0,5,2,5,5,1,1,0,5,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281827,KORISAPADU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,5,5,0,4,5,5,5,4,5,5,0,0,0,0,3,5,0,1,0,5,0,5,4,5,5,0,4,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281827,KORISAPADU,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281827,KORISAPADU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,6,6,6,6,5,5,5,0,0,0,0,4,5,0,4,0,6,0,6,3,6,6,2,1,0,6,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281827,KORISAPADU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,5,5,0,2,3,4,5,5,5,5,0,0,0,0,0,1,0,0,3,4,0,5,4,1,4,0,5,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281827,KORISAPADU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,3,3,0,1,0,2,0,3,0,1,3,1,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281827,KORISAPADU,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281828,MADDIPADU,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281828,MADDIPADU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,41,41,0,1,25,39,41,31,41,41,0,0,0,0,24,1,0,0,3,26,0,41,39,3,27,2,23,0,31,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281828,MADDIPADU,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,5,5,0,0,2,5,4,1,3,3,0,0,0,0,1,0,0,0,0,3,0,5,5,0,4,0,0,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281828,MADDIPADU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,3,4,5,5,2,4,4,0,0,0,0,2,2,0,1,0,4,0,4,1,0,3,2,0,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281828,MADDIPADU,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281828,MADDIPADU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,6,6,6,6,4,6,6,0,0,0,0,4,3,0,1,0,6,0,6,6,2,6,0,4,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281828,MADDIPADU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,3,4,4,4,3,3,3,0,0,0,0,1,3,0,0,0,4,0,3,0,2,4,2,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281828,MADDIPADU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,3,0,0,0,1,3,0,3,3,1,2,0,1,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281828,MADDIPADU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,1,2,0,1,0,2,0,2,0,0,2,1,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281829,CHIMAKURTHI,3,HSS (I-XII),2,Tribal Welfare Department,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281829,CHIMAKURTHI,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281829,CHIMAKURTHI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,1,2,2,0,0,0,0,1,0,0,1,0,0,0,2,0,1,2,1,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281829,CHIMAKURTHI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,44,44,0,3,40,43,42,28,40,41,0,0,0,0,26,0,0,1,7,28,0,44,30,17,17,3,21,0,14,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281829,CHIMAKURTHI,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281829,CHIMAKURTHI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,0,2,2,0,0,0,0,0,1,0,0,0,0,0,2,1,1,2,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281829,CHIMAKURTHI,1,PS (I-V),3,Local body,Urban,3,Co-Ed,10,10,0,0,10,10,10,8,10,10,0,0,0,0,7,0,0,0,2,4,0,10,8,5,1,0,4,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281829,CHIMAKURTHI,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281829,CHIMAKURTHI,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,6,6,0,4,6,6,6,3,5,5,0,0,0,0,3,1,0,1,0,4,0,6,3,0,5,0,1,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281829,CHIMAKURTHI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281829,CHIMAKURTHI,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,1,0,2,0,2,1,2,1,1,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281829,CHIMAKURTHI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,6,6,6,6,4,5,5,0,0,0,0,5,4,0,0,0,6,0,6,4,3,2,0,1,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281829,CHIMAKURTHI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,2,2,2,1,2,2,0,0,0,0,0,2,0,0,0,0,0,2,0,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281829,CHIMAKURTHI,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281829,CHIMAKURTHI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,5,5,0,5,5,5,5,2,4,4,0,0,0,0,3,3,0,1,0,3,0,5,4,2,5,1,3,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281829,CHIMAKURTHI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,7,7,0,3,7,7,7,5,7,7,0,0,0,0,4,0,0,0,4,7,0,7,5,3,4,1,6,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281829,CHIMAKURTHI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,1,3,3,3,2,3,3,0,0,0,0,3,2,0,0,0,3,0,3,1,1,2,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281829,CHIMAKURTHI,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281829,CHIMAKURTHI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,1,2,2,2,0,1,1,0,0,0,0,1,1,0,0,0,2,0,2,2,1,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281829,CHIMAKURTHI,2,UPS (I-VIII),8,Unrecognized,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,1,1,0,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281830,MARRIPUDI,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281830,MARRIPUDI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,43,43,0,0,33,42,40,24,40,40,0,0,0,0,34,1,0,0,12,33,0,43,37,15,28,0,14,0,31,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281830,MARRIPUDI,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281830,MARRIPUDI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,4,4,0,4,3,4,4,4,4,4,0,0,0,0,4,3,0,0,0,4,0,4,3,3,3,0,4,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281830,MARRIPUDI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,11,11,0,2,8,11,11,4,11,11,0,0,0,0,4,1,0,0,8,8,0,11,9,2,6,0,5,0,5,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281830,MARRIPUDI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,1,2,0,0,0,2,0,0,0,1,1,0,2,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281831,KANIGIRI,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281831,KANIGIRI,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,0,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281831,KANIGIRI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,0,3,5,5,4,5,5,0,0,0,0,1,2,0,1,0,1,0,5,2,3,3,1,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281831,KANIGIRI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,65,65,0,0,57,65,55,38,58,60,0,0,0,0,48,1,0,0,6,55,0,65,53,31,53,0,26,0,61,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281831,KANIGIRI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,1,3,3,2,3,3,3,0,0,0,0,1,3,0,1,0,2,0,3,1,2,2,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281831,KANIGIRI,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281831,KANIGIRI,1,PS (I-V),3,Local body,Urban,3,Co-Ed,21,21,0,1,17,21,21,11,19,19,0,0,0,0,15,0,0,0,4,18,0,21,16,7,14,0,5,0,20,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281831,KANIGIRI,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,6,6,0,0,4,6,4,1,1,1,0,0,0,0,1,2,0,0,0,4,0,6,5,0,6,0,0,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281831,KANIGIRI,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,5,5,0,5,5,5,5,5,5,5,0,0,0,0,2,5,0,3,0,2,0,5,5,5,5,1,1,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281831,KANIGIRI,1,PS (I-V),98,Madarsa unrecognized,Urban,3,Co-Ed,3,3,0,0,0,2,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281831,KANIGIRI,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,1,0,0,0,2,1,0,2,0,2,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281831,KANIGIRI,7,SS (VI-X),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,1,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281831,KANIGIRI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,5,5,6,6,3,5,5,0,0,0,0,4,2,0,1,0,6,0,6,5,3,6,0,2,0,6,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281831,KANIGIRI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,1,0,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281831,KANIGIRI,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281831,KANIGIRI,7,SS (VI-X),3,Local body,Urban,3,Co-Ed,2,2,0,2,2,2,2,0,2,2,0,0,0,0,1,2,0,1,0,2,0,2,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281831,KANIGIRI,7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,0,1,0,0,0,0,1,1,0,0,1,0,0,1,1,0,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281831,KANIGIRI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,8,8,0,7,8,8,8,8,8,8,0,0,0,0,6,8,0,4,0,4,0,7,2,4,7,0,2,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281831,KANIGIRI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,15,15,0,4,14,15,15,11,13,14,0,0,0,0,14,4,0,0,8,14,0,15,12,12,11,0,8,0,14,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281831,KANIGIRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281831,KANIGIRI,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281831,KANIGIRI,2,UPS (I-VIII),4,Government Aided,Urban,3,Co-Ed,2,2,0,0,2,2,1,1,2,2,0,0,0,0,1,1,0,0,0,2,0,2,2,1,2,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281831,KANIGIRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,4,4,0,3,4,4,4,4,4,4,0,0,0,0,1,4,0,1,0,2,0,4,2,4,2,1,3,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281832,HANUMANTHUNIPADU,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281832,HANUMANTHUNIPADU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,56,56,0,1,41,54,56,48,50,52,0,0,0,0,16,1,0,0,9,38,0,56,53,38,31,1,28,0,54,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281832,HANUMANTHUNIPADU,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,4,4,0,0,4,4,1,1,2,2,0,0,0,0,1,0,0,0,0,3,0,4,2,1,4,0,0,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281832,HANUMANTHUNIPADU,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281832,HANUMANTHUNIPADU,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281832,HANUMANTHUNIPADU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,7,7,0,7,6,7,7,2,7,7,0,0,0,0,1,3,0,1,1,7,0,7,6,5,7,2,4,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281832,HANUMANTHUNIPADU,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281832,HANUMANTHUNIPADU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281832,HANUMANTHUNIPADU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,10,10,0,1,9,9,10,9,9,9,0,0,0,0,6,2,0,0,1,9,0,10,9,6,8,0,9,0,8,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281833,BESTAVARIPETA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281833,BESTAVARIPETA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281833,BESTAVARIPETA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,44,44,0,2,30,41,40,15,32,32,0,0,0,0,28,1,0,0,14,25,0,44,33,7,17,0,18,0,43,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281833,BESTAVARIPETA,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,1,0,1,1,0,0,0,0,1,1,0,0,1,2,0,2,2,0,2,0,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281833,BESTAVARIPETA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,1,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281833,BESTAVARIPETA,1,PS (I-V),3,Local body,Urban,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,0,0,0,1,1,0,1,1,0,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281833,BESTAVARIPETA,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281833,BESTAVARIPETA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,1,2,2,2,1,2,2,0,0,0,0,1,1,0,0,0,2,0,2,1,1,1,0,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281833,BESTAVARIPETA,7,SS (VI-X),3,Local body,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281833,BESTAVARIPETA,7,SS (VI-X),3,Local body,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281833,BESTAVARIPETA,7,SS (VI-X),1,Department of Education,Urban,2,Girls,1,1,0,1,0,0,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281833,BESTAVARIPETA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,5,5,0,4,4,5,5,4,4,4,0,0,0,0,1,2,0,0,0,5,0,5,2,3,5,0,2,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281833,BESTAVARIPETA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,1,3,3,3,2,3,3,0,0,0,0,1,2,0,1,0,2,0,3,3,1,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281833,BESTAVARIPETA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,7,7,0,2,5,7,7,3,6,6,0,0,0,0,5,0,0,0,5,6,0,7,7,5,4,0,4,0,6,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281833,BESTAVARIPETA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,2,3,4,4,3,4,4,0,0,0,0,3,4,0,1,0,2,0,4,1,3,3,3,2,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281833,BESTAVARIPETA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281834,CUMBUM,3,HSS (I-XII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281834,CUMBUM,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,2,2,0,1,0,2,2,1,2,2,0,0,0,0,0,1,0,1,0,1,0,2,0,1,2,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281834,CUMBUM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,1,0,5,4,4,4,4,0,0,0,0,1,1,0,5,0,0,0,5,1,1,4,1,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281834,CUMBUM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,31,31,0,0,24,31,28,16,30,30,0,0,0,0,9,1,0,0,6,18,0,31,14,2,6,0,11,0,27,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281834,CUMBUM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,5,5,0,2,5,5,4,2,5,5,0,0,0,0,3,5,0,0,0,5,0,5,3,1,5,0,1,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281834,CUMBUM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,2,3,5,5,5,5,5,0,0,0,0,3,4,0,4,0,4,0,5,3,0,4,2,0,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281834,CUMBUM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281834,CUMBUM,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,2,2,0,1,2,2,2,0,2,2,0,0,0,0,0,1,0,0,0,2,0,2,2,2,2,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281834,CUMBUM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,6,6,6,6,3,6,6,0,0,0,0,1,4,0,1,1,5,0,6,4,3,5,2,4,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281834,CUMBUM,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,3,3,0,2,3,3,3,2,3,3,0,0,0,0,1,2,0,1,2,3,0,3,2,0,3,0,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281834,CUMBUM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,3,4,4,4,4,4,4,0,0,0,0,0,2,0,2,0,2,0,4,1,0,4,1,1,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281834,CUMBUM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,6,6,0,2,6,6,6,3,6,6,0,0,0,0,2,2,0,0,3,4,0,6,5,1,3,0,4,0,5,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281834,CUMBUM,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,2,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2,1,0,2,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281834,CUMBUM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,2,3,3,1,3,3,0,0,0,0,3,2,0,0,0,1,0,3,2,0,2,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281835,RACHARLA,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281835,RACHARLA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,35,35,0,2,27,35,34,26,33,33,0,0,0,0,32,6,0,0,1,14,0,35,31,6,14,0,18,0,31,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281835,RACHARLA,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,1,2,1,2,2,2,0,0,0,0,1,1,0,0,0,2,0,2,2,0,2,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281835,RACHARLA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,0,2,2,0,0,0,0,1,1,0,0,0,2,0,2,2,1,2,0,1,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281835,RACHARLA,6,SS (I-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281835,RACHARLA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,1,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281835,RACHARLA,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,0,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281835,RACHARLA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,5,6,6,6,2,6,6,0,0,0,0,6,3,0,0,0,6,1,6,6,4,4,0,2,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281835,RACHARLA,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281835,RACHARLA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,1,2,2,0,0,0,0,0,2,0,1,0,2,0,2,2,1,2,1,1,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281835,RACHARLA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,6,6,0,2,5,6,6,3,5,5,0,0,0,0,4,0,0,0,2,4,0,6,5,2,4,0,6,0,5,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281835,RACHARLA,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281836,GIDDALURU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,1,3,3,3,2,2,2,0,0,0,0,0,3,0,1,0,1,0,3,2,3,3,2,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281836,GIDDALURU,11,HSS (XI-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281836,GIDDALURU,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,5,5,0,2,4,5,5,5,5,5,0,0,0,0,0,4,0,5,0,3,0,5,1,3,5,1,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281836,GIDDALURU,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281836,GIDDALURU,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,2,2,0,1,2,2,1,2,2,2,0,0,0,0,1,0,0,0,0,2,0,2,2,0,2,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281836,GIDDALURU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,50,50,0,7,45,50,47,37,47,47,0,0,0,0,25,7,0,0,16,44,0,50,44,2,26,1,29,0,50,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281836,GIDDALURU,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281836,GIDDALURU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,0,3,3,3,2,3,3,0,0,0,0,1,2,0,0,0,2,0,3,2,0,2,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281836,GIDDALURU,1,PS (I-V),3,Local body,Urban,3,Co-Ed,11,11,0,3,11,11,11,6,11,11,0,0,0,0,2,4,0,0,1,9,0,11,7,2,7,0,7,0,11,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281836,GIDDALURU,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,12,12,0,1,12,12,9,7,10,10,0,0,0,0,3,6,0,0,2,9,0,12,12,3,9,0,4,0,9,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281836,GIDDALURU,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,9,9,0,8,9,9,9,9,9,9,0,0,0,0,6,9,0,3,0,7,0,9,7,2,6,2,4,0,7,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281836,GIDDALURU,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,0,2,0,1,2,1,1,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281836,GIDDALURU,7,SS (VI-X),3,Local body,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281836,GIDDALURU,7,SS (VI-X),3,Local body,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,0,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281836,GIDDALURU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,5,5,0,5,5,5,5,2,4,4,0,0,0,0,5,2,0,0,0,5,0,5,4,2,4,0,1,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281836,GIDDALURU,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281836,GIDDALURU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,1,2,0,0,0,0,0,2,0,0,2,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281836,GIDDALURU,7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,5,5,0,1,5,5,5,0,5,5,0,0,0,0,1,4,0,0,0,3,0,5,4,1,5,0,1,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281836,GIDDALURU,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,9,9,0,8,9,9,9,9,9,9,0,0,0,0,8,9,0,2,0,6,0,9,6,1,9,1,6,0,9,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281836,GIDDALURU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,4,4,0,2,4,4,4,2,3,3,0,0,0,0,3,1,0,0,4,3,0,4,3,0,2,0,3,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281836,GIDDALURU,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281836,GIDDALURU,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281836,GIDDALURU,2,UPS (I-VIII),4,Government Aided,Urban,3,Co-Ed,4,4,0,0,4,4,4,2,3,3,0,0,0,0,3,4,0,0,2,3,0,4,3,0,4,0,0,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281836,GIDDALURU,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,7,7,0,5,7,7,7,7,7,7,0,0,0,0,6,5,0,2,0,4,0,6,5,0,6,0,1,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281837,KOMAROLU,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281837,KOMAROLU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281837,KOMAROLU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,51,51,0,1,41,48,43,47,48,48,0,0,0,0,22,5,0,0,7,26,0,51,41,1,18,0,27,0,50,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281837,KOMAROLU,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,9,9,0,1,9,9,5,6,6,6,0,0,0,0,1,5,0,0,6,6,0,9,4,2,7,0,2,0,7,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281837,KOMAROLU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,2,2,2,1,2,2,0,0,0,0,1,2,0,0,0,2,0,1,2,0,2,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281837,KOMAROLU,6,SS (I-X),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281837,KOMAROLU,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,1,1,0,1,0,1,0,2,1,1,2,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281837,KOMAROLU,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,0,1,0,1,1,1,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281837,KOMAROLU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,0,0,1,0,2,0,1,2,1,2,0,2,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281837,KOMAROLU,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,4,4,0,1,4,4,4,4,4,4,0,0,0,0,3,4,0,0,3,3,0,4,4,4,4,0,2,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281837,KOMAROLU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,0,3,3,3,2,3,3,0,0,0,0,1,2,0,0,0,2,0,3,2,0,3,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281837,KOMAROLU,7,SS (VI-X),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281837,KOMAROLU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,4,4,0,1,1,3,4,4,4,4,0,0,0,0,1,0,0,0,3,3,0,4,3,1,1,0,3,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281837,KOMAROLU,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281837,KOMAROLU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,2,3,2,1,3,3,0,0,0,0,0,2,0,2,0,2,0,2,2,2,2,1,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281837,KOMAROLU,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281837,KOMAROLU,4,UPS (VI-VIII),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281837,KOMAROLU,4,UPS (VI-VIII),3,Local body,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281838,C.S.PURAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281838,C.S.PURAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,55,55,0,0,37,54,45,32,39,40,0,0,0,0,4,4,0,1,25,43,0,55,42,22,34,0,25,0,52,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281838,C.S.PURAM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,2,0,0,2,0,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281838,C.S.PURAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,2,2,2,1,2,2,0,0,0,0,2,2,0,1,0,1,0,2,2,1,2,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281838,C.S.PURAM,7,SS (VI-X),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281838,C.S.PURAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,8,7,0,7,8,8,7,5,7,7,0,0,0,0,2,3,0,0,0,7,0,8,8,4,6,0,5,0,6,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281838,C.S.PURAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281838,C.S.PURAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,7,7,0,2,5,6,7,4,5,5,0,0,0,0,1,0,0,0,5,7,0,7,5,4,4,0,4,0,6,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281838,C.S.PURAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,1,2,0,0,0,2,0,2,1,2,2,1,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281839,VELIGANDLA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,53,52,0,0,45,52,46,34,47,47,0,0,0,0,31,9,0,0,3,27,0,53,39,34,16,1,24,0,53,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281839,VELIGANDLA,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,4,4,0,0,4,4,1,0,0,0,0,0,0,0,0,3,0,0,1,4,0,4,3,4,4,0,0,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281839,VELIGANDLA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281839,VELIGANDLA,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,2,2,0,1,2,2,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281839,VELIGANDLA,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,1,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281839,VELIGANDLA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,4,4,0,3,3,4,4,2,4,4,0,0,0,0,1,2,0,0,0,4,0,4,4,3,3,2,4,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281839,VELIGANDLA,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281839,VELIGANDLA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281839,VELIGANDLA,7,SS (VI-X),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281839,VELIGANDLA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,7,7,0,1,7,7,7,7,7,7,0,0,0,0,4,2,0,0,2,4,0,7,5,6,3,0,7,0,7,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281839,VELIGANDLA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281839,VELIGANDLA,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281840,P.C.PALLI,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281840,P.C.PALLI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,46,46,0,0,37,46,43,41,44,44,0,0,0,0,43,0,0,0,0,33,0,45,21,33,28,0,16,0,44,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281840,P.C.PALLI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281840,P.C.PALLI,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,0,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281840,P.C.PALLI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,5,5,0,5,3,4,5,2,4,4,0,0,0,0,4,3,0,1,0,5,0,5,4,5,5,0,2,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281840,P.C.PALLI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,2,0,1,0,1,0,2,0,1,2,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281840,P.C.PALLI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,9,9,0,1,8,9,9,6,9,9,0,0,0,0,7,1,0,0,4,6,0,9,4,9,3,0,6,0,8,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281840,P.C.PALLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,2,0,0,0,1,0,2,0,2,2,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281841,PONNALURU,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281841,PONNALURU,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281841,PONNALURU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,43,43,0,1,35,43,43,20,31,31,0,0,0,0,6,3,0,0,6,25,0,43,25,10,19,0,18,0,31,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281841,PONNALURU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,1,4,4,4,3,4,4,0,0,0,0,0,2,0,1,0,4,0,4,2,2,2,0,2,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281841,PONNALURU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,5,3,6,6,1,6,6,0,0,0,0,1,4,0,0,0,6,0,6,6,2,6,1,3,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281841,PONNALURU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,1,0,1,0,1,0,2,0,2,2,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281841,PONNALURU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,5,5,0,1,4,5,5,2,5,5,0,0,0,0,3,1,0,0,1,3,0,5,4,2,3,0,4,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281841,PONNALURU,4,UPS (VI-VIII),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281842,KONDAPI,3,HSS (I-XII),3,Local body,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281842,KONDAPI,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,1,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281842,KONDAPI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,38,38,0,0,27,36,38,19,33,33,0,0,0,0,29,2,0,0,4,24,0,38,29,4,18,0,9,0,22,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281842,KONDAPI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,1,0,0,0,0,2,0,2,2,2,2,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281842,KONDAPI,6,SS (I-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281842,KONDAPI,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281842,KONDAPI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,6,2,6,6,6,6,6,0,0,0,0,3,2,0,0,0,6,0,6,4,2,6,0,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281842,KONDAPI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,1,2,2,2,2,2,0,0,0,0,1,1,0,1,0,2,1,2,1,2,2,1,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281842,KONDAPI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,8,8,0,3,5,8,8,4,7,7,0,0,0,0,5,1,0,0,2,7,0,8,8,0,7,0,4,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281842,KONDAPI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,1,3,3,3,3,3,3,0,0,0,0,2,2,0,1,0,2,0,3,2,1,2,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281843,SANTHANUTHALAPADU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,1,2,4,4,4,3,4,0,0,0,0,3,2,0,0,0,2,0,4,1,2,4,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281843,SANTHANUTHALAPADU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,34,34,0,1,22,32,34,22,31,31,0,0,0,0,30,6,0,0,1,28,0,34,34,8,18,0,13,0,21,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281843,SANTHANUTHALAPADU,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,3,3,0,0,2,3,1,0,1,1,0,0,0,0,2,0,0,0,0,3,0,3,3,0,2,0,0,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281843,SANTHANUTHALAPADU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,1,5,7,7,6,7,7,0,0,0,0,7,5,0,1,0,7,0,7,6,5,6,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281843,SANTHANUTHALAPADU,1,PS (I-V),3,Local body,Urban,3,Co-Ed,3,3,0,0,0,2,2,3,3,3,0,0,0,0,2,0,0,0,0,2,0,3,2,0,2,0,2,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281843,SANTHANUTHALAPADU,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281843,SANTHANUTHALAPADU,6,SS (I-X),1,Department of Education,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281843,SANTHANUTHALAPADU,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281843,SANTHANUTHALAPADU,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,1,0,1,1,1,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281843,SANTHANUTHALAPADU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,7,7,0,7,4,6,7,4,7,7,0,0,0,0,4,5,0,1,0,5,0,7,7,2,7,1,4,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281843,SANTHANUTHALAPADU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,3,4,0,2,0,4,1,4,3,3,4,1,1,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281843,SANTHANUTHALAPADU,7,SS (VI-X),3,Local body,Urban,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,0,1,0,1,1,1,0,1,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281843,SANTHANUTHALAPADU,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,1,1,2,2,2,2,2,0,0,0,0,1,1,0,1,0,2,1,2,1,1,1,0,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281843,SANTHANUTHALAPADU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,3,3,0,2,2,3,3,2,3,3,0,0,0,0,3,1,0,0,0,2,0,3,3,0,3,0,3,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281843,SANTHANUTHALAPADU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,4,4,5,5,5,5,5,0,0,0,0,5,5,0,1,0,5,0,5,2,3,5,2,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281843,SANTHANUTHALAPADU,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,5,HSS (VI-XII),7,Central Govt,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,11,HSS (XI-XII),4,Government Aided,Urban,2,Girls,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,Girls,2,2,0,0,1,2,2,0,2,2,0,0,0,0,1,2,0,2,0,0,1,2,2,1,2,1,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,3,3,8,7,7,8,8,0,0,0,0,5,4,0,3,0,1,1,8,3,4,8,3,2,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,11,HSS (XI-XII),4,Government Aided,Urban,3,Co-Ed,2,2,0,1,0,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,1,2,0,0,2,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,4,4,0,2,2,4,4,4,4,4,0,0,0,0,4,3,0,3,0,1,1,4,3,2,4,0,2,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,1,PS (I-V),3,Local body,Rural,3,Co-Ed,20,20,0,1,13,20,20,14,19,19,0,0,0,0,12,1,0,14,0,15,0,20,19,0,13,2,13,0,18,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,10,10,0,1,9,10,4,0,1,1,0,0,0,0,4,2,0,9,0,9,0,10,9,1,10,0,0,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,0,0,2,0,2,2,2,2,1,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,1,PS (I-V),2,Tribal Welfare Department,Urban,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,1,PS (I-V),3,Local body,Urban,3,Co-Ed,25,25,0,0,19,24,24,9,22,22,0,0,0,0,14,8,0,6,3,15,0,25,20,3,17,1,7,0,14,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,16,16,0,1,14,16,11,4,8,8,0,0,0,0,4,4,0,1,3,9,0,16,8,1,13,0,0,0,9,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,36,36,0,30,36,36,35,34,36,36,0,0,0,0,34,34,0,23,0,23,0,36,31,24,35,7,12,0,30,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,1,PS (I-V),98,Madarsa unrecognized,Urban,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,1,0,1,1,2,2,2,2,1,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,6,SS (I-X),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,6,SS (I-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,0,1,1,1,0,1,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,4,4,0,3,0,3,1,4,4,4,4,2,1,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,6,SS (I-X),7,Central Govt,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,6,SS (I-X),8,Unrecognized,Urban,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,4,4,0,2,0,0,2,4,2,4,4,3,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,7,SS (VI-X),3,Local body,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,7,SS (VI-X),3,Local body,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,7,SS (VI-X),4,Government Aided,Urban,2,Girls,2,2,0,1,2,2,2,0,2,2,0,0,0,0,2,1,0,1,0,2,0,2,1,2,2,0,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,3,3,0,3,3,3,3,2,3,3,0,0,0,0,1,1,0,2,0,3,1,3,3,2,3,0,3,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,2,1,1,1,0,0,0,0,1,2,0,1,0,1,0,2,2,1,2,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,1,2,2,2,2,1,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,7,SS (VI-X),3,Local body,Urban,3,Co-Ed,3,3,0,3,3,3,3,2,3,3,0,0,0,0,1,3,0,1,0,3,0,3,1,1,3,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,6,6,0,1,6,6,6,6,6,6,0,0,0,0,3,5,0,0,0,6,0,6,4,1,6,1,3,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,37,37,0,35,37,37,37,37,37,37,0,0,0,0,30,33,0,31,0,24,4,37,35,25,36,16,14,0,34,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,7,SS (VI-X),8,Unrecognized,Urban,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,0,0,2,0,2,2,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,5,5,0,2,5,5,5,3,5,5,0,0,0,0,5,1,0,3,2,4,0,5,5,0,3,1,4,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,2,6,6,6,5,6,6,0,0,0,0,6,5,0,2,0,3,0,6,5,5,5,0,0,0,5,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,1,1,0,1,1,1,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,2,UPS (I-VIII),4,Government Aided,Urban,3,Co-Ed,2,2,0,0,2,2,1,1,2,2,0,0,0,0,1,1,0,0,0,2,0,2,2,1,2,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,26,26,0,18,26,26,26,24,25,25,0,0,0,0,21,23,0,16,1,18,0,26,22,14,24,1,6,0,17,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281844,ONGOLE,2,UPS (I-VIII),8,Unrecognized,Urban,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,3,2,0,1,0,1,0,3,2,1,2,1,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281845,NAGULUPPALAPADU,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281845,NAGULUPPALAPADU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281845,NAGULUPPALAPADU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,46,46,0,0,35,46,46,30,45,45,0,0,0,0,39,8,0,0,9,29,0,46,44,3,25,1,19,0,27,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281845,NAGULUPPALAPADU,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,9,9,0,2,7,9,2,1,2,2,0,0,0,0,3,0,0,0,0,8,0,9,7,1,8,1,0,0,6,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281845,NAGULUPPALAPADU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,6,6,6,6,6,6,6,0,0,0,0,6,5,0,2,0,5,0,6,6,5,5,2,1,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281845,NAGULUPPALAPADU,6,SS (I-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,1,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281845,NAGULUPPALAPADU,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,1,2,2,0,0,0,0,1,2,0,1,0,1,0,2,2,2,2,1,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281845,NAGULUPPALAPADU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,9,9,0,8,7,8,9,5,8,8,0,0,0,0,7,6,0,1,0,9,0,9,9,6,9,1,4,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281845,NAGULUPPALAPADU,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,3,3,0,0,3,3,2,3,3,3,0,0,0,0,1,3,0,0,1,2,0,3,2,1,3,0,0,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281845,NAGULUPPALAPADU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,1,4,0,3,0,4,0,4,4,4,4,2,0,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281845,NAGULUPPALAPADU,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281845,NAGULUPPALAPADU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,5,5,0,2,5,5,5,3,5,5,0,0,0,0,5,2,0,0,1,4,0,5,5,2,4,0,2,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281845,NAGULUPPALAPADU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281845,NAGULUPPALAPADU,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281846,CHINAGANGAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281846,CHINAGANGAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,28,28,0,0,24,27,28,24,27,27,0,0,0,0,3,3,0,0,4,23,0,28,23,1,20,0,23,0,11,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281846,CHINAGANGAM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281846,CHINAGANGAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281846,CHINAGANGAM,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281846,CHINAGANGAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,2,2,0,1,0,2,0,3,3,2,3,0,2,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281846,CHINAGANGAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,6,6,0,2,6,6,6,1,6,6,0,0,0,0,1,1,0,0,1,5,0,6,6,2,3,0,6,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281846,CHINAGANGAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,3,2,3,3,0,0,0,0,2,2,0,2,0,2,0,3,2,1,3,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281847,KOTHAPATNAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281847,KOTHAPATNAM,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,3,3,0,0,3,3,2,3,3,3,0,0,0,0,3,0,0,0,0,1,0,3,1,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281847,KOTHAPATNAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,42,41,0,1,36,42,40,28,39,39,0,0,0,0,40,6,0,1,14,31,0,42,40,2,21,1,27,0,12,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281847,KOTHAPATNAM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281847,KOTHAPATNAM,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,0,0,1,0,2,2,1,2,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281847,KOTHAPATNAM,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281847,KOTHAPATNAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,4,4,0,4,4,4,4,2,3,4,0,0,0,0,2,3,0,0,1,4,0,4,4,2,4,0,3,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281847,KOTHAPATNAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,3,3,0,2,3,3,3,2,3,3,0,0,0,0,3,1,0,0,2,3,0,3,2,1,3,0,3,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281847,KOTHAPATNAM,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,0,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281847,KOTHAPATNAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,3,5,5,5,5,5,5,0,0,0,0,3,5,0,0,0,4,0,5,3,4,4,0,2,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281848,TANGUTUR,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,0,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281848,TANGUTUR,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,2,0,0,0,0,0,0,2,1,0,0,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281848,TANGUTUR,1,PS (I-V),3,Local body,Rural,3,Co-Ed,44,44,0,0,37,42,42,24,39,39,0,0,0,0,40,2,0,0,4,34,0,44,36,1,24,0,7,0,42,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281848,TANGUTUR,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,4,4,0,0,4,4,3,2,3,3,0,0,0,0,3,0,0,0,0,3,0,4,3,1,3,0,0,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281848,TANGUTUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,2,4,4,4,4,4,4,0,0,0,0,4,3,0,1,0,3,0,3,2,1,4,0,0,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281848,TANGUTUR,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,1,0,0,0,1,0,2,1,1,2,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281848,TANGUTUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,1,0,0,0,1,0,2,0,2,2,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281848,TANGUTUR,6,SS (I-X),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281848,TANGUTUR,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281848,TANGUTUR,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,9,9,0,9,7,9,9,6,7,7,0,0,0,0,9,6,0,0,0,9,0,9,7,4,7,1,2,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281848,TANGUTUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,2,3,3,0,0,0,0,2,3,0,0,0,3,0,3,2,1,3,0,0,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281848,TANGUTUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,1,Boys,1,1,0,1,0,1,1,1,0,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281848,TANGUTUR,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,3,3,0,1,2,3,3,2,2,2,0,0,0,0,3,0,0,0,1,2,0,3,3,1,2,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281848,TANGUTUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,1,0,2,0,2,2,2,2,1,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281849,ZARUGUMALLI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281849,ZARUGUMALLI,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281849,ZARUGUMALLI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,35,35,0,0,32,35,34,28,33,34,0,0,0,0,27,5,0,0,2,27,0,35,33,10,20,0,11,0,20,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281849,ZARUGUMALLI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281849,ZARUGUMALLI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281849,ZARUGUMALLI,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281849,ZARUGUMALLI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,5,5,0,5,5,5,5,2,5,5,0,0,0,0,5,5,0,1,0,5,0,5,4,4,5,1,5,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281849,ZARUGUMALLI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281849,ZARUGUMALLI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,5,5,0,1,5,5,5,4,5,5,0,0,0,0,5,2,0,0,1,3,0,5,5,3,3,0,2,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281850,KANDUKURU,5,HSS (VI-XII),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281850,KANDUKURU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,0,2,2,1,2,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281850,KANDUKURU,11,HSS (XI-XII),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281850,KANDUKURU,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,2,1,3,2,3,3,3,0,0,0,0,3,0,0,2,0,0,1,3,0,2,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281850,KANDUKURU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,18,18,0,0,12,17,17,11,18,18,0,0,0,0,15,1,0,0,1,13,0,18,16,1,9,0,7,0,17,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281850,KANDUKURU,1,PS (I-V),3,Local body,Urban,3,Co-Ed,50,50,0,2,34,49,46,27,44,45,0,0,0,0,36,2,0,0,6,28,0,50,39,8,21,0,18,0,45,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281850,KANDUKURU,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,4,4,0,1,4,4,4,4,4,4,0,0,0,0,3,3,0,1,0,3,0,4,4,3,4,1,1,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281850,KANDUKURU,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,2,2,0,0,2,2,2,1,2,2,0,0,0,0,2,2,0,1,0,1,0,1,2,0,2,1,2,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281850,KANDUKURU,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,1,0,1,0,1,1,2,2,1,2,1,1,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281850,KANDUKURU,6,SS (I-X),8,Unrecognized,Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,1,0,2,0,1,0,2,1,2,2,1,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281850,KANDUKURU,7,SS (VI-X),3,Local body,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281850,KANDUKURU,7,SS (VI-X),3,Local body,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281850,KANDUKURU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281850,KANDUKURU,7,SS (VI-X),3,Local body,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281850,KANDUKURU,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,14,14,0,8,14,14,14,14,14,14,0,0,0,0,8,13,0,7,0,6,0,13,11,11,13,2,5,0,11,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281850,KANDUKURU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,5,5,0,1,3,5,3,2,5,5,0,0,0,0,4,0,0,0,2,5,0,5,5,0,3,0,4,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281850,KANDUKURU,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,4,4,0,1,3,3,2,2,4,4,0,0,0,0,1,1,0,0,0,3,0,4,2,0,3,0,2,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281850,KANDUKURU,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,4,4,0,3,4,4,4,4,4,4,0,0,0,0,3,3,0,1,0,3,0,3,3,3,3,0,2,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281850,KANDUKURU,2,UPS (I-VIII),8,Unrecognized,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281850,KANDUKURU,4,UPS (VI-VIII),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281851,VALETIVARIPALEM,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281851,VALETIVARIPALEM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,42,42,0,2,18,41,42,23,31,32,0,0,0,0,31,4,0,0,17,31,0,42,39,3,28,0,18,0,26,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281851,VALETIVARIPALEM,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281851,VALETIVARIPALEM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,4,4,0,4,4,4,4,3,4,4,0,0,0,0,2,2,0,1,0,4,0,4,4,4,4,1,3,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281851,VALETIVARIPALEM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,8,8,0,2,6,8,8,5,7,7,0,0,0,0,5,5,0,1,5,6,0,8,8,2,7,0,3,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281851,VALETIVARIPALEM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,2,0,0,0,2,0,2,0,0,2,0,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281852,PAMURU,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281852,PAMURU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,0,4,4,4,4,4,4,0,0,0,0,1,3,0,2,0,2,0,4,1,2,3,3,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281852,PAMURU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,69,69,0,0,54,68,52,51,62,62,0,0,0,0,41,0,0,0,17,55,0,69,57,38,39,1,23,0,53,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281852,PAMURU,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,2,1,0,1,0,2,0,2,0,2,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281852,PAMURU,1,PS (I-V),3,Local body,Urban,3,Co-Ed,10,10,0,0,9,9,3,6,9,9,0,0,0,0,6,0,0,0,1,6,0,10,10,2,5,0,2,0,8,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281852,PAMURU,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,4,4,0,1,4,4,4,3,4,4,0,0,0,0,1,3,0,0,0,4,0,4,2,2,3,0,1,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281852,PAMURU,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281852,PAMURU,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281852,PAMURU,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281852,PAMURU,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281852,PAMURU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,7,7,0,7,4,7,6,5,7,7,0,0,0,0,6,3,0,2,0,7,0,7,6,4,6,0,4,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281852,PAMURU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,1,0,2,0,2,1,1,2,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281852,PAMURU,7,SS (VI-X),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281852,PAMURU,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281852,PAMURU,7,SS (VI-X),8,Unrecognized,Urban,3,Co-Ed,1,1,0,0,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281852,PAMURU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,12,12,0,2,10,11,9,9,12,12,0,0,0,0,9,1,0,0,9,11,0,12,9,8,9,0,8,0,7,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281852,PAMURU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281852,PAMURU,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,6,6,0,2,6,6,6,4,6,6,0,0,0,0,4,5,0,1,0,4,0,6,3,5,6,1,0,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281852,PAMURU,2,UPS (I-VIII),8,Unrecognized,Urban,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281853,LINGASAMUDRAM,3,HSS (I-XII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,1,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281853,LINGASAMUDRAM,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281853,LINGASAMUDRAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281853,LINGASAMUDRAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,35,35,0,1,19,33,34,21,30,30,0,0,0,0,32,7,0,0,5,29,0,34,31,13,18,0,11,0,17,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281853,LINGASAMUDRAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281853,LINGASAMUDRAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,4,4,0,4,2,3,4,3,4,4,0,0,0,0,4,2,0,0,0,4,0,4,4,3,4,1,2,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281853,LINGASAMUDRAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281853,LINGASAMUDRAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,6,6,0,2,5,6,6,5,6,6,0,0,0,0,5,0,0,0,2,5,0,6,6,3,3,0,3,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281853,LINGASAMUDRAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,1,0,2,0,2,2,0,2,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281853,LINGASAMUDRAM,4,UPS (VI-VIII),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281854,GUDLURU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281854,GUDLURU,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,1,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281854,GUDLURU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,47,46,0,0,40,45,45,35,41,41,0,0,0,0,28,3,0,0,5,37,0,47,41,1,28,0,18,0,26,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281854,GUDLURU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,3,4,5,5,4,5,5,0,0,0,0,3,5,0,1,0,4,0,5,4,2,5,0,2,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281854,GUDLURU,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,0,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,0,0,1,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281854,GUDLURU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,4,4,0,3,3,3,4,2,4,4,0,0,0,0,1,1,0,1,0,4,0,4,2,2,4,0,2,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281854,GUDLURU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,3,5,5,5,5,5,5,0,0,0,0,0,5,0,1,0,4,0,5,3,5,5,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281854,GUDLURU,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281854,GUDLURU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,9,9,0,1,7,8,9,8,9,9,0,0,0,0,6,1,0,0,3,7,0,9,9,1,4,0,2,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281854,GUDLURU,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281854,GUDLURU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,2,1,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281854,GUDLURU,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281855,ULAVAPADU,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,0,0,1,1,1,0,0,1,1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281855,ULAVAPADU,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281855,ULAVAPADU,1,PS (I-V),3,Local body,Rural,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281855,ULAVAPADU,1,PS (I-V),3,Local body,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281855,ULAVAPADU,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,4,4,0,0,2,4,4,3,3,3,0,0,0,0,3,0,0,0,0,2,0,4,4,0,2,0,2,0,4,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281855,ULAVAPADU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,48,48,0,0,41,47,48,37,44,45,0,0,0,0,34,6,0,0,3,43,0,48,45,5,31,0,28,0,29,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281855,ULAVAPADU,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,0,1,1,1,0,0,0,0,1,2,0,0,0,2,0,2,1,0,2,0,0,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281855,ULAVAPADU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,3,3,0,1,0,3,0,3,1,1,2,1,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281855,ULAVAPADU,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,1,0,0,0,1,0,2,1,1,2,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281855,ULAVAPADU,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281855,ULAVAPADU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,5,5,0,4,5,5,5,4,5,5,0,0,0,0,5,2,0,0,0,5,0,5,5,2,5,0,2,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281855,ULAVAPADU,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281855,ULAVAPADU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,3,3,0,1,0,3,0,2,2,1,3,0,1,0,2,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281855,ULAVAPADU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,5,5,0,2,4,5,5,4,5,5,0,0,0,0,4,1,0,0,1,4,0,5,5,2,3,0,4,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281855,ULAVAPADU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,2,6,6,6,5,6,6,0,0,0,0,6,5,0,0,0,4,0,6,3,3,6,0,0,0,6,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281855,ULAVAPADU,4,UPS (VI-VIII),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,0,1,1,0,1,1,1,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281856,SINGARAYAKONDA,3,HSS (I-XII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,0,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281856,SINGARAYAKONDA,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281856,SINGARAYAKONDA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,2,0,2,0,2,0,2,2,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281856,SINGARAYAKONDA,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281856,SINGARAYAKONDA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,43,43,0,1,35,39,42,34,38,42,0,0,0,0,18,7,0,0,2,30,0,43,39,4,29,0,18,0,27,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281856,SINGARAYAKONDA,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,3,3,0,0,3,3,2,1,2,2,0,0,0,0,1,1,0,0,0,1,0,3,2,0,2,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281856,SINGARAYAKONDA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,7,8,8,8,8,8,8,0,0,0,0,6,8,0,2,0,6,0,8,5,5,8,3,1,0,7,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281856,SINGARAYAKONDA,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281856,SINGARAYAKONDA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,1,0,1,0,2,2,2,2,1,0,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281856,SINGARAYAKONDA,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281856,SINGARAYAKONDA,7,SS (VI-X),3,Local body,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281856,SINGARAYAKONDA,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281856,SINGARAYAKONDA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,2,2,0,2,1,2,2,1,2,2,0,0,0,0,1,1,0,0,0,2,0,2,2,2,2,0,1,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281856,SINGARAYAKONDA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,5,6,6,6,5,6,6,0,0,0,0,2,6,0,2,0,6,0,6,5,3,5,3,2,0,3,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281856,SINGARAYAKONDA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,2,2,0,2,2,2,2,1,1,1,0,0,0,0,2,1,0,0,0,2,0,2,2,0,0,0,2,0,0,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281856,SINGARAYAKONDA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,3,3,0,0,0,3,0,3,2,1,3,0,1,0,1,0,0
+2014-15,28,Andhra Pradesh,2818,PRAKASAM,281856,SINGARAYAKONDA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,1,1,0,0,1,0,0

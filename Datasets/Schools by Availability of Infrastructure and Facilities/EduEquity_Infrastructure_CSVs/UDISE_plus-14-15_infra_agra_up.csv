@@ -1,0 +1,425 @@
+Academic_Year,State_Code,State_Name,District_Code,District_Name,Block_Code,Udise_Block_Name,School_Category_Id,School_Category_Name,School_Management_Id,School_Management_Name,Location,School_Type_Id,School_Type,Total_Number_of_Schools,Building,Complete_Medical_Checkup,Computer_Available,Functional_Drinking_Water,Drinking_Water,Functional_Electricity,Functional_Boy_Toilet,Functional_Girl_Toilet,Functional_Toilet_Facility,Functional_Toilet_and_Urinal,Functional_Urinal,Functional_Urinal_Boy,Functional_Urinal_Girl,Handwash,Separate_Room_for_Headmaster,Incinerator,Internet,Kitchen_Garden,Land_Available,Librarian,Library_or_Reading_Corner_or_Book_Bank,Medical_Checkup,Newspaper,Playground,Rain_Water_Harvesting,Ramps,Solar_Panel,Furniture,Water_Purifier,Water_Tested
+2014-15,9,Uttar Pradesh,915,AGRA,91501,AKOLA,3,HSS (I-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,0,1,1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91501,AKOLA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,1,2,0,1,0,2,0,1,2,1,2,0,2,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91501,AKOLA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91501,AKOLA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,1,1,0,1,0,1,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91501,AKOLA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,10,10,0,1,7,10,9,10,10,10,0,0,0,0,9,8,0,5,0,8,6,10,6,8,10,4,6,0,7,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91501,AKOLA,5,HSS (VI-XII),4,Government Aided,Rural,3,Co-Ed,4,4,0,4,4,4,3,4,4,4,0,0,0,0,3,3,0,2,0,4,1,3,3,0,4,1,2,0,4,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91501,AKOLA,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,1,2,2,1,2,2,2,0,0,0,0,2,2,0,2,0,2,2,2,2,2,2,2,2,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91501,AKOLA,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,77,77,0,3,60,77,46,77,77,77,0,0,0,0,56,69,0,0,77,38,0,73,60,2,62,0,77,0,39,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91501,AKOLA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,24,24,0,4,24,24,19,24,24,24,0,0,0,0,10,24,0,0,1,20,1,18,14,5,24,0,8,0,22,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91501,AKOLA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,0,5,5,5,5,5,5,0,0,0,0,3,5,0,3,0,5,0,5,3,1,5,1,3,0,4,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91501,AKOLA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,0,1,1,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91501,AKOLA,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,1,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91501,AKOLA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,5,0,0,5,6,6,6,6,6,0,0,0,0,5,5,0,3,0,5,2,6,3,4,6,3,3,0,3,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91501,AKOLA,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,1,2,1,1,2,2,1,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91501,AKOLA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,1,2,0,0,0,2,0,1,2,0,2,0,1,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91501,AKOLA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,0,1,0,1,1,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91501,AKOLA,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91501,AKOLA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,0,8,8,8,8,8,8,0,0,0,0,1,8,0,0,0,7,0,6,5,3,8,0,6,0,7,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91501,AKOLA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91501,AKOLA,4,UPS (VI-VIII),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91501,AKOLA,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,28,28,0,7,19,28,24,28,27,28,0,0,0,0,17,27,0,0,28,18,0,26,16,1,23,0,26,0,13,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91501,AKOLA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,0,5,5,5,5,5,5,0,0,0,0,0,5,0,0,0,5,0,4,2,2,5,0,2,0,5,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91502,ACCHNERA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,2,2,0,1,0,2,1,1,1,1,2,2,1,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91502,ACCHNERA,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,0,7,7,7,7,7,7,0,0,0,0,7,7,0,2,0,7,1,4,1,1,7,1,1,0,7,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91502,ACCHNERA,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,0,3,3,3,3,3,3,0,0,0,0,3,3,0,0,0,3,3,3,3,3,3,0,3,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91502,ACCHNERA,5,HSS (VI-XII),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,0,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,1,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91502,ACCHNERA,5,HSS (VI-XII),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,0,2,0,1,0,2,0,2,2,1,2,1,2,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91502,ACCHNERA,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,4,4,0,3,0,4,3,4,3,3,4,1,3,0,3,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91502,ACCHNERA,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,102,102,0,0,82,102,61,102,102,102,0,0,0,0,14,85,0,0,102,59,0,76,40,5,81,0,95,0,61,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91502,ACCHNERA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,33,33,0,6,33,33,32,33,33,33,0,0,0,0,11,31,0,0,1,27,0,16,23,16,31,0,18,0,26,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91502,ACCHNERA,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,8,8,0,0,7,8,6,8,8,8,0,0,0,0,4,8,0,0,8,4,0,6,3,1,7,0,7,0,5,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91502,ACCHNERA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91502,ACCHNERA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91502,ACCHNERA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91502,ACCHNERA,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,2,2,0,0,2,2,1,2,2,2,0,0,0,0,2,1,0,0,0,1,1,1,1,1,2,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91502,ACCHNERA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,1,2,3,3,3,3,3,0,0,0,0,3,3,0,0,0,3,2,3,2,2,3,0,2,0,3,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91502,ACCHNERA,8,SS (IX-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91502,ACCHNERA,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91502,ACCHNERA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91502,ACCHNERA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,20,20,0,5,20,20,17,20,20,20,0,0,0,0,6,19,0,0,0,16,0,13,15,10,18,0,16,0,16,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91502,ACCHNERA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,4,4,0,0,4,4,3,4,4,4,0,0,0,0,1,4,0,0,0,3,0,4,3,0,4,0,2,0,3,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91502,ACCHNERA,4,UPS (VI-VIII),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91502,ACCHNERA,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,59,59,0,10,50,59,23,58,58,58,0,0,0,0,13,58,0,0,59,39,0,36,11,1,42,0,50,0,41,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91502,ACCHNERA,4,UPS (VI-VIII),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,1,2,2,2,0,0,0,0,0,2,0,0,1,0,0,1,1,1,2,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91502,ACCHNERA,4,UPS (VI-VIII),1,Department of Education,Urban,3,Co-Ed,2,2,0,0,1,2,1,2,2,2,0,0,0,0,1,2,0,0,2,1,0,1,1,0,2,0,2,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91503,BAH,3,HSS (I-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,1,1,1,0,1,1,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91503,BAH,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91503,BAH,3,HSS (I-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91503,BAH,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91503,BAH,5,HSS (VI-XII),4,Government Aided,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,2,2,1,1,0,0,2,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91503,BAH,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,2,0,0,0,1,1,1,2,0,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91503,BAH,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,144,144,0,1,100,144,50,144,144,144,0,0,0,0,43,123,0,0,144,112,0,92,38,5,116,0,138,0,115,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91503,BAH,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,3,3,0,1,3,3,1,3,3,3,0,0,0,0,2,2,0,0,0,2,0,2,2,0,3,0,1,0,3,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91503,BAH,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,18,18,0,1,17,18,13,18,18,18,0,0,0,0,14,15,0,0,0,13,0,9,9,1,16,0,11,0,13,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91503,BAH,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,3,3,0,0,3,3,3,3,3,3,0,0,0,0,2,3,0,0,0,3,0,1,2,0,3,0,2,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91503,BAH,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,6,6,0,2,6,6,6,6,6,6,0,0,0,0,5,6,0,0,0,1,0,3,3,1,6,0,1,0,5,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91503,BAH,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,0,3,3,3,3,3,3,0,0,0,0,3,3,0,1,0,2,0,1,2,1,2,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91503,BAH,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91503,BAH,7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91503,BAH,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91503,BAH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,0,4,5,2,5,5,5,0,0,0,0,5,3,0,0,0,3,0,2,3,0,5,0,1,0,3,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91503,BAH,2,UPS (I-VIII),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91503,BAH,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,0,3,3,3,3,3,3,0,0,0,0,2,3,0,0,0,3,0,2,3,0,3,0,2,0,3,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91503,BAH,4,UPS (VI-VIII),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91503,BAH,4,UPS (VI-VIII),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91503,BAH,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,62,62,0,5,45,60,30,62,62,62,0,0,0,0,33,54,0,0,62,48,0,40,16,7,50,0,56,0,45,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91503,BAH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,2,2,1,2,2,2,0,0,0,0,2,2,0,0,0,2,0,2,1,1,1,0,0,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,3,HSS (I-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,4,4,5,3,5,5,5,0,0,0,0,3,3,0,1,0,3,1,4,3,2,5,1,2,0,5,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,0,0,0,0,0,1,1,1,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,1,1,0,0,1,1,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,18,18,0,0,18,18,17,18,18,18,0,0,0,0,17,17,0,9,0,17,10,15,8,10,18,7,8,0,17,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,1,2,1,1,2,1,1,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,5,HSS (VI-XII),1,Department of Education,Rural,2,Girls,2,2,0,1,1,2,2,0,2,2,0,0,0,0,2,1,0,1,0,1,1,1,0,0,2,0,2,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,5,HSS (VI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,0,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,1,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,1,4,5,5,5,5,5,0,0,0,0,5,5,0,4,0,4,3,5,3,4,5,1,4,0,5,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,3,3,0,0,0,1,3,3,3,3,2,0,3,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,1,PS (I-V),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,1,0,0,1,1,0,1,0,1,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,151,151,0,6,107,148,82,151,151,151,0,0,0,0,88,118,0,0,151,86,0,120,100,6,127,0,146,0,83,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,1,2,0,0,0,2,0,0,1,0,2,0,0,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,23,23,0,6,23,23,22,23,23,23,0,0,0,0,13,22,0,0,0,18,0,15,10,4,22,0,13,0,19,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,4,4,0,0,3,4,3,4,4,4,0,0,0,0,0,4,0,0,4,4,0,4,4,0,4,0,4,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,9,9,0,3,9,9,9,9,9,9,0,0,0,0,8,9,0,6,0,8,3,8,6,4,8,5,8,0,8,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,8,SS (IX-X),5,Private Unaided (Recognized),Rural,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,Girls,1,1,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,2,2,0,0,1,2,1,2,2,2,0,0,0,0,1,2,0,0,0,2,1,2,1,1,2,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,2,5,6,6,6,6,6,0,0,0,0,6,6,0,3,0,5,5,6,5,6,5,3,5,0,4,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,2,0,1,0,2,0,1,0,1,2,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,2,4,4,4,4,4,4,0,0,0,0,4,4,0,3,0,4,4,4,4,4,4,2,4,0,4,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,2,UPS (I-VIII),1,Department of Education,Rural,2,Girls,1,0,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,5,5,0,4,5,5,4,5,5,5,0,0,0,0,3,5,0,0,0,4,0,2,2,0,5,0,2,0,4,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,12,12,0,2,12,12,10,12,12,12,0,0,0,0,5,12,0,0,0,8,0,6,7,2,10,0,4,0,9,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,53,53,0,8,44,53,29,53,53,53,0,0,0,0,25,52,0,0,53,40,0,47,37,0,47,0,48,0,42,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,4,UPS (VI-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91504,BAROLI AHEER,4,UPS (VI-VIII),1,Department of Education,Urban,3,Co-Ed,4,4,0,2,4,4,3,4,4,4,0,0,0,0,2,4,0,0,4,4,1,4,4,2,4,0,3,0,4,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91505,BICHPURI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,3,5,5,5,5,5,5,0,0,0,0,4,5,0,4,0,3,3,5,3,2,5,3,3,0,5,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91505,BICHPURI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91505,BICHPURI,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,0,1,1,1,1,1,0,1,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91505,BICHPURI,10,HSS (IX-XII),1,Department of Education,Rural,3,Co-Ed,1,0,0,0,1,1,0,1,1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91505,BICHPURI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,11,11,0,2,11,11,11,11,11,11,0,0,0,0,9,10,0,9,0,7,10,11,9,10,11,9,11,0,7,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91505,BICHPURI,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91505,BICHPURI,5,HSS (VI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,0,1,1,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91505,BICHPURI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,1,2,2,2,2,2,0,0,0,0,2,2,0,0,0,2,2,2,2,2,2,0,2,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91505,BICHPURI,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,59,59,0,0,51,59,49,59,59,59,0,0,0,0,26,52,0,0,59,24,0,53,51,0,45,0,56,0,34,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91505,BICHPURI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,1,8,8,5,8,8,8,0,0,0,0,0,8,0,0,0,7,0,2,3,1,7,0,5,0,6,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91505,BICHPURI,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,2,1,0,0,2,0,0,2,2,0,0,0,2,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91505,BICHPURI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,2,2,1,2,2,2,0,0,0,0,0,2,0,1,0,2,0,1,0,1,2,0,0,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91505,BICHPURI,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91505,BICHPURI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,1,5,5,5,5,5,5,0,0,0,0,5,5,0,3,0,5,4,5,5,5,5,2,4,0,5,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91505,BICHPURI,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,2,1,0,0,0,2,2,2,2,2,2,0,2,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91505,BICHPURI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91505,BICHPURI,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,1,0,0,1,0,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91505,BICHPURI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,10,10,0,1,10,10,10,10,10,10,0,0,0,0,0,10,0,0,0,6,0,8,4,1,10,0,3,0,9,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91505,BICHPURI,4,UPS (VI-VIII),1,Department of Education,Rural,2,Girls,1,0,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,1,1,0,1,0,0,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91505,BICHPURI,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,32,31,0,8,30,32,23,32,32,32,0,0,0,0,12,31,0,0,32,16,0,23,22,0,29,0,25,0,20,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91505,BICHPURI,4,UPS (VI-VIII),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,1,2,2,2,2,2,0,0,0,0,2,2,0,0,1,2,0,2,0,0,2,0,0,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91505,BICHPURI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,2,2,1,2,2,2,0,0,0,0,0,2,0,0,0,2,0,1,1,0,2,0,1,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,3,HSS (I-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,1,0,1,0,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,0,1,1,1,1,1,0,1,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,10,10,0,2,10,10,9,10,10,10,0,0,0,0,10,10,0,8,0,5,10,10,10,10,10,6,10,0,7,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,0,1,1,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,5,HSS (VI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,0,1,0,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,4,0,1,5,5,4,5,5,5,0,0,0,0,4,5,0,2,0,5,4,5,4,3,3,3,5,0,5,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,1,PS (I-V),1,Department of Education,Rural,1,Boys,1,1,0,0,1,1,0,1,0,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,1,PS (I-V),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0,1,0,1,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,142,142,0,1,93,142,81,142,142,142,0,0,0,0,54,130,0,0,142,85,0,118,88,4,115,0,136,0,70,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,24,23,0,1,22,24,19,24,24,24,0,0,0,0,1,21,0,0,0,16,0,12,15,2,20,0,10,0,14,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,4,4,0,0,0,4,3,4,4,4,0,0,0,0,1,2,0,0,4,2,0,4,3,0,3,0,4,0,3,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,7,7,0,0,6,7,6,7,7,7,0,0,0,0,0,6,0,0,0,6,0,4,4,1,7,0,4,0,5,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,6,SS (I-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,1,2,1,2,2,2,0,0,0,0,0,2,0,0,0,1,0,1,1,0,2,1,0,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,1,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,1,6,7,6,7,7,7,0,0,0,0,7,7,0,3,0,6,7,7,6,7,7,4,7,0,6,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,8,SS (IX-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,1,1,1,1,0,1,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,0,1,1,1,0,0,0,0,0,1,0,1,0,1,0,0,1,0,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,0,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,1,1,1,1,1,1,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,2,2,0,0,1,1,2,2,2,2,0,0,0,0,2,2,0,0,2,2,0,0,2,1,0,0,2,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,10,10,0,0,10,10,6,10,10,10,0,0,0,0,0,10,0,0,0,10,0,6,4,1,8,0,4,0,7,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,4,UPS (VI-VIII),1,Department of Education,Rural,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,4,UPS (VI-VIII),1,Department of Education,Rural,2,Girls,2,2,0,0,1,2,2,0,2,2,0,0,0,0,0,2,0,0,2,0,0,2,1,0,2,0,2,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,56,56,0,6,31,56,37,56,56,56,0,0,0,0,23,55,0,0,56,36,0,52,26,2,44,0,48,0,43,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,4,UPS (VI-VIII),4,Government Aided,Rural,3,Co-Ed,3,3,0,0,2,3,1,3,3,3,0,0,0,0,0,3,0,0,1,3,0,2,2,0,3,0,2,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,1,5,8,4,8,8,8,0,0,0,0,1,8,0,0,0,5,0,4,4,0,6,0,3,0,7,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,4,UPS (VI-VIII),1,Department of Education,Urban,3,Co-Ed,2,2,0,2,1,2,2,2,2,2,0,0,0,0,0,2,0,0,2,2,0,2,1,0,2,0,2,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91506,ETMADPUR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91507,FATEHPUR  SIKRI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,1,0,2,0,1,2,2,2,1,1,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91507,FATEHPUR  SIKRI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91507,FATEHPUR  SIKRI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,1,2,2,2,2,2,0,0,0,0,2,2,0,1,0,2,1,2,1,1,2,0,2,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91507,FATEHPUR  SIKRI,5,HSS (VI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,1,1,1,1,1,0,1,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91507,FATEHPUR  SIKRI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,2,3,0,0,0,2,1,3,2,3,3,1,3,0,3,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91507,FATEHPUR  SIKRI,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,109,108,0,0,65,109,86,108,109,109,0,0,0,0,19,82,0,0,109,59,0,101,63,5,75,0,105,0,33,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91507,FATEHPUR  SIKRI,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,0,2,0,0,0,2,0,1,1,1,2,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91507,FATEHPUR  SIKRI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,34,34,0,10,34,34,31,34,34,34,0,0,0,0,3,31,0,0,1,28,0,20,20,17,31,0,15,0,26,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91507,FATEHPUR  SIKRI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,1,2,2,1,2,1,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91507,FATEHPUR  SIKRI,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,2,2,0,0,1,2,1,2,2,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,1,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91507,FATEHPUR  SIKRI,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,2,2,0,1,1,2,2,2,2,2,0,0,0,0,1,1,0,1,0,2,0,2,2,1,2,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91507,FATEHPUR  SIKRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,9,9,0,6,9,9,9,9,9,9,0,0,0,0,0,9,0,0,0,9,0,7,6,7,9,0,4,0,6,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91507,FATEHPUR  SIKRI,4,UPS (VI-VIII),1,Department of Education,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,0,1,1,0,1,0,1,1,0,1,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91507,FATEHPUR  SIKRI,4,UPS (VI-VIII),1,Department of Education,Rural,2,Girls,1,1,0,0,0,1,1,0,1,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91507,FATEHPUR  SIKRI,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,59,59,0,5,33,58,39,59,59,59,0,0,0,0,8,57,0,0,55,37,0,49,25,4,38,0,43,0,36,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91507,FATEHPUR  SIKRI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91508,JAGNER,3,HSS (I-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91508,JAGNER,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,Girls,2,2,0,0,2,2,2,0,2,2,0,0,0,0,2,2,0,0,0,2,2,2,2,2,2,0,2,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91508,JAGNER,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91508,JAGNER,5,HSS (VI-XII),4,Government Aided,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,1,0,2,0,1,0,2,0,0,2,1,0,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91508,JAGNER,5,HSS (VI-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,1,1,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91508,JAGNER,1,PS (I-V),1,Department of Education,Rural,1,Boys,1,1,0,0,1,1,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,1,1,0,1,0,1,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91508,JAGNER,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,110,110,0,0,71,108,55,110,110,110,0,0,0,0,66,102,0,0,110,70,0,97,45,3,85,0,109,0,73,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91508,JAGNER,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,0,2,0,0,0,2,0,1,1,0,2,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91508,JAGNER,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,9,9,0,2,9,9,7,9,9,9,0,0,0,0,6,9,0,0,0,6,0,7,4,0,8,0,3,0,9,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91508,JAGNER,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,4,4,0,1,4,4,4,4,4,4,0,0,0,0,3,3,0,0,0,2,0,2,1,0,2,0,3,0,3,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91508,JAGNER,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91508,JAGNER,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,2,2,0,0,2,2,0,2,2,2,0,0,0,0,2,1,0,0,0,1,0,1,0,0,2,0,2,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91508,JAGNER,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,0,1,1,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91508,JAGNER,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91508,JAGNER,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91508,JAGNER,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,3,6,6,5,6,6,6,0,0,0,0,6,5,0,0,0,5,0,5,2,0,6,0,1,0,5,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91508,JAGNER,2,UPS (I-VIII),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91508,JAGNER,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,1,2,0,0,0,1,0,2,1,0,2,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91508,JAGNER,4,UPS (VI-VIII),1,Department of Education,Urban,2,Girls,2,2,0,0,0,2,2,0,2,2,0,0,0,0,0,2,0,0,2,1,0,0,1,1,2,0,1,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91508,JAGNER,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,52,52,0,5,36,51,22,52,52,52,0,0,0,0,29,48,0,0,52,41,0,36,25,3,42,0,51,0,30,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91508,JAGNER,4,UPS (VI-VIII),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91508,JAGNER,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91509,JAITPUR  KALAN,10,HSS (IX-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91509,JAITPUR  KALAN,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91509,JAITPUR  KALAN,5,HSS (VI-XII),4,Government Aided,Rural,3,Co-Ed,2,2,0,2,1,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,2,2,2,1,2,0,2,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91509,JAITPUR  KALAN,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,2,2,0,1,0,2,1,2,1,1,2,1,2,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91509,JAITPUR  KALAN,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,135,134,0,0,106,135,60,135,135,135,0,0,0,0,68,88,0,0,135,91,0,103,88,8,108,0,132,0,91,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91509,JAITPUR  KALAN,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,1,2,2,2,0,0,0,0,0,2,0,0,0,2,0,1,0,0,2,0,2,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91509,JAITPUR  KALAN,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,9,9,0,0,8,9,6,9,9,9,0,0,0,0,1,8,0,0,0,4,0,3,2,0,9,0,3,0,9,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91509,JAITPUR  KALAN,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,2,2,2,2,2,1,2,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91509,JAITPUR  KALAN,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91509,JAITPUR  KALAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,0,4,4,3,4,4,4,0,0,0,0,1,3,0,0,0,3,0,2,2,0,4,0,2,0,3,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91509,JAITPUR  KALAN,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,58,58,0,7,34,58,24,58,58,58,0,0,0,0,26,55,0,0,58,41,0,54,15,1,46,0,50,0,42,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91509,JAITPUR  KALAN,4,UPS (VI-VIII),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,1,2,2,2,0,0,0,0,1,2,0,0,1,2,0,1,0,1,2,0,1,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91509,JAITPUR  KALAN,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,1,3,4,2,4,4,4,0,0,0,0,1,2,0,0,1,3,0,3,1,0,3,0,2,0,4,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91510,KHANDOLI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,Girls,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91510,KHANDOLI,10,HSS (IX-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91510,KHANDOLI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,11,11,0,3,11,11,10,11,11,11,0,0,0,0,11,11,0,11,0,9,11,11,11,11,10,5,10,0,9,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91510,KHANDOLI,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,4,4,0,0,3,4,2,4,4,4,0,0,0,0,4,4,0,2,0,3,4,4,3,4,4,3,2,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91510,KHANDOLI,5,HSS (VI-XII),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91510,KHANDOLI,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,1,1,1,1,1,0,1,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91510,KHANDOLI,5,HSS (VI-XII),4,Government Aided,Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,3,3,0,2,0,2,0,3,1,0,3,0,1,0,3,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91510,KHANDOLI,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91510,KHANDOLI,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,119,119,0,0,94,119,90,118,118,118,0,0,0,0,66,87,0,0,119,55,0,109,81,8,99,0,119,0,67,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91510,KHANDOLI,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91510,KHANDOLI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,30,30,0,5,28,30,28,30,30,30,0,0,0,0,19,26,0,0,0,22,0,14,10,2,26,0,15,0,26,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91510,KHANDOLI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,2,0,1,0,2,1,2,1,1,2,0,1,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91510,KHANDOLI,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,3,2,0,0,2,3,2,3,3,3,0,0,0,0,2,1,0,0,0,2,0,3,1,1,2,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91510,KHANDOLI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,3,5,6,6,6,6,6,0,0,0,0,6,6,0,4,0,6,5,6,5,6,6,2,5,0,4,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91510,KHANDOLI,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,1,1,1,1,0,1,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91510,KHANDOLI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,2,4,4,4,4,4,4,0,0,0,0,4,4,0,3,0,4,3,4,2,4,4,2,4,0,4,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91510,KHANDOLI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91510,KHANDOLI,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91510,KHANDOLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,2,2,1,2,2,2,0,0,0,0,1,2,0,0,0,1,0,2,1,0,2,0,1,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91510,KHANDOLI,4,UPS (VI-VIII),1,Department of Education,Rural,2,Girls,1,0,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91510,KHANDOLI,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,57,57,0,7,46,57,36,56,56,56,0,0,0,0,25,39,0,0,56,26,0,52,22,6,49,0,55,0,36,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91510,KHANDOLI,4,UPS (VI-VIII),4,Government Aided,Rural,3,Co-Ed,3,3,0,0,2,3,2,3,3,3,0,0,0,0,2,2,0,0,0,1,0,3,1,0,3,0,1,0,3,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91510,KHANDOLI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,3,3,0,0,0,1,0,1,2,0,3,0,2,0,3,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91511,FATEHABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,0,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91511,FATEHABAD,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,3,3,0,2,0,3,3,3,2,3,3,2,2,0,3,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91511,FATEHABAD,5,HSS (VI-XII),4,Government Aided,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91511,FATEHABAD,5,HSS (VI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91511,FATEHABAD,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,0,1,1,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91511,FATEHABAD,5,HSS (VI-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91511,FATEHABAD,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,207,207,0,0,115,204,125,207,207,207,0,0,0,0,103,181,0,0,207,141,0,151,87,9,155,0,202,0,135,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91511,FATEHABAD,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,0,2,0,0,0,1,0,2,0,0,0,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91511,FATEHABAD,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,11,11,0,0,7,11,4,11,11,11,0,0,0,0,4,10,0,0,0,7,0,6,6,0,10,0,7,0,8,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91511,FATEHABAD,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,3,3,0,0,2,3,1,3,3,3,0,0,0,0,0,3,0,0,3,1,0,3,3,0,2,0,3,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91511,FATEHABAD,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,4,4,0,2,3,4,4,4,4,4,0,0,0,0,3,3,0,0,0,2,0,1,4,0,4,0,2,0,4,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91511,FATEHABAD,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,1,2,2,2,0,0,0,0,1,1,0,1,0,1,1,2,2,0,1,1,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91511,FATEHABAD,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,0,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91511,FATEHABAD,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,1,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91511,FATEHABAD,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,2,2,1,2,2,2,2,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91511,FATEHABAD,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,1,2,2,2,2,2,0,0,0,0,2,2,0,1,0,2,1,1,2,1,2,1,2,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91511,FATEHABAD,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91511,FATEHABAD,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91511,FATEHABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,1,2,3,3,3,3,3,0,0,0,0,1,2,0,0,0,1,0,2,2,0,3,0,3,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91511,FATEHABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,4,4,0,1,3,4,4,4,4,4,0,0,0,0,2,4,0,0,0,3,0,3,2,0,4,0,2,0,4,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91511,FATEHABAD,4,UPS (VI-VIII),1,Department of Education,Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,1,0,0,0,1,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91511,FATEHABAD,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,75,75,0,5,45,75,36,75,75,75,0,0,0,0,28,70,0,0,75,58,0,45,30,5,57,0,75,0,56,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91511,FATEHABAD,4,UPS (VI-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91511,FATEHABAD,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,0,3,3,2,3,3,3,0,0,0,0,3,1,0,0,0,1,1,2,1,3,3,0,1,0,3,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91511,FATEHABAD,4,UPS (VI-VIII),1,Department of Education,Urban,3,Co-Ed,2,2,0,2,0,2,1,2,2,2,0,0,0,0,1,2,0,0,2,2,0,2,2,0,2,0,2,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91511,FATEHABAD,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91512,KHERAGARH,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,0,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,0,1,1,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91512,KHERAGARH,3,HSS (I-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91512,KHERAGARH,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91512,KHERAGARH,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91512,KHERAGARH,5,HSS (VI-XII),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,0,1,0,1,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91512,KHERAGARH,5,HSS (VI-XII),4,Government Aided,Rural,3,Co-Ed,3,3,0,3,2,3,2,3,3,3,0,0,0,0,1,3,0,2,0,2,1,2,0,2,3,0,0,0,3,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91512,KHERAGARH,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,2,0,1,0,2,2,2,2,2,2,1,2,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91512,KHERAGARH,1,PS (I-V),1,Department of Education,Rural,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,1,0,0,0,1,1,0,1,1,0,0,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91512,KHERAGARH,1,PS (I-V),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,0,0,0,1,1,0,1,1,0,0,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91512,KHERAGARH,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,107,107,0,0,75,104,61,106,101,107,0,0,0,0,50,82,0,0,107,70,0,91,63,4,80,0,97,0,94,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91512,KHERAGARH,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,17,17,0,1,17,17,14,17,17,17,0,0,0,0,13,17,0,0,0,14,0,12,3,6,15,0,7,0,16,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91512,KHERAGARH,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,3,3,0,0,3,3,3,3,3,3,0,0,0,0,0,2,0,0,3,1,0,3,2,0,3,0,3,0,3,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91512,KHERAGARH,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,6,6,0,1,6,6,5,6,6,6,0,0,0,0,5,5,0,0,0,3,0,3,0,2,4,0,0,0,5,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91512,KHERAGARH,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,1,5,5,5,5,5,5,0,0,0,0,4,5,0,2,0,4,0,5,1,0,5,2,2,0,5,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91512,KHERAGARH,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,2,0,0,0,2,2,2,2,2,1,1,2,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91512,KHERAGARH,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91512,KHERAGARH,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,1,0,0,0,1,1,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91512,KHERAGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,0,2,3,3,3,3,3,0,0,0,0,3,2,0,0,0,2,0,3,1,0,3,0,0,0,3,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91512,KHERAGARH,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,4,4,0,0,3,4,3,4,4,4,0,0,0,0,3,3,0,0,0,3,0,2,1,0,4,0,0,0,4,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91512,KHERAGARH,4,UPS (VI-VIII),1,Department of Education,Urban,2,Girls,1,0,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,1,1,0,1,0,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91512,KHERAGARH,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,44,44,0,6,29,44,23,44,44,44,0,0,0,0,20,39,0,0,44,28,0,35,16,2,31,0,34,0,32,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91512,KHERAGARH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,0,5,5,2,5,5,5,0,0,0,0,4,5,0,0,0,4,0,4,0,1,5,0,3,0,5,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91512,KHERAGARH,4,UPS (VI-VIII),1,Department of Education,Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,0,2,0,0,2,0,0,2,0,2,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91512,KHERAGARH,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91513,PINAHAT,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,1,2,1,2,2,2,0,0,0,0,2,2,0,0,0,2,0,2,1,0,2,0,1,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91513,PINAHAT,5,HSS (VI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91513,PINAHAT,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,0,1,1,1,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91513,PINAHAT,1,PS (I-V),1,Department of Education,Rural,2,Girls,1,1,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91513,PINAHAT,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,137,137,0,2,80,133,63,136,135,136,0,0,0,0,93,104,0,0,137,81,1,100,88,7,101,0,131,0,65,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91513,PINAHAT,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,22,22,0,3,16,22,15,22,22,22,0,0,0,0,20,21,0,0,1,20,0,18,17,3,20,0,15,0,17,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91513,PINAHAT,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,3,3,0,0,2,3,2,3,3,3,0,0,0,0,3,1,0,0,3,3,0,2,3,0,1,0,3,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91513,PINAHAT,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,6,6,0,1,3,6,6,6,6,6,0,0,0,0,6,6,0,0,0,4,0,2,4,2,5,0,6,0,3,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91513,PINAHAT,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91513,PINAHAT,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91513,PINAHAT,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,1,1,1,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91513,PINAHAT,7,SS (VI-X),4,Government Aided,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91513,PINAHAT,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,2,2,0,1,0,2,1,2,1,1,2,1,2,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91513,PINAHAT,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91513,PINAHAT,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,1,3,4,0,4,4,4,0,0,0,0,3,4,0,0,0,4,0,3,3,0,4,0,3,0,4,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91513,PINAHAT,4,UPS (VI-VIII),1,Department of Education,Rural,2,Girls,1,1,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91513,PINAHAT,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,51,51,0,5,32,49,20,48,49,49,0,0,0,0,40,45,0,0,51,36,0,41,30,2,42,0,48,0,28,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91513,PINAHAT,4,UPS (VI-VIII),4,Government Aided,Rural,3,Co-Ed,3,3,0,0,3,3,0,3,3,3,0,0,0,0,3,3,0,0,1,3,0,3,0,1,3,0,1,0,3,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91513,PINAHAT,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91513,PINAHAT,4,UPS (VI-VIII),1,Department of Education,Urban,3,Co-Ed,4,4,0,0,0,4,0,4,4,4,0,0,0,0,4,4,0,0,4,2,0,3,3,0,0,0,4,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91514,SAIYAN,3,HSS (I-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91514,SAIYAN,3,HSS (I-XII),4,Government Aided,Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,0,3,0,1,0,3,1,3,2,0,3,1,1,0,3,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91514,SAIYAN,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,3,7,7,5,7,7,7,0,0,0,0,5,7,0,3,0,5,1,7,5,0,7,3,4,0,6,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91514,SAIYAN,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,3,3,0,3,0,3,3,3,2,3,3,1,3,0,3,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91514,SAIYAN,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91514,SAIYAN,5,HSS (VI-XII),4,Government Aided,Rural,3,Co-Ed,3,3,0,3,3,3,2,3,3,3,0,0,0,0,3,3,0,2,0,3,0,3,3,1,3,0,3,0,3,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91514,SAIYAN,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,4,0,1,5,5,5,5,5,5,0,0,0,0,4,4,0,4,0,3,3,4,4,3,5,4,3,0,5,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91514,SAIYAN,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,124,124,0,0,79,124,70,124,122,124,0,0,0,0,84,118,0,0,124,49,0,101,42,4,81,0,123,0,76,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91514,SAIYAN,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,26,25,0,4,25,26,13,26,26,26,0,0,0,0,7,26,0,0,0,21,0,18,13,1,25,0,12,0,22,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91514,SAIYAN,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,0,1,0,1,1,1,0,0,0,0,0,1,0,0,1,1,0,1,0,0,1,0,1,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91514,SAIYAN,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,1,2,1,2,2,2,0,0,0,0,1,1,0,1,0,1,0,2,0,0,2,0,0,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91514,SAIYAN,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,1,2,4,3,4,4,4,0,0,0,0,3,3,0,0,0,3,3,4,2,3,4,1,3,0,4,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91514,SAIYAN,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,0,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,0,0,1,1,1,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91514,SAIYAN,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91514,SAIYAN,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91514,SAIYAN,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,0,0,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91514,SAIYAN,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,3,8,8,5,8,8,8,0,0,0,0,4,8,0,1,0,6,0,7,3,3,7,0,3,0,5,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91514,SAIYAN,4,UPS (VI-VIII),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,1,1,0,1,0,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91514,SAIYAN,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,46,46,0,4,23,46,27,46,46,46,0,0,0,0,26,41,0,0,45,17,0,39,13,2,27,0,44,0,34,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91514,SAIYAN,4,UPS (VI-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91514,SAIYAN,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,0,0,1,1,1,0,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91515,SHAMSHABAD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,2,2,0,1,0,1,1,1,2,0,2,1,2,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91515,SHAMSHABAD,3,HSS (I-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,0,1,0,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91515,SHAMSHABAD,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,0,1,1,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91515,SHAMSHABAD,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91515,SHAMSHABAD,10,HSS (IX-XII),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91515,SHAMSHABAD,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,5,6,8,7,8,8,8,0,0,0,0,7,8,0,7,1,8,5,8,7,7,8,6,6,0,8,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91515,SHAMSHABAD,5,HSS (VI-XII),7,Central Govt,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,1,1,1,1,1,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91515,SHAMSHABAD,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91515,SHAMSHABAD,1,PS (I-V),1,Department of Education,Rural,2,Girls,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91515,SHAMSHABAD,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,171,170,0,2,80,170,74,168,164,169,0,0,0,0,53,149,0,0,170,83,0,146,85,1,120,0,160,0,93,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91515,SHAMSHABAD,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91515,SHAMSHABAD,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,19,19,0,6,19,19,16,19,19,19,0,0,0,0,16,18,0,0,0,18,0,10,11,6,19,0,16,0,16,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91515,SHAMSHABAD,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,5,5,0,0,1,3,2,4,5,5,0,0,0,0,0,4,0,0,4,0,0,2,1,0,2,0,5,0,3,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91515,SHAMSHABAD,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,30,30,0,6,30,30,27,30,30,30,0,0,0,0,15,28,0,0,1,20,0,14,16,4,27,0,14,0,27,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91515,SHAMSHABAD,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,1,1,0,1,0,2,0,1,1,0,1,0,1,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91515,SHAMSHABAD,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91515,SHAMSHABAD,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,4,0,3,5,5,5,5,5,5,0,0,0,0,5,4,0,4,0,5,4,5,5,5,5,4,4,0,5,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91515,SHAMSHABAD,8,SS (IX-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91515,SHAMSHABAD,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91515,SHAMSHABAD,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,3,4,4,4,4,4,4,0,0,0,0,4,4,0,3,0,4,4,4,4,4,4,2,4,0,4,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91515,SHAMSHABAD,2,UPS (I-VIII),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91515,SHAMSHABAD,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91515,SHAMSHABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,3,3,0,0,0,3,0,3,2,1,3,0,1,0,3,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91515,SHAMSHABAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,5,5,0,1,5,5,4,5,5,5,0,0,0,0,4,5,0,0,0,5,1,5,1,0,5,0,3,0,4,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91515,SHAMSHABAD,4,UPS (VI-VIII),1,Department of Education,Urban,2,Girls,1,1,0,1,0,1,1,0,1,1,0,0,0,0,1,1,0,0,1,0,0,1,0,0,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91515,SHAMSHABAD,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,69,68,0,4,23,69,26,65,63,66,0,0,0,0,15,65,0,0,68,45,0,49,24,0,46,0,55,0,54,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91515,SHAMSHABAD,4,UPS (VI-VIII),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,1,2,1,2,0,0,0,0,1,2,0,0,1,1,0,1,1,0,2,0,0,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91515,SHAMSHABAD,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,3,5,5,5,5,5,5,0,0,0,0,3,4,0,0,0,4,0,5,3,2,4,0,5,0,5,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91515,SHAMSHABAD,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,5,5,0,2,5,5,5,5,5,5,0,0,0,0,3,5,0,0,0,5,0,3,2,1,5,0,1,0,5,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91516,M.A.FATEHPUR SIKRI,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,1,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91516,M.A.FATEHPUR SIKRI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,0,1,1,0,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91516,M.A.FATEHPUR SIKRI,5,HSS (VI-XII),4,Government Aided,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91516,M.A.FATEHPUR SIKRI,5,HSS (VI-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91516,M.A.FATEHPUR SIKRI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,2,0,0,0,2,2,2,2,2,2,0,2,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91516,M.A.FATEHPUR SIKRI,1,PS (I-V),1,Department of Education,Urban,2,Girls,1,1,0,0,0,1,1,0,1,1,0,0,0,0,0,1,0,0,1,0,0,1,1,0,1,0,1,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91516,M.A.FATEHPUR SIKRI,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,10,10,0,0,4,10,4,8,8,9,0,0,0,0,0,6,0,0,10,4,0,10,8,2,7,0,9,0,5,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91516,M.A.FATEHPUR SIKRI,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91516,M.A.FATEHPUR SIKRI,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,17,17,0,0,17,17,16,17,17,17,0,0,0,0,0,17,0,0,1,14,0,12,12,14,15,0,0,0,13,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91516,M.A.FATEHPUR SIKRI,6,SS (I-X),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91516,M.A.FATEHPUR SIKRI,2,UPS (I-VIII),1,Department of Education,Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91516,M.A.FATEHPUR SIKRI,2,UPS (I-VIII),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91516,M.A.FATEHPUR SIKRI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,5,5,0,1,5,5,5,5,5,5,0,0,0,0,0,5,0,0,0,5,0,3,3,5,5,0,1,0,4,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91516,M.A.FATEHPUR SIKRI,4,UPS (VI-VIII),1,Department of Education,Urban,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,1,0,0,1,1,0,0,1,0,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91516,M.A.FATEHPUR SIKRI,4,UPS (VI-VIII),1,Department of Education,Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91516,M.A.FATEHPUR SIKRI,4,UPS (VI-VIII),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91516,M.A.FATEHPUR SIKRI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,3,HSS (I-XII),4,Government Aided,Urban,1,Boys,1,1,0,0,0,1,1,1,0,1,0,0,0,0,1,1,0,1,0,0,0,1,1,0,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,0,0,0,1,1,1,1,1,0,1,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,3,HSS (I-XII),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,3,HSS (I-XII),4,Government Aided,Urban,2,Girls,13,13,0,11,12,13,11,0,13,13,0,0,0,0,13,11,0,3,0,4,11,12,11,11,13,6,13,0,7,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,1,0,1,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,3,HSS (I-XII),4,Government Aided,Urban,3,Co-Ed,11,10,0,10,9,11,10,11,11,11,0,0,0,0,9,10,0,5,0,6,9,11,10,11,11,4,11,0,5,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,13,13,0,10,13,13,12,13,13,13,0,0,0,0,13,13,0,7,0,6,12,13,13,12,12,4,13,0,6,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,3,HSS (I-XII),7,Central Govt,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,2,Girls,5,5,0,1,5,5,5,0,5,5,0,0,0,0,5,5,0,3,0,5,4,5,4,5,4,3,4,0,4,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,10,HSS (IX-XII),4,Government Aided,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,2,Girls,12,12,0,4,11,12,9,0,12,12,0,0,0,0,12,12,0,5,0,10,11,12,12,11,12,6,11,0,9,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,38,38,0,0,24,38,35,38,38,38,0,0,0,0,32,30,0,25,0,31,22,37,18,25,25,20,24,0,24,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,10,HSS (IX-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,65,65,0,15,62,65,65,65,65,65,0,0,0,0,65,64,0,24,0,29,58,64,59,60,57,20,62,0,28,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,5,HSS (VI-XII),1,Department of Education,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,5,HSS (VI-XII),4,Government Aided,Urban,1,Boys,3,3,0,1,2,3,3,3,0,3,0,0,0,0,3,3,0,1,0,3,2,3,1,2,3,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,1,1,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,5,HSS (VI-XII),4,Government Aided,Rural,2,Girls,1,1,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,5,HSS (VI-XII),4,Government Aided,Urban,2,Girls,6,6,0,4,5,6,6,0,6,6,0,0,0,0,6,5,0,2,0,6,5,6,4,4,5,1,4,0,5,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,5,HSS (VI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,1,1,1,1,1,1,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,5,HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,0,3,3,2,3,3,3,0,0,0,0,3,3,0,1,0,3,1,3,2,3,3,3,3,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,5,HSS (VI-XII),4,Government Aided,Urban,3,Co-Ed,9,9,0,8,9,9,7,9,9,9,0,0,0,0,9,9,0,7,0,5,7,9,7,8,7,1,8,0,3,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,5,HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,7,7,0,3,7,7,7,7,7,7,0,0,0,0,5,6,0,3,0,6,5,6,7,7,7,2,7,0,6,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,1,PS (I-V),5,Private Unaided (Recognized),Urban,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,1,PS (I-V),4,Government Aided,Urban,2,Girls,1,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,3,3,0,0,2,3,0,3,3,3,0,0,0,0,0,1,0,0,3,0,0,2,2,0,2,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,132,132,0,0,85,132,16,131,131,131,0,0,0,0,1,40,0,1,124,25,0,88,21,1,70,0,58,0,87,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,12,12,0,0,7,12,9,12,12,12,0,0,0,0,0,4,0,0,0,3,0,5,6,1,11,0,3,0,10,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,587,585,0,3,577,587,582,587,587,587,0,0,0,0,0,560,0,0,0,556,0,548,563,538,583,0,556,0,581,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,1,PS (I-V),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,Co-Ed,2,2,0,0,1,2,2,2,2,2,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,1,PS (I-V),98,Madarsa unrecognized,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,1,1,1,1,0,1,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,6,SS (I-X),4,Government Aided,Urban,3,Co-Ed,4,4,0,1,4,4,4,4,4,4,0,0,0,0,1,4,0,0,0,3,2,4,4,4,4,0,4,0,3,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,9,9,0,5,8,9,9,9,9,9,0,0,0,0,7,8,0,3,0,6,6,9,8,8,9,4,9,0,8,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,6,SS (I-X),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,2,2,0,0,0,2,1,1,0,1,2,0,0,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,6,SS (I-X),98,Madarsa unrecognized,Urban,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,2,2,0,0,0,2,2,2,0,1,2,1,0,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,8,SS (IX-X),5,Private Unaided (Recognized),Urban,1,Boys,2,2,0,0,2,2,1,2,0,2,0,0,0,0,2,2,0,1,0,2,2,2,2,2,2,1,2,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,Girls,2,2,0,0,2,2,2,0,2,2,0,0,0,0,2,2,0,2,0,2,2,2,2,2,2,1,2,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,8,SS (IX-X),5,Private Unaided (Recognized),Urban,2,Girls,4,4,0,3,4,4,4,0,4,4,0,0,0,0,4,4,0,0,0,3,4,4,4,4,3,2,4,0,3,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,1,2,3,3,3,3,3,0,0,0,0,3,2,0,2,0,2,3,3,3,3,3,1,3,0,3,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,45,45,0,25,42,45,41,45,45,45,0,0,0,0,45,43,0,24,0,31,39,41,41,43,43,22,45,0,34,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,7,SS (VI-X),4,Government Aided,Urban,2,Girls,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,1,1,1,1,0,1,0,0,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,6,6,0,2,4,6,6,6,6,6,0,0,0,0,5,6,0,1,0,3,2,6,2,3,4,0,4,0,2,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,3,2,3,3,3,3,3,0,0,0,0,2,3,0,2,0,2,3,3,3,3,2,2,3,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,2,UPS (I-VIII),4,Government Aided,Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,2,UPS (I-VIII),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,1,0,1,1,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,2,UPS (I-VIII),4,Government Aided,Urban,3,Co-Ed,10,10,0,1,8,10,8,10,10,10,0,0,0,0,0,7,0,0,0,5,0,6,5,2,9,0,4,0,10,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,158,158,0,5,149,158,155,158,158,158,0,0,0,0,0,137,0,0,1,133,0,130,134,115,155,0,125,0,157,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,Urban,3,Co-Ed,6,6,0,0,5,6,5,6,6,6,0,0,0,0,6,5,0,0,0,6,0,6,0,2,3,0,1,0,6,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,2,UPS (I-VIII),98,Madarsa unrecognized,Urban,3,Co-Ed,6,6,0,1,5,6,6,6,6,6,0,0,0,0,5,6,0,0,0,5,0,4,2,4,6,0,1,0,5,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,4,UPS (VI-VIII),1,Department of Education,Urban,3,Co-Ed,33,32,0,3,25,33,4,33,33,33,0,0,0,0,10,21,0,0,32,19,0,11,13,3,28,0,18,0,19,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,4,UPS (VI-VIII),4,Government Aided,Urban,3,Co-Ed,4,4,0,0,4,4,4,4,4,4,0,0,0,0,0,3,0,0,0,4,0,1,2,1,4,0,1,0,4,0,0
+2014-15,9,Uttar Pradesh,915,AGRA,91517,M.C.AGRA CITY,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,140,140,0,2,139,140,139,140,140,140,0,0,0,0,0,139,0,0,0,139,0,139,140,137,140,0,139,0,140,0,0

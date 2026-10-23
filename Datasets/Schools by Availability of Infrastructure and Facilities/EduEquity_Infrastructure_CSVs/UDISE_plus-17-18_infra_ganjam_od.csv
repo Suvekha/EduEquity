@@ -1,0 +1,598 @@
+Academic_Year,State_Code,State_Name,District_Code,District_Name,Block_Code,Udise_Block_Name,School_Category_Id,School_Category_Name,School_Management_Id,School_Management_Name,Location,School_Type_Id,School_Type,Total_Number_of_Schools,Building,Complete_Medical_Checkup,Computer_Available,Functional_Drinking_Water,Drinking_Water,Functional_Electricity,Functional_Boy_Toilet,Functional_Girl_Toilet,Functional_Toilet_Facility,Functional_Toilet_and_Urinal,Functional_Urinal,Functional_Urinal_Boy,Functional_Urinal_Girl,Handwash,Separate_Room_for_Headmaster,Incinerator,Internet,Kitchen_Garden,Land_Available,Librarian,Library_or_Reading_Corner_or_Book_Bank,Medical_Checkup,Newspaper,Playground,Rain_Water_Harvesting,Ramps,Solar_Panel,Furniture,Water_Purifier,Water_Tested
+2017-18,21,Odisha,2119,GANJAM,211917,POLASARA,8,SS (IX-X),4,Government Aided,Rural,3,Co-Ed,5,5,0,0,3,3,3,5,5,5,0,0,0,0,1,5,0,0,0,5,0,5,5,5,5,0,2,0,5,1,0
+2017-18,21,Odisha,2119,GANJAM,211901,ASKA,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211901,ASKA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,1,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211901,ASKA,1,PS (I-V),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,1,1,1,0,1,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211901,ASKA,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,68,68,0,3,65,68,20,62,68,68,0,0,0,0,22,33,0,0,0,45,1,67,38,5,22,0,36,0,5,0,0
+2017-18,21,Odisha,2119,GANJAM,211901,ASKA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211901,ASKA,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211901,ASKA,6,SS (I-X),1,Department of Education,Rural,3,Co-Ed,3,3,0,0,3,3,3,3,3,3,0,0,0,0,2,2,0,0,0,3,0,3,3,1,2,0,2,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211901,ASKA,6,SS (I-X),92,Kendriya Vidyalaya / Central School,Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211901,ASKA,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,10,10,0,5,9,10,8,10,10,10,0,0,0,0,4,6,0,1,0,9,0,10,9,6,9,1,4,0,10,1,0
+2017-18,21,Odisha,2119,GANJAM,211901,ASKA,8,SS (IX-X),4,Government Aided,Rural,3,Co-Ed,14,14,0,2,12,12,10,11,13,13,0,0,0,0,6,9,0,0,0,14,1,14,7,1,14,0,2,0,13,2,0
+2017-18,21,Odisha,2119,GANJAM,211901,ASKA,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,3,3,0,0,2,2,3,3,3,3,0,0,0,0,0,2,0,0,0,3,0,2,1,0,3,0,1,0,3,0,0
+2017-18,21,Odisha,2119,GANJAM,211901,ASKA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211901,ASKA,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,58,58,0,8,57,58,33,56,58,58,0,0,0,0,22,28,0,0,0,38,0,58,44,15,25,0,44,0,29,0,0
+2017-18,21,Odisha,2119,GANJAM,211901,ASKA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211901,ASKA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,10,10,0,6,8,8,7,10,10,10,0,0,0,0,4,5,0,0,0,6,1,8,6,6,7,0,3,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211901,ASKA,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,3,3,0,1,3,3,3,3,3,3,0,0,0,0,2,1,0,0,0,3,0,3,1,0,1,0,2,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211901,ASKA,4,UPS (VI-VIII),4,Government Aided,Rural,3,Co-Ed,4,3,0,0,2,2,1,3,3,3,0,0,0,0,0,2,0,0,0,4,0,4,1,0,2,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211902,BEGUNIAPADA,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211902,BEGUNIAPADA,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,83,81,0,0,76,83,23,83,83,83,0,0,0,0,24,39,0,0,0,55,1,77,50,19,41,0,66,0,5,0,0
+2017-18,21,Odisha,2119,GANJAM,211902,BEGUNIAPADA,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,2,2,0,0,2,2,1,2,2,2,0,0,0,0,2,1,0,0,0,2,0,2,1,1,1,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211902,BEGUNIAPADA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,0,0,0,3,2,2,2,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211902,BEGUNIAPADA,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,2,2,0,0,1,1,2,2,2,2,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211902,BEGUNIAPADA,6,SS (I-X),1,Department of Education,Rural,3,Co-Ed,7,7,0,3,7,7,2,7,7,7,0,0,0,0,4,4,0,1,0,6,0,7,7,4,5,0,6,0,5,0,0
+2017-18,21,Odisha,2119,GANJAM,211902,BEGUNIAPADA,8,SS (IX-X),4,Government Aided,Rural,2,Girls,1,1,0,0,0,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211902,BEGUNIAPADA,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,1,2,0,2,0,3,0,3,2,2,3,0,3,0,3,1,0
+2017-18,21,Odisha,2119,GANJAM,211902,BEGUNIAPADA,8,SS (IX-X),4,Government Aided,Rural,3,Co-Ed,10,10,0,0,6,7,6,10,10,10,0,0,0,0,3,5,0,0,0,8,0,10,6,4,9,0,3,0,9,0,0
+2017-18,21,Odisha,2119,GANJAM,211902,BEGUNIAPADA,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,1,0,2,0,2,2,2,2,1,2,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211902,BEGUNIAPADA,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,3,3,0,0,1,2,1,3,3,3,0,0,0,0,0,2,0,1,0,3,0,2,1,1,3,1,0,0,3,0,0
+2017-18,21,Odisha,2119,GANJAM,211902,BEGUNIAPADA,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,34,34,0,5,34,34,22,34,34,34,0,0,0,0,14,20,0,0,0,28,2,34,23,21,21,0,31,0,12,0,0
+2017-18,21,Odisha,2119,GANJAM,211902,BEGUNIAPADA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,1,6,7,6,8,8,8,0,0,0,0,2,4,0,0,0,6,0,6,1,4,6,0,1,0,4,0,0
+2017-18,21,Odisha,2119,GANJAM,211902,BEGUNIAPADA,4,UPS (VI-VIII),4,Government Aided,Rural,2,Girls,2,2,0,0,1,1,1,0,2,2,0,0,0,0,0,1,0,0,0,2,0,2,0,0,2,0,2,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211902,BEGUNIAPADA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,Girls,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211902,BEGUNIAPADA,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,0,2,0,0,0,2,0,2,1,0,1,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211902,BEGUNIAPADA,4,UPS (VI-VIII),4,Government Aided,Rural,3,Co-Ed,3,3,0,0,1,2,1,3,3,3,0,0,0,0,0,1,0,0,0,3,0,3,1,0,2,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211903,BELLAGUNTHA,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211903,BELLAGUNTHA,11,HSS (XI-XII),4,Government Aided,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,1,1,0,1,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211903,BELLAGUNTHA,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,0,1,1,0,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211903,BELLAGUNTHA,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,68,68,0,1,66,68,25,59,67,68,0,0,0,0,66,40,0,1,0,38,0,68,64,19,30,0,58,0,4,0,0
+2017-18,21,Odisha,2119,GANJAM,211903,BELLAGUNTHA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211903,BELLAGUNTHA,6,SS (I-X),1,Department of Education,Rural,3,Co-Ed,8,8,0,2,7,8,8,7,8,8,0,0,0,0,7,4,0,0,0,7,1,8,8,5,5,0,8,0,7,1,0
+2017-18,21,Odisha,2119,GANJAM,211903,BELLAGUNTHA,8,SS (IX-X),1,Department of Education,Rural,2,Girls,2,2,0,1,2,2,2,0,2,2,0,0,0,0,2,2,0,2,0,2,0,2,2,0,2,0,1,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211903,BELLAGUNTHA,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,5,5,0,4,5,5,5,5,5,5,0,0,0,0,5,5,0,1,0,4,0,5,4,3,5,0,3,0,5,1,0
+2017-18,21,Odisha,2119,GANJAM,211903,BELLAGUNTHA,8,SS (IX-X),4,Government Aided,Rural,3,Co-Ed,5,5,0,2,4,5,5,5,5,5,0,0,0,0,5,4,0,0,0,5,0,5,5,3,5,0,0,0,5,0,0
+2017-18,21,Odisha,2119,GANJAM,211903,BELLAGUNTHA,7,SS (VI-X),1,Department of Education,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211903,BELLAGUNTHA,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211903,BELLAGUNTHA,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211903,BELLAGUNTHA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,0,0,1,1,1,1,0,0,0,0,0,1,0,1,0,0,0,1,1,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211903,BELLAGUNTHA,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,36,36,0,3,35,36,27,36,35,36,0,0,0,0,33,33,0,0,0,30,2,36,36,19,24,0,35,0,17,0,0
+2017-18,21,Odisha,2119,GANJAM,211903,BELLAGUNTHA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,13,13,0,4,6,10,12,13,13,13,0,0,0,0,7,11,0,0,0,12,0,13,6,8,10,0,5,0,7,0,0
+2017-18,21,Odisha,2119,GANJAM,211903,BELLAGUNTHA,4,UPS (VI-VIII),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211903,BELLAGUNTHA,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,4,4,0,0,4,4,4,4,4,4,0,0,0,0,3,3,0,0,0,4,0,4,4,2,3,0,4,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211903,BELLAGUNTHA,4,UPS (VI-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211904,BHANJANAGAR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,0,0,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211904,BHANJANAGAR,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,125,124,0,0,120,125,43,125,125,125,0,0,0,0,86,26,0,0,0,72,0,125,125,58,52,0,104,0,3,0,0
+2017-18,21,Odisha,2119,GANJAM,211904,BHANJANAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,1,2,2,2,0,0,0,0,2,2,0,0,0,2,0,2,2,2,0,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211904,BHANJANAGAR,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,2,0,1,0,1,0,2,1,2,2,0,1,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211904,BHANJANAGAR,6,SS (I-X),1,Department of Education,Rural,3,Co-Ed,8,8,0,3,8,8,7,8,8,8,0,0,0,0,6,5,0,0,0,8,0,8,8,7,7,0,6,0,7,3,0
+2017-18,21,Odisha,2119,GANJAM,211904,BHANJANAGAR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,3,3,0,3,0,3,1,3,0,3,3,0,1,0,3,3,0
+2017-18,21,Odisha,2119,GANJAM,211904,BHANJANAGAR,8,SS (IX-X),4,Government Aided,Rural,2,Girls,1,1,0,1,0,0,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211904,BHANJANAGAR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,2,Girls,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211904,BHANJANAGAR,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,3,2,0,2,0,3,0,3,3,2,3,0,3,0,3,2,0
+2017-18,21,Odisha,2119,GANJAM,211904,BHANJANAGAR,8,SS (IX-X),4,Government Aided,Rural,3,Co-Ed,6,6,0,2,4,6,4,5,5,5,0,0,0,0,4,3,0,0,0,6,0,6,6,2,5,0,0,0,5,0,0
+2017-18,21,Odisha,2119,GANJAM,211904,BHANJANAGAR,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,5,5,0,4,5,5,5,5,5,5,0,0,0,0,5,4,0,2,0,5,0,5,5,5,5,1,3,0,5,2,0
+2017-18,21,Odisha,2119,GANJAM,211904,BHANJANAGAR,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,41,41,0,2,39,41,30,41,41,41,0,0,0,0,33,14,0,0,0,34,0,41,41,29,25,0,40,0,20,0,0
+2017-18,21,Odisha,2119,GANJAM,211904,BHANJANAGAR,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211904,BHANJANAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,3,5,6,5,6,6,6,0,0,0,0,6,6,0,0,0,6,0,6,5,6,6,1,4,0,3,0,0
+2017-18,21,Odisha,2119,GANJAM,211904,BHANJANAGAR,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,2,2,0,2,1,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,1,2,1,2,2,0,2,0,2,2,0
+2017-18,21,Odisha,2119,GANJAM,211904,BHANJANAGAR,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211904,BHANJANAGAR,4,UPS (VI-VIII),4,Government Aided,Rural,3,Co-Ed,4,4,0,0,3,3,1,0,2,2,0,0,0,0,1,1,0,0,0,4,0,4,4,1,4,0,3,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211904,BHANJANAGAR,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,1,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211905,BUGUDA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,Girls,1,1,0,1,0,0,1,0,1,1,0,0,0,0,1,1,0,1,0,0,1,1,1,1,1,0,1,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211905,BUGUDA,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,3,2,0,3,0,3,3,3,1,2,3,0,2,0,3,1,0
+2017-18,21,Odisha,2119,GANJAM,211905,BUGUDA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,1,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211905,BUGUDA,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,73,70,0,0,70,73,19,70,73,73,0,0,0,0,44,19,0,0,0,42,2,72,67,14,28,0,58,0,4,0,0
+2017-18,21,Odisha,2119,GANJAM,211905,BUGUDA,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211905,BUGUDA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,2,3,4,6,8,8,8,0,0,0,0,7,5,0,0,0,7,3,8,5,8,7,0,8,0,3,0,0
+2017-18,21,Odisha,2119,GANJAM,211905,BUGUDA,6,SS (I-X),1,Department of Education,Rural,3,Co-Ed,6,6,0,2,5,6,5,6,6,6,0,0,0,0,2,0,0,0,0,5,0,6,6,6,4,0,5,0,6,0,0
+2017-18,21,Odisha,2119,GANJAM,211905,BUGUDA,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,7,7,0,6,6,7,6,7,7,7,0,0,0,0,3,3,0,2,0,7,0,7,7,4,6,0,6,0,7,1,0
+2017-18,21,Odisha,2119,GANJAM,211905,BUGUDA,8,SS (IX-X),4,Government Aided,Rural,3,Co-Ed,6,6,0,0,4,5,2,6,6,6,0,0,0,0,1,3,0,0,0,6,1,6,6,4,6,0,0,0,6,0,0
+2017-18,21,Odisha,2119,GANJAM,211905,BUGUDA,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,1,0,2,0,2,1,1,2,0,1,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211905,BUGUDA,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,3,3,0,0,3,3,3,3,3,3,0,0,0,0,1,1,0,0,0,2,0,3,1,1,1,0,0,0,3,1,0
+2017-18,21,Odisha,2119,GANJAM,211905,BUGUDA,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,40,40,0,4,39,40,27,39,40,40,0,0,0,0,23,11,0,0,0,29,2,40,37,23,20,0,34,0,17,0,0
+2017-18,21,Odisha,2119,GANJAM,211905,BUGUDA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211905,BUGUDA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,3,3,5,4,5,5,5,0,0,0,0,3,3,0,0,0,4,1,5,2,4,5,0,4,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211905,BUGUDA,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,2,2,0,0,2,2,1,2,2,2,0,0,0,0,1,0,0,0,0,2,0,2,2,2,0,0,2,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211905,BUGUDA,4,UPS (VI-VIII),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,0,2,2,2,0,0,0,0,2,2,0,0,0,2,0,2,2,0,2,0,2,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211906,CHATRAPUR,3,HSS (I-XII),90,Social welfare Department,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,1,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211906,CHATRAPUR,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,3,3,0,1,0,2,3,3,3,3,0,0,0,0,2,3,0,1,0,2,3,3,0,3,3,1,0,0,2,1,0
+2017-18,21,Odisha,2119,GANJAM,211906,CHATRAPUR,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,0,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,2,2,2,2,2,0,0,0,2,1,0
+2017-18,21,Odisha,2119,GANJAM,211906,CHATRAPUR,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,77,77,0,0,71,77,25,76,75,77,0,0,0,0,30,36,0,0,0,41,3,77,35,13,17,0,45,0,10,0,0
+2017-18,21,Odisha,2119,GANJAM,211906,CHATRAPUR,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211906,CHATRAPUR,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211906,CHATRAPUR,6,SS (I-X),1,Department of Education,Rural,3,Co-Ed,4,4,0,1,4,4,3,4,4,4,0,0,0,0,2,2,0,1,0,4,0,4,2,3,3,0,2,0,3,0,0
+2017-18,21,Odisha,2119,GANJAM,211906,CHATRAPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,0,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211906,CHATRAPUR,8,SS (IX-X),4,Government Aided,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211906,CHATRAPUR,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,3,4,0,2,0,4,0,4,3,1,2,0,1,0,4,1,0
+2017-18,21,Odisha,2119,GANJAM,211906,CHATRAPUR,8,SS (IX-X),4,Government Aided,Rural,3,Co-Ed,2,2,0,1,1,1,2,2,2,2,0,0,0,0,1,1,0,0,0,2,0,2,1,1,2,0,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211906,CHATRAPUR,7,SS (VI-X),4,Government Aided,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211906,CHATRAPUR,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,4,4,0,3,4,4,4,4,4,4,0,0,0,0,1,3,0,2,0,3,0,4,1,2,2,0,3,0,3,1,0
+2017-18,21,Odisha,2119,GANJAM,211906,CHATRAPUR,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,4,4,0,1,3,3,3,4,4,4,0,0,0,0,0,0,0,0,0,4,0,4,1,2,3,0,0,0,3,0,0
+2017-18,21,Odisha,2119,GANJAM,211906,CHATRAPUR,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,35,35,0,4,33,35,22,34,35,35,0,0,0,0,11,11,0,0,0,29,1,35,20,11,17,0,30,0,12,0,0
+2017-18,21,Odisha,2119,GANJAM,211906,CHATRAPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,10,10,0,5,7,7,9,10,10,10,0,0,0,0,4,9,0,2,0,9,0,9,5,8,8,0,4,0,8,1,0
+2017-18,21,Odisha,2119,GANJAM,211906,CHATRAPUR,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,3,3,0,0,2,3,2,3,3,3,0,0,0,0,1,2,0,0,0,3,0,3,1,0,1,0,3,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211906,CHATRAPUR,4,UPS (VI-VIII),4,Government Aided,Rural,3,Co-Ed,5,5,0,1,3,3,3,4,3,4,0,0,0,0,0,3,0,0,0,4,0,5,2,0,3,0,1,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211907,CHIKITI,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211907,CHIKITI,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,2,2,1,2,2,0,1,0,2,1,0
+2017-18,21,Odisha,2119,GANJAM,211907,CHIKITI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,0,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211907,CHIKITI,1,PS (I-V),1,Department of Education,Rural,1,Boys,1,1,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211907,CHIKITI,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,83,83,0,0,66,83,35,83,83,83,0,0,0,0,32,47,0,0,0,32,4,83,82,20,43,0,63,0,17,0,0
+2017-18,21,Odisha,2119,GANJAM,211907,CHIKITI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,1,2,4,7,8,8,8,0,0,0,0,6,8,0,0,0,6,0,8,5,8,8,0,8,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211907,CHIKITI,6,SS (I-X),1,Department of Education,Rural,3,Co-Ed,11,11,0,4,9,11,9,11,11,11,0,0,0,0,4,7,0,0,0,6,0,11,11,4,9,0,10,0,10,4,0
+2017-18,21,Odisha,2119,GANJAM,211907,CHIKITI,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,1,1,0,0,0,3,0,3,3,3,3,0,3,0,3,3,0
+2017-18,21,Odisha,2119,GANJAM,211907,CHIKITI,8,SS (IX-X),4,Government Aided,Rural,3,Co-Ed,3,3,0,0,1,1,2,3,3,3,0,0,0,0,0,1,0,0,0,3,0,3,1,0,3,1,0,0,3,0,0
+2017-18,21,Odisha,2119,GANJAM,211907,CHIKITI,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,2,2,0,2,1,2,2,2,2,2,0,0,0,0,2,1,0,1,0,1,0,2,2,1,2,0,1,0,2,1,0
+2017-18,21,Odisha,2119,GANJAM,211907,CHIKITI,2,UPS (I-VIII),1,Department of Education,Rural,2,Girls,1,1,0,0,0,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211907,CHIKITI,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,26,26,0,1,23,26,23,26,26,26,0,0,0,0,15,15,0,0,0,19,0,26,26,17,13,0,25,0,6,0,0
+2017-18,21,Odisha,2119,GANJAM,211907,CHIKITI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,2,3,4,4,4,4,4,0,0,0,0,4,2,0,0,0,4,1,4,2,3,4,0,4,0,4,0,0
+2017-18,21,Odisha,2119,GANJAM,211908,DHARAKOTE,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211908,DHARAKOTE,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,2,1,0,1,2,2,2,2,2,2,0,0,0,0,2,1,0,1,0,2,1,2,1,2,2,0,0,0,2,1,0
+2017-18,21,Odisha,2119,GANJAM,211908,DHARAKOTE,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,94,87,0,1,85,94,22,91,94,94,0,0,0,0,24,31,0,0,0,57,2,92,73,34,54,0,73,0,5,0,0
+2017-18,21,Odisha,2119,GANJAM,211908,DHARAKOTE,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211908,DHARAKOTE,6,SS (I-X),1,Department of Education,Rural,3,Co-Ed,9,9,0,2,9,9,7,9,9,9,0,0,0,0,6,3,0,1,0,5,2,9,5,5,4,3,7,0,7,1,0
+2017-18,21,Odisha,2119,GANJAM,211908,DHARAKOTE,8,SS (IX-X),4,Government Aided,Rural,2,Girls,1,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211908,DHARAKOTE,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211908,DHARAKOTE,8,SS (IX-X),4,Government Aided,Rural,3,Co-Ed,3,3,0,0,1,2,3,3,3,3,0,0,0,0,1,2,0,0,0,3,0,2,3,2,3,0,1,0,3,0,0
+2017-18,21,Odisha,2119,GANJAM,211908,DHARAKOTE,7,SS (VI-X),1,Department of Education,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211908,DHARAKOTE,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,0,0,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211908,DHARAKOTE,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211908,DHARAKOTE,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,3,3,0,0,2,3,1,3,3,3,0,0,0,0,0,2,0,0,0,2,0,3,1,3,3,0,0,0,3,0,0
+2017-18,21,Odisha,2119,GANJAM,211908,DHARAKOTE,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211908,DHARAKOTE,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,35,35,0,2,34,35,20,34,35,35,0,0,0,0,17,16,0,0,0,27,0,34,23,16,25,0,27,0,5,0,0
+2017-18,21,Odisha,2119,GANJAM,211908,DHARAKOTE,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,2,2,0,0,2,2,2,1,2,2,0,0,0,0,2,1,0,0,0,2,0,2,2,2,1,0,2,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211908,DHARAKOTE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,5,0,2,6,6,5,6,6,6,0,0,0,0,3,4,0,0,0,6,0,6,2,5,5,0,2,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211908,DHARAKOTE,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,2,2,0,0,2,2,1,2,2,2,0,0,0,0,0,1,0,0,0,2,0,2,2,2,2,0,2,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211908,DHARAKOTE,4,UPS (VI-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211908,DHARAKOTE,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211909,DIGAPAHANDI,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,1,1,0,1,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211909,DIGAPAHANDI,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,0,2,0,1,0,2,2,2,0,2,2,0,1,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211909,DIGAPAHANDI,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,113,109,0,3,101,113,14,108,110,111,0,0,0,0,37,41,0,0,0,95,7,96,66,18,41,2,86,0,6,8,0
+2017-18,21,Odisha,2119,GANJAM,211909,DIGAPAHANDI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,4,4,5,5,5,5,5,0,0,0,0,5,5,0,1,0,5,1,5,5,5,4,1,2,0,3,1,0
+2017-18,21,Odisha,2119,GANJAM,211909,DIGAPAHANDI,6,SS (I-X),1,Department of Education,Rural,3,Co-Ed,10,10,0,9,8,10,10,10,10,10,0,0,0,0,2,8,0,2,0,9,1,10,9,7,8,1,6,0,10,1,0
+2017-18,21,Odisha,2119,GANJAM,211909,DIGAPAHANDI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,1,1,1,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211909,DIGAPAHANDI,8,SS (IX-X),1,Department of Education,Rural,2,Girls,2,2,0,2,2,2,2,0,2,2,0,0,0,0,0,2,0,0,0,2,1,2,2,1,0,0,1,0,2,1,0
+2017-18,21,Odisha,2119,GANJAM,211909,DIGAPAHANDI,8,SS (IX-X),4,Government Aided,Rural,2,Girls,1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211909,DIGAPAHANDI,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,2,2,0,1,2,2,1,2,2,2,0,0,0,0,0,2,0,1,0,1,0,2,0,0,1,0,0,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211909,DIGAPAHANDI,8,SS (IX-X),4,Government Aided,Rural,3,Co-Ed,8,8,0,1,7,8,6,8,8,8,0,0,0,0,0,4,0,0,0,8,0,8,5,2,7,1,1,0,8,1,0
+2017-18,21,Odisha,2119,GANJAM,211909,DIGAPAHANDI,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,5,5,0,4,5,5,5,5,5,5,0,0,0,0,2,2,0,0,0,5,1,5,3,2,3,2,2,0,5,1,0
+2017-18,21,Odisha,2119,GANJAM,211909,DIGAPAHANDI,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,3,3,0,0,2,2,2,3,3,3,0,0,0,0,0,2,0,0,0,3,0,3,2,0,3,0,1,0,3,0,0
+2017-18,21,Odisha,2119,GANJAM,211909,DIGAPAHANDI,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,69,69,0,2,64,69,27,65,69,69,0,0,0,0,38,29,0,0,0,55,5,69,54,9,26,3,60,0,11,5,0
+2017-18,21,Odisha,2119,GANJAM,211909,DIGAPAHANDI,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211909,DIGAPAHANDI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,4,0,4,2,3,4,5,5,5,0,0,0,0,2,2,0,0,0,2,0,4,3,2,3,0,2,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211909,DIGAPAHANDI,4,UPS (VI-VIII),4,Government Aided,Rural,2,Girls,2,2,0,0,1,1,0,0,2,2,0,0,0,0,0,2,0,0,0,2,1,1,2,0,2,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211909,DIGAPAHANDI,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211909,DIGAPAHANDI,4,UPS (VI-VIII),4,Government Aided,Rural,3,Co-Ed,5,5,0,0,3,3,2,5,5,5,0,0,0,0,0,2,0,0,0,5,0,5,5,0,5,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211910,GANJAM,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,3,3,0,1,1,1,3,3,3,3,0,0,0,0,1,3,0,2,0,1,0,3,1,1,0,0,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211910,GANJAM,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,75,74,0,0,65,75,7,75,75,75,0,0,0,0,13,39,0,0,0,49,1,71,58,53,41,0,47,0,13,0,0
+2017-18,21,Odisha,2119,GANJAM,211910,GANJAM,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211910,GANJAM,6,SS (I-X),1,Department of Education,Rural,3,Co-Ed,2,2,0,0,2,2,1,2,2,2,0,0,0,0,1,2,0,0,0,1,0,2,0,2,1,0,0,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211910,GANJAM,6,SS (I-X),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,0,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211910,GANJAM,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,1,0,0,0,2,0,2,2,2,2,0,2,0,2,1,0
+2017-18,21,Odisha,2119,GANJAM,211910,GANJAM,8,SS (IX-X),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,1,2,2,2,0,0,0,0,1,1,0,0,0,2,0,2,2,2,1,0,0,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211910,GANJAM,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,1,1,0,2,0,2,0,2,1,2,2,1,1,0,2,1,0
+2017-18,21,Odisha,2119,GANJAM,211910,GANJAM,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,7,7,0,0,7,7,4,7,7,7,0,0,0,0,0,5,0,0,0,7,0,5,3,5,6,0,0,0,7,0,0
+2017-18,21,Odisha,2119,GANJAM,211910,GANJAM,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,27,27,0,1,22,27,11,27,27,27,0,0,0,0,4,21,0,0,0,20,0,27,23,18,17,0,20,0,6,0,0
+2017-18,21,Odisha,2119,GANJAM,211910,GANJAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,4,5,6,6,7,7,7,0,0,0,0,4,5,0,0,0,6,0,7,5,6,6,0,3,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211910,GANJAM,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,1,2,0,0,0,2,1,2,1,2,2,0,1,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211910,GANJAM,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,3,3,0,0,3,3,2,3,3,3,0,0,0,0,0,2,0,0,0,3,0,3,2,3,3,0,3,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211910,GANJAM,4,UPS (VI-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211910,GANJAM,4,UPS (VI-VIII),4,Government Aided,Rural,3,Co-Ed,13,12,0,0,6,7,1,13,13,13,0,0,0,0,1,6,0,0,0,11,0,12,6,10,12,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211910,GANJAM,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211911,HINJILICUT,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,0,1,1,1,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211911,HINJILICUT,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,1,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,1,2,1,2,1,2,0,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211911,HINJILICUT,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211911,HINJILICUT,1,PS (I-V),1,Department of Education,Rural,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211911,HINJILICUT,1,PS (I-V),1,Department of Education,Rural,2,Girls,2,2,0,0,2,2,1,0,2,2,0,0,0,0,2,1,0,0,0,0,0,2,2,0,0,0,2,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211911,HINJILICUT,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,48,46,0,0,44,48,36,47,47,47,0,0,0,0,36,26,0,0,0,27,1,48,47,11,29,1,41,0,18,0,0
+2017-18,21,Odisha,2119,GANJAM,211911,HINJILICUT,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,1,3,4,5,5,5,5,0,0,0,0,5,4,0,0,0,3,2,5,4,3,5,0,4,0,3,0,0
+2017-18,21,Odisha,2119,GANJAM,211911,HINJILICUT,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,4,4,0,1,3,3,4,4,4,4,0,0,0,0,4,4,0,1,0,3,0,4,3,1,1,0,3,0,3,1,0
+2017-18,21,Odisha,2119,GANJAM,211911,HINJILICUT,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211911,HINJILICUT,6,SS (I-X),1,Department of Education,Rural,3,Co-Ed,7,7,0,5,7,7,5,7,7,7,0,0,0,0,5,3,0,1,0,4,1,7,7,2,5,1,6,0,7,1,0
+2017-18,21,Odisha,2119,GANJAM,211911,HINJILICUT,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,1,0,1,0,2,0,2,2,1,2,1,1,0,2,1,0
+2017-18,21,Odisha,2119,GANJAM,211911,HINJILICUT,8,SS (IX-X),4,Government Aided,Rural,3,Co-Ed,6,6,0,2,5,6,5,6,6,6,0,0,0,0,3,3,0,0,0,6,1,6,6,3,6,0,1,0,6,0,0
+2017-18,21,Odisha,2119,GANJAM,211911,HINJILICUT,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,3,3,0,3,2,3,3,3,3,3,0,0,0,0,2,1,0,1,0,3,0,3,3,3,3,1,2,0,3,1,0
+2017-18,21,Odisha,2119,GANJAM,211911,HINJILICUT,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,5,5,0,0,4,5,3,5,5,5,0,0,0,0,2,2,0,0,0,4,0,5,4,0,5,0,1,0,4,1,0
+2017-18,21,Odisha,2119,GANJAM,211911,HINJILICUT,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,21,21,0,5,21,21,20,21,21,21,0,0,0,0,15,11,0,1,0,17,0,21,20,9,17,6,18,0,15,1,0
+2017-18,21,Odisha,2119,GANJAM,211911,HINJILICUT,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,2,4,5,5,6,6,6,0,0,0,0,4,4,0,0,0,4,0,5,5,1,5,2,2,0,4,1,0
+2017-18,21,Odisha,2119,GANJAM,211911,HINJILICUT,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,3,3,0,0,2,3,3,3,3,3,0,0,0,0,3,3,0,0,0,2,1,3,3,3,2,0,3,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211911,HINJILICUT,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211911,HINJILICUT,4,UPS (VI-VIII),4,Government Aided,Rural,3,Co-Ed,3,3,0,0,1,2,0,3,3,3,0,0,0,0,0,1,0,0,0,3,0,3,1,0,3,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211912,JAGANATHPRASAD,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,1,0,0,1,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211912,JAGANATHPRASAD,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,0,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211912,JAGANATHPRASAD,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,127,118,0,3,117,127,11,126,127,127,0,0,0,0,72,22,0,0,0,100,5,123,108,26,48,0,110,0,4,0,0
+2017-18,21,Odisha,2119,GANJAM,211912,JAGANATHPRASAD,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,3,3,0,0,3,3,3,3,3,3,0,0,0,0,1,0,0,0,0,3,0,3,3,0,2,0,3,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211912,JAGANATHPRASAD,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,0,0,2,0,2,1,1,2,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211912,JAGANATHPRASAD,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,2,2,0,0,1,1,1,2,2,2,0,0,0,0,2,2,0,0,0,0,0,2,1,0,1,0,0,0,2,1,0
+2017-18,21,Odisha,2119,GANJAM,211912,JAGANATHPRASAD,6,SS (I-X),1,Department of Education,Rural,3,Co-Ed,8,8,0,3,8,8,7,8,8,8,0,0,0,0,6,4,0,0,0,7,1,8,7,4,4,0,8,0,6,0,0
+2017-18,21,Odisha,2119,GANJAM,211912,JAGANATHPRASAD,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,6,6,0,6,6,6,6,5,6,6,0,0,0,0,2,1,0,0,0,6,0,6,6,3,5,0,4,0,6,1,0
+2017-18,21,Odisha,2119,GANJAM,211912,JAGANATHPRASAD,8,SS (IX-X),4,Government Aided,Rural,3,Co-Ed,7,7,0,1,6,6,5,7,7,7,0,0,0,0,0,2,0,0,0,7,0,7,6,3,6,0,1,0,6,0,0
+2017-18,21,Odisha,2119,GANJAM,211912,JAGANATHPRASAD,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,1,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211912,JAGANATHPRASAD,7,SS (VI-X),4,Government Aided,Rural,2,Girls,1,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211912,JAGANATHPRASAD,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,0,0,0,0,0,2,0,2,2,1,1,0,1,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211912,JAGANATHPRASAD,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,6,6,0,0,5,5,6,6,6,6,0,0,0,0,0,2,0,0,0,6,0,6,4,2,6,0,2,0,6,0,0
+2017-18,21,Odisha,2119,GANJAM,211912,JAGANATHPRASAD,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,48,48,0,5,47,48,24,48,48,48,0,0,0,0,27,10,0,0,0,37,0,48,44,20,17,0,44,0,9,0,0
+2017-18,21,Odisha,2119,GANJAM,211912,JAGANATHPRASAD,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211912,JAGANATHPRASAD,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,9,9,0,4,5,8,9,9,9,9,0,0,0,0,5,7,0,0,0,6,1,9,7,5,8,0,3,0,3,0,0
+2017-18,21,Odisha,2119,GANJAM,211912,JAGANATHPRASAD,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,3,3,0,0,3,3,2,3,3,3,0,0,0,0,1,2,0,0,0,3,0,3,3,0,3,0,2,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211913,KABISURYANAGAR,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211913,KABISURYANAGAR,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211913,KABISURYANAGAR,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,54,52,0,1,52,54,7,54,54,54,0,0,0,0,10,26,0,0,0,31,0,54,42,17,14,0,34,0,6,0,0
+2017-18,21,Odisha,2119,GANJAM,211913,KABISURYANAGAR,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211913,KABISURYANAGAR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211913,KABISURYANAGAR,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211913,KABISURYANAGAR,6,SS (I-X),1,Department of Education,Rural,3,Co-Ed,9,9,0,2,9,9,7,9,9,9,0,0,0,0,0,0,0,0,0,9,0,9,7,5,6,1,5,0,9,0,0
+2017-18,21,Odisha,2119,GANJAM,211913,KABISURYANAGAR,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,3,3,0,1,2,3,3,3,3,3,0,0,0,0,0,1,0,0,0,3,0,3,2,0,3,0,0,0,3,0,0
+2017-18,21,Odisha,2119,GANJAM,211913,KABISURYANAGAR,8,SS (IX-X),4,Government Aided,Rural,3,Co-Ed,4,4,0,0,3,3,2,4,4,4,0,0,0,0,0,2,0,0,0,4,0,4,4,2,4,0,0,0,4,0,0
+2017-18,21,Odisha,2119,GANJAM,211913,KABISURYANAGAR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211913,KABISURYANAGAR,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,1,0,0,0,0,2,0,2,2,0,1,0,0,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211913,KABISURYANAGAR,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,1,2,2,2,0,0,0,0,0,0,0,0,0,2,0,2,2,1,2,0,0,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211913,KABISURYANAGAR,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,38,37,0,2,38,38,14,38,38,38,0,0,0,0,9,17,0,0,0,21,2,38,34,22,18,0,31,0,11,0,0
+2017-18,21,Odisha,2119,GANJAM,211913,KABISURYANAGAR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,2,3,3,3,0,0,0,0,2,3,0,0,0,3,0,3,2,3,3,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211913,KABISURYANAGAR,4,UPS (VI-VIII),4,Government Aided,Rural,2,Girls,1,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211913,KABISURYANAGAR,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,3,3,0,0,3,3,3,3,3,3,0,0,0,0,2,2,0,0,0,1,0,3,3,3,1,0,2,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211913,KABISURYANAGAR,4,UPS (VI-VIII),4,Government Aided,Rural,3,Co-Ed,4,3,0,0,2,2,0,4,4,4,0,0,0,0,0,1,0,0,0,3,0,4,2,1,3,0,2,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211914,KHALLIKOTE,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,0,1,0,1,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211914,KHALLIKOTE,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,2,1,0,1,1,1,2,1,1,1,0,0,0,0,2,1,0,2,0,1,2,2,1,2,2,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211914,KHALLIKOTE,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,112,104,0,1,102,112,30,107,108,108,0,0,0,0,36,34,0,2,0,75,3,109,69,62,35,2,65,0,3,26,0
+2017-18,21,Odisha,2119,GANJAM,211914,KHALLIKOTE,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,2,2,0,0,2,2,1,2,2,2,0,0,0,0,1,0,0,0,0,2,0,2,1,1,0,0,2,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211914,KHALLIKOTE,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,1,1,0,0,0,1,0,1,0,1,2,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211914,KHALLIKOTE,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211914,KHALLIKOTE,6,SS (I-X),1,Department of Education,Rural,3,Co-Ed,11,11,0,8,9,11,9,11,11,11,0,0,0,0,4,4,0,3,0,8,0,11,10,8,8,0,9,0,9,3,0
+2017-18,21,Odisha,2119,GANJAM,211914,KHALLIKOTE,6,SS (I-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211914,KHALLIKOTE,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,7,7,0,7,7,7,6,6,7,7,0,0,0,0,2,2,0,3,0,6,1,7,4,5,6,0,3,0,7,3,0
+2017-18,21,Odisha,2119,GANJAM,211914,KHALLIKOTE,8,SS (IX-X),4,Government Aided,Rural,3,Co-Ed,5,5,0,0,3,3,3,3,3,3,0,0,0,0,0,3,0,0,0,4,0,5,2,0,4,0,0,0,5,0,0
+2017-18,21,Odisha,2119,GANJAM,211914,KHALLIKOTE,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,2,2,1,1,2,2,0,0,0,0,0,2,0,0,0,2,0,2,2,2,2,0,0,0,2,1,0
+2017-18,21,Odisha,2119,GANJAM,211914,KHALLIKOTE,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211914,KHALLIKOTE,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,3,3,0,0,3,3,2,3,3,3,0,0,0,0,0,2,0,0,0,3,1,3,2,0,2,0,1,0,3,0,0
+2017-18,21,Odisha,2119,GANJAM,211914,KHALLIKOTE,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,51,51,0,2,50,51,26,50,51,51,0,0,0,0,20,20,0,0,0,35,2,51,29,37,22,1,43,0,11,9,0
+2017-18,21,Odisha,2119,GANJAM,211914,KHALLIKOTE,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,1,2,0,0,0,1,0,2,2,2,1,0,1,0,2,1,0
+2017-18,21,Odisha,2119,GANJAM,211914,KHALLIKOTE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,6,0,4,6,7,7,6,7,7,0,0,0,0,4,5,0,1,0,6,1,7,4,5,7,1,3,0,4,4,0
+2017-18,21,Odisha,2119,GANJAM,211914,KHALLIKOTE,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211914,KHALLIKOTE,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,4,4,0,0,4,4,2,4,4,4,0,0,0,0,1,1,0,0,0,4,0,4,2,1,3,0,2,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211914,KHALLIKOTE,4,UPS (VI-VIII),4,Government Aided,Rural,3,Co-Ed,3,3,0,0,2,2,0,3,3,3,0,0,0,0,0,1,0,0,0,3,0,3,2,2,3,0,0,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211915,KUKUDAKHANDI,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211915,KUKUDAKHANDI,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,1,1,0,1,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211915,KUKUDAKHANDI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,0,2,2,2,3,3,3,0,0,0,0,3,2,0,2,0,2,2,2,2,2,2,1,2,0,1,2,0
+2017-18,21,Odisha,2119,GANJAM,211915,KUKUDAKHANDI,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,79,78,0,6,71,79,24,78,77,78,0,0,0,0,33,16,0,2,0,55,1,78,55,5,39,1,63,0,4,9,0
+2017-18,21,Odisha,2119,GANJAM,211915,KUKUDAKHANDI,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,3,3,0,0,2,3,0,3,3,3,0,0,0,0,1,0,0,0,0,3,0,3,3,0,2,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211915,KUKUDAKHANDI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,2,2,4,4,5,5,5,0,0,0,0,2,3,0,0,0,4,3,4,3,4,3,0,0,0,2,1,0
+2017-18,21,Odisha,2119,GANJAM,211915,KUKUDAKHANDI,6,SS (I-X),1,Department of Education,Rural,3,Co-Ed,9,9,0,4,9,9,7,9,9,9,0,0,0,0,3,5,0,2,0,8,0,9,5,2,4,1,7,0,8,2,0
+2017-18,21,Odisha,2119,GANJAM,211915,KUKUDAKHANDI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,0,2,0,1,0,2,0,3,3,1,3,1,1,0,3,1,0
+2017-18,21,Odisha,2119,GANJAM,211915,KUKUDAKHANDI,6,SS (I-X),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,0,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211915,KUKUDAKHANDI,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,2,2,0,2,2,2,1,2,2,2,0,0,0,0,0,1,0,0,0,2,0,2,2,0,2,0,1,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211915,KUKUDAKHANDI,8,SS (IX-X),4,Government Aided,Rural,3,Co-Ed,5,5,0,5,4,4,3,4,5,5,0,0,0,0,0,4,0,0,0,5,0,4,2,2,4,0,1,0,5,0,0
+2017-18,21,Odisha,2119,GANJAM,211915,KUKUDAKHANDI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211915,KUKUDAKHANDI,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,1,3,0,2,0,3,0,3,2,0,3,1,3,0,3,0,0
+2017-18,21,Odisha,2119,GANJAM,211915,KUKUDAKHANDI,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,3,3,0,2,3,3,2,3,3,3,0,0,0,0,0,2,0,0,0,3,0,3,1,1,2,0,0,0,3,1,0
+2017-18,21,Odisha,2119,GANJAM,211915,KUKUDAKHANDI,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,38,38,0,5,32,38,28,38,38,38,0,0,0,0,19,14,0,0,0,18,3,38,29,8,18,0,36,0,14,3,0
+2017-18,21,Odisha,2119,GANJAM,211915,KUKUDAKHANDI,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,1,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211915,KUKUDAKHANDI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,11,10,0,5,9,9,10,10,10,10,0,0,0,0,5,9,0,4,0,6,5,10,4,4,10,1,3,0,3,4,0
+2017-18,21,Odisha,2119,GANJAM,211915,KUKUDAKHANDI,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,3,3,0,0,3,3,2,3,3,3,0,0,0,0,1,1,0,0,0,3,0,3,2,0,3,0,3,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211916,PATRAPUR,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211916,PATRAPUR,5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,1,1,1,1,1,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211916,PATRAPUR,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,0,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,2,2,2,2,1,0,0,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211916,PATRAPUR,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,126,114,0,1,114,126,29,125,122,126,0,0,0,0,17,37,0,0,0,77,2,119,105,59,35,0,57,0,14,0,0
+2017-18,21,Odisha,2119,GANJAM,211916,PATRAPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211916,PATRAPUR,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,2,2,0,2,1,1,1,1,1,1,0,0,0,0,2,1,0,0,0,2,1,2,1,2,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211916,PATRAPUR,6,SS (I-X),1,Department of Education,Rural,3,Co-Ed,7,7,0,2,7,7,6,7,7,7,0,0,0,0,3,4,0,1,0,4,0,7,6,3,6,1,6,0,7,0,0
+2017-18,21,Odisha,2119,GANJAM,211916,PATRAPUR,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,0,1,1,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211916,PATRAPUR,8,SS (IX-X),4,Government Aided,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211916,PATRAPUR,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,3,4,0,1,0,4,0,4,3,3,4,0,3,0,4,0,0
+2017-18,21,Odisha,2119,GANJAM,211916,PATRAPUR,8,SS (IX-X),4,Government Aided,Rural,3,Co-Ed,8,8,0,0,3,5,4,8,8,8,0,0,0,0,1,0,0,0,0,7,0,8,4,4,8,0,0,0,8,0,0
+2017-18,21,Odisha,2119,GANJAM,211916,PATRAPUR,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211916,PATRAPUR,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,2,2,0,2,2,2,1,2,2,2,0,0,0,0,0,1,0,1,0,2,0,2,2,1,2,0,2,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211916,PATRAPUR,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,1,1,0,2,2,2,0,0,0,0,0,1,0,0,0,2,0,2,2,1,1,0,0,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211916,PATRAPUR,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211916,PATRAPUR,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,47,47,0,4,45,47,30,46,46,46,0,0,0,0,23,21,0,0,0,33,1,47,40,34,21,0,35,0,12,0,0
+2017-18,21,Odisha,2119,GANJAM,211916,PATRAPUR,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211916,PATRAPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,3,0,2,3,3,3,4,4,4,0,0,0,0,1,3,0,0,0,4,0,3,2,2,3,0,2,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211916,PATRAPUR,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,4,4,0,0,4,4,3,4,4,4,0,0,0,0,2,3,0,0,0,3,0,4,4,2,2,0,4,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211917,POLASARA,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,1,1,1,0,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211917,POLASARA,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,1,0,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,0,1,1,0,0,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211917,POLASARA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211917,POLASARA,1,PS (I-V),1,Department of Education,Rural,1,Boys,1,1,0,0,1,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211917,POLASARA,1,PS (I-V),1,Department of Education,Rural,2,Girls,2,2,0,0,2,2,1,0,2,2,0,0,0,0,2,1,0,0,0,0,0,2,2,0,0,0,2,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211917,POLASARA,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,83,80,0,0,76,83,7,83,83,83,0,0,0,0,42,40,0,0,0,52,2,80,81,21,35,2,66,0,4,20,0
+2017-18,21,Odisha,2119,GANJAM,211917,POLASARA,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211917,POLASARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,1,1,2,3,3,3,3,0,0,0,0,1,2,0,2,0,3,1,3,3,3,3,0,2,0,0,2,0
+2017-18,21,Odisha,2119,GANJAM,211917,POLASARA,6,SS (I-X),1,Department of Education,Rural,3,Co-Ed,8,8,0,3,8,8,6,8,8,8,0,0,0,0,5,1,0,3,0,7,0,8,8,6,6,0,7,0,5,2,0
+2017-18,21,Odisha,2119,GANJAM,211917,POLASARA,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,6,6,0,5,6,6,5,6,6,6,0,0,0,0,3,4,0,0,0,6,0,6,6,6,5,0,5,0,6,3,0
+2017-18,21,Odisha,2119,GANJAM,211917,POLASARA,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,4,1,0,2,0,4,0,4,4,3,3,0,4,0,3,1,0
+2017-18,21,Odisha,2119,GANJAM,211917,POLASARA,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,6,6,0,1,3,3,3,6,6,6,0,0,0,0,1,4,0,0,0,5,0,5,5,3,6,0,0,0,6,0,0
+2017-18,21,Odisha,2119,GANJAM,211917,POLASARA,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,27,27,0,3,27,27,7,27,27,27,0,0,0,0,14,14,0,0,0,16,1,27,27,11,12,1,24,0,11,5,0
+2017-18,21,Odisha,2119,GANJAM,211917,POLASARA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,2,1,0,0,0,1,0,2,2,1,0,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211917,POLASARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,1,1,1,1,3,3,3,0,0,0,0,2,3,0,1,0,3,1,3,2,3,3,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211917,POLASARA,4,UPS (VI-VIII),8,Unrecognized,Rural,2,Girls,1,1,0,0,0,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211917,POLASARA,4,UPS (VI-VIII),4,Government Aided,Rural,3,Co-Ed,7,7,0,0,3,4,1,7,7,7,0,0,0,0,2,3,0,0,0,7,0,7,7,4,7,0,6,0,2,1,0
+2017-18,21,Odisha,2119,GANJAM,211918,PURUSOTAMPUR,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,1,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211918,PURUSOTAMPUR,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,0,0,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211918,PURUSOTAMPUR,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,81,80,0,1,72,81,33,81,81,81,0,0,0,0,38,28,0,2,0,44,2,81,66,37,38,3,67,0,9,22,0
+2017-18,21,Odisha,2119,GANJAM,211918,PURUSOTAMPUR,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211918,PURUSOTAMPUR,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,10,9,0,4,6,7,6,9,9,9,0,0,0,0,6,4,0,1,0,5,3,6,5,7,7,1,5,0,2,3,0
+2017-18,21,Odisha,2119,GANJAM,211918,PURUSOTAMPUR,6,SS (I-X),1,Department of Education,Rural,3,Co-Ed,10,10,0,5,10,10,9,10,10,10,0,0,0,0,7,4,0,3,0,8,0,10,8,5,9,0,9,0,10,2,0
+2017-18,21,Odisha,2119,GANJAM,211918,PURUSOTAMPUR,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,2,0,0,0,2,0,2,2,1,2,0,1,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211918,PURUSOTAMPUR,8,SS (IX-X),4,Government Aided,Rural,3,Co-Ed,8,8,0,0,4,4,6,8,8,8,0,0,0,0,1,4,0,0,0,8,0,7,5,5,6,0,2,0,8,0,0
+2017-18,21,Odisha,2119,GANJAM,211918,PURUSOTAMPUR,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,3,3,0,3,0,3,0,3,3,3,3,0,3,0,3,2,0
+2017-18,21,Odisha,2119,GANJAM,211918,PURUSOTAMPUR,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,4,4,0,0,3,3,2,4,4,4,0,0,0,0,0,3,0,0,0,4,0,4,3,3,4,1,0,0,4,0,0
+2017-18,21,Odisha,2119,GANJAM,211918,PURUSOTAMPUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211918,PURUSOTAMPUR,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,27,27,0,2,26,27,16,27,27,27,0,0,0,0,12,12,0,0,0,16,0,27,24,12,16,2,26,0,8,4,0
+2017-18,21,Odisha,2119,GANJAM,211918,PURUSOTAMPUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,4,3,4,4,4,4,4,0,0,0,0,3,4,0,1,0,4,1,4,3,3,3,1,3,0,2,2,0
+2017-18,21,Odisha,2119,GANJAM,211918,PURUSOTAMPUR,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211918,PURUSOTAMPUR,4,UPS (VI-VIII),4,Government Aided,Rural,3,Co-Ed,6,6,0,0,4,5,2,6,6,6,0,0,0,0,0,4,0,0,0,6,0,6,2,2,6,0,1,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211919,RANGEILUNDA,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211919,RANGEILUNDA,3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,Rural,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211919,RANGEILUNDA,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,2,2,0,1,0,2,1,2,2,1,2,0,2,0,2,2,0
+2017-18,21,Odisha,2119,GANJAM,211919,RANGEILUNDA,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,0,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211919,RANGEILUNDA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,0,1,1,0,1,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211919,RANGEILUNDA,1,PS (I-V),1,Department of Education,Rural,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211919,RANGEILUNDA,1,PS (I-V),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,1,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211919,RANGEILUNDA,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,80,80,0,3,69,80,48,80,80,80,0,0,0,0,29,48,0,1,0,34,1,79,66,10,29,3,48,0,7,18,0
+2017-18,21,Odisha,2119,GANJAM,211919,RANGEILUNDA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,9,9,0,4,4,6,9,9,9,9,0,0,0,0,7,5,0,6,0,8,2,9,6,6,9,0,3,0,4,5,0
+2017-18,21,Odisha,2119,GANJAM,211919,RANGEILUNDA,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,0,0,0,1,0,1,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211919,RANGEILUNDA,6,SS (I-X),1,Department of Education,Rural,3,Co-Ed,8,8,0,1,7,8,7,8,8,8,0,0,0,0,3,3,0,1,0,6,0,8,6,2,4,0,7,0,7,1,0
+2017-18,21,Odisha,2119,GANJAM,211919,RANGEILUNDA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,0,1,1,1,0,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211919,RANGEILUNDA,8,SS (IX-X),4,Government Aided,Rural,2,Girls,1,1,0,1,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211919,RANGEILUNDA,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,0,0,1,0,2,2,1,1,0,2,0,2,1,0
+2017-18,21,Odisha,2119,GANJAM,211919,RANGEILUNDA,8,SS (IX-X),4,Government Aided,Rural,3,Co-Ed,8,8,0,2,7,7,7,8,8,8,0,0,0,0,1,7,0,0,0,8,0,7,6,2,8,0,3,0,8,3,0
+2017-18,21,Odisha,2119,GANJAM,211919,RANGEILUNDA,7,SS (VI-X),4,Government Aided,Rural,2,Girls,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211919,RANGEILUNDA,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,4,3,0,2,0,4,0,4,4,2,4,0,4,0,4,1,0
+2017-18,21,Odisha,2119,GANJAM,211919,RANGEILUNDA,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,1,2,2,2,2,2,0,0,0,0,0,1,0,0,0,2,0,2,0,0,2,0,0,0,2,1,0
+2017-18,21,Odisha,2119,GANJAM,211919,RANGEILUNDA,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,29,29,0,2,27,29,24,29,29,29,0,0,0,0,11,18,0,0,0,19,1,29,24,6,19,2,23,0,10,11,0
+2017-18,21,Odisha,2119,GANJAM,211919,RANGEILUNDA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,12,12,0,9,11,12,12,12,12,12,0,0,0,0,5,12,0,7,0,11,3,11,5,9,11,1,5,0,10,7,0
+2017-18,21,Odisha,2119,GANJAM,211919,RANGEILUNDA,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,4,4,0,4,3,4,4,4,4,4,0,0,0,0,2,4,0,3,0,4,2,4,3,3,3,0,1,0,4,3,0
+2017-18,21,Odisha,2119,GANJAM,211919,RANGEILUNDA,4,UPS (VI-VIII),4,Government Aided,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211919,RANGEILUNDA,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,4,4,0,0,4,4,2,4,4,4,0,0,0,0,1,2,0,1,0,2,0,4,3,0,2,0,2,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211919,RANGEILUNDA,4,UPS (VI-VIII),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,1,1,1,2,2,2,0,0,0,0,0,1,0,0,0,2,0,2,1,0,1,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211920,SANAKHEMUNDI,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211920,SANAKHEMUNDI,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,1,0,1,0,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211920,SANAKHEMUNDI,1,PS (I-V),1,Department of Education,Rural,1,Boys,1,1,0,0,1,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211920,SANAKHEMUNDI,1,PS (I-V),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211920,SANAKHEMUNDI,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,88,84,0,6,76,88,9,88,88,88,0,0,0,0,23,40,0,0,0,65,1,85,78,49,41,3,59,0,6,15,0
+2017-18,21,Odisha,2119,GANJAM,211920,SANAKHEMUNDI,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,2,2,0,1,2,2,0,2,2,2,0,0,0,0,0,0,0,0,0,2,0,2,2,1,0,0,0,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211920,SANAKHEMUNDI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,1,2,2,3,3,3,0,0,0,0,3,2,0,1,0,3,0,3,3,3,3,1,2,0,2,1,0
+2017-18,21,Odisha,2119,GANJAM,211920,SANAKHEMUNDI,1,PS (I-V),6,Other Govt. managed schools,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211920,SANAKHEMUNDI,6,SS (I-X),1,Department of Education,Rural,3,Co-Ed,8,8,0,4,7,8,5,8,8,8,0,0,0,0,0,6,0,0,0,6,0,7,8,4,2,1,4,0,6,0,0
+2017-18,21,Odisha,2119,GANJAM,211920,SANAKHEMUNDI,8,SS (IX-X),1,Department of Education,Rural,2,Girls,2,2,0,2,2,2,2,0,2,2,0,0,0,0,1,1,0,0,0,2,0,2,2,2,2,0,0,0,2,1,0
+2017-18,21,Odisha,2119,GANJAM,211920,SANAKHEMUNDI,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,1,1,0,1,0,2,0,3,3,3,3,0,2,0,2,1,0
+2017-18,21,Odisha,2119,GANJAM,211920,SANAKHEMUNDI,8,SS (IX-X),4,Government Aided,Rural,3,Co-Ed,3,3,0,2,2,3,1,3,3,3,0,0,0,0,0,1,0,0,0,2,0,3,2,2,3,0,0,0,3,0,0
+2017-18,21,Odisha,2119,GANJAM,211920,SANAKHEMUNDI,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,1,2,0,2,0,3,0,3,3,3,3,0,3,0,3,1,0
+2017-18,21,Odisha,2119,GANJAM,211920,SANAKHEMUNDI,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,7,7,0,0,5,5,5,7,7,7,0,0,0,0,0,6,0,0,0,6,1,7,7,7,7,0,1,0,7,0,0
+2017-18,21,Odisha,2119,GANJAM,211920,SANAKHEMUNDI,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,50,50,0,6,48,50,16,50,50,50,0,0,0,0,21,20,0,0,0,31,3,50,46,32,16,2,43,0,14,6,0
+2017-18,21,Odisha,2119,GANJAM,211920,SANAKHEMUNDI,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,0,0,0,0,0,1,0,2,2,2,1,0,1,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211920,SANAKHEMUNDI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,1,3,6,6,7,7,7,0,0,0,0,2,6,0,3,0,5,1,7,4,6,7,0,3,0,3,4,0
+2017-18,21,Odisha,2119,GANJAM,211920,SANAKHEMUNDI,4,UPS (VI-VIII),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211920,SANAKHEMUNDI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,1,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211920,SANAKHEMUNDI,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,0,0,0,0,0,1,0,2,2,1,1,0,2,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211920,SANAKHEMUNDI,4,UPS (VI-VIII),4,Government Aided,Rural,3,Co-Ed,5,5,0,0,5,5,1,5,5,5,0,0,0,0,1,2,0,0,0,4,0,5,5,2,2,0,2,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211921,SHERAGADA,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211921,SHERAGADA,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,2,0,2,2,2,2,2,1,0,0,0,2,2,0
+2017-18,21,Odisha,2119,GANJAM,211921,SHERAGADA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,0,0,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211921,SHERAGADA,1,PS (I-V),1,Department of Education,Rural,2,Girls,1,1,0,0,0,1,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211921,SHERAGADA,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,85,85,0,1,75,85,27,79,83,85,0,0,0,0,50,6,0,1,0,56,0,84,83,38,52,2,61,0,7,16,0
+2017-18,21,Odisha,2119,GANJAM,211921,SHERAGADA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,9,9,0,3,5,7,8,5,7,8,0,0,0,0,5,4,0,1,0,3,0,9,7,7,6,0,2,0,2,3,0
+2017-18,21,Odisha,2119,GANJAM,211921,SHERAGADA,1,PS (I-V),6,Other Govt. managed schools,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211921,SHERAGADA,6,SS (I-X),1,Department of Education,Rural,3,Co-Ed,12,12,0,3,10,12,9,12,12,12,0,0,0,0,10,5,0,0,0,11,0,12,11,9,8,0,7,0,8,5,0
+2017-18,21,Odisha,2119,GANJAM,211921,SHERAGADA,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,5,5,0,4,5,5,5,5,5,5,0,0,0,0,3,3,0,0,0,5,0,5,5,4,5,0,4,0,5,2,0
+2017-18,21,Odisha,2119,GANJAM,211921,SHERAGADA,8,SS (IX-X),4,Government Aided,Rural,3,Co-Ed,3,3,0,1,0,3,3,2,1,2,0,0,0,0,1,1,0,0,0,3,0,3,3,2,3,0,0,0,3,0,0
+2017-18,21,Odisha,2119,GANJAM,211921,SHERAGADA,7,SS (VI-X),4,Government Aided,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211921,SHERAGADA,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,4,4,0,2,4,4,4,4,4,4,0,0,0,0,3,3,0,2,0,3,0,4,4,3,3,1,3,0,4,3,0
+2017-18,21,Odisha,2119,GANJAM,211921,SHERAGADA,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,1,1,2,2,0,0,0,0,1,1,0,0,0,2,0,2,2,1,2,0,0,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211921,SHERAGADA,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,32,32,0,4,29,32,19,32,32,32,0,0,0,0,25,1,0,2,0,20,1,32,32,21,20,2,27,0,9,8,0
+2017-18,21,Odisha,2119,GANJAM,211921,SHERAGADA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,4,4,5,4,5,5,5,0,0,0,0,4,4,0,2,0,5,1,5,4,3,5,0,1,0,2,2,0
+2017-18,21,Odisha,2119,GANJAM,211921,SHERAGADA,4,UPS (VI-VIII),4,Government Aided,Rural,2,Girls,1,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211921,SHERAGADA,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,2,2,0,0,1,2,1,2,2,2,0,0,0,0,1,0,0,0,0,2,0,2,2,2,2,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211921,SHERAGADA,4,UPS (VI-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211922,SURADA,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211922,SURADA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,1,1,0,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211922,SURADA,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,135,122,0,0,113,135,25,133,135,135,0,0,0,0,44,49,0,0,0,107,9,128,121,57,59,0,111,0,8,24,0
+2017-18,21,Odisha,2119,GANJAM,211922,SURADA,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,3,3,0,0,1,3,2,3,3,3,0,0,0,0,0,0,0,0,0,2,1,2,3,0,2,0,3,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211922,SURADA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211922,SURADA,6,SS (I-X),1,Department of Education,Rural,3,Co-Ed,16,16,0,3,15,16,11,16,16,16,0,0,0,0,7,10,0,0,0,12,5,16,16,10,8,1,15,0,12,1,0
+2017-18,21,Odisha,2119,GANJAM,211922,SURADA,8,SS (IX-X),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,1,1,0,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211922,SURADA,8,SS (IX-X),1,Department of Education,Rural,3,Co-Ed,4,4,0,4,4,4,3,4,4,4,0,0,0,0,1,2,0,1,0,4,1,4,4,2,4,0,1,0,4,2,0
+2017-18,21,Odisha,2119,GANJAM,211922,SURADA,8,SS (IX-X),4,Government Aided,Rural,3,Co-Ed,7,7,0,1,5,5,5,7,7,7,0,0,0,0,3,2,0,0,0,7,0,6,6,1,5,0,6,0,7,2,0
+2017-18,21,Odisha,2119,GANJAM,211922,SURADA,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211922,SURADA,7,SS (VI-X),1,Department of Education,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,1,0,1,0,1,1,0,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211922,SURADA,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211922,SURADA,2,UPS (I-VIII),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211922,SURADA,2,UPS (I-VIII),1,Department of Education,Rural,3,Co-Ed,38,35,0,3,33,38,15,37,38,38,0,0,0,0,10,22,0,1,0,28,2,38,36,18,20,1,36,0,8,8,0
+2017-18,21,Odisha,2119,GANJAM,211922,SURADA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,0,1,0,0,0,2,0,2,2,1,1,0,2,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211922,SURADA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,1,2,0,0,0,2,0,2,1,2,2,0,0,0,2,1,0
+2017-18,21,Odisha,2119,GANJAM,211922,SURADA,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211922,SURADA,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,4,4,0,0,4,4,4,4,4,4,0,0,0,0,4,2,0,0,0,4,0,4,4,3,2,0,4,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211922,SURADA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211922,SURADA,4,UPS (VI-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,1,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211923,ASKA NAC,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,0,1,1,0,1,0,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211923,ASKA NAC,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,11,11,0,0,10,11,7,11,11,11,0,0,0,0,3,8,0,0,0,8,0,11,5,2,2,0,4,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211923,ASKA NAC,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211923,ASKA NAC,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,0,2,0,2,0,2,1,2,2,2,2,0,1,0,2,2,0
+2017-18,21,Odisha,2119,GANJAM,211923,ASKA NAC,8,SS (IX-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211923,ASKA NAC,7,SS (VI-X),4,Government Aided,Urban,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211923,ASKA NAC,7,SS (VI-X),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,1,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211923,ASKA NAC,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211923,ASKA NAC,2,UPS (I-VIII),1,Department of Education,Urban,3,Co-Ed,3,3,0,1,3,3,2,3,3,3,0,0,0,0,1,3,0,0,0,3,0,3,1,1,0,0,2,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211923,ASKA NAC,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,5,5,0,4,3,3,5,5,5,5,0,0,0,0,2,5,0,0,0,3,1,5,4,3,3,1,3,0,3,2,0
+2017-18,21,Odisha,2119,GANJAM,211923,ASKA NAC,4,UPS (VI-VIII),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211924,BELLAGUNTHA NAC,11,HSS (XI-XII),4,Government Aided,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,1,1,0,0,0,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211924,BELLAGUNTHA NAC,11,HSS (XI-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211924,BELLAGUNTHA NAC,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,6,6,0,0,6,6,5,6,6,6,0,0,0,0,6,2,0,0,0,5,0,6,6,0,5,0,5,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211924,BELLAGUNTHA NAC,7,SS (VI-X),4,Government Aided,Urban,2,Girls,1,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211924,BELLAGUNTHA NAC,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211924,BELLAGUNTHA NAC,2,UPS (I-VIII),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211924,BELLAGUNTHA NAC,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,2,3,0,0,0,3,1,3,3,1,3,0,1,0,3,0,0
+2017-18,21,Odisha,2119,GANJAM,211924,BELLAGUNTHA NAC,2,UPS (I-VIII),8,Unrecognized,Urban,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211924,BELLAGUNTHA NAC,4,UPS (VI-VIII),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,3,4,0,4,0,4,2,4,4,2,4,3,1,0,4,4,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,1,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,11,HSS (XI-XII),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,11,HSS (XI-XII),4,Government Aided,Urban,2,Girls,1,1,0,0,0,0,1,0,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,11,HSS (XI-XII),4,Government Aided,Urban,3,Co-Ed,4,4,0,2,1,2,4,4,4,4,0,0,0,0,2,4,0,3,0,2,2,4,2,4,3,1,0,0,3,2,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,7,6,0,6,3,3,7,7,7,7,0,0,0,0,7,6,0,5,0,2,2,6,5,6,5,1,1,0,5,5,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,46,45,0,3,40,46,34,45,46,46,0,0,0,0,22,36,0,1,0,24,2,46,36,4,9,0,17,0,5,18,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,16,16,0,7,14,14,16,16,16,16,0,0,0,0,11,15,0,9,0,9,4,15,11,10,11,1,3,0,11,8,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,1,PS (I-V),6,Other Govt. managed schools,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,6,SS (I-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,6,SS (I-X),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,1,1,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,17,17,0,17,17,17,17,17,17,17,0,0,0,0,12,17,0,14,0,15,6,17,14,12,15,4,5,0,16,9,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,6,SS (I-X),6,Other Govt. managed schools,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,8,SS (IX-X),1,Department of Education,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,1,0,1,0,1,1,0,1,1,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,8,SS (IX-X),1,Department of Education,Urban,2,Girls,2,2,0,2,2,2,2,0,2,2,0,0,0,0,0,2,0,2,0,1,0,2,2,0,1,0,2,0,2,2,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,8,SS (IX-X),5,Private Unaided (Recognized),Urban,2,Girls,1,1,0,0,0,1,0,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,7,SS (VI-X),1,Department of Education,Urban,1,Boys,3,3,0,3,3,3,3,3,0,3,0,0,0,0,2,2,0,1,0,1,1,3,2,1,1,2,1,0,3,2,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,7,SS (VI-X),4,Government Aided,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,1,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,7,SS (VI-X),1,Department of Education,Urban,2,Girls,3,3,0,3,3,3,3,0,3,3,0,0,0,0,2,3,0,2,0,2,0,3,3,1,0,0,0,0,3,2,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,7,SS (VI-X),4,Government Aided,Urban,2,Girls,2,2,0,1,1,1,2,0,2,2,0,0,0,0,0,1,0,0,0,2,0,2,1,0,2,1,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,5,5,0,5,3,5,4,5,5,5,0,0,0,0,3,4,0,3,0,2,0,5,4,2,1,2,0,0,5,1,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,2,2,0,1,1,2,1,2,2,2,0,0,0,0,1,2,0,0,0,2,0,2,2,0,2,0,1,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,1,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,2,UPS (I-VIII),1,Department of Education,Urban,3,Co-Ed,21,21,0,6,19,21,21,21,21,21,0,0,0,0,15,16,0,1,0,7,0,21,14,2,6,1,15,0,12,8,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,39,39,0,34,34,36,38,39,39,39,0,0,0,0,24,32,0,19,0,21,6,37,31,30,28,4,11,0,31,27,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,2,UPS (I-VIII),8,Unrecognized,Urban,3,Co-Ed,3,3,0,3,2,2,3,3,3,3,0,0,0,0,3,3,0,3,0,2,2,3,2,3,3,1,0,0,3,2,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,4,UPS (VI-VIII),4,Government Aided,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,4,UPS (VI-VIII),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,4,UPS (VI-VIII),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211925,BERHAMPUR MPL,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,0,0,0,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211926,BHANJANAGAR NAC,11,HSS (XI-XII),4,Government Aided,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211926,BHANJANAGAR NAC,11,HSS (XI-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,0,1,1,1,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211926,BHANJANAGAR NAC,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,0,1,1,0,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211926,BHANJANAGAR NAC,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,11,11,0,0,11,11,9,11,11,11,0,0,0,0,11,1,0,0,0,3,0,11,11,1,3,0,8,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211926,BHANJANAGAR NAC,6,SS (I-X),92,Kendriya Vidyalaya / Central School,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,1,1,1,1,0,1,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211926,BHANJANAGAR NAC,7,SS (VI-X),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,1,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211926,BHANJANAGAR NAC,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,3,2,0,2,0,2,0,3,3,2,2,0,3,0,3,3,0
+2017-18,21,Odisha,2119,GANJAM,211926,BHANJANAGAR NAC,2,UPS (I-VIII),1,Department of Education,Urban,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,2,0,0,0,1,0,2,2,0,0,0,2,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211926,BHANJANAGAR NAC,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,1,0,2,1,2,1,2,2,0,2,0,2,1,0
+2017-18,21,Odisha,2119,GANJAM,211927,BUGUDA NAC,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,1,1,1,1,1,0,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211927,BUGUDA NAC,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211927,BUGUDA NAC,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,8,8,0,0,7,8,5,8,8,8,0,0,0,0,3,7,0,0,0,3,0,7,7,2,1,0,6,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211927,BUGUDA NAC,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,1,0,2,0,2,2,2,2,0,2,0,2,1,0
+2017-18,21,Odisha,2119,GANJAM,211927,BUGUDA NAC,8,SS (IX-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211927,BUGUDA NAC,7,SS (VI-X),1,Department of Education,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,1,0,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211927,BUGUDA NAC,7,SS (VI-X),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0,1,1,1,0,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211927,BUGUDA NAC,2,UPS (I-VIII),1,Department of Education,Urban,3,Co-Ed,2,2,0,1,1,2,1,2,2,2,0,0,0,0,0,1,0,0,0,1,0,2,2,1,1,0,2,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211927,BUGUDA NAC,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,4,4,0,3,3,4,4,4,4,4,0,0,0,0,3,3,0,0,0,2,1,4,4,3,3,0,0,0,3,0,0
+2017-18,21,Odisha,2119,GANJAM,211928,CHATRAPUR NAC,11,HSS (XI-XII),4,Government Aided,Urban,2,Girls,1,1,0,0,0,0,1,0,1,1,0,0,0,0,1,1,0,1,0,1,1,1,0,1,0,0,0,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211928,CHATRAPUR NAC,11,HSS (XI-XII),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,1,0,1,1,0,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211928,CHATRAPUR NAC,11,HSS (XI-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211928,CHATRAPUR NAC,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1,0,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211928,CHATRAPUR NAC,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,7,7,0,0,6,7,0,7,7,7,0,0,0,0,2,3,0,0,0,5,0,7,4,0,0,0,6,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211928,CHATRAPUR NAC,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,0,0,2,0,2,2,0,1,0,1,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211928,CHATRAPUR NAC,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,1,2,2,2,2,0,0,0,2,1,0
+2017-18,21,Odisha,2119,GANJAM,211928,CHATRAPUR NAC,7,SS (VI-X),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,0,0,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211928,CHATRAPUR NAC,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211928,CHATRAPUR NAC,7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211928,CHATRAPUR NAC,2,UPS (I-VIII),1,Department of Education,Urban,3,Co-Ed,3,3,0,1,3,3,1,3,3,3,0,0,0,0,1,2,0,0,0,1,0,3,2,0,0,0,3,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211928,CHATRAPUR NAC,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,6,5,0,2,5,5,6,6,6,6,0,0,0,0,2,5,0,1,0,4,0,6,1,2,3,0,1,0,4,0,0
+2017-18,21,Odisha,2119,GANJAM,211929,CHIKITI NAC,11,HSS (XI-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,1,0,0,0,0,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211929,CHIKITI NAC,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,1,1,1,0,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211929,CHIKITI NAC,1,PS (I-V),1,Department of Education,Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211929,CHIKITI NAC,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,3,3,0,0,3,3,3,3,3,3,0,0,0,0,3,3,0,0,0,0,1,3,3,1,1,0,2,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211929,CHIKITI NAC,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211929,CHIKITI NAC,8,SS (IX-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,0,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211929,CHIKITI NAC,7,SS (VI-X),1,Department of Education,Urban,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,1,1,0,1,0,1,0,1,1,0,1,0,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211929,CHIKITI NAC,7,SS (VI-X),1,Department of Education,Urban,2,Girls,1,1,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211929,CHIKITI NAC,2,UPS (I-VIII),1,Department of Education,Urban,3,Co-Ed,2,2,0,1,1,2,2,2,2,2,0,0,0,0,2,2,0,0,0,1,0,2,2,2,2,0,1,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211929,CHIKITI NAC,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,0,2,3,3,3,3,3,0,0,0,0,3,3,0,0,0,1,0,3,3,3,3,0,3,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211930,DIGAPAHANDI NAC,11,HSS (XI-XII),4,Government Aided,Urban,2,Girls,1,0,0,1,1,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,1,1,0,1,0,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211930,DIGAPAHANDI NAC,11,HSS (XI-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211930,DIGAPAHANDI NAC,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,8,8,0,1,8,8,7,8,8,8,0,0,0,0,5,6,0,0,0,2,1,8,5,3,2,0,6,0,0,4,0
+2017-18,21,Odisha,2119,GANJAM,211930,DIGAPAHANDI NAC,1,PS (I-V),2,Tribal Welfare Department,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211930,DIGAPAHANDI NAC,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,4,4,0,2,2,2,4,4,4,4,0,0,0,0,3,4,0,1,0,3,2,3,2,3,1,0,1,0,4,1,0
+2017-18,21,Odisha,2119,GANJAM,211930,DIGAPAHANDI NAC,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211930,DIGAPAHANDI NAC,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,1,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211930,DIGAPAHANDI NAC,6,SS (I-X),92,Kendriya Vidyalaya / Central School,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,1,1,1,1,0,1,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211930,DIGAPAHANDI NAC,7,SS (VI-X),1,Department of Education,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211930,DIGAPAHANDI NAC,7,SS (VI-X),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,0,1,1,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211930,DIGAPAHANDI NAC,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,0,1,1,1,3,3,3,0,0,0,0,2,0,0,0,0,1,0,2,2,0,1,0,1,0,3,1,0
+2017-18,21,Odisha,2119,GANJAM,211931,GANJAM NAC,11,HSS (XI-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211931,GANJAM NAC,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,5,5,0,0,2,5,3,5,5,5,0,0,0,0,2,3,0,0,0,4,0,5,1,2,0,0,4,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211931,GANJAM NAC,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,1,0,1,1,2,2,2,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211931,GANJAM NAC,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,1,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211931,GANJAM NAC,8,SS (IX-X),1,Department of Education,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211931,GANJAM NAC,8,SS (IX-X),1,Department of Education,Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211931,GANJAM NAC,2,UPS (I-VIII),1,Department of Education,Urban,3,Co-Ed,3,3,0,1,3,3,3,3,3,3,0,0,0,0,2,3,0,0,0,3,0,3,2,2,2,0,3,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211931,GANJAM NAC,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211931,GANJAM NAC,4,UPS (VI-VIII),1,Department of Education,Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,0,1,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211931,GANJAM NAC,4,UPS (VI-VIII),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,0,1,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211932,GOPALAPUR NAC,3,HSS (I-XII),8,Unrecognized,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,0,0,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211932,GOPALAPUR NAC,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,2,1,0,0,2,2,1,2,2,2,0,0,0,0,1,0,0,0,0,0,0,1,2,1,0,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211932,GOPALAPUR NAC,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211932,GOPALAPUR NAC,8,SS (IX-X),4,Government Aided,Urban,2,Girls,1,1,0,1,0,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211932,GOPALAPUR NAC,8,SS (IX-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211932,GOPALAPUR NAC,2,UPS (I-VIII),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211932,GOPALAPUR NAC,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,1,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211932,GOPALAPUR NAC,4,UPS (VI-VIII),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211933,HINJILICUT NAC,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,7,7,0,0,5,7,7,7,7,7,0,0,0,0,5,6,0,0,0,5,1,7,7,0,4,0,6,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211933,HINJILICUT NAC,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211933,HINJILICUT NAC,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,2,2,0,1,0,2,2,2,2,2,0,0,0,0,2,2,0,0,0,2,1,2,2,2,2,0,2,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211933,HINJILICUT NAC,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,1,0,2,1,2,2,2,2,0,1,0,2,1,0
+2017-18,21,Odisha,2119,GANJAM,211933,HINJILICUT NAC,7,SS (VI-X),1,Department of Education,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211933,HINJILICUT NAC,7,SS (VI-X),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,1,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211933,HINJILICUT NAC,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,0,1,1,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211933,HINJILICUT NAC,2,UPS (I-VIII),1,Department of Education,Urban,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,1,2,0,0,0,2,0,2,2,1,2,0,2,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211933,HINJILICUT NAC,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211933,HINJILICUT NAC,2,UPS (I-VIII),8,Unrecognized,Urban,3,Co-Ed,2,2,0,1,0,2,2,2,2,2,0,0,0,0,2,2,0,0,0,2,1,2,2,1,2,0,2,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211933,HINJILICUT NAC,2,UPS (I-VIII),92,Kendriya Vidyalaya / Central School,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,1,1,1,0,0,1,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211934,KABISURYANAGAR NAC,11,HSS (XI-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211934,KABISURYANAGAR NAC,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211934,KABISURYANAGAR NAC,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,10,10,0,0,8,10,3,10,10,10,0,0,0,0,3,4,0,0,0,7,0,9,5,5,4,0,6,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211934,KABISURYANAGAR NAC,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,6,6,0,3,3,5,5,6,6,6,0,0,0,0,5,5,0,0,0,4,4,5,5,5,5,0,5,0,2,0,0
+2017-18,21,Odisha,2119,GANJAM,211934,KABISURYANAGAR NAC,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,1,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211934,KABISURYANAGAR NAC,7,SS (VI-X),1,Department of Education,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211934,KABISURYANAGAR NAC,7,SS (VI-X),1,Department of Education,Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211934,KABISURYANAGAR NAC,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211934,KABISURYANAGAR NAC,7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211934,KABISURYANAGAR NAC,2,UPS (I-VIII),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211934,KABISURYANAGAR NAC,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,1,3,3,3,3,3,3,0,0,0,0,2,3,0,0,0,2,1,3,2,2,3,0,2,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211935,KHALLIKOTE NAC,11,HSS (XI-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211935,KHALLIKOTE NAC,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,0,1,1,1,1,0,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211935,KHALLIKOTE NAC,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,8,8,0,0,8,8,7,8,8,8,0,0,0,0,2,1,0,0,0,5,0,8,3,6,0,0,6,0,0,3,0
+2017-18,21,Odisha,2119,GANJAM,211935,KHALLIKOTE NAC,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211935,KHALLIKOTE NAC,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,2,1,1,2,2,2,2,0,0,0,0,0,2,0,2,0,2,0,2,2,1,2,0,1,0,2,1,0
+2017-18,21,Odisha,2119,GANJAM,211935,KHALLIKOTE NAC,8,SS (IX-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,1,0,0,1,0,1,0,1,1,1,1,0,1,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211935,KHALLIKOTE NAC,7,SS (VI-X),1,Department of Education,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211935,KHALLIKOTE NAC,7,SS (VI-X),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211935,KHALLIKOTE NAC,2,UPS (I-VIII),1,Department of Education,Urban,3,Co-Ed,2,2,0,1,2,2,1,2,2,2,0,0,0,0,1,2,0,0,0,1,0,2,1,2,1,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211935,KHALLIKOTE NAC,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,1,0,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211935,KHALLIKOTE NAC,2,UPS (I-VIII),8,Unrecognized,Urban,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,0,1,0,1,1,0,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211935,KHALLIKOTE NAC,4,UPS (VI-VIII),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211936,KODALA NAC,11,HSS (XI-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211936,KODALA NAC,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,6,6,0,0,6,6,3,6,6,6,0,0,0,0,1,2,0,0,0,3,0,6,2,1,3,0,6,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211936,KODALA NAC,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,1,1,2,2,2,2,2,0,0,0,0,2,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211936,KODALA NAC,1,PS (I-V),6,Other Govt. managed schools,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211936,KODALA NAC,7,SS (VI-X),1,Department of Education,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,1,0,1,0,1,1,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211936,KODALA NAC,7,SS (VI-X),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211936,KODALA NAC,2,UPS (I-VIII),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211936,KODALA NAC,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,0,1,0,0,0,1,0,1,1,1,2,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211937,POLASARA NAC,11,HSS (XI-XII),4,Government Aided,Urban,2,Girls,1,1,0,1,0,0,1,0,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211937,POLASARA NAC,11,HSS (XI-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,0,1,1,0,1,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211937,POLASARA NAC,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,10,10,0,0,8,10,3,7,7,7,0,0,0,0,3,7,0,0,0,2,0,9,10,3,6,0,9,0,0,4,0
+2017-18,21,Odisha,2119,GANJAM,211937,POLASARA NAC,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,1,0,0,2,2,2,2,0,0,0,0,2,0,0,2,0,0,1,2,0,1,0,0,1,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211937,POLASARA NAC,6,SS (I-X),8,Unrecognized,Urban,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,0,1,0,1,1,0,1,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211937,POLASARA NAC,8,SS (IX-X),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211937,POLASARA NAC,7,SS (VI-X),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0,1,1,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211937,POLASARA NAC,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,1,0,1,1,1,1,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211937,POLASARA NAC,2,UPS (I-VIII),1,Department of Education,Urban,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,1,1,0,0,0,0,0,2,2,2,1,0,2,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211937,POLASARA NAC,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,2,2,3,3,3,3,3,0,0,0,0,2,3,0,3,0,3,2,3,1,3,3,0,2,0,1,3,0
+2017-18,21,Odisha,2119,GANJAM,211938,PURUSOTAMPUR NAC,11,HSS (XI-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,0,1,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211938,PURUSOTAMPUR NAC,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,7,7,0,1,6,7,4,7,7,7,0,0,0,0,2,3,0,1,0,5,0,7,5,6,5,0,4,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211938,PURUSOTAMPUR NAC,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,0,2,2,2,2,2,2,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211938,PURUSOTAMPUR NAC,7,SS (VI-X),1,Department of Education,Urban,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211938,PURUSOTAMPUR NAC,7,SS (VI-X),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211938,PURUSOTAMPUR NAC,7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211938,PURUSOTAMPUR NAC,2,UPS (I-VIII),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,1,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211938,PURUSOTAMPUR NAC,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,4,4,0,2,2,3,4,4,4,4,0,0,0,0,3,3,0,2,0,3,0,4,2,3,3,1,2,0,2,4,0
+2017-18,21,Odisha,2119,GANJAM,211938,PURUSOTAMPUR NAC,2,UPS (I-VIII),8,Unrecognized,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,1,1,1,1,0,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211939,RAMBHA NAC,11,HSS (XI-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,0,0,0,1,1,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211939,RAMBHA NAC,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,7,7,0,0,6,7,5,7,7,7,0,0,0,0,2,5,0,0,0,3,0,7,7,6,6,0,2,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211939,RAMBHA NAC,1,PS (I-V),2,Tribal Welfare Department,Urban,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211939,RAMBHA NAC,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,2,1,1,2,2,2,2,0,0,0,0,1,2,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211939,RAMBHA NAC,8,SS (IX-X),1,Department of Education,Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211939,RAMBHA NAC,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211939,RAMBHA NAC,2,UPS (I-VIII),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211939,RAMBHA NAC,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211939,RAMBHA NAC,4,UPS (VI-VIII),4,Government Aided,Urban,2,Girls,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211940,SURADA NAC,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211940,SURADA NAC,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,5,5,0,0,5,5,4,5,5,5,0,0,0,0,2,0,0,0,0,2,0,5,3,3,0,0,2,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211940,SURADA NAC,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,1,1,0,0,0,2,0,2,2,2,2,0,2,0,0,0,0
+2017-18,21,Odisha,2119,GANJAM,211940,SURADA NAC,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211940,SURADA NAC,8,SS (IX-X),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211940,SURADA NAC,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211940,SURADA NAC,7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211940,SURADA NAC,2,UPS (I-VIII),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,1,0
+2017-18,21,Odisha,2119,GANJAM,211940,SURADA NAC,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,1,0,0,0,1,1,0
+2017-18,21,Odisha,2119,GANJAM,211940,SURADA NAC,2,UPS (I-VIII),8,Unrecognized,Urban,3,Co-Ed,2,2,0,1,0,1,0,2,2,2,0,0,0,0,2,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2017-18,21,Odisha,2119,GANJAM,211940,SURADA NAC,4,UPS (VI-VIII),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0

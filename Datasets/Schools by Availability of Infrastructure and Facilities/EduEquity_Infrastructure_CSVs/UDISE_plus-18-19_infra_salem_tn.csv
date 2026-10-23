@@ -1,0 +1,480 @@
+Academic_Year,State_Code,State_Name,District_Code,District_Name,Block_Code,Udise_Block_Name,School_Category_Id,School_Category_Name,School_Management_Id,School_Management_Name,Location,School_Type_Id,School_Type,Total_Number_of_Schools,Building,Complete_Medical_Checkup,Computer_Available,Functional_Drinking_Water,Drinking_Water,Functional_Electricity,Functional_Boy_Toilet,Functional_Girl_Toilet,Functional_Toilet_Facility,Functional_Toilet_and_Urinal,Functional_Urinal,Functional_Urinal_Boy,Functional_Urinal_Girl,Handwash,Separate_Room_for_Headmaster,Incinerator,Internet,Kitchen_Garden,Land_Available,Librarian,Library_or_Reading_Corner_or_Book_Bank,Medical_Checkup,Newspaper,Playground,Rain_Water_Harvesting,Ramps,Solar_Panel,Furniture,Water_Purifier,Water_Tested
+2018-19,33,Tamilnadu,3308,SALEM,330801,GANGAVALLI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-educational,5,5,4,4,3,3,5,5,5,5,5,5,5,5,5,5,1,4,0,3,0,5,5,0,5,4,2,0,5,4,0
+2018-19,33,Tamilnadu,3308,SALEM,330801,GANGAVALLI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-educational,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,2,4,0,3,1,4,4,1,4,4,2,1,4,4,2
+2018-19,33,Tamilnadu,3308,SALEM,330801,GANGAVALLI,5, HSS (VI-XII),1,Department of Education,Urban,1,Boys,2,2,2,2,2,2,2,2,0,2,2,2,2,0,2,2,0,2,0,2,1,2,2,1,2,2,2,0,2,2,1
+2018-19,33,Tamilnadu,3308,SALEM,330801,GANGAVALLI,5, HSS (VI-XII),1,Department of Education,Urban,2,Girls,3,3,3,3,3,3,3,0,2,2,2,2,0,2,3,1,1,2,0,2,0,3,3,1,3,3,3,0,3,3,1
+2018-19,33,Tamilnadu,3308,SALEM,330801,GANGAVALLI,5, HSS (VI-XII),1,Department of Education,Rural,3,Co-educational,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,0,2,0,2,0,2,1,1,2,2,2,0,2,2,1
+2018-19,33,Tamilnadu,3308,SALEM,330801,GANGAVALLI,5, HSS (VI-XII),1,Department of Education,Urban,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330801,GANGAVALLI,1,PS (I-V) ,1,Department of Education,Rural,3,Co-educational,26,26,22,4,26,26,26,25,26,26,26,26,26,25,26,6,0,0,1,18,0,26,25,6,26,26,22,0,26,7,0
+2018-19,33,Tamilnadu,3308,SALEM,330801,GANGAVALLI,1,PS (I-V) ,2,Tribal Welfare Department,Rural,3,Co-educational,8,8,5,0,8,8,8,7,8,8,8,8,7,8,8,0,0,0,0,6,0,8,8,1,8,8,4,2,8,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330801,GANGAVALLI,1,PS (I-V) ,5,Private Unaided (Recognized),Rural,3,Co-educational,12,12,7,6,10,11,12,12,12,12,12,12,12,12,12,3,0,6,0,4,0,12,9,1,12,12,1,0,12,8,1
+2018-19,33,Tamilnadu,3308,SALEM,330801,GANGAVALLI,1,PS (I-V) ,8,Unrecognized,Rural,3,Co-educational,1,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330801,GANGAVALLI,1,PS (I-V) ,1,Department of Education,Urban,3,Co-educational,12,12,9,4,10,12,12,12,12,12,12,12,12,12,12,4,0,0,0,8,0,12,10,3,12,11,8,0,12,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330801,GANGAVALLI,1,PS (I-V) ,4,Government Aided,Urban,3,Co-educational,2,2,0,1,2,2,2,2,2,2,2,2,2,2,2,1,0,0,0,1,0,1,2,1,2,2,1,0,2,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330801,GANGAVALLI,1,PS (I-V) ,5,Private Unaided (Recognized),Urban,3,Co-educational,5,5,4,5,4,4,5,5,5,5,5,5,5,5,5,2,0,1,0,0,0,4,5,0,5,5,0,0,5,4,0
+2018-19,33,Tamilnadu,3308,SALEM,330801,GANGAVALLI,6, SS (I-X) ,5,Private Unaided (Recognized),Rural,3,Co-educational,3,3,2,2,3,3,3,3,3,3,3,3,3,3,3,3,2,1,0,3,0,3,3,0,3,3,2,0,3,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330801,GANGAVALLI,6, SS (I-X) ,5,Private Unaided (Recognized),Urban,3,Co-educational,4,4,2,4,4,4,4,4,4,4,4,4,4,4,4,4,1,4,0,3,1,4,4,1,4,4,2,0,4,4,1
+2018-19,33,Tamilnadu,3308,SALEM,330801,GANGAVALLI,7,SS (VI-X),1,Department of Education,Urban,1,Boys,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,0,0,1,0,0,0,1,1,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330801,GANGAVALLI,7,SS (VI-X),1,Department of Education,Rural,3,Co-educational,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,2,2,2,0,0,0,2,2,1,3,3,3,0,3,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330801,GANGAVALLI,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,1,0,1,1,0,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330801,GANGAVALLI,2,UPS (I-VIII) ,1,Department of Education,Rural,3,Co-educational,8,8,8,8,7,7,8,8,8,8,8,8,8,8,8,4,0,0,0,2,0,8,8,2,8,8,8,0,8,5,0
+2018-19,33,Tamilnadu,3308,SALEM,330801,GANGAVALLI,2,UPS (I-VIII) ,2,Tribal Welfare Department,Rural,3,Co-educational,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,0,1,1,0,0,1,0,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330801,GANGAVALLI,2,UPS (I-VIII) ,1,Department of Education,Urban,3,Co-educational,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,1,1,0,0,1,0,3,3,2,3,3,3,0,3,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330801,GANGAVALLI,2,UPS (I-VIII) ,4,Government Aided,Urban,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330802,PETHANAICKENPALAYAM,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-educational,4,4,1,4,4,4,4,4,4,4,4,4,4,4,4,4,0,4,1,2,0,4,3,1,4,3,2,1,4,3,1
+2018-19,33,Tamilnadu,3308,SALEM,330802,PETHANAICKENPALAYAM,5, HSS (VI-XII),1,Department of Education,Urban,1,Boys,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,0,0,1,0,1,0,1,1,1,1,1,1,0,1,0,1
+2018-19,33,Tamilnadu,3308,SALEM,330802,PETHANAICKENPALAYAM,5, HSS (VI-XII),2,Tribal Welfare Department,Rural,2,Girls,1,1,1,0,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,1
+2018-19,33,Tamilnadu,3308,SALEM,330802,PETHANAICKENPALAYAM,5, HSS (VI-XII),1,Department of Education,Urban,2,Girls,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,1,0,1,1,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330802,PETHANAICKENPALAYAM,5, HSS (VI-XII),1,Department of Education,Rural,3,Co-educational,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,1,1,3,0,3,0,3,3,2,3,3,3,0,3,2,0
+2018-19,33,Tamilnadu,3308,SALEM,330802,PETHANAICKENPALAYAM,5, HSS (VI-XII),2,Tribal Welfare Department,Rural,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,0,1,1,1,1,1,1,1,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330802,PETHANAICKENPALAYAM,5, HSS (VI-XII),1,Department of Education,Urban,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330802,PETHANAICKENPALAYAM,1,PS (I-V) ,1,Department of Education,Rural,3,Co-educational,39,39,26,8,39,39,39,37,38,39,37,37,34,36,37,5,0,0,2,12,1,37,37,5,32,39,24,0,39,18,3
+2018-19,33,Tamilnadu,3308,SALEM,330802,PETHANAICKENPALAYAM,1,PS (I-V) ,2,Tribal Welfare Department,Rural,3,Co-educational,17,17,12,0,11,16,17,17,17,17,16,16,16,16,16,3,0,0,0,3,0,17,15,1,17,17,10,1,17,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330802,PETHANAICKENPALAYAM,1,PS (I-V) ,4,Government Aided,Rural,3,Co-educational,2,2,2,0,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,1,0,2,2,0,2,1,1,0,2,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330802,PETHANAICKENPALAYAM,1,PS (I-V) ,5,Private Unaided (Recognized),Rural,3,Co-educational,13,13,7,10,11,11,13,13,13,13,13,13,13,13,13,3,0,4,0,8,2,13,9,3,13,11,6,0,13,11,2
+2018-19,33,Tamilnadu,3308,SALEM,330802,PETHANAICKENPALAYAM,1,PS (I-V) ,8,Unrecognized,Rural,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,0,1,1,0,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330802,PETHANAICKENPALAYAM,1,PS (I-V) ,1,Department of Education,Urban,3,Co-educational,11,11,8,3,11,11,11,11,11,11,11,11,11,11,9,1,0,0,0,0,0,11,11,1,9,11,9,0,11,5,1
+2018-19,33,Tamilnadu,3308,SALEM,330802,PETHANAICKENPALAYAM,1,PS (I-V) ,4,Government Aided,Urban,3,Co-educational,1,1,1,0,1,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330802,PETHANAICKENPALAYAM,1,PS (I-V) ,5,Private Unaided (Recognized),Urban,3,Co-educational,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,0,1,0,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330802,PETHANAICKENPALAYAM,1,PS (I-V) ,8,Unrecognized,Urban,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,1,0,1,1,0,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330802,PETHANAICKENPALAYAM,1,PS (I-V) ,90,Social welfare Department,Urban,3,Co-educational,1,1,1,0,1,1,1,1,1,1,0,0,0,0,1,0,1,0,0,0,0,1,1,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330802,PETHANAICKENPALAYAM,6, SS (I-X) ,5,Private Unaided (Recognized),Rural,3,Co-educational,3,3,0,3,3,3,3,3,3,3,3,3,3,2,3,2,0,3,0,0,1,3,1,2,3,3,0,0,3,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330802,PETHANAICKENPALAYAM,6, SS (I-X) ,5,Private Unaided (Recognized),Urban,3,Co-educational,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,0,2,1,2,0,1,2,2,0,0,2,2,1
+2018-19,33,Tamilnadu,3308,SALEM,330802,PETHANAICKENPALAYAM,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1,1,0,0,0,1,1,1,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330802,PETHANAICKENPALAYAM,7,SS (VI-X),1,Department of Education,Rural,3,Co-educational,9,9,7,6,9,9,9,8,9,9,9,9,8,9,9,3,6,2,0,5,0,9,7,4,6,9,7,0,9,8,0
+2018-19,33,Tamilnadu,3308,SALEM,330802,PETHANAICKENPALAYAM,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,Co-educational,3,3,3,1,3,3,3,3,3,3,3,3,3,3,3,1,0,0,0,0,0,2,3,1,1,3,3,1,3,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330802,PETHANAICKENPALAYAM,2,UPS (I-VIII) ,6,Other Govt. managed schools,Rural,2,Girls,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1,1,1,1,0,1,1,0,1,1,1,1,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330802,PETHANAICKENPALAYAM,2,UPS (I-VIII) ,1,Department of Education,Rural,3,Co-educational,12,12,12,10,11,12,12,12,12,12,12,12,12,12,12,3,1,0,1,2,0,12,12,2,11,12,11,0,12,8,0
+2018-19,33,Tamilnadu,3308,SALEM,330802,PETHANAICKENPALAYAM,2,UPS (I-VIII) ,2,Tribal Welfare Department,Rural,3,Co-educational,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,0,1,1,0,1,1,1,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330802,PETHANAICKENPALAYAM,2,UPS (I-VIII) ,5,Private Unaided (Recognized),Rural,3,Co-educational,3,3,2,2,3,3,3,3,3,3,2,2,2,2,3,1,1,1,0,3,0,3,2,1,3,3,0,0,3,2,0
+2018-19,33,Tamilnadu,3308,SALEM,330802,PETHANAICKENPALAYAM,2,UPS (I-VIII) ,8,Unrecognized,Rural,3,Co-educational,2,2,0,2,0,0,2,2,2,2,2,2,2,2,2,1,1,1,0,1,1,2,0,2,2,2,1,0,2,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330802,PETHANAICKENPALAYAM,2,UPS (I-VIII) ,1,Department of Education,Urban,3,Co-educational,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,1,0,0,0,3,0,3,3,0,2,3,2,0,3,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330803,KADAYAMPATTI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-educational,3,3,1,3,3,3,3,3,3,3,3,3,3,3,3,3,1,3,0,2,0,3,3,0,3,3,1,0,3,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330803,KADAYAMPATTI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,1,1,0,0,1,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330803,KADAYAMPATTI,5, HSS (VI-XII),1,Department of Education,Rural,3,Co-educational,10,9,9,10,10,10,10,10,10,10,9,9,9,9,10,8,8,9,0,6,2,9,10,5,9,10,9,0,10,8,4
+2018-19,33,Tamilnadu,3308,SALEM,330803,KADAYAMPATTI,1,PS (I-V) ,1,Department of Education,Rural,3,Co-educational,72,72,36,12,68,71,72,68,72,72,69,69,61,69,68,16,0,0,5,18,3,71,69,19,62,67,63,1,72,37,27
+2018-19,33,Tamilnadu,3308,SALEM,330803,KADAYAMPATTI,1,PS (I-V) ,4,Government Aided,Rural,3,Co-educational,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330803,KADAYAMPATTI,1,PS (I-V) ,5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330803,KADAYAMPATTI,1,PS (I-V) ,1,Department of Education,Urban,3,Co-educational,4,4,0,0,4,4,4,4,4,4,4,4,3,4,4,2,0,0,0,1,0,4,4,2,4,4,3,0,4,3,3
+2018-19,33,Tamilnadu,3308,SALEM,330803,KADAYAMPATTI,1,PS (I-V) ,5,Private Unaided (Recognized),Urban,3,Co-educational,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,1,0,1,1,0,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330803,KADAYAMPATTI,1,PS (I-V) ,8,Unrecognized,Urban,3,Co-educational,2,2,0,2,0,0,2,2,2,2,2,2,2,2,2,0,0,1,0,1,0,0,0,0,1,1,0,0,2,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330803,KADAYAMPATTI,6, SS (I-X) ,5,Private Unaided (Recognized),Rural,3,Co-educational,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,1,0,2,0,0,0,2,0,0,2,2,1,0,2,2,0
+2018-19,33,Tamilnadu,3308,SALEM,330803,KADAYAMPATTI,6, SS (I-X) ,8,Unrecognized,Rural,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,0,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330803,KADAYAMPATTI,6, SS (I-X) ,5,Private Unaided (Recognized),Urban,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330803,KADAYAMPATTI,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1,1,0,1,0,1,1,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330803,KADAYAMPATTI,7,SS (VI-X),1,Department of Education,Rural,3,Co-educational,4,4,4,3,4,4,4,3,3,3,3,4,4,4,4,1,3,3,0,1,0,4,4,4,4,4,4,0,4,2,2
+2018-19,33,Tamilnadu,3308,SALEM,330803,KADAYAMPATTI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330803,KADAYAMPATTI,2,UPS (I-VIII) ,1,Department of Education,Rural,3,Co-educational,23,23,23,23,21,22,23,22,23,23,23,23,21,22,22,9,2,0,2,5,1,23,23,7,19,23,20,0,23,6,8
+2018-19,33,Tamilnadu,3308,SALEM,330803,KADAYAMPATTI,2,UPS (I-VIII) ,6,Other Govt. managed schools,Rural,3,Co-educational,1,1,1,1,1,1,1,0,1,1,0,0,0,0,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330803,KADAYAMPATTI,2,UPS (I-VIII) ,1,Department of Education,Urban,3,Co-educational,2,2,2,2,2,2,2,1,2,2,2,2,1,2,2,1,0,0,0,1,0,2,2,0,2,2,2,0,2,0,1
+2018-19,33,Tamilnadu,3308,SALEM,330804,MAGUNDANCHAVADI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-educational,4,4,1,3,3,4,4,4,4,4,4,4,4,4,4,4,1,4,1,2,0,4,2,1,3,4,3,0,4,3,1
+2018-19,33,Tamilnadu,3308,SALEM,330804,MAGUNDANCHAVADI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-educational,3,3,2,2,3,3,3,3,3,3,3,3,3,3,3,3,1,3,0,0,0,3,3,0,3,2,1,0,3,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330804,MAGUNDANCHAVADI,5, HSS (VI-XII),1,Department of Education,Rural,1,Boys,1,1,1,0,1,1,1,1,0,1,1,1,1,0,1,1,0,1,0,1,0,1,1,1,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330804,MAGUNDANCHAVADI,5, HSS (VI-XII),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,1,1,0,1,1,0,1,1,0,1,0,1,0,1,1,1,1,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330804,MAGUNDANCHAVADI,5, HSS (VI-XII),1,Department of Education,Rural,3,Co-educational,3,3,3,2,3,3,3,3,3,3,3,3,3,2,3,2,3,3,0,3,2,3,3,1,3,3,3,0,3,3,2
+2018-19,33,Tamilnadu,3308,SALEM,330804,MAGUNDANCHAVADI,5, HSS (VI-XII),1,Department of Education,Urban,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,0,1,1,0,1,1,1,0,1,0,1
+2018-19,33,Tamilnadu,3308,SALEM,330804,MAGUNDANCHAVADI,1,PS (I-V) ,1,Department of Education,Rural,3,Co-educational,43,43,25,17,42,43,43,41,43,43,43,43,41,42,42,3,0,0,2,14,0,42,42,2,36,43,30,0,43,28,4
+2018-19,33,Tamilnadu,3308,SALEM,330804,MAGUNDANCHAVADI,1,PS (I-V) ,5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,1,0,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330804,MAGUNDANCHAVADI,1,PS (I-V) ,1,Department of Education,Urban,3,Co-educational,12,12,5,2,12,12,12,12,11,12,12,12,12,11,12,1,0,0,1,4,0,12,12,0,12,12,9,0,12,9,2
+2018-19,33,Tamilnadu,3308,SALEM,330804,MAGUNDANCHAVADI,1,PS (I-V) ,5,Private Unaided (Recognized),Urban,3,Co-educational,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,1,0,1,0,1,0,2,2,0,2,2,0,0,2,2,1
+2018-19,33,Tamilnadu,3308,SALEM,330804,MAGUNDANCHAVADI,6, SS (I-X) ,5,Private Unaided (Recognized),Rural,3,Co-educational,2,2,1,2,2,2,2,2,2,2,1,1,1,1,2,1,0,2,0,1,0,2,2,0,2,2,2,0,2,2,0
+2018-19,33,Tamilnadu,3308,SALEM,330804,MAGUNDANCHAVADI,7,SS (VI-X),1,Department of Education,Rural,3,Co-educational,2,2,2,1,2,2,2,2,2,2,1,1,1,1,2,1,0,1,0,1,0,1,2,1,2,2,2,0,2,2,1
+2018-19,33,Tamilnadu,3308,SALEM,330804,MAGUNDANCHAVADI,7,SS (VI-X),1,Department of Education,Urban,3,Co-educational,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,0,1,1,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330804,MAGUNDANCHAVADI,2,UPS (I-VIII) ,6,Other Govt. managed schools,Rural,2,Girls,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1,1,0,0,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330804,MAGUNDANCHAVADI,2,UPS (I-VIII) ,1,Department of Education,Rural,3,Co-educational,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,3,5,0,0,2,0,6,6,1,6,6,6,0,6,2,3
+2018-19,33,Tamilnadu,3308,SALEM,330804,MAGUNDANCHAVADI,2,UPS (I-VIII) ,1,Department of Education,Urban,3,Co-educational,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,1,0,0,1,1,0,5,5,0,4,5,4,0,5,3,2
+2018-19,33,Tamilnadu,3308,SALEM,330805,KONGANAPURAM,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330805,KONGANAPURAM,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,0,1,0,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330805,KONGANAPURAM,5, HSS (VI-XII),1,Department of Education,Urban,1,Boys,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1,0,1,0,1,1,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330805,KONGANAPURAM,5, HSS (VI-XII),1,Department of Education,Urban,2,Girls,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1,1,0,0,0,1,1,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330805,KONGANAPURAM,5, HSS (VI-XII),1,Department of Education,Rural,3,Co-educational,3,3,3,3,3,3,3,3,3,3,3,3,2,3,3,1,3,3,0,3,1,3,3,1,3,3,3,0,3,2,1
+2018-19,33,Tamilnadu,3308,SALEM,330805,KONGANAPURAM,1,PS (I-V) ,1,Department of Education,Rural,3,Co-educational,31,31,15,22,30,31,31,30,29,29,25,26,26,25,31,5,1,0,3,6,0,28,31,0,31,29,26,0,31,12,2
+2018-19,33,Tamilnadu,3308,SALEM,330805,KONGANAPURAM,1,PS (I-V) ,5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330805,KONGANAPURAM,1,PS (I-V) ,1,Department of Education,Urban,3,Co-educational,4,4,3,3,3,4,4,4,4,4,4,4,4,4,4,0,0,0,0,2,0,4,4,0,4,4,1,0,4,4,2
+2018-19,33,Tamilnadu,3308,SALEM,330805,KONGANAPURAM,1,PS (I-V) ,5,Private Unaided (Recognized),Urban,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,1,0,0,1,1,0,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330805,KONGANAPURAM,6, SS (I-X) ,8,Unrecognized,Rural,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,0,1,0,1,1,0,1,1,0,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330805,KONGANAPURAM,6, SS (I-X) ,5,Private Unaided (Recognized),Urban,3,Co-educational,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330805,KONGANAPURAM,6, SS (I-X) ,8,Unrecognized,Urban,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,0,1,1,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330805,KONGANAPURAM,7,SS (VI-X),1,Department of Education,Rural,3,Co-educational,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,2,1,0,3,0,4,4,2,4,4,4,0,4,4,1
+2018-19,33,Tamilnadu,3308,SALEM,330805,KONGANAPURAM,2,UPS (I-VIII) ,6,Other Govt. managed schools,Rural,2,Girls,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1,1,1,0,0,1,1,0,1,1,1,1,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330805,KONGANAPURAM,2,UPS (I-VIII) ,1,Department of Education,Rural,3,Co-educational,21,21,21,20,20,20,21,21,21,21,19,19,19,19,21,10,13,0,3,4,0,21,21,0,19,21,21,0,21,7,2
+2018-19,33,Tamilnadu,3308,SALEM,330805,KONGANAPURAM,2,UPS (I-VIII) ,1,Department of Education,Urban,3,Co-educational,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,0,0,2,0,2,2,1,2,2,2,0,2,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330806,PANAMARATHUPATTI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-educational,4,4,1,2,3,3,4,4,4,4,4,4,4,4,4,4,0,4,0,2,0,4,2,0,4,3,0,0,4,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330806,PANAMARATHUPATTI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-educational,2,2,1,2,2,2,2,2,2,2,1,1,1,1,2,2,0,0,0,1,1,2,1,0,2,2,1,0,2,2,0
+2018-19,33,Tamilnadu,3308,SALEM,330806,PANAMARATHUPATTI,5, HSS (VI-XII),5,Private Unaided (Recognized),Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330806,PANAMARATHUPATTI,5, HSS (VI-XII),1,Department of Education,Urban,1,Boys,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1,0,1,0,1,1,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330806,PANAMARATHUPATTI,5, HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,1,1,0,1,1,1,0,1,0,0,0,1,0,1,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330806,PANAMARATHUPATTI,5, HSS (VI-XII),1,Department of Education,Rural,3,Co-educational,5,5,5,3,5,5,5,5,5,5,4,4,4,4,5,5,3,3,1,3,0,5,5,1,5,5,5,0,5,3,3
+2018-19,33,Tamilnadu,3308,SALEM,330806,PANAMARATHUPATTI,5, HSS (VI-XII),1,Department of Education,Urban,3,Co-educational,3,3,2,3,3,3,3,2,3,3,3,3,2,3,3,1,2,3,0,3,0,3,2,1,3,3,3,0,3,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330806,PANAMARATHUPATTI,1,PS (I-V) ,1,Department of Education,Rural,3,Co-educational,28,28,11,13,27,28,28,27,28,28,26,26,25,25,27,7,0,0,0,4,0,28,26,5,19,26,13,0,28,20,4
+2018-19,33,Tamilnadu,3308,SALEM,330806,PANAMARATHUPATTI,1,PS (I-V) ,2,Tribal Welfare Department,Rural,3,Co-educational,1,1,0,0,1,1,1,0,1,1,1,1,0,1,1,0,1,0,1,0,0,1,1,0,0,1,1,1,1,0,1
+2018-19,33,Tamilnadu,3308,SALEM,330806,PANAMARATHUPATTI,1,PS (I-V) ,5,Private Unaided (Recognized),Rural,3,Co-educational,3,3,2,1,2,2,3,2,2,2,2,3,2,3,2,1,0,1,0,0,0,1,2,0,2,2,0,0,3,2,0
+2018-19,33,Tamilnadu,3308,SALEM,330806,PANAMARATHUPATTI,1,PS (I-V) ,8,Unrecognized,Rural,3,Co-educational,3,3,0,0,1,2,3,3,3,3,3,3,3,3,3,2,0,1,0,0,0,2,1,0,2,3,0,0,3,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330806,PANAMARATHUPATTI,1,PS (I-V) ,1,Department of Education,Urban,3,Co-educational,5,5,2,3,5,5,5,4,5,5,5,5,4,5,5,1,0,0,1,0,0,5,5,1,2,5,3,0,5,4,1
+2018-19,33,Tamilnadu,3308,SALEM,330806,PANAMARATHUPATTI,1,PS (I-V) ,5,Private Unaided (Recognized),Urban,3,Co-educational,5,5,2,3,5,5,5,5,5,5,4,4,4,4,5,2,0,0,0,3,0,5,4,0,5,5,0,0,5,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330806,PANAMARATHUPATTI,1,PS (I-V) ,8,Unrecognized,Urban,3,Co-educational,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330806,PANAMARATHUPATTI,6, SS (I-X) ,5,Private Unaided (Recognized),Rural,3,Co-educational,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,0,1,1,2,2,1,2,2,0,0,2,2,1
+2018-19,33,Tamilnadu,3308,SALEM,330806,PANAMARATHUPATTI,6, SS (I-X) ,8,Unrecognized,Rural,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,1,1,1,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330806,PANAMARATHUPATTI,6, SS (I-X) ,5,Private Unaided (Recognized),Urban,3,Co-educational,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330806,PANAMARATHUPATTI,7,SS (VI-X),1,Department of Education,Rural,3,Co-educational,4,4,3,1,4,4,4,4,4,4,4,4,4,4,3,2,0,1,0,0,0,2,3,1,2,4,3,0,4,2,0
+2018-19,33,Tamilnadu,3308,SALEM,330806,PANAMARATHUPATTI,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,Co-educational,1,1,1,0,1,1,1,0,1,1,1,1,0,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330806,PANAMARATHUPATTI,2,UPS (I-VIII) ,6,Other Govt. managed schools,Rural,2,Girls,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1,0,1,0,0,1,1,1,1,1,0,0,1,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330806,PANAMARATHUPATTI,2,UPS (I-VIII) ,1,Department of Education,Rural,3,Co-educational,16,16,13,16,15,16,16,15,16,16,15,15,14,14,16,8,6,0,1,6,0,16,14,1,13,15,15,0,16,11,3
+2018-19,33,Tamilnadu,3308,SALEM,330806,PANAMARATHUPATTI,2,UPS (I-VIII) ,1,Department of Education,Urban,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330806,PANAMARATHUPATTI,2,UPS (I-VIII) ,8,Unrecognized,Urban,3,Co-educational,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330807,THALAIVASAL,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-educational,7,7,4,6,7,7,7,7,7,7,7,7,7,7,6,5,2,6,0,2,1,7,5,3,7,5,1,0,7,6,1
+2018-19,33,Tamilnadu,3308,SALEM,330807,THALAIVASAL,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330807,THALAIVASAL,5, HSS (VI-XII),1,Department of Education,Rural,1,Boys,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,0,0,1,0,1,0,1,1,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330807,THALAIVASAL,5, HSS (VI-XII),1,Department of Education,Urban,1,Boys,1,1,0,0,1,1,1,1,0,1,1,1,1,0,1,1,0,0,1,0,0,1,0,1,1,1,1,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330807,THALAIVASAL,5, HSS (VI-XII),1,Department of Education,Rural,2,Girls,2,2,1,2,2,2,2,0,2,2,2,2,0,2,2,1,1,2,0,1,0,2,2,2,2,2,2,0,2,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330807,THALAIVASAL,5, HSS (VI-XII),5,Private Unaided (Recognized),Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,1,1,0,1,1,1,0,1,0,0,0,1,0,1,1,1,0,0,1,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330807,THALAIVASAL,5, HSS (VI-XII),1,Department of Education,Rural,3,Co-educational,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,3,3,5,1,3,0,6,6,1,6,6,6,1,6,5,0
+2018-19,33,Tamilnadu,3308,SALEM,330807,THALAIVASAL,5, HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-educational,4,4,1,3,3,3,4,4,4,4,3,3,3,3,3,4,2,2,0,2,0,4,2,1,4,4,0,0,4,4,0
+2018-19,33,Tamilnadu,3308,SALEM,330807,THALAIVASAL,5, HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,Co-educational,1,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330807,THALAIVASAL,1,PS (I-V) ,1,Department of Education,Rural,3,Co-educational,60,60,43,13,53,56,60,60,60,60,56,56,55,56,60,8,0,1,11,25,0,60,57,7,58,59,44,0,60,34,15
+2018-19,33,Tamilnadu,3308,SALEM,330807,THALAIVASAL,1,PS (I-V) ,5,Private Unaided (Recognized),Rural,3,Co-educational,7,7,2,5,7,7,7,7,7,7,7,7,7,7,7,2,0,3,0,3,1,7,3,2,7,5,1,0,7,4,0
+2018-19,33,Tamilnadu,3308,SALEM,330807,THALAIVASAL,1,PS (I-V) ,1,Department of Education,Urban,3,Co-educational,4,4,4,0,4,4,4,4,4,4,4,4,4,4,4,0,0,0,0,1,0,4,4,1,4,4,4,0,4,3,1
+2018-19,33,Tamilnadu,3308,SALEM,330807,THALAIVASAL,1,PS (I-V) ,5,Private Unaided (Recognized),Urban,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,0,1,0,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330807,THALAIVASAL,6, SS (I-X) ,5,Private Unaided (Recognized),Rural,3,Co-educational,5,5,2,4,5,5,5,5,5,5,5,5,5,4,5,5,1,5,0,1,2,5,5,2,5,5,3,0,5,5,1
+2018-19,33,Tamilnadu,3308,SALEM,330807,THALAIVASAL,6, SS (I-X) ,8,Unrecognized,Rural,3,Co-educational,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330807,THALAIVASAL,6, SS (I-X) ,5,Private Unaided (Recognized),Urban,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330807,THALAIVASAL,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1,1,0,0,0,1,1,1,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330807,THALAIVASAL,7,SS (VI-X),1,Department of Education,Rural,3,Co-educational,13,13,12,8,13,13,13,13,13,13,13,13,13,13,13,9,8,7,1,5,0,13,12,4,13,13,13,0,13,10,3
+2018-19,33,Tamilnadu,3308,SALEM,330807,THALAIVASAL,2,UPS (I-VIII) ,1,Department of Education,Rural,3,Co-educational,15,15,13,15,14,14,15,15,15,15,13,13,13,13,15,3,2,4,1,8,0,15,13,2,15,15,15,0,15,14,4
+2018-19,33,Tamilnadu,3308,SALEM,330807,THALAIVASAL,2,UPS (I-VIII) ,5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330807,THALAIVASAL,2,UPS (I-VIII) ,1,Department of Education,Urban,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1,1,0,1,1,1,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330808,VEERAPANDI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-educational,2,2,1,1,2,2,2,2,2,2,2,2,2,2,2,2,0,1,0,2,0,2,2,0,2,2,1,0,2,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330808,VEERAPANDI,5, HSS (VI-XII),1,Department of Education,Rural,1,Boys,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1,0,0,0,1,1,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330808,VEERAPANDI,5, HSS (VI-XII),1,Department of Education,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1,0,1,0,1,0,1,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330808,VEERAPANDI,5, HSS (VI-XII),1,Department of Education,Rural,2,Girls,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,1,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330808,VEERAPANDI,5, HSS (VI-XII),1,Department of Education,Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,1,1,0,1,1,1,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330808,VEERAPANDI,5, HSS (VI-XII),1,Department of Education,Rural,3,Co-educational,4,4,3,4,4,4,4,4,4,4,4,4,4,4,3,3,2,3,0,1,0,4,3,0,4,4,4,0,4,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330808,VEERAPANDI,5, HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-educational,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,1,2,0,2,1,2,2,2,2,2,1,1,2,2,2
+2018-19,33,Tamilnadu,3308,SALEM,330808,VEERAPANDI,1,PS (I-V) ,1,Department of Education,Rural,3,Co-educational,44,44,11,16,42,43,44,40,42,43,40,41,40,38,42,7,1,0,2,6,0,43,42,2,24,43,31,0,44,23,2
+2018-19,33,Tamilnadu,3308,SALEM,330808,VEERAPANDI,1,PS (I-V) ,4,Government Aided,Rural,3,Co-educational,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330808,VEERAPANDI,1,PS (I-V) ,5,Private Unaided (Recognized),Rural,3,Co-educational,6,6,3,2,4,5,6,6,6,6,6,6,6,6,6,3,0,2,0,1,0,3,5,1,6,6,1,0,6,4,1
+2018-19,33,Tamilnadu,3308,SALEM,330808,VEERAPANDI,1,PS (I-V) ,8,Unrecognized,Rural,3,Co-educational,2,2,0,1,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,0,0,1,0,0,2,2,0,0,1,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330808,VEERAPANDI,1,PS (I-V) ,90,Social welfare Department,Rural,3,Co-educational,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330808,VEERAPANDI,1,PS (I-V) ,1,Department of Education,Urban,3,Co-educational,3,3,2,1,3,3,3,3,3,3,2,2,2,2,3,0,0,0,0,1,0,3,3,0,2,2,1,0,3,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330808,VEERAPANDI,1,PS (I-V) ,5,Private Unaided (Recognized),Urban,3,Co-educational,2,2,1,1,2,2,2,2,2,2,1,1,0,1,2,1,0,1,0,0,0,2,2,0,2,2,0,0,2,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330808,VEERAPANDI,6, SS (I-X) ,5,Private Unaided (Recognized),Rural,3,Co-educational,6,6,3,5,6,6,6,6,6,6,6,6,6,5,6,6,2,6,0,5,1,6,5,3,6,6,6,1,6,5,2
+2018-19,33,Tamilnadu,3308,SALEM,330808,VEERAPANDI,7,SS (VI-X),1,Department of Education,Rural,3,Co-educational,5,5,5,4,5,5,5,5,5,5,5,5,5,3,4,3,4,2,0,2,0,5,5,0,3,5,4,0,5,4,0
+2018-19,33,Tamilnadu,3308,SALEM,330808,VEERAPANDI,2,UPS (I-VIII) ,6,Other Govt. managed schools,Urban,2,Girls,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1,1,0,0,0,1,1,0,1,0,0,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330808,VEERAPANDI,2,UPS (I-VIII) ,1,Department of Education,Rural,3,Co-educational,13,13,13,13,13,13,13,13,13,13,12,12,12,11,12,9,8,0,2,4,0,13,13,4,13,12,11,0,13,9,2
+2018-19,33,Tamilnadu,3308,SALEM,330808,VEERAPANDI,2,UPS (I-VIII) ,1,Department of Education,Urban,3,Co-educational,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,1,0,0,0,0,0,2,2,0,2,2,0,0,2,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,2,Girls,1,1,1,1,0,0,1,0,1,1,1,1,0,1,1,0,1,1,0,0,0,1,1,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-educational,9,9,3,6,9,9,9,9,9,9,9,9,9,9,9,9,1,7,0,3,1,9,3,3,9,8,1,0,9,8,2
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,3,HSS (I-XII),8,Unrecognized,Rural,3,Co-educational,4,4,1,4,3,3,4,4,4,4,4,4,4,4,4,3,2,4,2,1,1,4,4,2,4,4,1,0,4,3,1
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-educational,7,7,3,6,6,6,7,7,7,7,6,6,6,3,7,7,4,7,0,1,1,7,6,2,7,7,2,0,7,6,2
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,10,HSS (IX-XII),90,Social welfare Department,Urban,2,Girls,1,1,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,5, HSS (VI-XII),4,Government Aided,Rural,2,Girls,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,0,1,0,0,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,5, HSS (VI-XII),1,Department of Education,Rural,3,Co-educational,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,0,3,0,3,3,1,3,3,3,0,3,3,1
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,5, HSS (VI-XII),4,Government Aided,Rural,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,0,1,0,1,1,1,1,1,1,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,5, HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,5, HSS (VI-XII),1,Department of Education,Urban,3,Co-educational,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,0,1,0,2,2,0,2,2,2,0,2,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,5, HSS (VI-XII),4,Government Aided,Urban,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,1,1,1,1,1,0,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,5, HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,Co-educational,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,1,PS (I-V) ,1,Department of Education,Rural,3,Co-educational,15,15,6,11,14,14,15,15,15,15,14,14,13,14,15,7,0,0,0,2,0,13,14,3,9,15,12,0,15,10,5
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,1,PS (I-V) ,4,Government Aided,Rural,3,Co-educational,2,2,0,0,2,2,2,2,2,2,1,1,1,1,2,1,1,0,1,1,0,2,1,0,2,2,2,0,2,2,0
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,1,PS (I-V) ,5,Private Unaided (Recognized),Rural,3,Co-educational,13,13,8,8,13,13,13,13,13,13,12,12,12,12,13,6,0,7,0,2,0,12,10,1,13,13,1,1,13,8,2
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,1,PS (I-V) ,8,Unrecognized,Rural,3,Co-educational,2,2,0,2,1,2,2,2,2,2,2,2,2,2,2,0,0,2,0,1,0,2,0,1,2,2,2,0,2,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,1,PS (I-V) ,1,Department of Education,Urban,3,Co-educational,12,12,6,3,12,12,12,12,12,12,11,11,11,11,12,2,0,0,1,0,0,12,12,6,9,11,11,0,12,8,2
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,1,PS (I-V) ,3,Local body,Urban,3,Co-educational,3,3,3,0,2,2,3,3,3,3,2,2,2,2,3,1,0,0,0,0,0,3,3,0,3,3,2,0,3,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,1,PS (I-V) ,4,Government Aided,Urban,3,Co-educational,4,4,4,0,4,4,4,4,4,4,3,3,3,3,4,2,0,0,3,1,0,4,4,2,4,4,0,0,4,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,1,PS (I-V) ,5,Private Unaided (Recognized),Urban,3,Co-educational,19,19,11,13,18,19,19,19,19,19,16,16,16,16,19,13,0,10,0,6,1,17,14,6,18,19,3,0,19,15,1
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,1,PS (I-V) ,8,Unrecognized,Urban,3,Co-educational,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,1,0,2,0,1,0,3,3,0,3,3,1,0,3,2,0
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,6, SS (I-X) ,5,Private Unaided (Recognized),Rural,3,Co-educational,6,6,3,6,4,4,6,6,6,6,6,6,6,5,6,6,3,6,0,2,1,6,4,2,6,6,1,0,6,6,0
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,6, SS (I-X) ,8,Unrecognized,Rural,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,1,0,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,6, SS (I-X) ,5,Private Unaided (Recognized),Urban,3,Co-educational,3,3,2,2,3,3,3,3,3,3,3,3,3,2,3,3,0,3,0,1,0,3,3,0,3,3,1,0,3,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,6, SS (I-X) ,90,Social welfare Department,Urban,3,Co-educational,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,0,0,0,0,0,0,1,1,0,0,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,7,SS (VI-X),1,Department of Education,Rural,3,Co-educational,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,3,4,4,1,4,0,5,5,4,4,4,4,0,5,4,4
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,7,SS (VI-X),3,Local body,Rural,3,Co-educational,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,1,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,7,SS (VI-X),1,Department of Education,Urban,3,Co-educational,3,3,3,3,2,3,3,3,3,3,2,2,2,2,3,1,2,0,1,1,0,3,3,0,2,3,3,0,3,2,0
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,2,UPS (I-VIII) ,1,Department of Education,Rural,3,Co-educational,9,9,8,9,9,9,9,9,9,9,9,9,9,9,9,7,1,1,1,5,0,9,8,3,9,9,9,0,9,8,4
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,2,UPS (I-VIII) ,1,Department of Education,Urban,3,Co-educational,11,11,10,11,10,11,11,11,11,11,10,10,10,9,10,7,3,1,1,1,0,11,10,1,10,10,10,3,11,11,0
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,2,UPS (I-VIII) ,3,Local body,Urban,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,0,1,1,1,1,1,0,0,1,0,1
+2018-19,33,Tamilnadu,3308,SALEM,330809,SALEM-RURAL,2,UPS (I-VIII) ,5,Private Unaided (Recognized),Urban,3,Co-educational,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330810,THARAMANGALAM,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-educational,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,1,0,2,0,1,0,2,2,0,2,2,0,0,2,2,0
+2018-19,33,Tamilnadu,3308,SALEM,330810,THARAMANGALAM,5, HSS (VI-XII),4,Government Aided,Urban,1,Boys,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1,0,0,1,1,1,1,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330810,THARAMANGALAM,5, HSS (VI-XII),1,Department of Education,Urban,2,Girls,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,1,0,1,1,0,1,1,1,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330810,THARAMANGALAM,5, HSS (VI-XII),1,Department of Education,Rural,3,Co-educational,6,6,5,6,6,6,6,5,5,5,5,5,5,5,6,4,5,4,0,4,0,6,5,2,6,6,5,0,6,5,1
+2018-19,33,Tamilnadu,3308,SALEM,330810,THARAMANGALAM,5, HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,Co-educational,2,2,1,1,2,2,2,2,2,2,2,2,2,2,2,1,0,2,0,2,0,2,1,1,2,2,0,0,2,2,0
+2018-19,33,Tamilnadu,3308,SALEM,330810,THARAMANGALAM,1,PS (I-V) ,1,Department of Education,Rural,3,Co-educational,39,39,13,9,37,37,39,39,37,39,37,37,37,34,35,4,0,0,3,13,0,38,37,6,36,36,32,0,39,19,6
+2018-19,33,Tamilnadu,3308,SALEM,330810,THARAMANGALAM,1,PS (I-V) ,5,Private Unaided (Recognized),Rural,3,Co-educational,5,5,2,4,4,4,5,5,5,5,5,5,5,5,5,1,0,1,0,3,0,4,3,0,5,4,0,0,5,2,0
+2018-19,33,Tamilnadu,3308,SALEM,330810,THARAMANGALAM,1,PS (I-V) ,1,Department of Education,Urban,3,Co-educational,4,4,2,1,4,4,4,4,4,4,3,3,3,3,4,1,0,0,0,1,0,4,4,1,2,4,4,0,4,2,1
+2018-19,33,Tamilnadu,3308,SALEM,330810,THARAMANGALAM,1,PS (I-V) ,5,Private Unaided (Recognized),Urban,3,Co-educational,5,5,2,3,4,4,5,5,5,5,5,5,5,5,5,2,0,3,0,2,0,5,2,0,5,5,1,0,5,5,0
+2018-19,33,Tamilnadu,3308,SALEM,330810,THARAMANGALAM,1,PS (I-V) ,8,Unrecognized,Urban,3,Co-educational,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,0,1,0,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330810,THARAMANGALAM,6, SS (I-X) ,5,Private Unaided (Recognized),Rural,3,Co-educational,4,4,1,4,4,4,4,4,4,4,4,4,4,4,4,3,1,3,0,4,0,4,3,0,4,3,2,0,4,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330810,THARAMANGALAM,6, SS (I-X) ,5,Private Unaided (Recognized),Urban,3,Co-educational,2,2,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,1,0,0,0,2,1,1,2,2,1,0,2,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330810,THARAMANGALAM,7,SS (VI-X),1,Department of Education,Rural,3,Co-educational,4,4,4,4,3,3,4,4,4,4,4,4,4,4,4,3,2,2,0,2,0,4,4,1,3,4,4,0,4,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330810,THARAMANGALAM,2,UPS (I-VIII) ,6,Other Govt. managed schools,Rural,2,Girls,1,1,1,1,1,1,1,0,1,1,0,0,0,0,1,0,1,0,0,1,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330810,THARAMANGALAM,2,UPS (I-VIII) ,1,Department of Education,Rural,3,Co-educational,20,20,16,18,20,20,20,20,20,20,17,17,17,14,18,11,5,0,0,10,0,20,18,1,19,18,14,0,20,16,0
+2018-19,33,Tamilnadu,3308,SALEM,330810,THARAMANGALAM,2,UPS (I-VIII) ,1,Department of Education,Urban,3,Co-educational,5,5,4,3,5,5,5,4,5,5,4,4,3,4,5,3,0,0,0,0,0,5,4,0,4,5,5,0,5,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330811,NANGAVALLI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,0,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330811,NANGAVALLI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-educational,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,1,4,0,0,0,4,4,0,4,4,2,0,4,4,0
+2018-19,33,Tamilnadu,3308,SALEM,330811,NANGAVALLI,5, HSS (VI-XII),1,Department of Education,Rural,1,Boys,1,1,1,0,1,1,1,1,0,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330811,NANGAVALLI,5, HSS (VI-XII),1,Department of Education,Urban,1,Boys,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1,1,1,0,1,1,1,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330811,NANGAVALLI,5, HSS (VI-XII),1,Department of Education,Rural,2,Girls,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,1,0,1,1,0,1,1,0,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330811,NANGAVALLI,5, HSS (VI-XII),1,Department of Education,Urban,2,Girls,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1,1,0,0,0,1,1,0,1,1,1,0,1,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330811,NANGAVALLI,5, HSS (VI-XII),1,Department of Education,Rural,3,Co-educational,3,3,3,3,3,3,3,3,3,3,3,3,2,3,3,2,3,2,0,0,0,2,3,0,2,3,3,0,3,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330811,NANGAVALLI,5, HSS (VI-XII),1,Department of Education,Urban,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,0,1,1,0,1,1,1,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330811,NANGAVALLI,1,PS (I-V) ,1,Department of Education,Rural,3,Co-educational,38,38,14,10,37,38,38,38,38,38,37,37,37,37,38,9,4,0,2,14,0,36,38,8,34,37,34,0,38,27,5
+2018-19,33,Tamilnadu,3308,SALEM,330811,NANGAVALLI,1,PS (I-V) ,5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,1,0,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330811,NANGAVALLI,1,PS (I-V) ,8,Unrecognized,Rural,3,Co-educational,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330811,NANGAVALLI,1,PS (I-V) ,1,Department of Education,Urban,3,Co-educational,12,12,6,3,12,12,12,12,12,12,12,12,12,11,12,3,0,0,3,4,0,12,12,1,12,12,11,0,12,8,1
+2018-19,33,Tamilnadu,3308,SALEM,330811,NANGAVALLI,1,PS (I-V) ,4,Government Aided,Urban,3,Co-educational,2,2,1,1,2,2,2,2,2,2,1,1,1,1,2,1,0,0,0,1,0,1,2,0,1,2,1,0,2,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330811,NANGAVALLI,1,PS (I-V) ,5,Private Unaided (Recognized),Urban,3,Co-educational,4,4,2,4,4,4,4,4,4,4,4,4,4,4,4,2,0,3,1,1,0,4,2,2,4,4,1,0,4,4,1
+2018-19,33,Tamilnadu,3308,SALEM,330811,NANGAVALLI,6, SS (I-X) ,5,Private Unaided (Recognized),Rural,3,Co-educational,2,2,1,2,2,2,2,2,2,2,2,2,2,1,2,1,0,2,0,1,0,2,1,1,2,1,0,0,2,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330811,NANGAVALLI,6, SS (I-X) ,5,Private Unaided (Recognized),Urban,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,0,1,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330811,NANGAVALLI,7,SS (VI-X),1,Department of Education,Rural,3,Co-educational,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,0,2,0,2,2,0,2,2,2,0,2,2,1
+2018-19,33,Tamilnadu,3308,SALEM,330811,NANGAVALLI,7,SS (VI-X),1,Department of Education,Urban,3,Co-educational,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,1,1,0,0,1,0,2,1,0,2,2,1,0,2,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330811,NANGAVALLI,7,SS (VI-X),4,Government Aided,Urban,3,Co-educational,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,0,1,1,1,1,1,1,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330811,NANGAVALLI,2,UPS (I-VIII) ,6,Other Govt. managed schools,Urban,2,Girls,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1,1,0,0,0,1,1,1,1,1,1,0,1,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330811,NANGAVALLI,2,UPS (I-VIII) ,1,Department of Education,Rural,3,Co-educational,18,18,18,18,18,18,18,18,18,18,18,18,18,17,18,6,10,0,3,7,0,16,18,4,14,17,17,0,18,15,3
+2018-19,33,Tamilnadu,3308,SALEM,330811,NANGAVALLI,2,UPS (I-VIII) ,5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330811,NANGAVALLI,2,UPS (I-VIII) ,1,Department of Education,Urban,3,Co-educational,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,1,3,0,0,1,0,6,6,3,5,6,6,0,6,6,0
+2018-19,33,Tamilnadu,3308,SALEM,330811,NANGAVALLI,2,UPS (I-VIII) ,5,Private Unaided (Recognized),Urban,3,Co-educational,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,0,1,0,2,2,0,2,2,1,0,2,2,0
+2018-19,33,Tamilnadu,3308,SALEM,330812,EDAPPADI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,1,0,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330812,EDAPPADI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-educational,4,4,0,3,4,4,4,4,4,4,4,4,4,4,4,3,1,4,0,2,0,4,2,0,4,4,1,0,4,4,0
+2018-19,33,Tamilnadu,3308,SALEM,330812,EDAPPADI,5, HSS (VI-XII),1,Department of Education,Urban,1,Boys,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1,0,0,0,1,1,0,1,1,1,0,1,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330812,EDAPPADI,5, HSS (VI-XII),1,Department of Education,Urban,2,Girls,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1,1,0,1,1,1,1,1,1,1,1,0,1,0,1
+2018-19,33,Tamilnadu,3308,SALEM,330812,EDAPPADI,5, HSS (VI-XII),1,Department of Education,Rural,3,Co-educational,5,5,5,5,5,5,5,5,5,5,5,5,4,4,4,4,5,5,0,3,0,5,5,1,5,5,5,0,5,3,2
+2018-19,33,Tamilnadu,3308,SALEM,330812,EDAPPADI,5, HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330812,EDAPPADI,5, HSS (VI-XII),1,Department of Education,Urban,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,1,0,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330812,EDAPPADI,1,PS (I-V) ,1,Department of Education,Rural,3,Co-educational,45,45,18,17,42,44,45,45,45,45,44,44,44,44,45,3,3,0,5,8,0,45,38,4,42,42,38,1,45,13,18
+2018-19,33,Tamilnadu,3308,SALEM,330812,EDAPPADI,1,PS (I-V) ,5,Private Unaided (Recognized),Rural,3,Co-educational,3,3,1,3,3,3,3,3,3,3,3,3,3,3,3,3,1,2,0,0,0,3,1,0,3,3,0,0,3,2,0
+2018-19,33,Tamilnadu,3308,SALEM,330812,EDAPPADI,1,PS (I-V) ,1,Department of Education,Urban,3,Co-educational,6,6,5,3,6,6,6,6,6,6,6,6,5,6,6,2,0,0,0,1,0,6,6,0,6,5,6,0,6,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330812,EDAPPADI,1,PS (I-V) ,3,Local body,Urban,3,Co-educational,14,14,8,7,13,14,14,13,14,14,12,12,12,12,14,2,0,0,1,3,0,13,14,0,8,14,12,0,14,6,8
+2018-19,33,Tamilnadu,3308,SALEM,330812,EDAPPADI,1,PS (I-V) ,4,Government Aided,Urban,3,Co-educational,2,2,2,0,1,2,2,2,2,2,2,2,2,2,2,0,0,0,1,1,0,2,2,0,2,2,1,0,2,0,1
+2018-19,33,Tamilnadu,3308,SALEM,330812,EDAPPADI,1,PS (I-V) ,5,Private Unaided (Recognized),Urban,3,Co-educational,4,4,1,4,4,4,4,4,4,4,4,4,4,4,4,2,0,3,0,2,0,4,2,1,4,4,1,0,4,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330812,EDAPPADI,1,PS (I-V) ,8,Unrecognized,Urban,3,Co-educational,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,0,0,1,1,1,0,0,1,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330812,EDAPPADI,6, SS (I-X) ,8,Unrecognized,Rural,3,Co-educational,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,0,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330812,EDAPPADI,6, SS (I-X) ,5,Private Unaided (Recognized),Urban,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,0,0,1,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330812,EDAPPADI,7,SS (VI-X),1,Department of Education,Rural,3,Co-educational,6,5,6,4,6,6,6,6,6,6,6,6,6,6,5,4,2,5,2,4,0,6,6,3,5,5,6,0,6,4,4
+2018-19,33,Tamilnadu,3308,SALEM,330812,EDAPPADI,2,UPS (I-VIII) ,6,Other Govt. managed schools,Rural,2,Girls,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1,0,1,1,0,1,1,1,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330812,EDAPPADI,2,UPS (I-VIII) ,1,Department of Education,Rural,3,Co-educational,8,8,7,8,8,8,8,8,8,8,8,8,8,8,8,2,4,0,0,1,0,8,8,0,8,8,7,0,8,1,4
+2018-19,33,Tamilnadu,3308,SALEM,330812,EDAPPADI,2,UPS (I-VIII) ,1,Department of Education,Urban,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330812,EDAPPADI,2,UPS (I-VIII) ,3,Local body,Urban,3,Co-educational,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,0,0,1,1,0,1,2,0,2,2,2,0,2,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330812,EDAPPADI,2,UPS (I-VIII) ,5,Private Unaided (Recognized),Urban,3,Co-educational,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,0,0,1,1,0,0,1,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-educational,6,6,4,3,6,6,6,6,6,6,6,6,6,6,6,6,1,5,0,3,0,6,6,1,6,5,2,0,6,6,0
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,3,HSS (I-XII),8,Unrecognized,Rural,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,1,0,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-educational,4,4,1,4,4,4,4,4,4,4,4,4,4,4,4,4,2,3,0,1,0,4,2,0,4,4,0,0,4,4,0
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,5, HSS (VI-XII),1,Department of Education,Urban,1,Boys,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1,0,1,0,1,1,1,1,1,1,0,1,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,5, HSS (VI-XII),1,Department of Education,Urban,2,Girls,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,1,0,1,1,0,1,1,1,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,5, HSS (VI-XII),1,Department of Education,Rural,3,Co-educational,5,5,4,2,5,5,5,5,5,5,5,5,5,4,5,3,5,4,0,3,0,5,4,1,5,5,5,0,5,5,1
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,5, HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,0,0,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,5, HSS (VI-XII),90,Social welfare Department,Rural,3,Co-educational,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,1,1,1,0,0,0,1,1,0,0,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,5, HSS (VI-XII),1,Department of Education,Urban,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,0,1,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,5, HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,0,0,1,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,1,PS (I-V) ,1,Department of Education,Rural,3,Co-educational,41,41,34,5,36,40,41,39,40,41,41,41,40,41,41,3,0,0,6,6,1,39,39,6,37,38,30,0,41,9,19
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,1,PS (I-V) ,2,Tribal Welfare Department,Rural,3,Co-educational,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,1,0,1,1,1,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,1,PS (I-V) ,4,Government Aided,Rural,3,Co-educational,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,1,PS (I-V) ,5,Private Unaided (Recognized),Rural,3,Co-educational,11,11,4,8,9,9,11,9,9,9,9,11,9,11,7,5,0,2,0,4,0,9,7,0,9,6,2,0,11,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,1,PS (I-V) ,90,Social welfare Department,Rural,3,Co-educational,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,1,PS (I-V) ,1,Department of Education,Urban,3,Co-educational,10,10,8,2,9,9,10,9,10,10,10,10,9,10,10,2,0,0,2,1,0,10,10,2,9,7,7,0,10,6,5
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,1,PS (I-V) ,2,Tribal Welfare Department,Urban,3,Co-educational,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,1,0,1,1,1,1,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,1,PS (I-V) ,3,Local body,Urban,3,Co-educational,6,6,5,0,6,6,6,6,6,6,6,6,6,6,6,0,0,0,2,1,0,6,6,4,3,6,5,1,6,4,5
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,1,PS (I-V) ,4,Government Aided,Urban,3,Co-educational,4,4,3,0,4,4,4,4,4,4,4,4,4,3,3,1,0,1,1,1,0,4,4,0,4,4,1,0,4,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,1,PS (I-V) ,5,Private Unaided (Recognized),Urban,3,Co-educational,12,12,7,8,12,12,12,12,12,12,12,12,12,12,12,4,1,5,0,1,1,10,7,2,11,9,2,0,12,6,1
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,1,PS (I-V) ,8,Unrecognized,Urban,3,Co-educational,5,5,2,4,5,5,5,5,5,5,5,5,5,5,5,4,0,2,0,0,0,4,2,0,5,4,0,0,5,2,0
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,1,PS (I-V) ,90,Social welfare Department,Urban,3,Co-educational,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,6, SS (I-X) ,5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,1,1,1,0,1,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,6, SS (I-X) ,5,Private Unaided (Recognized),Urban,3,Co-educational,3,3,1,2,3,3,3,3,3,3,3,3,3,3,3,2,1,2,0,1,0,3,2,0,3,1,0,0,3,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,6, SS (I-X) ,8,Unrecognized,Urban,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,0,1,1,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,7,SS (VI-X),1,Department of Education,Rural,3,Co-educational,5,5,4,3,5,5,5,5,5,5,4,4,4,4,5,2,3,1,0,1,0,4,4,2,3,5,5,0,5,2,1
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,7,SS (VI-X),90,Social welfare Department,Rural,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,0,1,1,0,1,1,1,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,7,SS (VI-X),1,Department of Education,Urban,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,0,0,1,0,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,7,SS (VI-X),4,Government Aided,Urban,3,Co-educational,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,1
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,2,UPS (I-VIII) ,1,Department of Education,Rural,3,Co-educational,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,3,1,0,0,3,0,10,10,2,10,10,10,0,10,7,4
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,2,UPS (I-VIII) ,5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,0,1,1,1,0,1,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,2,UPS (I-VIII) ,3,Local body,Urban,3,Co-educational,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,0,2,0,0,2,2,1,2,2,2,2,2,2,2
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,2,UPS (I-VIII) ,4,Government Aided,Urban,3,Co-educational,3,3,2,1,3,3,3,3,3,3,3,3,3,3,3,0,0,0,2,1,0,3,2,1,3,3,2,0,3,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330813,ATTUR,2,UPS (I-VIII) ,8,Unrecognized,Urban,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,1,0,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330814,AYOTHIYAPATTINAM,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1,0,0,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330814,AYOTHIYAPATTINAM,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-educational,2,2,0,1,2,2,2,2,2,2,2,2,2,1,2,2,1,1,0,0,0,2,1,0,2,2,0,0,2,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330814,AYOTHIYAPATTINAM,3,HSS (I-XII),8,Unrecognized,Rural,3,Co-educational,5,5,1,5,5,5,5,5,5,5,5,5,5,4,5,5,3,5,0,1,0,5,4,0,5,5,0,0,5,5,0
+2018-19,33,Tamilnadu,3308,SALEM,330814,AYOTHIYAPATTINAM,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-educational,3,3,1,3,3,3,3,3,3,3,3,3,3,2,3,2,0,3,0,0,0,3,3,0,3,3,0,0,3,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330814,AYOTHIYAPATTINAM,5, HSS (VI-XII),1,Department of Education,Rural,1,Boys,1,1,1,1,0,0,1,1,0,1,1,1,1,0,1,1,0,1,0,0,0,1,1,1,1,1,1,0,1,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330814,AYOTHIYAPATTINAM,5, HSS (VI-XII),1,Department of Education,Rural,2,Girls,1,1,1,0,1,1,1,0,1,1,1,1,0,1,1,0,1,1,0,0,0,1,1,1,1,1,1,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330814,AYOTHIYAPATTINAM,5, HSS (VI-XII),1,Department of Education,Rural,3,Co-educational,6,6,6,6,6,6,6,5,6,6,6,6,5,6,6,4,5,6,0,4,0,6,6,3,6,6,6,0,6,4,1
+2018-19,33,Tamilnadu,3308,SALEM,330814,AYOTHIYAPATTINAM,5, HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,0,1,0,1,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330814,AYOTHIYAPATTINAM,5, HSS (VI-XII),1,Department of Education,Urban,3,Co-educational,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330814,AYOTHIYAPATTINAM,5, HSS (VI-XII),4,Government Aided,Urban,3,Co-educational,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330814,AYOTHIYAPATTINAM,1,PS (I-V) ,4,Government Aided,Rural,1,Boys,1,1,1,0,1,1,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330814,AYOTHIYAPATTINAM,1,PS (I-V) ,4,Government Aided,Rural,2,Girls,1,1,1,0,1,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,1,1,0,1,1,1,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330814,AYOTHIYAPATTINAM,1,PS (I-V) ,1,Department of Education,Rural,3,Co-educational,60,60,31,13,58,59,60,59,58,60,55,55,52,51,59,5,1,0,8,6,0,60,54,6,49,58,48,0,60,39,8
+2018-19,33,Tamilnadu,3308,SALEM,330814,AYOTHIYAPATTINAM,1,PS (I-V) ,2,Tribal Welfare Department,Rural,3,Co-educational,5,5,4,0,4,5,5,5,5,5,5,5,5,5,4,0,0,0,0,2,0,3,4,1,5,5,2,2,5,3,2
+2018-19,33,Tamilnadu,3308,SALEM,330814,AYOTHIYAPATTINAM,1,PS (I-V) ,5,Private Unaided (Recognized),Rural,3,Co-educational,14,14,4,8,13,13,14,12,12,12,12,13,12,13,13,7,0,4,0,5,0,13,5,1,13,10,2,0,14,7,1
+2018-19,33,Tamilnadu,3308,SALEM,330814,AYOTHIYAPATTINAM,1,PS (I-V) ,8,Unrecognized,Rural,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,0,0,1,1,0,1,1,0,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330814,AYOTHIYAPATTINAM,1,PS (I-V) ,1,Department of Education,Urban,3,Co-educational,5,5,4,3,5,5,5,5,5,5,5,5,5,5,4,3,0,0,1,3,0,5,5,0,5,5,5,0,5,2,0
+2018-19,33,Tamilnadu,3308,SALEM,330814,AYOTHIYAPATTINAM,1,PS (I-V) ,5,Private Unaided (Recognized),Urban,3,Co-educational,6,6,3,3,5,5,6,6,6,6,6,6,6,6,6,4,0,1,0,1,0,5,3,0,5,6,1,0,6,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330814,AYOTHIYAPATTINAM,6, SS (I-X) ,5,Private Unaided (Recognized),Rural,3,Co-educational,5,5,2,5,5,5,5,5,5,5,5,5,5,3,5,5,1,4,0,2,0,5,3,1,5,5,1,0,5,4,1
+2018-19,33,Tamilnadu,3308,SALEM,330814,AYOTHIYAPATTINAM,6, SS (I-X) ,5,Private Unaided (Recognized),Urban,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330814,AYOTHIYAPATTINAM,7,SS (VI-X),1,Department of Education,Rural,3,Co-educational,6,5,5,5,6,6,6,6,6,6,5,5,5,5,6,3,2,4,1,5,0,6,5,1,5,6,6,0,6,4,3
+2018-19,33,Tamilnadu,3308,SALEM,330814,AYOTHIYAPATTINAM,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330814,AYOTHIYAPATTINAM,7,SS (VI-X),1,Department of Education,Urban,3,Co-educational,2,2,2,1,2,2,2,2,2,2,2,2,2,2,1,1,2,0,0,0,0,2,2,0,0,2,2,0,2,2,0
+2018-19,33,Tamilnadu,3308,SALEM,330814,AYOTHIYAPATTINAM,2,UPS (I-VIII) ,1,Department of Education,Rural,3,Co-educational,10,10,7,8,10,10,10,10,10,10,8,8,8,8,10,2,2,0,2,4,0,10,7,4,8,10,9,0,10,8,2
+2018-19,33,Tamilnadu,3308,SALEM,330814,AYOTHIYAPATTINAM,2,UPS (I-VIII) ,2,Tribal Welfare Department,Rural,3,Co-educational,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330814,AYOTHIYAPATTINAM,2,UPS (I-VIII) ,5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330814,AYOTHIYAPATTINAM,2,UPS (I-VIII) ,8,Unrecognized,Rural,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,0,1,1,1,1,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330814,AYOTHIYAPATTINAM,2,UPS (I-VIII) ,1,Department of Education,Urban,3,Co-educational,3,3,3,3,3,3,3,3,3,3,2,2,2,2,2,1,0,0,2,0,0,3,3,2,2,3,2,0,3,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330814,AYOTHIYAPATTINAM,2,UPS (I-VIII) ,5,Private Unaided (Recognized),Urban,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,1,0,1,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330815,KOLATHUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-educational,4,4,2,3,4,4,4,4,4,4,4,4,4,4,4,4,1,4,0,2,1,4,3,2,4,4,3,0,4,4,1
+2018-19,33,Tamilnadu,3308,SALEM,330815,KOLATHUR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-educational,3,3,0,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,0,2,0,3,3,1,3,3,1,0,3,2,1
+2018-19,33,Tamilnadu,3308,SALEM,330815,KOLATHUR,5, HSS (VI-XII),1,Department of Education,Rural,3,Co-educational,3,3,3,2,3,3,3,3,3,3,3,3,3,2,3,3,3,3,0,2,1,3,3,2,3,3,3,0,3,3,1
+2018-19,33,Tamilnadu,3308,SALEM,330815,KOLATHUR,5, HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-educational,3,3,1,1,3,3,3,3,3,3,3,3,3,3,3,2,1,3,0,0,0,3,2,0,3,3,1,0,3,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330815,KOLATHUR,5, HSS (VI-XII),1,Department of Education,Urban,3,Co-educational,2,2,2,2,2,2,2,1,2,2,2,2,1,2,2,2,1,2,0,0,0,2,2,1,2,2,2,0,2,2,0
+2018-19,33,Tamilnadu,3308,SALEM,330815,KOLATHUR,5, HSS (VI-XII),4,Government Aided,Urban,3,Co-educational,3,3,3,1,3,3,3,2,3,3,2,2,2,2,2,3,1,3,0,1,1,3,3,1,3,3,1,0,3,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330815,KOLATHUR,1,PS (I-V) ,1,Department of Education,Rural,3,Co-educational,43,43,37,13,42,43,43,38,43,43,35,35,32,35,42,9,2,0,7,7,0,42,41,11,37,40,30,0,43,25,3
+2018-19,33,Tamilnadu,3308,SALEM,330815,KOLATHUR,1,PS (I-V) ,2,Tribal Welfare Department,Rural,3,Co-educational,1,1,1,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,1,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330815,KOLATHUR,1,PS (I-V) ,4,Government Aided,Rural,3,Co-educational,2,2,1,0,2,2,2,2,2,2,2,2,2,2,2,1,0,0,1,0,0,1,2,1,2,2,1,0,2,2,0
+2018-19,33,Tamilnadu,3308,SALEM,330815,KOLATHUR,1,PS (I-V) ,5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,0,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330815,KOLATHUR,1,PS (I-V) ,1,Department of Education,Urban,3,Co-educational,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,1,0,0,1,1,0,2,2,0,2,2,2,0,2,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330815,KOLATHUR,1,PS (I-V) ,3,Local body,Urban,3,Co-educational,4,4,4,1,4,4,4,4,4,4,4,4,4,4,4,1,0,0,1,3,0,4,4,0,4,4,3,0,4,4,3
+2018-19,33,Tamilnadu,3308,SALEM,330815,KOLATHUR,1,PS (I-V) ,4,Government Aided,Urban,3,Co-educational,4,4,2,1,4,4,4,4,4,4,3,3,3,2,4,0,0,1,1,3,0,4,4,0,4,4,2,0,4,3,1
+2018-19,33,Tamilnadu,3308,SALEM,330815,KOLATHUR,1,PS (I-V) ,5,Private Unaided (Recognized),Urban,3,Co-educational,6,6,2,5,5,5,6,6,6,6,6,6,6,6,6,3,0,4,0,2,0,6,4,1,6,5,4,0,6,5,0
+2018-19,33,Tamilnadu,3308,SALEM,330815,KOLATHUR,1,PS (I-V) ,8,Unrecognized,Urban,3,Co-educational,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330815,KOLATHUR,6, SS (I-X) ,5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,1,1,1,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330815,KOLATHUR,7,SS (VI-X),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,1,1,0,1,1,1,0,1,0,0,0,1,0,1,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330815,KOLATHUR,7,SS (VI-X),1,Department of Education,Rural,3,Co-educational,4,4,3,3,4,4,4,4,4,4,4,4,4,3,4,2,3,4,2,3,0,4,3,1,4,4,4,0,4,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330815,KOLATHUR,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,Co-educational,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,1,1,0,1,1,1,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330815,KOLATHUR,7,SS (VI-X),4,Government Aided,Rural,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,1,0,1,1,0,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330815,KOLATHUR,2,UPS (I-VIII) ,6,Other Govt. managed schools,Rural,2,Girls,2,2,2,2,2,2,2,0,2,2,1,1,0,1,2,0,2,1,1,1,0,2,2,1,2,2,2,0,2,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330815,KOLATHUR,2,UPS (I-VIII) ,1,Department of Education,Rural,3,Co-educational,16,16,15,15,16,16,16,16,16,16,16,16,16,16,16,5,11,0,1,4,0,16,15,4,14,14,14,0,16,11,4
+2018-19,33,Tamilnadu,3308,SALEM,330815,KOLATHUR,2,UPS (I-VIII) ,1,Department of Education,Urban,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,1,1,0,1,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330815,KOLATHUR,2,UPS (I-VIII) ,4,Government Aided,Urban,3,Co-educational,2,2,1,0,2,2,2,2,2,2,2,2,2,2,2,0,1,0,0,0,0,2,1,0,2,2,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330815,KOLATHUR,2,UPS (I-VIII) ,5,Private Unaided (Recognized),Urban,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,1,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330816,MECHERI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-educational,6,6,1,4,6,6,6,6,6,6,6,6,6,5,6,6,1,6,0,3,0,6,4,1,6,6,1,0,6,4,0
+2018-19,33,Tamilnadu,3308,SALEM,330816,MECHERI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,1,1,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330816,MECHERI,10,HSS (IX-XII),5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330816,MECHERI,5, HSS (VI-XII),1,Department of Education,Urban,1,Boys,1,1,1,0,1,1,1,1,0,1,1,1,1,0,1,1,0,1,0,0,0,1,1,1,1,1,1,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330816,MECHERI,5, HSS (VI-XII),1,Department of Education,Urban,2,Girls,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,1,0,1,1,1,1,1,1,0,1,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330816,MECHERI,5, HSS (VI-XII),1,Department of Education,Rural,3,Co-educational,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,2,4,4,1,4,0,4,4,4,4,4,3,0,4,3,1
+2018-19,33,Tamilnadu,3308,SALEM,330816,MECHERI,1,PS (I-V) ,1,Department of Education,Rural,3,Co-educational,56,56,11,12,54,54,56,56,56,56,55,55,55,55,56,7,2,0,2,7,1,54,55,9,43,56,42,0,56,38,3
+2018-19,33,Tamilnadu,3308,SALEM,330816,MECHERI,1,PS (I-V) ,4,Government Aided,Rural,3,Co-educational,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,1,1,1,1,1,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330816,MECHERI,1,PS (I-V) ,5,Private Unaided (Recognized),Rural,3,Co-educational,2,2,0,1,1,1,2,2,2,2,2,2,2,2,2,0,0,0,0,1,0,1,0,0,2,2,0,0,2,2,0
+2018-19,33,Tamilnadu,3308,SALEM,330816,MECHERI,1,PS (I-V) ,1,Department of Education,Urban,3,Co-educational,9,9,0,2,9,9,9,9,9,9,9,9,9,9,9,2,0,0,0,0,0,9,9,1,9,9,8,0,9,6,0
+2018-19,33,Tamilnadu,3308,SALEM,330816,MECHERI,1,PS (I-V) ,5,Private Unaided (Recognized),Urban,3,Co-educational,2,2,0,1,2,2,2,2,2,2,2,2,2,2,2,0,0,1,0,0,0,1,2,0,2,2,0,0,2,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330816,MECHERI,1,PS (I-V) ,90,Social welfare Department,Urban,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,1,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330816,MECHERI,6, SS (I-X) ,5,Private Unaided (Recognized),Rural,3,Co-educational,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,0,1,0,1,0,2,2,1,2,2,0,0,2,2,0
+2018-19,33,Tamilnadu,3308,SALEM,330816,MECHERI,7,SS (VI-X),1,Department of Education,Rural,3,Co-educational,5,5,4,3,5,5,5,5,5,5,5,5,5,5,5,2,4,4,0,4,0,5,4,2,5,5,5,0,5,5,0
+2018-19,33,Tamilnadu,3308,SALEM,330816,MECHERI,2,UPS (I-VIII) ,1,Department of Education,Rural,3,Co-educational,16,16,15,16,15,15,16,16,16,16,16,16,16,16,16,7,2,1,3,4,0,16,15,2,15,16,16,0,16,11,1
+2018-19,33,Tamilnadu,3308,SALEM,330816,MECHERI,2,UPS (I-VIII) ,8,Unrecognized,Rural,3,Co-educational,2,2,0,2,1,1,2,2,2,2,2,2,2,2,2,2,0,1,0,0,1,2,0,1,2,2,1,0,2,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330816,MECHERI,2,UPS (I-VIII) ,1,Department of Education,Urban,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,0,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330817,OMALUR,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-educational,9,9,3,7,9,9,9,9,9,9,9,9,9,8,8,7,3,9,1,6,1,9,6,2,9,9,2,1,9,7,2
+2018-19,33,Tamilnadu,3308,SALEM,330817,OMALUR,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330817,OMALUR,5, HSS (VI-XII),4,Government Aided,Urban,2,Girls,1,1,1,1,1,1,1,0,1,1,0,0,0,0,1,1,1,1,0,0,0,1,1,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330817,OMALUR,5, HSS (VI-XII),1,Department of Education,Rural,3,Co-educational,9,9,8,8,8,8,9,9,9,9,9,9,9,9,9,5,8,8,1,5,0,9,8,2,9,9,9,0,9,9,1
+2018-19,33,Tamilnadu,3308,SALEM,330817,OMALUR,5, HSS (VI-XII),4,Government Aided,Rural,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,1,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330817,OMALUR,5, HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330817,OMALUR,5, HSS (VI-XII),90,Social welfare Department,Rural,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,0,1,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330817,OMALUR,5, HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,0,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330817,OMALUR,1,PS (I-V) ,1,Department of Education,Rural,3,Co-educational,49,49,29,17,45,48,49,49,49,49,47,47,47,45,47,10,0,0,8,12,1,49,46,7,42,42,36,0,49,26,8
+2018-19,33,Tamilnadu,3308,SALEM,330817,OMALUR,1,PS (I-V) ,4,Government Aided,Rural,3,Co-educational,3,3,1,0,3,3,3,3,3,3,3,3,3,3,3,0,0,0,0,1,0,2,3,0,3,2,1,0,3,2,0
+2018-19,33,Tamilnadu,3308,SALEM,330817,OMALUR,1,PS (I-V) ,5,Private Unaided (Recognized),Rural,3,Co-educational,5,5,0,1,5,5,5,5,5,5,5,5,5,5,5,2,0,1,0,1,0,4,1,0,5,3,1,0,5,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330817,OMALUR,1,PS (I-V) ,8,Unrecognized,Rural,3,Co-educational,2,2,0,1,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,0,0,1,0,2,1,0,0,0,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330817,OMALUR,1,PS (I-V) ,90,Social welfare Department,Rural,3,Co-educational,4,4,2,2,4,4,4,4,4,4,4,4,4,4,3,1,0,0,1,2,0,4,3,1,4,2,3,0,4,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330817,OMALUR,1,PS (I-V) ,1,Department of Education,Urban,3,Co-educational,6,6,3,4,5,6,6,6,6,6,5,5,4,5,6,0,0,0,2,2,0,5,6,1,4,5,3,0,6,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330817,OMALUR,1,PS (I-V) ,4,Government Aided,Urban,3,Co-educational,2,2,2,0,2,2,2,1,2,2,2,2,2,2,2,1,0,0,0,0,0,2,2,0,2,2,0,0,2,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330817,OMALUR,1,PS (I-V) ,5,Private Unaided (Recognized),Urban,3,Co-educational,2,2,0,1,2,2,2,2,2,2,2,2,2,2,1,2,0,1,0,1,1,2,0,0,2,1,0,0,2,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330817,OMALUR,1,PS (I-V) ,8,Unrecognized,Urban,3,Co-educational,4,4,0,2,3,3,4,4,4,4,2,2,2,2,4,2,0,1,0,2,0,2,1,0,4,4,1,0,2,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330817,OMALUR,6, SS (I-X) ,5,Private Unaided (Recognized),Rural,3,Co-educational,2,2,1,1,2,2,2,2,2,2,2,2,2,2,2,0,1,1,0,1,1,2,1,1,2,2,0,0,2,2,0
+2018-19,33,Tamilnadu,3308,SALEM,330817,OMALUR,6, SS (I-X) ,8,Unrecognized,Rural,3,Co-educational,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330817,OMALUR,7,SS (VI-X),1,Department of Education,Rural,3,Co-educational,5,5,2,3,5,5,5,5,5,5,4,4,4,4,5,3,4,2,1,5,0,4,2,3,5,3,5,0,5,3,1
+2018-19,33,Tamilnadu,3308,SALEM,330817,OMALUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,0,1,0,0,1,1,1,1,1,1,1,1,1,0,0,1,0,0,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330817,OMALUR,7,SS (VI-X),90,Social welfare Department,Rural,3,Co-educational,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,1,1,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330817,OMALUR,2,UPS (I-VIII) ,1,Department of Education,Rural,3,Co-educational,26,26,24,25,25,26,26,26,26,26,25,25,25,25,24,9,11,0,4,6,0,24,24,3,21,26,23,0,26,18,2
+2018-19,33,Tamilnadu,3308,SALEM,330817,OMALUR,2,UPS (I-VIII) ,4,Government Aided,Rural,3,Co-educational,2,2,1,1,2,2,2,2,2,2,2,2,2,2,2,2,0,0,1,1,0,2,1,1,2,2,2,0,2,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330817,OMALUR,2,UPS (I-VIII) ,5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,1,0,1,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330817,OMALUR,2,UPS (I-VIII) ,8,Unrecognized,Rural,3,Co-educational,1,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330817,OMALUR,2,UPS (I-VIII) ,1,Department of Education,Urban,3,Co-educational,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,0,0,0,0,0,2,2,0,1,1,2,0,2,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330817,OMALUR,2,UPS (I-VIII) ,5,Private Unaided (Recognized),Urban,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,0,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330818,SANKARI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,0,0,1,0,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330818,SANKARI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,1,0,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330818,SANKARI,5, HSS (VI-XII),1,Department of Education,Urban,1,Boys,1,1,0,0,1,1,1,1,0,1,1,1,1,0,1,1,0,0,0,1,0,1,0,1,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330818,SANKARI,5, HSS (VI-XII),1,Department of Education,Rural,2,Girls,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,0,0,1,1,1,1,1,1,0,1,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330818,SANKARI,5, HSS (VI-XII),1,Department of Education,Rural,3,Co-educational,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,1,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330818,SANKARI,5, HSS (VI-XII),5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,0,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330818,SANKARI,5, HSS (VI-XII),1,Department of Education,Urban,3,Co-educational,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,2,0,0,0,3,3,2,3,3,3,0,3,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330818,SANKARI,1,PS (I-V) ,1,Department of Education,Rural,3,Co-educational,47,47,27,15,46,47,47,46,47,47,47,47,47,45,44,9,0,0,5,7,0,46,45,5,39,44,37,0,47,25,4
+2018-19,33,Tamilnadu,3308,SALEM,330818,SANKARI,1,PS (I-V) ,4,Government Aided,Rural,3,Co-educational,2,2,1,2,2,2,2,2,2,2,1,1,1,1,2,0,0,0,0,1,0,2,1,0,2,2,1,0,2,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330818,SANKARI,1,PS (I-V) ,5,Private Unaided (Recognized),Rural,3,Co-educational,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,1,0,1,0,1,0,2,1,0,2,2,0,0,2,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330818,SANKARI,1,PS (I-V) ,90,Social welfare Department,Rural,3,Co-educational,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,1,0,1,1,0,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330818,SANKARI,1,PS (I-V) ,1,Department of Education,Urban,3,Co-educational,15,15,5,9,13,14,15,15,14,15,15,15,15,15,14,3,0,0,1,4,0,15,14,2,15,14,13,0,15,7,0
+2018-19,33,Tamilnadu,3308,SALEM,330818,SANKARI,1,PS (I-V) ,5,Private Unaided (Recognized),Urban,3,Co-educational,3,3,3,1,3,3,3,3,3,3,3,3,3,3,3,1,0,1,0,0,0,1,3,0,3,3,1,0,3,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330818,SANKARI,1,PS (I-V) ,8,Unrecognized,Urban,3,Co-educational,3,3,0,1,2,2,3,3,3,3,3,3,3,3,2,1,0,0,0,0,0,1,1,0,3,3,0,0,3,2,0
+2018-19,33,Tamilnadu,3308,SALEM,330818,SANKARI,6, SS (I-X) ,5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,1,1,0,1,1,0,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330818,SANKARI,6, SS (I-X) ,5,Private Unaided (Recognized),Urban,3,Co-educational,2,2,1,2,1,1,2,2,2,2,2,2,2,2,2,2,1,1,0,1,0,2,1,0,2,2,0,0,2,2,0
+2018-19,33,Tamilnadu,3308,SALEM,330818,SANKARI,7,SS (VI-X),1,Department of Education,Rural,3,Co-educational,5,5,5,3,5,5,5,5,5,5,5,5,5,5,5,2,4,5,1,2,0,5,5,3,4,5,4,0,5,3,1
+2018-19,33,Tamilnadu,3308,SALEM,330818,SANKARI,2,UPS (I-VIII) ,6,Other Govt. managed schools,Rural,2,Girls,1,1,1,1,1,1,1,0,1,1,0,0,0,0,1,0,1,0,0,0,0,1,1,0,1,0,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330818,SANKARI,2,UPS (I-VIII) ,1,Department of Education,Rural,3,Co-educational,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,6,4,0,2,5,0,13,13,3,11,12,11,0,13,8,2
+2018-19,33,Tamilnadu,3308,SALEM,330818,SANKARI,2,UPS (I-VIII) ,1,Department of Education,Urban,3,Co-educational,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,0,0,0,0,1,0,3,4,0,3,3,4,0,4,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330819,VALAPPADI,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-educational,5,5,3,4,5,5,5,5,5,5,5,5,5,5,5,5,3,5,1,2,1,5,4,2,5,5,2,1,5,5,1
+2018-19,33,Tamilnadu,3308,SALEM,330819,VALAPPADI,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-educational,3,2,2,3,3,3,3,3,3,3,3,3,3,3,3,2,0,2,0,2,1,3,3,1,3,3,1,1,3,2,1
+2018-19,33,Tamilnadu,3308,SALEM,330819,VALAPPADI,5, HSS (VI-XII),1,Department of Education,Urban,1,Boys,2,2,2,2,2,2,2,2,0,2,2,2,2,0,1,2,1,1,0,1,0,2,2,1,2,2,2,0,2,2,1
+2018-19,33,Tamilnadu,3308,SALEM,330819,VALAPPADI,5, HSS (VI-XII),1,Department of Education,Urban,2,Girls,2,2,1,1,2,2,2,0,2,2,2,2,0,2,2,1,0,2,0,1,0,2,1,1,2,2,1,0,2,2,1
+2018-19,33,Tamilnadu,3308,SALEM,330819,VALAPPADI,5, HSS (VI-XII),1,Department of Education,Rural,3,Co-educational,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,0,1,0,2,2,1,2,2,2,0,2,2,1
+2018-19,33,Tamilnadu,3308,SALEM,330819,VALAPPADI,5, HSS (VI-XII),2,Tribal Welfare Department,Rural,3,Co-educational,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330819,VALAPPADI,1,PS (I-V) ,1,Department of Education,Rural,3,Co-educational,44,44,18,9,44,44,44,43,44,44,43,43,41,43,44,9,0,0,10,5,0,43,43,19,42,44,33,0,44,22,25
+2018-19,33,Tamilnadu,3308,SALEM,330819,VALAPPADI,1,PS (I-V) ,2,Tribal Welfare Department,Rural,3,Co-educational,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,1,0,0,1,0,0,2,2,1,2,2,0,1,2,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330819,VALAPPADI,1,PS (I-V) ,5,Private Unaided (Recognized),Rural,3,Co-educational,4,4,1,3,4,4,4,4,4,4,4,4,4,4,4,2,0,3,0,1,0,4,3,0,4,3,1,0,4,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330819,VALAPPADI,1,PS (I-V) ,1,Department of Education,Urban,3,Co-educational,7,7,3,4,7,7,7,7,7,7,7,7,6,7,7,1,0,0,4,2,0,7,6,3,6,7,3,0,7,5,5
+2018-19,33,Tamilnadu,3308,SALEM,330819,VALAPPADI,1,PS (I-V) ,5,Private Unaided (Recognized),Urban,3,Co-educational,3,3,1,2,3,3,3,3,3,3,3,3,3,3,3,1,0,1,0,2,0,3,3,1,3,3,0,0,3,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330819,VALAPPADI,6, SS (I-X) ,5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330819,VALAPPADI,6, SS (I-X) ,5,Private Unaided (Recognized),Urban,3,Co-educational,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330819,VALAPPADI,7,SS (VI-X),1,Department of Education,Rural,3,Co-educational,7,7,7,6,7,7,7,7,7,7,7,7,7,6,7,5,6,4,2,5,0,7,7,2,6,7,7,0,7,7,4
+2018-19,33,Tamilnadu,3308,SALEM,330819,VALAPPADI,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,Co-educational,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,0,1,1,1,1,1,1,1,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330819,VALAPPADI,2,UPS (I-VIII) ,1,Department of Education,Rural,3,Co-educational,11,11,11,11,11,11,11,11,11,11,11,11,11,11,10,3,0,0,3,3,0,11,11,6,10,11,10,0,11,6,2
+2018-19,33,Tamilnadu,3308,SALEM,330819,VALAPPADI,2,UPS (I-VIII) ,5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,0,1,1,0,1,1,1,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330820,YERCAUD,3,HSS (I-XII),4,Government Aided,Rural,2,Girls,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,1,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330820,YERCAUD,3,HSS (I-XII),4,Government Aided,Rural,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330820,YERCAUD,3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-educational,3,3,1,2,3,3,3,3,3,3,3,3,3,2,3,3,1,2,0,2,0,3,1,0,3,2,0,0,3,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330820,YERCAUD,5, HSS (VI-XII),4,Government Aided,Rural,1,Boys,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1,0,1,0,1,1,0,1,1,1,1,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330820,YERCAUD,5, HSS (VI-XII),4,Government Aided,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,1,1,0,1,1,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330820,YERCAUD,5, HSS (VI-XII),1,Department of Education,Rural,3,Co-educational,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,0,1,0,2,2,1,1,2,1,0,2,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330820,YERCAUD,1,PS (I-V) ,4,Government Aided,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,1,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330820,YERCAUD,1,PS (I-V) ,4,Government Aided,Rural,2,Girls,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,0,0,1,1,0,1,1,0,1,1,1,1,1,0,1
+2018-19,33,Tamilnadu,3308,SALEM,330820,YERCAUD,1,PS (I-V) ,1,Department of Education,Rural,3,Co-educational,30,30,18,10,28,28,30,30,30,30,28,28,28,27,29,5,1,0,0,13,0,29,23,1,22,26,19,0,30,16,0
+2018-19,33,Tamilnadu,3308,SALEM,330820,YERCAUD,1,PS (I-V) ,2,Tribal Welfare Department,Rural,3,Co-educational,7,7,3,0,5,7,7,7,7,7,5,5,5,5,5,0,0,0,0,3,0,5,4,0,3,3,2,0,7,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330820,YERCAUD,1,PS (I-V) ,4,Government Aided,Rural,3,Co-educational,3,3,2,0,3,3,3,3,3,3,3,3,3,3,3,1,0,0,1,0,0,3,2,0,3,3,3,0,3,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330820,YERCAUD,1,PS (I-V) ,5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,0,1,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330820,YERCAUD,6, SS (I-X) ,5,Private Unaided (Recognized),Rural,3,Co-educational,2,2,1,0,2,2,2,2,2,2,1,1,1,1,2,2,0,2,0,1,1,2,1,1,2,2,1,0,2,2,0
+2018-19,33,Tamilnadu,3308,SALEM,330820,YERCAUD,7,SS (VI-X),1,Department of Education,Rural,3,Co-educational,2,2,1,1,2,2,2,2,2,2,2,2,2,2,2,2,0,1,0,1,0,2,1,0,1,2,1,0,2,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330820,YERCAUD,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,Co-educational,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,0,0,1,0,1,1,1,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330820,YERCAUD,2,UPS (I-VIII) ,6,Other Govt. managed schools,Rural,2,Girls,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330820,YERCAUD,2,UPS (I-VIII) ,1,Department of Education,Rural,3,Co-educational,9,9,9,7,8,8,9,9,9,9,8,8,8,7,8,1,3,1,0,3,0,9,9,1,5,9,7,0,9,7,0
+2018-19,33,Tamilnadu,3308,SALEM,330820,YERCAUD,2,UPS (I-VIII) ,2,Tribal Welfare Department,Rural,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330820,YERCAUD,2,UPS (I-VIII) ,5,Private Unaided (Recognized),Rural,3,Co-educational,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330820,YERCAUD,2,UPS (I-VIII) ,8,Unrecognized,Rural,3,Co-educational,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,1,Boys,2,2,1,1,2,2,2,2,0,2,2,2,2,0,2,2,0,1,0,0,0,2,1,0,2,2,0,0,2,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,2,Girls,4,4,2,4,4,4,4,0,4,4,1,1,0,1,4,4,3,4,0,1,1,4,2,1,4,4,0,1,4,3,1
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-educational,7,7,5,7,7,7,7,7,7,7,7,7,7,7,7,7,0,7,0,3,3,7,5,3,7,7,3,1,7,6,2
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,3,HSS (I-XII),8,Unrecognized,Urban,3,Co-educational,2,2,1,2,2,2,2,2,2,2,1,1,1,1,2,2,1,2,0,1,0,2,1,0,2,2,2,0,2,2,0
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,5, HSS (VI-XII),3,Local body,Urban,1,Boys,3,3,1,2,3,3,3,3,0,3,3,3,3,0,3,3,0,1,0,2,0,3,1,1,3,2,2,0,3,2,0
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,5, HSS (VI-XII),4,Government Aided,Urban,1,Boys,5,5,3,4,5,5,5,5,0,5,5,5,5,0,5,4,0,5,0,2,0,5,3,0,4,5,2,0,5,3,0
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,5, HSS (VI-XII),1,Department of Education,Urban,2,Girls,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,0,0,1,1,1,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,5, HSS (VI-XII),3,Local body,Urban,2,Girls,4,4,4,4,4,4,4,0,4,4,4,4,0,4,4,3,4,4,1,2,0,4,4,3,3,4,4,0,4,4,2
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,5, HSS (VI-XII),4,Government Aided,Urban,2,Girls,3,3,3,3,3,3,3,0,3,3,1,1,0,1,3,3,2,3,0,0,0,3,3,0,3,3,0,0,3,2,1
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,5, HSS (VI-XII),4,Government Aided,Urban,3,Co-educational,2,2,2,2,2,2,2,2,2,2,1,1,1,1,2,2,1,2,0,0,0,2,2,0,2,1,1,0,2,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,5, HSS (VI-XII),5,Private Unaided (Recognized),Urban,3,Co-educational,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,1,1,0,0,1,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,1,PS (I-V) ,4,Government Aided,Urban,1,Boys,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,0,0,0,0,0,0,1,1,1,1,1,1,0,1,1,1
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,1,PS (I-V) ,4,Government Aided,Urban,2,Girls,2,2,2,2,2,2,2,0,2,2,1,1,0,1,2,0,0,1,0,0,0,2,2,0,2,2,0,0,2,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,1,PS (I-V) ,5,Private Unaided (Recognized),Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,1,PS (I-V) ,2,Tribal Welfare Department,Urban,3,Co-educational,1,1,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,1,PS (I-V) ,3,Local body,Urban,3,Co-educational,35,35,20,6,34,35,35,31,33,34,28,28,26,24,31,7,0,0,3,6,0,35,28,2,27,35,22,0,35,31,1
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,1,PS (I-V) ,4,Government Aided,Urban,3,Co-educational,25,24,11,7,25,25,25,25,25,25,20,20,20,20,25,7,0,2,1,6,0,24,17,1,16,21,9,0,25,19,4
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,1,PS (I-V) ,5,Private Unaided (Recognized),Urban,3,Co-educational,47,47,21,31,44,45,47,46,46,46,43,44,42,40,45,28,0,18,0,11,0,43,32,4,37,42,1,0,47,34,1
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,1,PS (I-V) ,8,Unrecognized,Urban,3,Co-educational,12,12,1,8,10,10,12,10,10,10,9,11,9,11,10,6,0,3,0,1,0,7,2,0,9,10,1,0,10,5,1
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,6, SS (I-X) ,5,Private Unaided (Recognized),Urban,1,Boys,2,2,0,1,2,2,2,2,0,2,2,2,2,0,2,2,0,1,0,0,0,2,2,0,2,2,1,0,2,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,6, SS (I-X) ,8,Unrecognized,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,0,0,1,1,0,1,1,0,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,6, SS (I-X) ,5,Private Unaided (Recognized),Urban,3,Co-educational,9,9,3,9,9,9,9,9,9,9,9,9,9,8,9,7,1,9,0,4,0,9,7,1,9,9,2,0,9,8,0
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,7,SS (VI-X),3,Local body,Urban,2,Girls,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,1,0,1,1,0,1,1,1,0,1,0,0
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,7,SS (VI-X),1,Department of Education,Urban,3,Co-educational,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,0,1,0,0,0,2,2,1,2,2,2,0,2,2,1
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,7,SS (VI-X),3,Local body,Urban,3,Co-educational,4,4,4,4,4,4,4,3,3,3,3,3,3,3,4,2,1,4,2,2,0,4,4,1,2,4,4,0,4,4,1
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,7,SS (VI-X),4,Government Aided,Urban,3,Co-educational,9,9,6,7,9,9,9,8,9,9,8,8,7,6,9,7,1,9,2,3,0,9,7,3,8,8,3,1,9,6,1
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,2,UPS (I-VIII) ,4,Government Aided,Urban,1,Boys,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,0,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,2,UPS (I-VIII) ,2,Tribal Welfare Department,Urban,3,Co-educational,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,0,0,1,1,1,0,1,1,0
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,2,UPS (I-VIII) ,3,Local body,Urban,3,Co-educational,11,11,11,11,11,11,11,11,10,11,9,9,8,8,10,6,5,0,0,3,0,11,11,1,8,11,7,0,11,11,0
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,2,UPS (I-VIII) ,4,Government Aided,Urban,3,Co-educational,7,7,3,3,6,6,7,6,6,6,4,4,4,4,6,3,1,1,0,1,0,6,3,0,4,6,2,0,6,4,0
+2018-19,33,Tamilnadu,3308,SALEM,330821,SALEM-URBAN,2,UPS (I-VIII) ,5,Private Unaided (Recognized),Urban,3,Co-educational,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,1,1,0,0,1,1,1

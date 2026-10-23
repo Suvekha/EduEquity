@@ -1,0 +1,827 @@
+Academic_Year,State_Code,State_Name,District_Code,District_Name,Block_Code,Udise_Block_Name,School_Category_Id,School_Category_Name,School_Management_Id,School_Management_Name,Location,School_Type_Id,School_Type,Total_Number_of_Schools,Building,Complete_Medical_Checkup,Computer_Available,Functional_Drinking_Water,Drinking_Water,Functional_Electricity,Functional_Boy_Toilet,Functional_Girl_Toilet,Functional_Toilet_Facility,Functional_Toilet_and_Urinal,Functional_Urinal,Functional_Urinal_Boy,Functional_Urinal_Girl,Handwash,Separate_Room_for_Headmaster,Incinerator,Internet,Kitchen_Garden,Land_Available,Librarian,Library_or_Reading_Corner_or_Book_Bank,Medical_Checkup,Newspaper,Playground,Rain_Water_Harvesting,Ramps,Solar_Panel,Furniture,Water_Purifier,Water_Tested
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281401,MAREDUMILLI,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,0,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281401,MAREDUMILLI,11,HSS (XI-XII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281401,MAREDUMILLI,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,34,28,0,1,12,34,19,34,32,34,0,0,0,0,0,0,0,0,6,26,31,34,25,8,12,0,6,0,26,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281401,MAREDUMILLI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,27,22,0,1,15,27,20,27,24,27,0,0,0,0,4,0,0,0,7,25,25,27,22,10,4,0,9,0,16,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281401,MAREDUMILLI,6,SS (I-X),2,Tribal Welfare Department,Rural,1,Boys,3,3,0,2,2,3,3,3,1,3,0,0,0,0,0,1,0,1,0,3,2,3,3,1,3,0,0,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281401,MAREDUMILLI,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,0,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,1,1,1,1,0,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281401,MAREDUMILLI,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281401,MAREDUMILLI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,1,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281401,MAREDUMILLI,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281401,MAREDUMILLI,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,5,5,0,4,5,5,5,5,5,5,0,0,0,0,0,1,0,0,0,5,3,5,3,4,3,0,0,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281402,Y.RAMAVARAM,11,HSS (XI-XII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,0,1,1,0,1,1,0,0,0,0,1,0,0,1,0,1,1,1,1,1,0,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281402,Y.RAMAVARAM,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281402,Y.RAMAVARAM,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,83,57,0,1,39,83,25,83,83,83,0,0,0,0,1,1,0,0,3,36,54,76,42,7,19,0,2,0,59,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281402,Y.RAMAVARAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,25,23,0,0,17,25,17,25,25,25,0,0,0,0,3,1,0,0,5,18,12,25,16,5,10,0,1,0,15,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281402,Y.RAMAVARAM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281402,Y.RAMAVARAM,6,SS (I-X),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281402,Y.RAMAVARAM,6,SS (I-X),2,Tribal Welfare Department,Rural,2,Girls,2,2,0,1,2,2,2,0,2,2,0,0,0,0,0,1,0,2,1,2,0,2,2,2,2,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281402,Y.RAMAVARAM,6,SS (I-X),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281402,Y.RAMAVARAM,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,0,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281402,Y.RAMAVARAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,1,1,0,1,1,2,1,2,2,1,2,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281402,Y.RAMAVARAM,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281402,Y.RAMAVARAM,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,5,5,0,0,4,5,5,5,5,5,0,0,0,0,1,0,0,0,1,5,1,5,4,4,4,0,1,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281403,ADDATEEGALA,11,HSS (XI-XII),1,Department of Education,Rural,1,Boys,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281403,ADDATEEGALA,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281403,ADDATEEGALA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,1,0,0,1,0,0,1,1,0,1,1,1,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281403,ADDATEEGALA,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,39,39,0,3,27,38,21,39,38,39,0,0,0,0,0,0,0,0,13,18,8,39,23,4,8,0,2,0,17,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281403,ADDATEEGALA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,34,34,0,2,29,33,19,34,33,34,0,0,0,0,0,2,0,0,14,25,7,34,24,3,10,0,2,0,22,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281403,ADDATEEGALA,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,4,4,0,0,4,4,1,4,4,4,0,0,0,0,0,2,0,0,2,3,0,4,2,1,3,0,0,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281403,ADDATEEGALA,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281403,ADDATEEGALA,6,SS (I-X),2,Tribal Welfare Department,Rural,1,Boys,2,2,0,1,2,2,2,2,0,2,0,0,0,0,0,1,0,1,0,2,0,1,2,2,2,0,2,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281403,ADDATEEGALA,6,SS (I-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281403,ADDATEEGALA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,4,4,0,2,3,3,4,4,4,4,0,0,0,0,0,3,0,1,2,3,0,4,4,2,4,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281403,ADDATEEGALA,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281403,ADDATEEGALA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,1,Boys,2,2,0,1,2,2,1,2,0,2,0,0,0,0,0,0,0,0,0,1,0,2,2,0,1,0,1,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281403,ADDATEEGALA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,0,0,0,0,1,3,0,3,3,2,1,0,0,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281403,ADDATEEGALA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,0,0,0,0,1,1,0,2,2,0,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281403,ADDATEEGALA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281404,RAJAVOMMANGI,11,HSS (XI-XII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,1,0,1,0,1,1,1,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281404,RAJAVOMMANGI,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281404,RAJAVOMMANGI,1,PS (I-V),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281404,RAJAVOMMANGI,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,33,33,0,0,23,33,33,33,30,33,0,0,0,0,0,3,0,0,4,14,23,32,31,7,10,0,4,0,23,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281404,RAJAVOMMANGI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,39,39,0,2,37,39,39,39,38,39,0,0,0,0,0,3,0,0,15,24,35,39,36,11,15,0,2,0,22,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281404,RAJAVOMMANGI,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,3,3,0,0,2,3,3,3,3,3,0,0,0,0,0,2,0,0,0,3,3,3,2,2,2,0,1,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281404,RAJAVOMMANGI,6,SS (I-X),2,Tribal Welfare Department,Rural,1,Boys,2,2,0,1,1,2,2,2,2,2,0,0,0,0,1,0,0,0,0,2,0,2,2,2,1,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281404,RAJAVOMMANGI,6,SS (I-X),2,Tribal Welfare Department,Rural,2,Girls,3,3,0,2,3,3,3,0,3,3,0,0,0,0,1,1,0,1,1,2,2,3,3,3,2,1,1,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281404,RAJAVOMMANGI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,1,0,0,0,2,3,2,3,3,3,3,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281404,RAJAVOMMANGI,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281404,RAJAVOMMANGI,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,6,6,0,2,6,6,6,6,6,6,0,0,0,0,0,1,0,0,1,6,2,6,6,4,4,0,3,0,6,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281404,RAJAVOMMANGI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,3,3,0,1,2,3,3,3,2,3,0,0,0,0,0,0,0,0,2,3,3,3,3,2,2,0,1,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281405,KOTANANDURU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,1,0,0,1,2,2,2,2,1,2,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281405,KOTANANDURU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,20,20,0,1,19,19,20,20,19,20,0,0,0,0,2,3,0,0,13,15,6,20,20,3,7,0,17,0,10,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281405,KOTANANDURU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,3,4,4,4,4,4,4,0,0,0,0,0,3,0,0,0,2,0,4,4,3,4,0,4,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281405,KOTANANDURU,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,1,1,0,0,1,1,1,0,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281405,KOTANANDURU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,3,6,6,6,6,6,6,0,0,0,0,4,2,0,2,1,6,2,6,6,6,5,0,4,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281405,KOTANANDURU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,1,3,0,3,0,3,2,3,3,3,3,2,1,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281405,KOTANANDURU,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281405,KOTANANDURU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,4,4,0,2,4,4,4,4,4,4,0,0,0,0,0,0,0,0,4,2,1,4,4,2,1,0,3,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281405,KOTANANDURU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,1,3,3,3,3,3,3,0,0,0,0,1,2,0,0,0,2,1,2,2,3,3,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,3,HSS (I-XII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,1,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,11,HSS (XI-XII),1,Department of Education,Urban,1,Boys,1,1,0,1,0,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,11,HSS (XI-XII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,1,1,1,1,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,11,HSS (XI-XII),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,1,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,4,4,0,1,3,4,4,4,4,4,0,0,0,0,3,2,0,2,0,1,1,3,1,3,3,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,45,45,0,0,35,45,43,45,45,45,0,0,0,0,39,1,0,0,18,27,33,45,40,4,23,0,15,0,23,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,3,6,6,6,6,6,6,0,0,0,0,6,4,0,3,0,1,5,6,2,4,6,0,2,0,6,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,1,PS (I-V),3,Local body,Urban,3,Co-Ed,17,17,0,2,17,17,17,17,17,17,0,0,0,0,13,11,0,0,7,3,16,17,13,4,6,0,3,0,15,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,12,12,0,10,12,12,12,12,12,12,0,0,0,0,3,12,0,8,0,7,5,12,5,7,12,0,2,0,12,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,6,SS (I-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,0,1,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,0,1,1,1,1,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,7,SS (VI-X),3,Local body,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,9,9,0,7,9,9,9,9,9,9,0,0,0,0,9,2,0,4,1,9,9,9,9,7,7,0,6,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,0,1,0,1,0,2,1,2,0,2,2,0,1,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,1,0,1,1,0,0,0,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,7,SS (VI-X),3,Local body,Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,1,0,1,0,2,1,2,2,1,1,1,2,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,12,12,0,11,12,12,12,12,12,12,0,0,0,0,6,12,0,10,0,5,5,12,4,11,12,4,3,0,12,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,8,8,0,4,7,8,8,8,8,8,0,0,0,0,8,2,0,0,6,7,8,8,7,1,3,0,2,0,6,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,5,7,8,8,8,8,8,0,0,0,0,2,7,0,1,0,5,4,8,4,5,7,0,1,0,7,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,5,5,0,4,4,5,5,5,5,5,0,0,0,0,2,4,0,2,0,4,2,5,1,2,3,0,1,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,4,UPS (VI-VIII),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,1,1,0,0,1,1,0,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281406,TUNI,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281407,THONDANGI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,1,1,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281407,THONDANGI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,42,42,0,2,37,42,42,42,42,42,0,0,0,0,10,4,0,0,16,28,31,42,36,3,18,0,25,0,17,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281407,THONDANGI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,4,6,6,6,6,6,6,0,0,0,0,1,5,0,0,0,5,4,6,3,4,6,0,3,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281407,THONDANGI,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281407,THONDANGI,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,1,1,1,1,1,1,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281407,THONDANGI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,10,9,0,7,9,10,10,10,10,10,0,0,0,0,6,5,0,2,0,10,7,10,10,7,9,1,6,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281407,THONDANGI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,0,2,0,2,0,2,0,3,3,2,3,2,2,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281407,THONDANGI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,10,10,0,1,9,10,10,10,10,10,0,0,0,0,2,0,0,0,7,7,6,10,10,5,5,0,7,0,6,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281407,THONDANGI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,3,4,4,4,4,4,4,0,0,0,0,1,4,0,1,0,4,1,4,2,3,4,1,1,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281408,GOLLAPROLU,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,0,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281408,GOLLAPROLU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,29,29,0,1,22,29,28,29,29,29,0,0,0,0,10,3,0,0,15,17,10,29,29,0,20,0,17,0,18,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281408,GOLLAPROLU,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281408,GOLLAPROLU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,3,3,4,4,4,4,4,0,0,0,0,4,4,0,0,0,3,0,4,3,3,4,0,0,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281408,GOLLAPROLU,7,SS (VI-X),3,Local body,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281408,GOLLAPROLU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,4,4,6,6,6,6,6,0,0,0,0,2,4,0,3,0,6,3,6,6,4,6,1,2,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281408,GOLLAPROLU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,2,3,3,3,3,3,0,0,0,0,3,1,0,1,0,1,0,2,0,1,1,1,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281408,GOLLAPROLU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,5,5,0,3,3,5,5,5,4,5,0,0,0,0,0,0,0,0,5,2,3,5,5,0,3,0,4,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281408,GOLLAPROLU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,12,12,0,6,11,12,12,12,12,12,0,0,0,0,10,9,0,0,0,6,1,11,5,7,12,0,4,0,8,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281409,SANKAVARAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281409,SANKAVARAM,11,HSS (XI-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281409,SANKAVARAM,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,10,10,0,0,5,7,6,10,9,10,0,0,0,0,1,3,0,0,0,6,2,9,10,0,4,0,1,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281409,SANKAVARAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,22,22,0,1,19,22,22,22,22,22,0,0,0,0,18,7,0,0,7,10,14,22,21,1,8,0,13,0,8,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281409,SANKAVARAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,1,2,0,0,0,2,2,4,0,0,3,0,0,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281409,SANKAVARAM,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1,1,1,1,0,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281409,SANKAVARAM,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281409,SANKAVARAM,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281409,SANKAVARAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,3,3,0,2,2,2,3,3,3,3,0,0,0,0,3,3,0,2,0,2,3,3,3,2,3,1,2,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281409,SANKAVARAM,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,0,1,0,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281409,SANKAVARAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,0,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281409,SANKAVARAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,5,5,0,4,5,5,5,5,5,5,0,0,0,0,4,2,0,0,0,4,4,5,5,1,2,0,5,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281409,SANKAVARAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,0,2,0,0,0,0,1,1,0,0,2,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281409,SANKAVARAM,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281410,PRATIPADU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,1,2,2,2,2,2,0,0,0,0,2,1,0,2,0,1,1,1,0,1,1,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281410,PRATIPADU,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281410,PRATIPADU,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,9,9,0,0,2,9,9,9,9,9,0,0,0,0,5,0,0,0,1,3,3,8,6,1,3,0,0,0,7,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281410,PRATIPADU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,25,24,0,3,21,25,25,25,25,25,0,0,0,0,18,1,0,0,13,14,9,24,23,2,16,0,15,0,11,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281410,PRATIPADU,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,1,1,0,0,1,1,1,2,2,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281410,PRATIPADU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,3,5,6,6,6,6,6,0,0,0,0,6,3,0,0,0,3,5,6,2,4,6,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281410,PRATIPADU,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281410,PRATIPADU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,5,5,6,6,6,6,6,0,0,0,0,6,2,0,3,1,6,2,6,6,2,4,1,4,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281410,PRATIPADU,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281410,PRATIPADU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,3,4,4,4,4,4,4,0,0,0,0,3,3,0,2,0,3,2,4,2,2,4,0,1,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281410,PRATIPADU,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,0,1,1,1,1,1,1,1,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281410,PRATIPADU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,6,6,0,4,6,6,6,6,6,6,0,0,0,0,4,3,0,0,6,1,0,6,5,0,2,0,2,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281410,PRATIPADU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,5,4,5,5,5,5,5,0,0,0,0,3,2,0,0,0,0,4,4,2,4,5,0,0,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281410,PRATIPADU,4,UPS (VI-VIII),3,Local body,Rural,3,Co-Ed,1,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,3,HSS (I-XII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,11,HSS (XI-XII),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,20,20,0,2,18,20,19,20,20,20,0,0,0,0,13,3,0,0,9,14,18,20,19,4,15,0,11,0,15,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,3,5,5,4,5,5,5,0,0,0,0,3,5,0,1,0,4,2,5,3,3,5,1,1,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,3,3,0,0,3,3,1,3,3,3,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,1,PS (I-V),3,Local body,Urban,3,Co-Ed,7,7,0,0,7,7,7,7,6,7,0,0,0,0,6,2,0,0,5,4,5,7,7,0,6,0,4,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,7,7,0,6,7,7,5,7,7,7,0,0,0,0,2,7,0,0,0,5,4,6,1,2,7,0,0,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,0,1,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,7,SS (VI-X),3,Local body,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,0,1,0,1,1,0,1,1,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,4,4,0,3,4,4,4,4,4,4,0,0,0,0,1,0,0,2,4,3,3,3,4,4,4,0,1,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,3,4,0,3,0,4,4,4,1,3,4,2,0,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,5,5,0,2,5,5,5,5,5,5,0,0,0,0,5,1,0,0,1,5,3,5,4,2,4,0,0,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,1,4,4,4,4,4,4,0,0,0,0,2,3,0,1,0,4,1,4,2,4,4,0,2,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281411,YELESWARAM,2,UPS (I-VIII),8,Unrecognized,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281412,GANGAVARAM,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281412,GANGAVARAM,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,15,15,0,0,11,15,15,15,13,15,0,0,0,0,1,4,0,0,2,9,14,15,15,2,8,0,0,0,6,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281412,GANGAVARAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,31,31,0,0,27,31,31,31,31,31,0,0,0,0,3,8,0,0,14,14,30,31,29,5,16,0,8,0,11,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281412,GANGAVARAM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,1,2,0,2,2,2,0,0,0,0,0,0,0,0,0,1,2,2,2,0,1,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281412,GANGAVARAM,6,SS (I-X),2,Tribal Welfare Department,Rural,2,Girls,2,2,0,1,2,2,2,0,2,2,0,0,0,0,1,1,0,0,0,2,1,2,2,2,2,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281412,GANGAVARAM,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281412,GANGAVARAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281412,GANGAVARAM,2,UPS (I-VIII),1,Department of Education,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281412,GANGAVARAM,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,0,0,0,2,1,2,1,2,2,1,1,2,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281412,GANGAVARAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,4,4,0,1,2,4,3,4,4,4,0,0,0,0,0,1,0,0,3,4,3,4,3,1,3,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,11,HSS (XI-XII),2,Tribal Welfare Department,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,11,HSS (XI-XII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,29,29,0,0,19,22,16,29,28,29,0,0,0,0,3,1,0,0,4,20,6,17,28,1,4,0,1,0,17,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,43,43,0,1,35,42,43,43,37,43,0,0,0,0,4,6,0,0,14,34,17,43,43,2,24,0,15,0,20,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,3,3,0,0,1,2,0,3,3,3,0,0,0,0,0,0,0,0,0,1,1,3,3,0,2,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,1,PS (I-V),3,Local body,Urban,3,Co-Ed,3,3,0,0,3,3,3,3,3,3,0,0,0,0,0,0,0,0,0,2,2,3,3,0,1,0,1,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,1,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,0,2,0,2,0,1,1,2,3,0,3,2,0,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,6,SS (I-X),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,6,SS (I-X),2,Tribal Welfare Department,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,6,SS (I-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,6,SS (I-X),2,Tribal Welfare Department,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,0,1,0,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,7,SS (VI-X),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,Girls,2,2,0,0,2,2,2,0,2,2,0,0,0,0,1,0,0,0,0,2,1,2,2,2,1,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,1,1,1,1,1,1,1,0,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,0,1,0,2,0,2,0,2,2,0,2,2,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,2,Girls,2,2,0,1,2,2,2,0,2,2,0,0,0,0,0,0,0,0,0,1,1,2,2,2,1,0,1,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,2,UPS (I-VIII),2,Tribal Welfare Department,Urban,2,Girls,1,1,0,1,0,1,1,0,1,1,0,0,0,0,1,0,0,0,1,1,1,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,0,0,0,1,2,0,2,2,1,0,0,1,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,2,UPS (I-VIII),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281413,RAMPACHODAVARAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281414,DEVIPATNAM,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,1,1,1,1,0,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281414,DEVIPATNAM,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,19,15,0,0,17,17,11,19,18,19,0,0,0,0,5,1,0,0,3,13,17,17,19,1,3,0,3,0,12,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281414,DEVIPATNAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,34,33,0,1,27,33,29,34,32,34,0,0,0,0,15,1,0,0,2,30,34,34,33,2,14,0,6,0,18,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281414,DEVIPATNAM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,5,5,0,0,4,4,0,5,5,5,0,0,0,0,0,0,0,0,0,3,5,5,5,0,4,0,0,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281414,DEVIPATNAM,6,SS (I-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281414,DEVIPATNAM,7,SS (VI-X),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281414,DEVIPATNAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,0,0,2,2,2,1,2,2,2,2,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281414,DEVIPATNAM,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,1,2,0,0,0,0,0,0,0,0,1,2,2,2,2,1,1,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281414,DEVIPATNAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,5,5,0,1,4,5,5,5,5,5,0,0,0,0,4,0,0,0,1,4,5,5,5,2,4,0,1,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281414,DEVIPATNAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281415,SEETHANAGARAM,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,1,1,0,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281415,SEETHANAGARAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,43,43,0,3,42,43,43,43,43,43,0,0,0,0,27,2,0,0,21,25,38,42,41,2,34,0,32,0,19,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281415,SEETHANAGARAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,4,3,0,0,0,3,1,4,2,3,4,0,0,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281415,SEETHANAGARAM,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,3,3,0,1,3,3,3,3,3,3,0,0,0,0,3,2,0,0,0,2,1,2,1,2,3,0,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281415,SEETHANAGARAM,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281415,SEETHANAGARAM,6,SS (I-X),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281415,SEETHANAGARAM,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,1,1,1,1,1,1,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281415,SEETHANAGARAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,5,6,6,6,6,6,6,0,0,0,0,3,1,0,2,4,4,6,6,6,5,4,3,6,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281415,SEETHANAGARAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,3,2,0,4,0,3,1,3,1,3,4,3,0,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281415,SEETHANAGARAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,7,7,0,3,6,7,7,7,6,7,0,0,0,0,6,0,0,0,5,4,4,7,5,4,2,0,6,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281415,SEETHANAGARAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,5,7,7,7,7,7,7,0,0,0,0,3,5,0,0,0,4,4,7,1,6,7,0,0,0,6,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281415,SEETHANAGARAM,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281415,SEETHANAGARAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,1,1,1,1,0,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281416,KORUKONDA,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281416,KORUKONDA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,1,0,0,1,0,0,1,2,0,1,2,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281416,KORUKONDA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,31,31,0,1,29,31,31,31,31,31,0,0,0,0,19,8,0,0,28,23,19,31,30,2,28,0,17,0,11,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281416,KORUKONDA,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281416,KORUKONDA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,7,8,8,8,8,8,8,0,0,0,0,5,8,0,0,0,6,1,8,2,5,8,0,1,0,7,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281416,KORUKONDA,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281416,KORUKONDA,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,1,0,1,1,1,0,0,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281416,KORUKONDA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,9,9,0,5,8,9,7,9,9,9,0,0,0,0,5,4,0,1,2,9,1,9,9,4,9,2,5,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281416,KORUKONDA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,5,7,7,7,7,7,7,0,0,0,0,4,5,0,4,0,5,0,7,1,6,6,5,1,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281416,KORUKONDA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,9,9,0,2,8,9,9,9,9,9,0,0,0,0,7,2,0,0,8,5,7,9,9,3,8,0,2,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281416,KORUKONDA,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281416,KORUKONDA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,10,10,0,7,8,10,8,10,10,10,0,0,0,0,3,10,0,0,0,9,1,9,3,7,10,0,1,0,7,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281417,GOKAVARAM,3,HSS (I-XII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281417,GOKAVARAM,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281417,GOKAVARAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,3,2,0,3,0,2,2,3,0,3,2,2,1,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281417,GOKAVARAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,33,33,0,1,22,33,33,33,33,33,0,0,0,0,26,6,0,0,20,26,26,33,21,5,25,0,16,0,11,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281417,GOKAVARAM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,0,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281417,GOKAVARAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,5,8,8,8,8,8,8,0,0,0,0,1,6,0,0,0,5,2,8,4,2,8,0,1,0,7,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281417,GOKAVARAM,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,1,1,0,0,0,2,0,2,0,2,2,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281417,GOKAVARAM,6,SS (I-X),1,Department of Education,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281417,GOKAVARAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,5,5,6,6,6,6,6,0,0,0,0,6,4,0,5,5,6,4,6,5,6,5,0,6,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281417,GOKAVARAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,5,5,5,5,5,5,5,0,0,0,0,2,5,0,3,0,4,2,5,4,2,5,0,0,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281417,GOKAVARAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,11,11,0,4,9,11,11,11,11,11,0,0,0,0,11,2,0,0,9,9,6,11,8,3,8,0,6,0,6,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281417,GOKAVARAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,2,6,6,6,6,6,6,0,0,0,0,0,5,0,0,0,5,0,5,1,4,4,0,1,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281418,JAGGAMPETA,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281418,JAGGAMPETA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,1,2,0,1,0,2,0,2,1,0,2,0,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281418,JAGGAMPETA,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,0,0,1,1,0,1,0,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281418,JAGGAMPETA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,32,32,0,0,29,32,32,32,32,32,0,0,0,0,26,3,0,0,17,23,22,32,32,4,21,0,21,0,12,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281418,JAGGAMPETA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,9,9,0,6,9,9,9,9,9,9,0,0,0,0,5,6,0,1,0,4,3,8,6,3,8,0,1,0,8,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281418,JAGGAMPETA,6,SS (I-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,1,0,0,1,1,0,1,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281418,JAGGAMPETA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,1,1,0,1,0,0,0,2,0,2,2,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281418,JAGGAMPETA,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281418,JAGGAMPETA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,4,4,0,3,4,4,4,4,4,4,0,0,0,0,1,4,0,2,3,4,3,4,4,4,4,1,1,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281418,JAGGAMPETA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,4,3,0,3,0,2,2,4,3,0,4,1,1,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281418,JAGGAMPETA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,6,6,0,3,6,6,6,6,6,6,0,0,0,0,6,0,0,0,4,2,3,6,6,1,2,0,2,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281418,JAGGAMPETA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,5,7,8,8,8,8,8,0,0,0,0,4,3,0,0,0,2,5,7,1,3,8,0,0,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281419,KIRLAMPUDI,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281419,KIRLAMPUDI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281419,KIRLAMPUDI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,28,28,0,2,24,28,27,28,27,28,0,0,0,0,20,3,0,0,16,14,17,27,28,2,14,0,25,0,12,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281419,KIRLAMPUDI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,4,5,6,5,6,6,6,0,0,0,0,0,3,0,0,0,4,3,4,2,5,4,0,5,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281419,KIRLAMPUDI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,1,0,1,0,1,1,2,1,1,2,0,1,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281419,KIRLAMPUDI,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,0,1,1,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281419,KIRLAMPUDI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,5,5,0,4,5,5,5,5,5,5,0,0,0,0,4,0,0,1,3,5,4,5,5,4,5,1,5,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281419,KIRLAMPUDI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281419,KIRLAMPUDI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,5,5,0,2,5,5,5,5,5,5,0,0,0,0,5,1,0,0,2,4,5,5,5,1,1,0,5,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281419,KIRLAMPUDI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,3,6,6,6,6,6,6,0,0,0,0,0,6,0,0,0,3,2,4,0,1,5,0,3,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281419,KIRLAMPUDI,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,3,HSS (I-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,1,1,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,5,HSS (VI-XII),7,Central Govt,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,1,1,1,1,1,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,2,3,0,2,0,3,2,3,0,3,2,1,1,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,33,33,0,1,31,33,33,33,33,33,0,0,0,0,28,4,0,0,27,13,18,33,31,10,19,0,17,0,21,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,1,1,1,1,0,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,5,6,6,6,6,6,6,0,0,0,0,3,4,0,0,0,4,4,6,2,5,6,0,2,0,6,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,1,PS (I-V),3,Local body,Urban,3,Co-Ed,21,21,0,2,20,21,21,21,21,21,0,0,0,0,20,2,0,0,7,8,8,21,17,19,7,0,7,0,10,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,8,8,0,7,7,8,8,8,8,8,0,0,0,0,3,8,0,1,0,3,2,8,2,4,7,1,0,0,8,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,7,SS (VI-X),4,Government Aided,Rural,2,Girls,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,0,1,0,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,7,SS (VI-X),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,0,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,7,7,0,4,7,7,7,7,7,7,0,0,0,0,6,4,0,2,2,6,7,7,7,5,6,1,5,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,2,2,0,1,0,1,2,3,1,2,3,0,0,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,7,SS (VI-X),3,Local body,Urban,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,2,0,1,0,1,2,2,1,1,1,2,2,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,2,0,0,0,2,0,2,1,1,2,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,5,5,0,5,5,5,5,5,5,5,0,0,0,0,2,4,0,4,0,3,1,5,0,3,5,1,1,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,7,7,0,6,7,7,7,7,7,7,0,0,0,0,7,5,0,0,6,7,5,7,7,5,5,0,5,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,5,5,5,5,5,5,5,0,0,0,0,2,4,0,0,0,4,0,5,1,4,5,0,2,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,3,1,0,0,3,2,1,3,1,3,2,0,2,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281420,PEDDAPURAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,8,8,0,7,8,8,7,8,8,8,0,0,0,0,2,5,0,1,0,1,3,8,4,7,7,1,2,0,7,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,3,HSS (I-XII),2,Tribal Welfare Department,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,1,0,1,0,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,1,2,1,2,2,2,0,0,0,0,1,0,0,0,0,0,0,2,0,2,2,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,11,HSS (XI-XII),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,4,4,0,0,3,4,4,4,4,4,0,0,0,0,0,2,0,3,0,2,0,4,0,2,3,1,0,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,33,33,0,0,30,33,33,33,33,33,0,0,0,0,2,8,0,0,15,22,16,33,29,2,18,0,8,0,11,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,2,4,4,4,4,4,4,0,0,0,0,1,1,0,0,0,3,2,4,2,1,4,0,1,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,1,PS (I-V),3,Local body,Urban,3,Co-Ed,22,22,0,4,21,22,22,22,22,22,0,0,0,0,4,4,0,0,16,15,9,22,18,2,16,0,6,0,6,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,15,15,0,14,13,15,15,15,15,15,0,0,0,0,2,11,0,1,0,12,2,15,2,7,15,0,0,0,14,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,7,SS (VI-X),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,7,SS (VI-X),3,Local body,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1,1,1,1,0,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,10,10,0,5,8,10,10,10,10,10,0,0,0,0,6,3,0,4,3,9,3,9,9,5,9,2,6,0,6,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,1,1,1,1,0,1,0,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,7,SS (VI-X),3,Local body,Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,1,0,1,0,2,0,1,1,2,2,0,2,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,1,1,0,0,0,2,0,2,1,0,2,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,12,12,0,12,12,12,12,12,12,12,0,0,0,0,1,9,0,10,0,12,1,12,3,4,12,5,0,0,12,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,9,9,0,5,9,9,9,9,9,9,0,0,0,0,3,2,0,0,8,7,0,9,9,0,3,0,3,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,5,7,8,8,8,8,8,0,0,0,0,0,8,0,2,0,7,2,7,4,4,7,2,2,0,6,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281421,PITHAPURAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,11,11,0,6,10,11,11,11,11,11,0,0,0,0,2,11,0,2,0,9,1,10,1,3,10,2,2,0,11,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281422,U.KOTHAPALLI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281422,U.KOTHAPALLI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,52,50,0,4,44,52,51,52,52,52,0,0,0,0,32,2,0,0,20,27,42,52,48,4,28,0,19,0,35,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281422,U.KOTHAPALLI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,4,8,8,4,8,8,8,0,0,0,0,0,7,0,0,0,5,1,8,3,3,8,0,2,0,6,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281422,U.KOTHAPALLI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,10,8,0,9,9,10,10,10,9,10,0,0,0,0,7,4,0,7,2,9,7,9,10,10,8,2,5,0,9,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281422,U.KOTHAPALLI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,0,1,1,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281422,U.KOTHAPALLI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,4,4,0,2,4,4,4,4,4,4,0,0,0,0,2,0,0,0,2,2,4,4,4,0,2,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281422,U.KOTHAPALLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,5,5,5,4,5,5,5,0,0,0,0,2,5,0,0,0,4,1,5,3,4,5,0,1,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,1,4,5,4,5,5,5,0,0,0,0,2,3,0,5,0,3,1,5,0,4,4,1,3,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),1,PS (I-V),3,Local body,Rural,3,Co-Ed,57,57,0,2,55,57,57,57,57,57,0,0,0,0,51,7,0,1,21,27,32,55,53,3,24,1,18,0,36,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,0,1,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,26,26,0,23,25,26,26,26,26,26,0,0,0,0,12,22,0,0,0,9,12,25,9,15,24,0,4,0,25,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),1,PS (I-V),3,Local body,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,1,1,1,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,2,3,0,0,0,2,1,3,0,3,3,0,0,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),6,SS (I-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,1,1,1,0,1,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,2,2,0,3,0,1,0,3,1,1,3,1,1,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),6,SS (I-X),8,Unrecognized,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,0,2,0,0,0,0,1,2,0,1,1,0,2,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),7,SS (VI-X),3,Local body,Rural,3,Co-Ed,13,13,0,9,13,13,13,13,13,13,0,0,0,0,11,9,0,5,5,12,9,13,12,8,8,3,3,0,7,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,0,1,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,22,22,0,20,21,22,22,22,22,22,0,0,0,0,15,17,0,11,0,7,11,21,6,10,21,6,2,0,21,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),7,SS (VI-X),3,Local body,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,6,6,0,4,5,6,5,6,6,6,0,0,0,0,2,4,0,2,0,2,1,6,3,3,6,1,0,0,6,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),2,UPS (I-VIII),1,Department of Education,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,4,3,0,2,4,4,4,4,4,4,0,0,0,0,4,0,0,0,1,1,3,4,4,1,3,0,2,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,25,25,0,21,25,25,25,25,25,25,0,0,0,0,12,21,0,1,0,13,9,25,11,16,25,1,4,0,25,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,1,2,0,0,1,1,1,2,1,1,2,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),2,UPS (I-VIII),8,Unrecognized,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281423,KAKINADA(RURAL),4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),3,HSS (I-XII),2,Tribal Welfare Department,Urban,2,Girls,1,1,0,0,0,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),11,HSS (XI-XII),1,Department of Education,Urban,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),11,HSS (XI-XII),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),11,HSS (XI-XII),4,Government Aided,Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,0,3,7,7,7,7,7,0,0,0,0,0,5,0,4,0,1,0,5,5,3,7,2,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),11,HSS (XI-XII),1,Department of Education,Urban,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,1,0,2,0,0,2,2,0,2,1,2,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),11,HSS (XI-XII),4,Government Aided,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,1,1,0,1,1,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,9,9,0,4,5,9,6,9,9,9,0,0,0,0,3,5,0,6,0,2,3,9,4,5,8,3,0,0,7,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),1,PS (I-V),5,Private Unaided (Recognized),Urban,1,Boys,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),1,PS (I-V),5,Private Unaided (Recognized),Urban,2,Girls,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,0,1,1,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),1,PS (I-V),3,Local body,Urban,3,Co-Ed,52,51,0,5,50,52,52,52,52,52,0,0,0,0,49,14,0,0,35,18,37,51,35,2,41,0,26,0,28,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,12,12,0,2,10,12,10,12,12,12,0,0,0,0,9,3,0,0,9,4,9,11,8,3,12,1,1,0,7,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,45,45,0,42,43,45,44,45,45,45,0,0,0,0,17,25,0,4,0,11,21,43,23,18,41,4,5,0,39,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),6,SS (I-X),2,Tribal Welfare Department,Urban,1,Boys,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),6,SS (I-X),5,Private Unaided (Recognized),Urban,2,Girls,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,1,1,0,1,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,6,6,0,5,6,6,6,6,6,6,0,0,0,0,4,5,0,4,0,3,2,6,4,5,6,1,1,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,0,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),7,SS (VI-X),3,Local body,Urban,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,1,1,1,1,1,1,1,1,1,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),7,SS (VI-X),5,Private Unaided (Recognized),Urban,1,Boys,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,1,1,1,0,1,1,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),7,SS (VI-X),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),7,SS (VI-X),3,Local body,Urban,2,Girls,3,3,0,2,3,3,3,0,3,3,0,0,0,0,3,2,0,2,1,2,1,3,2,2,3,0,1,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),7,SS (VI-X),4,Government Aided,Urban,2,Girls,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,2,0,1,1,0,1,2,1,1,2,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),7,SS (VI-X),5,Private Unaided (Recognized),Urban,2,Girls,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,1,0,2,1,2,2,1,2,0,2,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),7,SS (VI-X),3,Local body,Urban,3,Co-Ed,11,11,0,8,11,11,11,11,11,11,0,0,0,0,9,7,0,7,7,9,8,11,7,4,9,4,8,0,6,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,7,7,0,2,6,7,7,7,7,7,0,0,0,0,7,7,0,2,3,2,1,7,4,2,7,5,1,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,41,40,0,35,38,41,41,41,41,41,0,0,0,0,19,24,0,25,0,10,11,39,20,15,39,18,4,0,38,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,1,1,1,0,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),2,UPS (I-VIII),4,Government Aided,Urban,3,Co-Ed,12,12,0,1,10,12,12,12,12,12,0,0,0,0,12,3,0,0,4,4,10,12,8,0,10,0,1,0,11,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281424,KAKINDA(URBAN),2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,46,46,0,33,42,46,46,46,46,46,0,0,0,0,22,32,0,2,0,7,22,43,21,23,44,2,5,0,40,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,11,HSS (XI-XII),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,0,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,41,41,0,6,41,41,41,41,41,41,0,0,0,0,39,3,0,0,6,20,31,41,39,0,21,0,17,0,21,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,1,2,2,2,0,0,0,0,2,0,0,0,1,1,2,2,1,0,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,5,7,8,8,8,8,8,0,0,0,0,8,7,0,0,0,6,6,8,4,2,8,0,3,0,8,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,1,PS (I-V),3,Local body,Urban,3,Co-Ed,13,13,0,0,11,13,11,13,13,13,0,0,0,0,13,0,0,0,4,4,10,13,6,1,4,0,0,0,9,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,2,2,0,0,1,2,1,2,2,2,0,0,0,0,2,1,0,0,0,1,2,2,2,0,2,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,12,12,0,10,12,12,12,12,12,12,0,0,0,0,12,8,0,0,1,10,5,11,3,5,12,0,3,0,9,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,1,1,0,1,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,7,SS (VI-X),3,Local body,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,9,9,0,7,9,9,9,9,9,9,0,0,0,0,9,5,0,2,1,8,8,9,9,4,8,1,4,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,1,0,2,2,2,2,1,2,2,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,1,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,7,SS (VI-X),3,Local body,Urban,3,Co-Ed,4,4,0,2,4,4,4,4,4,4,0,0,0,0,4,4,0,3,0,3,3,4,4,4,3,1,3,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,8,8,0,8,8,8,8,8,8,8,0,0,0,0,8,6,0,5,0,5,3,8,3,3,8,4,2,0,7,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,4,4,0,2,4,4,4,4,4,4,0,0,0,0,4,1,0,0,2,3,4,4,3,1,2,0,4,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,14,14,0,9,13,14,14,14,14,14,0,0,0,0,13,11,0,1,0,6,8,14,8,10,14,1,4,0,14,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281425,SAMALKOTA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,5,5,0,4,5,5,5,5,5,5,0,0,0,0,5,4,0,0,0,4,4,5,2,2,5,0,1,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281426,RANGAMPETA,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,0,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281426,RANGAMPETA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,33,33,0,0,31,32,33,33,33,33,0,0,0,0,26,2,0,0,19,23,26,33,30,3,26,0,20,0,15,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281426,RANGAMPETA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281426,RANGAMPETA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,9,9,0,7,9,9,9,9,9,9,0,0,0,0,5,5,0,3,5,9,7,9,7,7,8,1,5,0,6,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281426,RANGAMPETA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,5,5,0,3,5,5,5,5,5,5,0,0,0,0,5,0,0,0,4,5,5,5,5,1,5,0,5,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281426,RANGAMPETA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,7,7,8,8,8,8,8,0,0,0,0,3,7,0,0,0,7,5,7,2,5,8,0,0,0,6,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281427,GANDEPALLI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281427,GANDEPALLI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,29,29,0,4,26,29,28,29,29,29,0,0,0,0,20,4,0,0,19,18,13,29,29,2,20,0,19,0,13,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281427,GANDEPALLI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,2,3,2,3,3,3,0,0,0,0,1,3,0,1,0,2,1,3,0,0,2,0,1,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281427,GANDEPALLI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,1,0,1,0,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281427,GANDEPALLI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,5,6,6,6,6,6,6,0,0,0,0,5,5,0,2,4,6,4,6,6,2,6,2,4,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281427,GANDEPALLI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,6,6,0,5,5,6,6,6,6,6,0,0,0,0,5,1,0,0,6,4,3,6,6,0,4,0,2,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281427,GANDEPALLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,5,5,5,4,5,5,5,0,0,0,0,4,3,0,3,0,1,0,5,2,3,4,0,4,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281428,RAJANAGARAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,1,1,0,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281428,RAJANAGARAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,5,5,6,6,6,6,6,0,0,0,0,4,6,0,2,0,4,2,5,1,3,5,0,1,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281428,RAJANAGARAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,38,38,0,2,36,38,38,38,38,38,0,0,0,0,24,2,0,0,28,24,27,37,34,9,24,0,11,0,8,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281428,RAJANAGARAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,12,12,0,10,11,12,12,12,12,12,0,0,0,0,7,10,0,0,0,9,7,12,4,4,12,0,0,0,10,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281428,RAJANAGARAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,14,14,0,9,14,14,14,14,14,14,0,0,0,0,11,7,0,8,5,13,10,14,12,10,13,1,10,0,11,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281428,RAJANAGARAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,7,8,8,8,8,8,8,0,0,0,0,6,8,0,5,0,8,2,5,3,2,7,2,1,0,7,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281428,RAJANAGARAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,8,8,0,4,8,8,8,8,8,8,0,0,0,0,7,0,0,0,6,2,5,8,8,4,2,0,2,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281428,RAJANAGARAM,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,1,0,0,0,1,2,2,2,2,0,2,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281428,RAJANAGARAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,16,16,0,12,15,16,16,16,16,16,0,0,0,0,14,11,0,1,0,6,5,16,4,10,14,0,4,0,12,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAHMUNDRY(RURAL),3,HSS (I-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,0,1,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAHMUNDRY(RURAL),11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,2,3,4,4,4,4,4,0,0,0,0,4,4,0,3,0,3,3,4,2,2,3,2,2,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAHMUNDRY(RURAL),11,HSS (XI-XII),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAHMUNDRY(RURAL),11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,1,1,3,3,3,3,3,0,0,0,0,3,2,0,3,0,0,2,3,1,2,3,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAHMUNDRY(RURAL),1,PS (I-V),3,Local body,Rural,3,Co-Ed,30,29,0,1,28,30,30,30,30,30,0,0,0,0,29,2,0,0,23,11,23,30,30,2,23,0,24,0,13,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAHMUNDRY(RURAL),1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,2,1,0,0,1,1,2,2,2,0,2,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAHMUNDRY(RURAL),1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,19,19,0,17,19,19,19,19,19,19,0,0,0,0,19,19,0,0,0,10,7,17,5,12,18,0,3,0,19,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAHMUNDRY(RURAL),1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAHMUNDRY(RURAL),1,PS (I-V),3,Local body,Urban,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,3,0,0,0,3,1,3,3,3,0,3,0,2,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAHMUNDRY(RURAL),1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAHMUNDRY(RURAL),1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAHMUNDRY(RURAL),6,SS (I-X),2,Tribal Welfare Department,Rural,2,Girls,2,2,0,2,2,2,2,0,2,2,0,0,0,0,2,1,0,1,0,2,1,2,2,1,1,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAHMUNDRY(RURAL),6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAHMUNDRY(RURAL),7,SS (VI-X),3,Local body,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,0,0,1,1,1,1,0,1,1,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAHMUNDRY(RURAL),7,SS (VI-X),3,Local body,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAHMUNDRY(RURAL),7,SS (VI-X),3,Local body,Rural,3,Co-Ed,8,8,0,7,7,8,8,8,8,8,0,0,0,0,8,6,0,7,0,8,4,8,6,5,8,2,7,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAHMUNDRY(RURAL),7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,2,2,0,0,0,1,2,2,2,0,2,1,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAHMUNDRY(RURAL),7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,12,12,0,12,12,12,12,12,12,12,0,0,0,0,12,11,0,7,0,6,4,12,5,7,12,4,1,0,12,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAHMUNDRY(RURAL),7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAHMUNDRY(RURAL),2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,6,6,0,4,5,6,6,6,6,6,0,0,0,0,6,1,0,0,5,5,5,6,6,0,4,0,6,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAHMUNDRY(RURAL),2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,21,21,0,18,21,21,21,21,21,21,0,0,0,0,21,20,0,0,0,12,9,18,6,16,20,0,2,0,18,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAHMUNDRY(RURAL),2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,0,1,1,1,0,0,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAHMUNDRY(RURAL),2,UPS (I-VIII),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAHMUNDRY(RURAL),2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,4,4,0,0,0,2,3,4,1,0,4,0,0,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281429,RAJAHMUNDRY(RURAL),2,UPS (I-VIII),8,Unrecognized,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAHMUNDRY(URBAN),3,HSS (I-XII),7,Central Govt,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,1,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAHMUNDRY(URBAN),11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,Girls,2,2,0,0,0,2,2,1,2,2,0,0,0,0,0,1,0,1,0,0,1,2,0,0,1,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAHMUNDRY(URBAN),11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAHMUNDRY(URBAN),11,HSS (XI-XII),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAHMUNDRY(URBAN),11,HSS (XI-XII),4,Government Aided,Urban,3,Co-Ed,2,2,0,1,1,2,2,2,2,2,0,0,0,0,1,1,0,1,0,1,0,2,0,1,2,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAHMUNDRY(URBAN),11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,19,19,0,6,12,19,16,19,19,19,0,0,0,0,3,4,0,11,0,1,10,16,4,7,14,5,1,0,13,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAHMUNDRY(URBAN),1,PS (I-V),1,Department of Education,Urban,2,Girls,1,1,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAHMUNDRY(URBAN),1,PS (I-V),4,Government Aided,Urban,2,Girls,2,2,0,0,2,2,2,2,2,2,0,0,0,0,1,0,0,0,1,1,2,2,1,0,2,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAHMUNDRY(URBAN),1,PS (I-V),3,Local body,Urban,3,Co-Ed,51,51,0,1,51,51,51,51,51,51,0,0,0,0,24,30,0,0,39,14,28,51,43,5,26,0,16,0,28,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAHMUNDRY(URBAN),1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,11,11,0,3,11,11,11,11,11,11,0,0,0,0,5,5,0,0,4,2,4,9,10,4,9,0,0,0,10,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAHMUNDRY(URBAN),1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,40,40,0,37,40,40,40,40,40,40,0,0,0,0,7,35,0,0,0,10,9,37,13,11,37,0,9,0,34,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAHMUNDRY(URBAN),6,SS (I-X),1,Department of Education,Urban,1,Boys,1,0,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,1,0,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAHMUNDRY(URBAN),6,SS (I-X),5,Private Unaided (Recognized),Urban,1,Boys,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAHMUNDRY(URBAN),6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,1,0,1,0,1,2,2,1,1,2,1,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAHMUNDRY(URBAN),7,SS (VI-X),1,Department of Education,Urban,1,Boys,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAHMUNDRY(URBAN),7,SS (VI-X),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAHMUNDRY(URBAN),7,SS (VI-X),4,Government Aided,Urban,2,Girls,2,2,0,0,2,2,2,2,2,2,0,0,0,0,1,2,0,0,0,1,1,2,1,0,2,1,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAHMUNDRY(URBAN),7,SS (VI-X),3,Local body,Urban,3,Co-Ed,13,13,0,13,13,13,13,13,13,13,0,0,0,0,6,12,0,11,0,8,9,13,10,5,9,2,5,0,9,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAHMUNDRY(URBAN),7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,13,13,0,6,13,13,13,13,13,13,0,0,0,0,3,13,0,3,0,7,9,13,11,3,12,4,0,0,10,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAHMUNDRY(URBAN),7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,37,37,0,32,37,37,36,37,37,37,0,0,0,0,13,27,0,13,0,7,23,36,14,12,34,10,3,0,34,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAHMUNDRY(URBAN),7,SS (VI-X),7,Central Govt,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAHMUNDRY(URBAN),2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,3,1,0,0,3,2,1,2,3,0,1,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAHMUNDRY(URBAN),2,UPS (I-VIII),4,Government Aided,Urban,3,Co-Ed,5,5,0,1,4,5,5,5,5,5,0,0,0,0,3,4,0,0,3,0,2,5,4,0,3,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281430,RAJAHMUNDRY(URBAN),2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,42,42,0,36,42,42,42,42,42,42,0,0,0,0,8,40,0,0,1,15,9,37,11,12,38,0,3,0,39,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281431,KADIAM,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281431,KADIAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,0,0,2,0,0,1,2,2,2,2,2,1,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281431,KADIAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,40,40,0,3,39,40,40,40,39,40,0,0,0,0,10,5,0,0,28,15,35,40,39,20,27,0,8,0,22,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281431,KADIAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,12,12,0,7,12,12,12,12,12,12,0,0,0,0,0,7,0,0,0,7,7,11,0,4,9,0,1,0,8,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281431,KADIAM,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281431,KADIAM,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,0,1,0,1,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281431,KADIAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,9,9,0,8,9,9,9,9,9,9,0,0,0,0,3,5,0,6,6,9,8,9,9,7,8,1,2,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281431,KADIAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,5,5,5,5,5,5,5,0,0,0,0,0,5,0,3,0,5,1,4,0,2,5,2,1,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281431,KADIAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,2,2,0,1,1,2,2,2,2,2,0,0,0,0,2,0,0,0,0,2,1,2,2,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281431,KADIAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,10,10,0,7,9,10,10,10,10,10,0,0,0,0,2,9,0,0,0,4,3,9,3,4,9,0,0,0,6,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,1,0,2,0,1,1,2,1,1,2,1,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,11,HSS (XI-XII),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,2,1,3,3,3,3,3,0,0,0,0,1,0,0,1,0,0,3,3,2,1,3,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,40,40,0,3,39,40,40,40,39,40,0,0,0,0,25,7,0,0,8,12,25,39,39,0,20,0,23,0,17,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,5,5,5,4,5,5,5,0,0,0,0,2,2,0,0,0,1,4,5,4,1,5,0,1,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,1,PS (I-V),3,Local body,Urban,3,Co-Ed,12,12,0,0,11,12,10,12,12,12,0,0,0,0,11,2,0,0,2,0,11,11,12,0,3,0,6,0,6,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,8,8,0,8,8,8,7,8,8,8,0,0,0,0,0,7,0,0,0,2,3,8,5,5,6,0,2,0,6,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,7,SS (VI-X),3,Local body,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,1,0,1,1,1,0,1,1,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,7,SS (VI-X),3,Local body,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,6,6,6,6,6,6,6,0,0,0,0,3,4,0,5,1,5,4,6,6,5,6,1,4,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,3,2,4,4,4,4,4,0,0,0,0,0,1,0,1,0,1,0,4,1,1,4,0,1,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,7,SS (VI-X),3,Local body,Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,0,1,0,0,0,1,1,2,2,0,0,0,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,8,8,0,6,5,8,7,8,8,8,0,0,0,0,0,3,0,3,0,1,0,7,4,2,7,2,2,0,6,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,16,16,0,13,15,16,15,16,16,16,0,0,0,0,4,14,0,0,0,6,4,15,7,5,14,0,2,0,11,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,5,5,0,2,5,5,5,5,5,5,0,0,0,0,3,1,0,0,4,3,5,5,4,0,2,0,3,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,2,UPS (I-VIII),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,15,15,0,6,14,15,14,15,15,15,0,0,0,0,2,8,0,0,0,5,4,14,2,3,9,0,2,0,12,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281432,MANDAPETA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,0,3,0,1,0,0,0,3,2,0,1,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281433,ANAPARTHI,3,HSS (I-XII),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281433,ANAPARTHI,11,HSS (XI-XII),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,1,0,1,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281433,ANAPARTHI,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281433,ANAPARTHI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,1,2,1,2,2,2,0,0,0,0,2,2,0,2,0,0,1,1,0,1,1,1,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281433,ANAPARTHI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,30,29,0,5,29,30,30,30,30,30,0,0,0,0,27,7,0,0,0,7,21,29,27,5,13,0,10,0,24,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281433,ANAPARTHI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,9,9,0,7,9,9,9,9,9,9,0,0,0,0,4,8,0,0,0,2,6,8,2,4,9,0,0,0,9,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281433,ANAPARTHI,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281433,ANAPARTHI,7,SS (VI-X),3,Local body,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281433,ANAPARTHI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,5,6,6,6,6,6,6,0,0,0,0,6,4,0,4,0,6,5,6,6,6,6,2,5,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281433,ANAPARTHI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,6,6,6,6,6,6,6,0,0,0,0,3,6,0,6,0,2,5,6,2,4,6,1,0,0,6,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281433,ANAPARTHI,7,SS (VI-X),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,0,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281433,ANAPARTHI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,4,4,0,3,4,4,4,4,4,4,0,0,0,0,4,1,0,0,0,2,4,4,4,1,2,0,3,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281433,ANAPARTHI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,0,3,0,0,0,2,2,2,0,0,4,0,1,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281434,BICCAVOLU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281434,BICCAVOLU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,31,31,0,4,29,31,31,31,31,31,0,0,0,0,20,4,0,0,0,8,18,31,29,18,16,0,11,0,17,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281434,BICCAVOLU,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281434,BICCAVOLU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,10,10,0,6,10,10,10,10,10,10,0,0,0,0,0,6,0,0,0,5,7,10,6,4,10,0,1,0,8,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281434,BICCAVOLU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,7,7,0,5,7,7,7,7,7,7,0,0,0,0,5,3,0,5,0,6,3,6,7,7,6,2,3,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281434,BICCAVOLU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281434,BICCAVOLU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,1,0,0,0,1,1,2,1,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281434,BICCAVOLU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,1,0,0,0,1,0,2,0,2,2,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281435,PEDAPUDI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281435,PEDAPUDI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,46,46,0,2,45,46,46,46,45,46,0,0,0,0,27,4,0,0,18,24,24,46,44,20,24,45,21,0,24,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281435,PEDAPUDI,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281435,PEDAPUDI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,9,9,0,6,9,9,9,9,9,9,0,0,0,0,4,6,0,5,0,2,4,9,2,8,9,8,1,0,7,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281435,PEDAPUDI,6,SS (I-X),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281435,PEDAPUDI,7,SS (VI-X),3,Local body,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0,1,1,1,0,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281435,PEDAPUDI,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281435,PEDAPUDI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,12,12,0,7,11,12,12,12,12,12,0,0,0,0,11,7,0,5,7,10,7,12,12,11,10,2,7,0,8,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281435,PEDAPUDI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,5,5,5,5,5,5,5,0,0,0,0,2,5,0,4,0,3,3,5,2,4,5,2,2,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281435,PEDAPUDI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,4,5,5,5,5,5,5,0,0,0,0,1,4,0,0,0,3,0,5,3,4,5,5,0,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281436,KARAPA,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281436,KARAPA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,51,51,0,0,44,50,51,51,51,51,0,0,0,0,28,4,0,0,11,13,44,51,49,26,24,0,10,0,31,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281436,KARAPA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,6,6,6,6,6,6,6,0,0,0,0,5,4,0,0,0,4,3,5,5,3,6,0,0,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281436,KARAPA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,9,9,0,8,9,9,9,9,9,9,0,0,0,0,8,8,0,6,5,9,7,9,8,7,9,1,6,0,6,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281436,KARAPA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,1,2,1,2,2,2,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281436,KARAPA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,5,5,0,2,5,5,5,5,5,5,0,0,0,0,5,0,0,0,2,2,3,5,5,4,2,0,3,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281436,KARAPA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,11,11,0,9,11,11,11,11,11,11,0,0,0,0,6,8,0,0,0,4,3,11,6,10,11,0,1,0,11,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281437,THALLAREVU,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281437,THALLAREVU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,1,2,2,2,2,2,0,0,0,0,2,2,0,2,0,0,1,2,0,2,1,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281437,THALLAREVU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,60,60,0,2,49,60,58,60,60,60,0,0,0,0,31,6,0,0,12,33,15,59,57,5,37,0,22,0,36,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281437,THALLAREVU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,0,2,0,1,0,2,1,3,2,2,2,0,0,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281437,THALLAREVU,6,SS (I-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281437,THALLAREVU,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,1,1,2,2,2,2,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281437,THALLAREVU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,10,10,0,8,9,10,10,10,10,10,0,0,0,0,7,6,0,4,3,10,6,10,10,5,9,3,4,0,7,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281437,THALLAREVU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281437,THALLAREVU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,6,6,0,3,5,6,6,6,6,6,0,0,0,0,3,3,0,0,4,4,3,6,6,2,5,0,4,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281437,THALLAREVU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,14,14,0,14,13,14,14,14,14,14,0,0,0,0,9,12,0,1,1,8,5,14,11,6,13,0,1,0,11,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281438,KAJULURU,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281438,KAJULURU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,3,1,0,1,0,2,2,2,0,3,3,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281438,KAJULURU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,60,60,0,2,46,60,60,60,60,60,0,0,0,0,56,9,0,0,15,38,43,60,57,16,26,0,19,0,30,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281438,KAJULURU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,1,2,0,0,0,2,3,3,2,1,2,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281438,KAJULURU,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281438,KAJULURU,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,0,0,1,2,2,1,2,2,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281438,KAJULURU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,10,10,0,4,9,10,10,10,10,10,0,0,0,0,9,8,0,6,0,10,7,10,10,7,8,1,7,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281438,KAJULURU,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281438,KAJULURU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281438,KAJULURU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,7,7,0,1,7,7,7,7,7,7,0,0,0,0,7,0,0,0,3,6,5,7,7,0,4,0,4,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281438,KAJULURU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,6,6,7,7,7,7,7,0,0,0,0,7,4,0,0,0,7,3,5,3,3,7,1,1,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,0,1,1,1,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,1,2,2,2,2,2,0,0,0,0,2,0,0,2,0,0,1,2,1,1,2,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,11,HSS (XI-XII),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,4,4,0,1,0,4,4,4,4,4,0,0,0,0,4,0,0,2,0,0,1,4,0,0,3,2,0,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,44,44,0,0,41,44,44,44,44,44,0,0,0,0,43,2,0,0,9,11,30,44,39,27,25,0,6,0,28,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,5,6,7,7,7,7,7,0,0,0,0,6,5,0,0,0,2,3,7,3,4,6,0,0,0,6,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,1,PS (I-V),3,Local body,Urban,3,Co-Ed,16,16,0,1,14,16,16,16,15,16,0,0,0,0,15,2,0,0,2,4,9,14,16,14,5,0,3,0,8,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,2,1,0,0,1,0,2,2,2,1,2,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,14,14,0,12,14,14,14,14,14,14,0,0,0,0,14,10,0,1,0,2,8,13,2,7,14,1,0,0,12,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,7,SS (VI-X),3,Local body,Urban,2,Girls,2,2,0,2,2,2,2,0,2,2,0,0,0,0,2,1,0,2,0,1,1,2,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,5,5,0,5,5,5,5,5,5,5,0,0,0,0,5,3,0,3,0,4,4,5,5,4,5,0,2,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,2,1,0,0,0,2,2,2,2,1,2,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,5,5,5,5,5,5,5,0,0,0,0,5,5,0,3,0,2,2,5,0,4,4,3,0,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,1,1,1,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,7,SS (VI-X),3,Local body,Urban,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,3,4,0,4,0,4,2,4,3,4,3,2,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,13,13,0,11,12,13,13,13,13,13,0,0,0,0,12,8,0,7,0,1,3,12,2,6,13,4,1,0,10,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,10,10,0,3,9,10,10,10,10,10,0,0,0,0,10,0,0,0,4,2,9,10,10,3,4,0,2,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,3,4,4,4,4,4,4,0,0,0,0,4,3,0,0,0,2,2,2,2,1,2,0,0,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,2,UPS (I-VIII),4,Government Aided,Urban,3,Co-Ed,3,3,0,0,3,3,3,3,3,3,0,0,0,0,3,3,0,0,0,1,2,3,3,2,3,0,0,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281439,RAMACHANDRAPURAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,5,5,0,2,5,5,5,5,5,5,0,0,0,0,5,4,0,0,0,1,0,5,2,3,5,0,0,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281440,RAYAVARAM,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,0,1,1,0,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281440,RAYAVARAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,32,32,0,4,32,32,32,32,31,32,0,0,0,0,27,6,0,0,0,16,19,30,28,2,21,0,15,0,26,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281440,RAYAVARAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,4,5,5,5,5,5,5,0,0,0,0,5,4,0,0,0,3,1,5,1,2,5,1,0,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281440,RAYAVARAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,8,8,0,8,8,8,8,8,8,8,0,0,0,0,8,6,0,5,0,8,6,8,8,7,6,3,2,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281440,RAYAVARAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,3,3,0,3,0,3,1,3,0,2,3,2,0,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281440,RAYAVARAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,4,4,0,1,4,4,4,4,4,4,0,0,0,0,4,2,0,0,0,3,2,4,4,0,3,0,2,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281440,RAYAVARAM,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281440,RAYAVARAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,11,11,0,9,10,11,10,11,11,11,0,0,0,0,7,9,0,2,0,4,4,11,2,3,11,2,1,0,11,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281441,KAPILESWARAPURAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281441,KAPILESWARAPURAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,37,37,0,2,36,37,37,37,37,37,0,0,0,0,10,2,0,0,11,16,17,37,37,30,23,0,25,0,30,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281441,KAPILESWARAPURAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,3,4,4,4,4,4,4,0,0,0,0,1,4,0,0,0,4,0,4,1,4,3,0,2,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281441,KAPILESWARAPURAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,8,8,0,8,8,8,8,8,8,8,0,0,0,0,2,4,0,4,2,8,5,8,8,5,8,1,5,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281441,KAPILESWARAPURAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,0,2,0,0,0,2,0,2,0,2,2,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281441,KAPILESWARAPURAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,7,7,0,3,7,7,7,7,7,7,0,0,0,0,0,0,0,0,4,3,5,7,7,1,3,0,5,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281441,KAPILESWARAPURAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,4,7,7,7,7,7,7,0,0,0,0,2,6,0,0,0,6,0,7,2,6,7,0,1,0,7,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281442,ALAMURU,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,1,1,1,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281442,ALAMURU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,38,38,0,2,38,38,38,38,38,38,0,0,0,0,18,3,0,0,22,18,33,37,37,5,25,0,16,0,19,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281442,ALAMURU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,2,4,4,4,4,4,4,0,0,0,0,1,3,0,0,0,3,1,4,2,1,4,0,0,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281442,ALAMURU,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281442,ALAMURU,7,SS (VI-X),3,Local body,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,0,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281442,ALAMURU,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281442,ALAMURU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,5,5,0,4,5,5,5,5,5,5,0,0,0,0,5,2,0,3,2,5,4,5,5,3,4,0,3,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281442,ALAMURU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,1,0,0,1,2,0,2,2,1,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281442,ALAMURU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,4,4,0,1,4,4,4,4,4,4,0,0,0,0,1,0,0,0,4,3,4,4,4,0,3,0,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281442,ALAMURU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,14,14,0,9,11,14,14,14,14,14,0,0,0,0,3,7,0,0,0,4,6,14,7,5,13,0,2,0,12,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281443,ATREYAPURAM,5,HSS (VI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,1,1,1,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281443,ATREYAPURAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,43,43,0,7,36,43,43,43,43,43,0,0,0,0,37,8,0,0,11,19,33,43,40,27,15,0,17,0,20,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281443,ATREYAPURAM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281443,ATREYAPURAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,5,7,7,7,7,7,7,0,0,0,0,5,7,0,0,0,3,2,7,2,2,7,0,1,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281443,ATREYAPURAM,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281443,ATREYAPURAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,7,7,0,6,6,7,7,7,7,7,0,0,0,0,7,5,0,4,1,5,7,7,7,7,4,0,4,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281443,ATREYAPURAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,2,0,1,0,2,1,2,0,2,2,2,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281443,ATREYAPURAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,3,3,0,1,3,3,3,3,3,3,0,0,0,0,3,2,0,0,2,1,2,3,3,0,1,0,2,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281443,ATREYAPURAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,5,5,5,5,5,5,5,0,0,0,0,5,4,0,0,0,3,4,5,1,4,5,0,0,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281444,RAVULAPALEM,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281444,RAVULAPALEM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,5,5,7,6,7,7,7,0,0,0,0,3,2,0,5,0,2,5,6,2,4,4,3,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281444,RAVULAPALEM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,42,42,0,7,39,42,42,42,42,42,0,0,0,0,33,4,0,0,12,10,13,42,38,7,22,0,9,0,28,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281444,RAVULAPALEM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,1,2,2,2,0,0,0,0,0,1,0,0,1,0,2,2,2,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281444,RAVULAPALEM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,10,10,0,8,8,10,10,10,10,10,0,0,0,0,5,7,0,0,0,3,3,10,5,7,10,0,1,0,10,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281444,RAVULAPALEM,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,2,3,3,3,3,3,0,0,0,0,3,2,0,2,0,2,3,3,2,3,3,0,1,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281444,RAVULAPALEM,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281444,RAVULAPALEM,7,SS (VI-X),3,Local body,Rural,2,Girls,2,2,0,1,2,2,2,0,2,2,0,0,0,0,1,1,0,1,0,1,2,2,2,1,2,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281444,RAVULAPALEM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,7,7,0,7,7,7,7,7,7,7,0,0,0,0,5,6,0,5,0,7,1,7,7,7,7,2,0,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281444,RAVULAPALEM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,6,7,8,8,8,8,8,0,0,0,0,2,5,0,8,0,3,7,8,3,3,8,2,1,0,8,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281444,RAVULAPALEM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,3,3,0,3,2,3,3,3,3,3,0,0,0,0,3,2,0,0,1,2,2,3,3,0,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281444,RAVULAPALEM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,12,12,0,9,12,12,12,12,12,12,0,0,0,0,5,7,0,1,0,3,3,11,6,8,11,1,0,0,12,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281445,K.GANGAVARAM,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,0,1,1,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281445,K.GANGAVARAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,1,3,2,3,3,3,0,0,0,0,0,2,0,1,0,2,2,2,1,1,2,1,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281445,K.GANGAVARAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,59,59,0,9,57,59,59,59,59,59,0,0,0,0,54,4,0,0,11,18,36,59,55,48,23,0,35,0,53,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281445,K.GANGAVARAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,0,3,3,3,3,3,3,0,0,0,0,1,3,0,0,0,1,1,2,0,2,3,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281445,K.GANGAVARAM,1,PS (I-V),3,Local body,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281445,K.GANGAVARAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,10,10,0,9,10,10,10,10,10,10,0,0,0,0,9,6,0,5,2,10,9,10,10,8,5,2,5,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281445,K.GANGAVARAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,4,4,0,0,4,4,4,4,4,4,0,0,0,0,4,1,0,0,2,1,4,4,4,4,1,0,2,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281445,K.GANGAVARAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,9,9,0,7,9,9,9,9,9,9,0,0,0,0,2,6,0,0,0,2,1,2,0,4,9,0,2,0,8,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281446,KOTHAPETA,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,1,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281446,KOTHAPETA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,1,4,4,4,4,4,4,0,0,0,0,2,4,0,4,0,2,2,3,0,4,3,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281446,KOTHAPETA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,65,63,0,4,61,65,65,65,65,65,0,0,0,0,32,4,0,0,8,30,30,65,58,19,39,0,11,0,41,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281446,KOTHAPETA,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281446,KOTHAPETA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,11,11,0,11,11,11,11,11,11,11,0,0,0,0,3,8,0,0,0,6,5,11,5,3,11,0,1,0,11,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281446,KOTHAPETA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281446,KOTHAPETA,7,SS (VI-X),3,Local body,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281446,KOTHAPETA,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281446,KOTHAPETA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,10,10,0,7,10,10,10,10,10,10,0,0,0,0,8,6,0,8,1,7,8,10,9,4,7,4,0,0,8,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281446,KOTHAPETA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,10,10,0,10,10,10,10,10,10,10,0,0,0,0,2,8,0,3,0,6,2,10,5,5,10,3,1,0,10,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281446,KOTHAPETA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,7,7,0,1,7,7,7,7,7,7,0,0,0,0,5,2,0,0,4,3,4,7,7,2,5,0,2,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281446,KOTHAPETA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,5,5,5,5,5,5,5,0,0,0,0,2,5,0,0,0,1,2,5,4,3,5,0,0,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281447,P.GANNAVARAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,2,3,5,5,5,5,5,0,0,0,0,0,3,0,4,0,2,2,2,0,1,3,1,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281447,P.GANNAVARAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,69,69,0,1,62,67,68,69,69,69,0,0,0,0,47,3,0,0,10,28,45,67,52,37,36,0,6,0,42,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281447,P.GANNAVARAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,3,7,7,5,7,7,7,0,0,0,0,2,7,0,0,0,7,3,7,3,4,7,0,2,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281447,P.GANNAVARAM,6,SS (I-X),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281447,P.GANNAVARAM,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281447,P.GANNAVARAM,7,SS (VI-X),3,Local body,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281447,P.GANNAVARAM,7,SS (VI-X),3,Local body,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281447,P.GANNAVARAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,9,9,0,7,8,8,9,9,9,9,0,0,0,0,6,4,0,6,1,5,3,9,7,6,6,0,2,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281447,P.GANNAVARAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,3,5,5,5,5,5,5,0,0,0,0,2,5,0,3,0,4,1,5,4,4,4,1,2,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281447,P.GANNAVARAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,3,3,0,2,2,3,3,3,3,3,0,0,0,0,2,0,0,0,1,2,2,3,1,0,1,0,2,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281447,P.GANNAVARAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,2,3,3,3,0,0,0,0,1,3,0,0,0,2,1,3,0,2,3,0,0,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281447,P.GANNAVARAM,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,0,1,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281448,AMBAJIPETA,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281448,AMBAJIPETA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,2,4,4,4,4,4,4,0,0,0,0,2,2,0,3,0,1,3,4,1,4,4,1,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281448,AMBAJIPETA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,52,52,0,2,51,52,52,52,52,52,0,0,0,0,42,2,0,0,12,9,34,52,50,24,33,0,21,0,45,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281448,AMBAJIPETA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,4,7,7,7,7,7,7,0,0,0,0,4,7,0,0,0,4,3,7,2,5,7,0,0,0,7,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281448,AMBAJIPETA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,9,9,0,5,9,9,9,9,9,9,0,0,0,0,8,4,0,9,5,8,4,9,9,8,7,1,7,0,8,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281448,AMBAJIPETA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,6,7,7,7,7,7,7,0,0,0,0,5,6,0,6,0,5,5,7,3,7,6,1,0,0,7,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281448,AMBAJIPETA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,1,1,0,0,0,1,0,2,1,0,2,0,2,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281448,AMBAJIPETA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,3,4,4,4,4,4,4,0,0,0,0,3,4,0,0,0,0,1,4,1,1,4,0,0,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281449,AINAVILLI,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,1,0,1,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281449,AINAVILLI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,3,4,4,4,4,4,4,0,0,0,0,2,3,0,3,0,1,4,4,0,3,3,2,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281449,AINAVILLI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,51,51,0,3,50,51,51,51,51,51,0,0,0,0,23,7,0,0,8,23,28,50,44,13,23,0,27,0,35,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281449,AINAVILLI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,3,6,6,6,6,6,6,0,0,0,0,1,3,0,0,0,3,5,6,4,5,5,0,0,0,6,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281449,AINAVILLI,1,PS (I-V),3,Local body,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281449,AINAVILLI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,11,11,0,11,11,11,11,11,11,11,0,0,0,0,5,5,0,10,1,10,8,11,10,7,10,2,7,0,9,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281449,AINAVILLI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,1,2,0,1,0,1,2,3,1,2,3,0,0,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281449,AINAVILLI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,8,8,0,3,8,8,8,8,8,8,0,0,0,0,6,4,0,0,6,3,5,8,7,3,6,0,3,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281449,AINAVILLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,1,3,0,0,0,2,1,2,0,3,3,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,Girls,1,1,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,3,3,0,2,0,2,1,3,2,2,2,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,1,0,2,0,1,1,2,0,1,1,1,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,46,46,0,1,45,46,45,36,46,46,0,0,0,0,43,2,0,0,17,10,33,46,44,7,15,0,25,0,34,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,3,3,3,3,0,0,0,0,3,3,0,0,0,1,2,3,2,3,2,0,0,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,1,PS (I-V),3,Local body,Urban,3,Co-Ed,14,14,0,1,14,14,14,7,14,14,0,0,0,0,12,1,0,0,8,3,12,14,13,0,1,0,9,0,8,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,5,5,0,5,5,5,5,5,5,5,0,0,0,0,5,3,0,0,0,2,1,5,1,5,5,0,0,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,6,SS (I-X),2,Tribal Welfare Department,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,1,1,1,1,1,1,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,7,SS (VI-X),3,Local body,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,1,0,1,1,1,1,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,5,6,6,6,6,6,6,0,0,0,0,6,4,0,4,2,2,4,6,5,5,3,0,2,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,7,SS (VI-X),3,Local body,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,0,0,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,6,6,0,6,6,6,6,6,6,6,0,0,0,0,3,6,0,5,0,1,2,6,2,6,5,0,0,0,6,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,6,6,0,1,5,6,6,5,6,6,0,0,0,0,6,2,0,0,5,0,5,6,5,1,2,0,3,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,1,0,0,0,0,1,2,1,0,2,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,3,3,0,1,3,3,3,2,3,3,0,0,0,0,3,0,0,0,2,3,3,3,3,1,2,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281450,MUMMIDIVARAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,5,5,0,3,5,5,5,5,5,5,0,0,0,0,5,5,0,0,0,0,1,5,2,5,5,0,0,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281451,I.POLAVARAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,1,2,1,2,2,2,0,0,0,0,1,2,0,2,0,1,1,2,1,2,2,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281451,I.POLAVARAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,66,66,0,6,45,66,66,49,65,66,0,0,0,0,40,10,0,0,20,22,49,65,51,38,26,0,28,0,36,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281451,I.POLAVARAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,4,6,7,7,7,7,7,0,0,0,0,2,6,0,0,0,5,3,7,2,4,6,0,0,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281451,I.POLAVARAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,11,11,0,10,8,11,11,11,10,11,0,0,0,0,9,5,0,8,4,10,8,11,11,8,8,1,3,0,6,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281451,I.POLAVARAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,2,3,0,3,0,3,1,3,0,3,3,0,1,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281451,I.POLAVARAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,3,3,0,1,1,3,3,2,3,3,0,0,0,0,0,0,0,0,2,0,2,3,2,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281451,I.POLAVARAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,9,9,0,3,9,9,9,9,9,9,0,0,0,0,2,7,0,0,0,6,3,6,2,4,9,0,0,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281452,KATRENIKONA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,4,5,6,6,6,6,6,0,0,0,0,3,5,0,6,0,3,3,6,4,5,5,2,0,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281452,KATRENIKONA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,59,59,0,4,55,55,59,59,59,59,0,0,0,0,30,4,0,0,17,21,26,59,49,24,20,0,36,0,37,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281452,KATRENIKONA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,3,4,4,4,4,4,4,0,0,0,0,1,4,0,0,0,3,2,4,1,2,4,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281452,KATRENIKONA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,8,8,0,7,8,8,8,8,8,8,0,0,0,0,7,4,0,6,4,8,5,8,7,7,7,3,6,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281452,KATRENIKONA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,0,2,0,0,0,2,0,2,0,1,2,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281452,KATRENIKONA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,10,10,0,4,10,10,10,10,10,10,0,0,0,0,9,2,0,0,8,7,4,10,8,2,7,0,8,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281452,KATRENIKONA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,7,8,8,7,8,8,8,0,0,0,0,0,8,0,0,0,5,3,8,3,2,8,0,3,0,7,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281453,UPPALAGUPTAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,1,1,0,1,0,1,2,2,2,1,2,1,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281453,UPPALAGUPTAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,69,69,0,2,66,69,66,62,68,68,0,0,0,0,66,2,0,0,21,12,56,68,63,61,19,0,28,0,49,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281453,UPPALAGUPTAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,2,5,5,4,5,5,5,0,0,0,0,4,4,0,0,0,2,1,5,1,4,5,0,0,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281453,UPPALAGUPTAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,7,7,0,5,6,7,7,7,7,7,0,0,0,0,6,3,0,5,5,5,4,7,7,7,5,1,5,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281453,UPPALAGUPTAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,5,5,0,1,5,5,5,4,5,5,0,0,0,0,5,3,0,0,3,2,5,5,5,5,2,0,2,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281453,UPPALAGUPTAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,6,7,7,7,7,7,7,0,0,0,0,7,5,0,0,0,6,1,7,3,5,7,0,1,0,6,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,11,HSS (XI-XII),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,2,Girls,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,1,1,0,1,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,2,4,5,5,5,5,5,0,0,0,0,5,5,0,4,0,3,3,5,2,5,4,2,1,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,9,9,0,3,8,9,9,9,9,9,0,0,0,0,7,7,0,5,0,4,4,9,3,6,9,2,0,0,9,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,60,60,0,8,56,58,60,48,60,60,0,0,0,0,52,0,0,0,9,24,23,59,59,30,39,0,14,0,42,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,6,6,6,6,6,6,6,0,0,0,0,4,5,0,0,0,1,3,6,2,4,6,0,0,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,1,PS (I-V),3,Local body,Urban,3,Co-Ed,27,26,0,3,27,27,27,26,27,27,0,0,0,0,25,3,0,0,6,13,24,27,26,12,17,0,1,0,22,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,21,21,0,18,20,21,21,21,21,21,0,0,0,0,14,19,0,0,0,9,4,20,6,13,20,0,1,0,21,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,6,SS (I-X),1,Department of Education,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,2,0,2,2,2,1,2,2,1,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,1,0,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,7,SS (VI-X),1,Department of Education,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,7,SS (VI-X),3,Local body,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,8,8,0,6,8,8,8,8,8,8,0,0,0,0,7,3,0,5,4,8,5,8,8,6,7,2,3,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,4,4,0,4,0,2,2,4,2,3,4,0,0,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,7,SS (VI-X),3,Local body,Urban,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,4,2,0,3,2,3,2,4,4,2,3,1,1,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,1,1,0,1,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,19,19,0,17,18,19,19,19,19,19,0,0,0,0,13,18,0,10,0,9,12,19,10,14,19,9,1,0,17,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,5,5,0,5,4,5,5,4,5,5,0,0,0,0,4,1,0,0,3,3,1,5,5,2,3,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,9,9,0,8,9,9,9,9,9,9,0,0,0,0,7,9,0,0,0,8,2,8,3,8,9,0,2,0,7,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281454,AMALAPURAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,9,9,0,9,7,9,9,9,9,9,0,0,0,0,6,6,0,0,0,2,2,7,2,8,9,0,2,0,7,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281455,ALLAVARAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281455,ALLAVARAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,65,65,0,14,57,64,65,50,65,65,0,0,0,0,35,3,0,0,18,27,56,65,60,49,29,0,8,0,40,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281455,ALLAVARAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,2,3,3,3,3,3,0,0,0,0,2,3,0,0,0,2,1,3,1,3,3,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281455,ALLAVARAM,6,SS (I-X),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281455,ALLAVARAM,6,SS (I-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,0,1,1,0,1,1,0,0,0,0,0,1,0,1,1,1,1,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281455,ALLAVARAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,9,9,0,7,9,9,9,9,9,9,0,0,0,0,8,2,0,6,2,8,9,9,9,7,6,2,6,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281455,ALLAVARAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281455,ALLAVARAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,7,7,0,2,7,7,7,6,7,7,0,0,0,0,3,2,0,0,4,2,7,7,7,5,3,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281455,ALLAVARAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,3,4,5,5,5,5,5,0,0,0,0,0,2,0,0,0,1,1,5,0,3,5,0,0,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281456,MAMIDIKUDURU,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,0,1,1,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281456,MAMIDIKUDURU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,1,4,6,6,6,6,6,0,0,0,0,0,1,0,2,0,1,1,6,3,3,4,0,0,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281456,MAMIDIKUDURU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,59,59,0,8,55,58,59,59,59,59,0,0,0,0,34,4,0,0,10,17,53,59,57,4,19,0,37,0,57,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281456,MAMIDIKUDURU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,11,11,0,9,11,11,11,11,11,11,0,0,0,0,1,6,0,2,0,6,1,11,4,4,11,0,2,0,10,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281456,MAMIDIKUDURU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,12,12,0,12,11,12,12,12,12,12,0,0,0,0,10,7,0,11,4,11,11,12,12,11,8,2,9,0,6,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281456,MAMIDIKUDURU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,9,9,0,7,9,9,9,9,9,9,0,0,0,0,0,6,0,5,0,7,1,8,2,4,8,2,0,0,7,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281456,MAMIDIKUDURU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281456,MAMIDIKUDURU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,0,1,0,0,0,1,0,1,0,1,1,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281457,RAZOLE,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,Girls,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281457,RAZOLE,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281457,RAZOLE,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,2,3,3,3,3,3,0,0,0,0,1,3,0,3,0,2,1,1,0,1,3,1,0,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281457,RAZOLE,1,PS (I-V),3,Local body,Rural,3,Co-Ed,56,56,0,12,49,55,56,55,56,56,0,0,0,0,25,2,0,1,12,22,42,56,55,9,30,1,12,0,44,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281457,RAZOLE,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,10,10,0,8,10,10,10,10,10,10,0,0,0,0,0,8,0,1,0,7,4,8,4,0,9,0,2,0,9,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281457,RAZOLE,6,SS (I-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281457,RAZOLE,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,1,1,0,1,0,1,0,1,0,2,2,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281457,RAZOLE,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281457,RAZOLE,7,SS (VI-X),3,Local body,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,1,0,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281457,RAZOLE,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,8,8,0,7,8,8,8,8,8,8,0,0,0,0,3,4,0,6,6,8,3,8,8,7,8,0,5,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281457,RAZOLE,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,6,5,6,6,6,6,6,0,0,0,0,1,6,0,4,0,2,0,6,2,3,6,3,3,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281457,RAZOLE,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,5,5,0,4,5,5,5,5,5,5,0,0,0,0,2,0,0,0,1,2,4,5,5,1,1,0,3,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281457,RAZOLE,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,5,4,5,5,5,5,5,0,0,0,0,2,4,0,1,0,4,3,4,2,2,5,0,2,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281458,MALIKIPURAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281458,MALIKIPURAM,11,HSS (XI-XII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,1,0,1,1,1,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281458,MALIKIPURAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,1,1,1,0,0,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281458,MALIKIPURAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,60,60,0,22,55,59,60,56,60,60,0,0,0,0,48,4,0,0,19,24,25,60,56,17,42,0,20,0,41,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281458,MALIKIPURAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,7,8,8,8,8,8,8,0,0,0,0,3,8,0,0,0,7,3,8,3,4,8,0,2,0,6,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281458,MALIKIPURAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,10,10,0,8,10,10,10,10,10,10,0,0,0,0,8,3,0,7,6,9,6,10,8,5,8,1,2,0,8,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281458,MALIKIPURAM,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,1,1,1,1,1,0,1,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281458,MALIKIPURAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,8,8,8,8,8,8,8,0,0,0,0,4,7,0,5,0,6,3,7,2,6,7,2,1,0,7,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281458,MALIKIPURAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,7,7,0,5,7,7,7,7,7,7,0,0,0,0,5,0,0,0,5,5,2,7,6,1,6,0,2,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281458,MALIKIPURAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,10,10,0,8,9,10,10,10,10,10,0,0,0,0,3,8,0,0,0,10,3,9,2,5,10,0,1,0,8,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281458,MALIKIPURAM,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,1,1,0,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281459,SAKHINETIPALLI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,0,2,2,2,2,2,0,0,0,0,0,0,0,2,0,0,2,2,1,0,2,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281459,SAKHINETIPALLI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,61,59,0,8,52,58,61,58,60,61,0,0,0,0,22,9,0,0,7,20,21,61,60,4,39,0,23,0,44,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281459,SAKHINETIPALLI,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,0,2,2,2,0,0,0,0,0,0,0,0,0,1,0,2,2,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281459,SAKHINETIPALLI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,6,7,7,7,7,7,7,0,0,0,0,3,6,0,2,0,4,2,7,4,5,7,2,1,0,7,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281459,SAKHINETIPALLI,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,1,1,0,1,1,1,1,0,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281459,SAKHINETIPALLI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,12,12,0,10,11,12,12,12,12,12,0,0,0,0,9,6,0,7,8,11,6,12,12,11,9,1,5,0,7,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281459,SAKHINETIPALLI,7,SS (VI-X),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,0,1,0,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281459,SAKHINETIPALLI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,1,3,0,4,0,2,1,4,3,3,4,2,0,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281459,SAKHINETIPALLI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,8,8,0,5,7,8,8,8,8,8,0,0,0,0,3,2,0,0,5,6,0,8,8,0,7,0,3,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281459,SAKHINETIPALLI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,2,4,4,4,4,4,4,0,0,0,0,3,4,0,1,0,4,3,4,1,4,4,1,1,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281460,ROWTULAPUDI,3,HSS (I-XII),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281460,ROWTULAPUDI,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,12,12,0,0,9,12,4,12,12,12,0,0,0,0,12,0,0,0,2,7,5,9,5,1,5,0,1,0,12,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281460,ROWTULAPUDI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,22,22,0,0,22,22,22,22,22,22,0,0,0,0,22,2,0,0,6,20,10,22,13,1,12,0,14,0,9,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281460,ROWTULAPUDI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,3,2,0,0,0,2,0,3,1,2,3,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281460,ROWTULAPUDI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,4,4,0,3,4,4,4,4,4,4,0,0,0,0,4,4,0,0,1,4,2,4,3,4,3,0,3,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281460,ROWTULAPUDI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281460,ROWTULAPUDI,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,1,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281460,ROWTULAPUDI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,7,7,0,5,7,7,7,7,7,7,0,0,0,0,7,0,0,0,6,6,2,7,6,2,4,0,3,0,5,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281460,ROWTULAPUDI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,4,5,5,5,5,5,5,0,0,0,0,5,2,0,0,0,3,0,4,0,3,5,0,1,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281461,V.R.PURAM,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281461,V.R.PURAM,1,PS (I-V),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,0,0,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,1,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281461,V.R.PURAM,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,19,19,0,4,16,19,19,19,12,19,0,0,0,0,6,1,0,0,11,12,14,19,15,3,4,0,1,0,17,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281461,V.R.PURAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,24,22,0,1,19,21,22,23,16,23,0,0,0,0,11,4,0,0,12,17,18,24,22,2,3,0,2,0,22,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281461,V.R.PURAM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,1,2,1,2,2,2,0,0,0,0,0,0,0,0,1,1,1,2,2,0,2,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281461,V.R.PURAM,7,SS (VI-X),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281461,V.R.PURAM,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,Girls,3,3,0,3,3,3,3,0,3,3,0,0,0,0,2,2,0,0,0,3,3,3,3,2,2,0,1,0,3,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281461,V.R.PURAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281461,V.R.PURAM,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281461,V.R.PURAM,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,3,3,0,1,3,3,3,3,2,3,0,0,0,0,0,0,0,0,0,3,2,3,3,1,2,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281461,V.R.PURAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,7,7,0,2,5,5,7,5,5,5,0,0,0,0,3,3,0,0,7,5,7,7,6,2,1,0,1,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281462,CHINTUR,11,HSS (XI-XII),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,0,0,1,1,1,0,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281462,CHINTUR,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281462,CHINTUR,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,34,34,0,2,28,30,26,22,22,22,0,0,0,0,1,3,0,0,9,25,14,30,21,3,9,0,1,0,28,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281462,CHINTUR,1,PS (I-V),3,Local body,Rural,3,Co-Ed,50,50,0,2,32,37,43,27,27,28,0,0,0,0,0,3,0,0,14,38,19,46,30,7,9,0,0,0,43,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281462,CHINTUR,6,SS (I-X),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281462,CHINTUR,6,SS (I-X),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281462,CHINTUR,7,SS (VI-X),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281462,CHINTUR,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,Girls,3,3,0,1,2,3,3,0,3,3,0,0,0,0,1,1,0,0,0,2,2,2,3,2,2,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281462,CHINTUR,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,Co-Ed,2,2,0,1,2,2,2,1,1,1,0,0,0,0,0,0,0,0,0,1,1,2,2,0,2,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281462,CHINTUR,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,2,2,0,1,1,1,2,2,2,2,0,0,0,0,0,0,0,0,0,2,1,2,1,1,0,0,2,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281462,CHINTUR,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,0,2,0,1,0,1,1,2,1,2,2,0,1,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281462,CHINTUR,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,5,5,0,4,5,5,5,5,5,5,0,0,0,0,1,2,0,0,3,5,3,5,4,3,4,0,1,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281462,CHINTUR,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,7,7,0,0,7,7,7,7,7,7,0,0,0,0,0,3,0,0,3,5,1,6,6,4,1,0,2,0,6,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281462,CHINTUR,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,0,2,0,0,0,1,0,1,1,1,3,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281463,KUNAVARAM,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281463,KUNAVARAM,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,12,12,0,0,7,8,6,11,7,11,0,0,0,0,0,0,0,0,1,5,1,10,11,1,2,0,2,0,8,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281463,KUNAVARAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,40,40,0,0,30,37,35,37,37,39,0,0,0,0,2,2,0,0,15,24,3,39,39,2,10,0,2,0,30,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281463,KUNAVARAM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281463,KUNAVARAM,6,SS (I-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281463,KUNAVARAM,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281463,KUNAVARAM,7,SS (VI-X),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281463,KUNAVARAM,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281463,KUNAVARAM,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281463,KUNAVARAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,2,2,0,2,1,2,2,2,2,2,0,0,0,0,0,1,0,0,0,1,0,2,2,1,2,0,2,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281463,KUNAVARAM,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281463,KUNAVARAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,6,6,0,0,5,5,6,6,6,6,0,0,0,0,0,1,0,0,4,4,0,6,5,2,3,0,1,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281463,KUNAVARAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281464,NELLIPAKA,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,20,20,0,1,17,19,18,20,19,20,0,0,0,0,8,0,0,0,0,14,20,20,20,2,8,0,0,0,14,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281464,NELLIPAKA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,52,52,0,0,37,45,45,52,50,52,0,0,0,0,8,0,0,0,3,31,43,47,43,1,14,0,2,0,43,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281464,NELLIPAKA,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,3,3,0,0,3,3,3,3,3,3,0,0,0,0,1,2,0,0,1,3,3,3,2,1,2,0,0,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281464,NELLIPAKA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281464,NELLIPAKA,1,PS (I-V),3,Local body,Urban,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281464,NELLIPAKA,6,SS (I-X),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281464,NELLIPAKA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281464,NELLIPAKA,7,SS (VI-X),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281464,NELLIPAKA,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,1,1,1,0,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281464,NELLIPAKA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,1,0,0,0,0,4,3,4,3,3,4,1,1,0,2,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281464,NELLIPAKA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281464,NELLIPAKA,7,SS (VI-X),7,Central Govt,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,1,1,1,1,0,0,0,1,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281464,NELLIPAKA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,7,7,0,1,6,6,7,7,7,7,0,0,0,0,1,2,0,0,3,5,6,6,7,0,4,0,3,0,4,0,0
+2015-16,28,Andhra Pradesh,2814,EAST GODAVARI,281464,NELLIPAKA,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0,1,0,0

@@ -1,0 +1,530 @@
+Academic_Year,State_Code,State_Name,District_Code,District_Name,Block_Code,Udise_Block_Name,School_Category_Id,School_Category_Name,School_Management_Id,School_Management_Name,Location,School_Type_Id,School_Type,Total_Number_of_Schools,Building,Complete_Medical_Checkup,Computer_Available,Functional_Drinking_Water,Drinking_Water,Functional_Electricity,Functional_Boy_Toilet,Functional_Girl_Toilet,Functional_Toilet_Facility,Functional_Toilet_and_Urinal,Functional_Urinal,Functional_Urinal_Boy,Functional_Urinal_Girl,Handwash,Separate_Room_for_Headmaster,Incinerator,Internet,Kitchen_Garden,Land_Available,Librarian,Library_or_Reading_Corner_or_Book_Bank,Medical_Checkup,Newspaper,Playground,Rain_Water_Harvesting,Ramps,Solar_Panel,Furniture,Water_Purifier,Water_Tested
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281101,VEERAGHATTAM,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281101,VEERAGHATTAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281101,VEERAGHATTAM,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,4,4,0,0,3,3,3,1,1,1,0,0,0,0,2,0,0,0,0,0,0,3,3,1,0,0,0,0,4,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281101,VEERAGHATTAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,29,28,0,0,26,27,28,12,11,15,0,0,0,0,16,0,0,0,0,14,0,29,26,22,9,0,7,0,29,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281101,VEERAGHATTAM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,3,3,0,1,2,3,1,0,0,0,0,0,0,0,1,1,0,0,0,3,0,3,3,3,3,0,1,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281101,VEERAGHATTAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,1,1,1,0,0,0,0,2,2,0,0,0,2,0,2,2,2,2,0,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281101,VEERAGHATTAM,6,SS (I-X),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,0,0,1,1,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281101,VEERAGHATTAM,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,0,0,0,2,1,2,1,1,2,0,1,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281101,VEERAGHATTAM,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,0,1,0,1,1,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281101,VEERAGHATTAM,7,SS (VI-X),3,Local body,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,1,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281101,VEERAGHATTAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,9,9,0,8,8,9,9,5,5,5,0,0,0,0,6,5,0,2,0,9,1,9,9,8,9,1,5,0,7,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281101,VEERAGHATTAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,1,1,1,0,0,0,0,2,1,0,1,0,3,0,3,2,2,3,0,1,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281101,VEERAGHATTAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,18,18,0,4,14,17,18,9,9,10,0,0,0,0,15,6,0,0,0,9,0,18,17,18,7,0,13,0,18,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281101,VEERAGHATTAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281102,VANGARA,3,HSS (I-XII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281102,VANGARA,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281102,VANGARA,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281102,VANGARA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,30,30,0,0,19,28,27,10,17,20,0,0,0,0,13,0,0,0,0,14,0,30,25,7,15,0,10,0,27,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281102,VANGARA,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,1,1,2,2,0,0,0,0,0,0,0,0,0,1,0,2,2,0,2,0,1,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281102,VANGARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281102,VANGARA,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281102,VANGARA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,7,7,0,6,5,6,6,4,5,5,0,0,0,0,3,3,0,1,0,6,0,6,5,3,6,0,2,0,4,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281102,VANGARA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281102,VANGARA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,9,9,0,2,4,9,9,5,3,5,0,0,0,0,4,1,0,0,0,4,0,9,7,2,2,0,4,0,6,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281102,VANGARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,1,3,3,1,0,1,1,0,0,0,0,0,2,0,0,0,2,0,2,2,0,3,0,0,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281103,R.AMADALAVALASA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,57,56,0,0,40,53,54,9,15,17,0,0,0,0,2,7,0,0,0,27,0,55,48,4,21,0,21,0,36,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281103,R.AMADALAVALASA,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281103,R.AMADALAVALASA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,10,10,0,8,9,10,9,4,8,8,0,0,0,0,1,2,0,4,0,10,0,8,9,3,10,2,1,0,5,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281103,R.AMADALAVALASA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,13,13,0,3,11,13,13,3,5,5,0,0,0,0,1,0,0,0,0,8,0,13,10,3,6,0,9,0,9,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281103,R.AMADALAVALASA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281104,RAJAM,11,HSS (XI-XII),1,Department of Education,Rural,2,Girls,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281104,RAJAM,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281104,RAJAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,0,4,5,5,1,1,1,0,0,0,0,2,5,0,2,0,3,3,5,2,3,4,3,1,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281104,RAJAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,1,1,1,1,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281104,RAJAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,39,39,0,1,31,38,37,6,9,11,0,0,0,0,2,10,0,0,0,17,0,39,29,3,19,2,14,0,24,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281104,RAJAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,11,11,0,9,10,11,11,4,5,5,0,0,0,0,2,6,0,7,0,2,0,11,4,7,11,4,0,0,8,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281104,RAJAM,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,1,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281104,RAJAM,1,PS (I-V),3,Local body,Urban,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281104,RAJAM,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,2,2,2,2,1,1,1,0,0,0,0,0,1,0,1,0,0,0,2,0,1,2,1,1,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281104,RAJAM,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281104,RAJAM,7,SS (VI-X),3,Local body,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,1,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281104,RAJAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,4,4,0,3,3,4,4,1,1,1,0,0,0,0,0,2,0,1,0,3,0,4,4,0,4,0,2,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281104,RAJAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,13,13,0,9,9,13,12,3,4,4,0,0,0,0,5,8,0,8,0,4,0,13,5,6,11,5,0,0,11,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281104,RAJAM,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281104,RAJAM,7,SS (VI-X),3,Local body,Urban,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281104,RAJAM,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,4,4,0,2,4,4,4,1,1,1,0,0,0,0,0,2,0,2,0,2,0,4,3,3,4,1,1,0,4,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281104,RAJAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,15,15,0,4,12,14,15,7,8,8,0,0,0,0,2,3,0,0,0,9,0,15,15,4,8,0,11,0,8,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281104,RAJAM,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281104,RAJAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,5,3,6,5,1,1,1,0,0,0,0,0,4,0,3,0,4,0,6,2,5,6,3,1,0,5,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281104,RAJAM,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281104,RAJAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,6,6,0,3,5,6,6,2,3,3,0,0,0,0,0,5,0,1,0,3,0,6,2,3,5,2,0,0,4,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281105,G.SIGADAM,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281105,G.SIGADAM,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281105,G.SIGADAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,0,2,1,0,0,0,0,0,0,0,1,1,0,2,0,0,0,1,0,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281105,G.SIGADAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,36,36,0,0,28,34,35,6,7,11,0,0,0,0,4,0,0,0,0,14,0,33,31,1,11,0,14,0,21,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281105,G.SIGADAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281105,G.SIGADAM,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281105,G.SIGADAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,4,6,6,5,3,5,5,0,0,0,0,1,4,0,2,0,6,0,6,5,4,6,0,6,0,4,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281105,G.SIGADAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281105,G.SIGADAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,20,20,0,3,16,19,20,6,6,9,0,0,0,0,0,0,0,1,0,12,0,19,16,2,4,0,7,0,15,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281105,G.SIGADAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,2,1,1,1,0,0,0,0,2,2,0,1,0,1,0,2,2,2,3,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281106,LAVERU,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281106,LAVERU,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281106,LAVERU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,61,58,0,0,43,55,58,11,16,17,0,0,0,0,4,3,0,2,0,39,0,61,50,13,23,0,19,0,48,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281106,LAVERU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,3,4,4,4,0,0,0,0,0,0,0,1,0,0,1,0,1,0,2,4,1,4,0,1,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281106,LAVERU,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281106,LAVERU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,10,10,0,6,6,8,10,1,4,4,0,0,0,0,1,5,0,1,0,10,0,9,7,4,9,2,5,0,8,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281106,LAVERU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,18,17,0,2,13,16,18,9,13,14,0,0,0,0,3,2,0,1,0,11,0,18,13,3,6,0,13,0,13,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281106,LAVERU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,2,2,2,2,0,2,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281107,RANASTHALAM,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281107,RANASTHALAM,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281107,RANASTHALAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,1,3,2,0,0,0,0,0,0,0,1,0,0,1,0,0,1,2,1,2,2,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281107,RANASTHALAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,91,91,0,0,56,79,88,16,28,29,0,0,0,0,8,12,0,0,0,50,0,67,73,36,34,0,26,0,69,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281107,RANASTHALAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,4,4,4,5,2,3,3,0,0,0,0,2,4,0,0,0,3,0,3,5,3,5,0,4,0,5,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281107,RANASTHALAM,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281107,RANASTHALAM,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281107,RANASTHALAM,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281107,RANASTHALAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,13,13,0,7,8,11,12,3,4,4,0,0,0,0,0,4,0,0,0,11,0,13,11,8,10,0,9,0,11,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281107,RANASTHALAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,2,3,3,0,1,1,0,0,0,0,2,3,0,1,0,2,0,2,2,1,2,1,2,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281107,RANASTHALAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,15,15,0,2,9,14,15,3,5,6,0,0,0,0,2,3,0,0,0,14,0,15,14,5,10,0,10,0,12,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281107,RANASTHALAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,6,7,8,8,4,4,4,0,0,0,0,6,7,0,0,0,5,0,8,6,3,7,0,6,0,7,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281108,ETCHERLA,3,HSS (I-XII),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,1,0,1,1,1,1,1,0,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281108,ETCHERLA,3,HSS (I-XII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281108,ETCHERLA,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281108,ETCHERLA,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,2,2,0,1,1,2,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281108,ETCHERLA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,84,84,0,0,50,64,81,14,19,24,0,0,0,0,18,0,0,0,0,39,0,84,83,4,42,0,25,0,69,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281108,ETCHERLA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,1,5,5,3,1,3,3,0,0,0,0,1,4,0,0,0,4,0,5,2,2,5,1,0,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281108,ETCHERLA,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281108,ETCHERLA,6,SS (I-X),1,Department of Education,Rural,1,Boys,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281108,ETCHERLA,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281108,ETCHERLA,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281108,ETCHERLA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,11,11,0,8,7,8,10,1,3,3,0,0,0,0,0,6,0,4,0,11,0,10,11,6,11,2,4,0,7,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281108,ETCHERLA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,1,2,2,0,0,0,0,0,2,0,0,0,1,0,2,2,2,2,1,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281108,ETCHERLA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,12,12,0,4,8,9,12,2,7,8,0,0,0,0,0,0,0,0,0,9,0,12,12,0,8,0,9,0,11,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281108,ETCHERLA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,5,7,7,7,4,4,4,0,0,0,0,2,5,0,3,0,2,0,6,4,5,7,3,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281109,PONDURU,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281109,PONDURU,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,2,2,0,0,0,2,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,2,0,0,2,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281109,PONDURU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281109,PONDURU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,51,51,0,1,39,50,48,19,24,26,0,0,0,0,6,8,0,0,0,20,0,51,46,2,19,0,9,0,40,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281109,PONDURU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,0,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281109,PONDURU,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281109,PONDURU,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281109,PONDURU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,5,5,0,5,5,5,5,1,2,2,0,0,0,0,0,2,0,1,0,5,0,4,4,2,5,1,1,0,4,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281109,PONDURU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281109,PONDURU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,15,15,0,3,10,14,15,5,7,7,0,0,0,0,2,4,0,0,0,9,0,15,14,3,7,0,8,0,12,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281109,PONDURU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,0,2,3,2,1,1,1,0,0,0,0,1,0,0,0,0,0,0,3,1,1,3,0,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281110,SANTHAKAVITI,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281110,SANTHAKAVITI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,1,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281110,SANTHAKAVITI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,56,56,0,0,41,52,49,18,17,25,0,0,0,0,6,2,0,0,0,26,0,56,52,2,20,1,14,0,37,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281110,SANTHAKAVITI,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281110,SANTHAKAVITI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281110,SANTHAKAVITI,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281110,SANTHAKAVITI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,9,9,0,7,8,9,8,2,3,3,0,0,0,0,1,3,0,0,0,7,0,9,5,1,7,0,3,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281110,SANTHAKAVITI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,3,0,0,0,0,0,0,0,0,2,0,2,0,2,0,3,2,2,3,0,1,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281110,SANTHAKAVITI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,14,14,0,3,11,13,14,8,9,10,0,0,0,0,2,0,0,2,0,10,0,14,12,1,5,1,10,0,5,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281110,SANTHAKAVITI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,2,6,8,2,1,1,1,0,0,0,0,0,5,0,1,0,3,0,8,6,2,8,1,3,0,6,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281111,BURJA,3,HSS (I-XII),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,1,0,1,1,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281111,BURJA,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281111,BURJA,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,1,1,0,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281111,BURJA,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,2,2,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2,0,0,0,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281111,BURJA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,45,44,0,1,28,39,41,45,45,45,0,0,0,0,3,2,0,0,0,25,0,27,40,4,19,1,9,0,38,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281111,BURJA,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281111,BURJA,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281111,BURJA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,8,8,0,5,7,8,8,8,8,8,0,0,0,0,0,4,0,2,0,7,0,7,5,2,6,1,5,0,5,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281111,BURJA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,11,11,0,1,8,11,11,11,11,11,0,0,0,0,0,1,0,1,0,7,0,6,10,2,4,0,5,0,7,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281111,BURJA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281111,BURJA,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281112,PALAKONDA,11,HSS (XI-XII),1,Department of Education,Rural,1,Boys,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281112,PALAKONDA,11,HSS (XI-XII),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,1,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281112,PALAKONDA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,2,2,7,6,4,4,4,0,0,0,0,3,4,0,3,0,2,2,6,1,2,6,1,1,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281112,PALAKONDA,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,6,5,0,0,1,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281112,PALAKONDA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,35,35,0,2,24,33,34,13,11,16,0,0,0,0,10,2,0,0,0,11,0,35,31,7,12,0,18,0,24,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281112,PALAKONDA,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,3,3,0,0,3,3,3,1,2,2,0,0,0,0,0,1,0,0,0,0,0,3,2,0,2,0,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281112,PALAKONDA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,4,6,6,6,3,3,3,0,0,0,0,0,3,0,5,0,2,0,5,5,3,6,3,1,0,6,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281112,PALAKONDA,6,SS (I-X),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281112,PALAKONDA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,2,4,4,4,3,4,4,0,0,0,0,3,4,0,4,0,2,1,4,3,2,3,1,2,0,4,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281112,PALAKONDA,7,SS (VI-X),3,Local body,Rural,2,Girls,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281112,PALAKONDA,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281112,PALAKONDA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,5,5,0,5,3,5,4,2,3,4,0,0,0,0,0,1,0,2,0,5,0,4,5,3,5,0,3,0,5,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281112,PALAKONDA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,4,7,8,7,5,6,6,0,0,0,0,1,5,0,5,0,3,0,7,4,2,7,4,1,0,5,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281112,PALAKONDA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,2,Girls,1,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281112,PALAKONDA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,14,14,0,3,14,14,14,8,9,9,0,0,0,0,3,1,0,0,0,12,0,13,14,5,4,0,9,0,12,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281112,PALAKONDA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,1,0,2,0,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281113,SEETHAMPETA,11,HSS (XI-XII),1,Department of Education,Rural,1,Boys,1,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,1,0,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281113,SEETHAMPETA,11,HSS (XI-XII),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281113,SEETHAMPETA,11,HSS (XI-XII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281113,SEETHAMPETA,1,PS (I-V),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281113,SEETHAMPETA,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,19,18,0,0,10,13,17,2,6,6,0,0,0,0,1,0,0,1,0,13,0,19,19,4,12,1,2,0,11,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281113,SEETHAMPETA,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,88,76,0,0,13,60,28,2,21,21,0,0,0,0,1,0,0,0,0,22,0,61,59,4,14,0,6,0,69,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281113,SEETHAMPETA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,57,55,0,0,13,44,41,5,24,24,0,0,0,0,1,1,0,2,0,31,0,54,47,5,22,1,6,0,41,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281113,SEETHAMPETA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281113,SEETHAMPETA,6,SS (I-X),2,Tribal Welfare Department,Rural,1,Boys,5,5,0,2,4,5,5,3,0,3,0,0,0,0,0,1,0,1,0,4,1,3,4,1,2,1,0,0,4,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281113,SEETHAMPETA,6,SS (I-X),2,Tribal Welfare Department,Rural,2,Girls,6,6,0,2,5,6,6,0,6,6,0,0,0,0,0,0,0,0,0,5,1,4,6,1,6,0,0,0,6,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281113,SEETHAMPETA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281113,SEETHAMPETA,7,SS (VI-X),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281113,SEETHAMPETA,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281113,SEETHAMPETA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,1,Boys,2,2,0,0,1,2,2,1,0,1,0,0,0,0,0,0,0,0,0,2,0,1,2,0,2,0,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281113,SEETHAMPETA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,2,Girls,3,3,0,0,3,3,3,0,2,2,0,0,0,0,0,0,0,0,0,3,0,1,2,0,1,0,0,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281113,SEETHAMPETA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281113,SEETHAMPETA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,0,2,2,0,2,2,0,0,0,0,0,0,0,1,0,0,0,2,1,0,2,0,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281114,BHAMINI,3,HSS (I-XII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,1,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281114,BHAMINI,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281114,BHAMINI,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281114,BHAMINI,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,16,12,0,0,8,12,8,9,11,11,0,0,0,0,0,1,0,0,0,4,0,11,13,3,5,0,0,0,13,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281114,BHAMINI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,32,29,0,0,24,31,28,12,17,17,0,0,0,0,1,2,0,0,0,23,0,32,26,12,15,0,7,0,21,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281114,BHAMINI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281114,BHAMINI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281114,BHAMINI,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281114,BHAMINI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,4,4,0,3,4,4,4,3,3,3,0,0,0,0,0,2,0,1,0,4,0,4,4,1,4,0,2,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281114,BHAMINI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281114,BHAMINI,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281114,BHAMINI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,15,15,0,2,14,14,15,7,10,10,0,0,0,0,0,0,0,0,0,11,0,15,15,4,7,0,5,0,4,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281114,BHAMINI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,1,3,3,1,0,2,2,0,0,0,0,1,2,0,0,0,2,0,3,3,0,3,0,2,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281115,KOTTURU,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281115,KOTTURU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,3,3,3,3,3,3,0,0,0,0,1,0,0,2,0,0,0,3,1,1,3,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281115,KOTTURU,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,13,8,0,0,3,8,6,4,4,4,0,0,0,0,0,0,0,0,0,6,0,9,10,0,1,0,0,0,13,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281115,KOTTURU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,61,60,0,0,41,52,59,36,36,36,0,0,0,0,15,0,0,0,0,37,0,61,57,9,26,0,26,0,46,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281115,KOTTURU,1,PS (I-V),8,Unrecognized,Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,0,1,0,0,0,2,0,2,0,1,2,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281115,KOTTURU,6,SS (I-X),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281115,KOTTURU,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281115,KOTTURU,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281115,KOTTURU,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281115,KOTTURU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,3,5,6,5,6,6,6,0,0,0,0,0,3,0,0,0,6,0,6,6,4,6,1,1,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281115,KOTTURU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,1,2,2,2,2,2,0,0,0,0,0,1,0,1,0,2,0,2,1,1,2,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281115,KOTTURU,7,SS (VI-X),8,Unrecognized,Rural,3,Co-Ed,2,2,0,1,0,2,1,2,2,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281115,KOTTURU,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281115,KOTTURU,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281115,KOTTURU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,13,13,0,3,9,13,13,10,11,11,0,0,0,0,2,0,0,0,0,11,0,13,12,3,7,0,7,0,11,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281115,KOTTURU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,8,8,0,4,5,8,8,8,8,8,0,0,0,0,1,6,0,0,0,7,0,8,5,3,8,0,2,0,6,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281116,HIRAMANDALAM,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281116,HIRAMANDALAM,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,7,7,0,0,1,6,5,0,1,1,0,0,0,0,0,0,0,0,0,3,0,7,6,0,0,2,0,0,7,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281116,HIRAMANDALAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,40,40,0,2,27,36,40,6,13,14,0,0,0,0,5,3,0,0,0,19,0,40,39,2,11,0,11,0,23,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281116,HIRAMANDALAM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281116,HIRAMANDALAM,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281116,HIRAMANDALAM,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281116,HIRAMANDALAM,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281116,HIRAMANDALAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,5,5,0,4,4,5,5,2,4,4,0,0,0,0,1,1,0,0,0,5,0,5,5,2,5,2,2,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281116,HIRAMANDALAM,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281116,HIRAMANDALAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,18,18,0,3,12,15,16,1,8,8,0,0,0,0,4,2,0,0,0,12,0,16,18,3,8,0,11,0,9,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281116,HIRAMANDALAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,5,5,5,5,3,4,4,0,0,0,0,2,3,0,1,0,3,0,5,5,3,5,1,1,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281116,HIRAMANDALAM,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281117,SARUBUJJILI,5,HSS (VI-XII),7,Central Govt,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281117,SARUBUJJILI,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281117,SARUBUJJILI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281117,SARUBUJJILI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,44,42,0,0,33,42,41,6,10,10,0,0,0,0,0,0,0,0,0,24,0,41,41,3,14,0,3,0,30,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281117,SARUBUJJILI,6,SS (I-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281117,SARUBUJJILI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281117,SARUBUJJILI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,7,7,0,3,5,7,6,2,2,2,0,0,0,0,1,3,0,1,0,7,0,5,7,5,7,0,2,0,4,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281117,SARUBUJJILI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,9,9,0,2,7,9,9,2,5,5,0,0,0,0,1,1,0,0,0,8,0,8,9,1,4,0,4,0,6,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281117,SARUBUJJILI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,1,2,3,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,2,2,1,3,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281117,SARUBUJJILI,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281118,AMADALAVALASA,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281118,AMADALAVALASA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281118,AMADALAVALASA,11,HSS (XI-XII),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281118,AMADALAVALASA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281118,AMADALAVALASA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,50,49,0,0,36,44,44,19,16,24,0,0,0,0,6,4,0,0,0,21,0,48,36,8,28,0,7,0,28,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281118,AMADALAVALASA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,3,2,2,2,0,0,0,0,0,1,0,0,0,0,0,2,2,0,3,0,1,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281118,AMADALAVALASA,1,PS (I-V),3,Local body,Urban,3,Co-Ed,21,19,0,0,15,19,21,7,10,11,0,0,0,0,3,4,0,2,0,6,0,21,18,1,11,0,3,0,10,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281118,AMADALAVALASA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,5,5,0,4,4,5,5,1,1,1,0,0,0,0,1,5,0,3,0,3,0,5,3,1,4,4,2,0,4,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281118,AMADALAVALASA,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281118,AMADALAVALASA,7,SS (VI-X),1,Department of Education,Urban,2,Girls,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281118,AMADALAVALASA,7,SS (VI-X),3,Local body,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281118,AMADALAVALASA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,7,7,0,7,7,7,7,2,4,4,0,0,0,0,0,4,0,2,0,7,0,7,6,2,7,2,2,0,4,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281118,AMADALAVALASA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,0,2,2,0,2,0,1,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281118,AMADALAVALASA,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281118,AMADALAVALASA,7,SS (VI-X),3,Local body,Urban,3,Co-Ed,3,3,0,2,3,3,3,1,1,1,0,0,0,0,1,1,0,0,0,1,0,3,0,0,0,1,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281118,AMADALAVALASA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,6,6,0,5,5,6,5,2,2,2,0,0,0,0,0,5,0,3,0,4,1,6,3,2,5,2,1,0,4,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281118,AMADALAVALASA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,11,11,0,1,9,11,10,3,4,4,0,0,0,0,2,1,0,0,0,5,0,11,9,0,4,1,2,0,6,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281118,AMADALAVALASA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281118,AMADALAVALASA,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,8,8,0,2,4,7,8,2,4,4,0,0,0,0,1,5,0,0,0,7,0,8,6,0,4,0,2,0,6,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281118,AMADALAVALASA,2,UPS (I-VIII),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281118,AMADALAVALASA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,9,9,0,7,9,9,9,1,1,1,0,0,0,0,0,5,0,2,0,8,0,9,6,0,9,3,2,0,9,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,3,HSS (I-XII),7,Central Govt,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,1,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,11,HSS (XI-XII),1,Department of Education,Urban,2,Girls,1,1,0,1,0,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,11,11,0,2,4,11,11,3,3,3,0,0,0,0,3,4,0,8,0,1,2,10,2,1,11,3,1,0,4,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,11,HSS (XI-XII),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,0,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,0,2,2,2,1,1,1,0,0,0,0,0,0,0,2,0,1,0,1,0,0,1,1,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,49,49,0,1,36,47,49,10,23,26,0,0,0,0,8,3,0,0,0,23,0,49,37,7,24,0,13,0,45,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,3,2,3,3,1,1,1,0,0,0,0,0,2,0,0,0,0,0,3,1,1,3,0,1,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,1,PS (I-V),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,1,PS (I-V),3,Local body,Urban,3,Co-Ed,31,31,0,1,29,30,24,15,22,22,0,0,0,0,18,8,0,0,0,16,0,31,25,2,21,0,3,0,18,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,1,PS (I-V),4,Government Aided,Urban,3,Co-Ed,2,2,0,0,2,2,2,0,0,0,0,0,0,0,1,2,0,0,0,0,0,2,0,0,2,0,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,15,15,0,11,12,15,15,6,7,7,0,0,0,0,1,9,0,9,0,3,0,14,9,3,13,3,2,0,13,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,2,2,0,1,2,2,1,1,1,1,0,0,0,0,1,1,0,1,0,0,0,2,0,2,1,1,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,6,SS (I-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,0,0,1,1,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,3,3,4,3,3,3,3,0,0,0,0,1,2,0,3,0,1,2,4,3,3,3,3,1,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,6,SS (I-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,5,5,0,2,3,5,5,1,1,1,0,0,0,0,1,3,0,4,0,1,0,2,0,0,2,2,2,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,7,SS (VI-X),1,Department of Education,Urban,2,Girls,2,2,0,2,2,2,2,0,2,2,0,0,0,0,1,2,0,0,0,1,0,1,2,1,1,0,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,7,SS (VI-X),3,Local body,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,9,9,0,7,9,9,9,3,5,5,0,0,0,0,2,2,0,1,0,8,0,8,6,4,9,0,2,0,5,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,4,3,4,4,1,1,1,0,0,0,0,1,3,0,1,0,1,0,4,2,2,4,1,2,0,4,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,7,SS (VI-X),8,Unrecognized,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,7,SS (VI-X),3,Local body,Urban,3,Co-Ed,6,6,0,6,6,6,6,2,3,3,0,0,0,0,1,4,0,1,0,6,0,6,5,1,5,1,1,0,5,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,7,SS (VI-X),4,Government Aided,Urban,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,13,13,0,13,11,13,13,6,7,7,0,0,0,0,2,8,0,5,0,2,1,13,9,7,12,2,2,0,12,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,7,SS (VI-X),8,Unrecognized,Urban,3,Co-Ed,4,4,0,3,1,4,4,1,1,1,0,0,0,0,1,2,0,0,0,1,0,3,3,1,4,0,0,0,4,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,2,UPS (I-VIII),1,Department of Education,Urban,1,Boys,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,19,18,0,2,15,19,19,7,11,11,0,0,0,0,2,0,0,0,0,13,0,19,12,4,11,0,5,0,16,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,10,10,0,7,7,10,9,2,3,3,0,0,0,0,2,6,0,1,0,3,0,10,8,7,10,1,2,0,10,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,28,28,0,23,14,28,28,5,5,5,0,0,0,0,7,14,0,9,0,8,0,28,17,10,28,9,5,0,25,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,2,UPS (I-VIII),8,Unrecognized,Urban,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281119,SRIKAKULAM,4,UPS (VI-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281120,GARA,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281120,GARA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281120,GARA,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281120,GARA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,71,71,0,0,61,70,71,18,44,51,0,0,0,0,6,6,0,0,0,42,0,71,69,10,31,1,20,0,57,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281120,GARA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,3,3,3,2,2,2,0,0,0,0,1,3,0,0,0,3,0,3,2,3,3,0,0,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281120,GARA,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281120,GARA,7,SS (VI-X),3,Local body,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281120,GARA,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,2,2,0,2,2,2,2,1,1,1,0,0,0,0,0,0,0,1,0,1,0,2,2,0,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281120,GARA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,6,4,6,6,2,3,3,0,0,0,0,0,5,0,1,0,5,0,6,6,2,6,2,2,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281120,GARA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2,2,1,2,0,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281120,GARA,2,UPS (I-VIII),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281120,GARA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,17,17,0,4,16,17,17,5,15,15,0,0,0,0,2,4,0,0,0,12,0,17,17,2,4,0,4,0,15,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281120,GARA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,4,4,4,4,2,3,3,0,0,0,0,1,4,0,1,0,3,0,4,2,4,4,0,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281120,GARA,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281121,POLAKI,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281121,POLAKI,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,2,2,0,1,1,2,2,1,2,2,0,0,0,0,1,1,0,1,0,1,0,2,0,1,2,1,1,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281121,POLAKI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,68,67,0,1,45,53,64,19,22,28,0,0,0,0,7,6,0,1,0,36,0,68,60,4,24,1,17,0,50,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281121,POLAKI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,2,3,3,1,1,1,0,0,0,0,0,1,0,1,0,0,0,2,2,0,3,1,0,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281121,POLAKI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,1,0,2,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281121,POLAKI,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,1,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281121,POLAKI,7,SS (VI-X),3,Local body,Rural,2,Girls,1,1,0,1,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281121,POLAKI,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,2,1,0,2,1,2,2,1,0,1,0,0,0,0,0,2,0,1,0,2,0,2,1,0,2,0,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281121,POLAKI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,7,7,0,5,7,7,7,3,3,3,0,0,0,0,2,3,0,1,0,5,0,7,5,4,5,0,1,0,4,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281121,POLAKI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,2,1,4,4,0,0,0,0,0,0,0,1,2,0,1,0,0,0,3,2,1,4,1,0,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281121,POLAKI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,21,21,0,3,10,18,21,9,12,12,0,0,0,0,6,1,0,0,0,14,0,20,21,4,9,0,12,0,15,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281121,POLAKI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,2,2,4,2,0,0,0,0,0,0,0,0,2,0,0,0,1,0,4,2,2,4,1,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281121,POLAKI,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281122,NARASANNAPETA,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,1,1,0,1,1,1,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281122,NARASANNAPETA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,0,3,5,5,2,2,2,0,0,0,0,4,3,0,0,0,4,1,5,1,3,5,0,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281122,NARASANNAPETA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,64,62,0,1,35,54,61,16,11,18,0,0,0,0,4,2,0,0,0,35,0,63,61,3,32,1,14,0,44,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281122,NARASANNAPETA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,11,11,0,9,11,11,10,6,6,6,0,0,0,0,3,9,0,3,0,9,0,11,9,6,11,0,1,0,5,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281122,NARASANNAPETA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,1,2,1,2,2,2,0,0,0,0,1,2,0,1,0,2,0,2,1,2,2,1,1,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281122,NARASANNAPETA,7,SS (VI-X),3,Local body,Rural,2,Girls,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281122,NARASANNAPETA,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281122,NARASANNAPETA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,10,10,0,6,6,9,10,4,5,6,0,0,0,0,2,0,0,2,0,10,0,7,10,5,9,1,2,0,7,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281122,NARASANNAPETA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,5,4,7,5,3,3,3,0,0,0,0,1,4,0,4,0,4,1,5,3,4,5,0,0,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281122,NARASANNAPETA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,12,12,0,5,9,11,12,0,2,2,0,0,0,0,2,0,0,0,0,7,0,12,12,3,9,0,5,0,9,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281122,NARASANNAPETA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,4,5,6,6,4,4,4,0,0,0,0,2,2,0,0,0,5,0,5,5,2,6,0,1,0,5,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281122,NARASANNAPETA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281123,JALUMURU,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281123,JALUMURU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281123,JALUMURU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,70,63,0,0,39,63,70,29,51,55,0,0,0,0,8,7,0,0,0,30,0,70,69,4,45,0,11,0,51,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281123,JALUMURU,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,0,2,2,1,2,2,0,0,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281123,JALUMURU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,0,4,4,4,1,1,1,0,0,0,0,0,2,0,1,0,1,0,4,4,0,4,0,0,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281123,JALUMURU,7,SS (VI-X),1,Department of Education,Rural,2,Girls,2,2,0,2,1,1,2,0,1,1,0,0,0,0,0,2,0,0,0,1,0,2,2,2,2,0,2,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281123,JALUMURU,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,1,0,1,0,1,1,0,1,1,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281123,JALUMURU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,12,12,0,6,9,11,12,6,10,10,0,0,0,0,0,3,0,4,0,10,0,12,12,7,8,1,5,0,8,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281123,JALUMURU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,0,4,4,4,1,1,1,0,0,0,0,1,3,0,0,0,1,1,4,3,1,3,0,0,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281123,JALUMURU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,13,11,0,3,11,13,13,11,12,12,0,0,0,0,2,2,0,0,0,7,0,13,13,5,7,0,7,0,12,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281123,JALUMURU,2,UPS (I-VIII),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281123,JALUMURU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,2,2,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,2,2,1,2,0,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281123,JALUMURU,4,UPS (VI-VIII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281124,SARAVAKOTA,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281124,SARAVAKOTA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281124,SARAVAKOTA,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,10,9,0,0,8,10,10,3,0,3,0,0,0,0,1,0,0,0,0,9,0,10,10,4,3,0,0,0,8,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281124,SARAVAKOTA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,57,54,0,0,39,56,57,10,30,32,0,0,0,0,15,1,0,0,0,32,0,57,57,35,20,0,13,0,41,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281124,SARAVAKOTA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,3,5,5,4,2,3,3,0,0,0,0,3,5,0,0,0,4,0,4,4,3,5,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281124,SARAVAKOTA,6,SS (I-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281124,SARAVAKOTA,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281124,SARAVAKOTA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,4,4,0,4,2,3,4,1,1,1,0,0,0,0,0,4,0,2,0,3,0,4,4,4,3,1,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281124,SARAVAKOTA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,1,3,4,3,1,2,2,0,0,0,0,2,3,0,0,0,2,0,4,3,2,3,1,1,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281124,SARAVAKOTA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281124,SARAVAKOTA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,12,12,0,2,9,11,12,3,5,5,0,0,0,0,5,0,0,1,0,10,0,12,12,9,6,0,3,0,10,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281124,SARAVAKOTA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,1,1,1,0,0,0,0,1,2,0,1,0,2,0,2,2,1,2,1,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281125,PATHAPATNAM,3,HSS (I-XII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1,1,1,0,0,1,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281125,PATHAPATNAM,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281125,PATHAPATNAM,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281125,PATHAPATNAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,0,1,3,3,0,0,0,0,0,0,0,1,0,0,3,0,0,0,3,0,1,3,1,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281125,PATHAPATNAM,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,2,2,0,0,1,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,2,0,0,0,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281125,PATHAPATNAM,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,11,11,0,0,2,11,10,1,0,1,0,0,0,0,0,0,0,0,0,0,0,9,9,0,1,0,0,0,8,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281125,PATHAPATNAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,51,51,0,1,36,50,46,24,13,26,0,0,0,0,10,5,0,0,0,27,0,48,51,9,22,0,11,0,30,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281125,PATHAPATNAM,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281125,PATHAPATNAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,4,4,4,4,0,0,0,0,0,0,0,1,3,0,2,0,0,0,4,3,1,4,2,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281125,PATHAPATNAM,6,SS (I-X),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281125,PATHAPATNAM,6,SS (I-X),2,Tribal Welfare Department,Rural,2,Girls,2,2,0,1,2,2,2,0,2,2,0,0,0,0,0,0,0,0,0,2,0,1,2,1,2,0,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281125,PATHAPATNAM,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,1,0,1,1,0,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281125,PATHAPATNAM,7,SS (VI-X),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281125,PATHAPATNAM,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281125,PATHAPATNAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,6,6,0,3,4,6,6,2,2,3,0,0,0,0,1,1,0,1,0,6,0,5,6,3,5,0,1,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281125,PATHAPATNAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,2,3,4,4,0,0,0,0,0,0,0,0,1,0,3,0,0,0,3,2,0,3,1,1,0,4,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281125,PATHAPATNAM,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281125,PATHAPATNAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,10,10,0,1,7,10,10,6,6,7,0,0,0,0,3,2,0,1,0,8,0,10,10,5,4,0,3,0,5,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281125,PATHAPATNAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,9,9,0,5,5,9,9,3,3,3,0,0,0,0,4,6,0,2,0,4,0,9,7,3,9,2,4,0,6,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281126,MELIAPUTTI,11,HSS (XI-XII),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281126,MELIAPUTTI,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281126,MELIAPUTTI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281126,MELIAPUTTI,1,PS (I-V),1,Department of Education,Rural,3,Co-Ed,5,5,0,0,2,5,5,2,1,2,0,0,0,0,1,0,0,0,0,3,0,5,5,1,2,0,1,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281126,MELIAPUTTI,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,37,35,0,1,9,32,25,3,2,3,0,0,0,0,2,2,0,0,0,15,0,35,30,0,4,0,2,0,28,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281126,MELIAPUTTI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,48,48,0,1,27,46,46,10,11,15,0,0,0,0,13,0,0,0,0,27,0,47,43,7,18,2,13,0,37,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281126,MELIAPUTTI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,1,2,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,0,1,1,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281126,MELIAPUTTI,6,SS (I-X),2,Tribal Welfare Department,Rural,1,Boys,2,2,0,1,1,2,2,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,1,1,2,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281126,MELIAPUTTI,6,SS (I-X),2,Tribal Welfare Department,Rural,2,Girls,3,3,0,2,2,3,3,0,3,3,0,0,0,0,0,0,0,0,0,3,0,0,3,1,2,0,0,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281126,MELIAPUTTI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,9,9,0,6,7,9,9,3,3,3,0,0,0,0,1,4,0,0,0,9,0,9,7,5,8,0,6,0,4,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281126,MELIAPUTTI,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,2,Girls,2,2,0,1,1,2,2,0,2,2,0,0,0,0,0,0,0,0,0,2,0,0,2,1,2,0,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281126,MELIAPUTTI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,9,9,0,1,7,9,9,4,4,5,0,0,0,0,4,0,0,0,0,3,0,9,9,3,5,1,7,0,9,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281126,MELIAPUTTI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,0,3,3,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,3,1,3,1,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281127,TEKKALI,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281127,TEKKALI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,1,2,3,3,2,2,2,0,0,0,0,3,2,0,2,0,1,1,2,2,2,3,1,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281127,TEKKALI,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,5,5,0,0,0,5,2,0,0,0,0,0,0,0,0,2,0,0,0,5,0,4,4,0,0,0,0,0,4,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281127,TEKKALI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,64,61,0,0,37,53,63,12,12,18,0,0,0,0,14,2,0,0,0,33,0,49,52,14,10,0,13,0,44,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281127,TEKKALI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,11,11,0,10,11,11,11,6,6,6,0,0,0,0,4,9,0,4,0,3,0,11,6,7,11,1,0,0,8,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281127,TEKKALI,6,SS (I-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,0,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281127,TEKKALI,6,SS (I-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281127,TEKKALI,7,SS (VI-X),3,Local body,Rural,2,Girls,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281127,TEKKALI,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,1,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281127,TEKKALI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,8,8,0,6,5,7,8,2,3,4,0,0,0,0,1,2,0,1,0,7,0,8,7,7,8,0,4,0,8,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281127,TEKKALI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,9,9,0,7,8,9,9,2,2,2,0,0,0,0,2,8,0,6,0,6,0,8,4,7,9,1,2,0,8,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281127,TEKKALI,7,SS (VI-X),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281127,TEKKALI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,11,11,0,2,7,9,10,6,5,8,0,0,0,0,2,1,0,0,0,7,0,11,11,3,4,0,3,0,8,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281127,TEKKALI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,2,4,4,4,1,1,1,0,0,0,0,1,3,0,2,0,1,0,4,3,3,4,2,0,0,4,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281127,TEKKALI,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,3,3,0,1,3,3,3,2,2,2,0,0,0,0,2,3,0,0,0,3,0,3,1,3,3,0,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281127,TEKKALI,4,UPS (VI-VIII),8,Unrecognized,Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281128,KOTABOMMALI,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281128,KOTABOMMALI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,2,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281128,KOTABOMMALI,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281128,KOTABOMMALI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,82,80,0,0,66,78,79,23,36,39,0,0,0,0,28,17,0,3,0,33,0,77,81,6,24,2,6,0,60,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281128,KOTABOMMALI,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281128,KOTABOMMALI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,1,3,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,0,2,1,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281128,KOTABOMMALI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,3,0,3,4,4,4,1,1,1,0,0,0,0,2,2,0,2,0,2,0,4,2,3,4,1,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281128,KOTABOMMALI,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281128,KOTABOMMALI,7,SS (VI-X),3,Local body,Rural,2,Girls,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281128,KOTABOMMALI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,9,9,0,7,9,9,9,3,6,6,0,0,0,0,3,4,0,1,0,9,0,8,9,7,8,0,3,0,5,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281128,KOTABOMMALI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,1,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281128,KOTABOMMALI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,21,21,0,2,17,21,21,13,14,15,0,0,0,0,12,4,0,3,0,8,0,21,21,2,3,1,3,0,9,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281128,KOTABOMMALI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,2,3,3,4,1,1,1,0,0,0,0,0,1,0,0,0,1,0,3,2,0,3,0,1,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281129,SANTHABOMMALI,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281129,SANTHABOMMALI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,77,76,0,1,43,69,74,24,28,30,0,0,0,0,1,19,0,1,0,42,0,76,71,4,21,2,7,0,52,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281129,SANTHABOMMALI,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281129,SANTHABOMMALI,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281129,SANTHABOMMALI,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,2,2,0,1,1,1,2,1,1,1,0,0,0,0,0,2,0,0,0,2,0,2,2,2,2,0,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281129,SANTHABOMMALI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,8,8,0,5,5,6,7,2,4,4,0,0,0,0,2,0,0,2,0,8,0,8,7,4,6,0,1,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281129,SANTHABOMMALI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,23,23,0,2,11,20,23,8,9,10,0,0,0,0,2,3,0,0,0,15,0,22,21,2,8,0,3,0,9,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281129,SANTHABOMMALI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,0,4,4,2,2,2,2,0,0,0,0,0,3,0,0,0,3,0,5,3,2,5,0,0,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281130,NANDIGAM,3,HSS (I-XII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,1,1,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281130,NANDIGAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281130,NANDIGAM,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,3,3,0,0,2,3,2,0,0,0,0,0,0,0,0,1,0,0,0,1,0,3,2,0,0,0,0,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281130,NANDIGAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,80,75,0,0,51,66,75,19,17,24,0,0,0,0,6,2,0,0,0,39,0,79,75,28,31,0,23,0,59,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281130,NANDIGAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281130,NANDIGAM,6,SS (I-X),2,Tribal Welfare Department,Rural,1,Boys,2,2,0,1,2,2,2,2,0,2,0,0,0,0,0,0,0,0,0,2,0,0,2,1,2,1,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281130,NANDIGAM,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281130,NANDIGAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,14,13,0,7,8,12,14,5,6,6,0,0,0,0,1,5,0,3,0,14,0,13,12,10,13,2,8,0,13,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281130,NANDIGAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281130,NANDIGAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,8,7,0,3,6,8,8,4,3,4,0,0,0,0,1,0,0,1,0,5,0,8,7,2,5,0,6,0,5,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281130,NANDIGAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,2,3,2,1,1,1,0,0,0,0,0,3,0,0,0,2,0,1,2,0,2,0,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281131,VAJRAPUKOTTURU,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281131,VAJRAPUKOTTURU,1,PS (I-V),3,Local body,Rural,3,Co-Ed,68,66,0,0,44,60,63,26,17,31,0,0,0,0,7,10,0,0,0,34,0,67,48,21,29,0,8,0,58,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281131,VAJRAPUKOTTURU,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281131,VAJRAPUKOTTURU,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,1,0,0,0,0,0,0,0,1,2,0,1,0,1,0,2,1,1,2,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281131,VAJRAPUKOTTURU,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,16,16,0,8,11,14,15,3,4,4,0,0,0,0,2,8,0,1,0,14,0,14,12,5,13,4,3,0,9,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281131,VAJRAPUKOTTURU,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281131,VAJRAPUKOTTURU,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,18,18,0,4,11,16,18,5,9,11,0,0,0,0,1,2,0,0,0,11,0,18,15,3,9,1,9,0,14,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281131,VAJRAPUKOTTURU,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,7,7,0,3,4,7,6,1,1,1,0,0,0,0,2,3,0,0,0,2,0,7,7,3,6,1,1,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281132,PALASA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,2,Girls,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281132,PALASA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,4,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281132,PALASA,11,HSS (XI-XII),1,Department of Education,Urban,3,Co-Ed,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,1,1,1,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281132,PALASA,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,3,3,3,2,1,1,1,0,0,0,0,2,3,0,0,0,2,0,3,3,3,3,0,3,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281132,PALASA,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,6,6,0,1,1,4,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,4,4,0,1,0,0,0,5,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281132,PALASA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,42,41,0,0,13,28,35,1,6,6,0,0,0,0,1,5,0,0,0,22,0,42,32,7,15,2,6,0,36,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281132,PALASA,1,PS (I-V),4,Government Aided,Rural,3,Co-Ed,2,2,0,0,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281132,PALASA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,1,2,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281132,PALASA,1,PS (I-V),3,Local body,Urban,3,Co-Ed,17,17,0,0,8,13,16,3,2,4,0,0,0,0,1,4,0,0,0,10,0,17,15,1,9,1,9,0,16,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281132,PALASA,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,9,9,0,6,9,9,9,0,2,2,0,0,0,0,0,3,0,0,0,3,0,9,6,3,9,0,2,0,8,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281132,PALASA,1,PS (I-V),7,Central Govt,Urban,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281132,PALASA,1,PS (I-V),8,Unrecognized,Urban,3,Co-Ed,2,2,0,2,2,2,2,0,2,2,0,0,0,0,0,2,0,1,0,1,0,2,2,1,2,1,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281132,PALASA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,4,4,0,3,3,3,4,0,1,1,0,0,0,0,0,2,0,1,0,4,0,3,3,1,4,0,0,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281132,PALASA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281132,PALASA,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,1,1,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281132,PALASA,7,SS (VI-X),3,Local body,Urban,3,Co-Ed,2,2,0,2,1,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,0,1,1,1,2,0,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281132,PALASA,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,11,11,0,8,11,11,11,0,4,4,0,0,0,0,0,9,0,0,0,7,0,11,9,6,11,0,2,0,8,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281132,PALASA,7,SS (VI-X),7,Central Govt,Urban,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281132,PALASA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281132,PALASA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,11,11,0,2,7,9,11,4,5,5,0,0,0,0,0,2,0,0,0,6,0,11,10,2,5,0,5,0,10,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281132,PALASA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,1,2,2,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,2,0,2,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281132,PALASA,2,UPS (I-VIII),3,Local body,Urban,3,Co-Ed,5,5,0,1,1,4,5,2,1,2,0,0,0,0,0,2,0,0,0,3,0,4,3,1,2,0,4,0,4,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281132,PALASA,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,9,9,0,5,7,9,9,1,1,1,0,0,0,0,2,3,0,0,0,0,0,7,5,2,9,1,2,0,8,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281132,PALASA,2,UPS (I-VIII),8,Unrecognized,Urban,3,Co-Ed,2,2,0,2,2,2,2,0,1,1,0,0,0,0,0,1,0,0,0,1,0,2,2,1,2,0,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281133,MANDASA,10,HSS (IX-XII),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,1,1,1,1,1,0,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281133,MANDASA,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281133,MANDASA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,1,2,2,0,0,0,0,0,0,0,1,1,0,2,0,1,1,2,0,1,2,2,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281133,MANDASA,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,16,13,0,0,5,16,8,0,0,0,0,0,0,0,1,2,0,0,0,5,0,5,8,1,0,0,3,0,13,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281133,MANDASA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,99,99,0,1,69,98,93,3,6,7,0,0,0,0,7,4,0,1,0,58,0,95,89,9,39,0,17,0,65,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281133,MANDASA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281133,MANDASA,1,PS (I-V),3,Local body,Urban,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281133,MANDASA,6,SS (I-X),2,Tribal Welfare Department,Rural,2,Girls,3,3,0,0,3,3,3,0,3,3,0,0,0,0,0,0,0,1,0,3,0,0,3,0,3,1,2,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281133,MANDASA,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,1,1,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281133,MANDASA,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281133,MANDASA,7,SS (VI-X),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281133,MANDASA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,12,12,0,9,9,12,12,2,2,2,0,0,0,0,1,4,0,1,0,12,0,11,11,6,10,2,3,0,11,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281133,MANDASA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281133,MANDASA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281133,MANDASA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,16,16,0,2,11,16,15,2,4,4,0,0,0,0,1,0,0,0,0,13,0,16,15,3,8,0,7,0,10,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281133,MANDASA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,10,10,0,4,5,10,6,0,0,0,0,0,0,0,0,5,0,4,0,5,0,9,5,2,9,4,0,0,4,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281134,SOMPETA,5,HSS (VI-XII),1,Department of Education,Urban,3,Co-Ed,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281134,SOMPETA,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,2,2,0,0,1,1,2,0,0,0,0,0,0,0,0,1,0,0,0,1,1,2,0,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281134,SOMPETA,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,0,0,3,3,1,2,2,0,0,0,0,1,2,0,1,0,2,0,3,1,1,3,1,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281134,SOMPETA,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281134,SOMPETA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,51,51,0,0,29,38,50,19,27,30,0,0,0,0,11,3,0,0,0,30,0,50,45,11,20,1,24,0,41,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281134,SOMPETA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,6,6,0,6,4,6,6,4,4,4,0,0,0,0,2,4,0,3,0,2,0,6,4,3,6,2,0,0,6,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281134,SOMPETA,1,PS (I-V),3,Local body,Urban,3,Co-Ed,3,3,0,0,2,2,3,0,1,1,0,0,0,0,1,0,0,0,0,1,0,3,3,1,0,0,1,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281134,SOMPETA,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281134,SOMPETA,7,SS (VI-X),3,Local body,Rural,2,Girls,2,2,0,2,1,2,2,0,1,1,0,0,0,0,2,1,0,0,0,1,0,2,2,1,0,1,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281134,SOMPETA,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,2,2,0,2,0,2,2,0,0,0,0,0,0,0,0,2,0,1,0,2,0,2,2,1,2,0,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281134,SOMPETA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,9,8,0,4,6,8,9,1,2,2,0,0,0,0,1,2,0,0,0,9,0,8,9,5,7,2,5,0,7,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281134,SOMPETA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,4,4,4,4,4,4,4,0,0,0,0,3,3,0,2,0,2,0,4,2,3,4,1,1,0,3,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281134,SOMPETA,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,1,Boys,1,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281134,SOMPETA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,16,15,0,7,12,15,15,8,9,9,0,0,0,0,3,0,0,0,0,12,0,16,13,4,11,0,15,0,13,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281134,SOMPETA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,4,4,0,3,2,4,3,2,2,2,0,0,0,0,2,2,0,1,0,0,0,3,1,1,4,1,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281134,SOMPETA,4,UPS (VI-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,1,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281135,KANCHILI,3,HSS (I-XII),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,1,1,1,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281135,KANCHILI,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281135,KANCHILI,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,0,1,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281135,KANCHILI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,2,1,2,2,1,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281135,KANCHILI,1,PS (I-V),2,Tribal Welfare Department,Rural,3,Co-Ed,3,3,0,0,0,2,1,0,0,0,0,0,0,0,0,1,0,0,0,2,0,1,1,0,0,0,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281135,KANCHILI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,66,66,0,0,41,54,61,18,22,23,0,0,0,0,11,1,0,0,0,42,0,61,57,6,19,2,21,0,53,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281135,KANCHILI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,1,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281135,KANCHILI,7,SS (VI-X),2,Tribal Welfare Department,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,0,1,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281135,KANCHILI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,10,10,0,7,8,8,10,3,7,7,0,0,0,0,5,0,0,3,0,9,0,10,9,6,10,0,5,0,9,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281135,KANCHILI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,1,0,1,1,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281135,KANCHILI,2,UPS (I-VIII),2,Tribal Welfare Department,Rural,1,Boys,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281135,KANCHILI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,23,23,0,5,17,19,23,7,9,10,0,0,0,0,3,0,0,2,0,22,0,23,23,7,14,0,12,0,20,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281135,KANCHILI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,3,5,5,5,3,3,3,0,0,0,0,3,5,0,2,0,4,0,5,3,4,5,0,1,0,4,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281135,KANCHILI,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281136,KAVITI,5,HSS (VI-XII),1,Department of Education,Rural,3,Co-Ed,1,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281136,KAVITI,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,1,0,0,0,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281136,KAVITI,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,5,5,0,2,3,5,5,4,5,5,0,0,0,0,2,3,0,2,0,2,1,4,2,3,4,1,1,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281136,KAVITI,1,PS (I-V),3,Local body,Rural,3,Co-Ed,77,77,0,3,59,76,74,13,18,21,0,0,0,0,10,1,0,6,0,50,0,77,70,10,30,1,36,0,63,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281136,KAVITI,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,1,2,2,2,2,2,2,0,0,0,0,2,2,0,0,0,1,0,2,1,1,2,2,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281136,KAVITI,6,SS (I-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,2,2,0,0,2,2,2,2,2,2,0,0,0,0,2,2,0,0,0,2,0,2,2,2,2,2,0,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281136,KAVITI,8,SS (IX-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281136,KAVITI,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281136,KAVITI,7,SS (VI-X),3,Local body,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281136,KAVITI,7,SS (VI-X),1,Department of Education,Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,1,0,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281136,KAVITI,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,16,16,0,6,15,16,14,7,8,8,0,0,0,0,2,5,0,3,0,15,0,14,15,11,10,1,6,0,12,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281136,KAVITI,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,1,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281136,KAVITI,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,14,14,0,5,12,14,14,3,5,5,0,0,0,0,4,1,0,1,0,10,0,14,13,6,6,0,11,0,11,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281136,KAVITI,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,10,10,0,4,8,10,6,3,4,4,0,0,0,0,4,4,0,3,0,4,0,8,6,4,10,3,0,0,7,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281136,KAVITI,2,UPS (I-VIII),8,Unrecognized,Rural,3,Co-Ed,2,2,0,0,1,2,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281137,ICHAPURAM,5,HSS (VI-XII),1,Department of Education,Urban,3,Co-Ed,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281137,ICHAPURAM,11,HSS (XI-XII),1,Department of Education,Urban,1,Boys,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281137,ICHAPURAM,11,HSS (XI-XII),1,Department of Education,Urban,2,Girls,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281137,ICHAPURAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281137,ICHAPURAM,11,HSS (XI-XII),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,0,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,1,1,1,1,1,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281137,ICHAPURAM,1,PS (I-V),3,Local body,Rural,3,Co-Ed,33,33,0,0,19,24,29,5,5,5,0,0,0,0,4,2,0,0,0,16,0,28,26,5,14,2,16,0,28,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281137,ICHAPURAM,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281137,ICHAPURAM,1,PS (I-V),3,Local body,Urban,3,Co-Ed,11,11,0,0,6,8,11,3,3,3,0,0,0,0,2,3,0,0,0,7,0,11,9,4,3,0,6,0,7,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281137,ICHAPURAM,1,PS (I-V),5,Private Unaided (Recognized),Urban,3,Co-Ed,3,3,0,3,3,3,3,2,2,2,0,0,0,0,1,2,0,1,0,2,0,3,3,2,3,1,2,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281137,ICHAPURAM,8,SS (IX-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281137,ICHAPURAM,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281137,ICHAPURAM,7,SS (VI-X),3,Local body,Urban,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,0,0,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281137,ICHAPURAM,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,7,7,0,4,3,5,6,0,1,1,0,0,0,0,1,1,0,1,0,7,0,6,6,6,7,0,2,0,6,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281137,ICHAPURAM,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281137,ICHAPURAM,7,SS (VI-X),1,Department of Education,Urban,3,Co-Ed,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,1,0,1,0,1,1,1,0,0,1,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281137,ICHAPURAM,7,SS (VI-X),3,Local body,Urban,3,Co-Ed,2,2,0,2,2,2,2,2,2,2,0,0,0,0,0,1,0,0,0,2,0,2,2,1,2,0,2,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281137,ICHAPURAM,7,SS (VI-X),5,Private Unaided (Recognized),Urban,3,Co-Ed,2,2,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,1,2,1,1,1,0,1,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281137,ICHAPURAM,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,12,12,0,3,7,8,11,6,6,6,0,0,0,0,2,1,0,0,0,9,0,12,11,5,7,3,11,0,10,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281137,ICHAPURAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,2,2,3,3,0,0,0,0,0,0,0,0,1,0,1,0,0,0,3,1,1,3,0,1,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281137,ICHAPURAM,2,UPS (I-VIII),5,Private Unaided (Recognized),Urban,3,Co-Ed,8,8,0,5,8,8,8,4,4,4,0,0,0,0,3,4,0,2,0,3,0,8,3,4,8,4,1,0,6,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281138,LAXMINARSU PETA,11,HSS (XI-XII),1,Department of Education,Rural,3,Co-Ed,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281138,LAXMINARSU PETA,1,PS (I-V),3,Local body,Rural,3,Co-Ed,30,30,0,0,20,27,28,5,5,6,0,0,0,0,4,0,0,0,0,19,0,30,27,6,13,0,5,0,20,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281138,LAXMINARSU PETA,1,PS (I-V),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,0,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281138,LAXMINARSU PETA,7,SS (VI-X),1,Department of Education,Rural,2,Girls,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281138,LAXMINARSU PETA,7,SS (VI-X),3,Local body,Rural,3,Co-Ed,5,5,0,3,5,5,5,0,0,0,0,0,0,0,0,0,0,1,0,5,0,5,4,2,5,0,3,0,2,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281138,LAXMINARSU PETA,7,SS (VI-X),5,Private Unaided (Recognized),Rural,3,Co-Ed,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281138,LAXMINARSU PETA,2,UPS (I-VIII),3,Local body,Rural,3,Co-Ed,9,9,0,2,8,9,9,2,4,4,0,0,0,0,2,0,0,0,0,7,0,9,8,2,2,0,3,0,7,0,0
+2013-14,28,Andhra Pradesh,2811,SRIKAKULAM,281138,LAXMINARSU PETA,2,UPS (I-VIII),5,Private Unaided (Recognized),Rural,3,Co-Ed,3,3,0,0,3,3,3,1,1,1,0,0,0,0,0,3,0,0,0,0,0,2,3,3,3,1,0,0,2,0,0

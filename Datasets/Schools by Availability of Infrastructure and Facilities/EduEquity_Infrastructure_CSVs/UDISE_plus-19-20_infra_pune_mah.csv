@@ -1,0 +1,507 @@
+Academic_Year,State_Code,State_Name,District_Code,District_Name,Block_Code,Udise_Block_Name,Location,School_Category_Id,School_Category_Name,School_Management_Id,School_Management_Name,Total_Number_of_Schools,Building,Boundary_Wall,Single_Class_Room,Separate_Room_for_Headmaster,Land_Available,Electricity,Functional_Electricity,Solar_Panel,Furniture,Playground,Library_or_Reading_Corner_or_Book_Bank,Librarian,Newspaper,Kitchen_Garden,Boy_Toilet,Functional_Boy_Toilet,Girl_Toilet,Functional_Girl_Toilet,Toilet_Facility,Functional_Toilet_Facility,Functional_Urinal_Boy,Functional_Urinal_Girl,Functional_Urinal,Functional_Toilet_and_Urinal,Drinking_Water,Functional_Drinking_Water,Water_Purifier,Rain_Water_Harvesting,Water_Tested,Handwash,Incinerator,WASH_Facility_Drinking_Water_Toilet_and_Handwash,Ramps,Medical_Checkup,Complete_Medical_Checkup,Internet,Computer_Available
+2019-20,27,Maharashtra,2725,PUNE,272501,AMBEGAON,Rural,1,PS (I-V),3,Local body,189,184,120,5,101,82,163,182,39,1,180,186,2,153,101,175,163,172,163,180,172,169,169,173,168,183,171,106,11,75,183,0,164,184,188,107,35,176
+2019-20,27,Maharashtra,2725,PUNE,272501,AMBEGAON,Rural,1,PS (I-V),4,Government Aided,2,2,2,0,2,2,2,2,0,0,2,2,0,2,1,2,2,2,2,2,2,1,1,1,1,2,2,2,0,0,2,0,2,2,2,1,1,2
+2019-20,27,Maharashtra,2725,PUNE,272501,AMBEGAON,Rural,1,PS (I-V),5,Private Unaided (Recognized),3,3,3,0,3,3,3,3,1,0,3,2,0,3,0,3,3,3,3,3,3,3,3,3,3,3,3,2,1,3,3,0,3,3,3,2,3,3
+2019-20,27,Maharashtra,2725,PUNE,272501,AMBEGAON,Rural,2,UPS (I-VIII),3,Local body,45,45,32,0,38,34,41,45,13,0,45,45,0,39,26,44,42,44,42,45,43,44,44,44,42,45,44,24,3,19,44,13,42,44,45,34,9,40
+2019-20,27,Maharashtra,2725,PUNE,272501,AMBEGAON,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),4,4,4,0,4,4,4,4,0,0,4,4,1,4,0,4,4,4,4,4,4,4,4,4,4,4,4,4,1,4,4,2,4,4,4,2,4,4
+2019-20,27,Maharashtra,2725,PUNE,272501,AMBEGAON,Rural,3,HSS (I-XII),2,Tribal Welfare Department,1,1,0,0,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1
+2019-20,27,Maharashtra,2725,PUNE,272501,AMBEGAON,Rural,3,HSS (I-XII),4,Government Aided,19,19,17,0,17,18,19,19,2,0,19,19,8,17,8,19,19,19,19,19,19,19,19,19,19,19,19,14,3,14,18,7,18,19,19,14,16,19
+2019-20,27,Maharashtra,2725,PUNE,272501,AMBEGAON,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272501,AMBEGAON,Rural,6,SS (I-X),2,Tribal Welfare Department,5,4,5,0,5,5,5,5,3,0,5,5,0,5,2,4,3,4,3,4,3,4,5,5,3,5,5,5,1,5,5,4,3,5,5,4,1,5
+2019-20,27,Maharashtra,2725,PUNE,272501,AMBEGAON,Rural,6,SS (I-X),4,Government Aided,16,16,11,0,14,15,16,16,0,0,16,16,0,15,9,16,16,16,16,16,16,15,14,15,15,16,15,0,2,6,16,1,16,16,16,9,11,15
+2019-20,27,Maharashtra,2725,PUNE,272501,AMBEGAON,Rural,6,SS (I-X),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,2,0,2,2,2,2,0,2,1,2,1,2,1,1,1,1,1,2,2,2,1,2,2,1,1,2,2,1,2,1
+2019-20,27,Maharashtra,2725,PUNE,272501,AMBEGAON,Rural,7,SS (VI-X),4,Government Aided,10,10,8,0,10,9,10,10,2,0,9,10,0,10,4,10,10,10,10,10,10,10,10,10,10,10,10,7,2,5,10,2,10,10,10,7,4,9
+2019-20,27,Maharashtra,2725,PUNE,272501,AMBEGAON,Rural,7,SS (VI-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272501,AMBEGAON,Rural,7,SS (VI-X),90,Social welfare Department,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,0,0,1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272501,AMBEGAON,Rural,11,HSS (XI-XII),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272501,AMBEGAON,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),2,2,1,0,2,2,2,2,2,0,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,1,2,1,1,2,2,2,2,2,0,2,2
+2019-20,27,Maharashtra,2725,PUNE,272502,BARAMATI,Rural,1,PS (I-V),3,Local body,252,250,156,3,166,132,220,248,25,0,241,252,2,201,104,235,226,237,229,250,244,226,229,235,234,252,251,87,10,146,252,0,244,249,250,164,23,211
+2019-20,27,Maharashtra,2725,PUNE,272502,BARAMATI,Rural,1,PS (I-V),4,Government Aided,5,5,4,0,5,5,5,5,0,0,5,5,0,5,2,5,5,5,5,5,5,5,5,5,5,5,5,2,1,5,5,0,5,5,5,3,5,5
+2019-20,27,Maharashtra,2725,PUNE,272502,BARAMATI,Rural,1,PS (I-V),5,Private Unaided (Recognized),20,20,17,1,18,18,20,20,2,0,20,16,2,16,5,20,20,20,20,20,20,16,16,16,16,20,20,12,3,13,20,0,20,17,19,7,14,18
+2019-20,27,Maharashtra,2725,PUNE,272502,BARAMATI,Rural,1,PS (I-V),8,Unrecognized,1,1,1,0,0,1,1,1,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,1,0,0
+2019-20,27,Maharashtra,2725,PUNE,272502,BARAMATI,Rural,2,UPS (I-VIII),3,Local body,26,26,23,0,16,17,26,26,4,0,26,26,0,23,9,26,25,26,25,26,25,24,24,24,24,26,26,15,0,14,26,14,25,26,26,17,4,26
+2019-20,27,Maharashtra,2725,PUNE,272502,BARAMATI,Rural,2,UPS (I-VIII),4,Government Aided,3,3,3,0,3,3,3,3,1,0,3,3,1,3,2,3,3,3,3,3,3,3,3,3,3,3,3,2,1,3,3,3,3,3,3,3,3,3
+2019-20,27,Maharashtra,2725,PUNE,272502,BARAMATI,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),6,6,6,0,6,5,6,6,3,0,6,5,3,5,4,6,6,6,6,6,6,5,5,5,5,6,6,3,2,3,6,5,6,5,6,2,6,6
+2019-20,27,Maharashtra,2725,PUNE,272502,BARAMATI,Rural,3,HSS (I-XII),4,Government Aided,18,17,16,0,17,18,18,18,1,0,18,18,10,18,8,18,18,18,18,18,18,16,16,16,16,18,18,9,4,12,18,8,18,18,18,9,16,18
+2019-20,27,Maharashtra,2725,PUNE,272502,BARAMATI,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),7,5,5,0,5,4,7,7,2,0,6,7,5,6,3,7,6,7,6,7,6,6,5,6,6,7,7,5,3,5,7,6,6,6,5,3,6,6
+2019-20,27,Maharashtra,2725,PUNE,272502,BARAMATI,Rural,5,HSS (VI-XII),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272502,BARAMATI,Rural,6,SS (I-X),4,Government Aided,26,20,19,0,25,26,26,26,0,0,25,26,2,26,5,26,25,26,25,26,25,24,23,24,24,26,26,13,5,16,25,12,25,26,25,20,18,26
+2019-20,27,Maharashtra,2725,PUNE,272502,BARAMATI,Rural,6,SS (I-X),5,Private Unaided (Recognized),13,13,12,0,13,13,13,13,3,0,13,13,8,11,6,13,13,13,13,13,13,10,10,10,10,13,13,12,4,11,13,6,13,13,13,7,12,13
+2019-20,27,Maharashtra,2725,PUNE,272502,BARAMATI,Rural,7,SS (VI-X),4,Government Aided,2,2,1,0,1,2,2,2,1,0,2,2,0,2,0,1,1,2,2,2,2,0,1,1,1,2,2,1,0,1,2,0,2,1,2,2,1,2
+2019-20,27,Maharashtra,2725,PUNE,272502,BARAMATI,Rural,7,SS (VI-X),5,Private Unaided (Recognized),1,0,1,0,1,1,1,1,1,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,0,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272502,BARAMATI,Rural,8,SS (IX-X),5,Private Unaided (Recognized),3,3,3,0,3,3,3,3,0,0,3,3,1,3,1,3,3,3,3,3,3,3,3,3,3,3,3,2,2,3,3,3,3,3,3,2,3,3
+2019-20,27,Maharashtra,2725,PUNE,272502,BARAMATI,Rural,10,HSS (IX-XII),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272502,BARAMATI,Rural,11,HSS (XI-XII),4,Government Aided,4,4,4,0,4,4,4,4,4,0,4,4,4,4,1,3,3,4,4,4,4,3,4,4,4,4,4,4,3,4,4,3,4,4,3,2,4,4
+2019-20,27,Maharashtra,2725,PUNE,272502,BARAMATI,Urban,1,PS (I-V),4,Government Aided,5,5,5,0,4,3,5,5,2,0,5,4,0,3,0,5,5,5,5,5,5,5,4,5,5,5,5,1,0,4,5,0,5,5,5,2,4,3
+2019-20,27,Maharashtra,2725,PUNE,272502,BARAMATI,Urban,1,PS (I-V),5,Private Unaided (Recognized),5,5,5,0,5,5,5,5,1,0,4,4,1,4,0,5,5,5,5,5,5,5,5,5,5,5,5,3,1,3,5,0,5,4,4,2,4,5
+2019-20,27,Maharashtra,2725,PUNE,272502,BARAMATI,Urban,2,UPS (I-VIII),3,Local body,8,8,4,0,7,1,8,8,0,0,5,8,0,1,3,8,8,8,8,8,8,8,8,8,8,8,8,0,0,2,8,1,8,8,8,7,0,7
+2019-20,27,Maharashtra,2725,PUNE,272502,BARAMATI,Urban,2,UPS (I-VIII),4,Government Aided,1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272502,BARAMATI,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),6,6,6,0,6,6,6,6,0,0,6,5,2,5,3,6,6,6,6,6,6,5,5,5,5,6,6,3,2,4,6,3,6,5,5,2,6,4
+2019-20,27,Maharashtra,2725,PUNE,272502,BARAMATI,Urban,3,HSS (I-XII),4,Government Aided,3,3,3,0,2,3,3,3,2,0,3,2,2,3,1,3,3,3,3,3,3,3,3,3,3,3,3,1,0,1,3,1,3,3,2,1,3,3
+2019-20,27,Maharashtra,2725,PUNE,272502,BARAMATI,Urban,3,HSS (I-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272502,BARAMATI,Urban,6,SS (I-X),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272502,BARAMATI,Urban,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272502,BARAMATI,Urban,7,SS (VI-X),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272502,BARAMATI,Urban,7,SS (VI-X),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,1,2,2,2,2,2,2,0,2,2
+2019-20,27,Maharashtra,2725,PUNE,272502,BARAMATI,Urban,10,HSS (IX-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272502,BARAMATI,Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272503,BHOR,Rural,1,PS (I-V),3,Local body,184,179,101,25,73,79,127,174,11,0,180,182,1,146,73,161,140,169,149,177,160,148,154,158,151,184,170,47,3,69,182,0,158,180,167,109,9,120
+2019-20,27,Maharashtra,2725,PUNE,272503,BHOR,Rural,1,PS (I-V),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,1,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,0,1
+2019-20,27,Maharashtra,2725,PUNE,272503,BHOR,Rural,2,UPS (I-VIII),3,Local body,90,88,55,2,67,57,75,89,13,0,88,89,0,77,38,84,74,88,85,89,87,76,82,82,81,90,86,44,3,39,88,15,85,90,84,69,7,77
+2019-20,27,Maharashtra,2725,PUNE,272503,BHOR,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),3,3,3,0,3,3,3,3,0,0,3,3,1,3,2,3,2,3,2,3,2,2,2,2,2,3,3,3,1,1,3,2,2,3,2,2,3,3
+2019-20,27,Maharashtra,2725,PUNE,272503,BHOR,Rural,3,HSS (I-XII),4,Government Aided,7,6,6,0,7,6,7,7,0,0,7,7,2,7,5,7,7,7,7,7,7,7,7,7,7,7,7,5,2,4,7,4,7,7,7,5,6,7
+2019-20,27,Maharashtra,2725,PUNE,272503,BHOR,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,0,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272503,BHOR,Rural,5,HSS (VI-XII),4,Government Aided,3,3,3,0,3,3,3,3,0,0,3,3,1,3,0,2,2,2,2,2,2,3,3,3,2,3,3,2,0,1,3,1,2,3,3,2,2,3
+2019-20,27,Maharashtra,2725,PUNE,272503,BHOR,Rural,5,HSS (VI-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,1,0,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272503,BHOR,Rural,6,SS (I-X),2,Tribal Welfare Department,2,2,2,0,2,2,2,2,0,0,2,2,0,2,1,2,2,2,2,2,2,2,2,2,2,2,1,1,1,2,2,0,2,2,2,2,0,2
+2019-20,27,Maharashtra,2725,PUNE,272503,BHOR,Rural,6,SS (I-X),4,Government Aided,13,13,11,0,12,11,13,13,1,0,13,13,1,13,5,13,13,13,13,13,13,12,12,12,12,13,12,4,1,8,13,4,13,13,13,7,3,12
+2019-20,27,Maharashtra,2725,PUNE,272503,BHOR,Rural,6,SS (I-X),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,0,1,2,2,2,2,2,2,1,2
+2019-20,27,Maharashtra,2725,PUNE,272503,BHOR,Rural,7,SS (VI-X),4,Government Aided,17,16,15,0,15,15,17,17,3,0,17,17,1,17,6,17,17,17,17,17,17,15,15,15,15,17,16,6,2,9,16,3,16,17,16,13,5,17
+2019-20,27,Maharashtra,2725,PUNE,272503,BHOR,Rural,7,SS (VI-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,0,0,0
+2019-20,27,Maharashtra,2725,PUNE,272503,BHOR,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,1,0,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,0,2,2
+2019-20,27,Maharashtra,2725,PUNE,272503,BHOR,Urban,1,PS (I-V),3,Local body,3,3,1,0,2,2,3,3,0,0,3,3,0,3,0,3,3,3,3,3,3,2,2,2,2,3,3,1,0,0,3,0,3,3,3,1,0,3
+2019-20,27,Maharashtra,2725,PUNE,272503,BHOR,Urban,1,PS (I-V),4,Government Aided,2,2,2,0,1,1,2,2,1,0,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,2,0,2,2,2,1,1,2
+2019-20,27,Maharashtra,2725,PUNE,272503,BHOR,Urban,2,UPS (I-VIII),4,Government Aided,1,1,0,0,1,0,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272503,BHOR,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,0,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272503,BHOR,Urban,3,HSS (I-XII),4,Government Aided,2,2,2,0,2,2,2,2,0,0,2,2,1,2,1,1,1,2,2,2,2,1,1,1,1,2,2,2,0,2,2,0,2,2,1,1,2,2
+2019-20,27,Maharashtra,2725,PUNE,272503,BHOR,Urban,5,HSS (VI-XII),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,0,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272503,BHOR,Urban,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272503,BHOR,Urban,7,SS (VI-X),4,Government Aided,1,1,0,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272503,BHOR,Urban,11,HSS (XI-XII),4,Government Aided,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272504,DAUND,Rural,1,PS (I-V),3,Local body,226,226,108,4,119,143,191,221,35,0,213,222,0,179,91,219,215,222,219,224,223,213,216,217,216,226,211,94,14,98,225,0,222,221,216,116,28,180
+2019-20,27,Maharashtra,2725,PUNE,272504,DAUND,Rural,1,PS (I-V),4,Government Aided,4,4,4,0,3,3,4,4,0,0,4,4,0,4,1,4,4,4,4,4,4,4,4,4,4,4,4,2,0,2,4,0,4,4,4,1,3,4
+2019-20,27,Maharashtra,2725,PUNE,272504,DAUND,Rural,1,PS (I-V),5,Private Unaided (Recognized),13,13,13,0,9,12,13,13,2,0,12,10,1,9,1,13,13,13,13,13,13,11,10,11,11,13,13,9,6,10,12,0,12,13,12,4,10,12
+2019-20,27,Maharashtra,2725,PUNE,272504,DAUND,Rural,2,UPS (I-VIII),3,Local body,63,63,38,0,44,51,59,63,10,0,62,63,0,59,23,63,61,63,59,63,61,59,59,60,59,62,61,27,3,31,63,16,60,63,61,44,11,58
+2019-20,27,Maharashtra,2725,PUNE,272504,DAUND,Rural,2,UPS (I-VIII),4,Government Aided,4,3,4,0,4,4,4,4,1,0,4,3,0,1,2,4,4,4,4,4,4,3,3,3,3,4,4,4,0,3,4,2,4,4,4,3,3,3
+2019-20,27,Maharashtra,2725,PUNE,272504,DAUND,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),18,18,17,0,17,16,18,18,3,0,18,17,6,16,6,18,17,18,17,18,17,16,16,16,16,18,17,10,7,10,18,10,17,18,15,1,17,18
+2019-20,27,Maharashtra,2725,PUNE,272504,DAUND,Rural,3,HSS (I-XII),4,Government Aided,21,19,18,0,21,19,21,21,2,0,20,20,4,19,9,21,19,21,19,21,19,17,18,18,17,21,20,12,4,14,21,4,19,20,20,11,17,21
+2019-20,27,Maharashtra,2725,PUNE,272504,DAUND,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),3,3,3,0,3,3,3,3,2,0,3,2,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,3,2,0,3,3
+2019-20,27,Maharashtra,2725,PUNE,272504,DAUND,Rural,5,HSS (VI-XII),4,Government Aided,3,3,3,0,3,3,3,3,1,0,3,3,0,2,0,3,3,3,3,3,3,3,3,3,3,3,3,2,2,2,3,0,3,3,3,1,3,3
+2019-20,27,Maharashtra,2725,PUNE,272504,DAUND,Rural,5,HSS (VI-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272504,DAUND,Rural,6,SS (I-X),4,Government Aided,20,18,16,0,20,20,20,20,1,0,19,20,1,20,7,20,20,20,20,20,20,20,20,20,20,20,20,10,3,15,20,11,20,20,20,10,14,20
+2019-20,27,Maharashtra,2725,PUNE,272504,DAUND,Rural,6,SS (I-X),5,Private Unaided (Recognized),8,8,7,0,7,8,8,8,3,0,8,8,4,6,4,8,7,8,7,8,7,7,6,7,7,8,8,8,3,6,8,5,7,8,6,3,6,8
+2019-20,27,Maharashtra,2725,PUNE,272504,DAUND,Rural,7,SS (VI-X),4,Government Aided,10,9,6,0,9,8,10,10,1,1,10,8,1,9,2,10,9,10,9,10,9,9,9,9,9,10,9,4,1,4,10,3,9,10,10,4,8,10
+2019-20,27,Maharashtra,2725,PUNE,272504,DAUND,Rural,7,SS (VI-X),5,Private Unaided (Recognized),4,4,4,0,4,4,4,4,0,0,4,4,0,2,1,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,1,4,4,4,3,4,4
+2019-20,27,Maharashtra,2725,PUNE,272504,DAUND,Rural,8,SS (IX-X),5,Private Unaided (Recognized),3,3,3,0,3,2,3,3,1,0,3,3,1,3,0,3,3,3,3,3,3,3,3,3,3,3,3,2,2,2,3,2,3,3,3,1,3,3
+2019-20,27,Maharashtra,2725,PUNE,272504,DAUND,Rural,10,HSS (IX-XII),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,1,0,2,2,1,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,0,2,2
+2019-20,27,Maharashtra,2725,PUNE,272504,DAUND,Rural,11,HSS (XI-XII),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272504,DAUND,Urban,1,PS (I-V),3,Local body,1,1,0,0,0,1,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,0,1,1,1,1,0,1
+2019-20,27,Maharashtra,2725,PUNE,272504,DAUND,Urban,1,PS (I-V),4,Government Aided,3,3,3,0,3,1,3,3,0,0,3,3,0,3,0,3,3,3,3,3,3,3,3,3,3,3,3,1,0,1,3,0,3,3,3,1,1,3
+2019-20,27,Maharashtra,2725,PUNE,272504,DAUND,Urban,1,PS (I-V),5,Private Unaided (Recognized),4,4,4,0,4,0,4,4,1,0,4,2,0,2,1,4,4,4,4,4,4,3,3,3,3,4,4,3,0,3,4,0,4,4,4,3,4,3
+2019-20,27,Maharashtra,2725,PUNE,272504,DAUND,Urban,2,UPS (I-VIII),4,Government Aided,4,4,4,0,4,2,4,4,0,0,4,4,0,4,1,4,4,4,4,4,4,4,4,4,4,4,4,3,1,1,4,1,4,4,4,1,3,4
+2019-20,27,Maharashtra,2725,PUNE,272504,DAUND,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),3,3,3,0,3,2,3,3,0,0,3,3,0,3,0,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,3,3,3,3,3,1,3,3
+2019-20,27,Maharashtra,2725,PUNE,272504,DAUND,Urban,3,HSS (I-XII),4,Government Aided,4,4,4,0,3,2,4,4,0,0,4,4,2,4,2,3,3,4,4,4,4,3,4,4,4,4,4,3,2,4,4,2,4,4,4,3,4,4
+2019-20,27,Maharashtra,2725,PUNE,272504,DAUND,Urban,6,SS (I-X),4,Government Aided,3,3,3,0,3,2,3,3,0,0,3,3,0,3,1,3,3,3,3,3,3,3,3,3,3,3,3,2,0,2,3,1,3,3,3,2,3,3
+2019-20,27,Maharashtra,2725,PUNE,272504,DAUND,Urban,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272504,DAUND,Urban,7,SS (VI-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Rural,1,PS (I-V),3,Local body,158,152,106,3,67,51,148,156,43,0,126,155,2,109,63,142,140,152,151,155,154,134,138,143,143,157,151,52,1,82,157,0,153,137,153,101,21,133
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Rural,1,PS (I-V),4,Government Aided,17,17,16,0,16,7,17,17,4,0,16,14,1,16,7,16,16,16,16,16,16,16,16,16,16,16,15,8,4,7,17,0,15,15,17,9,15,15
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Rural,1,PS (I-V),5,Private Unaided (Recognized),46,46,41,0,45,34,46,46,4,0,44,35,5,39,15,46,45,45,44,46,45,36,33,36,36,45,43,31,13,29,45,0,43,28,42,12,40,40
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Rural,1,PS (I-V),8,Unrecognized,5,5,4,0,3,3,5,5,0,0,4,3,1,3,2,5,5,5,5,5,5,2,2,2,2,4,4,1,3,1,5,0,4,0,2,0,4,5
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Rural,2,UPS (I-VIII),3,Local body,66,62,56,0,49,33,65,66,22,0,61,66,2,57,30,63,62,62,62,66,66,60,56,64,64,66,66,38,5,47,66,25,66,65,66,54,19,62
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Rural,2,UPS (I-VIII),4,Government Aided,9,9,8,0,9,6,9,9,3,0,9,8,0,9,3,8,8,9,9,9,9,7,8,8,8,9,9,6,1,8,9,5,9,8,8,5,8,8
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),75,75,67,0,73,52,75,75,6,0,75,71,33,65,23,74,74,74,74,74,74,68,60,68,67,75,72,56,25,55,75,36,74,53,64,19,73,75
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Rural,2,UPS (I-VIII),8,Unrecognized,1,1,1,0,1,0,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Rural,3,HSS (I-XII),4,Government Aided,13,13,13,0,13,10,11,12,2,1,13,13,9,13,8,13,13,13,13,13,13,13,13,13,13,13,11,10,2,7,13,7,13,12,13,9,12,13
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),33,33,28,0,31,28,33,33,10,0,33,33,22,32,15,33,32,32,31,33,32,31,26,31,31,33,30,29,16,28,33,21,32,21,30,3,33,33
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Rural,3,HSS (I-XII),8,Unrecognized,2,2,2,0,2,1,2,2,0,0,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Rural,3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Rural,5,HSS (VI-XII),5,Private Unaided (Recognized),3,3,3,0,3,2,3,3,0,0,3,3,1,3,0,3,3,3,3,3,3,3,3,3,3,3,3,3,1,3,3,3,3,2,3,0,3,3
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Rural,6,SS (I-X),4,Government Aided,31,31,29,0,30,26,31,31,1,1,30,31,2,31,17,29,29,31,31,31,31,29,30,31,31,31,30,18,6,22,30,18,30,30,30,19,29,31
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Rural,6,SS (I-X),5,Private Unaided (Recognized),51,51,48,0,51,35,51,51,9,0,51,50,37,46,22,49,49,49,49,49,49,49,36,49,47,51,50,44,20,45,51,26,49,37,41,16,48,50
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Rural,7,SS (VI-X),4,Government Aided,11,10,10,0,10,8,10,10,2,0,11,11,1,11,6,11,11,11,11,11,11,11,10,11,11,11,11,7,1,10,11,5,11,10,10,7,11,11
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Rural,7,SS (VI-X),5,Private Unaided (Recognized),15,15,15,0,15,11,15,15,3,0,15,15,4,14,4,15,15,15,15,15,15,15,15,15,15,15,14,10,3,10,15,8,15,8,14,6,14,14
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Rural,8,SS (IX-X),5,Private Unaided (Recognized),9,9,8,0,9,4,9,9,0,0,9,8,5,9,5,9,9,9,9,9,9,8,7,8,8,8,8,7,2,6,9,5,8,7,5,0,9,9
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Rural,10,HSS (IX-XII),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),12,12,12,0,12,9,12,12,1,0,12,12,10,12,3,12,12,12,12,12,12,12,11,12,12,12,11,11,5,11,12,8,12,8,9,2,12,12
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Urban,1,PS (I-V),3,Local body,10,9,10,0,8,6,10,10,1,0,10,9,0,4,2,10,10,10,10,10,10,10,9,10,10,10,10,3,3,5,10,0,10,9,9,6,6,9
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Urban,1,PS (I-V),4,Government Aided,15,15,14,0,15,7,15,15,1,0,14,12,0,13,2,15,15,15,15,15,15,14,13,14,14,15,14,7,3,6,15,0,15,10,13,2,9,11
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Urban,1,PS (I-V),5,Private Unaided (Recognized),17,17,17,0,15,7,17,17,3,0,17,12,5,13,5,15,15,15,15,17,17,13,12,15,15,17,16,15,2,11,17,0,17,13,14,0,17,17
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Urban,1,PS (I-V),8,Unrecognized,2,2,2,0,2,2,2,2,0,0,2,1,1,1,0,2,1,2,1,2,1,1,1,1,1,2,2,1,1,1,2,0,1,0,1,1,2,2
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Urban,2,UPS (I-VIII),1,Department of Education,1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Urban,2,UPS (I-VIII),3,Local body,11,10,9,0,7,6,11,11,0,0,10,11,0,5,2,10,10,11,11,11,11,9,9,10,10,11,11,2,0,2,11,3,11,8,10,8,4,8
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Urban,2,UPS (I-VIII),4,Government Aided,8,8,7,0,8,3,8,8,0,0,7,6,1,7,1,8,8,8,8,8,8,8,8,8,8,8,8,3,0,5,8,3,8,7,4,0,7,6
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),9,9,9,0,9,7,9,9,1,0,9,9,4,8,4,9,9,9,9,9,9,8,8,8,8,9,9,9,2,8,9,4,9,6,7,2,8,9
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Urban,2,UPS (I-VIII),8,Unrecognized,1,1,1,0,1,1,1,1,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Urban,3,HSS (I-XII),3,Local body,3,3,3,0,3,3,3,3,1,0,3,3,1,3,1,3,3,3,3,3,3,2,2,2,2,3,3,1,1,2,3,1,3,2,3,2,2,3
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Urban,3,HSS (I-XII),4,Government Aided,9,9,9,0,9,3,9,9,2,0,9,9,9,8,3,7,7,9,9,9,9,7,9,9,9,9,9,7,2,6,9,5,9,8,9,3,9,9
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Urban,3,HSS (I-XII),5,Private Unaided (Recognized),19,19,19,1,19,14,19,19,2,0,19,19,12,19,8,19,19,18,18,19,19,19,12,19,19,19,18,17,6,16,19,12,19,16,17,5,19,19
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Urban,3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,6,3,6,0,6,6,6,6,0,0,6,6,6,6,1,6,6,6,6,6,6,5,5,5,5,6,6,6,3,6,6,3,6,5,6,1,6,6
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Urban,3,HSS (I-XII),101,Other Central Govt. Schools,1,1,1,0,1,0,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Urban,5,HSS (VI-XII),4,Government Aided,2,2,2,0,2,2,2,2,0,0,2,2,1,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,1,0,2,2,2,2,1,1,2,2
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Urban,5,HSS (VI-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Urban,6,SS (I-X),3,Local body,5,4,5,0,5,4,5,5,2,0,5,5,1,5,1,5,5,5,5,5,5,5,3,5,5,5,5,1,3,2,5,2,5,5,5,4,5,5
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Urban,6,SS (I-X),4,Government Aided,16,14,15,0,16,8,16,16,3,0,15,16,5,15,3,11,11,13,13,16,16,11,11,15,15,16,16,13,2,7,15,9,15,14,14,2,16,16
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Urban,6,SS (I-X),5,Private Unaided (Recognized),12,12,12,0,12,8,12,12,2,0,12,12,8,12,7,12,12,12,12,12,12,12,12,12,12,12,12,11,5,9,12,7,12,10,11,3,11,12
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Urban,7,SS (VI-X),3,Local body,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,1,0
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Urban,7,SS (VI-X),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Urban,7,SS (VI-X),5,Private Unaided (Recognized),4,4,4,0,4,2,4,4,0,0,4,4,0,4,0,4,4,4,4,4,4,4,4,4,4,4,4,2,0,3,4,1,4,3,3,1,4,4
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Urban,8,SS (IX-X),5,Private Unaided (Recognized),1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Urban,11,HSS (XI-XII),4,Government Aided,3,3,3,0,3,2,3,3,1,0,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,2,1,3,2,3,1,0,0,3,3
+2019-20,27,Maharashtra,2725,PUNE,272505,HAVELI,Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),3,3,3,0,3,2,3,3,1,0,3,3,3,3,1,3,3,3,3,3,3,3,3,3,3,3,3,3,1,3,3,3,3,2,1,0,3,3
+2019-20,27,Maharashtra,2725,PUNE,272506,INDAPUR,Rural,1,PS (I-V),3,Local body,346,341,149,2,142,209,160,322,20,0,323,342,2,294,118,319,303,329,313,338,329,318,326,332,327,345,336,80,6,111,340,0,326,338,343,159,16,267
+2019-20,27,Maharashtra,2725,PUNE,272506,INDAPUR,Rural,1,PS (I-V),4,Government Aided,4,4,4,0,3,2,3,3,1,0,4,3,0,4,1,4,4,4,4,4,4,4,4,4,4,4,4,2,1,3,4,0,4,3,4,4,1,3
+2019-20,27,Maharashtra,2725,PUNE,272506,INDAPUR,Rural,1,PS (I-V),5,Private Unaided (Recognized),17,17,16,0,17,17,17,17,2,0,17,13,2,13,3,17,17,17,17,17,17,17,17,17,17,17,17,8,4,11,17,0,17,16,14,4,13,14
+2019-20,27,Maharashtra,2725,PUNE,272506,INDAPUR,Rural,1,PS (I-V),8,Unrecognized,3,3,3,0,2,2,3,3,0,0,3,1,0,2,0,3,3,3,3,3,3,3,3,3,3,3,3,1,1,1,3,0,3,2,3,1,2,2
+2019-20,27,Maharashtra,2725,PUNE,272506,INDAPUR,Rural,2,UPS (I-VIII),3,Local body,26,26,13,0,20,19,15,25,5,0,26,26,0,24,7,23,23,26,26,26,26,23,25,25,25,26,25,8,1,17,26,6,26,25,26,19,3,22
+2019-20,27,Maharashtra,2725,PUNE,272506,INDAPUR,Rural,2,UPS (I-VIII),4,Government Aided,5,5,4,0,5,5,5,5,1,0,5,4,0,4,3,5,5,5,5,5,5,5,5,5,5,5,5,2,3,4,5,1,5,4,5,2,3,4
+2019-20,27,Maharashtra,2725,PUNE,272506,INDAPUR,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),9,9,7,0,9,9,9,9,0,0,9,9,5,8,5,9,9,9,9,9,9,9,9,9,9,9,9,6,1,8,9,3,9,9,6,3,7,9
+2019-20,27,Maharashtra,2725,PUNE,272506,INDAPUR,Rural,3,HSS (I-XII),4,Government Aided,21,20,19,0,21,20,21,21,2,0,21,21,7,21,12,21,21,21,21,21,21,20,20,20,20,20,20,11,8,15,21,10,20,21,21,14,19,21
+2019-20,27,Maharashtra,2725,PUNE,272506,INDAPUR,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),9,8,9,0,9,9,9,9,2,0,9,9,7,9,4,9,9,9,9,9,9,8,8,8,8,9,8,9,5,8,9,4,9,8,8,5,9,9
+2019-20,27,Maharashtra,2725,PUNE,272506,INDAPUR,Rural,5,HSS (VI-XII),4,Government Aided,1,1,0,0,1,1,1,1,0,0,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0
+2019-20,27,Maharashtra,2725,PUNE,272506,INDAPUR,Rural,5,HSS (VI-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,1,0
+2019-20,27,Maharashtra,2725,PUNE,272506,INDAPUR,Rural,6,SS (I-X),4,Government Aided,37,30,32,0,36,35,35,35,3,0,37,35,1,33,17,35,35,36,36,36,36,36,37,37,36,37,36,9,8,21,36,15,35,36,36,27,20,35
+2019-20,27,Maharashtra,2725,PUNE,272506,INDAPUR,Rural,6,SS (I-X),5,Private Unaided (Recognized),14,13,12,0,14,14,12,13,0,0,14,13,4,12,3,14,14,14,14,14,14,14,14,14,14,14,14,10,7,14,14,8,14,14,13,10,10,11
+2019-20,27,Maharashtra,2725,PUNE,272506,INDAPUR,Rural,6,SS (I-X),8,Unrecognized,1,1,0,0,1,1,1,1,0,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272506,INDAPUR,Rural,7,SS (VI-X),4,Government Aided,4,4,3,0,4,4,2,3,0,0,4,4,0,3,0,3,3,3,3,3,3,4,4,4,3,4,4,0,2,4,4,2,3,4,4,3,3,3
+2019-20,27,Maharashtra,2725,PUNE,272506,INDAPUR,Rural,7,SS (VI-X),5,Private Unaided (Recognized),4,4,4,0,4,4,4,4,1,0,4,4,0,4,1,4,4,4,4,4,4,4,4,4,4,4,4,1,3,4,4,2,4,4,4,2,3,2
+2019-20,27,Maharashtra,2725,PUNE,272506,INDAPUR,Rural,7,SS (VI-X),90,Social welfare Department,1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1
+2019-20,27,Maharashtra,2725,PUNE,272506,INDAPUR,Rural,8,SS (IX-X),5,Private Unaided (Recognized),1,1,1,0,0,0,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272506,INDAPUR,Rural,10,HSS (IX-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272506,INDAPUR,Rural,11,HSS (XI-XII),4,Government Aided,2,1,1,1,2,2,2,2,2,0,2,2,2,2,0,2,2,2,2,2,2,2,2,2,2,2,1,2,1,1,2,2,2,2,2,0,2,2
+2019-20,27,Maharashtra,2725,PUNE,272506,INDAPUR,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,1,0,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,1,0,2,1,2,1,2,0,2,2
+2019-20,27,Maharashtra,2725,PUNE,272506,INDAPUR,Urban,1,PS (I-V),3,Local body,6,4,6,0,5,1,6,6,0,0,6,6,0,5,0,4,4,4,4,6,6,4,4,6,6,6,5,4,0,1,6,0,6,5,6,2,0,2
+2019-20,27,Maharashtra,2725,PUNE,272506,INDAPUR,Urban,1,PS (I-V),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,1,1,0,0,1
+2019-20,27,Maharashtra,2725,PUNE,272506,INDAPUR,Urban,1,PS (I-V),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272506,INDAPUR,Urban,2,UPS (I-VIII),4,Government Aided,1,1,1,0,1,0,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,0,1,0,0,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272506,INDAPUR,Urban,3,HSS (I-XII),4,Government Aided,2,2,2,0,2,2,2,2,2,0,2,2,1,2,0,2,2,2,2,2,2,2,2,2,2,2,1,1,1,1,2,0,2,2,2,1,2,2
+2019-20,27,Maharashtra,2725,PUNE,272506,INDAPUR,Urban,6,SS (I-X),4,Government Aided,2,2,0,0,2,2,1,1,0,0,2,2,0,1,1,2,2,2,2,2,2,2,2,2,2,2,2,0,1,1,2,1,2,1,2,0,2,2
+2019-20,27,Maharashtra,2725,PUNE,272506,INDAPUR,Urban,6,SS (I-X),5,Private Unaided (Recognized),3,3,2,0,3,3,3,3,0,0,3,3,0,3,1,3,3,3,3,3,3,3,3,3,3,3,3,2,0,2,3,3,3,2,3,3,2,3
+2019-20,27,Maharashtra,2725,PUNE,272507,JUNNAR,Rural,1,PS (I-V),3,Local body,278,275,158,2,134,109,242,272,39,0,252,278,5,224,180,270,265,269,265,275,271,265,264,267,265,270,253,168,12,177,275,0,262,273,272,159,44,252
+2019-20,27,Maharashtra,2725,PUNE,272507,JUNNAR,Rural,1,PS (I-V),4,Government Aided,1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272507,JUNNAR,Rural,1,PS (I-V),5,Private Unaided (Recognized),10,9,8,0,8,6,10,10,1,0,10,7,2,9,3,10,9,10,10,10,10,9,8,9,9,10,10,10,0,8,10,0,10,7,10,6,9,9
+2019-20,27,Maharashtra,2725,PUNE,272507,JUNNAR,Rural,2,UPS (I-VIII),2,Tribal Welfare Department,2,1,0,0,1,2,2,2,1,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,0,2
+2019-20,27,Maharashtra,2725,PUNE,272507,JUNNAR,Rural,2,UPS (I-VIII),3,Local body,74,74,43,0,64,34,73,73,13,0,68,73,1,64,55,72,70,73,72,74,73,69,71,72,71,74,71,53,2,52,74,23,73,72,73,46,17,70
+2019-20,27,Maharashtra,2725,PUNE,272507,JUNNAR,Rural,2,UPS (I-VIII),4,Government Aided,5,5,5,0,5,5,5,5,1,0,5,5,0,5,2,5,5,5,5,5,5,5,5,5,5,5,5,2,0,4,5,4,5,5,5,2,3,5
+2019-20,27,Maharashtra,2725,PUNE,272507,JUNNAR,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),6,6,5,0,6,6,6,6,2,0,6,6,4,5,3,6,6,6,6,6,6,6,6,6,6,6,6,5,2,5,6,4,6,6,6,4,5,6
+2019-20,27,Maharashtra,2725,PUNE,272507,JUNNAR,Rural,3,HSS (I-XII),2,Tribal Welfare Department,3,2,2,0,3,3,3,3,2,0,3,3,3,3,2,2,2,3,3,3,3,2,3,3,3,3,3,2,0,3,3,2,3,2,3,1,1,3
+2019-20,27,Maharashtra,2725,PUNE,272507,JUNNAR,Rural,3,HSS (I-XII),4,Government Aided,13,13,13,0,11,13,13,13,0,0,13,13,6,13,7,13,13,13,13,13,13,13,13,13,13,13,12,7,5,11,13,7,13,13,13,10,13,13
+2019-20,27,Maharashtra,2725,PUNE,272507,JUNNAR,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),10,9,10,0,9,9,10,10,2,0,9,10,6,10,1,9,9,9,9,9,9,10,10,10,9,10,10,8,4,9,10,4,9,9,9,3,10,10
+2019-20,27,Maharashtra,2725,PUNE,272507,JUNNAR,Rural,5,HSS (VI-XII),4,Government Aided,2,2,2,0,2,2,2,2,1,0,2,2,0,2,1,2,2,2,2,2,2,2,2,2,2,2,2,1,0,2,2,2,2,2,2,1,1,2
+2019-20,27,Maharashtra,2725,PUNE,272507,JUNNAR,Rural,6,SS (I-X),2,Tribal Welfare Department,2,1,0,0,2,2,2,2,0,0,2,2,0,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,0,2,2,2,2,1,2,1,0,2
+2019-20,27,Maharashtra,2725,PUNE,272507,JUNNAR,Rural,6,SS (I-X),4,Government Aided,28,28,28,0,27,25,28,28,5,0,28,27,3,27,10,28,28,28,28,28,28,28,28,28,28,28,27,14,1,16,28,12,28,28,27,18,24,26
+2019-20,27,Maharashtra,2725,PUNE,272507,JUNNAR,Rural,6,SS (I-X),5,Private Unaided (Recognized),9,9,8,0,9,7,9,9,1,0,9,9,4,8,2,9,9,9,9,9,9,9,9,9,9,9,9,9,3,7,9,3,9,9,8,4,9,8
+2019-20,27,Maharashtra,2725,PUNE,272507,JUNNAR,Rural,7,SS (VI-X),4,Government Aided,23,23,19,0,21,20,19,19,2,0,23,23,0,23,14,23,23,23,23,23,23,23,23,23,23,22,22,8,1,17,23,8,22,23,23,17,8,21
+2019-20,27,Maharashtra,2725,PUNE,272507,JUNNAR,Rural,7,SS (VI-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,0,0
+2019-20,27,Maharashtra,2725,PUNE,272507,JUNNAR,Rural,11,HSS (XI-XII),4,Government Aided,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272507,JUNNAR,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),5,5,4,0,5,4,5,5,2,0,5,5,4,5,1,5,5,5,5,5,5,5,5,5,5,5,5,5,2,3,5,5,5,4,4,1,5,4
+2019-20,27,Maharashtra,2725,PUNE,272507,JUNNAR,Urban,1,PS (I-V),4,Government Aided,3,3,3,0,3,3,3,3,0,0,3,3,0,2,3,3,3,3,3,3,3,3,3,3,3,3,2,2,1,3,3,0,3,3,3,1,3,3
+2019-20,27,Maharashtra,2725,PUNE,272507,JUNNAR,Urban,1,PS (I-V),5,Private Unaided (Recognized),1,1,1,1,1,1,1,1,0,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,0,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272507,JUNNAR,Urban,2,UPS (I-VIII),3,Local body,4,4,3,0,4,1,4,4,0,0,3,4,0,2,2,4,4,4,4,4,4,3,3,3,3,4,4,3,4,2,4,2,4,3,4,2,1,3
+2019-20,27,Maharashtra,2725,PUNE,272507,JUNNAR,Urban,2,UPS (I-VIII),4,Government Aided,2,2,2,0,2,2,2,2,0,0,2,2,0,1,0,2,2,2,2,2,2,2,2,2,2,2,2,2,0,1,2,1,2,2,2,2,2,2
+2019-20,27,Maharashtra,2725,PUNE,272507,JUNNAR,Urban,3,HSS (I-XII),4,Government Aided,2,2,2,0,2,2,2,2,0,0,2,2,1,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,1,2,0,2,2,2,1,2,2
+2019-20,27,Maharashtra,2725,PUNE,272507,JUNNAR,Urban,6,SS (I-X),4,Government Aided,2,2,2,0,2,1,2,2,0,0,2,2,1,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,0,1,2,2,2,2,2,2,2,2
+2019-20,27,Maharashtra,2725,PUNE,272507,JUNNAR,Urban,6,SS (I-X),5,Private Unaided (Recognized),2,2,2,0,2,1,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,0,2,2,1,2,2,2,0,2,2
+2019-20,27,Maharashtra,2725,PUNE,272507,JUNNAR,Urban,7,SS (VI-X),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272507,JUNNAR,Urban,11,HSS (XI-XII),4,Government Aided,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272508,KHED,Rural,1,PS (I-V),3,Local body,273,270,151,13,107,129,244,265,131,1,249,271,2,243,181,244,230,262,248,265,253,243,247,252,246,269,258,121,8,141,267,0,247,270,273,195,21,235
+2019-20,27,Maharashtra,2725,PUNE,272508,KHED,Rural,1,PS (I-V),4,Government Aided,1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272508,KHED,Rural,1,PS (I-V),5,Private Unaided (Recognized),24,23,17,0,22,24,23,23,1,0,24,20,1,18,5,24,23,24,23,24,23,20,20,20,20,24,19,19,6,17,24,1,23,20,21,7,18,23
+2019-20,27,Maharashtra,2725,PUNE,272508,KHED,Rural,2,UPS (I-VIII),3,Local body,122,121,74,0,107,78,116,122,68,0,116,122,2,119,81,118,116,119,117,121,119,115,113,118,116,122,121,74,7,81,121,16,118,122,121,103,19,115
+2019-20,27,Maharashtra,2725,PUNE,272508,KHED,Rural,2,UPS (I-VIII),4,Government Aided,1,1,1,0,1,1,1,1,1,0,1,1,0,1,0,0,0,1,1,1,1,0,0,0,0,1,1,1,0,1,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272508,KHED,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),23,23,22,1,22,20,23,23,6,1,23,20,9,22,6,22,22,22,22,23,23,22,20,23,23,23,23,14,5,18,23,9,23,22,17,8,20,23
+2019-20,27,Maharashtra,2725,PUNE,272508,KHED,Rural,3,HSS (I-XII),4,Government Aided,10,10,8,0,9,10,10,10,1,0,10,10,2,10,5,10,10,10,10,10,10,10,10,10,10,10,10,7,3,6,10,3,10,10,10,9,9,10
+2019-20,27,Maharashtra,2725,PUNE,272508,KHED,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),7,7,7,0,7,7,7,7,2,0,7,6,3,6,1,7,7,7,7,7,7,7,6,7,7,7,7,5,2,6,7,3,7,6,6,2,6,7
+2019-20,27,Maharashtra,2725,PUNE,272508,KHED,Rural,5,HSS (VI-XII),4,Government Aided,2,2,2,0,2,2,2,2,1,0,2,2,0,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,0,2,2,2,2,1,2,1,1,2
+2019-20,27,Maharashtra,2725,PUNE,272508,KHED,Rural,6,SS (I-X),2,Tribal Welfare Department,4,4,4,0,3,2,4,4,2,0,4,4,1,3,3,4,4,4,4,4,4,3,3,3,3,4,4,3,0,3,3,3,3,3,4,3,1,3
+2019-20,27,Maharashtra,2725,PUNE,272508,KHED,Rural,6,SS (I-X),4,Government Aided,22,22,18,0,20,18,22,22,12,0,21,22,1,19,11,21,19,21,21,22,21,19,19,20,19,22,21,11,3,14,20,8,19,21,22,13,11,22
+2019-20,27,Maharashtra,2725,PUNE,272508,KHED,Rural,6,SS (I-X),5,Private Unaided (Recognized),13,13,12,0,13,12,13,13,2,0,13,13,7,11,1,13,13,13,13,13,13,13,11,13,13,13,13,10,4,10,13,6,13,13,10,2,13,13
+2019-20,27,Maharashtra,2725,PUNE,272508,KHED,Rural,7,SS (VI-X),4,Government Aided,16,16,12,0,12,12,16,16,10,1,15,16,0,16,7,16,16,16,16,16,16,16,16,16,16,16,15,8,2,13,16,3,16,16,16,10,10,16
+2019-20,27,Maharashtra,2725,PUNE,272508,KHED,Rural,7,SS (VI-X),5,Private Unaided (Recognized),8,8,7,0,7,6,8,8,2,0,7,8,1,8,3,8,7,8,8,8,8,6,7,7,7,8,7,2,2,5,7,0,7,7,6,3,2,6
+2019-20,27,Maharashtra,2725,PUNE,272508,KHED,Rural,7,SS (VI-X),90,Social welfare Department,1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,0,0,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,0
+2019-20,27,Maharashtra,2725,PUNE,272508,KHED,Rural,8,SS (IX-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,1,0,1,1,0,0,0,0,0,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272508,KHED,Rural,10,HSS (IX-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272508,KHED,Rural,11,HSS (XI-XII),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272508,KHED,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),9,8,6,0,8,9,9,9,3,0,9,9,2,9,4,9,9,9,9,9,9,9,8,9,9,9,8,6,4,6,9,6,9,8,7,2,8,8
+2019-20,27,Maharashtra,2725,PUNE,272508,KHED,Urban,1,PS (I-V),4,Government Aided,3,3,3,0,3,2,3,3,0,0,3,3,0,3,1,3,3,3,3,3,3,3,3,3,3,3,3,1,1,3,3,0,3,1,3,2,3,3
+2019-20,27,Maharashtra,2725,PUNE,272508,KHED,Urban,2,UPS (I-VIII),3,Local body,11,10,6,0,9,9,10,10,0,0,10,11,0,10,3,9,8,9,8,11,10,8,8,10,10,11,11,4,1,6,11,0,10,11,11,10,6,10
+2019-20,27,Maharashtra,2725,PUNE,272508,KHED,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),7,7,7,0,7,4,7,7,0,0,7,7,4,6,0,7,7,7,7,7,7,7,6,7,7,7,7,3,0,3,7,2,7,5,5,2,7,7
+2019-20,27,Maharashtra,2725,PUNE,272508,KHED,Urban,3,HSS (I-XII),4,Government Aided,2,2,2,0,2,1,2,2,0,0,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,0,1,2,0,2,2,2,1,2,2
+2019-20,27,Maharashtra,2725,PUNE,272508,KHED,Urban,3,HSS (I-XII),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,1,2,1,2,2,0,2,2,2,1,2,2
+2019-20,27,Maharashtra,2725,PUNE,272508,KHED,Urban,5,HSS (VI-XII),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,0,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272508,KHED,Urban,6,SS (I-X),4,Government Aided,1,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272508,KHED,Urban,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272508,KHED,Urban,7,SS (VI-X),4,Government Aided,1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272508,KHED,Urban,7,SS (VI-X),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Rural,1,PS (I-V),3,Local body,194,187,63,12,78,61,170,187,22,0,170,191,3,140,65,181,176,189,183,191,185,153,158,163,161,192,182,65,3,65,192,0,182,181,187,121,16,135
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Rural,1,PS (I-V),4,Government Aided,3,3,2,0,3,2,3,3,0,0,3,3,0,3,0,3,3,3,3,3,3,3,3,3,3,3,3,3,0,2,3,0,3,3,3,3,3,3
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Rural,1,PS (I-V),5,Private Unaided (Recognized),8,8,7,0,8,6,8,8,1,0,8,6,0,6,1,8,8,8,8,8,8,8,8,8,8,8,8,7,0,5,8,0,8,6,8,6,7,8
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Rural,1,PS (I-V),90,Social welfare Department,1,1,1,0,0,0,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,0,0,0,0,1,1,1,0,1,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Rural,2,UPS (I-VIII),3,Local body,83,80,43,0,66,46,80,83,9,0,80,83,3,72,38,82,80,83,83,83,83,80,79,82,82,83,81,53,3,41,83,17,83,81,83,65,14,78
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Rural,2,UPS (I-VIII),4,Government Aided,2,2,2,0,2,2,2,2,2,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,1,2,2,0,2,1,2,2,2,2
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),10,10,8,0,10,9,10,10,1,0,10,9,2,7,6,10,10,10,10,10,10,8,8,8,8,10,10,6,1,7,10,4,10,9,9,4,5,10
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Rural,2,UPS (I-VIII),8,Unrecognized,1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,1,0,1,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Rural,3,HSS (I-XII),2,Tribal Welfare Department,1,1,1,0,1,0,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Rural,3,HSS (I-XII),4,Government Aided,9,9,9,0,9,7,9,9,2,0,9,9,3,9,4,9,9,9,9,9,9,9,9,9,9,9,8,8,2,5,9,4,9,7,9,7,9,9
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),13,13,12,0,13,10,13,13,5,0,13,13,11,12,8,13,13,13,13,13,13,12,11,12,12,13,13,13,6,11,13,7,13,10,12,3,10,13
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Rural,3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Rural,4,UPS (VI-VIII),5,Private Unaided (Recognized),2,2,1,0,1,1,2,2,1,0,1,1,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,1,0,1,1,2,1,0,1
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Rural,5,HSS (VI-XII),4,Government Aided,5,4,5,0,5,4,5,5,3,0,5,5,0,4,2,5,5,5,5,5,5,5,5,5,5,5,5,3,2,3,5,3,5,5,5,5,4,5
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Rural,6,SS (I-X),4,Government Aided,10,9,8,0,10,9,10,10,3,0,10,10,0,9,4,10,10,10,10,10,10,9,8,9,9,10,10,5,4,8,10,5,10,10,10,6,7,10
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Rural,6,SS (I-X),5,Private Unaided (Recognized),10,10,10,0,10,8,10,10,2,0,10,10,6,8,4,10,10,9,9,10,10,10,4,10,10,10,10,9,6,7,10,5,10,7,10,2,8,10
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Rural,6,SS (I-X),92,Kendriya Vidyalaya / Central School,1,1,1,0,1,0,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Rural,7,SS (VI-X),4,Government Aided,16,15,12,0,13,16,16,16,2,0,16,16,0,15,6,15,15,15,15,15,15,15,15,15,15,16,15,6,4,11,15,6,15,15,16,13,10,14
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Rural,7,SS (VI-X),5,Private Unaided (Recognized),5,5,2,0,4,4,4,4,0,0,5,5,1,4,1,5,5,5,5,5,5,5,5,5,5,5,4,2,3,3,5,0,5,5,4,1,4,5
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Rural,11,HSS (XI-XII),4,Government Aided,2,2,2,0,2,2,2,2,1,0,2,2,1,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,0,1,2,1,2,1,1,0,2,2
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),6,6,5,0,6,5,6,6,1,0,6,6,3,6,1,5,5,6,6,6,6,5,5,5,5,6,6,6,3,5,6,4,6,4,6,2,5,6
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Urban,1,PS (I-V),3,Local body,2,1,1,0,0,0,2,2,0,0,1,2,0,1,0,2,2,2,2,2,2,1,1,1,1,2,2,1,0,0,2,0,2,2,2,0,0,1
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Urban,1,PS (I-V),4,Government Aided,8,8,7,1,8,4,8,8,2,0,8,7,0,7,1,6,6,6,6,6,6,6,6,6,6,8,8,6,0,3,8,0,6,7,7,2,7,7
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Urban,1,PS (I-V),5,Private Unaided (Recognized),4,4,4,0,4,1,4,4,1,0,4,4,1,4,1,3,3,3,3,4,4,3,1,3,3,4,4,4,1,2,4,0,4,2,4,1,3,4
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Urban,2,UPS (I-VIII),3,Local body,15,15,12,0,13,5,15,15,3,0,13,15,0,9,3,12,12,12,12,15,15,11,10,14,14,15,14,11,1,5,14,6,14,12,15,2,3,12
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Urban,2,UPS (I-VIII),4,Government Aided,2,2,2,0,2,2,2,2,0,0,2,1,0,2,0,2,2,2,2,2,2,1,1,1,1,2,1,1,1,0,2,0,2,2,2,1,2,2
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,0,0,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Urban,3,HSS (I-XII),4,Government Aided,2,2,1,0,2,1,2,2,0,0,2,2,1,2,0,2,2,2,2,2,2,2,1,2,2,2,2,2,0,0,2,0,2,2,2,1,2,2
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Urban,3,HSS (I-XII),5,Private Unaided (Recognized),6,6,6,0,6,5,6,6,2,0,6,6,5,6,3,6,6,6,6,6,6,6,5,6,6,6,6,5,4,2,6,3,6,3,5,2,6,6
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Urban,6,SS (I-X),4,Government Aided,6,6,6,0,6,3,6,6,0,0,6,5,2,6,4,5,5,6,6,6,6,5,5,5,5,6,6,6,0,4,6,2,6,5,5,1,6,6
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Urban,6,SS (I-X),5,Private Unaided (Recognized),12,12,12,0,12,9,12,12,1,0,12,12,10,12,2,11,11,11,11,11,11,12,9,12,11,12,12,11,1,7,12,2,11,8,11,1,12,12
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Urban,7,SS (VI-X),3,Local body,3,3,3,1,2,0,3,3,0,0,3,3,0,3,1,3,3,3,3,3,3,3,3,3,3,3,3,0,0,1,3,1,3,3,3,2,2,3
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Urban,7,SS (VI-X),4,Government Aided,1,1,1,0,1,0,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272509,MAVAL,Urban,8,SS (IX-X),5,Private Unaided (Recognized),2,2,2,0,2,1,2,2,0,0,2,2,0,1,0,2,1,2,1,2,1,2,2,2,1,2,2,1,0,1,2,1,1,2,2,0,0,1
+2019-20,27,Maharashtra,2725,PUNE,272510,MULSHI,Rural,1,PS (I-V),3,Local body,176,168,77,7,48,53,132,168,32,6,150,176,1,96,85,167,158,170,162,172,165,142,142,145,141,175,175,66,6,89,175,0,164,169,171,100,11,136
+2019-20,27,Maharashtra,2725,PUNE,272510,MULSHI,Rural,1,PS (I-V),4,Government Aided,1,1,1,0,1,1,1,1,1,0,1,0,0,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272510,MULSHI,Rural,1,PS (I-V),5,Private Unaided (Recognized),3,3,2,0,3,3,3,3,0,0,3,3,1,3,0,3,3,3,3,3,3,3,2,3,3,3,3,2,0,1,3,0,3,3,2,1,2,3
+2019-20,27,Maharashtra,2725,PUNE,272510,MULSHI,Rural,2,UPS (I-VIII),3,Local body,38,35,26,0,25,20,35,38,20,0,37,38,1,27,22,35,35,36,35,38,38,32,32,35,35,38,38,21,1,29,38,8,38,35,37,27,9,38
+2019-20,27,Maharashtra,2725,PUNE,272510,MULSHI,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),9,9,9,0,9,8,9,9,2,0,9,9,4,8,5,9,9,9,9,9,9,8,7,8,8,9,9,9,4,9,9,3,9,9,8,2,8,8
+2019-20,27,Maharashtra,2725,PUNE,272510,MULSHI,Rural,3,HSS (I-XII),4,Government Aided,5,5,5,0,5,3,5,5,2,0,5,5,2,5,3,4,4,5,5,5,5,4,3,5,5,5,5,3,1,5,5,2,5,5,5,3,4,5
+2019-20,27,Maharashtra,2725,PUNE,272510,MULSHI,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),15,15,14,0,14,10,15,15,5,0,15,14,12,14,10,15,15,15,15,15,15,15,10,15,15,15,15,13,8,14,15,9,15,14,12,2,14,14
+2019-20,27,Maharashtra,2725,PUNE,272510,MULSHI,Rural,4,UPS (VI-VIII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,0,1
+2019-20,27,Maharashtra,2725,PUNE,272510,MULSHI,Rural,5,HSS (VI-XII),4,Government Aided,1,1,1,0,1,0,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272510,MULSHI,Rural,5,HSS (VI-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272510,MULSHI,Rural,6,SS (I-X),3,Local body,1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272510,MULSHI,Rural,6,SS (I-X),4,Government Aided,17,16,16,0,16,14,17,17,3,0,17,17,0,17,4,17,17,17,17,17,17,16,16,16,16,17,17,12,1,11,17,4,17,14,17,11,9,17
+2019-20,27,Maharashtra,2725,PUNE,272510,MULSHI,Rural,6,SS (I-X),5,Private Unaided (Recognized),22,22,20,0,22,16,22,22,3,0,22,21,12,20,10,22,22,22,22,22,22,21,18,21,21,22,22,18,10,16,22,12,22,19,20,5,21,22
+2019-20,27,Maharashtra,2725,PUNE,272510,MULSHI,Rural,7,SS (VI-X),4,Government Aided,6,6,6,0,6,5,6,6,0,0,6,6,0,6,1,6,6,6,6,6,6,6,6,6,6,6,6,4,1,2,6,2,6,6,6,3,3,6
+2019-20,27,Maharashtra,2725,PUNE,272510,MULSHI,Rural,7,SS (VI-X),5,Private Unaided (Recognized),2,2,2,0,1,2,2,2,1,0,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,1,2,2,1,2,2,2,1,1,2
+2019-20,27,Maharashtra,2725,PUNE,272510,MULSHI,Rural,8,SS (IX-X),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272510,MULSHI,Rural,10,HSS (IX-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272510,MULSHI,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),10,10,10,0,10,6,10,10,2,0,10,8,5,10,3,9,9,9,9,10,10,8,6,9,9,10,10,9,2,7,10,4,10,9,5,1,10,10
+2019-20,27,Maharashtra,2725,PUNE,272510,MULSHI,Urban,2,UPS (I-VIII),3,Local body,1,1,0,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,0,1
+2019-20,27,Maharashtra,2725,PUNE,272510,MULSHI,Urban,3,HSS (I-XII),5,Private Unaided (Recognized),2,2,2,0,2,0,2,2,0,0,2,2,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,1,2,2,2,0,2,2
+2019-20,27,Maharashtra,2725,PUNE,272510,MULSHI,Urban,7,SS (VI-X),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272511,PURANDAR,Rural,1,PS (I-V),3,Local body,189,187,101,6,91,80,153,185,29,0,185,189,2,166,117,176,166,184,176,189,183,170,175,179,179,187,186,84,4,103,184,0,178,182,187,142,9,144
+2019-20,27,Maharashtra,2725,PUNE,272511,PURANDAR,Rural,1,PS (I-V),4,Government Aided,1,1,0,0,1,1,1,1,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272511,PURANDAR,Rural,1,PS (I-V),5,Private Unaided (Recognized),9,9,6,0,9,9,9,9,1,1,9,9,0,8,3,9,9,9,9,9,9,9,8,9,9,9,9,7,1,5,9,1,9,8,8,5,8,9
+2019-20,27,Maharashtra,2725,PUNE,272511,PURANDAR,Rural,2,UPS (I-VIII),3,Local body,27,26,16,0,22,18,27,27,8,0,26,27,0,27,21,25,25,26,24,27,27,25,25,26,26,27,27,7,0,21,27,15,27,27,27,19,1,23
+2019-20,27,Maharashtra,2725,PUNE,272511,PURANDAR,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),8,7,7,0,8,8,8,8,1,0,8,7,1,6,2,8,7,8,7,8,7,7,7,7,7,8,7,7,1,3,8,5,7,5,7,2,8,8
+2019-20,27,Maharashtra,2725,PUNE,272511,PURANDAR,Rural,3,HSS (I-XII),4,Government Aided,12,12,11,0,12,12,12,12,4,0,12,12,3,12,10,11,11,12,12,12,12,11,12,12,12,12,12,8,3,9,11,5,11,12,12,11,10,12
+2019-20,27,Maharashtra,2725,PUNE,272511,PURANDAR,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),1,1,0,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272511,PURANDAR,Rural,6,SS (I-X),4,Government Aided,33,32,25,0,30,33,33,33,4,0,32,33,1,29,22,33,33,33,33,33,33,33,32,33,33,33,33,18,10,27,33,15,33,33,33,28,23,32
+2019-20,27,Maharashtra,2725,PUNE,272511,PURANDAR,Rural,6,SS (I-X),5,Private Unaided (Recognized),8,8,7,0,8,6,8,8,3,0,8,8,3,8,1,8,8,8,8,8,8,8,8,8,8,8,8,6,3,5,8,4,8,8,7,2,7,8
+2019-20,27,Maharashtra,2725,PUNE,272511,PURANDAR,Rural,7,SS (VI-X),4,Government Aided,4,3,4,0,4,2,4,4,0,0,4,4,0,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,0,4,4,2,4,4,4,2,4,4
+2019-20,27,Maharashtra,2725,PUNE,272511,PURANDAR,Rural,7,SS (VI-X),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,2,0,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,1,2,2
+2019-20,27,Maharashtra,2725,PUNE,272511,PURANDAR,Rural,7,SS (VI-X),90,Social welfare Department,1,1,1,0,1,1,1,1,1,0,1,1,0,1,0,1,1,0,0,1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272511,PURANDAR,Rural,10,HSS (IX-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272511,PURANDAR,Rural,11,HSS (XI-XII),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272511,PURANDAR,Urban,1,PS (I-V),3,Local body,1,1,1,0,0,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272511,PURANDAR,Urban,1,PS (I-V),4,Government Aided,2,2,2,0,2,1,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,2,0,2,2,1,1,2,1
+2019-20,27,Maharashtra,2725,PUNE,272511,PURANDAR,Urban,1,PS (I-V),5,Private Unaided (Recognized),4,4,4,0,4,2,4,4,0,0,4,3,2,4,0,4,4,4,4,4,4,3,3,3,3,4,3,3,2,1,4,0,4,3,3,1,4,3
+2019-20,27,Maharashtra,2725,PUNE,272511,PURANDAR,Urban,1,PS (I-V),8,Unrecognized,1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272511,PURANDAR,Urban,2,UPS (I-VIII),3,Local body,8,7,6,0,7,5,8,8,0,0,8,8,0,6,0,6,6,6,6,8,8,7,6,8,8,8,8,5,3,7,8,4,8,7,8,6,4,7
+2019-20,27,Maharashtra,2725,PUNE,272511,PURANDAR,Urban,2,UPS (I-VIII),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272511,PURANDAR,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,0,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,0,0,0,1
+2019-20,27,Maharashtra,2725,PUNE,272511,PURANDAR,Urban,3,HSS (I-XII),4,Government Aided,3,3,3,0,3,3,3,3,0,1,3,3,2,3,2,2,2,2,2,2,2,3,3,3,2,3,3,2,3,3,3,2,2,3,3,0,3,3
+2019-20,27,Maharashtra,2725,PUNE,272511,PURANDAR,Urban,3,HSS (I-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272511,PURANDAR,Urban,6,SS (I-X),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272511,PURANDAR,Urban,6,SS (I-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,1,1,1,0,1
+2019-20,27,Maharashtra,2725,PUNE,272511,PURANDAR,Urban,7,SS (VI-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272512,SHIRUR,Rural,1,PS (I-V),3,Local body,294,293,168,5,133,183,165,281,78,0,287,288,3,234,197,280,275,289,283,291,286,284,264,285,283,294,287,158,30,127,293,0,285,291,290,176,41,230
+2019-20,27,Maharashtra,2725,PUNE,272512,SHIRUR,Rural,1,PS (I-V),4,Government Aided,1,1,1,0,1,1,1,1,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272512,SHIRUR,Rural,1,PS (I-V),5,Private Unaided (Recognized),16,15,14,0,16,16,16,16,2,0,16,13,2,11,3,16,16,16,16,16,16,14,13,14,14,16,15,13,6,12,16,0,16,15,15,7,14,16
+2019-20,27,Maharashtra,2725,PUNE,272512,SHIRUR,Rural,1,PS (I-V),8,Unrecognized,1,1,1,0,1,0,1,1,0,0,1,0,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,1,0,1,1,0,1,1,1,1,0,0
+2019-20,27,Maharashtra,2725,PUNE,272512,SHIRUR,Rural,2,UPS (I-VIII),3,Local body,64,64,48,0,52,51,52,61,31,0,64,62,2,59,47,63,63,63,63,64,64,63,56,64,64,64,63,42,12,44,64,23,64,64,63,42,18,53
+2019-20,27,Maharashtra,2725,PUNE,272512,SHIRUR,Rural,2,UPS (I-VIII),4,Government Aided,5,5,5,0,5,4,5,5,2,0,5,5,0,4,3,5,5,5,5,5,5,4,5,5,5,5,5,4,1,3,5,3,5,5,5,4,3,5
+2019-20,27,Maharashtra,2725,PUNE,272512,SHIRUR,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),20,20,18,0,20,19,20,20,1,0,20,18,5,18,7,20,18,20,18,20,18,18,17,18,18,20,18,16,3,16,20,7,18,18,17,9,20,20
+2019-20,27,Maharashtra,2725,PUNE,272512,SHIRUR,Rural,3,HSS (I-XII),4,Government Aided,22,22,17,0,22,20,22,22,4,0,22,22,9,22,14,22,22,22,22,22,22,22,22,22,22,22,22,14,4,18,22,13,22,22,22,16,22,22
+2019-20,27,Maharashtra,2725,PUNE,272512,SHIRUR,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),7,7,7,0,7,7,7,7,0,0,7,5,3,3,4,7,7,7,7,7,7,7,7,7,7,7,7,4,3,5,7,6,7,4,4,2,7,7
+2019-20,27,Maharashtra,2725,PUNE,272512,SHIRUR,Rural,5,HSS (VI-XII),4,Government Aided,4,4,4,0,4,3,4,4,2,0,4,4,0,4,4,4,4,4,4,4,4,4,2,4,4,4,4,4,2,4,4,3,4,4,4,2,4,4
+2019-20,27,Maharashtra,2725,PUNE,272512,SHIRUR,Rural,5,HSS (VI-XII),93,Jawahar Navodaya Vidyalaya ,1,1,1,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272512,SHIRUR,Rural,6,SS (I-X),4,Government Aided,20,18,16,0,17,20,20,20,2,0,20,20,2,19,12,20,20,20,20,20,20,20,19,20,20,20,20,10,6,16,20,10,20,20,20,16,15,20
+2019-20,27,Maharashtra,2725,PUNE,272512,SHIRUR,Rural,6,SS (I-X),5,Private Unaided (Recognized),13,13,13,0,13,11,12,12,1,0,13,13,9,12,3,12,12,12,12,12,12,13,10,13,12,13,13,9,7,11,13,9,12,13,10,3,13,13
+2019-20,27,Maharashtra,2725,PUNE,272512,SHIRUR,Rural,7,SS (VI-X),4,Government Aided,11,11,8,0,11,11,11,11,0,0,11,10,0,11,8,11,10,11,10,11,10,10,10,10,10,11,11,6,1,9,11,4,10,11,11,5,9,9
+2019-20,27,Maharashtra,2725,PUNE,272512,SHIRUR,Rural,7,SS (VI-X),5,Private Unaided (Recognized),7,5,4,0,6,5,7,7,3,0,7,7,0,5,2,7,7,7,7,7,7,7,7,7,7,7,7,5,6,7,7,4,7,6,6,3,5,4
+2019-20,27,Maharashtra,2725,PUNE,272512,SHIRUR,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),3,3,3,0,3,3,3,3,1,0,3,3,1,3,0,3,3,3,3,3,3,2,2,2,2,3,3,3,2,3,3,2,3,3,3,0,3,3
+2019-20,27,Maharashtra,2725,PUNE,272512,SHIRUR,Urban,1,PS (I-V),3,Local body,2,2,2,0,2,1,2,2,0,0,2,2,0,1,1,2,2,2,2,2,2,2,2,2,2,2,2,0,0,1,2,0,2,2,2,0,0,0
+2019-20,27,Maharashtra,2725,PUNE,272512,SHIRUR,Urban,1,PS (I-V),5,Private Unaided (Recognized),3,3,3,0,3,2,3,3,0,0,3,3,1,3,0,3,3,3,3,3,3,3,3,3,3,3,3,3,0,2,3,0,3,3,3,0,2,2
+2019-20,27,Maharashtra,2725,PUNE,272512,SHIRUR,Urban,2,UPS (I-VIII),3,Local body,4,4,4,0,4,2,4,4,0,0,4,4,0,2,1,4,4,4,4,4,4,4,2,4,4,4,4,0,0,2,4,1,4,4,4,2,1,1
+2019-20,27,Maharashtra,2725,PUNE,272512,SHIRUR,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),2,2,2,0,2,0,2,2,0,0,2,2,1,1,0,2,2,2,2,2,2,1,1,1,1,2,2,2,0,1,2,2,2,2,1,1,2,2
+2019-20,27,Maharashtra,2725,PUNE,272512,SHIRUR,Urban,3,HSS (I-XII),4,Government Aided,2,2,2,0,2,2,2,2,0,0,2,2,2,2,1,2,2,2,1,2,2,2,2,2,2,2,2,1,0,1,2,1,2,2,2,1,2,2
+2019-20,27,Maharashtra,2725,PUNE,272512,SHIRUR,Urban,3,HSS (I-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,1,1,0,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272512,SHIRUR,Urban,6,SS (I-X),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,2,1,2,2,2,1,2,2
+2019-20,27,Maharashtra,2725,PUNE,272512,SHIRUR,Urban,7,SS (VI-X),4,Government Aided,1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,0,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272512,SHIRUR,Urban,7,SS (VI-X),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272512,SHIRUR,Urban,8,SS (IX-X),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,0,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272512,SHIRUR,Urban,11,HSS (XI-XII),4,Government Aided,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272512,SHIRUR,Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),2,2,1,0,2,2,2,2,0,0,2,2,1,2,1,2,2,2,2,2,2,2,1,2,2,2,2,2,1,1,2,0,2,2,2,0,2,2
+2019-20,27,Maharashtra,2725,PUNE,272513,VELHE,Rural,1,PS (I-V),3,Local body,86,86,36,27,25,40,67,75,5,2,80,81,0,34,33,70,65,72,67,73,70,74,74,77,67,84,84,17,7,27,82,0,66,82,86,45,8,49
+2019-20,27,Maharashtra,2725,PUNE,272513,VELHE,Rural,2,UPS (I-VIII),3,Local body,58,57,38,0,28,36,52,54,6,0,56,57,0,38,31,55,53,57,55,57,55,50,54,55,53,58,58,15,3,24,58,15,55,58,58,33,4,45
+2019-20,27,Maharashtra,2725,PUNE,272513,VELHE,Rural,2,UPS (I-VIII),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,1,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,0,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272513,VELHE,Rural,3,HSS (I-XII),4,Government Aided,4,4,3,0,4,4,4,4,0,0,4,4,0,4,2,4,4,4,4,4,4,3,3,3,3,4,4,2,0,4,4,1,4,4,4,2,3,3
+2019-20,27,Maharashtra,2725,PUNE,272513,VELHE,Rural,6,SS (I-X),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,0,0,1
+2019-20,27,Maharashtra,2725,PUNE,272513,VELHE,Rural,7,SS (VI-X),4,Government Aided,5,5,5,0,5,5,5,5,1,0,5,5,0,3,4,5,5,5,5,5,5,4,4,4,4,5,4,0,1,3,5,2,5,5,5,0,2,2
+2019-20,27,Maharashtra,2725,PUNE,272513,VELHE,Rural,7,SS (VI-X),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,0,1,1,1,0,1,0
+2019-20,27,Maharashtra,2725,PUNE,272513,VELHE,Rural,11,HSS (XI-XII),5,Private Unaided (Recognized),1,1,0,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272514,Aundh,Urban,1,PS (I-V),3,Local body,11,11,9,1,9,2,11,11,0,0,10,11,0,1,0,11,11,11,11,11,11,9,7,9,9,11,11,4,3,7,11,0,11,10,11,8,3,7
+2019-20,27,Maharashtra,2725,PUNE,272514,Aundh,Urban,1,PS (I-V),4,Government Aided,17,17,16,0,17,5,17,17,1,0,16,16,2,15,1,15,15,16,16,16,16,16,17,17,16,17,17,13,3,11,17,0,16,16,17,7,14,17
+2019-20,27,Maharashtra,2725,PUNE,272514,Aundh,Urban,1,PS (I-V),5,Private Unaided (Recognized),18,18,18,0,18,9,18,18,6,0,17,18,9,16,5,17,17,16,16,18,18,15,13,16,16,18,18,14,3,10,18,0,18,17,16,5,16,16
+2019-20,27,Maharashtra,2725,PUNE,272514,Aundh,Urban,2,UPS (I-VIII),3,Local body,46,46,41,0,46,11,46,46,0,0,38,46,0,11,5,46,46,46,46,46,46,46,44,46,46,46,46,34,14,40,45,7,45,44,46,41,35,45
+2019-20,27,Maharashtra,2725,PUNE,272514,Aundh,Urban,2,UPS (I-VIII),4,Government Aided,20,20,19,0,19,11,20,20,4,0,20,20,2,20,4,16,16,19,19,19,19,17,19,19,18,20,20,15,7,9,20,8,19,20,19,11,19,20
+2019-20,27,Maharashtra,2725,PUNE,272514,Aundh,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),44,44,44,0,43,15,44,44,11,0,43,44,26,42,11,43,43,43,43,43,43,42,34,42,41,44,44,35,14,27,43,15,42,42,34,6,42,43
+2019-20,27,Maharashtra,2725,PUNE,272514,Aundh,Urban,3,HSS (I-XII),4,Government Aided,13,12,13,0,13,7,13,13,2,0,10,13,7,13,4,12,12,13,13,13,13,12,11,13,13,13,13,10,5,8,13,7,13,13,12,5,13,13
+2019-20,27,Maharashtra,2725,PUNE,272514,Aundh,Urban,3,HSS (I-XII),5,Private Unaided (Recognized),12,12,11,0,12,5,12,12,3,0,12,12,8,12,2,12,12,12,12,12,12,11,8,11,11,12,12,12,2,11,12,4,12,9,7,1,12,11
+2019-20,27,Maharashtra,2725,PUNE,272514,Aundh,Urban,3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,1,1,1,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272514,Aundh,Urban,5,HSS (VI-XII),4,Government Aided,2,2,2,0,2,0,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,1,0,1,2,0,2,1,2,0,2,2
+2019-20,27,Maharashtra,2725,PUNE,272514,Aundh,Urban,5,HSS (VI-XII),5,Private Unaided (Recognized),3,3,3,0,3,1,3,3,1,0,3,3,1,2,1,3,3,3,3,3,3,3,3,3,3,3,3,3,2,2,2,2,2,3,2,0,3,3
+2019-20,27,Maharashtra,2725,PUNE,272514,Aundh,Urban,6,SS (I-X),4,Government Aided,10,10,10,0,10,2,10,10,2,0,10,10,6,10,1,6,6,9,9,10,10,6,9,10,10,10,10,10,3,9,10,3,10,10,10,5,10,10
+2019-20,27,Maharashtra,2725,PUNE,272514,Aundh,Urban,6,SS (I-X),5,Private Unaided (Recognized),16,16,16,0,16,6,16,16,5,0,16,16,13,15,3,16,16,16,16,16,16,16,12,16,16,16,16,16,5,12,16,5,16,16,16,2,16,16
+2019-20,27,Maharashtra,2725,PUNE,272514,Aundh,Urban,7,SS (VI-X),3,Local body,2,2,2,0,1,0,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,1,1,1,1,2,2,2,1,2,2,0,2,2,2,2,2,2
+2019-20,27,Maharashtra,2725,PUNE,272514,Aundh,Urban,7,SS (VI-X),4,Government Aided,14,14,14,0,12,8,14,14,1,0,13,14,0,14,2,11,11,13,13,13,13,12,13,14,13,14,14,10,3,11,14,4,13,14,13,6,14,13
+2019-20,27,Maharashtra,2725,PUNE,272514,Aundh,Urban,7,SS (VI-X),5,Private Unaided (Recognized),24,24,22,0,22,7,24,24,7,0,24,24,17,24,5,23,23,23,23,23,23,23,17,23,22,24,24,20,5,14,24,10,23,24,16,1,24,24
+2019-20,27,Maharashtra,2725,PUNE,272514,Aundh,Urban,8,SS (IX-X),3,Local body,3,2,3,0,2,1,3,3,0,0,2,2,0,0,0,3,3,3,3,3,3,2,2,2,2,3,3,1,0,1,3,2,3,3,3,3,1,1
+2019-20,27,Maharashtra,2725,PUNE,272514,Aundh,Urban,8,SS (IX-X),5,Private Unaided (Recognized),8,8,8,0,7,4,8,8,0,0,8,8,3,7,2,8,8,8,8,8,8,8,7,8,8,8,8,5,0,5,8,3,8,6,6,1,8,8
+2019-20,27,Maharashtra,2725,PUNE,272514,Aundh,Urban,10,HSS (IX-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272514,Aundh,Urban,11,HSS (XI-XII),4,Government Aided,12,12,12,0,12,4,12,12,4,0,12,12,12,12,0,10,10,12,12,12,12,10,11,12,12,12,12,12,3,6,12,11,12,11,10,1,12,10
+2019-20,27,Maharashtra,2725,PUNE,272514,Aundh,Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),13,13,12,0,13,5,13,13,3,0,13,12,10,12,1,13,13,13,13,13,13,13,13,13,13,13,13,12,3,10,13,8,13,10,4,0,13,13
+2019-20,27,Maharashtra,2725,PUNE,272515,Yerawada,Urban,1,PS (I-V),3,Local body,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,0,1
+2019-20,27,Maharashtra,2725,PUNE,272515,Yerawada,Urban,1,PS (I-V),4,Government Aided,7,7,7,0,7,2,7,7,0,0,7,7,0,5,1,7,7,6,6,7,7,7,4,7,7,7,7,7,2,2,7,0,7,7,6,3,7,7
+2019-20,27,Maharashtra,2725,PUNE,272515,Yerawada,Urban,1,PS (I-V),5,Private Unaided (Recognized),12,12,11,0,12,5,12,12,0,0,12,12,4,8,0,11,11,11,11,12,12,8,5,8,8,12,12,10,2,5,12,0,12,10,9,1,12,11
+2019-20,27,Maharashtra,2725,PUNE,272515,Yerawada,Urban,1,PS (I-V),8,Unrecognized,1,1,1,0,1,0,1,1,0,0,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272515,Yerawada,Urban,2,UPS (I-VIII),3,Local body,59,58,58,0,57,25,59,59,0,0,54,59,0,25,2,59,59,59,59,59,59,57,53,57,57,59,59,24,25,45,58,8,58,50,59,42,39,54
+2019-20,27,Maharashtra,2725,PUNE,272515,Yerawada,Urban,2,UPS (I-VIII),4,Government Aided,14,14,14,0,13,8,14,14,3,0,12,14,0,11,3,14,14,13,13,14,14,13,10,13,13,14,14,8,3,9,13,3,13,13,14,8,9,13
+2019-20,27,Maharashtra,2725,PUNE,272515,Yerawada,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),39,38,36,0,38,19,39,39,4,0,36,39,18,29,4,39,39,39,39,39,39,36,28,36,36,39,39,24,8,26,39,17,39,28,30,6,37,39
+2019-20,27,Maharashtra,2725,PUNE,272515,Yerawada,Urban,2,UPS (I-VIII),8,Unrecognized,1,1,1,0,1,0,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272515,Yerawada,Urban,2,UPS (I-VIII),90,Social welfare Department,1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,0,1
+2019-20,27,Maharashtra,2725,PUNE,272515,Yerawada,Urban,3,HSS (I-XII),4,Government Aided,3,3,3,0,3,0,3,3,0,0,3,3,1,3,0,2,2,3,3,3,3,2,2,2,2,3,3,3,1,3,3,2,3,3,3,1,3,3
+2019-20,27,Maharashtra,2725,PUNE,272515,Yerawada,Urban,3,HSS (I-XII),5,Private Unaided (Recognized),6,6,6,0,6,3,6,6,1,0,6,6,6,6,3,6,6,6,6,6,6,6,3,6,6,6,6,5,1,3,6,3,6,6,4,1,6,6
+2019-20,27,Maharashtra,2725,PUNE,272515,Yerawada,Urban,3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,4,4,4,0,4,3,4,4,0,0,4,4,4,4,2,4,4,4,4,4,4,4,4,4,4,4,4,4,1,4,4,2,4,4,4,1,4,4
+2019-20,27,Maharashtra,2725,PUNE,272515,Yerawada,Urban,4,UPS (VI-VIII),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272515,Yerawada,Urban,5,HSS (VI-XII),3,Local body,2,2,2,0,2,1,2,2,0,0,2,2,1,2,0,2,2,2,2,2,2,2,1,2,2,2,2,2,0,2,2,0,2,2,2,1,2,2
+2019-20,27,Maharashtra,2725,PUNE,272515,Yerawada,Urban,5,HSS (VI-XII),5,Private Unaided (Recognized),2,2,2,0,2,1,2,2,1,0,2,2,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,1,2,1,2,0,2,1,2,0,2,2
+2019-20,27,Maharashtra,2725,PUNE,272515,Yerawada,Urban,6,SS (I-X),3,Local body,1,1,1,0,0,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,0,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272515,Yerawada,Urban,6,SS (I-X),4,Government Aided,6,6,6,0,6,2,6,6,1,0,6,6,1,6,2,5,5,5,5,6,6,5,4,5,5,6,6,5,2,5,6,1,6,6,6,3,5,6
+2019-20,27,Maharashtra,2725,PUNE,272515,Yerawada,Urban,6,SS (I-X),5,Private Unaided (Recognized),9,9,9,0,9,3,9,9,2,0,9,9,6,8,2,9,9,8,8,9,9,7,5,7,7,9,9,7,4,6,9,1,9,8,8,2,9,8
+2019-20,27,Maharashtra,2725,PUNE,272515,Yerawada,Urban,6,SS (I-X),90,Social welfare Department,1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272515,Yerawada,Urban,7,SS (VI-X),3,Local body,7,7,7,0,7,6,7,7,0,0,7,7,0,4,1,6,6,7,7,7,7,6,7,7,7,7,7,4,3,6,7,3,7,5,7,3,7,6
+2019-20,27,Maharashtra,2725,PUNE,272515,Yerawada,Urban,7,SS (VI-X),4,Government Aided,9,9,9,0,9,7,9,9,2,0,9,9,1,8,0,9,9,9,9,9,9,9,8,9,9,9,9,4,3,7,9,2,9,8,9,7,9,9
+2019-20,27,Maharashtra,2725,PUNE,272515,Yerawada,Urban,7,SS (VI-X),5,Private Unaided (Recognized),25,25,24,1,25,12,25,25,3,0,23,25,11,23,3,24,24,25,25,25,25,22,21,23,23,25,25,22,8,16,25,9,25,22,19,5,23,25
+2019-20,27,Maharashtra,2725,PUNE,272515,Yerawada,Urban,7,SS (VI-X),8,Unrecognized,1,1,1,0,0,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272515,Yerawada,Urban,8,SS (IX-X),3,Local body,3,2,3,0,2,1,3,3,0,0,3,3,0,1,0,3,3,3,3,3,3,3,3,3,3,3,3,0,0,1,2,0,2,2,3,1,2,2
+2019-20,27,Maharashtra,2725,PUNE,272515,Yerawada,Urban,8,SS (IX-X),5,Private Unaided (Recognized),4,4,4,0,4,0,4,4,1,0,3,4,0,3,1,4,4,4,4,4,4,4,3,4,4,4,4,2,0,1,4,2,4,3,4,0,4,4
+2019-20,27,Maharashtra,2725,PUNE,272515,Yerawada,Urban,8,SS (IX-X),8,Unrecognized,2,2,2,0,2,1,2,2,0,0,2,2,1,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,0,2,2,0,2,1,1,0,2,2
+2019-20,27,Maharashtra,2725,PUNE,272515,Yerawada,Urban,10,HSS (IX-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,0,0,1
+2019-20,27,Maharashtra,2725,PUNE,272515,Yerawada,Urban,11,HSS (XI-XII),4,Government Aided,4,4,4,0,4,3,4,4,1,0,4,4,4,4,2,3,3,4,4,4,4,3,3,3,3,4,4,4,2,0,3,4,3,3,1,0,4,3
+2019-20,27,Maharashtra,2725,PUNE,272515,Yerawada,Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),8,8,8,0,8,4,8,8,2,0,7,8,4,8,1,7,7,7,7,7,7,7,8,8,7,8,8,7,5,4,8,2,7,7,4,0,8,8
+2019-20,27,Maharashtra,2725,PUNE,272516,Bibwewadi,Rural,3,HSS (I-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272516,Bibwewadi,Urban,1,PS (I-V),3,Local body,2,2,2,0,2,1,2,2,0,0,1,2,0,0,0,2,2,2,2,2,2,2,2,2,2,2,2,0,1,2,2,0,2,2,2,2,2,2
+2019-20,27,Maharashtra,2725,PUNE,272516,Bibwewadi,Urban,1,PS (I-V),4,Government Aided,8,8,8,0,7,3,8,8,1,0,7,8,1,4,2,7,7,8,8,8,8,5,4,6,6,8,8,5,1,4,8,0,8,5,7,0,6,7
+2019-20,27,Maharashtra,2725,PUNE,272516,Bibwewadi,Urban,1,PS (I-V),5,Private Unaided (Recognized),13,13,13,0,12,3,13,13,3,0,12,13,3,10,2,12,12,12,12,12,12,12,12,12,11,13,13,9,4,8,13,0,12,8,10,5,12,13
+2019-20,27,Maharashtra,2725,PUNE,272516,Bibwewadi,Urban,2,UPS (I-VIII),3,Local body,51,49,49,0,47,9,51,51,4,0,37,49,1,12,4,47,47,46,46,51,51,44,44,48,48,51,51,9,16,44,51,3,51,40,50,36,42,50
+2019-20,27,Maharashtra,2725,PUNE,272516,Bibwewadi,Urban,2,UPS (I-VIII),4,Government Aided,34,34,34,0,34,11,34,34,3,0,34,34,2,32,6,33,33,34,34,34,34,33,33,34,34,34,34,19,7,23,34,11,34,29,33,8,33,33
+2019-20,27,Maharashtra,2725,PUNE,272516,Bibwewadi,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),51,51,50,0,51,16,51,51,4,0,50,49,20,44,10,50,50,51,51,51,51,45,41,46,46,51,51,41,10,37,51,19,51,35,45,12,49,50
+2019-20,27,Maharashtra,2725,PUNE,272516,Bibwewadi,Urban,2,UPS (I-VIII),8,Unrecognized,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272516,Bibwewadi,Urban,3,HSS (I-XII),3,Local body,1,1,1,0,1,0,1,1,0,0,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272516,Bibwewadi,Urban,3,HSS (I-XII),4,Government Aided,7,7,7,0,7,3,7,7,0,0,6,7,5,7,1,6,6,6,6,7,7,5,5,6,6,7,7,6,2,4,7,1,7,7,7,2,7,7
+2019-20,27,Maharashtra,2725,PUNE,272516,Bibwewadi,Urban,3,HSS (I-XII),5,Private Unaided (Recognized),10,10,10,0,10,7,10,10,1,0,10,10,7,10,2,10,10,10,10,10,10,10,10,10,10,10,10,10,3,9,10,4,10,8,8,1,10,10
+2019-20,27,Maharashtra,2725,PUNE,272516,Bibwewadi,Urban,5,HSS (VI-XII),4,Government Aided,6,6,6,0,6,3,6,6,1,0,6,6,2,6,2,5,5,6,6,6,6,5,6,6,6,6,6,3,2,4,6,1,6,6,6,3,6,6
+2019-20,27,Maharashtra,2725,PUNE,272516,Bibwewadi,Urban,5,HSS (VI-XII),5,Private Unaided (Recognized),3,3,3,0,3,2,3,3,1,0,3,3,3,3,0,3,3,3,3,3,3,3,3,3,3,3,3,3,0,3,3,1,3,2,3,0,3,3
+2019-20,27,Maharashtra,2725,PUNE,272516,Bibwewadi,Urban,6,SS (I-X),4,Government Aided,12,12,12,0,12,5,12,12,1,0,12,12,5,12,2,11,11,12,12,12,12,11,11,12,12,12,12,4,0,10,12,5,12,10,12,8,12,12
+2019-20,27,Maharashtra,2725,PUNE,272516,Bibwewadi,Urban,6,SS (I-X),5,Private Unaided (Recognized),17,17,17,0,17,8,17,17,3,0,17,16,10,16,2,17,17,17,17,17,17,17,13,17,17,17,17,13,4,13,17,11,17,13,11,3,16,17
+2019-20,27,Maharashtra,2725,PUNE,272516,Bibwewadi,Urban,7,SS (VI-X),3,Local body,3,3,3,0,3,0,3,3,0,0,2,2,1,3,0,3,3,3,3,3,3,3,3,3,3,3,3,2,2,3,3,2,3,1,3,1,3,3
+2019-20,27,Maharashtra,2725,PUNE,272516,Bibwewadi,Urban,7,SS (VI-X),4,Government Aided,15,15,14,0,15,4,15,15,2,0,14,14,1,15,2,15,15,15,15,15,15,15,15,15,15,15,15,7,2,7,14,6,14,15,14,5,15,15
+2019-20,27,Maharashtra,2725,PUNE,272516,Bibwewadi,Urban,7,SS (VI-X),5,Private Unaided (Recognized),25,25,25,0,25,7,25,25,4,0,24,25,11,22,2,25,25,25,25,25,25,25,18,25,25,25,25,23,4,18,25,10,25,17,22,4,25,25
+2019-20,27,Maharashtra,2725,PUNE,272516,Bibwewadi,Urban,8,SS (IX-X),3,Local body,3,2,3,0,2,2,3,3,0,0,3,0,0,1,0,3,3,3,3,3,3,2,2,2,2,3,3,0,1,1,3,0,3,1,3,1,0,1
+2019-20,27,Maharashtra,2725,PUNE,272516,Bibwewadi,Urban,8,SS (IX-X),5,Private Unaided (Recognized),5,5,5,0,4,1,5,5,0,0,5,5,1,5,1,5,5,5,5,5,5,5,5,5,5,5,5,2,0,4,5,1,5,5,5,1,5,5
+2019-20,27,Maharashtra,2725,PUNE,272516,Bibwewadi,Urban,8,SS (IX-X),8,Unrecognized,1,1,1,0,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272516,Bibwewadi,Urban,10,HSS (IX-XII),5,Private Unaided (Recognized),2,2,2,0,2,2,2,2,0,0,2,2,1,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,2,1,2,1,2,0,2,2
+2019-20,27,Maharashtra,2725,PUNE,272516,Bibwewadi,Urban,11,HSS (XI-XII),4,Government Aided,2,2,2,0,2,2,2,2,1,0,2,2,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,0,1,2,0,2,2,1,0,2,2
+2019-20,27,Maharashtra,2725,PUNE,272516,Bibwewadi,Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),12,12,12,0,12,3,12,12,1,0,12,12,6,10,1,11,11,11,11,11,11,12,10,12,11,12,12,8,2,10,12,4,11,8,6,0,11,12
+2019-20,27,Maharashtra,2725,PUNE,272517,Hadpasar,Urban,1,PS (I-V),3,Local body,6,5,5,0,6,3,6,6,0,0,3,6,0,0,0,6,6,6,6,6,6,6,6,6,6,6,6,4,0,4,6,0,6,4,6,3,4,5
+2019-20,27,Maharashtra,2725,PUNE,272517,Hadpasar,Urban,1,PS (I-V),4,Government Aided,8,8,8,0,8,5,8,8,2,0,8,8,0,6,0,8,8,8,8,8,8,7,7,7,7,8,8,2,0,4,8,0,8,8,7,0,7,8
+2019-20,27,Maharashtra,2725,PUNE,272517,Hadpasar,Urban,1,PS (I-V),5,Private Unaided (Recognized),15,15,14,0,13,5,15,15,1,0,15,15,2,12,3,12,12,14,14,14,14,10,11,12,12,15,15,10,1,7,15,0,14,9,12,0,11,15
+2019-20,27,Maharashtra,2725,PUNE,272517,Hadpasar,Urban,1,PS (I-V),8,Unrecognized,3,3,2,0,3,1,3,3,0,0,2,3,2,3,1,3,3,3,3,3,3,2,2,2,2,3,3,1,1,3,3,0,3,2,2,0,2,3
+2019-20,27,Maharashtra,2725,PUNE,272517,Hadpasar,Urban,2,UPS (I-VIII),3,Local body,64,62,60,0,61,27,64,64,1,0,63,64,2,11,3,62,62,61,61,64,64,57,53,59,59,64,64,22,7,57,62,5,62,58,64,43,48,61
+2019-20,27,Maharashtra,2725,PUNE,272517,Hadpasar,Urban,2,UPS (I-VIII),4,Government Aided,17,17,16,0,17,5,17,17,3,0,16,17,3,14,3,17,17,17,17,17,17,15,14,15,15,17,17,8,1,10,16,9,16,15,15,5,15,16
+2019-20,27,Maharashtra,2725,PUNE,272517,Hadpasar,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),47,45,41,0,47,27,47,47,7,0,47,46,21,44,15,47,47,45,45,47,47,41,37,41,41,47,47,38,10,36,46,24,46,41,43,8,46,47
+2019-20,27,Maharashtra,2725,PUNE,272517,Hadpasar,Urban,2,UPS (I-VIII),8,Unrecognized,2,2,2,0,2,1,2,2,1,0,2,2,1,1,1,2,2,2,2,2,2,1,1,1,1,2,2,1,0,1,2,0,2,1,2,1,2,2
+2019-20,27,Maharashtra,2725,PUNE,272517,Hadpasar,Urban,2,UPS (I-VIII),97,Madarsa recognized (by Wakf board/Madarsa Board) ,1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,0,0,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272517,Hadpasar,Urban,3,HSS (I-XII),4,Government Aided,9,9,9,0,9,5,9,9,2,0,9,9,5,9,2,7,7,8,8,9,9,7,8,9,9,9,9,7,4,8,9,3,9,8,9,4,9,9
+2019-20,27,Maharashtra,2725,PUNE,272517,Hadpasar,Urban,3,HSS (I-XII),5,Private Unaided (Recognized),11,11,11,0,11,7,11,11,2,0,11,11,8,10,3,11,11,11,11,11,11,10,6,10,10,11,11,10,4,11,11,4,11,11,9,0,11,11
+2019-20,27,Maharashtra,2725,PUNE,272517,Hadpasar,Urban,5,HSS (VI-XII),4,Government Aided,3,3,1,0,3,3,3,3,1,0,3,3,1,3,2,3,3,3,3,3,3,3,3,3,3,3,3,2,0,3,3,1,3,3,3,1,3,3
+2019-20,27,Maharashtra,2725,PUNE,272517,Hadpasar,Urban,5,HSS (VI-XII),5,Private Unaided (Recognized),5,5,5,0,5,4,5,5,1,0,5,5,5,5,0,5,5,5,5,5,5,5,5,5,5,5,5,4,1,5,5,3,5,4,4,0,5,5
+2019-20,27,Maharashtra,2725,PUNE,272517,Hadpasar,Urban,6,SS (I-X),4,Government Aided,4,4,4,0,4,2,4,4,0,0,4,4,2,4,1,4,4,4,4,4,4,4,4,4,4,4,4,1,0,3,4,2,4,4,4,3,4,4
+2019-20,27,Maharashtra,2725,PUNE,272517,Hadpasar,Urban,6,SS (I-X),5,Private Unaided (Recognized),22,22,21,0,21,14,22,22,2,0,22,20,7,18,3,21,21,21,21,21,21,19,17,19,19,22,22,15,6,16,22,6,21,17,16,4,20,22
+2019-20,27,Maharashtra,2725,PUNE,272517,Hadpasar,Urban,7,SS (VI-X),3,Local body,1,1,1,0,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272517,Hadpasar,Urban,7,SS (VI-X),4,Government Aided,6,6,5,0,6,3,6,6,1,0,5,6,0,5,0,6,6,5,5,6,6,5,5,5,5,6,6,3,2,4,6,1,6,6,5,3,6,6
+2019-20,27,Maharashtra,2725,PUNE,272517,Hadpasar,Urban,7,SS (VI-X),5,Private Unaided (Recognized),12,12,11,0,12,4,12,12,1,0,12,12,5,8,1,11,11,12,12,12,12,10,11,11,11,12,12,9,0,11,11,3,11,12,12,1,12,12
+2019-20,27,Maharashtra,2725,PUNE,272517,Hadpasar,Urban,8,SS (IX-X),3,Local body,4,4,4,0,0,2,4,4,0,0,3,3,0,1,0,4,4,4,4,4,4,4,4,4,4,4,4,0,0,1,3,0,3,2,3,0,4,4
+2019-20,27,Maharashtra,2725,PUNE,272517,Hadpasar,Urban,8,SS (IX-X),5,Private Unaided (Recognized),6,6,6,0,6,3,6,6,1,0,6,6,2,6,2,6,6,6,6,6,6,5,5,5,5,6,6,6,4,4,6,2,6,6,6,2,6,6
+2019-20,27,Maharashtra,2725,PUNE,272517,Hadpasar,Urban,10,HSS (IX-XII),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272517,Hadpasar,Urban,11,HSS (XI-XII),4,Government Aided,1,1,1,0,1,0,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,0,0,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272517,Hadpasar,Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),13,13,13,0,12,5,13,13,6,0,13,13,8,11,3,13,13,12,12,13,13,13,11,13,13,13,13,12,5,12,12,7,12,10,6,0,13,13
+2019-20,27,Maharashtra,2725,PUNE,272518,Pune City,Urban,1,PS (I-V),3,Local body,1,1,0,0,1,0,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272518,Pune City,Urban,1,PS (I-V),4,Government Aided,33,33,33,1,32,5,33,33,0,0,31,32,1,27,8,29,29,32,32,33,33,25,27,28,28,33,33,18,2,21,33,0,33,30,32,19,24,31
+2019-20,27,Maharashtra,2725,PUNE,272518,Pune City,Urban,1,PS (I-V),5,Private Unaided (Recognized),12,12,12,0,12,0,12,12,1,0,11,12,3,11,2,10,10,11,11,12,12,9,9,10,10,12,12,7,0,10,12,0,12,10,10,2,12,12
+2019-20,27,Maharashtra,2725,PUNE,272518,Pune City,Urban,2,UPS (I-VIII),1,Department of Education,1,1,1,0,1,1,1,1,0,0,1,1,0,0,0,0,0,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,1,1,0,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272518,Pune City,Urban,2,UPS (I-VIII),3,Local body,29,29,27,0,28,2,29,29,3,0,25,29,1,7,3,29,29,29,29,29,29,25,23,25,25,29,29,11,2,22,29,3,29,22,29,24,25,28
+2019-20,27,Maharashtra,2725,PUNE,272518,Pune City,Urban,2,UPS (I-VIII),4,Government Aided,13,13,11,0,12,2,13,13,0,0,10,13,2,10,3,13,13,12,12,13,13,10,8,10,10,13,13,7,1,13,13,6,13,11,11,4,10,11
+2019-20,27,Maharashtra,2725,PUNE,272518,Pune City,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),13,13,12,0,13,5,13,13,1,0,12,13,3,12,2,12,12,13,13,13,13,12,12,13,13,13,13,9,0,11,13,5,13,11,10,0,13,13
+2019-20,27,Maharashtra,2725,PUNE,272518,Pune City,Urban,3,HSS (I-XII),3,Local body,1,1,1,0,1,0,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272518,Pune City,Urban,3,HSS (I-XII),4,Government Aided,17,17,17,0,17,7,17,17,1,0,17,17,12,16,1,11,11,16,16,17,17,11,15,16,16,17,17,11,4,13,17,9,17,15,15,7,16,16
+2019-20,27,Maharashtra,2725,PUNE,272518,Pune City,Urban,3,HSS (I-XII),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272518,Pune City,Urban,5,HSS (VI-XII),3,Local body,2,2,2,0,2,0,2,2,0,0,2,2,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,1,0,2,2,1,2,1,2,1,2,2
+2019-20,27,Maharashtra,2725,PUNE,272518,Pune City,Urban,5,HSS (VI-XII),4,Government Aided,1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272518,Pune City,Urban,5,HSS (VI-XII),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272518,Pune City,Urban,6,SS (I-X),3,Local body,2,2,2,0,2,1,2,2,0,0,2,2,1,1,0,2,2,2,2,2,2,2,2,2,2,2,2,0,1,1,2,1,2,2,2,1,2,2
+2019-20,27,Maharashtra,2725,PUNE,272518,Pune City,Urban,6,SS (I-X),4,Government Aided,16,16,16,0,16,4,16,16,3,0,12,16,5,16,3,9,9,11,11,15,15,8,9,13,12,16,16,8,4,10,16,5,15,15,13,8,16,16
+2019-20,27,Maharashtra,2725,PUNE,272518,Pune City,Urban,6,SS (I-X),5,Private Unaided (Recognized),11,11,11,0,11,2,11,11,1,0,11,11,8,11,2,9,9,11,11,11,11,9,10,11,11,11,11,10,2,9,11,7,11,11,9,1,11,11
+2019-20,27,Maharashtra,2725,PUNE,272518,Pune City,Urban,7,SS (VI-X),3,Local body,4,4,4,0,3,1,4,4,0,0,3,4,0,2,0,4,4,4,4,4,4,3,3,3,3,4,4,1,1,3,3,2,3,2,3,1,4,4
+2019-20,27,Maharashtra,2725,PUNE,272518,Pune City,Urban,7,SS (VI-X),4,Government Aided,5,5,5,0,5,0,5,5,1,0,4,5,1,5,1,4,4,5,5,5,5,4,4,5,5,5,5,3,1,2,5,3,5,5,5,5,5,5
+2019-20,27,Maharashtra,2725,PUNE,272518,Pune City,Urban,7,SS (VI-X),5,Private Unaided (Recognized),6,6,6,0,6,1,6,6,0,0,6,6,2,5,1,6,6,6,6,6,6,5,5,5,5,6,6,3,0,3,6,0,6,6,5,0,6,6
+2019-20,27,Maharashtra,2725,PUNE,272518,Pune City,Urban,8,SS (IX-X),5,Private Unaided (Recognized),1,1,1,0,1,0,1,1,1,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1
+2019-20,27,Maharashtra,2725,PUNE,272518,Pune City,Urban,11,HSS (XI-XII),4,Government Aided,1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272518,Pune City,Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),5,5,5,0,5,0,5,5,3,0,3,5,1,4,0,5,5,5,5,5,5,5,3,5,5,5,5,4,1,2,5,2,5,5,1,0,5,5
+2019-20,27,Maharashtra,2725,PUNE,272519,PIMPRI,Urban,1,PS (I-V),3,Local body,4,4,4,0,4,2,4,4,1,0,4,4,0,0,1,4,4,4,4,4,4,4,4,4,4,4,4,3,0,0,4,0,4,3,4,1,3,4
+2019-20,27,Maharashtra,2725,PUNE,272519,PIMPRI,Urban,1,PS (I-V),4,Government Aided,10,10,10,0,10,4,10,10,1,0,10,10,0,9,2,10,10,10,10,10,10,10,10,10,10,10,10,9,1,7,10,0,10,10,10,5,10,9
+2019-20,27,Maharashtra,2725,PUNE,272519,PIMPRI,Urban,1,PS (I-V),5,Private Unaided (Recognized),11,11,10,0,10,2,11,11,1,0,11,11,4,10,3,11,11,11,11,11,11,10,9,10,10,11,11,9,5,6,11,0,11,7,7,2,10,10
+2019-20,27,Maharashtra,2725,PUNE,272519,PIMPRI,Urban,1,PS (I-V),8,Unrecognized,2,2,1,0,2,0,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,0,2,2,0,2,2,2,1,2,2
+2019-20,27,Maharashtra,2725,PUNE,272519,PIMPRI,Urban,2,UPS (I-VIII),3,Local body,46,46,39,0,45,8,46,46,2,0,38,45,2,23,8,36,36,36,36,46,46,36,30,45,45,46,46,10,17,30,46,9,46,44,45,38,20,42
+2019-20,27,Maharashtra,2725,PUNE,272519,PIMPRI,Urban,2,UPS (I-VIII),4,Government Aided,22,22,22,0,22,11,22,22,3,0,22,22,1,21,5,22,22,22,22,22,22,22,22,22,22,22,22,10,4,11,21,10,21,21,21,10,16,19
+2019-20,27,Maharashtra,2725,PUNE,272519,PIMPRI,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),50,50,46,0,50,20,50,50,6,0,46,49,16,46,8,50,50,50,50,50,50,46,40,46,46,50,50,41,14,37,49,22,49,43,44,14,47,46
+2019-20,27,Maharashtra,2725,PUNE,272519,PIMPRI,Urban,2,UPS (I-VIII),8,Unrecognized,3,3,3,0,3,1,3,3,0,0,3,3,0,3,0,3,3,3,3,3,3,3,3,3,3,3,3,2,0,3,3,0,3,1,3,0,3,3
+2019-20,27,Maharashtra,2725,PUNE,272519,PIMPRI,Urban,3,HSS (I-XII),4,Government Aided,9,9,9,0,9,5,9,9,1,0,9,9,8,8,2,8,7,9,8,9,8,7,7,8,8,9,9,7,1,6,9,5,8,7,9,6,9,9
+2019-20,27,Maharashtra,2725,PUNE,272519,PIMPRI,Urban,3,HSS (I-XII),5,Private Unaided (Recognized),14,14,14,0,14,5,14,14,6,0,14,14,11,13,3,13,13,13,13,13,13,13,10,13,12,14,14,12,5,14,14,7,13,13,12,1,14,14
+2019-20,27,Maharashtra,2725,PUNE,272519,PIMPRI,Urban,3,HSS (I-XII),92,Kendriya Vidyalaya / Central School,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272519,PIMPRI,Urban,5,HSS (VI-XII),4,Government Aided,3,3,2,0,3,2,3,3,0,0,3,3,1,3,0,3,3,3,3,3,3,3,3,3,3,3,3,1,0,0,3,1,3,3,3,2,3,3
+2019-20,27,Maharashtra,2725,PUNE,272519,PIMPRI,Urban,5,HSS (VI-XII),5,Private Unaided (Recognized),5,5,5,0,5,2,5,5,2,0,5,5,1,5,0,5,5,5,5,5,5,5,5,5,5,5,5,3,2,4,5,2,5,4,5,1,4,5
+2019-20,27,Maharashtra,2725,PUNE,272519,PIMPRI,Urban,6,SS (I-X),3,Local body,3,3,3,0,3,0,3,3,0,0,3,3,0,1,0,3,3,3,3,3,3,3,3,3,3,3,3,2,1,0,2,3,2,1,3,3,2,3
+2019-20,27,Maharashtra,2725,PUNE,272519,PIMPRI,Urban,6,SS (I-X),4,Government Aided,7,7,5,0,7,2,7,7,2,0,7,7,4,7,2,6,6,7,7,7,7,6,7,7,7,7,7,7,0,5,7,3,7,6,7,5,7,7
+2019-20,27,Maharashtra,2725,PUNE,272519,PIMPRI,Urban,6,SS (I-X),5,Private Unaided (Recognized),31,31,30,0,31,13,31,31,5,0,30,29,16,29,6,31,31,31,31,31,31,30,25,30,30,31,31,23,9,25,31,15,31,27,29,8,31,30
+2019-20,27,Maharashtra,2725,PUNE,272519,PIMPRI,Urban,7,SS (VI-X),3,Local body,7,6,7,0,4,1,7,7,0,0,6,7,0,6,1,7,7,7,7,7,7,7,6,7,7,7,7,4,1,6,7,5,7,7,7,6,7,7
+2019-20,27,Maharashtra,2725,PUNE,272519,PIMPRI,Urban,7,SS (VI-X),4,Government Aided,13,13,13,0,13,7,13,13,2,0,13,13,1,12,2,13,13,13,13,13,13,12,12,12,12,13,13,4,4,8,12,6,12,13,13,7,12,13
+2019-20,27,Maharashtra,2725,PUNE,272519,PIMPRI,Urban,7,SS (VI-X),5,Private Unaided (Recognized),18,18,18,0,18,6,18,18,1,0,18,17,1,17,5,18,18,18,18,18,18,16,15,16,16,18,18,12,5,8,18,5,18,16,13,4,18,17
+2019-20,27,Maharashtra,2725,PUNE,272519,PIMPRI,Urban,8,SS (IX-X),5,Private Unaided (Recognized),4,4,3,0,4,3,4,4,0,0,4,4,0,3,0,4,4,4,4,4,4,4,3,4,4,4,4,3,1,3,3,0,3,3,3,1,4,4
+2019-20,27,Maharashtra,2725,PUNE,272519,PIMPRI,Urban,8,SS (IX-X),8,Unrecognized,1,1,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272519,PIMPRI,Urban,10,HSS (IX-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272519,PIMPRI,Urban,11,HSS (XI-XII),4,Government Aided,1,1,1,0,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272519,PIMPRI,Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),3,3,3,0,3,1,3,3,1,0,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,1,1,3,3
+2019-20,27,Maharashtra,2725,PUNE,272520,AKURDI,Urban,1,PS (I-V),3,Local body,11,11,7,0,6,3,11,11,1,0,9,11,0,3,1,10,10,10,10,11,11,7,7,8,8,11,11,2,1,4,11,0,11,10,11,4,4,9
+2019-20,27,Maharashtra,2725,PUNE,272520,AKURDI,Urban,1,PS (I-V),4,Government Aided,24,24,23,0,24,10,24,24,6,0,23,23,2,20,10,22,22,22,22,22,22,23,23,23,21,24,24,12,4,13,24,0,22,22,23,10,22,19
+2019-20,27,Maharashtra,2725,PUNE,272520,AKURDI,Urban,1,PS (I-V),5,Private Unaided (Recognized),28,28,25,0,28,17,28,28,4,0,28,28,8,22,7,28,28,28,28,28,28,27,24,27,27,28,28,23,11,23,28,0,28,23,24,8,28,28
+2019-20,27,Maharashtra,2725,PUNE,272520,AKURDI,Urban,1,PS (I-V),8,Unrecognized,1,1,0,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,0,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272520,AKURDI,Urban,2,UPS (I-VIII),3,Local body,49,46,46,0,46,21,49,49,3,0,46,47,0,25,7,39,39,38,38,49,49,38,32,47,47,49,49,17,21,30,47,9,47,48,49,37,11,43
+2019-20,27,Maharashtra,2725,PUNE,272520,AKURDI,Urban,2,UPS (I-VIII),4,Government Aided,28,28,27,0,26,15,28,28,6,0,28,28,1,27,7,28,28,27,27,28,28,26,24,26,26,28,28,18,10,21,28,10,28,26,28,13,23,26
+2019-20,27,Maharashtra,2725,PUNE,272520,AKURDI,Urban,2,UPS (I-VIII),5,Private Unaided (Recognized),73,72,66,0,73,51,73,73,7,0,73,72,42,70,17,72,72,72,72,72,72,68,60,68,67,73,73,63,22,62,72,29,71,58,66,14,70,72
+2019-20,27,Maharashtra,2725,PUNE,272520,AKURDI,Urban,2,UPS (I-VIII),8,Unrecognized,3,3,3,0,3,2,3,3,0,0,3,3,1,2,1,3,3,3,3,3,3,2,2,2,2,3,3,2,0,1,3,1,3,2,3,2,2,3
+2019-20,27,Maharashtra,2725,PUNE,272520,AKURDI,Urban,3,HSS (I-XII),4,Government Aided,16,16,16,0,16,12,16,16,5,0,16,16,7,16,4,16,16,16,16,16,16,16,16,16,16,16,16,9,4,14,16,10,16,16,16,8,16,16
+2019-20,27,Maharashtra,2725,PUNE,272520,AKURDI,Urban,3,HSS (I-XII),5,Private Unaided (Recognized),11,11,11,0,11,9,11,11,2,0,11,11,7,10,1,11,11,11,11,11,11,11,10,11,11,11,11,11,6,10,11,9,11,10,10,4,11,11
+2019-20,27,Maharashtra,2725,PUNE,272520,AKURDI,Urban,5,HSS (VI-XII),4,Government Aided,6,6,6,0,6,4,6,6,0,0,6,6,0,6,3,6,6,6,6,6,6,6,6,6,6,6,6,5,4,3,6,1,6,6,6,2,6,6
+2019-20,27,Maharashtra,2725,PUNE,272520,AKURDI,Urban,5,HSS (VI-XII),5,Private Unaided (Recognized),18,18,17,0,17,8,18,18,2,0,18,17,17,17,4,18,18,18,18,18,18,17,11,17,17,18,18,17,4,14,18,12,18,15,15,2,18,18
+2019-20,27,Maharashtra,2725,PUNE,272520,AKURDI,Urban,6,SS (I-X),3,Local body,2,2,2,0,2,2,2,2,0,0,2,2,0,2,0,2,2,2,2,2,2,1,1,1,1,2,2,0,0,1,2,2,2,2,2,2,2,2
+2019-20,27,Maharashtra,2725,PUNE,272520,AKURDI,Urban,6,SS (I-X),4,Government Aided,9,9,8,0,9,6,9,9,3,0,9,9,1,9,5,9,9,9,9,9,9,9,8,9,9,9,9,5,2,5,9,7,9,9,9,1,9,9
+2019-20,27,Maharashtra,2725,PUNE,272520,AKURDI,Urban,6,SS (I-X),5,Private Unaided (Recognized),39,39,39,0,39,22,39,39,7,0,39,39,26,36,11,39,39,39,39,39,39,37,32,37,37,39,39,34,16,29,39,21,39,35,38,5,37,37
+2019-20,27,Maharashtra,2725,PUNE,272520,AKURDI,Urban,7,SS (VI-X),3,Local body,6,6,6,0,6,0,6,6,0,0,6,6,0,5,1,6,6,6,6,6,6,6,6,6,6,6,6,3,1,4,5,3,5,6,6,3,6,6
+2019-20,27,Maharashtra,2725,PUNE,272520,AKURDI,Urban,7,SS (VI-X),4,Government Aided,15,15,15,0,15,9,15,15,3,0,15,15,0,15,6,15,15,15,15,15,15,14,14,14,14,15,15,9,9,13,15,9,15,14,15,5,15,14
+2019-20,27,Maharashtra,2725,PUNE,272520,AKURDI,Urban,7,SS (VI-X),5,Private Unaided (Recognized),17,17,17,0,17,7,17,17,2,0,17,17,5,17,0,17,17,17,17,17,17,17,17,17,17,17,17,11,6,14,17,4,17,16,15,4,17,17
+2019-20,27,Maharashtra,2725,PUNE,272520,AKURDI,Urban,8,SS (IX-X),5,Private Unaided (Recognized),11,11,8,0,11,7,11,11,1,0,11,11,4,11,4,11,11,11,11,11,11,11,11,11,11,11,11,10,5,7,11,7,11,10,11,6,11,11
+2019-20,27,Maharashtra,2725,PUNE,272520,AKURDI,Urban,10,HSS (IX-XII),5,Private Unaided (Recognized),1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272520,AKURDI,Urban,11,HSS (XI-XII),4,Government Aided,1,1,1,0,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1
+2019-20,27,Maharashtra,2725,PUNE,272520,AKURDI,Urban,11,HSS (XI-XII),5,Private Unaided (Recognized),20,20,18,0,20,10,20,20,4,0,19,20,16,19,7,20,20,20,20,20,20,19,18,19,19,20,20,20,10,17,20,13,20,15,14,0,20,19
