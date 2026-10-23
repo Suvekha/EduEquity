@@ -115,3 +115,54 @@ print("New files downloaded:", downloaded)
 print("Existing files skipped:", skipped)
 print("Failed downloads:", len(failed_downloads))
 print("CSV files are stored in:", DOWNLOAD_DIR)
+
+
+# Retry the failed Kurukshetra 2019-20 resource
+import requests
+import time
+from pathlib import Path
+
+resource_id = "6894504"
+url = "https://data.gov.in/sites/default/files/dataurl24092021/UDISE_plus-19-20_teachers_kurukshetra_har.csv"
+
+download_dir = Path(__file__).resolve().parent / "EduEquity_Teacher_CSVs"
+output_file = download_dir / f"{resource_id}_UDISE_plus-19-20_teachers_kurukshetra_har.csv"
+
+success = False
+
+for attempt in range(1, 6):
+    try:
+        print(f"Retry attempt {attempt}/5...")
+
+        response = requests.get(
+            url,
+            timeout=90,
+            headers={"User-Agent": "Mozilla/5.0"}
+        )
+        response.raise_for_status()
+
+        content = response.content
+
+        if not content:
+            raise ValueError("Downloaded file is empty.")
+
+        if content.lstrip()[:1000].lower().startswith(
+            (b"<!doctype html", b"<html")
+        ):
+            raise ValueError("The server returned HTML instead of CSV data.")
+
+        output_file.write_bytes(content)
+
+        print("Download successful!")
+        print("Saved to:", output_file)
+        success = True
+        break
+
+    except Exception as error:
+        print("Attempt failed:", error)
+
+        if attempt < 5:
+            time.sleep(attempt * 3)
+
+if not success:
+    print("Retry unsuccessful. Keep the failure documented for now.")
