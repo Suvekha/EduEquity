@@ -1,0 +1,384 @@
+Academic_Year,State_Code,State_Name,District_Code,District_Name,Block_Code,Block_Name,School_Management_Id,School_Management_Name,School_Category_Id,School_Category_Name,Academic_Qualification_Id,Academic_Qualification_Name,Professional_Qualification_Id,Professional_Qualification_Name,Only_Pre_Primary_Male,Only_Pre_Primary_Female,Pre_Primary_and_Primary_Male,Pre_Primary_and_Primary_Female,Only_Primary_Male,Only_Primary_Female,Primary_and_Upperprimary_Male,Primary_and_Upperprimary_Female,Only_Upperprimary_Male,Only_Upperprimary_Female,Upperprimary_and_Secondary_Male,Upperprimary_and_Secondary_Female,Only_Secondary_Male,Only_Secondary_Female,Secondary_and_Highersecondary_Male,Secondary_and_Highersecondary_Female,Only_Highersecondary_Male,Only_Highersecondary_Female,Total_Teacher,Total_Male,Total_Female
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,1,Department of Education,4,UPS (VI-VIII),2,Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,1,Department of Education,4,UPS (VI-VIII),2,Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,3,2,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,1,Department of Education,4,UPS (VI-VIII),2,Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,6,2,0,0,0,0,0,0,0,0,8,6,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,1,Department of Education,8,SS (IX-X),2,Secondary,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,5,4,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,1,Department of Education,8,SS (IX-X),2,Secondary,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,1,Department of Education,4,UPS (VI-VIII),2,Secondary,5,Others,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,1,Department of Education,4,UPS (VI-VIII),2,Secondary,5,Others,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,3,2,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,1,Department of Education,4,UPS (VI-VIII),2,Secondary,5,Others,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,3,3,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,1,Department of Education,4,UPS (VI-VIII),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,7,1,0,0,0,0,0,0,0,0,8,7,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,1,Department of Education,4,UPS (VI-VIII),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,6,2,0,0,0,0,0,0,0,0,8,6,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,1,Department of Education,4,UPS (VI-VIII),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,7,4,3
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,1,Department of Education,4,UPS (VI-VIII),3,Higher secondary,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,1,Department of Education,4,UPS (VI-VIII),3,Higher secondary,5,Others,0,0,0,0,0,0,0,0,6,1,0,0,0,0,0,0,0,0,7,6,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,1,Department of Education,4,UPS (VI-VIII),3,Higher secondary,5,Others,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2,1,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,1,Department of Education,4,UPS (VI-VIII),3,Higher secondary,5,Others,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,1,Department of Education,4,UPS (VI-VIII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,11,2,0,0,0,0,0,0,0,0,13,11,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,1,Department of Education,4,UPS (VI-VIII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,19,32,0,0,0,0,0,0,0,0,51,19,32
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,1,Department of Education,4,UPS (VI-VIII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,9,9,0,0,0,0,0,0,0,0,18,9,9
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,1,Department of Education,8,SS (IX-X),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,1,Department of Education,4,UPS (VI-VIII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,4,4,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,1,Department of Education,4,UPS (VI-VIII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,9,9,0,0,0,0,0,0,0,0,18,9,9
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,1,Department of Education,4,UPS (VI-VIII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,11,2,0,0,0,0,0,0,0,0,13,11,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,1,Department of Education,8,SS (IX-X),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,15,2,0,0,0,0,17,15,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,1,Department of Education,8,SS (IX-X),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,14,9,0,0,0,0,23,14,9
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,1,Department of Education,8,SS (IX-X),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,17,11,0,0,0,0,28,17,11
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,1,Department of Education,8,SS (IX-X),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,5,4,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,1,Department of Education,8,SS (IX-X),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,3,3,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,1,Department of Education,11,HSS (XI-XII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,1,Department of Education,4,UPS (VI-VIII),4,Graduate,5,Others,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,4,3,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,1,Department of Education,4,UPS (VI-VIII),4,Graduate,5,Others,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,3,0,3
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,1,Department of Education,4,UPS (VI-VIII),4,Graduate,5,Others,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,4,4,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,1,Department of Education,8,SS (IX-X),4,Graduate,6,None,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,1,Department of Education,4,UPS (VI-VIII),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,1,Department of Education,4,UPS (VI-VIII),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,4,2,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,1,Department of Education,4,UPS (VI-VIII),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,1,Department of Education,8,SS (IX-X),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,3,2,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,1,Department of Education,8,SS (IX-X),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,4,3,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,1,Department of Education,8,SS (IX-X),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,1,Department of Education,8,SS (IX-X),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,1,Department of Education,11,HSS (XI-XII),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,12,18,6,12
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,1,Department of Education,11,HSS (XI-XII),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,6,4,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,1,Department of Education,4,UPS (VI-VIII),5,Post graduate,5,Others,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,1,Department of Education,4,UPS (VI-VIII),5,Post graduate,5,Others,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,1,Department of Education,8,SS (IX-X),6,M.Phil,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,1,Department of Education,11,HSS (XI-XII),6,M.Phil,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,10,Department of Education,1,PS (I-V),1,Below Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,10,Department of Education,1,PS (I-V),2,Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,10,Department of Education,1,PS (I-V),2,Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,7,7,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,10,Department of Education,1,PS (I-V),2,Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,12,12,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,10,Department of Education,4,UPS (VI-VIII),2,Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,3,3,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,10,Department of Education,4,UPS (VI-VIII),2,Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,10,Department of Education,1,PS (I-V),2,Secondary,2,Bachelor of Elementary Education (B.El.Ed.),0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,10,Department of Education,4,UPS (VI-VIII),2,Secondary,2,Bachelor of Elementary Education (B.El.Ed.),0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,10,Department of Education,1,PS (I-V),2,Secondary,5,Others,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,10,Department of Education,4,UPS (VI-VIII),2,Secondary,6,None,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,10,Department of Education,1,PS (I-V),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,19,3,0,0,0,0,0,0,0,0,0,0,0,0,22,19,3
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,10,Department of Education,1,PS (I-V),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,10,Department of Education,1,PS (I-V),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,10,Department of Education,1,PS (I-V),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,10,Department of Education,1,PS (I-V),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,10,Department of Education,4,UPS (VI-VIII),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,4,1,3
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,10,Department of Education,4,UPS (VI-VIII),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,10,Department of Education,4,UPS (VI-VIII),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,5,4,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,10,Department of Education,4,UPS (VI-VIII),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,3,3,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,10,Department of Education,4,UPS (VI-VIII),3,Higher secondary,2,Bachelor of Elementary Education (B.El.Ed.),0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,3,3,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,10,Department of Education,4,UPS (VI-VIII),3,Higher secondary,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,10,Department of Education,1,PS (I-V),3,Higher secondary,5,Others,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,10,Department of Education,4,UPS (VI-VIII),3,Higher secondary,5,Others,0,0,0,0,0,0,0,0,9,4,0,0,0,0,0,0,0,0,13,9,4
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,10,Department of Education,4,UPS (VI-VIII),3,Higher secondary,8,Pursuing any relevant professional course,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,10,Department of Education,1,PS (I-V),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,10,Department of Education,1,PS (I-V),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,10,Department of Education,1,PS (I-V),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,10,Department of Education,1,PS (I-V),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,10,Department of Education,1,PS (I-V),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,10,Department of Education,4,UPS (VI-VIII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,71,49,0,0,0,0,0,0,0,0,120,71,49
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,10,Department of Education,4,UPS (VI-VIII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,10,Department of Education,4,UPS (VI-VIII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,10,Department of Education,4,UPS (VI-VIII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,55,4,0,0,0,0,0,0,0,0,59,55,4
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,10,Department of Education,4,UPS (VI-VIII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,28,1,0,0,0,0,0,0,0,0,29,28,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,10,Department of Education,1,PS (I-V),4,Graduate,2,Bachelor of Elementary Education (B.El.Ed.),0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,10,Department of Education,4,UPS (VI-VIII),4,Graduate,2,Bachelor of Elementary Education (B.El.Ed.),0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,6,6,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,10,Department of Education,1,PS (I-V),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,10,Department of Education,1,PS (I-V),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,10,Department of Education,4,UPS (VI-VIII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,10,Department of Education,4,UPS (VI-VIII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,3,2,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,10,Department of Education,4,UPS (VI-VIII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2,1,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,10,Department of Education,4,UPS (VI-VIII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2,1,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,10,Department of Education,4,UPS (VI-VIII),4,Graduate,5,Others,0,0,0,0,0,0,0,0,13,5,0,0,0,0,0,0,0,0,18,13,5
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,10,Department of Education,4,UPS (VI-VIII),4,Graduate,5,Others,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,10,Department of Education,4,UPS (VI-VIII),4,Graduate,7,Diploma/degree in special education,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,10,Department of Education,4,UPS (VI-VIII),4,Graduate,8,Pursuing any relevant professional course,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,10,Department of Education,4,UPS (VI-VIII),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,6,6,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,10,Department of Education,4,UPS (VI-VIII),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,7,1,0,0,0,0,0,0,0,0,8,7,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,10,Department of Education,4,UPS (VI-VIII),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,10,Department of Education,4,UPS (VI-VIII),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,10,Department of Education,4,UPS (VI-VIII),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,10,Department of Education,4,UPS (VI-VIII),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,10,Department of Education,4,UPS (VI-VIII),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,10,Department of Education,4,UPS (VI-VIII),5,Post graduate,8,Pursuing any relevant professional course,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,14,Department of Education,8,SS (IX-X),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,14,Department of Education,8,SS (IX-X),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2,1,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,14,Department of Education,8,SS (IX-X),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,14,Department of Education,8,SS (IX-X),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,6,4,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,14,Department of Education,8,SS (IX-X),4,Graduate,6,None,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,3,3,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,14,Department of Education,8,SS (IX-X),4,Graduate,7,Diploma/degree in special education,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,14,Department of Education,8,SS (IX-X),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,10,8,0,0,0,0,18,10,8
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,14,Department of Education,8,SS (IX-X),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,3,5,0,0,0,0,8,3,5
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,14,Department of Education,8,SS (IX-X),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,8,3,0,0,0,0,11,8,3
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,14,Department of Education,8,SS (IX-X),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,4,4,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,14,Department of Education,8,SS (IX-X),5,Post graduate,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,3,0,3
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,14,Department of Education,8,SS (IX-X),5,Post graduate,5,Others,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,14,Department of Education,8,SS (IX-X),5,Post graduate,8,Pursuing any relevant professional course,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,14,Department of Education,8,SS (IX-X),6,M.Phil,8,Pursuing any relevant professional course,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,18,Government Aided,8,SS (IX-X),2,Secondary,5,Others,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,18,Government Aided,8,SS (IX-X),4,Graduate,2,Bachelor of Elementary Education (B.El.Ed.),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,18,Government Aided,8,SS (IX-X),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,8,4,0,0,0,0,12,8,4
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,18,Government Aided,8,SS (IX-X),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,3,3,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,18,Government Aided,8,SS (IX-X),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,5,4,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,18,Government Aided,8,SS (IX-X),4,Graduate,8,Pursuing any relevant professional course,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,3,2,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,18,Government Aided,8,SS (IX-X),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,5,2,0,0,0,0,7,5,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,18,Government Aided,8,SS (IX-X),5,Post graduate,8,Pursuing any relevant professional course,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,18,Government Aided,8,SS (IX-X),8,Post Doctoral,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,93,Jawahar Navodaya Vidyalaya ,5,HSS (VI-XII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,93,Jawahar Navodaya Vidyalaya ,5,HSS (VI-XII),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,4,4,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,93,Jawahar Navodaya Vidyalaya ,5,HSS (VI-XII),6,M.Phil,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,3,Local body,1,PS (I-V),1,Below Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,12,4,0,0,0,0,0,0,0,0,0,0,0,0,16,12,4
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,3,Local body,1,PS (I-V),1,Below Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,6,5,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,3,Local body,4,UPS (VI-VIII),1,Below Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,3,Local body,1,PS (I-V),1,Below Secondary,5,Others,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,3,Local body,4,UPS (VI-VIII),1,Below Secondary,5,Others,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,6,6,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,3,Local body,4,UPS (VI-VIII),1,Below Secondary,5,Others,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,3,Local body,1,PS (I-V),1,Below Secondary,7,Diploma/degree in special education,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,3,Local body,1,PS (I-V),1,Below Secondary,8,Pursuing any relevant professional course,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,3,Local body,1,PS (I-V),2,Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,37,9,0,0,0,0,0,0,0,0,0,0,0,0,46,37,9
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,3,Local body,1,PS (I-V),2,Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,44,58,0,0,0,0,0,0,0,0,0,0,0,0,102,44,58
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,3,Local body,1,PS (I-V),2,Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,39,35,0,0,0,0,0,0,0,0,0,0,0,0,74,39,35
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,3,Local body,1,PS (I-V),2,Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,3,0,97,13,0,0,0,0,0,0,0,0,0,0,0,0,113,100,13
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,3,Local body,1,PS (I-V),2,Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,44,1,0,0,0,0,0,0,0,0,0,0,0,0,45,44,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,3,Local body,4,UPS (VI-VIII),2,Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,6,5,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,3,Local body,4,UPS (VI-VIII),2,Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,3,1,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,3,Local body,4,UPS (VI-VIII),2,Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,4,3,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,3,Local body,4,UPS (VI-VIII),2,Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,3,Local body,1,PS (I-V),2,Secondary,2,Bachelor of Elementary Education (B.El.Ed.),0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,3,Local body,4,UPS (VI-VIII),2,Secondary,2,Bachelor of Elementary Education (B.El.Ed.),0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,3,Local body,1,PS (I-V),2,Secondary,5,Others,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,7,7,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,3,Local body,1,PS (I-V),2,Secondary,5,Others,0,0,0,0,26,39,0,0,0,0,0,0,0,0,0,0,0,0,65,26,39
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,3,Local body,1,PS (I-V),2,Secondary,5,Others,0,0,0,0,6,4,0,0,0,0,0,0,0,0,0,0,0,0,10,6,4
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,3,Local body,1,PS (I-V),2,Secondary,5,Others,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,3,Local body,2,UPS (I-VIII),2,Secondary,5,Others,0,0,0,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,5,2,3
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,3,Local body,4,UPS (VI-VIII),2,Secondary,5,Others,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,4,4,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,3,Local body,4,UPS (VI-VIII),2,Secondary,5,Others,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,7,7,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,3,Local body,4,UPS (VI-VIII),2,Secondary,5,Others,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,3,Local body,1,PS (I-V),2,Secondary,6,None,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,3,Local body,1,PS (I-V),2,Secondary,6,None,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,3,Local body,1,PS (I-V),2,Secondary,6,None,0,0,0,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,8,7,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,3,Local body,1,PS (I-V),2,Secondary,7,Diploma/degree in special education,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,3,Local body,1,PS (I-V),2,Secondary,7,Diploma/degree in special education,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,3,Local body,1,PS (I-V),2,Secondary,8,Pursuing any relevant professional course,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,3,Local body,1,PS (I-V),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,40,8,0,0,0,0,0,0,0,0,0,0,0,0,48,40,8
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,3,Local body,1,PS (I-V),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,12,5,0,0,0,0,0,0,0,0,0,0,0,0,17,12,5
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,3,Local body,1,PS (I-V),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,32,14,0,0,0,0,0,0,0,0,0,0,0,0,46,32,14
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,3,Local body,1,PS (I-V),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,1,0,32,6,0,0,0,0,0,0,0,0,0,0,0,0,39,33,6
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,3,Local body,1,PS (I-V),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,25,1,0,0,0,0,0,0,0,0,0,0,0,0,26,25,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,3,Local body,2,UPS (I-VIII),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,3,0,3
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,3,Local body,4,UPS (VI-VIII),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,6,5,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,3,Local body,4,UPS (VI-VIII),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,6,7,0,0,0,0,0,0,0,0,13,6,7
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,3,Local body,4,UPS (VI-VIII),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,14,3,0,0,0,0,0,0,0,0,17,14,3
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,3,Local body,4,UPS (VI-VIII),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,13,3,0,0,0,0,0,0,0,0,16,13,3
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,3,Local body,4,UPS (VI-VIII),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,4,4,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,3,Local body,1,PS (I-V),3,Higher secondary,2,Bachelor of Elementary Education (B.El.Ed.),0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,3,Local body,4,UPS (VI-VIII),3,Higher secondary,2,Bachelor of Elementary Education (B.El.Ed.),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,3,Local body,1,PS (I-V),3,Higher secondary,3,B.Ed. or equivalent,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,3,Local body,4,UPS (VI-VIII),3,Higher secondary,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,3,Local body,4,UPS (VI-VIII),3,Higher secondary,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,3,Local body,1,PS (I-V),3,Higher secondary,5,Others,0,0,0,0,16,4,0,0,0,0,0,0,0,0,0,0,0,0,20,16,4
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,3,Local body,1,PS (I-V),3,Higher secondary,5,Others,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,6,4,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,3,Local body,1,PS (I-V),3,Higher secondary,5,Others,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,12,7,5
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,3,Local body,2,UPS (I-VIII),3,Higher secondary,5,Others,0,0,0,0,1,6,0,0,1,1,0,0,0,0,0,0,0,0,9,2,7
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,3,Local body,4,UPS (VI-VIII),3,Higher secondary,5,Others,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,4,2,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,3,Local body,4,UPS (VI-VIII),3,Higher secondary,5,Others,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,4,1,3
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,3,Local body,4,UPS (VI-VIII),3,Higher secondary,5,Others,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,3,2,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,3,Local body,4,UPS (VI-VIII),3,Higher secondary,5,Others,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,3,Local body,1,PS (I-V),3,Higher secondary,6,None,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,3,Local body,1,PS (I-V),3,Higher secondary,8,Pursuing any relevant professional course,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,3,Local body,1,PS (I-V),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,6,3,0,0,0,0,0,0,0,0,0,0,0,0,9,6,3
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,3,Local body,1,PS (I-V),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,8,6,0,0,0,0,0,0,0,0,0,0,0,0,14,8,6
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,3,Local body,1,PS (I-V),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,6,2,0,0,0,0,0,0,0,0,0,0,0,0,8,6,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,3,Local body,1,PS (I-V),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,15,2,0,0,0,0,0,0,0,0,0,0,0,0,17,15,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,3,Local body,1,PS (I-V),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,3,Local body,2,UPS (I-VIII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,1,2,0,0,2,4,0,0,0,0,0,0,0,0,9,3,6
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,3,Local body,4,UPS (VI-VIII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,14,9,0,0,0,0,0,0,0,0,23,14,9
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,3,Local body,4,UPS (VI-VIII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,41,27,0,0,0,0,0,0,0,0,68,41,27
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,3,Local body,4,UPS (VI-VIII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,28,17,0,0,0,0,0,0,0,0,45,28,17
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,3,Local body,4,UPS (VI-VIII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,65,21,0,0,0,0,0,0,0,0,86,65,21
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,3,Local body,4,UPS (VI-VIII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,18,18,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,3,Local body,1,PS (I-V),4,Graduate,2,Bachelor of Elementary Education (B.El.Ed.),0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,3,Local body,2,UPS (I-VIII),4,Graduate,2,Bachelor of Elementary Education (B.El.Ed.),0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,3,0,3
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,3,Local body,4,UPS (VI-VIII),4,Graduate,2,Bachelor of Elementary Education (B.El.Ed.),0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,5,1,4
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,3,Local body,4,UPS (VI-VIII),4,Graduate,2,Bachelor of Elementary Education (B.El.Ed.),0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2,1,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,3,Local body,4,UPS (VI-VIII),4,Graduate,2,Bachelor of Elementary Education (B.El.Ed.),0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,3,Local body,1,PS (I-V),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,3,Local body,2,UPS (I-VIII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,2,1,0,0,3,4,0,0,0,0,0,0,0,0,10,5,5
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,3,Local body,4,UPS (VI-VIII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,18,2,0,0,0,0,0,0,0,0,20,18,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,3,Local body,4,UPS (VI-VIII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,13,6,0,0,0,0,0,0,0,0,19,13,6
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,3,Local body,4,UPS (VI-VIII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,4,2,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,3,Local body,4,UPS (VI-VIII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,3,Local body,1,PS (I-V),4,Graduate,5,Others,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,4,3,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,3,Local body,1,PS (I-V),4,Graduate,5,Others,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,6,4,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,3,Local body,1,PS (I-V),4,Graduate,5,Others,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,3,Local body,4,UPS (VI-VIII),4,Graduate,5,Others,0,0,0,0,0,0,0,0,8,2,0,0,0,0,0,0,0,0,10,8,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,3,Local body,4,UPS (VI-VIII),4,Graduate,5,Others,0,0,0,0,0,0,0,0,25,15,0,0,0,0,0,0,0,0,40,25,15
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,3,Local body,4,UPS (VI-VIII),4,Graduate,5,Others,0,0,0,0,0,0,0,0,6,3,0,0,0,0,0,0,0,0,9,6,3
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,3,Local body,4,UPS (VI-VIII),4,Graduate,5,Others,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,3,Local body,1,PS (I-V),4,Graduate,7,Diploma/degree in special education,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,3,Local body,4,UPS (VI-VIII),4,Graduate,7,Diploma/degree in special education,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,3,Local body,1,PS (I-V),4,Graduate,8,Pursuing any relevant professional course,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,3,Local body,1,PS (I-V),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,3,Local body,1,PS (I-V),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,3,Local body,2,UPS (I-VIII),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,3,Local body,4,UPS (VI-VIII),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,3,Local body,4,UPS (VI-VIII),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,3,Local body,4,UPS (VI-VIII),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,10,2,0,0,0,0,0,0,0,0,12,10,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,3,Local body,4,UPS (VI-VIII),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,5,5,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,3,Local body,4,UPS (VI-VIII),5,Post graduate,2,Bachelor of Elementary Education (B.El.Ed.),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,3,Local body,1,PS (I-V),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,3,Local body,4,UPS (VI-VIII),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2,1,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,3,Local body,4,UPS (VI-VIII),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,4,3,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,3,Local body,4,UPS (VI-VIII),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,5,5,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,3,Local body,4,UPS (VI-VIII),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,3,Local body,2,UPS (I-VIII),5,Post graduate,5,Others,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),2,UPS (I-VIII),1,Below Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),1,PS (I-V),1,Below Secondary,6,None,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,5,Private Unaided (Recognized),1,PS (I-V),2,Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,3,1,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),1,PS (I-V),2,Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,5,Private Unaided (Recognized),2,UPS (I-VIII),2,Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,5,Private Unaided (Recognized),2,UPS (I-VIII),2,Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),2,UPS (I-VIII),2,Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,6,5,0,0,0,0,0,0,0,0,0,0,0,0,11,6,5
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,5,Private Unaided (Recognized),1,PS (I-V),2,Secondary,5,Others,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,5,Private Unaided (Recognized),2,UPS (I-VIII),2,Secondary,5,Others,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,5,Private Unaided (Recognized),2,UPS (I-VIII),2,Secondary,5,Others,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),1,PS (I-V),2,Secondary,6,None,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),2,UPS (I-VIII),2,Secondary,6,None,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,5,Private Unaided (Recognized),1,PS (I-V),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,1,0,0,10,4,0,0,0,0,0,0,0,0,0,0,0,0,15,10,5
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),1,PS (I-V),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,5,Private Unaided (Recognized),2,UPS (I-VIII),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,3,1,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,5,Private Unaided (Recognized),2,UPS (I-VIII),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,3,0,3
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,5,Private Unaided (Recognized),2,UPS (I-VIII),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,6,9,0,0,3,3,0,0,0,0,0,0,0,0,21,9,12
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),2,UPS (I-VIII),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,3,5,0,0,0,5,0,0,0,0,0,0,0,0,13,3,10
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),4,UPS (VI-VIII),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,4,2,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),1,PS (I-V),3,Higher secondary,2,Bachelor of Elementary Education (B.El.Ed.),0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),1,PS (I-V),3,Higher secondary,3,B.Ed. or equivalent,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,5,Private Unaided (Recognized),1,PS (I-V),3,Higher secondary,5,Others,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,5,Private Unaided (Recognized),2,UPS (I-VIII),3,Higher secondary,5,Others,0,0,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,5,3,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,5,Private Unaided (Recognized),2,UPS (I-VIII),3,Higher secondary,5,Others,0,0,0,0,2,3,0,1,1,0,0,0,0,0,0,0,0,0,7,3,4
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,5,Private Unaided (Recognized),1,PS (I-V),3,Higher secondary,6,None,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,3,1,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),1,PS (I-V),3,Higher secondary,6,None,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,4,2,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,5,Private Unaided (Recognized),2,UPS (I-VIII),3,Higher secondary,6,None,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,5,Private Unaided (Recognized),2,UPS (I-VIII),3,Higher secondary,6,None,0,0,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0,0,4,2,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),2,UPS (I-VIII),3,Higher secondary,6,None,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),8,SS (IX-X),3,Higher secondary,6,None,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,5,Private Unaided (Recognized),1,PS (I-V),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,8,7,0,0,0,0,0,0,0,0,0,0,0,0,15,8,7
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),1,PS (I-V),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,0,0,6,2,4
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,8,Unrecognized,8,SS (IX-X),4,Graduate,6,None,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,5,3,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,5,Private Unaided (Recognized),2,UPS (I-VIII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,1,0,0,2,3,0,0,0,0,0,0,0,0,6,2,4
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,5,Private Unaided (Recognized),2,UPS (I-VIII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,3,1,0,0,1,1,0,0,0,0,0,0,0,0,6,4,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,5,Private Unaided (Recognized),2,UPS (I-VIII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,1,4,4,1,0,10,6,0,0,0,0,0,0,0,0,26,15,11
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),2,UPS (I-VIII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,1,1,0,13,9,0,0,0,0,0,0,0,0,24,14,10
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),4,UPS (VI-VIII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,5,4,0,0,0,0,0,0,0,0,9,5,4
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),8,SS (IX-X),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,6,5,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,5,Private Unaided (Recognized),2,UPS (I-VIII),4,Graduate,2,Bachelor of Elementary Education (B.El.Ed.),0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),2,UPS (I-VIII),4,Graduate,2,Bachelor of Elementary Education (B.El.Ed.),0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2,1,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),8,SS (IX-X),4,Graduate,2,Bachelor of Elementary Education (B.El.Ed.),0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,4,4,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,5,Private Unaided (Recognized),1,PS (I-V),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,5,Private Unaided (Recognized),1,PS (I-V),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,5,Private Unaided (Recognized),2,UPS (I-VIII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,5,Private Unaided (Recognized),2,UPS (I-VIII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),2,UPS (I-VIII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2,1,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,5,Private Unaided (Recognized),8,SS (IX-X),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,5,Private Unaided (Recognized),8,SS (IX-X),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,8,4,4
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,5,Private Unaided (Recognized),8,SS (IX-X),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,3,3,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),8,SS (IX-X),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,6,3,0,0,0,0,9,6,3
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,5,Private Unaided (Recognized),8,SS (IX-X),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,4,4,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,5,Private Unaided (Recognized),2,UPS (I-VIII),4,Graduate,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,5,Private Unaided (Recognized),1,PS (I-V),4,Graduate,5,Others,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,3,1,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,5,Private Unaided (Recognized),2,UPS (I-VIII),4,Graduate,5,Others,0,0,0,0,5,3,0,0,0,5,0,0,0,0,0,0,0,0,13,5,8
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,5,Private Unaided (Recognized),2,UPS (I-VIII),4,Graduate,5,Others,0,0,0,0,11,14,4,3,22,10,0,0,0,0,0,0,0,0,64,37,27
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,5,Private Unaided (Recognized),4,UPS (VI-VIII),4,Graduate,5,Others,0,0,0,0,0,0,0,0,4,5,0,0,0,0,0,0,0,0,9,4,5
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),8,SS (IX-X),4,Graduate,5,Others,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,5,Private Unaided (Recognized),1,PS (I-V),4,Graduate,6,None,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,6,4,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),1,PS (I-V),4,Graduate,6,None,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,5,Private Unaided (Recognized),2,UPS (I-VIII),4,Graduate,6,None,0,0,0,0,1,1,0,0,5,9,0,0,0,0,0,0,0,0,16,6,10
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,5,Private Unaided (Recognized),2,UPS (I-VIII),4,Graduate,6,None,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,4,1,3
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),2,UPS (I-VIII),4,Graduate,6,None,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,3,2,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,5,Private Unaided (Recognized),8,SS (IX-X),4,Graduate,6,None,0,0,0,0,0,0,0,0,0,0,0,0,4,5,0,0,0,0,9,4,5
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,5,Private Unaided (Recognized),8,SS (IX-X),4,Graduate,6,None,0,0,0,0,0,0,0,0,0,0,0,0,14,6,0,0,0,0,20,14,6
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,5,Private Unaided (Recognized),8,SS (IX-X),4,Graduate,6,None,0,0,0,0,0,0,0,0,0,0,0,0,9,1,0,0,0,0,10,9,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),8,SS (IX-X),4,Graduate,6,None,0,0,0,0,0,0,0,0,0,0,0,0,16,5,0,0,0,0,21,16,5
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,5,Private Unaided (Recognized),11,HSS (XI-XII),4,Graduate,6,None,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),11,HSS (XI-XII),4,Graduate,6,None,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,1,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),4,UPS (VI-VIII),4,Graduate,7,Diploma/degree in special education,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,5,Private Unaided (Recognized),8,SS (IX-X),4,Graduate,7,Diploma/degree in special education,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,5,Private Unaided (Recognized),8,SS (IX-X),4,Graduate,8,Pursuing any relevant professional course,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),1,PS (I-V),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,5,Private Unaided (Recognized),2,UPS (I-VIII),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),2,UPS (I-VIII),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),4,UPS (VI-VIII),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,3,2,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),8,SS (IX-X),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),11,HSS (XI-XII),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,5,Private Unaided (Recognized),2,UPS (I-VIII),5,Post graduate,2,Bachelor of Elementary Education (B.El.Ed.),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),8,SS (IX-X),5,Post graduate,2,Bachelor of Elementary Education (B.El.Ed.),0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,4,2,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),1,PS (I-V),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,5,Private Unaided (Recognized),2,UPS (I-VIII),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,5,Private Unaided (Recognized),8,SS (IX-X),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,5,Private Unaided (Recognized),8,SS (IX-X),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,3,0,3
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,5,Private Unaided (Recognized),8,SS (IX-X),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,4,3,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),8,SS (IX-X),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,5,2,0,0,0,0,7,5,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,5,Private Unaided (Recognized),11,HSS (XI-XII),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,2,10,8,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,5,Private Unaided (Recognized),11,HSS (XI-XII),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,8,4,4
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,5,Private Unaided (Recognized),11,HSS (XI-XII),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4,4,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),11,HSS (XI-XII),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,12,11,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,5,Private Unaided (Recognized),2,UPS (I-VIII),5,Post graduate,5,Others,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,5,Private Unaided (Recognized),2,UPS (I-VIII),5,Post graduate,5,Others,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2,1,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,5,Private Unaided (Recognized),4,UPS (VI-VIII),5,Post graduate,5,Others,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,5,4,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,5,Private Unaided (Recognized),11,HSS (XI-XII),5,Post graduate,5,Others,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),11,HSS (XI-XII),5,Post graduate,5,Others,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,5,Private Unaided (Recognized),8,SS (IX-X),5,Post graduate,6,None,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,5,3,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,5,Private Unaided (Recognized),8,SS (IX-X),5,Post graduate,6,None,0,0,0,0,0,0,0,0,0,0,0,0,6,4,0,0,0,0,10,6,4
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,5,Private Unaided (Recognized),8,SS (IX-X),5,Post graduate,6,None,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,4,1,3
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),8,SS (IX-X),5,Post graduate,6,None,0,0,0,0,0,0,0,0,0,0,0,0,14,1,0,0,0,0,15,14,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,5,Private Unaided (Recognized),11,HSS (XI-XII),5,Post graduate,6,None,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,5,4,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,5,Private Unaided (Recognized),11,HSS (XI-XII),5,Post graduate,6,None,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,7,18,11,7
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,5,Private Unaided (Recognized),11,HSS (XI-XII),5,Post graduate,6,None,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,5,14,9,5
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),11,HSS (XI-XII),5,Post graduate,6,None,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,4,15,11,4
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),4,UPS (VI-VIII),5,Post graduate,7,Diploma/degree in special education,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,5,Private Unaided (Recognized),8,SS (IX-X),6,M.Phil,6,None,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,5,Private Unaided (Recognized),11,HSS (XI-XII),6,M.Phil,6,None,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,5,Private Unaided (Recognized),11,HSS (XI-XII),7,Ph.D,6,None,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,12,Private Unaided (Recognized),1,PS (I-V),2,Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,3,1,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,12,Private Unaided (Recognized),2,UPS (I-VIII),2,Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2,1,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,12,Private Unaided (Recognized),2,UPS (I-VIII),2,Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,12,Private Unaided (Recognized),1,PS (I-V),2,Secondary,2,Bachelor of Elementary Education (B.El.Ed.),0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,12,Private Unaided (Recognized),1,PS (I-V),2,Secondary,5,Others,0,0,0,0,33,9,0,0,0,0,0,0,0,0,0,0,0,0,42,33,9
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,12,Private Unaided (Recognized),1,PS (I-V),2,Secondary,5,Others,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,12,Private Unaided (Recognized),2,UPS (I-VIII),2,Secondary,5,Others,0,0,0,0,4,4,0,0,3,0,0,0,0,0,0,0,0,0,11,7,4
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,12,Private Unaided (Recognized),1,PS (I-V),2,Secondary,6,None,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,12,Private Unaided (Recognized),1,PS (I-V),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,12,Private Unaided (Recognized),1,PS (I-V),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,1,7,0,0,0,0,0,0,0,0,0,0,0,0,8,1,7
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,12,Private Unaided (Recognized),2,UPS (I-VIII),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,1,3,2,2,0,2,0,0,0,0,0,0,0,0,10,3,7
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,12,Private Unaided (Recognized),2,UPS (I-VIII),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,12,Private Unaided (Recognized),4,UPS (VI-VIII),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,12,Private Unaided (Recognized),1,PS (I-V),3,Higher secondary,5,Others,0,0,0,0,16,10,0,0,0,0,0,0,0,0,0,0,0,0,26,16,10
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,12,Private Unaided (Recognized),2,UPS (I-VIII),3,Higher secondary,5,Others,0,0,0,0,23,21,0,0,5,4,0,0,0,0,0,0,0,0,53,28,25
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,12,Private Unaided (Recognized),2,UPS (I-VIII),3,Higher secondary,5,Others,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,12,Private Unaided (Recognized),4,UPS (VI-VIII),3,Higher secondary,5,Others,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,5,2,3
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,12,Private Unaided (Recognized),1,PS (I-V),3,Higher secondary,6,None,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,12,Private Unaided (Recognized),1,PS (I-V),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,12,Private Unaided (Recognized),2,UPS (I-VIII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,1,1,2,1,3,4,0,0,0,0,0,0,0,0,12,6,6
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,12,Private Unaided (Recognized),2,UPS (I-VIII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,3,0,0,0,3,1,0,0,0,0,0,0,0,0,7,6,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,12,Private Unaided (Recognized),4,UPS (VI-VIII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,4,2,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,12,Private Unaided (Recognized),1,PS (I-V),4,Graduate,2,Bachelor of Elementary Education (B.El.Ed.),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,12,Private Unaided (Recognized),2,UPS (I-VIII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,12,Private Unaided (Recognized),2,UPS (I-VIII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,12,Private Unaided (Recognized),4,UPS (VI-VIII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,12,Private Unaided (Recognized),1,PS (I-V),4,Graduate,5,Others,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,5,3,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,12,Private Unaided (Recognized),2,UPS (I-VIII),4,Graduate,5,Others,0,0,0,0,9,12,1,1,12,6,0,0,0,0,0,0,0,0,41,22,19
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,12,Private Unaided (Recognized),2,UPS (I-VIII),4,Graduate,5,Others,0,0,0,0,1,4,0,0,2,7,0,0,0,0,0,0,0,0,14,3,11
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,12,Private Unaided (Recognized),4,UPS (VI-VIII),4,Graduate,5,Others,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2,1,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,12,Private Unaided (Recognized),1,PS (I-V),4,Graduate,6,None,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,12,Private Unaided (Recognized),4,UPS (VI-VIII),4,Graduate,6,None,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,3,1,2
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,12,Private Unaided (Recognized),2,UPS (I-VIII),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,3,0,3
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,12,Private Unaided (Recognized),4,UPS (VI-VIII),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,12,Private Unaided (Recognized),4,UPS (VI-VIII),5,Post graduate,2,Bachelor of Elementary Education (B.El.Ed.),0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,12,Private Unaided (Recognized),2,UPS (I-VIII),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,3,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150702,LAWNGTLAI,12,Private Unaided (Recognized),2,UPS (I-VIII),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150703,SANGAU,12,Private Unaided (Recognized),2,UPS (I-VIII),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,12,Private Unaided (Recognized),1,PS (I-V),5,Post graduate,5,Others,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,12,Private Unaided (Recognized),2,UPS (I-VIII),5,Post graduate,5,Others,0,0,0,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,9,5,4
+2019-20,15,Mizoram,1507,LAWNGTLAI,150704,KAMALANAGAR,12,Private Unaided (Recognized),4,UPS (VI-VIII),5,Post graduate,7,Diploma/degree in special education,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,12,Private Unaided (Recognized),1,PS (I-V),6,M.Phil,5,Others,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,17,Private Unaided (Recognized),8,SS (IX-X),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,9,3,0,0,0,0,12,9,3
+2019-20,15,Mizoram,1507,LAWNGTLAI,150701,BUNGTLANG,17,Private Unaided (Recognized),8,SS (IX-X),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,17,Private Unaided (Recognized),11,HSS (XI-XII),5,Post graduate,5,Others,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0
+2019-20,15,Mizoram,1507,LAWNGTLAI,150705,BARAPANSURY,17,Private Unaided (Recognized),11,HSS (XI-XII),5,Post graduate,6,None,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4,4,0

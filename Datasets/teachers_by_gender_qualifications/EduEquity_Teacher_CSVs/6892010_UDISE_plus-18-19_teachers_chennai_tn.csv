@@ -1,0 +1,519 @@
+Academic_Year,State_Code,State_Name,District_Code,District_Name,School_Management_Id,School_Management_Name,School_Category_Id,School_Category_Name,Academic_Qualification_Id,Academic_Qualification_Name,Professional_Qualification_Id,Professional_Qualification_Name,Only_Pre_Primary_Male,Only_Pre_Primary_Female,Pre_Primary_and_Primary_Male,Pre_Primary_and_Primary_Female,Only_Primary_Male,Only_Primary_Female,Primary_and_Upperprimary_Male,Primary_and_Upperprimary_Female,Only_Upperprimary_Male,Only_Upperprimary_Female,Upperprimary_and_Secondary_Male,Upperprimary_and_Secondary_Female,Only_Secondary_Male,Only_Secondary_Female,Secondary_and_Highersecondary_Male,Secondary_and_Highersecondary_Female,Only_Highersecondary_Male,Only_Highersecondary_Female,Total_Teacher,Total_Male,Total_Female
+2018-19,33,Tamilnadu,3302,CHENNAI,8,Unrecognized,2,UPS (I-VIII) ,3,Higher secondary,5,Others,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,0,6,0,6
+2018-19,33,Tamilnadu,3302,CHENNAI,8,Unrecognized,1,PS (I-V) ,4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,8,Unrecognized,2,UPS (I-VIII) ,4,Graduate,5,Others,0,0,0,0,2,3,0,0,0,2,0,0,0,0,0,0,0,0,7,2,5
+2018-19,33,Tamilnadu,3302,CHENNAI,8,Unrecognized,2,UPS (I-VIII) ,4,Graduate,6,None,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,8,Unrecognized,1,PS (I-V) ,4,Graduate,5,Others,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+2018-19,33,Tamilnadu,3302,CHENNAI,8,Unrecognized,2,UPS (I-VIII) ,5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+2018-19,33,Tamilnadu,3302,CHENNAI,8,Unrecognized,1,PS (I-V) ,4,Graduate,6,None,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,9
+2018-19,33,Tamilnadu,3302,CHENNAI,8,Unrecognized,1,PS (I-V) ,3,Higher secondary,6,None,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,8,Unrecognized,2,UPS (I-VIII) ,4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4
+2018-19,33,Tamilnadu,3302,CHENNAI,8,Unrecognized,1,PS (I-V) ,5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,8,Unrecognized,2,UPS (I-VIII) ,4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,3,0,3
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),3,Higher secondary,6,None,0,0,0,0,1,31,1,1,0,1,1,2,0,0,0,0,0,4,42,3,39
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),6, SS (I-X) ,3,Higher secondary,6,None,0,0,0,1,1,5,0,0,0,1,0,0,0,0,0,0,0,0,8,1,7
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),1,PS (I-V) ,4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,4,416,0,0,0,1,0,0,0,0,0,0,0,0,421,4,417
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),2,UPS (I-VIII) ,3,Higher secondary,6,None,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),2,UPS (I-VIII) ,4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,26,0,0,0,3,0,0,0,0,0,0,0,0,29,0,29
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),1,PS (I-V) ,3,Higher secondary,6,None,0,0,0,0,1,89,0,0,0,0,0,0,0,0,0,0,0,0,90,1,89
+2018-19,33,Tamilnadu,3302,CHENNAI,90,Social welfare Department,7,SS (VI-X),5,Post graduate,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,3,0,3
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),8,Post Doctoral,6,None,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,90,Social welfare Department,3,HSS (I-XII),1,Below Secondary,5,Others,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,90,Social welfare Department,5, HSS (VI-XII),4,Graduate,6,None,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),6, SS (I-X) ,8,Post Doctoral,6,None,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,90,Social welfare Department,1,PS (I-V) ,5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,90,Social welfare Department,3,HSS (I-XII),3,Higher secondary,6,None,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2018-19,33,Tamilnadu,3302,CHENNAI,2,Tribal Welfare Department,1,PS (I-V) ,3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,9
+2018-19,33,Tamilnadu,3302,CHENNAI,2,Tribal Welfare Department,1,PS (I-V) ,1,Below Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+2018-19,33,Tamilnadu,3302,CHENNAI,90,Social welfare Department,3,HSS (I-XII),5,Post graduate,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,4,3,1
+2018-19,33,Tamilnadu,3302,CHENNAI,90,Social welfare Department,1,PS (I-V) ,4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,90,Social welfare Department,1,PS (I-V) ,1,Below Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,90,Social welfare Department,3,HSS (I-XII),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,1,6,3,3
+2018-19,33,Tamilnadu,3302,CHENNAI,90,Social welfare Department,5, HSS (VI-XII),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),8,Post Doctoral,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,4,0,4
+2018-19,33,Tamilnadu,3302,CHENNAI,90,Social welfare Department,5, HSS (VI-XII),7,Ph.D,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,3,0,3
+2018-19,33,Tamilnadu,3302,CHENNAI,90,Social welfare Department,1,PS (I-V) ,4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,6
+2018-19,33,Tamilnadu,3302,CHENNAI,90,Social welfare Department,7,SS (VI-X),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,90,Social welfare Department,5, HSS (VI-XII),5,Post graduate,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,3,0,1,0,1,0,0,2,3,10,2,8
+2018-19,33,Tamilnadu,3302,CHENNAI,90,Social welfare Department,5, HSS (VI-XII),6,M.Phil,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,2,0,4,3,1
+2018-19,33,Tamilnadu,3302,CHENNAI,90,Social welfare Department,1,PS (I-V) ,3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,90,Social welfare Department,7,SS (VI-X),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,90,Social welfare Department,7,SS (VI-X),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,8,0,1,3,3,0,0,0,0,15,3,12
+2018-19,33,Tamilnadu,3302,CHENNAI,90,Social welfare Department,7,SS (VI-X),6,M.Phil,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0,0,0,4,1,3
+2018-19,33,Tamilnadu,3302,CHENNAI,90,Social welfare Department,5, HSS (VI-XII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2018-19,33,Tamilnadu,3302,CHENNAI,90,Social welfare Department,1,PS (I-V) ,5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),6, SS (I-X) ,8,Post Doctoral,5,Others,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,90,Social welfare Department,3,HSS (I-XII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,2,5,1,4
+2018-19,33,Tamilnadu,3302,CHENNAI,90,Social welfare Department,5, HSS (VI-XII),6,M.Phil,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,3,5,2,3
+2018-19,33,Tamilnadu,3302,CHENNAI,90,Social welfare Department,5, HSS (VI-XII),4,Graduate,5,Others,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,90,Social welfare Department,3,HSS (I-XII),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,1,0,5,3,2
+2018-19,33,Tamilnadu,3302,CHENNAI,90,Social welfare Department,5, HSS (VI-XII),5,Post graduate,5,Others,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,90,Social welfare Department,5, HSS (VI-XII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,4,0,1,0,2,0,0,1,1,9,1,8
+2018-19,33,Tamilnadu,3302,CHENNAI,90,Social welfare Department,5, HSS (VI-XII),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,9,0,2,1,2,0,0,5,4,23,6,17
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),8,Post Doctoral,5,Others,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,90,Social welfare Department,1,PS (I-V) ,5,Post graduate,4,M.Ed. or equivalent,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),5, HSS (VI-XII),1,Below Secondary,6,None,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),1,PS (I-V) ,2,Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),2,UPS (I-VIII) ,1,Below Secondary,5,Others,0,0,0,0,0,2,0,0,1,1,0,0,0,0,0,0,0,0,4,1,3
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),6, SS (I-X) ,1,Below Secondary,6,None,0,0,0,0,0,13,0,1,0,3,0,0,0,0,0,0,0,0,17,0,17
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),1,PS (I-V) ,1,Below Secondary,5,Others,0,0,0,0,1,112,0,0,0,0,0,0,0,0,0,0,0,0,113,1,112
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),1,Below Secondary,5,Others,0,3,0,2,4,82,1,4,1,5,0,2,0,0,0,2,4,5,115,10,105
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),1,PS (I-V) ,1,Below Secondary,6,None,0,0,0,0,5,35,0,0,0,0,0,0,0,0,0,0,0,0,40,5,35
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),6, SS (I-X) ,1,Below Secondary,5,Others,0,0,0,0,3,27,1,0,1,2,0,0,0,0,0,0,0,0,34,5,29
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),1,Below Secondary,6,None,0,0,0,0,3,25,0,0,8,0,0,0,0,0,0,1,0,0,37,11,26
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),2,UPS (I-VIII) ,1,Below Secondary,6,None,0,0,0,0,1,2,0,0,1,1,0,0,0,0,0,0,0,0,5,2,3
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),1,PS (I-V) ,5,Post graduate,4,M.Ed. or equivalent,0,0,0,0,2,24,0,0,0,0,0,0,0,0,0,0,0,0,26,2,24
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,1,PS (I-V) ,5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,6,88,0,0,0,0,0,0,0,0,0,0,0,0,94,6,88
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,6, SS (I-X) ,5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,4,2,2
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,5, HSS (VI-XII),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,2,15,0,4,0,0,0,1,1,5,28,3,25
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,5, HSS (VI-XII),4,Graduate,5,Others,0,0,0,0,0,0,0,0,8,9,3,5,1,1,3,4,4,7,45,19,26
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,3,HSS (I-XII),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,8,0,2,0,2,0,0,0,2,0,1,0,0,15,0,15
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,7,SS (VI-X),4,Graduate,6,None,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,3,HSS (I-XII),5,Post graduate,3,B.Ed. or equivalent,1,6,0,0,2,23,3,10,8,19,18,95,1,11,10,30,14,79,330,57,273
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,8,SS (IX-X),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,5,0,5
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,1,PS (I-V) ,4,Graduate,6,None,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,7,SS (VI-X),4,Graduate,5,Others,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,0,0,0,4,1,3
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,2,UPS (I-VIII) ,5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,2,46,1,11,10,100,0,0,0,0,0,0,0,0,170,13,157
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,3,HSS (I-XII),4,Graduate,6,None,0,1,0,0,1,3,0,0,0,1,0,1,1,0,0,0,0,0,8,2,6
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,7,SS (VI-X),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,2,23,4,15,7,23,0,0,0,0,74,13,61
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,2,UPS (I-VIII) ,5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,4,14,0,1,0,1,0,0,0,0,0,0,0,0,20,4,16
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,5, HSS (VI-XII),4,Graduate,6,None,0,0,0,0,0,0,0,0,3,5,2,0,1,0,0,0,1,1,13,7,6
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,5, HSS (VI-XII),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,45,150,104,230,34,52,38,103,118,217,1091,339,752
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,7,SS (VI-X),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,3,5,0,3,0,2,0,0,0,0,13,3,10
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),7,SS (VI-X),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),6, SS (I-X) ,3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,1,37,0,1,0,4,0,0,0,0,0,0,0,0,43,1,42
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),1,PS (I-V) ,3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,2,171,0,0,0,0,0,0,0,0,0,0,0,0,173,2,171
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,9,0,1,2,112,0,0,1,9,0,3,0,0,0,0,0,4,141,3,138
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),1,PS (I-V) ,2,Secondary,5,Others,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),2,UPS (I-VIII) ,3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,7
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,5, HSS (VI-XII),6,M.Phil,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,5,31,8,18,5,14,0,0,15,58,154,33,121
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,5, HSS (VI-XII),6,M.Phil,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,3,10,2,16,0,2,1,0,9,38,81,15,66
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,7,SS (VI-X),6,M.Phil,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,4,0,1,1,2,0,0,0,0,8,1,7
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,7,SS (VI-X),6,M.Phil,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,3,0,3
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,3,HSS (I-XII),6,M.Phil,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,7,2,7,2,6,0,0,3,7,34,7,27
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,3,HSS (I-XII),6,M.Phil,6,None,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,3,HSS (I-XII),6,M.Phil,4,M.Ed. or equivalent,0,0,0,0,2,2,0,0,2,1,2,9,0,1,0,0,3,9,31,9,22
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,7,SS (VI-X),1,Below Secondary,6,None,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,5, HSS (VI-XII),7,Ph.D,5,Others,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,5, HSS (VI-XII),7,Ph.D,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,3,1,2
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,5, HSS (VI-XII),7,Ph.D,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,1
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,2,UPS (I-VIII) ,1,Below Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,23,0,2,0,5,0,0,0,0,0,0,0,0,30,0,30
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,3,HSS (I-XII),1,Below Secondary,5,Others,0,2,0,0,0,4,0,1,0,0,1,0,0,0,0,0,0,0,8,1,7
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,5, HSS (VI-XII),1,Below Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,2,5,1,0,1,0,0,0,2,3,14,6,8
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,5, HSS (VI-XII),1,Below Secondary,5,Others,0,0,0,0,0,0,0,0,2,10,3,0,1,2,2,2,2,2,26,10,16
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,5, HSS (VI-XII),1,Below Secondary,6,None,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,3,2,1
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,2,UPS (I-VIII) ,1,Below Secondary,3,B.Ed. or equivalent,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,3,1,2
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,6, SS (I-X) ,1,Below Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,5, HSS (VI-XII),1,Below Secondary,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,2,1,1,1,0,0,0,1,1,1,8,4,4
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,1,PS (I-V) ,1,Below Secondary,6,None,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,3,HSS (I-XII),1,Below Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,7,0,2,1,3,0,0,0,1,0,0,0,0,14,1,13
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,1,PS (I-V) ,1,Below Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,52,0,0,0,0,0,0,0,0,0,0,0,0,52,0,52
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,3,HSS (I-XII),1,Below Secondary,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,2,UPS (I-VIII) ,1,Below Secondary,5,Others,0,0,0,0,0,6,0,5,0,4,0,0,0,0,0,0,0,0,15,0,15
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,7,SS (VI-X),1,Below Secondary,5,Others,0,0,0,0,0,0,0,0,0,4,0,1,1,0,0,0,0,0,6,1,5
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,7,SS (VI-X),1,Below Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,3,HSS (I-XII),7,Ph.D,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,1,4,0,4
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,7,SS (VI-X),3,Higher secondary,5,Others,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,3,0,3
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,7,SS (VI-X),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,1,8,0,1,0,0,0,0,0,0,10,1,9
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,3,HSS (I-XII),3,Higher secondary,6,None,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,3,0,3
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,1,PS (I-V) ,3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,20,379,0,0,0,0,0,0,0,0,0,0,0,0,399,20,379
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,5, HSS (VI-XII),3,Higher secondary,5,Others,0,0,0,0,0,0,0,0,11,10,3,3,1,6,3,1,6,3,47,24,23
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,3,HSS (I-XII),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,156,1,21,2,22,0,2,0,1,0,0,0,3,208,3,205
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,5, HSS (VI-XII),3,Higher secondary,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,1,1,3,9,3,6
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,2,UPS (I-VIII) ,2,Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,3,0,3
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,7,SS (VI-X),3,Higher secondary,6,None,0,0,0,0,0,0,0,0,1,3,0,0,1,0,0,0,0,0,5,2,3
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,2,UPS (I-VIII) ,3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,1,149,0,5,2,16,0,0,0,0,0,0,0,0,173,3,170
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,5, HSS (VI-XII),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,10,36,2,5,0,0,0,1,0,6,60,12,48
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,6, SS (I-X) ,3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,2,18,0,12,0,0,1,1,0,0,0,0,0,0,34,3,31
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,5, HSS (VI-XII),3,Higher secondary,6,None,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,1,0,4,3,1
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,2,UPS (I-VIII) ,3,Higher secondary,5,Others,0,0,0,0,1,1,0,2,0,5,0,0,0,0,0,0,0,0,9,1,8
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,2,UPS (I-VIII) ,3,Higher secondary,4,M.Ed. or equivalent,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,4,0,4
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,3,HSS (I-XII),3,Higher secondary,3,B.Ed. or equivalent,0,0,0,0,0,1,0,1,0,5,0,3,0,1,0,0,0,3,14,0,14
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,1,PS (I-V) ,3,Higher secondary,6,None,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,3,HSS (I-XII),3,Higher secondary,5,Others,0,0,0,0,3,4,0,3,3,2,0,0,0,0,0,2,0,3,20,6,14
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,1,PS (I-V) ,3,Higher secondary,5,Others,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,7
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,5, HSS (VI-XII),3,Higher secondary,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,2,0,3,2,0,1,0,2,3,1,14,8,6
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,3,HSS (I-XII),3,Higher secondary,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,1,5,1,4
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,2,UPS (I-VIII) ,3,Higher secondary,3,B.Ed. or equivalent,0,0,0,0,0,7,0,2,0,11,0,0,0,0,0,0,0,0,20,0,20
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,1,PS (I-V) ,3,Higher secondary,3,B.Ed. or equivalent,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,10
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,6, SS (I-X) ,3,Higher secondary,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,2,1,1
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,7,SS (VI-X),3,Higher secondary,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,3,0,3
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,7,SS (VI-X),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,2,11,0,3,1,13,0,0,0,0,30,3,27
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,5, HSS (VI-XII),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,7,111,7,41,4,29,0,2,12,66,279,30,249
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,1,PS (I-V) ,5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,3,HSS (I-XII),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,9,0,0,2,14,0,4,3,13,0,0,2,14,61,7,54
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,5, HSS (VI-XII),3,Higher secondary,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,1,2,0,1,0,1,0,0,1,2,8,2,6
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,2,UPS (I-VIII) ,3,Higher secondary,3,B.Ed. or equivalent,0,0,0,0,1,14,0,0,2,18,0,0,0,0,0,0,0,0,35,3,32
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,7,SS (VI-X),3,Higher secondary,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,2,6,0,0,0,0,0,0,0,0,8,2,6
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,1,PS (I-V) ,3,Higher secondary,3,B.Ed. or equivalent,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,12,0,12
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,1,PS (I-V) ,4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,2,109,0,0,0,0,0,0,0,0,0,0,0,0,111,2,109
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,2,UPS (I-VIII) ,3,Higher secondary,6,None,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,3,1,2
+2018-19,33,Tamilnadu,3302,CHENNAI,92,Kendriya Vidyalaya / Central School,3,HSS (I-XII),6,M.Phil,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,2,UPS (I-VIII) ,3,Higher secondary,4,M.Ed. or equivalent,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,5, HSS (VI-XII),3,Higher secondary,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,1,PS (I-V) ,4,Graduate,3,B.Ed. or equivalent,0,0,0,0,2,76,0,0,0,0,0,0,0,0,0,0,0,0,78,2,76
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,7,SS (VI-X),3,Higher secondary,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,7,SS (VI-X),3,Higher secondary,6,None,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2,1,1
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,2,UPS (I-VIII) ,4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,2,41,0,0,2,8,0,0,0,0,0,0,0,0,53,4,49
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,7,SS (VI-X),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,3,4,0,1,0,0,0,0,0,0,8,3,5
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,1,PS (I-V) ,3,Higher secondary,5,Others,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,5, HSS (VI-XII),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,4,21,0,1,0,0,0,0,0,2,28,4,24
+2018-19,33,Tamilnadu,3302,CHENNAI,92,Kendriya Vidyalaya / Central School,3,HSS (I-XII),5,Post graduate,5,Others,0,0,0,0,0,4,0,0,0,0,2,0,0,0,1,0,0,0,7,3,4
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,5, HSS (VI-XII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,4,12,0,3,0,2,0,1,1,5,28,5,23
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,6, SS (I-X) ,4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,92,Kendriya Vidyalaya / Central School,3,HSS (I-XII),5,Post graduate,4,M.Ed. or equivalent,0,0,0,0,1,3,0,0,0,0,1,3,0,0,0,0,0,0,8,2,6
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,2,UPS (I-VIII) ,3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,2,71,0,0,3,13,0,0,0,0,0,0,0,0,89,5,84
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,2,UPS (I-VIII) ,3,Higher secondary,5,Others,0,0,0,0,0,6,0,0,0,2,0,0,0,0,0,0,0,0,8,0,8
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,5, HSS (VI-XII),3,Higher secondary,6,None,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2,0
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,1,PS (I-V) ,1,Below Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,1,51,0,0,0,0,0,0,0,0,0,0,0,0,52,1,51
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,7,SS (VI-X),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,0,8,1,0,0,5,0,0,0,0,14,1,13
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,5, HSS (VI-XII),3,Higher secondary,5,Others,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,4,2,2
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,1,PS (I-V) ,3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,13,202,0,0,0,0,0,0,0,0,0,0,0,0,215,13,202
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,7,SS (VI-X),3,Higher secondary,5,Others,0,0,0,0,0,0,0,0,0,5,3,0,0,2,0,0,0,0,10,3,7
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,1,PS (I-V) ,1,Below Secondary,6,None,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,2,UPS (I-VIII) ,1,Below Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,12,0,0,0,3,0,0,0,0,0,0,0,0,15,0,15
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,5, HSS (VI-XII),1,Below Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,7,SS (VI-X),1,Below Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,3,0,3
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,7,SS (VI-X),1,Below Secondary,6,None,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,0,0,4,1,3
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,2,UPS (I-VIII) ,1,Below Secondary,3,B.Ed. or equivalent,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,4,1,3
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,5, HSS (VI-XII),1,Below Secondary,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,7,SS (VI-X),1,Below Secondary,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,3,1,2
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,5, HSS (VI-XII),1,Below Secondary,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,7,SS (VI-X),1,Below Secondary,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,1,PS (I-V) ,3,Higher secondary,6,None,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,1,PS (I-V) ,1,Below Secondary,5,Others,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,2,UPS (I-VIII) ,1,Below Secondary,5,Others,0,0,0,0,0,9,0,0,0,2,0,0,0,0,0,0,0,0,11,0,11
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,5, HSS (VI-XII),1,Below Secondary,6,None,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,2,0,0,4,1,3
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,2,UPS (I-VIII) ,1,Below Secondary,6,None,0,0,0,0,0,2,0,0,3,1,0,0,0,0,0,0,0,0,6,3,3
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,5, HSS (VI-XII),1,Below Secondary,5,Others,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,1,0,0,4,0,4
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,7,SS (VI-X),1,Below Secondary,5,Others,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,0,0,4,1,3
+2018-19,33,Tamilnadu,3302,CHENNAI,92,Kendriya Vidyalaya / Central School,3,HSS (I-XII),5,Post graduate,6,None,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,1,5,2,3
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),5, HSS (VI-XII),5,Post graduate,5,Others,0,0,0,0,0,0,0,0,2,0,1,2,0,0,0,0,0,3,8,3,5
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),7,SS (VI-X),5,Post graduate,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),7,SS (VI-X),5,Post graduate,5,Others,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),6, SS (I-X) ,5,Post graduate,5,Others,0,0,0,0,1,149,2,8,1,40,1,12,1,12,0,0,0,0,227,6,221
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),5,Post graduate,6,None,0,2,0,0,12,263,2,7,4,31,26,63,0,0,2,6,3,21,442,49,393
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),11,HSS (XI-XII),5,Post graduate,5,Others,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,3
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),2,UPS (I-VIII) ,5,Post graduate,5,Others,0,0,0,0,0,5,0,0,0,7,0,0,0,0,0,0,0,0,12,0,12
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),5,Post graduate,5,Others,0,6,0,1,7,422,2,24,2,46,20,78,0,1,5,11,7,28,660,43,617
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),2,UPS (I-VIII) ,5,Post graduate,6,None,0,0,0,0,0,8,0,0,0,4,0,0,0,0,0,0,0,0,12,0,12
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),1,PS (I-V) ,5,Post graduate,5,Others,0,0,0,0,8,262,0,0,0,1,0,0,0,0,0,0,0,0,271,8,263
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),11,HSS (XI-XII),5,Post graduate,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4,1,3
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),5, HSS (VI-XII),5,Post graduate,6,None,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),1,PS (I-V) ,5,Post graduate,6,None,0,0,0,0,9,95,0,0,0,0,0,0,0,0,0,0,0,0,104,9,95
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,3,HSS (I-XII),4,Graduate,5,Others,0,0,0,0,2,2,0,0,1,2,1,0,0,0,0,2,1,0,11,5,6
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,7,SS (VI-X),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,5,17,0,21,6,31,0,0,0,0,80,11,69
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,2,UPS (I-VIII) ,4,Graduate,4,M.Ed. or equivalent,0,0,0,0,0,3,0,1,0,9,0,0,0,0,0,0,0,0,13,0,13
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,6, SS (I-X) ,4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,2,1,1,0,6,1,5,2,16,0,0,0,0,34,4,30
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,7,SS (VI-X),4,Graduate,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,1,0,0,0,2,1,0,0,0,0,4,3,1
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,2,UPS (I-VIII) ,4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,1,31,0,0,1,9,0,0,0,0,0,0,0,0,42,2,40
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,7,SS (VI-X),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,0,11,0,1,0,1,0,0,0,0,13,0,13
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,3,HSS (I-XII),4,Graduate,4,M.Ed. or equivalent,0,1,0,0,0,2,0,0,0,1,1,5,1,3,0,2,1,3,20,3,17
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,8,SS (IX-X),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,1,PS (I-V) ,4,Graduate,4,M.Ed. or equivalent,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,3,1,2
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,6, SS (I-X) ,4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,5,0,5
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,5, HSS (VI-XII),4,Graduate,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,4,8,5,1,7,3,1,0,3,11,43,20,23
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,1,PS (I-V) ,4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,7,141,0,0,0,0,0,0,0,0,0,0,0,0,148,7,141
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,6, SS (I-X) ,4,Graduate,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,1,PS (I-V) ,4,Graduate,3,B.Ed. or equivalent,0,0,0,0,7,75,0,0,0,0,0,0,0,0,0,0,0,0,82,7,75
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,2,UPS (I-VIII) ,4,Graduate,5,Others,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2,1,1
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,5, HSS (VI-XII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,38,118,22,55,27,37,14,23,32,94,460,133,327
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,8,SS (IX-X),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,5, HSS (VI-XII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,5,36,0,2,0,2,0,3,1,4,53,6,47
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,3,HSS (I-XII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,1,24,1,1,1,1,0,1,0,0,0,2,0,2,34,3,31
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,2,UPS (I-VIII) ,4,Graduate,3,B.Ed. or equivalent,0,0,0,0,2,13,3,6,3,56,0,0,0,0,0,0,0,0,83,8,75
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,3,HSS (I-XII),4,Graduate,3,B.Ed. or equivalent,0,1,0,0,5,29,1,13,14,68,5,38,1,12,1,21,6,34,249,33,216
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,10,HSS (IX-XII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,7,SS (VI-X),4,Graduate,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,4,2,2
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,7,SS (VI-X),6,M.Phil,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,2,1,0,0,1,8,0,0,0,0,12,3,9
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,7,SS (VI-X),6,M.Phil,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,4,9,0,2,6,22,0,0,0,0,43,10,33
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,5, HSS (VI-XII),7,Ph.D,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,3,2,3,1,0,1,0,0,1,1,12,7,5
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,5, HSS (VI-XII),6,M.Phil,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,15,52,11,21,1,19,0,2,15,41,177,42,135
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,2,UPS (I-VIII) ,6,M.Phil,4,M.Ed. or equivalent,0,0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,0,7,4,3
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,5, HSS (VI-XII),6,M.Phil,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,7,SS (VI-X),4,Graduate,5,Others,0,0,0,0,0,0,0,0,2,4,0,2,0,0,0,0,0,0,8,2,6
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,7,SS (VI-X),5,Post graduate,5,Others,0,0,0,0,0,0,0,0,1,3,0,0,1,2,0,0,0,0,7,2,5
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,5, HSS (VI-XII),6,M.Phil,6,None,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,3,0,3
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,2,UPS (I-VIII) ,5,Post graduate,6,None,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,3,0,3
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,2,UPS (I-VIII) ,5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,16,0,0,0,7,0,0,0,0,0,0,0,0,23,0,23
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,2,UPS (I-VIII) ,4,Graduate,6,None,0,0,0,0,0,1,0,1,0,2,0,0,0,0,0,0,0,0,4,0,4
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,7,SS (VI-X),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,1,7,0,0,1,2,0,0,0,0,11,2,9
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,5, HSS (VI-XII),7,Ph.D,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,1,5,2,3
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,2,UPS (I-VIII) ,5,Post graduate,4,M.Ed. or equivalent,0,0,0,0,0,1,0,0,0,12,0,0,0,0,0,0,0,0,13,0,13
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,5, HSS (VI-XII),5,Post graduate,6,None,0,0,0,0,0,0,0,0,1,3,1,0,0,0,0,3,0,0,8,2,6
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,5, HSS (VI-XII),4,Graduate,6,None,0,0,0,0,0,0,0,0,1,3,0,1,1,0,1,0,0,3,10,3,7
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,1,PS (I-V) ,5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,3,51,0,0,0,0,0,0,0,0,0,0,0,0,54,3,51
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,1,PS (I-V) ,4,Graduate,5,Others,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,16,0,16
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,7,SS (VI-X),7,Ph.D,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,5, HSS (VI-XII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,11,60,2,4,3,21,2,2,7,39,151,25,126
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,7,SS (VI-X),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,13,83,2,18,15,134,0,0,0,0,265,30,235
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,2,UPS (I-VIII) ,5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,3,104,0,1,15,135,0,0,0,0,0,0,0,0,258,18,240
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,7,SS (VI-X),4,Graduate,6,None,0,0,0,0,0,0,0,0,1,8,0,0,0,0,0,0,0,0,9,1,8
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,6, SS (I-X) ,5,Post graduate,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,7,SS (VI-X),6,M.Phil,5,Others,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,7,SS (VI-X),5,Post graduate,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,3,8,1,0,2,19,0,0,0,0,33,6,27
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,2,UPS (I-VIII) ,4,Graduate,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,5,2,3
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,2,UPS (I-VIII) ,4,Graduate,5,Others,0,0,0,0,1,4,0,0,1,4,0,0,0,0,0,0,0,0,10,2,8
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,2,UPS (I-VIII) ,4,Graduate,3,B.Ed. or equivalent,0,0,0,0,4,36,0,2,4,39,0,0,0,0,0,0,0,0,85,8,77
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,1,PS (I-V) ,4,Graduate,4,M.Ed. or equivalent,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,1,PS (I-V) ,4,Graduate,6,None,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,6, SS (I-X) ,5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,7,SS (VI-X),5,Post graduate,6,None,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,5, HSS (VI-XII),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,39,264,14,49,4,81,0,5,30,191,677,87,590
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,2,UPS (I-VIII) ,6,M.Phil,3,B.Ed. or equivalent,0,0,0,0,0,4,0,0,0,12,0,0,0,0,0,0,0,0,16,0,16
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,7,SS (VI-X),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,5,24,1,1,4,35,0,0,0,0,70,10,60
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,1,PS (I-V) ,5,Post graduate,4,M.Ed. or equivalent,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,6, SS (I-X) ,4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,1,PS (I-V) ,5,Post graduate,5,Others,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,2,UPS (I-VIII) ,6,M.Phil,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,1,PS (I-V) ,6,M.Phil,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,5, HSS (VI-XII),5,Post graduate,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,5,25,12,5,2,11,0,0,3,25,88,22,66
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,1,PS (I-V) ,5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,6,181,0,0,0,0,0,0,0,0,0,0,0,0,187,6,181
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,5, HSS (VI-XII),6,M.Phil,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,6,21,6,8,2,4,1,0,4,19,71,19,52
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,2,UPS (I-VIII) ,5,Post graduate,5,Others,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,5, HSS (VI-XII),4,Graduate,5,Others,0,0,0,0,0,0,0,0,2,7,1,0,0,2,0,4,1,3,20,4,16
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,5, HSS (VI-XII),4,Graduate,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,3,7,2,5
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,5, HSS (VI-XII),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,1,13,0,0,0,1,0,0,0,2,17,1,16
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,5, HSS (VI-XII),5,Post graduate,5,Others,0,0,0,0,0,0,0,0,2,3,1,1,0,1,0,1,0,0,9,3,6
+2018-19,33,Tamilnadu,3302,CHENNAI,3,Local body,1,PS (I-V) ,6,M.Phil,3,B.Ed. or equivalent,0,0,0,0,2,7,0,0,0,0,0,0,0,0,0,0,0,0,9,2,7
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,1,PS (I-V) ,4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,7,SS (VI-X),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),2,UPS (I-VIII) ,1,Below Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),6, SS (I-X) ,1,Below Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,8,0,1,0,4,0,0,0,0,0,0,0,0,13,0,13
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,7,SS (VI-X),1,Below Secondary,6,None,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,3,HSS (I-XII),5,Post graduate,6,None,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,2,UPS (I-VIII) ,1,Below Secondary,5,Others,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,2,UPS (I-VIII) ,1,Below Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,1,PS (I-V) ,5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),6, SS (I-X) ,1,Below Secondary,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,3,HSS (I-XII),4,Graduate,5,Others,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,7,SS (VI-X),4,Graduate,5,Others,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,2,UPS (I-VIII) ,4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,1,PS (I-V) ,3,Higher secondary,5,Others,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),1,Below Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,11,0,1,0,2,0,0,0,0,0,0,0,0,14,0,14
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,7,SS (VI-X),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),1,PS (I-V) ,1,Below Secondary,3,B.Ed. or equivalent,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,1,PS (I-V) ,4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),1,Below Secondary,3,B.Ed. or equivalent,0,0,0,0,0,4,0,0,1,5,0,3,0,0,0,0,1,2,16,2,14
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,7,SS (VI-X),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,2,UPS (I-VIII) ,6,M.Phil,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,2,UPS (I-VIII) ,3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,2,UPS (I-VIII) ,4,Graduate,5,Others,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,8
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,7,SS (VI-X),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,2,UPS (I-VIII) ,3,Higher secondary,5,Others,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,3,HSS (I-XII),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,5,0,5
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,1,PS (I-V) ,1,Below Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,3,HSS (I-XII),3,Higher secondary,6,None,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,7,SS (VI-X),6,M.Phil,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,1,PS (I-V) ,3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,2,UPS (I-VIII) ,5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,1,0,0,0,1,2,1,0,0,0,0,0,0,0,5,3,2
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,1,PS (I-V) ,4,Graduate,5,Others,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,2,UPS (I-VIII) ,4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,6,1,5
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,1,PS (I-V) ,5,Post graduate,6,None,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,2,UPS (I-VIII) ,5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,1,PS (I-V) ,4,Graduate,4,M.Ed. or equivalent,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,2,UPS (I-VIII) ,5,Post graduate,5,Others,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,3,HSS (I-XII),1,Below Secondary,5,Others,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,6, SS (I-X) ,5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,3,HSS (I-XII),5,Post graduate,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,3,HSS (I-XII),4,Graduate,6,None,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,3,HSS (I-XII),6,M.Phil,3,B.Ed. or equivalent,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),1,PS (I-V) ,1,Below Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,2,23,0,0,0,0,0,0,0,0,0,0,0,0,25,2,23
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,1,PS (I-V) ,6,M.Phil,3,B.Ed. or equivalent,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,6,Other Govt. managed schools,3,HSS (I-XII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,3,0,3
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),5, HSS (VI-XII),1,Below Secondary,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),1,PS (I-V) ,3,Higher secondary,3,B.Ed. or equivalent,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,4,1,3
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),6, SS (I-X) ,1,Below Secondary,4,M.Ed. or equivalent,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,5, HSS (VI-XII),5,Post graduate,6,None,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,3,2,1
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,3,HSS (I-XII),5,Post graduate,5,Others,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,3,2,1
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,5, HSS (VI-XII),5,Post graduate,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,17,4,10,0,13,0,0,9,25,78,13,65
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,5, HSS (VI-XII),5,Post graduate,5,Others,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,1,1,5,1,4
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,3,HSS (I-XII),5,Post graduate,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,3,1,2,0,4,0,0,1,2,13,2,11
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,7,SS (VI-X),5,Post graduate,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,1,0,0,0,1,4,0,0,0,0,6,2,4
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,7,SS (VI-X),5,Post graduate,5,Others,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,3,HSS (I-XII),5,Post graduate,6,None,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),5, HSS (VI-XII),5,Post graduate,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,5,2,0,0,0,1,0,1,0,9,4,5
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),5,Post graduate,4,M.Ed. or equivalent,0,0,0,0,26,195,9,34,13,109,60,135,1,0,32,16,18,71,719,159,560
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),11,HSS (XI-XII),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,49,68,19,49
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),2,UPS (I-VIII) ,5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,1,35,3,5,2,42,0,2,1,0,0,0,0,0,91,7,84
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),6, SS (I-X) ,5,Post graduate,4,M.Ed. or equivalent,0,0,0,0,3,46,0,0,3,12,2,8,4,11,3,1,0,0,93,15,78
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),5, HSS (VI-XII),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,9,37,17,48,0,1,0,1,6,13,132,32,100
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),5,Post graduate,3,B.Ed. or equivalent,1,4,0,3,103,1964,17,167,70,731,316,1249,10,54,33,82,91,391,5286,641,4645
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),1,PS (I-V) ,5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,16,295,0,0,0,6,0,0,0,0,0,0,0,0,317,16,301
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),7,SS (VI-X),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,3,9,2,8,0,0,0,0,0,0,22,5,17
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),2,UPS (I-VIII) ,5,Post graduate,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),6, SS (I-X) ,5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,20,274,2,17,16,226,15,84,16,55,1,2,0,3,731,70,661
+2018-19,33,Tamilnadu,3302,CHENNAI,8,Unrecognized,1,PS (I-V) ,6,M.Phil,3,B.Ed. or equivalent,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),6, SS (I-X) ,3,Higher secondary,3,B.Ed. or equivalent,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,8,Unrecognized,1,PS (I-V) ,6,M.Phil,6,None,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,8,Unrecognized,2,UPS (I-VIII) ,5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,7,0,0,2,2,0,0,0,0,0,0,0,0,11,2,9
+2018-19,33,Tamilnadu,3302,CHENNAI,8,Unrecognized,2,UPS (I-VIII) ,5,Post graduate,4,M.Ed. or equivalent,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,8,Unrecognized,1,PS (I-V) ,5,Post graduate,5,Others,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,8,Unrecognized,2,UPS (I-VIII) ,5,Post graduate,6,None,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,8,Unrecognized,2,UPS (I-VIII) ,5,Post graduate,5,Others,0,0,0,0,1,4,0,1,0,0,0,0,0,0,0,0,0,0,6,1,5
+2018-19,33,Tamilnadu,3302,CHENNAI,8,Unrecognized,2,UPS (I-VIII) ,6,M.Phil,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),6, SS (I-X) ,6,M.Phil,6,None,0,0,0,0,0,4,0,0,0,0,0,3,1,1,0,0,0,0,9,1,8
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,1,PS (I-V) ,5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,16,100,0,0,0,0,0,0,0,0,0,0,0,0,116,16,100
+2018-19,33,Tamilnadu,3302,CHENNAI,8,Unrecognized,1,PS (I-V) ,5,Post graduate,6,None,0,0,0,0,1,9,0,0,0,0,0,0,0,0,0,0,0,0,10,1,9
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,11,0,0,8,446,2,6,4,84,1,6,0,1,1,1,2,12,585,18,567
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),4,Graduate,3,B.Ed. or equivalent,0,6,0,4,47,1686,7,86,77,660,13,130,3,31,7,10,25,163,2955,179,2776
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),6, SS (I-X) ,4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,1,0,0,2,200,0,1,2,33,0,0,0,9,0,0,0,0,248,4,244
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),1,PS (I-V) ,4,Graduate,3,B.Ed. or equivalent,0,0,0,0,8,452,0,0,0,2,0,0,0,0,0,0,0,0,462,8,454
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),5, HSS (VI-XII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),2,UPS (I-VIII) ,4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,24,0,10,1,22,0,1,0,0,0,0,0,0,58,1,57
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),7,SS (VI-X),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),5, HSS (VI-XII),6,M.Phil,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),6, SS (I-X) ,6,M.Phil,5,Others,0,0,0,0,1,7,0,0,0,6,0,1,0,1,0,0,0,0,16,1,15
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),2,UPS (I-VIII) ,6,M.Phil,5,Others,0,0,0,0,0,2,0,1,0,0,0,1,0,0,0,0,0,0,4,0,4
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),7,Ph.D,4,M.Ed. or equivalent,0,0,0,0,1,4,0,1,0,0,4,5,0,0,1,0,1,1,18,7,11
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),2,UPS (I-VIII) ,7,Ph.D,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),6, SS (I-X) ,6,M.Phil,4,M.Ed. or equivalent,0,0,0,0,0,4,0,0,0,6,1,3,2,1,0,0,0,0,17,3,14
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),6, SS (I-X) ,7,Ph.D,4,M.Ed. or equivalent,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,1
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),7,Ph.D,6,None,0,0,0,0,0,0,0,0,0,0,2,2,0,0,1,0,0,1,6,3,3
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),6,M.Phil,6,None,0,0,0,0,4,33,0,4,2,8,3,15,0,1,1,0,1,3,75,11,64
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),7,Ph.D,3,B.Ed. or equivalent,1,0,0,0,2,10,0,0,1,4,5,11,0,0,0,3,2,1,40,11,29
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),1,PS (I-V) ,8,Post Doctoral,3,B.Ed. or equivalent,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),1,PS (I-V) ,6,M.Phil,6,None,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),5, HSS (VI-XII),6,M.Phil,5,Others,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,1,1
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),7,SS (VI-X),6,M.Phil,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),8,Post Doctoral,3,B.Ed. or equivalent,0,0,0,0,0,2,0,0,0,1,0,3,0,0,0,0,1,0,7,1,6
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),5, HSS (VI-XII),7,Ph.D,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),5, HSS (VI-XII),6,M.Phil,6,None,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),6, SS (I-X) ,7,Ph.D,5,Others,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),6,M.Phil,5,Others,0,0,0,0,3,31,1,4,4,9,2,15,0,0,0,3,0,1,73,10,63
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),6, SS (I-X) ,7,Ph.D,3,B.Ed. or equivalent,0,0,0,0,0,1,0,0,2,3,0,0,0,0,0,0,0,0,6,2,4
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),1,PS (I-V) ,7,Ph.D,4,M.Ed. or equivalent,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),11,HSS (XI-XII),6,M.Phil,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,1,2
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),11,HSS (XI-XII),6,M.Phil,6,None,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,1
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),7,Ph.D,5,Others,0,0,0,0,0,9,1,0,1,2,1,2,0,0,1,0,0,0,17,4,13
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),6, SS (I-X) ,4,Graduate,6,None,0,1,0,0,5,106,5,4,2,53,1,5,1,9,0,0,0,1,193,14,179
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),5, HSS (VI-XII),4,Graduate,6,None,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,3,1,2
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),1,PS (I-V) ,4,Graduate,6,None,0,0,0,0,9,340,0,0,0,0,0,0,0,0,0,0,0,0,349,9,340
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),7,SS (VI-X),4,Graduate,5,Others,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),2,UPS (I-VIII) ,4,Graduate,6,None,0,0,0,0,1,13,0,0,1,8,0,0,0,0,0,0,0,0,23,2,21
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),6, SS (I-X) ,4,Graduate,5,Others,0,2,0,0,5,282,4,13,10,90,3,8,4,9,0,0,0,0,430,26,404
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),4,Graduate,6,None,0,3,0,1,27,411,14,7,21,78,2,28,0,0,2,6,8,27,635,74,561
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),4,Graduate,4,M.Ed. or equivalent,0,0,0,0,5,51,3,1,28,39,9,8,0,0,3,3,2,11,163,50,113
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),5, HSS (VI-XII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,8,42,2,5,0,0,0,0,1,3,61,11,50
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),6, SS (I-X) ,4,Graduate,3,B.Ed. or equivalent,0,1,0,0,9,288,1,24,22,273,0,5,2,33,0,1,0,4,663,34,629
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),5, HSS (VI-XII),4,Graduate,5,Others,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,1,0,4,1,3
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),6, SS (I-X) ,4,Graduate,4,M.Ed. or equivalent,0,0,0,0,0,2,0,0,3,4,1,0,0,2,0,0,0,0,12,4,8
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),2,UPS (I-VIII) ,4,Graduate,5,Others,0,1,0,0,2,36,0,2,2,15,0,0,0,1,0,0,0,0,59,4,55
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),7,SS (VI-X),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,2,8,1,4,0,0,0,0,0,0,15,3,12
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),11,HSS (XI-XII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),1,PS (I-V) ,4,Graduate,5,Others,0,0,0,0,21,815,0,0,0,0,0,0,0,0,0,0,0,0,836,21,815
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),4,Graduate,5,Others,0,18,0,5,29,822,17,19,20,122,4,21,1,1,4,10,15,50,1158,90,1068
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),5, HSS (VI-XII),4,Graduate,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2,6,2,4
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),1,PS (I-V) ,4,Graduate,4,M.Ed. or equivalent,0,0,0,0,1,11,0,0,0,1,0,0,0,0,0,0,0,0,13,1,12
+2018-19,33,Tamilnadu,3302,CHENNAI,8,Unrecognized,2,UPS (I-VIII) ,1,Below Secondary,6,None,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2,0
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),2,UPS (I-VIII) ,6,M.Phil,3,B.Ed. or equivalent,0,0,0,0,0,1,0,1,1,5,0,2,0,0,0,0,0,0,10,1,9
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),6,M.Phil,3,B.Ed. or equivalent,0,0,0,0,29,209,4,21,7,91,63,216,2,5,4,7,19,59,736,128,608
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),6, SS (I-X) ,6,M.Phil,3,B.Ed. or equivalent,0,0,0,0,0,18,0,1,0,16,1,13,3,10,0,0,0,0,62,4,58
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),5, HSS (VI-XII),6,M.Phil,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),6, SS (I-X) ,6,M.Phil,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),11,HSS (XI-XII),5,Post graduate,6,None,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,0,5
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),6,M.Phil,4,M.Ed. or equivalent,0,0,0,0,8,36,3,4,4,11,33,63,0,2,12,8,5,12,201,65,136
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),1,PS (I-V) ,6,M.Phil,3,B.Ed. or equivalent,0,0,0,0,1,23,0,0,0,0,0,0,0,0,0,0,0,0,24,1,23
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),1,PS (I-V) ,6,M.Phil,4,M.Ed. or equivalent,0,0,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,5,3,2
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),1,PS (I-V) ,6,M.Phil,5,Others,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,9
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),5, HSS (VI-XII),6,M.Phil,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,4,2,5,0,0,0,0,2,1,14,4,10
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),11,HSS (XI-XII),6,M.Phil,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,7,3,4
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),1,PS (I-V) ,6,M.Phil,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,6
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),2,UPS (I-VIII) ,6,M.Phil,4,M.Ed. or equivalent,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),7,SS (VI-X),6,M.Phil,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),2,UPS (I-VIII) ,6,M.Phil,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),6,M.Phil,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,6,1,0,0,0,2,2,0,0,0,0,0,0,11,3,8
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,5, HSS (VI-XII),4,Graduate,6,None,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,3,1,2
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,3,HSS (I-XII),4,Graduate,6,None,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,1,1
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,5, HSS (VI-XII),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,7,0,7
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,3,HSS (I-XII),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,5,2,3
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,5, HSS (VI-XII),3,Higher secondary,5,Others,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,1,2,6,1,5
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,5, HSS (VI-XII),3,Higher secondary,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,0,0,4,1,3
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,5, HSS (VI-XII),3,Higher secondary,6,None,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,3,1,2
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,5, HSS (VI-XII),3,Higher secondary,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,7,SS (VI-X),3,Higher secondary,5,Others,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2,1,1
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,3,HSS (I-XII),3,Higher secondary,5,Others,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,2,1,1
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,7,SS (VI-X),3,Higher secondary,6,None,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,5, HSS (VI-XII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,3,31,3,5,2,7,0,0,0,12,63,8,55
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,5, HSS (VI-XII),4,Graduate,5,Others,0,0,0,0,0,0,0,0,0,6,0,2,0,1,0,1,0,1,11,0,11
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,5, HSS (VI-XII),4,Graduate,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,6,0,0,1,0,0,0,0,1,8,1,7
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,7,SS (VI-X),4,Graduate,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,3,HSS (I-XII),4,Graduate,5,Others,0,0,0,0,0,1,0,0,0,3,1,0,0,2,0,0,0,0,7,1,6
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,3,HSS (I-XII),4,Graduate,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,2,1,1
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,7,SS (VI-X),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,3,1,2
+2018-19,33,Tamilnadu,3302,CHENNAI,92,Kendriya Vidyalaya / Central School,3,HSS (I-XII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,1,8,0,0,0,2,0,0,0,0,0,1,0,0,12,1,11
+2018-19,33,Tamilnadu,3302,CHENNAI,92,Kendriya Vidyalaya / Central School,3,HSS (I-XII),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,3,HSS (I-XII),7,Ph.D,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,5, HSS (VI-XII),7,Ph.D,5,Others,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,92,Kendriya Vidyalaya / Central School,3,HSS (I-XII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,6,3,0,0,0,0,0,0,0,0,0,0,0,0,9,6,3
+2018-19,33,Tamilnadu,3302,CHENNAI,92,Kendriya Vidyalaya / Central School,3,HSS (I-XII),4,Graduate,6,None,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,2,1,1
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,5, HSS (VI-XII),8,Post Doctoral,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,3,3,0
+2018-19,33,Tamilnadu,3302,CHENNAI,92,Kendriya Vidyalaya / Central School,3,HSS (I-XII),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,1,12,0,0,1,2,5,13,0,0,0,0,1,0,35,8,27
+2018-19,33,Tamilnadu,3302,CHENNAI,92,Kendriya Vidyalaya / Central School,3,HSS (I-XII),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,5,4,1
+2018-19,33,Tamilnadu,3302,CHENNAI,92,Kendriya Vidyalaya / Central School,3,HSS (I-XII),3,Higher secondary,3,B.Ed. or equivalent,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,5, HSS (VI-XII),7,Ph.D,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,2,6,0,0,0,0,1,1,10,3,7
+2018-19,33,Tamilnadu,3302,CHENNAI,92,Kendriya Vidyalaya / Central School,3,HSS (I-XII),3,Higher secondary,5,Others,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+2018-19,33,Tamilnadu,3302,CHENNAI,92,Kendriya Vidyalaya / Central School,3,HSS (I-XII),4,Graduate,5,Others,0,0,0,0,4,6,0,0,0,0,0,1,0,0,0,0,1,0,12,5,7
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,1,PS (I-V) ,3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,5, HSS (VI-XII),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,1,6,0,1,0,0,0,0,0,0,8,1,7
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,3,HSS (I-XII),3,Higher secondary,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,3,HSS (I-XII),3,Higher secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,3,0,0,1,1,0,0,0,0,0,0,0,0,5,1,4
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,3,HSS (I-XII),5,Post graduate,5,Others,0,0,0,0,0,2,0,0,0,0,1,2,0,0,0,3,1,1,10,2,8
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,10,HSS (IX-XII),5,Post graduate,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,3,HSS (I-XII),6,M.Phil,6,None,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,5, HSS (VI-XII),6,M.Phil,6,None,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,0,4,2,2
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,5, HSS (VI-XII),6,M.Phil,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,7,5,26,40,5,3,8,7,24,37,162,70,92
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,5, HSS (VI-XII),5,Post graduate,6,None,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,4,8,1,7
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,10,HSS (IX-XII),5,Post graduate,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,5, HSS (VI-XII),5,Post graduate,5,Others,0,0,0,0,0,0,0,0,0,6,1,6,1,1,0,3,1,8,27,3,24
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,2,UPS (I-VIII) ,5,Post graduate,5,Others,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,6, SS (I-X) ,6,M.Phil,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2,0
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,5, HSS (VI-XII),6,M.Phil,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,12,23,55,65,5,13,16,29,28,52,298,116,182
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,2,UPS (I-VIII) ,6,M.Phil,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,1,PS (I-V) ,5,Post graduate,4,M.Ed. or equivalent,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,8
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,3,HSS (I-XII),6,M.Phil,4,M.Ed. or equivalent,0,1,0,0,0,0,0,1,0,0,3,8,0,0,1,3,4,11,32,8,24
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,5, HSS (VI-XII),6,M.Phil,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,1,1
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,7,SS (VI-X),5,Post graduate,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,1,2,2,5,1,3,0,0,0,0,14,4,10
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,7,SS (VI-X),6,M.Phil,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,1,2,2,0,0,0,0,5,2,3
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,7,SS (VI-X),6,M.Phil,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,7,SS (VI-X),6,M.Phil,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,1,1,1,1,5,0,0,0,0,9,2,7
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,10,HSS (IX-XII),6,M.Phil,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,7,SS (VI-X),5,Post graduate,5,Others,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,5, HSS (VI-XII),7,Ph.D,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,2,0,4,2,1,0,2,1,5,3,20,14,6
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,5, HSS (VI-XII),6,M.Phil,5,Others,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,0,0,4,1,3
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,2,UPS (I-VIII) ,5,Post graduate,4,M.Ed. or equivalent,0,0,0,0,1,6,2,7,2,16,0,0,0,0,0,0,0,0,34,5,29
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,3,HSS (I-XII),7,Ph.D,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,1,1
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,3,HSS (I-XII),5,Post graduate,6,None,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,2,1,1
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,2,UPS (I-VIII) ,7,Ph.D,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,3,HSS (I-XII),6,M.Phil,3,B.Ed. or equivalent,0,0,0,0,0,0,0,1,1,1,0,19,1,2,2,8,2,6,43,6,37
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,2,UPS (I-VIII) ,6,M.Phil,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,5,0,5
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,3,HSS (I-XII),5,Post graduate,4,M.Ed. or equivalent,0,2,0,0,3,6,0,0,2,2,6,17,0,2,2,6,9,15,72,22,50
+2018-19,33,Tamilnadu,3302,CHENNAI,4,Government Aided,5, HSS (VI-XII),5,Post graduate,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,13,24,35,44,10,16,8,14,43,52,259,109,150
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,5, HSS (VI-XII),1,Below Secondary,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,5, HSS (VI-XII),1,Below Secondary,6,None,0,0,0,0,0,0,0,0,1,3,1,0,0,0,0,1,0,0,6,2,4
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,7,SS (VI-X),1,Below Secondary,5,Others,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,3,1,2
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,7,SS (VI-X),1,Below Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,5, HSS (VI-XII),1,Below Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,3,HSS (I-XII),1,Below Secondary,5,Others,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,0,0,0,4,3,1
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),6, SS (I-X) ,5,Post graduate,6,None,0,0,0,0,1,45,1,3,1,18,3,11,0,9,0,0,0,0,92,6,86
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,5, HSS (VI-XII),1,Below Secondary,5,Others,0,0,0,0,0,0,0,0,1,2,1,1,0,0,0,1,0,1,7,2,5
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,3,HSS (I-XII),1,Below Secondary,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,3,HSS (I-XII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,1,0,0,5,2,3
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,5, HSS (VI-XII),4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,1,7,0,0,0,0,0,0,0,1,9,1,8
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,1,PS (I-V) ,4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,3,HSS (I-XII),4,Graduate,3,B.Ed. or equivalent,0,0,0,0,0,4,0,0,0,2,0,0,0,5,0,1,0,1,13,0,13
+2018-19,33,Tamilnadu,3302,CHENNAI,1,Department of Education,1,PS (I-V) ,4,Graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),5, HSS (VI-XII),3,Higher secondary,3,B.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,3,1,2
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),5, HSS (VI-XII),3,Higher secondary,4,M.Ed. or equivalent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),6, SS (I-X) ,3,Higher secondary,5,Others,0,1,0,0,3,36,1,0,3,9,0,0,0,3,0,0,0,0,56,7,49
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),3,Higher secondary,3,B.Ed. or equivalent,0,0,0,0,1,8,0,0,1,12,3,5,0,0,0,0,3,6,39,8,31
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),1,PS (I-V) ,3,Higher secondary,5,Others,0,0,0,0,6,243,0,0,0,0,0,0,0,0,0,0,0,0,249,6,243
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),3,Higher secondary,5,Others,0,9,0,2,6,149,1,5,2,9,0,2,0,0,1,0,1,7,194,11,183
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),3,Higher secondary,4,M.Ed. or equivalent,0,0,0,0,1,3,0,0,0,1,0,1,0,0,0,0,1,0,7,2,5
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),2,UPS (I-VIII) ,3,Higher secondary,5,Others,0,0,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,0,7,1,6
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),7,SS (VI-X),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,2
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),2,UPS (I-VIII) ,5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,14,0,0,0,4,0,0,0,0,0,0,0,0,18,0,18
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),1,PS (I-V) ,5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,2,105,0,0,0,0,0,0,0,0,0,0,0,0,107,2,105
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),3,HSS (I-XII),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,2,0,0,2,161,0,7,1,29,3,15,0,0,0,0,0,8,228,6,222
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),5, HSS (VI-XII),5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+2018-19,33,Tamilnadu,3302,CHENNAI,5,Private Unaided (Recognized),6, SS (I-X) ,5,Post graduate,1,Diploma or certificate in basic teachers training of a duration not less than two years,0,0,0,0,1,54,0,2,0,10,0,5,0,2,0,0,0,0,74,1,73
