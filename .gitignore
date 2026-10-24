@@ -1,0 +1,31 @@
+﻿# Raw and processed datasets
+data/raw/
+data/processed/
+Datasets/
+*.csv
+*.xlsx
+*.xls
+*.parquet
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
