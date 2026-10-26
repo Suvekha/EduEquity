@@ -1,19 +1,5 @@
 # EduEquity: Multi-Algorithm District Clustering, Stability Validation & Supervised Forecasting
 
-[![Python 3.9+](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Streamlit 1.50](https://img.shields.io/badge/Streamlit-1.50-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.6+-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-Interactive-3F4F75?style=flat&logo=plotly&logoColor=white)](https://plotly.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
----
-
-## 📌 Project Abstract (Pre-Implementation Proposal)
-
-> **Title:** *EduEquity: A Multi-Algorithm Machine Learning Framework for Educational Equity Assessment, District Cluster Stability, and Chronological Supervised Forecasting*  
-> **Course / Academic Level:** Semester 5 — Machine Learning Lab / Capstone Project  
-> **Author / Investigator:** Academic ML Research Group  
-
 ### Abstract
 Geographical and socio-economic disparities in basic school infrastructure, digital learning access, and teacher allocation pose persistent challenges to educational equity across India's administrative districts. While aggregate state-level metrics often mask acute localized inequalities, machine learning offers a data-driven paradigm to uncover latent district groupings, evaluate structural resilience, and forecast equity outcomes. 
 
